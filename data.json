@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-06-12T15:47:14.725225+00:00",
+  "house": {
+    "indoor_temp": 20.9,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 18.3,
+    "outdoor_humidity": 69.0,
+    "wind_speed": 4.0,
+    "wind_direction": 101.0,
+    "pressure": 1019.8,
+    "rain_today": 1.8,
+    "uv_index": 4.0,
+    "power_usage": 351.0,
+    "gas_consumption": 119.122071395417,
+    "heating_active": false
+  },
+  "locations": {
+    "altrincham": {
+      "temp": 19.0,
+      "conditions": "Partly cloudy"
+    },
+    "overseal": {
+      "temp": 21.0,
+      "conditions": "Partly cloudy"
+    },
+    "llandudno": {
+      "temp": 18.0,
+      "conditions": "Sunny"
+    }
+  },
+  "metrolink": "On Thursday 11th and Friday 12th June The Weeknd plays at Etihad Stadium. Services will be busier than usual so please plan your journey in advance.",
+  "headlines": [
+    "Microsoft has mostly repaired a flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet",
+    "Google fires sueball at alleged Chinese phishers over AI-powered fraud ops",
+    "SpaceX's $75B IPO has investors seeing stars",
+    "Met Police boss threatens to cut 700 frontline jobs after Palantir deal blocked"
+  ],
+  "crew_quote": null
+}

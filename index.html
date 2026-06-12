@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Red Dwarf Mission Status</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="scan-line"></div>
+
+  <div class="dashboard">
+
+    <!-- Header -->
+    <header class="panel panel-header">
+      <h1 class="title-pulse">RED DWARF MISSION STATUS</h1>
+      <div class="header-meta">
+        <span id="header-date" class="header-date">--/--/----</span>
+        <span class="header-sep">//</span>
+        <span id="header-time" class="header-time">--:--:--</span>
+      </div>
+    </header>
+
+    <!-- Main grid -->
+    <div class="grid-main">
+
+      <!-- Ship Status panel -->
+      <section class="panel panel-ship" id="panel-ship">
+        <div class="panel-corner tl"></div>
+        <div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div>
+        <div class="panel-corner br"></div>
+        <h2 class="panel-title">&gt; SHIP DIAGNOSTIC</h2>
+        <div class="ship-grid" id="ship-grid">
+          <div class="ship-item" data-key="indoor_temp">
+            <span class="ship-label">INDOOR TEMP</span>
+            <span class="ship-value" id="ship-indoor_temp">--</span>
+          </div>
+          <div class="ship-item" data-key="indoor_humidity">
+            <span class="ship-label">INDOOR HUM</span>
+            <span class="ship-value" id="ship-indoor_humidity">--</span>
+          </div>
+          <div class="ship-item" data-key="outdoor_temp">
+            <span class="ship-label">OUTDOOR TEMP</span>
+            <span class="ship-value" id="ship-outdoor_temp">--</span>
+          </div>
+          <div class="ship-item" data-key="outdoor_humidity">
+            <span class="ship-label">OUTDOOR HUM</span>
+            <span class="ship-value" id="ship-outdoor_humidity">--</span>
+          </div>
+          <div class="ship-item" data-key="pressure">
+            <span class="ship-label">PRESSURE</span>
+            <span class="ship-value" id="ship-pressure">--</span>
+          </div>
+          <div class="ship-item" data-key="rain_today">
+            <span class="ship-label">RAIN TODAY</span>
+            <span class="ship-value" id="ship-rain_today">--</span>
+          </div>
+          <div class="ship-item" data-key="uv_index">
+            <span class="ship-label">UV INDEX</span>
+            <span class="ship-value" id="ship-uv_index">--</span>
+          </div>
+          <div class="ship-item" data-key="power_usage">
+            <span class="ship-label">POWER USAGE</span>
+            <span class="ship-value" id="ship-power_usage">--</span>
+          </div>
+          <div class="ship-item" data-key="gas_consumption">
+            <span class="ship-label">GAS CONSUMP</span>
+            <span class="ship-value" id="ship-gas_consumption">--</span>
+          </div>
+          <div class="ship-item" data-key="wind_speed">
+            <span class="ship-label">WIND SPEED</span>
+            <span class="ship-value" id="ship-wind_speed">--</span>
+          </div>
+          <div class="ship-item" data-key="wind_direction">
+            <span class="ship-label">WIND DIR</span>
+            <span class="ship-value" id="ship-wind_direction">--</span>
+          </div>
+          <div class="ship-item" data-key="heating_active">
+            <span class="ship-label">HEATING</span>
+            <span class="ship-value" id="ship-heating_active">--</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Destination Weather -->
+      <section class="panel panel-weather" id="panel-weather">
+        <div class="panel-corner tl"></div>
+        <div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div>
+        <div class="panel-corner br"></div>
+        <h2 class="panel-title">&gt; DESTINATION WEATHER</h2>
+        <div class="weather-cards" id="weather-cards">
+          <div class="weather-card" data-location="altrincham">
+            <h3 class="weather-name">ALTRINCHAM</h3>
+            <div class="weather-temp" id="weather-altrincham-temp">--</div>
+            <div class="weather-cond" id="weather-altrincham-conditions">--</div>
+          </div>
+          <div class="weather-card" data-location="overseal">
+            <h3 class="weather-name">OVERSEAL</h3>
+            <div class="weather-temp" id="weather-overseal-temp">--</div>
+            <div class="weather-cond" id="weather-overseal-conditions">--</div>
+          </div>
+          <div class="weather-card" data-location="llandudno">
+            <h3 class="weather-name">LLANDUDNO</h3>
+            <div class="weather-temp" id="weather-llandudno-temp">--</div>
+            <div class="weather-cond" id="weather-llandudno-conditions">--</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Metrolink ticker -->
+      <section class="panel panel-metrolink" id="panel-metrolink" style="display:none;">
+        <div class="panel-corner tl"></div>
+        <div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div>
+        <div class="panel-corner br"></div>
+        <h2 class="panel-title">&gt; METROLINK ALERT</h2>
+        <div class="ticker-wrap">
+          <div class="ticker-track" id="ticker-track"></div>
+        </div>
+      </section>
+
+      <!-- Headlines -->
+      <section class="panel panel-headlines" id="panel-headlines">
+        <div class="panel-corner tl"></div>
+        <div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div>
+        <div class="panel-corner br"></div>
+        <h2 class="panel-title">&gt; THE REGISTER HEADLINES</h2>
+        <div class="headlines-list" id="headlines-list">
+          <div class="headline-placeholder">Awaiting signal...</div>
+        </div>
+      </section>
+
+      <!-- Crew Status -->
+      <section class="panel panel-crew" id="panel-crew">
+        <div class="panel-corner tl"></div>
+        <div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div>
+        <div class="panel-corner br"></div>
+        <h2 class="panel-title">&gt; CREW STATUS</h2>
+        <div class="crew-indicators" id="crew-indicators">
+          <div class="crew-member" data-crew="holly">
+            <span class="crew-dot" id="dot-holly"></span>
+            <span class="crew-name">HOLLY</span>
+          </div>
+          <div class="crew-member" data-crew="rimmer">
+            <span class="crew-dot" id="dot-rimmer"></span>
+            <span class="crew-name">RIMMER</span>
+          </div>
+          <div class="crew-member" data-crew="kryten">
+            <span class="crew-dot" id="dot-kryten"></span>
+            <span class="crew-name">KRYTEN</span>
+          </div>
+          <div class="crew-member" data-crew="cat">
+            <span class="crew-dot" id="dot-cat"></span>
+            <span class="crew-name">CAT</span>
+          </div>
+          <div class="crew-member" data-crew="lister">
+            <span class="crew-dot" id="dot-lister"></span>
+            <span class="crew-name">LISTER</span>
+          </div>
+        </div>
+      </section>
+
+    </div>
+
+    <!-- Crew Quote -->
+    <section class="panel panel-quote" id="panel-quote">
+      <div class="panel-corner tl"></div>
+      <div class="panel-corner tr"></div>
+      <div class="panel-corner bl"></div>
+      <div class="panel-corner br"></div>
+      <h2 class="panel-title">&gt; CREW QUOTE</h2>
+      <div class="quote-content" id="quote-content">
+        <span class="quote-text" id="quote-text">Loading...</span>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="panel panel-footer">
+      <span>LAST UPDATED: <span id="footer-timestamp">--</span></span>
+      <span class="footer-smoke">RED DWARF MISSION CONTROL // NETHERRR</span>
+    </footer>
+
+  </div>
+
+  <script src="design.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>
