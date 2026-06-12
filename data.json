@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-12T17:25:49.985633+00:00",
+  "timestamp": "2026-06-12T17:56:36.569908+00:00",
   "house": {
     "indoor_temp": 20.6,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 18.9,
-    "outdoor_humidity": 63.0,
-    "wind_speed": 2.5,
-    "wind_direction": 77.0,
-    "pressure": 1020.3,
+    "outdoor_temp": 18.6,
+    "outdoor_humidity": 64.0,
+    "wind_speed": 1.8,
+    "wind_direction": 74.0,
+    "pressure": 1020.1,
     "rain_today": 1.8,
-    "uv_index": 1.0,
-    "power_usage": 230.0,
+    "uv_index": 0.0,
+    "power_usage": 247.0,
     "gas_consumption": 119.122071395417,
     "heating_active": false
   },
@@ -35,5 +35,5 @@
     "Amazon owns up to using 2.5bn gallons of H2O in its bit barns last year",
     "Microsoft has mostly repaired flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet"
   ],
-  "crew_quote": "\"Oh, for crying out loud, even the AI's hallucinating now! I can barely trust my own curry recipe without it going rogue in this 20.6°C heat!\""
+  "crew_quote": "\"Oi, with the sun shining like this, it's a perfect day for a curry! Let’s just hope the only thing hallucinating is my taste buds.\""
 }
