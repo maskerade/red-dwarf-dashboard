@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-12T22:04:39.896094+00:00",
+  "timestamp": "2026-06-12T22:35:40.769665+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.7,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 14.4,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 1.1,
-    "wind_direction": 77.0,
-    "pressure": 1021.3,
+    "outdoor_temp": 14.1,
+    "outdoor_humidity": 77.0,
+    "wind_speed": 0.4,
+    "wind_direction": 38.0,
+    "pressure": 1021.0,
     "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 519.0,
+    "power_usage": 384.0,
     "gas_consumption": 119.122071395417,
     "heating_active": false
   },
@@ -35,5 +35,5 @@
     "Fired IT worker jailed for 21 months after sabotaging old school district",
     "KPMG's AI report becomes an accidental demo of AI hallucinations"
   ],
-  "crew_quote": "\"With the weather being so overcast and a cozy 20.6°C indoors, I reckon it's the perfect time for a curry and a good old moan about Microsoft going down again!\""
+  "crew_quote": "\"Oh, great! The weather's as confused as me — clear skies in Llandudno while we're stuck here with a humidity level that makes my curry sweat!\""
 }
