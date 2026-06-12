@@ -257,6 +257,15 @@ body {
   line-height: 1.2;
 }
 
+.weather-icon {
+  font-size: 1.1rem;
+  display: inline-block;
+  margin-right: 2px;
+  vertical-align: middle;
+  filter: none;
+  image-rendering: auto;
+}
+
 .weather-cond {
   font-size: 0.65rem;
   color: var(--text-dim);

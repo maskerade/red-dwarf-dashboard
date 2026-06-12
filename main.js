@@ -71,6 +71,23 @@
     }
   }
 
+  // ── Weather icon mapping ─────────────────────────────────────────
+  function getWeatherIcon(conditions) {
+    if (!conditions) return '';
+    const c = conditions.toLowerCase();
+    if (c.includes('sunny') || c.includes('clear')) return '\u2600';       // ☀
+    if (c.includes('partly cloudy')) return '\u26C5';                      // ⛅
+    if (c.includes('cloudy') || c.includes('overcast')) return '\u2601';   // ☁
+    if (c.includes('thunder') || c.includes('storm')) return '\u26C8';     // ⛈
+    if (c.includes('heavy rain') || c.includes('torrential')) return '\uD83C\uDF27'; // 🌧
+    if (c.includes('light rain') || c.includes('drizzle')) return '\uD83C\uDF26';    // 🌦
+    if (c.includes('rain')) return '\uD83C\uDF27';                         // 🌧
+    if (c.includes('snow') || c.includes('sleet') || c.includes('ice')) return '\u2744'; // ❄
+    if (c.includes('fog') || c.includes('mist') || c.includes('haze')) return '\uD83C\uDF2B'; // 🌫
+    if (c.includes('wind') || c.includes('breez')) return '\uD83C\uDF2C';  // 🌬
+    return '';  // unknown — show no icon
+  }
+
   /**
    * Populate destination weather cards
    */
@@ -88,7 +105,9 @@
       }
       if (condEl) {
         if (info.conditions) {
-          condEl.textContent = info.conditions;
+          const icon = getWeatherIcon(info.conditions);
+          const iconHtml = icon ? '<span class="weather-icon">' + icon + '</span> ' : '';
+          condEl.innerHTML = iconHtml + info.conditions;
           condEl.className = 'weather-cond';
         } else {
           condEl.textContent = 'NO DATA';
