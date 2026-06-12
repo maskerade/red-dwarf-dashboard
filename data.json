@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-12T23:06:40.458940+00:00",
+  "timestamp": "2026-06-12T23:37:41.220682+00:00",
   "house": {
     "indoor_temp": 20.7,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.8,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 0.0,
-    "wind_direction": 96.0,
-    "pressure": 1021.0,
+    "outdoor_temp": 13.6,
+    "outdoor_humidity": 80.0,
+    "wind_speed": 1.8,
+    "wind_direction": 81.0,
+    "pressure": 1021.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 458.0,
+    "power_usage": 342.0,
     "gas_consumption": 119.122071395417,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Overcast"
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Partly Cloudy "
+      "temp": 14.0,
+      "conditions": "Partly cloudy"
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Clear "
+      "conditions": "Partly cloudy"
     }
   },
   "metrolink": "On Thursday 11th and Friday 12th June The Weeknd plays at Etihad Stadium. Services will be busier than usual so please plan your journey in advance.",
@@ -35,5 +35,5 @@
     "Fired IT worker jailed for 21 months after sabotaging old school district",
     "KPMG's AI report becomes an accidental demo of AI hallucinations"
   ],
-  "crew_quote": "\"Blimey, it's 15 degrees out and I still can't decide if I should put on a coat or just accept that I'm always 20 degrees too hot from all the curry!\""
+  "crew_quote": "\"Ah, 14°C and overcast? Perfect weather for a nice curry, or maybe just sitting around waiting for the ship to explode. Either way, I’m not doing anything productive!\""
 }
