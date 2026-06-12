@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Red Dwarf Dashboard — data collector.
-Collects from Home Assistant, wttr.in weather, and The Register headlines.
+Collects from Home Assistant, wttr.in weather, The Register headlines,
+and generates a fresh crew quote via LLM.
 Outputs data.json to the same directory.
 """
 
@@ -18,15 +19,20 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(SCRIPT_DIR, "data.json")
 HASS_URL = "http://192.168.8.107:8123"
 
-# Auto-load HASS_TOKEN from ~/.hermes/.env if not in environment
+# Auto-load secrets from ~/.hermes/.env if not in environment
 HASS_TOKEN = os.environ.get("HASS_TOKEN", "")
-if not HASS_TOKEN:
-    env_path = pathlib.Path.home() / ".hermes" / ".env"
-    if env_path.exists():
-        for line in env_path.read_text().splitlines():
-            if line.startswith("HASS_TOKEN="):
+OPENROUTER_KEY = os.environ.get("OPENROUTER_API_KEY", "")
+
+_env_path = pathlib.Path.home() / ".hermes" / ".env"
+if _env_path.exists():
+    for line in _env_path.read_text().splitlines():
+        if line.startswith("HASS_TOKEN="):
+            if not HASS_TOKEN:
                 HASS_TOKEN = line.split("=", 1)[1].strip()
-                break
+        elif line.startswith("OPENROUTER_API_KEY="):
+            if not OPENROUTER_KEY:
+                OPENROUTER_KEY = line.split("=", 1)[1].strip()
+
 
 # ── helpers ──────────────────────────────────────────────────────────────
 
@@ -60,6 +66,19 @@ def safe_float(val):
     try:
         return float(val)
     except (ValueError, TypeError):
+        return None
+
+
+def post_json(url, data, headers=None, timeout=30):
+    """POST JSON to a URL and parse JSON response. Returns None on failure."""
+    try:
+        body = json.dumps(data).encode("utf-8")
+        req = Request(url, data=body, headers=headers or {}, method="POST")
+        req.add_header("Content-Type", "application/json")
+        with urlopen(req, timeout=timeout) as resp:
+            return json.loads(resp.read().decode("utf-8"))
+    except Exception as exc:
+        print(f"  [WARN] post_json failed: {url} — {exc}", file=sys.stderr)
         return None
 
 
@@ -135,10 +154,7 @@ def collect_weather():
 # ── The Register headlines ──────────────────────────────────────────────
 
 def collect_headlines():
-    """Fetch the top headlines from The Register RSS feed.
-
-    The URL is /headlines.atom but the server returns RSS 2.0 XML.
-    """
+    """Fetch the top headlines from The Register RSS feed."""
     text = fetch_text("https://www.theregister.com/headlines.atom")
     if text is None:
         return []
@@ -146,7 +162,6 @@ def collect_headlines():
     headlines = []
     try:
         root = ET.fromstring(text)
-        # RSS 2.0: <rss><channel><item><title>...
         for item in root.iter("item"):
             title_el = item.find("title")
             if title_el is not None and title_el.text:
@@ -157,6 +172,83 @@ def collect_headlines():
         print(f"  [WARN] Failed to parse RSS feed: {exc}", file=sys.stderr)
         return []
     return headlines
+
+
+# ── Crew quote generation via LLM ───────────────────────────────────────
+
+def generate_crew_quote(data):
+    """Ask a lightweight LLM to generate a Red Dwarf crew quote referencing
+    today's actual data (weather, house stats, headlines).
+    Falls back to a sensible default if the API call fails."""
+    if not OPENROUTER_KEY:
+        print("  [WARN] OPENROUTER_API_KEY not set, skipping crew quote generation", file=sys.stderr)
+        return None
+
+    # Build a prompt with today's data
+    house = data.get("house", {})
+    locations = data.get("locations", {})
+    headlines = data.get("headlines", [])
+
+    weather_str = "; ".join(
+        f"{loc}: {v.get('temp', '?')}°C, {v.get('conditions', '?')}"
+        for loc, v in locations.items() if v.get('temp') is not None
+    ) or "no weather data"
+
+    headline_str = "; ".join(headlines[:2]) if headlines else "no headlines"
+
+    prompt = (
+        "You are the ship's computer from Red Dwarf. Generate ONE short, authentic "
+        "in-character quote (1-2 sentences) from one of the crew — Holly, Rimmer, "
+        "Kryten, Cat, or Lister — that references today's real conditions:\n"
+        f"\n"
+        f"Weather: {weather_str}\n"
+        f"Indoor temp: {house.get('indoor_temp', '?')}°C, humidity: {house.get('indoor_humidity', '?')}%\n"
+        f"Power usage: {house.get('power_usage', '?')} kWh\n"
+        f"News: {headline_str}\n"
+        f"\n"
+        "Rules:\n"
+        "- Output ONLY the quote text, nothing else. No labels, no character name prefix.\n"
+        "- Wrap the quote in double quotes.\n"
+        "- The character's personality must be obvious from the voice alone.\n"
+        "- Reference one of the data points naturally (not like a list).\n"
+        "- Keep it 1-2 sentences, under 200 characters.\n"
+        "- Holly: spaced-out and cheerful. Rimmer: pompous and wrong.\n"
+        "- Kryten: polite and obsessive. Cat: vain and fabulous.\n"
+        "- Lister: casual, working-class, mentions curry if it fits.\n"
+    )
+
+    payload = {
+        "model": "openai/gpt-4o-mini",
+        "messages": [{"role": "user", "content": prompt}],
+        "max_tokens": 120,
+        "temperature": 0.9,
+    }
+
+    headers = {
+        "Authorization": f"Bearer {OPENROUTER_KEY}",
+        "Content-Type": "application/json",
+    }
+
+    result = post_json(
+        "https://openrouter.ai/api/v1/chat/completions",
+        payload,
+        headers=headers,
+        timeout=20,
+    )
+
+    if result is None:
+        print("  [WARN] LLM quote generation failed — no response", file=sys.stderr)
+        return None
+
+    try:
+        quote = result["choices"][0]["message"]["content"].strip()
+        if quote:
+            print(f"  [INFO] Generated quote: {quote}", file=sys.stderr)
+            return quote
+    except (KeyError, IndexError, TypeError) as exc:
+        print(f"  [WARN] Failed to parse LLM response: {exc}", file=sys.stderr)
+
+    return None
 
 
 # ── main ─────────────────────────────────────────────────────────────────
@@ -203,22 +295,25 @@ def build_data():
         if raw is None:
             continue
 
-        # Convert specific fields
         if entity_id == "sensor.zone1_heating":
             value = raw.lower() in ("on", "yes", "true", "1")
         elif entity_id == "sensor.metrolink_altrincham_message":
             value = str(raw)
         else:
-            # All numeric sensors — try float, fall back to raw string
             value = safe_float(raw)
             if value is None:
-                value = raw  # keep as-is if not a number
+                value = raw
 
-        # Navigate to the right nesting level
         if len(keys) == 2:
             data[keys[0]][keys[1]] = value
         elif len(keys) == 1:
             data[keys[0]] = value
+
+    # ── Generate crew quote ──────────────────────────────────────────────
+    print("[INFO] Generating crew quote via LLM...", file=sys.stderr)
+    quote = generate_crew_quote(data)
+    if quote:
+        data["crew_quote"] = quote
 
     return data
 
