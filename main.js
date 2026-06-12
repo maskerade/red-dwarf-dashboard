@@ -98,6 +98,59 @@
     }
   }
 
+  // ── Crew weather commentary ─────────────────────────────────────
+  const LOCATION_NAMES = { altrincham: 'Altrincham', overseal: 'Overseal', llandudno: 'Llandudno' };
+
+  function generateCrewReports(locKey, temp, conditions) {
+    const name = LOCATION_NAMES[locKey] || locKey;
+    const t = temp !== null ? temp : 'unknown';
+    const c = conditions || 'unknown';
+    return {
+      rimmer:  `I've reviewed the ${name} meteorological data. ${t}°C and "${c}." That's not a weather report, that's a guess. On Red Dwarf we had proper forecasts — isobars, fronts, the lot. This is an abdication of climatological responsibility. I'm logging it.`,
+      kryten:  `I have completed a thorough analysis of the ${name} atmospheric conditions. The temperature is ${t}°C with ${c.toLowerCase()} skies. I would rate this as acceptable for human habitation, sir. Would you like me to prepare a 14-day probabilistic projection? I've already done one, just in case.`,
+      cat:     `${name}: ${t}°C and ${c.toLowerCase()}. Hm. The temperature is adequate — just — but the conditions lack commitment. "Partly cloudy" is the meteorological equivalent of a maybe. Pick a look and own it. Though I will say, the lighting at ${t}°C is actually rather flattering for my fur.`,
+      lister:  `${name}, ${t}°C, ${c.toLowerCase()}. Sound. Not too hot, not too cold. You could stick a jacket on and have a walk without breaking a sweat. That's all you can ask for really, innit? Probably nice near the beach at Llandudno. If they do chips by the pier, even better.`
+    };
+  }
+
+  // ── Weather card click → crew report modal ────────────────────
+  function setupWeatherClicks() {
+    const cards = document.querySelectorAll('.weather-card');
+    const modal = document.getElementById('crew-report-modal');
+    const closeBtn = document.getElementById('modal-close');
+    const titleEl = document.getElementById('modal-title');
+    const reportEls = {
+      rimmer: document.getElementById('report-rimmer'),
+      kryten: document.getElementById('report-kryten'),
+      cat: document.getElementById('report-cat'),
+      lister: document.getElementById('report-lister')
+    };
+    if (!modal || !closeBtn) return;
+    closeBtn.addEventListener('click', function() { modal.style.display = 'none'; });
+    modal.addEventListener('click', function(e) {
+      if (e.target === modal) modal.style.display = 'none';
+    });
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') modal.style.display = 'none';
+    });
+    for (const card of cards) {
+      card.style.cursor = 'pointer';
+      card.addEventListener('click', function() {
+        const loc = card.dataset.location;
+        if (!loc) return;
+        const data = window.__dashboardData;
+        if (!data || !data.locations || !data.locations[loc]) return;
+        const info = data.locations[loc];
+        const reports = generateCrewReports(loc, info.temp, info.conditions);
+        titleEl.textContent = '> CREW REPORT — ' + (LOCATION_NAMES[loc] || loc).toUpperCase();
+        for (const [crew, text] of Object.entries(reports)) {
+          if (reportEls[crew]) reportEls[crew].textContent = text;
+        }
+        modal.style.display = 'flex';
+      });
+    }
+  }
+
   /**
    * Show/hide and populate metrolink ticker
    */
@@ -250,6 +303,7 @@
       if (!res.ok) throw new Error('HTTP ' + res.status);
       const data = await res.json();
       console.log('[Dashboard] Data loaded:', data);
+      window.__dashboardData = data;
 
       renderShip(data);
       renderWeather(data);
@@ -258,6 +312,7 @@
       renderCrew();
       renderQuote(data);
       updateTimestamps(data.timestamp);
+      setupWeatherClicks();
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults

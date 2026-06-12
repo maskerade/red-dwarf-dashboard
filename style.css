@@ -512,3 +512,96 @@ body::after {
   background: radial-gradient(ellipse at center, transparent 60%, rgba(0,0,0,0.3) 100%);
   animation: crt-flicker 0.15s infinite;
 }
+/* ── Crew Report Modal ─────────────────────────────────────── */
+.modal-overlay {
+  display: none;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(5, 5, 10, 0.85);
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(2px);
+}
+
+.modal-panel {
+  background: #0d0d14;
+  border: 1px solid #ffb000;
+  border-radius: 8px;
+  padding: 24px;
+  width: 90%;
+  max-width: 640px;
+  max-height: 80vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 0 30px rgba(255, 176, 0, 0.15), inset 0 0 20px rgba(255, 176, 0, 0.03);
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  border-bottom: 1px solid rgba(255, 176, 0, 0.3);
+  padding-bottom: 12px;
+}
+
+.modal-title {
+  font-family: 'Courier New', monospace;
+  color: #ffb000;
+  font-size: 1.1em;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+.modal-close {
+  background: none;
+  border: 1px solid #ff3344;
+  color: #ff3344;
+  font-size: 1.5em;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+.modal-close:hover {
+  background: rgba(255, 51, 68, 0.15);
+  box-shadow: 0 0 8px rgba(255, 51, 68, 0.3);
+}
+
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.crew-report {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.crew-report-name {
+  font-family: 'Courier New', monospace;
+  font-size: 0.75em;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.crew-report[data-crew="rimmer"] .crew-report-name { color: #ff3344; }
+.crew-report[data-crew="kryten"] .crew-report-name { color: #00ccff; }
+.crew-report[data-crew="cat"] .crew-report-name { color: #ffb000; }
+.crew-report[data-crew="lister"] .crew-report-name { color: #00ff88; }
+
+.crew-report-text {
+  font-family: 'Courier New', monospace;
+  font-size: 0.85em;
+  color: #c8c8c8;
+  line-height: 1.5;
+  padding-left: 12px;
+  border-left: 2px solid rgba(255, 176, 0, 0.15);
+}
