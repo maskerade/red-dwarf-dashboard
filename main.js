@@ -345,11 +345,32 @@
   }
 
   // --- Init ---
-  document.addEventListener('DOMContentLoaded', function () {
-    startClock();
-    loadDashboard();
-    // Refresh every 5 minutes
-    setInterval(loadDashboard, 5 * 60 * 1000);
-  });
+    document.addEventListener('DOMContentLoaded', function () {
+      startClock();
+      loadDashboard();
+      // Refresh every 5 minutes
+      setInterval(loadDashboard, 5 * 60 * 1000);
 
-})();
+      // --- Theme toggle ---
+      initThemeToggle();
+    });
+
+    // ── Theme toggle ─────────────────────────────────────────────────
+    function initThemeToggle() {
+      const btn = document.getElementById('theme-toggle');
+      if (!btn) return;
+
+      // Restore saved preference
+      const saved = localStorage.getItem('dashboard-theme');
+      if (saved === 'light') {
+        document.body.classList.add('light-mode');
+        btn.textContent = '\u263C'; // ☼
+      }
+
+      btn.addEventListener('click', function () {
+        const isLight = document.body.classList.toggle('light-mode');
+        btn.textContent = isLight ? '\u263C' : '\u263E'; // ☼ / ☾
+        localStorage.setItem('dashboard-theme', isLight ? 'light' : 'dark');
+      });
+    }
+  })();
