@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-06-13T18:45:59.035202+00:00",
+  "timestamp": "2026-06-13T19:16:59.274734+00:00",
   "house": {
     "indoor_temp": 20.8,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 14.7,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 1.8,
-    "wind_direction": 77.0,
+    "outdoor_temp": 14.5,
+    "outdoor_humidity": 77.0,
+    "wind_speed": 2.2,
+    "wind_direction": 67.0,
     "pressure": 1023.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
@@ -43,5 +43,5 @@
     "NHS patients can't opt out of Palantir's data platform – but their hospital can",
     "XP-era Windows spotted haunting London's driverless railway"
   ],
-  "crew_quote": "\"With this weather, I'm seeing a lot of curry nights ahead—15 degrees and overcast is perfect for a good pint and a spicy vindaloo, don’t you think?\""
+  "crew_quote": "\"Fifteen degrees and cloudy, eh? Perfect curry weather! I mean, who wants to go out when you could be safe inside feasting on a balti, mate?\""
 }
