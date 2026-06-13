@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-13T22:22:51.979763+00:00",
+  "timestamp": "2026-06-13T22:53:52.885076+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 21.0,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 13.0,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 12.7,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.4,
-    "wind_direction": 96.0,
-    "pressure": 1024.1,
+    "wind_direction": 93.0,
+    "pressure": 1024.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 432.0,
+    "power_usage": 441.0,
     "gas_consumption": 121.872023539167,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Partly cloudy"
+      "temp": 13.0,
+      "conditions": "Partly Cloudy "
     },
     "overseal": {
       "temp": 13.0,
-      "conditions": "Clear "
+      "conditions": "Partly cloudy"
     },
     "llandudno": {
       "temp": 13.0,
-      "conditions": "Partly cloudy"
+      "conditions": "Overcast"
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "NHS patients can't opt out of Palantir's data platform – but their hospital can",
     "XP-era Windows spotted haunting London's driverless railway"
   ],
-  "crew_quote": "\"Well, I don't know about you lot, but I’d rather be in a nice 20.9°C curry coma than debating what-ifs with a computer that’s probably got less common sense than Rimmer!\""
+  "crew_quote": "\"I'd take the weather over this ship any day, but if we had some curry, I'd be golden at 21 degrees—now that's what I call a proper night in!\""
 }
