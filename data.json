@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-13T03:14:44.330508+00:00",
+  "timestamp": "2026-06-13T03:45:45.148176+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 56.0,
     "outdoor_temp": 12.5,
     "outdoor_humidity": 80.0,
     "wind_speed": 0.0,
-    "wind_direction": 93.0,
+    "wind_direction": 286.0,
     "pressure": 1021.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 238.0,
+    "power_usage": 210.0,
     "gas_consumption": 119.122071395417,
     "heating_active": false
   },
@@ -35,5 +35,5 @@
     "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure",
     "MX Linux 25.2 provides possible refuge from AI as well as systemd"
   ],
-  "crew_quote": "\"With this lovely overcast weather, it’s perfect for a curry night! As long as we don’t set the ship on fire with my cooking, of course!\""
+  "crew_quote": "\"Blimey, it's so dull outside, you could be mistaken for thinking the weather was a deep space anomaly—at least I've got a curry to keep me company!\""
 }
