@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-13T02:12:43.795726+00:00",
+  "timestamp": "2026-06-13T02:43:44.322629+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 12.9,
+    "outdoor_temp": 12.8,
     "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 105.0,
-    "pressure": 1021.2,
+    "wind_direction": 108.0,
+    "pressure": 1021.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 247.0,
+    "power_usage": 250.0,
     "gas_consumption": 119.122071395417,
     "heating_active": false
   },
@@ -20,12 +20,12 @@
       "conditions": "Overcast"
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 11.0,
       "conditions": "Partly cloudy"
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Partly Cloudy "
+      "temp": 12.0,
+      "conditions": "Partly cloudy"
     }
   },
   "metrolink": "On Thursday 11th and Friday 12th June The Weeknd plays at Etihad Stadium. Services will be busier than usual so please plan your journey in advance.",
@@ -35,5 +35,5 @@
     "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure",
     "MX Linux 25.2 provides possible refuge from AI as well as systemd"
   ],
-  "crew_quote": "\"Blimey, with it being 20 degrees in here, I reckon if we put on a few curry jackets, we could cough up a proper sauna for some serious relaxation!\""
+  "crew_quote": "\"Well, with the weather being a nippy 13°C, I reckon it's perfect curry weather! Just not too much, or I might have to reboot myself!\""
 }
