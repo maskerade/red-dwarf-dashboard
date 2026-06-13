@@ -1,47 +1,40 @@
 {
-  "timestamp": "2026-06-13T13:03:54.248118+00:00",
+  "timestamp": "2026-06-13T13:35:57.325569+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.2,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 15.5,
+    "outdoor_temp": 15.3,
     "outdoor_humidity": 69.0,
-    "wind_speed": 0.4,
-    "wind_direction": 79.0,
+    "wind_speed": 0.0,
+    "wind_direction": 78.0,
     "pressure": 1023.8,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 255.0,
+    "uv_index": 1.0,
+    "power_usage": 269.0,
     "gas_consumption": 121.872023539167,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Partly cloudy"
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Partly cloudy"
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Partly cloudy"
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:41 AM",
-    "sunset": "09:38 PM",
-    "moon_phase": "Waning Crescent",
-    "moon_illumination": "7",
-    "moonrise": "02:40 AM",
-    "moonset": "08:26 PM"
-  },
+  "astronomy": {},
   "metrolink": "When using the Metrolink network please ensure you have all your belongings with you at all times. Please check your seat before leaving the service. Unattended items may be removed without warning",
   "headlines": [
+    "World Cup AI predictor now lets users ask daft what-ifs",
     "AWS rolls the dice for faster, more efficient networking",
     "NHS patients can't opt out of Palantir's data platform – but their hospital can",
-    "XP-era Windows spotted haunting London's driverless railway",
-    "NanoClaw now armed with JFrog for safer packages"
+    "XP-era Windows spotted haunting London's driverless railway"
   ],
-  "crew_quote": "\"15 degrees and partly cloudy? Sounds like a perfect day for a curry in the pub—at least it’s warmer than my last shower!\""
+  "crew_quote": "\"With a temp like 21.2°C, it's almost like we're on a tropical holiday—if only I had a pint and a curry instead of trying to predict daft football outcomes!\""
 }
