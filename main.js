@@ -71,6 +71,47 @@
     }
   }
 
+  // ── Astronomy rendering ───────────────────────────────────────────
+  function getMoonIcon(phase) {
+    if (!phase) return '';
+    const p = phase.toLowerCase();
+    if (p.includes('new')) return '\uD83C\uDF11';   // 🌑
+    if (p.includes('waxing crescent')) return '\uD83C\uDF12'; // 🌒
+    if (p.includes('first quarter')) return '\uD83C\uDF13'; // 🌓
+    if (p.includes('waxing gibbous')) return '\uD83C\uDF14'; // 🌔
+    if (p.includes('full')) return '\uD83C\uDF15';   // 🌕
+    if (p.includes('waning gibbous')) return '\uD83C\uDF16'; // 🌖
+    if (p.includes('last quarter')) return '\uD83C\uDF17'; // 🌗
+    if (p.includes('waning crescent')) return '\uD83C\uDF18'; // 🌘
+    return '';
+  }
+
+  function renderAstronomy(data) {
+    const astro = data.astronomy || {};
+    const sunriseEl = $('ship-sunrise');
+    const sunsetEl = $('ship-sunset');
+    const moonEl = $('ship-moon_phase');
+    const moonIllumEl = $('ship-moon_illumination');
+
+    if (sunriseEl) {
+      sunriseEl.textContent = astro.sunrise || '--';
+      sunriseEl.className = 'ship-value';
+    }
+    if (sunsetEl) {
+      sunsetEl.textContent = astro.sunset || '--';
+      sunsetEl.className = 'ship-value';
+    }
+    if (moonEl) {
+      const icon = getMoonIcon(astro.moon_phase);
+      moonEl.textContent = (icon ? icon + ' ' : '') + (astro.moon_phase || '--');
+      moonEl.className = 'ship-value';
+    }
+    if (moonIllumEl) {
+      moonIllumEl.textContent = astro.moon_illumination ? astro.moon_illumination + '%' : '--';
+      moonIllumEl.className = 'ship-value';
+    }
+  }
+
   // ── Weather icon mapping ─────────────────────────────────────────
   function getWeatherIcon(conditions) {
     if (!conditions) return '';
@@ -356,6 +397,7 @@
       window.__dashboardData = data;
 
       renderShip(data);
+      renderAstronomy(data);
       renderWeather(data);
       renderMetrolink(data);
       renderHeadlines(data);

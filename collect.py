@@ -132,8 +132,11 @@ POSTCODES = {
 
 
 def collect_weather():
-    """Fetch current weather for each postcode from wttr.in."""
+    """Fetch current weather for each postcode from wttr.in.
+    Also returns astronomy data (moon phase, sun times) from the first
+    location's response."""
     locations = {}
+    astronomy = {}
     for key, postcode in POSTCODES.items():
         url = f"https://wttr.in/{postcode}?format=j1"
         data = fetch_json(url)
@@ -145,10 +148,22 @@ def collect_weather():
                 temp = safe_float(cc.get("temp_C"))
                 conditions = cc.get("weatherDesc", [{}])[0].get("value")
                 locations[key] = {"temp": temp, "conditions": conditions}
+
+                # Grab astronomy from first successful response only
+                if not astronomy:
+                    ast = data.get("weather", [{}])[0].get("astronomy", [{}])[0] or {}
+                    astronomy = {
+                        "sunrise": ast.get("sunrise", ""),
+                        "sunset": ast.get("sunset", ""),
+                        "moon_phase": ast.get("moon_phase", ""),
+                        "moon_illumination": ast.get("moon_illumination", ""),
+                        "moonrise": ast.get("moonrise", ""),
+                        "moonset": ast.get("moonset", ""),
+                    }
             except (KeyError, IndexError, TypeError) as exc:
                 print(f"  [WARN] Failed to parse wttr.in data for {key}: {exc}", file=sys.stderr)
                 locations[key] = {"temp": None, "conditions": None}
-    return locations
+    return locations, astronomy
 
 
 # ── The Register headlines ──────────────────────────────────────────────
@@ -261,7 +276,7 @@ def build_data():
     hass_values = collect_hass()
 
     print("[INFO] Collecting weather data from wttr.in...", file=sys.stderr)
-    locations = collect_weather()
+    locations, astronomy = collect_weather()
 
     print("[INFO] Fetching The Register headlines...", file=sys.stderr)
     headlines = collect_headlines()
@@ -284,6 +299,7 @@ def build_data():
             "heating_active": None,
         },
         "locations": locations,
+        "astronomy": astronomy,
         "metrolink": None,
         "headlines": headlines,
         "crew_quote": None,

@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-13T09:26:49.918080+00:00",
+  "timestamp": "2026-06-13T09:31:35.419779+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 55.0,
     "outdoor_temp": 14.2,
     "outdoor_humidity": 77.0,
-    "wind_speed": 0.4,
-    "wind_direction": 72.0,
-    "pressure": 1023.3,
+    "wind_speed": 3.6,
+    "wind_direction": 81.0,
+    "pressure": 1023.1,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 458.0,
+    "power_usage": 376.0,
     "gas_consumption": 121.872023539167,
     "heating_active": false
   },
@@ -28,12 +28,20 @@
       "conditions": "Patchy rain nearby"
     }
   },
+  "astronomy": {
+    "sunrise": "04:41 AM",
+    "sunset": "09:38 PM",
+    "moon_phase": "Waning Crescent",
+    "moon_illumination": "7",
+    "moonrise": "02:40 AM",
+    "moonset": "08:26 PM"
+  },
   "metrolink": "When using the Metrolink network please ensure you have all your belongings with you at all times. Please check your seat before leaving the service. Unattended items may be removed without warning",
   "headlines": [
+    "NHS patients can't opt out of Palantir's data platform – but their hospital can",
     "XP-era Windows spotted haunting London's driverless railway",
     "NanoClaw now armed with JFrog for safer packages",
-    "SK Hynix to boost memory production 3x ... you can wait another 8 years, right?",
-    "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure"
+    "SK Hynix to boost memory production 3x ... you can wait another 8 years, right?"
   ],
-  "crew_quote": "\"Well, it's a bit nippy at 13°C, isn't it? I'd say we’re in for a cracking curry to warm us up, assuming the ghosts from Windows XP don’t haunt our kitchen first!\""
+  "crew_quote": "\"Blimey, it's hotter in here than my last curry night, and outside it's all showers and patchy rain! Just my luck, innit?\""
 }
