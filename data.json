@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-13T05:49:46.375993+00:00",
+  "timestamp": "2026-06-13T06:20:46.659954+00:00",
   "house": {
-    "indoor_temp": 20.4,
-    "indoor_humidity": 56.0,
+    "indoor_temp": 21.7,
+    "indoor_humidity": 55.0,
     "outdoor_temp": 12.7,
-    "outdoor_humidity": 77.0,
-    "wind_speed": 2.5,
-    "wind_direction": 67.0,
-    "pressure": 1021.6,
+    "outdoor_humidity": 81.0,
+    "wind_speed": 1.1,
+    "wind_direction": 69.0,
+    "pressure": 1021.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 325.0,
-    "gas_consumption": 119.572079187917,
+    "power_usage": 297.0,
+    "gas_consumption": 120.347092427917,
     "heating_active": false
   },
   "locations": {
@@ -35,5 +35,5 @@
     "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure",
     "MX Linux 25.2 provides possible refuge from AI as well as systemd"
   ],
-  "crew_quote": "\"Well, it’s not exactly a heatwave, is it? But at least the curry’s hot enough to make up for the chilly 12 degrees outside. Pass the poppadoms!\""
+  "crew_quote": "\"12 degrees and partly cloudy? Just my luck, perfect curry weather—too bad I left my spices in the other dimension!\""
 }
