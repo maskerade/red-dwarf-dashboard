@@ -516,6 +516,46 @@ body {
   letter-spacing: 0.1em;
 }
 
+/* --- Freshness badge --- */
+.freshness-badge {
+  display: inline-block;
+  font-size: 0.6rem;
+  margin-left: 6px;
+  padding: 1px 6px;
+  border-radius: 3px;
+  letter-spacing: 0.05em;
+  vertical-align: middle;
+  transition: background 0.3s, color 0.3s;
+}
+
+.freshness-fresh {
+  color: var(--green);
+  background: rgba(0, 255, 136, 0.08);
+  border: 1px solid rgba(0, 255, 136, 0.15);
+}
+
+.freshness-aging {
+  color: var(--amber);
+  background: rgba(255, 176, 0, 0.08);
+  border: 1px solid rgba(255, 176, 0, 0.15);
+}
+
+.freshness-stale {
+  color: var(--red);
+  background: rgba(255, 51, 68, 0.08);
+  border: 1px solid rgba(255, 51, 68, 0.2);
+  animation: stale-pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes stale-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.freshness-unknown {
+  display: none;
+}
+
 /* --- Responsive --- */
 @media (max-width: 900px) {
   .grid-main {

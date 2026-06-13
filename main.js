@@ -285,9 +285,40 @@
           hour: '2-digit', minute: '2-digit', second: '2-digit',
           hour12: false,
         });
+
+        // Freshness badge
+        updateFreshness(d);
       } catch (_) {
         footerEl.textContent = ts;
       }
+    }
+  }
+
+  // ── Data freshness badge ──────────────────────────────────────────
+  function updateFreshness(dataTime) {
+    const badge = document.getElementById('freshness-badge');
+    if (!badge) return;
+
+    const now = Date.now();
+    const ageMs = now - dataTime.getTime();
+    const ageMin = Math.floor(ageMs / 60000);
+
+    // Remove all state classes
+    badge.className = 'freshness-badge';
+
+    if (ageMin < 0) {
+      // Future timestamp — clock skew
+      badge.classList.add('freshness-fresh');
+      badge.textContent = '\u25C9  LIVE';
+    } else if (ageMin < 15) {
+      badge.classList.add('freshness-fresh');
+      badge.textContent = '\u25C9  ' + ageMin + 'm ago';
+    } else if (ageMin < 60) {
+      badge.classList.add('freshness-aging');
+      badge.textContent = '\u25D0  ' + ageMin + 'm ago';
+    } else {
+      badge.classList.add('freshness-stale');
+      badge.textContent = '\u26A0  ' + Math.floor(ageMin / 60) + 'h ' + (ageMin % 60) + 'm ago';
     }
   }
 
