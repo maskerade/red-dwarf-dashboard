@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-13T01:41:43.509874+00:00",
+  "timestamp": "2026-06-13T02:12:43.795726+00:00",
   "house": {
-    "indoor_temp": 20.3,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 13.0,
+    "indoor_temp": 20.2,
+    "indoor_humidity": 56.0,
+    "outdoor_temp": 12.9,
     "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 142.0,
-    "pressure": 1021.4,
+    "wind_direction": 105.0,
+    "pressure": 1021.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 238.0,
+    "power_usage": 247.0,
     "gas_consumption": 119.122071395417,
     "heating_active": false
   },
@@ -35,5 +35,5 @@
     "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure",
     "MX Linux 25.2 provides possible refuge from AI as well as systemd"
   ],
-  "crew_quote": "\"Ah, 13 degrees and overcast! Perfect weather for a nice curry, don’t you think? Just make sure it’s not too spicy; I don’t fancy a trip to the loo on a cold day!\""
+  "crew_quote": "\"Blimey, with it being 20 degrees in here, I reckon if we put on a few curry jackets, we could cough up a proper sauna for some serious relaxation!\""
 }
