@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-13T20:50:00.203140+00:00",
+  "timestamp": "2026-06-13T21:21:04.802909+00:00",
   "house": {
-    "indoor_temp": 20.8,
-    "indoor_humidity": 56.0,
-    "outdoor_temp": 13.8,
-    "outdoor_humidity": 83.0,
+    "indoor_temp": 21.1,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 13.5,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 93.0,
-    "pressure": 1023.6,
+    "wind_direction": 95.0,
+    "pressure": 1023.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 491.0,
+    "power_usage": 483.0,
     "gas_consumption": 121.872023539167,
     "heating_active": false
   },
@@ -20,12 +20,12 @@
       "conditions": "Partly cloudy"
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Partly Cloudy "
+      "temp": 13.0,
+      "conditions": "Clear "
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Overcast"
+      "temp": 13.0,
+      "conditions": "Partly cloudy"
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "NHS patients can't opt out of Palantir's data platform – but their hospital can",
     "XP-era Windows spotted haunting London's driverless railway"
   ],
-  "crew_quote": "\"Well, I suppose with all this partly cloudy weather, a nice curry could really spice things up—just like the World Cup AI getting all daft on us!\""
+  "crew_quote": "\"With this weather hovering around 14°C, I'm telling you, it's the perfect day for a curry — just make sure it’s not too hot, or I’ll be sweating more than the power grid!\""
 }
