@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-13T17:43:57.577507+00:00",
+  "timestamp": "2026-06-13T18:14:58.705493+00:00",
   "house": {
     "indoor_temp": 20.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 15.4,
-    "outdoor_humidity": 73.0,
+    "outdoor_temp": 15.2,
+    "outdoor_humidity": 74.0,
     "wind_speed": 1.1,
-    "wind_direction": 100.0,
+    "wind_direction": 98.0,
     "pressure": 1023.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 236.0,
+    "power_usage": 283.0,
     "gas_consumption": 121.872023539167,
     "heating_active": false
   },
@@ -21,7 +21,7 @@
     },
     "overseal": {
       "temp": 16.0,
-      "conditions": "Partly cloudy"
+      "conditions": "Patchy rain nearby"
     },
     "llandudno": {
       "temp": 15.0,
@@ -43,5 +43,5 @@
     "NHS patients can't opt out of Palantir's data platform – but their hospital can",
     "XP-era Windows spotted haunting London's driverless railway"
   ],
-  "crew_quote": "\"Ah, 15 degrees and slightly cloudy? Perfect weather for a pint and a curry, just like I always say—keeps the brain cells nice and warm!\""
+  "crew_quote": "\"Honestly, with all this patchy rain and overcast skies, I can't tell if I'm stuck on a spaceship or just in a really dull curry house!\""
 }
