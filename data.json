@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-06-13T00:39:42.119160+00:00",
+  "timestamp": "2026-06-13T01:10:42.959046+00:00",
   "house": {
     "indoor_temp": 20.4,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 13.3,
-    "outdoor_humidity": 80.0,
-    "wind_speed": 0.4,
-    "wind_direction": 120.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 79.0,
+    "wind_speed": 0.0,
+    "wind_direction": 99.0,
     "pressure": 1021.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 238.0,
+    "power_usage": 247.0,
     "gas_consumption": 119.122071395417,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Overcast"
     },
     "overseal": {
@@ -24,8 +24,8 @@
       "conditions": "Partly cloudy"
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Partly cloudy"
+      "temp": 13.0,
+      "conditions": "Partly Cloudy "
     }
   },
   "metrolink": "On Thursday 11th and Friday 12th June The Weeknd plays at Etihad Stadium. Services will be busier than usual so please plan your journey in advance.",
@@ -35,5 +35,5 @@
     "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure",
     "MX Linux 25.2 provides possible refuge from AI as well as systemd"
   ],
-  "crew_quote": "\"Looks like it’s a lovely 14 degrees out there—perfect curry weather, if you ask me! Just don’t ask Rimmer; he probably thinks it’s too chilly for his delicate constitution!\""
+  "crew_quote": "\"You know, in Overseal it’s a balmy 14 degrees—perfect for a curry! But all this tech news just makes me feel hotter than a vindaloo!\""
 }
