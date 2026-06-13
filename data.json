@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-13T06:51:47.004122+00:00",
+  "timestamp": "2026-06-13T07:22:48.242421+00:00",
   "house": {
-    "indoor_temp": 22.2,
-    "indoor_humidity": 55.0,
-    "outdoor_temp": 13.2,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 0.4,
-    "wind_direction": 34.0,
+    "indoor_temp": 22.7,
+    "indoor_humidity": 54.0,
+    "outdoor_temp": 12.9,
+    "outdoor_humidity": 80.0,
+    "wind_speed": 0.7,
+    "wind_direction": 101.0,
     "pressure": 1022.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 382.0,
-    "gas_consumption": 121.122105965834,
+    "power_usage": 306.0,
+    "gas_consumption": 121.872023539167,
     "heating_active": false
   },
   "locations": {
@@ -35,5 +35,5 @@
     "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure",
     "MX Linux 25.2 provides possible refuge from AI as well as systemd"
   ],
-  "crew_quote": "\"Ah, perfect curry weather at 12 degrees—just the right temp to heat up a proper vindaloo while I ponder if I’ll ever be as fabulous as my reflections!\""
+  "crew_quote": "\"Honestly, what’s a bit of drizzle when you’re rockin’ a 22.7°C indoor temperature? Perfect for a curry binge while the outside world gets on with its cloudy nonsense!\""
 }
