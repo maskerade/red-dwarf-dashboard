@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-06-13T03:45:45.148176+00:00",
+  "timestamp": "2026-06-13T04:16:46.115473+00:00",
   "house": {
     "indoor_temp": 20.1,
     "indoor_humidity": 56.0,
     "outdoor_temp": 12.5,
-    "outdoor_humidity": 80.0,
+    "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 286.0,
-    "pressure": 1021.4,
+    "wind_direction": 90.0,
+    "pressure": 1021.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 210.0,
+    "power_usage": 227.0,
     "gas_consumption": 119.122071395417,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Overcast"
     },
     "overseal": {
@@ -24,8 +24,8 @@
       "conditions": "Partly cloudy"
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Partly cloudy"
+      "temp": 13.0,
+      "conditions": "Overcast"
     }
   },
   "metrolink": "On Thursday 11th and Friday 12th June The Weeknd plays at Etihad Stadium. Services will be busier than usual so please plan your journey in advance.",
@@ -35,5 +35,5 @@
     "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure",
     "MX Linux 25.2 provides possible refuge from AI as well as systemd"
   ],
-  "crew_quote": "\"Blimey, it's so dull outside, you could be mistaken for thinking the weather was a deep space anomaly—at least I've got a curry to keep me company!\""
+  "crew_quote": "\"Well, it’s a bit overcast outside, but at least inside we’re a cozy 20.1 degrees—perfect for a curry and a spot of dreaming about the next space adventure!\""
 }
