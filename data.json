@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-13T10:28:53.341902+00:00",
+  "timestamp": "2026-06-13T10:59:52.228063+00:00",
   "house": {
     "indoor_temp": 21.4,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 14.8,
-    "outdoor_humidity": 74.0,
+    "outdoor_temp": 15.3,
+    "outdoor_humidity": 72.0,
     "wind_speed": 2.2,
-    "wind_direction": 107.0,
-    "pressure": 1023.6,
+    "wind_direction": 83.0,
+    "pressure": 1023.4,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 342.0,
+    "power_usage": 281.0,
     "gas_consumption": 121.872023539167,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "NanoClaw now armed with JFrog for safer packages",
     "SK Hynix to boost memory production 3x ... you can wait another 8 years, right?"
   ],
-  "crew_quote": "\"Honestly, with the weather being patchy and a comfy 21.4°C indoors, I reckon we should crack open a curry and pretend it's sunny outside!\""
+  "crew_quote": "\"Ah, it's a lovely 13 degrees out there! Perfect for a nice curry, unless you fancy being haunted by XP ghosts instead. What a choice!\""
 }
