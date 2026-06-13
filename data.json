@@ -1,26 +1,26 @@
 {
-  "timestamp": "2026-06-13T05:18:46.373324+00:00",
+  "timestamp": "2026-06-13T05:49:46.375993+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 20.4,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 12.5,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 0.0,
-    "wind_direction": 83.0,
-    "pressure": 1021.7,
+    "outdoor_temp": 12.7,
+    "outdoor_humidity": 77.0,
+    "wind_speed": 2.5,
+    "wind_direction": 67.0,
+    "pressure": 1021.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 221.0,
-    "gas_consumption": 119.122071395417,
+    "power_usage": 325.0,
+    "gas_consumption": 119.572079187917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 12.0,
-      "conditions": "Overcast"
+      "conditions": "Partly cloudy"
     },
     "overseal": {
-      "temp": 11.0,
+      "temp": 12.0,
       "conditions": "Partly cloudy"
     },
     "llandudno": {
@@ -35,5 +35,5 @@
     "Holy git! Microsoft code-sharing site suffers downtime, despite move to Azure",
     "MX Linux 25.2 provides possible refuge from AI as well as systemd"
   ],
-  "crew_quote": "\"Looks like it’s twelve degrees and overcast, perfect weather for a good old-fashioned curry binge — although with my luck, I’ll probably just end up with a soggy takeaway!\""
+  "crew_quote": "\"Well, it’s not exactly a heatwave, is it? But at least the curry’s hot enough to make up for the chilly 12 degrees outside. Pass the poppadoms!\""
 }
