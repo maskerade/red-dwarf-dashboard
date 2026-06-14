@@ -291,38 +291,87 @@
   let cleaningIndex = 0;
   let episodeIndex = Math.floor(Math.random() * EPISODES.length);
 
-  function renderDeckEntertainment() {
-    // 1. Smeg Counter — random increment
-    smegCount += Math.floor(Math.random() * 3) + 1;
+  // ── Daily items (set once on page load) ──────────────────────
+  function renderDeckDaily() {
+    // Rimmer's Directive — one per day
+    const dirEl = $('deck-directive');
+    if (dirEl) {
+      dirEl.textContent = DIRECTIVES[Math.floor(Math.random() * DIRECTIVES.length)];
+    }
+
+    // Episode of the Day — one per day
+    const epEl = $('deck-episode');
+    const epSeriesEl = $('deck-episode-series');
+    if (epEl && epSeriesEl) {
+      const ep = EPISODES[Math.floor(Math.random() * EPISODES.length)];
+      epEl.textContent = ep.title;
+      epSeriesEl.textContent = ep.series;
+    }
+
+    // Curry name — one per day
+    const curryNameEl = $('deck-curry-name');
+    if (curryNameEl) {
+      curryNameEl.textContent = CURRY_NAMES[Math.floor(Math.random() * CURRY_NAMES.length)];
+    }
+  }
+
+  // ── Every-30s items ──────────────────────────────────────────
+  function renderDeckPerMinute() {
+    // 1. Smeg Counter — slow increment
+    smegCount += Math.floor(Math.random() * 2) + 1;
     const smegEl = $('deck-smeg');
     if (smegEl) smegEl.textContent = smegCount.toLocaleString();
 
+    // 6. Kryten's Cleaning Log — cycle task
+    const cleaningEl = $('deck-cleaning');
+    if (cleaningEl) {
+      cleaningIndex = (cleaningIndex + 1) % CLEANING_TASKS.length;
+      cleaningEl.textContent = '▸ ' + CLEANING_TASKS[cleaningIndex];
+    }
+
+    // 8. Radiation Level
+    const radEl = $('deck-radiation');
+    if (radEl) {
+      const spike = Math.random() < 0.1; // 10% chance
+      const base = 0.08 + Math.random() * 0.15;
+      const val = spike ? base + Math.random() * 0.5 : base;
+      radEl.textContent = val.toFixed(2);
+      radEl.className = 'deck-value' + (spike ? ' spike' : '');
+    }
+
+    // 10. Ship's Log — new entry
+    const logEl = $('deck-log');
+    if (logEl) {
+      logIndex = (logIndex + 1) % LOG_ENTRIES.length;
+      const entry = document.createElement('div');
+      entry.className = 'log-entry';
+      entry.textContent = LOG_ENTRIES[logIndex];
+      logEl.appendChild(entry);
+      while (logEl.children.length > 20) {
+        logEl.removeChild(logEl.firstChild);
+      }
+      logEl.scrollTop = logEl.scrollHeight;
+    }
+  }
+
+  // ── Every-8s items (subtle live updates) ─────────────────────
+  function renderDeckFrequent() {
     // 2. Holly's IQ
     const iqEl = $('deck-iq');
     const iqReasonEl = $('deck-iq-reason');
     if (iqEl) {
-      const baseIQ = 6000;
-      const fluctuation = Math.floor(Math.random() * 11) - 5; // -5 to +5
-      const iq = baseIQ + fluctuation;
-      iqEl.textContent = iq;
+      const fluctuation = Math.floor(Math.random() * 11) - 5;
+      iqEl.textContent = 6000 + fluctuation;
       iqEl.style.color = fluctuation === 0 ? 'var(--cyan)' : fluctuation > 0 ? 'var(--green)' : 'var(--amber)';
     }
     if (iqReasonEl) {
       iqReasonEl.textContent = IQ_REASONS[Math.floor(Math.random() * IQ_REASONS.length)];
     }
 
-    // 3. Rimmer's Directive
-    const dirEl = $('deck-directive');
-    if (dirEl) {
-      dirEl.textContent = DIRECTIVES[Math.floor(Math.random() * DIRECTIVES.length)];
-    }
-
-    // 4. Curry Tracker
+    // 4. Curry Readiness gauge — time-based
     const curryGauge = $('deck-curry-gauge');
-    const curryNameEl = $('deck-curry-name');
     if (curryGauge) {
       const hour = new Date().getHours();
-      // Peaks at lunch (12-14) and dinner (18-21)
       let readiness;
       if (hour >= 11 && hour <= 14) readiness = 70 + Math.floor(Math.random() * 25);
       else if (hour >= 17 && hour <= 21) readiness = 80 + Math.floor(Math.random() * 20);
@@ -333,33 +382,22 @@
         ? 'linear-gradient(90deg, var(--red), var(--amber))'
         : 'linear-gradient(90deg, var(--red-dim), var(--amber-dim))';
     }
-    if (curryNameEl) {
-      curryNameEl.textContent = CURRY_NAMES[Math.floor(Math.random() * CURRY_NAMES.length)];
-    }
 
     // 5. Cat's Mirror Time
     const catEl = $('deck-cat');
     const catCommentEl = $('deck-cat-comment');
     if (catEl) {
-      const pct = (95 + Math.random() * 5).toFixed(1);
-      catEl.textContent = pct + '%';
+      catEl.textContent = (95 + Math.random() * 5).toFixed(1) + '%';
     }
     if (catCommentEl) {
       catCommentEl.textContent = CAT_COMMENTS[Math.floor(Math.random() * CAT_COMMENTS.length)];
-    }
-
-    // 6. Kryten's Cleaning Log
-    const cleaningEl = $('deck-cleaning');
-    if (cleaningEl) {
-      cleaningIndex = (cleaningIndex + 1) % CLEANING_TASKS.length;
-      cleaningEl.textContent = '▸ ' + CLEANING_TASKS[cleaningIndex];
     }
 
     // 7. Starbug Readiness
     const starbugGauge = $('deck-starbug-gauge');
     const starbugReasonEl = $('deck-starbug-reason');
     if (starbugGauge) {
-      const readiness = 60 + Math.floor(Math.random() * 36); // 60-95%
+      const readiness = 60 + Math.floor(Math.random() * 36);
       starbugGauge.style.width = readiness + '%';
       starbugGauge.style.background = readiness > 85
         ? 'linear-gradient(90deg, var(--amber), var(--green))'
@@ -368,52 +406,16 @@
     if (starbugReasonEl) {
       starbugReasonEl.textContent = STARBUG_EXCUSES[Math.floor(Math.random() * STARBUG_EXCUSES.length)];
     }
-
-    // 8. Radiation Level
-    const radEl = $('deck-radiation');
-    if (radEl) {
-      const spike = Math.random() < 0.08; // 8% chance of spike
-      const base = 0.08 + Math.random() * 0.15;
-      const val = spike ? base + Math.random() * 0.5 : base;
-      radEl.textContent = val.toFixed(2);
-      radEl.className = 'deck-value' + (spike ? ' spike' : '');
-    }
-
-    // 9. Episode of the Day (changes every 30s)
-    const epEl = $('deck-episode');
-    const epSeriesEl = $('deck-episode-series');
-    if (epEl && epSeriesEl) {
-      const ep = EPISODES[episodeIndex];
-      epEl.textContent = ep.title;
-      epSeriesEl.textContent = ep.series;
-    }
-
-    // 10. Ship's Log
-    const logEl = $('deck-log');
-    if (logEl) {
-      logIndex = (logIndex + 1) % LOG_ENTRIES.length;
-      const entry = document.createElement('div');
-      entry.className = 'log-entry';
-      entry.textContent = LOG_ENTRIES[logIndex];
-      logEl.appendChild(entry);
-      // Keep last 20 entries
-      while (logEl.children.length > 20) {
-        logEl.removeChild(logEl.firstChild);
-      }
-      logEl.scrollTop = logEl.scrollHeight;
-    }
   }
 
-  // Initial render
-  renderDeckEntertainment();
+  // Init: set daily items, then start timers
+  renderDeckDaily();
+  renderDeckPerMinute();
+  renderDeckFrequent();
 
-  // Live updates every 4 seconds
-  setInterval(renderDeckEntertainment, 4000);
-
-  // Episode changes every 30 seconds
-  setInterval(function() {
-    episodeIndex = (episodeIndex + 1) % EPISODES.length;
-  }, 30000);
+  // Timers at different cadences
+  setInterval(renderDeckPerMinute, 30000);  // every 30s
+  setInterval(renderDeckFrequent, 8000);    // every 8s
   const LOCATION_NAMES = { altrincham: 'Altrincham', overseal: 'Overseal', llandudno: 'Llandudno' };
 
   function generateCrewReports(locKey, temp, conditions) {
