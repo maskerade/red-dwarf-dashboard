@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-14T22:39:55.295854+00:00",
+  "timestamp": "2026-06-14T23:10:54.994509+00:00",
   "house": {
     "indoor_temp": 21.3,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 13.0,
-    "outdoor_humidity": 81.0,
-    "wind_speed": 0.0,
-    "wind_direction": 54.0,
+    "outdoor_temp": 12.6,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 3.6,
+    "wind_direction": 328.0,
     "pressure": 1021.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 643.0,
+    "power_usage": 474.0,
     "gas_consumption": 123.747050619167,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "EU sovereignty push gives tech buyers a new alphabet soup to swallow",
     "Scientists pour cold water on claims phones are rewiring kids' brains"
   ],
-  "crew_quote": "\"Ah, 14 degrees? That's almost warm enough for a curry! Maybe I'll just have a blast of the indoor heating instead, though—can't be too careful when it comes to vital curry preservation!\""
+  "crew_quote": "\"Clear skies up there, but I’m sweating like a curry in a sauna down here at 21.3°C! Anyone fancy a pint while we wait for the AI to learn how to make one?\""
 }
