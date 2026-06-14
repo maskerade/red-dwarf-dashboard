@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-14T21:37:54.861826+00:00",
+  "timestamp": "2026-06-14T22:08:54.573340+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.2,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 14.4,
-    "outdoor_humidity": 77.0,
+    "outdoor_temp": 13.7,
+    "outdoor_humidity": 79.0,
     "wind_speed": 0.0,
-    "wind_direction": 322.0,
+    "wind_direction": 333.0,
     "pressure": 1021.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 432.0,
+    "power_usage": 441.0,
     "gas_consumption": 123.747050619167,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy"
+      "temp": 14.0,
+      "conditions": "Clear "
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 12.0,
       "conditions": "Partly Cloudy "
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Partly Cloudy "
+      "temp": 12.0,
+      "conditions": "Clear "
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "EU sovereignty push gives tech buyers a new alphabet soup to swallow",
     "Scientists pour cold water on claims phones are rewiring kids' brains"
   ],
-  "crew_quote": "\"You know, at 21.3°C, I might need to reevaluate my wardrobe, but it's still not as hot as my last curry. Now that's what I call a real temperature!\""
+  "crew_quote": "\"With all this lovely clear weather, I reckon I could cook up a proper curry and call it a day—21 degrees indoors is practically tropical for a spaceship!\""
 }
