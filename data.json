@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-14T16:58:51.168260+00:00",
+  "timestamp": "2026-06-14T17:29:52.331899+00:00",
   "house": {
-    "indoor_temp": 22.0,
-    "indoor_humidity": 49.0,
-    "outdoor_temp": 20.2,
-    "outdoor_humidity": 58.0,
-    "wind_speed": 0.4,
+    "indoor_temp": 21.9,
+    "indoor_humidity": 50.0,
+    "outdoor_temp": 20.5,
+    "outdoor_humidity": 59.0,
+    "wind_speed": 0.0,
     "wind_direction": 81.0,
-    "pressure": 1021.8,
+    "pressure": 1021.7,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 3211.0,
+    "uv_index": 0.0,
+    "power_usage": 314.0,
     "gas_consumption": 123.747050619167,
     "heating_active": false
   },
@@ -25,7 +25,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Partly cloudy"
+      "conditions": "Partly Cloudy "
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "EU sovereignty push gives tech buyers a new alphabet soup to swallow",
     "Scientists pour cold water on claims phones are rewiring kids' brains"
   ],
-  "crew_quote": "\"Even with the weather being a lovely 19 degrees, I still can't figure out how to make a decent curry without burning it to a crisp!\""
+  "crew_quote": "\"Well, at least it’s only 21.9°C inside, mate. Perfect curry weather, just don't get the spices mixed with the humidity, or you'll be sweating like Rimmer in a quiz!\""
 }
