@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-14T06:38:57.602554+00:00",
+  "timestamp": "2026-06-14T07:09:57.647011+00:00",
   "house": {
-    "indoor_temp": 21.2,
-    "indoor_humidity": 55.0,
-    "outdoor_temp": 12.5,
+    "indoor_temp": 22.2,
+    "indoor_humidity": 54.0,
+    "outdoor_temp": 12.8,
     "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
-    "wind_direction": 88.0,
-    "pressure": 1023.6,
+    "wind_direction": 89.0,
+    "pressure": 1023.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 325.0,
-    "gas_consumption": 122.547033897084,
+    "power_usage": 373.0,
+    "gas_consumption": 123.322047040834,
     "heating_active": false
   },
   "locations": {
@@ -43,5 +43,5 @@
     "NHS patients can't opt out of Palantir's data platform – but their hospital can",
     "XP-era Windows spotted haunting London's driverless railway"
   ],
-  "crew_quote": "\"With this lovely 21.2°C inside, I could almost forget about that patchy rain outside, but let's be honest—who wants to go out when there’s curry to be had?\""
+  "crew_quote": "\"Oh, look at that! It’s 12 degrees and partly cloudy. A perfect day for a curry... or just sitting in here ignoring the patchy rain!\""
 }
