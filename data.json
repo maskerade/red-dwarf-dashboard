@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-14T04:03:55.979588+00:00",
+  "timestamp": "2026-06-14T04:34:56.028292+00:00",
   "house": {
     "indoor_temp": 20.4,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 11.0,
-    "outdoor_humidity": 92.0,
-    "wind_speed": 0.0,
-    "wind_direction": 90.0,
-    "pressure": 1023.5,
+    "outdoor_temp": 11.7,
+    "outdoor_humidity": 90.0,
+    "wind_speed": 0.4,
+    "wind_direction": 91.0,
+    "pressure": 1023.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 261.0,
+    "power_usage": 244.0,
     "gas_consumption": 121.872023539167,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "NHS patients can't opt out of Palantir's data platform – but their hospital can",
     "XP-era Windows spotted haunting London's driverless railway"
   ],
-  "crew_quote": "\"Well, I don’t know about you lot, but I fancy a nice curry to heat things up a bit, especially when it’s only 10°C out there and feeling like a fridge in here!\""
+  "crew_quote": "\"Well, with the indoor temp at a cozy 20.4°C, I reckon I could whip up a cracking curry while pondering how a robot could kick a football better than Rimmer!\""
 }
