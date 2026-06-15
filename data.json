@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T05:54:00.060741+00:00",
+  "timestamp": "2026-06-15T06:25:00.343023+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.8,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 11.8,
+    "outdoor_temp": 12.2,
     "outdoor_humidity": 83.0,
-    "wind_speed": 1.8,
-    "wind_direction": 314.0,
-    "pressure": 1019.2,
+    "wind_speed": 0.0,
+    "wind_direction": 323.0,
+    "pressure": 1019.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 255.0,
+    "power_usage": 286.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "AI is code – and can't be prompted into being smarter",
     "EU sovereignty push gives tech buyers a new alphabet soup to swallow"
   ],
-  "crew_quote": "\"Blimey, it's 11 degrees out and cloudy! Perfect curry weather, just like the days when I dreamt of being a pop star — all the heat's in here, not out there!\""
+  "crew_quote": "\"With the weather being a balmy 11 degrees, it's the perfect temperature for a curry—just enough to warm your insides while you contemplate the slow burn of Google Cloud!\""
 }
