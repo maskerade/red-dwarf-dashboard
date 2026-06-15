@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-15T05:22:59.346711+00:00",
+  "timestamp": "2026-06-15T05:54:00.060741+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.7,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 11.5,
-    "outdoor_humidity": 85.0,
-    "wind_speed": 1.4,
-    "wind_direction": 328.0,
-    "pressure": 1019.5,
+    "outdoor_temp": 11.8,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 1.8,
+    "wind_direction": 314.0,
+    "pressure": 1019.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 252.0,
-    "gas_consumption": 123.747050619167,
+    "power_usage": 255.0,
+    "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
+      "temp": 11.0,
+      "conditions": "Cloudy "
+    },
+    "overseal": {
       "temp": 9.0,
       "conditions": "Partly Cloudy "
     },
-    "overseal": {
-      "temp": 8.0,
-      "conditions": "Mist"
-    },
     "llandudno": {
       "temp": 13.0,
-      "conditions": "Rain"
+      "conditions": "Partly cloudy"
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "AI is code – and can't be prompted into being smarter",
     "EU sovereignty push gives tech buyers a new alphabet soup to swallow"
   ],
-  "crew_quote": "\"Well, at least it’s warmer inside than it is out there — you’d need a curry just to survive the mist in Overseal!\""
+  "crew_quote": "\"Blimey, it's 11 degrees out and cloudy! Perfect curry weather, just like the days when I dreamt of being a pop star — all the heat's in here, not out there!\""
 }
