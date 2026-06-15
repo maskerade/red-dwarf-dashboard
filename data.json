@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-06-15T13:08:07.488800+00:00",
+  "timestamp": "2026-06-15T13:39:08.331789+00:00",
   "house": {
     "indoor_temp": 21.2,
-    "indoor_humidity": 52.0,
-    "outdoor_temp": 19.0,
+    "indoor_humidity": 53.0,
+    "outdoor_temp": 19.3,
     "outdoor_humidity": 69.0,
     "wind_speed": 4.0,
-    "wind_direction": 301.0,
-    "pressure": 1016.0,
+    "wind_direction": 305.0,
+    "pressure": 1015.6,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 207.0,
+    "uv_index": 1.0,
+    "power_usage": 199.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Light Rain"
+      "temp": 18.0,
+      "conditions": "Overcast "
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Light Rain"
+      "temp": 18.0,
+      "conditions": "Overcast "
     },
     "llandudno": {
       "temp": 21.0,
@@ -43,5 +43,5 @@
     "UK Treasury hunts CTO on salary that may not compute for top tech talent",
     "Palantir's NHS data deal called in for a second opinion"
   ],
-  "crew_quote": "\"Looks like it’s the perfect weather for a curry and a good movie, unless it rains so much we need flotation devices for the ship!\""
+  "crew_quote": "\"Listen, if the weather's going to be as overcast as my love life, I might as well whip up a curry and start wondering why the bots get paid more than me!\""
 }
