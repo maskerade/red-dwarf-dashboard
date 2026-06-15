@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T14:10:09.735480+00:00",
+  "timestamp": "2026-06-15T14:41:09.126232+00:00",
   "house": {
     "indoor_temp": 21.1,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 18.8,
-    "outdoor_humidity": 70.0,
-    "wind_speed": 0.0,
-    "wind_direction": 52.0,
-    "pressure": 1015.3,
+    "outdoor_temp": 19.7,
+    "outdoor_humidity": 66.0,
+    "wind_speed": 0.4,
+    "wind_direction": 342.0,
+    "pressure": 1015.0,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 216.0,
+    "power_usage": 191.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Salesforce reels in customer support AI specialist Fin for $3.6B",
     "PRC-linked spies hid inside medical and military networks for more than a year, snooping through Gmail and stealing data",
     "Arch Linux locks down AUR signups amid wave of malicious commits",
-    "US clampdown on Anthropic models sends EU sovereignty surge into overdrive",
-    "Flatpak-NG sounds like bad news for systemd refuseniks"
+    "US clampdown on Anthropic models sends EU sovereignty surge into overdrive"
   ],
-  "crew_quote": "\"With this weather, I reckon a good curry would be just what we need, mate—warm it right up, like a cozy hug for your stomach!\""
+  "crew_quote": "\"With the weather being all overcast and a cozy 21 degrees inside, I reckon it's a perfect time for a curry — just don’t let Rimmer near it; he’ll try to overanalyze the spices!\""
 }
