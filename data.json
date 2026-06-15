@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T16:45:11.051388+00:00",
+  "timestamp": "2026-06-15T17:16:11.414183+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.9,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 19.6,
-    "outdoor_humidity": 70.0,
-    "wind_speed": 0.0,
-    "wind_direction": 58.0,
-    "pressure": 1014.3,
+    "outdoor_temp": 19.3,
+    "outdoor_humidity": 71.0,
+    "wind_speed": 0.4,
+    "wind_direction": 294.0,
+    "pressure": 1013.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 233.0,
+    "power_usage": 202.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Due to an earlier failed vehicle we are expriencing a networkwide minor delay. Metrolink apologises for any inconvenience caused to your journey.",
   "headlines": [
+    "Java's Project Valhalla finally lands a preview in JDK 28",
+    "Feds snooze as US datacenter law set to lapse with no replacement in site",
     "The Y2K bug is back! Danish dev digs up untimely flaw in old BSD build",
-    "NASA management wants a word and won't say why",
-    "Red Hat gives Ubuntu a bootc up the backside at Canonical shindig",
-    "Microsoft site throwing warnings after someone forgot to renew cert"
+    "NASA management wants a word and won't say why"
   ],
-  "crew_quote": "\"You know, with it being 19 degrees and all, I reckon we should celebrate by ordering a curry and pretending the Y2K bug is just a bad take on Lister's cooking!\""
+  "crew_quote": "\"Well, it's a lovely 19 degrees out there, which is just perfect for a curry, if you ask me! But knowing my luck, it'll probably rain—like it always does!\""
 }
