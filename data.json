@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T12:06:05.043690+00:00",
+  "timestamp": "2026-06-15T12:37:07.582944+00:00",
   "house": {
-    "indoor_temp": 21.1,
+    "indoor_temp": 21.2,
     "indoor_humidity": 52.0,
-    "outdoor_temp": 18.0,
-    "outdoor_humidity": 71.0,
-    "wind_speed": 3.6,
-    "wind_direction": 306.0,
-    "pressure": 1016.8,
+    "outdoor_temp": 18.9,
+    "outdoor_humidity": 70.0,
+    "wind_speed": 0.0,
+    "wind_direction": 350.0,
+    "pressure": 1016.6,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 261.0,
+    "power_usage": 221.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Flatpak-NG sounds like bad news for systemd refuseniks",
     "UK AI hiring surges as firms seek people to babysit the bots",
     "UK Treasury hunts CTO on salary that may not compute for top tech talent",
-    "Palantir's NHS data deal called in for a second opinion",
-    "Britain plots digital bedtime after kicking under-16s off social media"
+    "Palantir's NHS data deal called in for a second opinion"
   ],
-  "crew_quote": "\"Looks like it’s a proper rainy day outside; perfect for a curry and a good moan about the bots getting more jobs than me! Not that it’s ever stopped me from dreaming.\""
+  "crew_quote": "\"Ah, light rain again? I’d prefer it to be a curry downpour, at least that’d spice things up around here!\""
 }
