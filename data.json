@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T19:51:13.290964+00:00",
+  "timestamp": "2026-06-15T20:22:13.887805+00:00",
   "house": {
     "indoor_temp": 20.8,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 18.3,
-    "outdoor_humidity": 74.0,
+    "outdoor_temp": 18.0,
+    "outdoor_humidity": 75.0,
     "wind_speed": 0.0,
-    "wind_direction": 291.0,
+    "wind_direction": 317.0,
     "pressure": 1013.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 191.0,
+    "power_usage": 210.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "Java's Project Valhalla finally lands a preview in JDK 28",
     "Feds snooze as US datacenter law set to lapse with no replacement in site"
   ],
-  "crew_quote": "\"It's a bit chilly outside, isn't it? Perfect weather for a curry, though—nothing like a warm vindaloo to brighten up a rainy day!\""
+  "crew_quote": "\"Isn't it lovely out? 18°C and partly cloudy, perfect weather for a curry! Just what we need to distract from, you know, the whole hacky thing.\""
 }
