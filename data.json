@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T15:12:09.897694+00:00",
+  "timestamp": "2026-06-15T15:43:09.612256+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 20.2,
-    "outdoor_humidity": 68.0,
-    "wind_speed": 0.4,
-    "wind_direction": 287.0,
+    "outdoor_temp": 21.1,
+    "outdoor_humidity": 66.0,
+    "wind_speed": 0.0,
+    "wind_direction": 291.0,
     "pressure": 1014.7,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 207.0,
+    "power_usage": 227.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -36,12 +36,12 @@
     "moonrise": "04:08 AM",
     "moonset": "10:56 PM"
   },
-  "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
+  "metrolink": "Due to an earlier failed vehicle we are expriencing a minor to severe delay network wide. Metrolink apologises for any inconvenience caused to your journey.",
   "headlines": [
     "Europe's AI paralysis has a solution - and it starts with a semantic twin",
     "Salesforce reels in customer support AI specialist Fin for $3.6B",
     "PRC-linked spies hid inside medical and military networks for more than a year, snooping through Gmail and stealing data",
     "Arch Linux locks down AUR signups amid wave of malicious commits"
   ],
-  "crew_quote": "\"Ah, patchy rain nearby? Sounds like it's perfect weather for a curry — just make sure it’s not too spicy, or I’ll be calling the fire brigade!\""
+  "crew_quote": "\"Well, it’s a balmy 19 degrees and overcast; just perfect for a nice curry and a good old moan about how the weather’s not up to scratch, innit?\""
 }
