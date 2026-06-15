@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T15:43:09.612256+00:00",
+  "timestamp": "2026-06-15T16:14:10.749642+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 21.1,
-    "outdoor_humidity": 66.0,
-    "wind_speed": 0.0,
-    "wind_direction": 291.0,
-    "pressure": 1014.7,
+    "outdoor_temp": 19.9,
+    "outdoor_humidity": 69.0,
+    "wind_speed": 1.4,
+    "wind_direction": 295.0,
+    "pressure": 1014.5,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 227.0,
+    "uv_index": 0.0,
+    "power_usage": 193.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -36,12 +36,12 @@
     "moonrise": "04:08 AM",
     "moonset": "10:56 PM"
   },
-  "metrolink": "Due to an earlier failed vehicle we are expriencing a minor to severe delay network wide. Metrolink apologises for any inconvenience caused to your journey.",
+  "metrolink": "Due to an earlier failed vehicle we are expriencing a networkwide minor delay. Metrolink apologises for any inconvenience caused to your journey.",
   "headlines": [
+    "Red Hat gives Ubuntu a bootc up the backside at Canonical shindig",
+    "Microsoft site throwing warnings after someone forgot to renew cert",
     "Europe's AI paralysis has a solution - and it starts with a semantic twin",
-    "Salesforce reels in customer support AI specialist Fin for $3.6B",
-    "PRC-linked spies hid inside medical and military networks for more than a year, snooping through Gmail and stealing data",
-    "Arch Linux locks down AUR signups amid wave of malicious commits"
+    "Salesforce reels in customer support AI specialist Fin for $3.6B"
   ],
-  "crew_quote": "\"Well, it’s a balmy 19 degrees and overcast; just perfect for a nice curry and a good old moan about how the weather’s not up to scratch, innit?\""
+  "crew_quote": "\"19 degrees and overcast? Sounds like perfect curry-eating weather to me! Let’s whip up a vindaloo and deal with this patchy rain like true space legends!\""
 }
