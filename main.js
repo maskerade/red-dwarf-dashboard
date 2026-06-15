@@ -43,6 +43,17 @@
         : { text: 'STANDBY', cls: 'null-value' };
     }
 
+    // Wind direction — cardinal + arrow
+    if (key === 'wind_direction') {
+      const num = Number(value);
+      if (isNaN(num)) return { text: 'ERR', cls: 'null-value' };
+      const directions = ['N','NNE','NE','ENE','E','ESE','SE','SSE',
+                          'S','SSW','SW','WSW','W','WNW','NW','NNW'];
+      const idx = Math.round(num / 22.5) % 16;
+      const cardinal = directions[idx];
+      return { text: cardinal + ' ' + degArrow(num), cls: 'wind-rose' };
+    }
+
     // Number formatting
     let num = Number(value);
     if (isNaN(num)) return { text: 'ERR', cls: 'null-value' };
@@ -55,6 +66,18 @@
     }
     text += cfg.suffix;
     return { text, cls: '' };
+  }
+
+  function degArrow(deg) {
+    // Returns directional arrow based on angle
+    if (deg >= 337.5 || deg < 22.5) return '↑';
+    if (deg < 67.5) return '↗';
+    if (deg < 112.5) return '→';
+    if (deg < 157.5) return '↘';
+    if (deg < 202.5) return '↓';
+    if (deg < 247.5) return '↙';
+    if (deg < 292.5) return '←';
+    return '↖';
   }
 
   /**
@@ -408,10 +431,72 @@
     }
   }
 
+  // ── Toast-O-Matic state ────────────────────────────────────────
+  let toastCount = 0;
+  const TOAST_MESSAGES = [
+    'Would anyone like any toast?',
+    'Toast, sirs? Freshly toasted!',
+    'I have prepared toast. Would you care for some?',
+    'Toast is ready. I used the good bread.',
+    'I\'ve taken the liberty of making toast.',
+    'More toast? I anticipated this request.',
+    'Toast! Lovely, lovely toast!',
+    'I\'ve calibrated the toaster to perfection.',
+    'A fresh batch of toast, sir. Golden brown.',
+    'Toast — the universal constant.',
+    'Crumpets are also available, but toast is preferable.',
+    'Your toast, sir. I\'ve buttered it diagonally.',
+    'I\'ve prepared toast with a variety of preserves.',
+    'Toast. Because everything else is just bread.',
+    'The toaster and I have reached an understanding.',
+  ];
+
+  function setupToast() {
+    const btn = $('toast-btn');
+    const msg = $('toast-message');
+    const gauge = $('toast-gauge');
+    const quality = $('toast-quality');
+    const count = $('toast-count');
+
+    if (!btn) return;
+
+    btn.addEventListener('click', function() {
+      toastCount++;
+      if (count) count.textContent = toastCount;
+
+      // Random toast message
+      if (msg) {
+        msg.style.opacity = '0';
+        setTimeout(() => {
+          msg.textContent = TOAST_MESSAGES[Math.floor(Math.random() * TOAST_MESSAGES.length)];
+          msg.style.opacity = '1';
+        }, 200);
+      }
+
+      // Toast quality gauge wobbles
+      if (gauge) {
+        const qualityPct = 50 + Math.floor(Math.random() * 46);
+        gauge.style.width = qualityPct + '%';
+        gauge.style.background = qualityPct > 80
+          ? 'linear-gradient(90deg, var(--amber), var(--green))'
+          : qualityPct > 60
+          ? 'linear-gradient(90deg, var(--red), var(--amber))'
+          : 'linear-gradient(90deg, var(--red-dim), var(--red))';
+      }
+
+      // Quality comment
+      if (quality) {
+        const comments = ['PERFECTLY TOASTED', 'GOLDEN BROWN', 'SLIGHTLY CRISPY', 'A BIT DARK', 'ALMOST BURNT', 'EXQUISITE', 'JUST RIGHT'];
+        quality.textContent = 'TOAST QUALITY: ' + comments[Math.floor(Math.random() * comments.length)];
+      }
+    });
+  }
+
   // Init: set daily items, then start timers
   renderDeckDaily();
   renderDeckPerMinute();
   renderDeckFrequent();
+  setupToast();
 
   // Timers at different cadences
   setInterval(renderDeckPerMinute, 30000);  // every 30s
