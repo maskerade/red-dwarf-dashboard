@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T09:31:03.588008+00:00",
+  "timestamp": "2026-06-15T10:02:04.056762+00:00",
   "house": {
-    "indoor_temp": 20.9,
-    "indoor_humidity": 55.0,
-    "outdoor_temp": 15.6,
-    "outdoor_humidity": 73.0,
-    "wind_speed": 0.0,
-    "wind_direction": 299.0,
-    "pressure": 1018.0,
+    "indoor_temp": 21.4,
+    "indoor_humidity": 52.0,
+    "outdoor_temp": 16.3,
+    "outdoor_humidity": 71.0,
+    "wind_speed": 0.4,
+    "wind_direction": 297.0,
+    "pressure": 1017.6,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 410.0,
+    "power_usage": 365.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Palantir's NHS data deal called in for a second opinion",
     "Britain plots digital bedtime after kicking under-16s off social media",
     "Google found liable for bad AI Overview results. Let’s play Truth Or Consequences",
-    "Munch Museum Windows display gives visitors something to scream about",
-    "Chinese e-tailer claimed 14-inch box stretched the size of a 9-inch tablet"
+    "Munch Museum Windows display gives visitors something to scream about"
   ],
-  "crew_quote": "\"Blimey, it's 20.9°C indoors! Makes me want to whip up a curry and moan about the rain outside—who needs social media when you've got a good vindaloo?\""
+  "crew_quote": "\"With this weather, it's perfect for a curry night! Just don’t forget to leave the social media drama outside, eh?\""
 }
