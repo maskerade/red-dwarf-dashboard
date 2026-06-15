@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-15T14:41:09.126232+00:00",
+  "timestamp": "2026-06-15T15:12:09.897694+00:00",
   "house": {
-    "indoor_temp": 21.1,
+    "indoor_temp": 21.0,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 19.7,
-    "outdoor_humidity": 66.0,
+    "outdoor_temp": 20.2,
+    "outdoor_humidity": 68.0,
     "wind_speed": 0.4,
-    "wind_direction": 342.0,
-    "pressure": 1015.0,
+    "wind_direction": 287.0,
+    "pressure": 1014.7,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 191.0,
+    "power_usage": 207.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Overcast "
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Overcast "
+      "temp": 19.0,
+      "conditions": "Patchy rain nearby"
     },
     "llandudno": {
-      "temp": 21.0,
-      "conditions": "Partly cloudy"
+      "temp": 19.0,
+      "conditions": "Patchy rain nearby"
     }
   },
   "astronomy": {
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Europe's AI paralysis has a solution - and it starts with a semantic twin",
     "Salesforce reels in customer support AI specialist Fin for $3.6B",
     "PRC-linked spies hid inside medical and military networks for more than a year, snooping through Gmail and stealing data",
-    "Arch Linux locks down AUR signups amid wave of malicious commits",
-    "US clampdown on Anthropic models sends EU sovereignty surge into overdrive"
+    "Arch Linux locks down AUR signups amid wave of malicious commits"
   ],
-  "crew_quote": "\"With the weather being all overcast and a cozy 21 degrees inside, I reckon it's a perfect time for a curry — just don’t let Rimmer near it; he’ll try to overanalyze the spices!\""
+  "crew_quote": "\"Ah, patchy rain nearby? Sounds like it's perfect weather for a curry — just make sure it’s not too spicy, or I’ll be calling the fire brigade!\""
 }
