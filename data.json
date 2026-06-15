@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T23:28:16.643866+00:00",
+  "timestamp": "2026-06-15T23:59:17.477872+00:00",
   "house": {
     "indoor_temp": 20.7,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 15.5,
-    "outdoor_humidity": 83.0,
+    "outdoor_temp": 15.2,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
     "wind_direction": 337.0,
-    "pressure": 1013.7,
+    "pressure": 1013.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 205.0,
+    "power_usage": 207.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "DARPA seeks swappable satellites to help with future star wars",
     "Anthropic reserves right to check ID for Claude subs"
   ],
-  "crew_quote": "\"Honestly, at 16 degrees and overcast, I reckon it’s the perfect weather for a nice curry — just like the drizzle in Llandudno, but much tastier!\""
+  "crew_quote": "\"You know, with the drizzle in Llandudno, it's the perfect weather for a curry night — unless you fancy a trip on a spaceship, then it's just overcast and cozy in here!\""
 }
