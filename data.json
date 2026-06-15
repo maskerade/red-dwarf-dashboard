@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-15T21:55:15.103668+00:00",
+  "timestamp": "2026-06-15T22:26:15.658653+00:00",
   "house": {
     "indoor_temp": 20.8,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 16.3,
+    "outdoor_temp": 15.9,
     "outdoor_humidity": 81.0,
-    "wind_speed": 1.4,
-    "wind_direction": 324.0,
-    "pressure": 1013.5,
+    "wind_speed": 0.4,
+    "wind_direction": 329.0,
+    "pressure": 1013.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 191.0,
@@ -43,5 +43,5 @@
     "DARPA seeks swappable satellites to help with future star wars",
     "Anthropic reserves right to check ID for Claude subs"
   ],
-  "crew_quote": "\"With the weather being as dreary as my haircut, I reckon a nice curry might brighten things up! Who's up for a spicy rescue mission?\""
+  "crew_quote": "\"With this weather, it's almost as if the universe is telling us to stay indoors, put the kettle on, and whip up a good curry instead of worrying about SD-WAN bugs, eh?\""
 }
