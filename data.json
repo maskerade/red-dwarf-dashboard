@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T12:37:07.582944+00:00",
+  "timestamp": "2026-06-15T13:08:07.488800+00:00",
   "house": {
     "indoor_temp": 21.2,
     "indoor_humidity": 52.0,
-    "outdoor_temp": 18.9,
-    "outdoor_humidity": 70.0,
-    "wind_speed": 0.0,
-    "wind_direction": 350.0,
-    "pressure": 1016.6,
+    "outdoor_temp": 19.0,
+    "outdoor_humidity": 69.0,
+    "wind_speed": 4.0,
+    "wind_direction": 301.0,
+    "pressure": 1016.0,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 221.0,
+    "uv_index": 2.0,
+    "power_usage": 207.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "UK Treasury hunts CTO on salary that may not compute for top tech talent",
     "Palantir's NHS data deal called in for a second opinion"
   ],
-  "crew_quote": "\"Ah, light rain again? I’d prefer it to be a curry downpour, at least that’d spice things up around here!\""
+  "crew_quote": "\"Looks like it’s the perfect weather for a curry and a good movie, unless it rains so much we need flotation devices for the ship!\""
 }
