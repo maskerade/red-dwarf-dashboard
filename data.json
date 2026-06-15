@@ -1,47 +1,40 @@
 {
-  "timestamp": "2026-06-15T08:29:02.830102+00:00",
+  "timestamp": "2026-06-15T09:00:46.522824+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.7,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 14.1,
-    "outdoor_humidity": 77.0,
-    "wind_speed": 2.2,
-    "wind_direction": 324.0,
-    "pressure": 1018.6,
+    "outdoor_temp": 15.1,
+    "outdoor_humidity": 74.0,
+    "wind_speed": 1.1,
+    "wind_direction": 298.0,
+    "pressure": 1018.3,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 446.0,
+    "uv_index": 1.0,
+    "power_usage": 1489.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Cloudy "
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 10.0,
-      "conditions": "Patchy light drizzle"
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Cloudy "
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:40 AM",
-    "sunset": "09:39 PM",
-    "moon_phase": "New Moon",
-    "moon_illumination": "0",
-    "moonrise": "04:08 AM",
-    "moonset": "10:56 PM"
-  },
+  "astronomy": {},
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Google found liable for bad AI Overview results. Let’s play Truth Or Consequences",
     "Chinese e-tailer claimed 14-inch box stretched the size of a 9-inch tablet",
     "Fire burns Google Cloud India’s network, which remains slow a week later",
-    "US Army picks out Vampire to fill a gap in its layered drone defenses",
-    "AI is code – and can't be prompted into being smarter"
+    "US Army picks out Vampire to fill a gap in its layered drone defenses"
   ],
-  "crew_quote": "\"Cor, it’s so chilly out there, I thought I’d accidentally stepped into a curry without the heat! I mean, who wants drizzle when you can have a proper curry on a rainy day?\""
+  "crew_quote": "\"Well, at least it's a nice, comfortable 20.7°C indoors while we ponder why Google can't find its own backside with both hands—what a bunch of muppets!\""
 }
