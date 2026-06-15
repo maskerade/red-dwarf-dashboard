@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T10:33:04.640180+00:00",
+  "timestamp": "2026-06-15T11:04:04.898585+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 20.9,
     "indoor_humidity": 51.0,
-    "outdoor_temp": 17.2,
-    "outdoor_humidity": 70.0,
+    "outdoor_temp": 16.5,
+    "outdoor_humidity": 76.0,
     "wind_speed": 0.0,
-    "wind_direction": 298.0,
-    "pressure": 1017.5,
+    "wind_direction": 294.0,
+    "pressure": 1017.3,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 373.0,
+    "power_usage": 334.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "Google found liable for bad AI Overview results. Let’s play Truth Or Consequences",
     "Munch Museum Windows display gives visitors something to scream about"
   ],
-  "crew_quote": "\"With the weather around here, it's like a light curry gone wrong—warm inside but damp and drizzly outside. Just my luck, eh?\""
+  "crew_quote": "\"Oi, it’s fifteen degrees outside, perfect curry weather! Just hope it doesn’t rain all over my takeaway—what’s the point of a soggy samosa?\""
 }
