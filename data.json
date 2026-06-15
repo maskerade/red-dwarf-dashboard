@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T00:12:56.915398+00:00",
+  "timestamp": "2026-06-15T00:43:56.435689+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.1,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 11.5,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 10.8,
+    "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
     "wind_direction": 320.0,
     "pressure": 1020.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 348.0,
+    "power_usage": 354.0,
     "gas_consumption": 123.747050619167,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "AI is code – and can't be prompted into being smarter",
     "EU sovereignty push gives tech buyers a new alphabet soup to swallow"
   ],
-  "crew_quote": "\"Blimey, it's warmer indoors than it is outside! If this keeps up, I might just have to whip up a curry and throw a party—just don't let Rimmer near the thermostat!\""
+  "crew_quote": "\"Ah, perfect weather for a curry in Altrincham—13 degrees and clear! Just me, a hot plate, and enough spice to set the universe on fire!\""
 }
