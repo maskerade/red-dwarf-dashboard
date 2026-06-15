@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-15T03:49:58.636876+00:00",
+  "timestamp": "2026-06-15T04:20:59.203991+00:00",
   "house": {
     "indoor_temp": 20.7,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 9.7,
-    "outdoor_humidity": 91.0,
+    "outdoor_temp": 10.1,
+    "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
-    "wind_direction": 320.0,
-    "pressure": 1019.8,
+    "wind_direction": 321.0,
+    "pressure": 1019.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 258.0,
     "gas_consumption": 123.747050619167,
     "heating_active": false
   },
@@ -25,7 +25,7 @@
     },
     "llandudno": {
       "temp": 13.0,
-      "conditions": "Partly Cloudy "
+      "conditions": "Rain"
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "AI is code – and can't be prompted into being smarter",
     "EU sovereignty push gives tech buyers a new alphabet soup to swallow"
   ],
-  "crew_quote": "\"Well, it's not exactly balmy in Altrincham, but at least I won't have to worry about my curry getting cold—just the temperature rising in here with all this power usage!\""
+  "crew_quote": "\"Only in the universe could a place like Altrincham be 9 degrees and still have less fog than my last curry. I wonder if I could heat it up with the power we're wasting!\""
 }
