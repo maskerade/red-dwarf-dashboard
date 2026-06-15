@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-15T20:53:14.405469+00:00",
+  "timestamp": "2026-06-15T21:24:15.472783+00:00",
   "house": {
     "indoor_temp": 20.8,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 17.7,
-    "outdoor_humidity": 77.0,
-    "wind_speed": 0.0,
-    "wind_direction": 317.0,
+    "outdoor_temp": 17.3,
+    "outdoor_humidity": 78.0,
+    "wind_speed": 0.4,
+    "wind_direction": 294.0,
     "pressure": 1013.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 210.0,
+    "power_usage": 196.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Partly cloudy"
+      "temp": 17.0,
+      "conditions": "Overcast"
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 15.0,
       "conditions": "Overcast "
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Light Rain"
+      "conditions": "Overcast"
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "Java's Project Valhalla finally lands a preview in JDK 28",
     "Feds snooze as US datacenter law set to lapse with no replacement in site"
   ],
-  "crew_quote": "\"With 18°C outside, it’s almost too warm for a nice curry—must be a sign the universe is trying to make me eat healthy or something.\""
+  "crew_quote": "\"Blimey, it's so overcast outside, I wouldn't be surprised if a curry went missing in the gloom—just my luck, right?\""
 }
