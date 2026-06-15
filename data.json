@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-15T17:47:11.707768+00:00",
+  "timestamp": "2026-06-15T18:18:12.229960+00:00",
   "house": {
     "indoor_temp": 20.9,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 19.1,
-    "outdoor_humidity": 70.0,
-    "wind_speed": 0.0,
-    "wind_direction": 291.0,
-    "pressure": 1013.9,
+    "outdoor_temp": 19.0,
+    "outdoor_humidity": 71.0,
+    "wind_speed": 0.4,
+    "wind_direction": 294.0,
+    "pressure": 1013.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 227.0,
+    "power_usage": 230.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 19.0,
-      "conditions": "Partly cloudy"
+      "conditions": "Overcast"
     },
     "overseal": {
       "temp": 19.0,
       "conditions": "Partly cloudy"
     },
     "llandudno": {
-      "temp": 19.0,
-      "conditions": "Partly cloudy"
+      "temp": 16.0,
+      "conditions": "Overcast"
     }
   },
   "astronomy": {
@@ -36,12 +36,12 @@
     "moonrise": "04:08 AM",
     "moonset": "10:56 PM"
   },
-  "metrolink": "Due to an earlier failed vehicle we are expriencing a networkwide minor delay. Metrolink apologises for any inconvenience caused to your journey.",
+  "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
     "Council of Europe hacked in ShinyHunters' PeopleSoft heist",
     "Java's Project Valhalla finally lands a preview in JDK 28",
     "Feds snooze as US datacenter law set to lapse with no replacement in site",
-    "The Y2K bug is back! Danish dev digs up untimely flaw in old BSD build"
+    "The Y2K bug is back! Dutch dev digs up untimely flaw in old BSD build"
   ],
-  "crew_quote": "\"19 degrees and partly cloudy? Perfect weather for a curry, mate — just don’t leave it in the micro for too long, or you’ll have a steaming disaster on your hands!\""
+  "crew_quote": "\"19 degrees and overcast? Brilliant! Just the right weather for a curry binge while we wait for the universe to sort itself out — or for someone to hack the council again!\""
 }
