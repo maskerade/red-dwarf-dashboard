@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-15T11:35:04.953052+00:00",
+  "timestamp": "2026-06-15T12:06:05.043690+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 21.1,
     "indoor_humidity": 52.0,
-    "outdoor_temp": 17.4,
-    "outdoor_humidity": 72.0,
-    "wind_speed": 0.4,
-    "wind_direction": 307.0,
-    "pressure": 1017.2,
+    "outdoor_temp": 18.0,
+    "outdoor_humidity": 71.0,
+    "wind_speed": 3.6,
+    "wind_direction": 306.0,
+    "pressure": 1016.8,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 404.0,
+    "power_usage": 261.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby"
+      "temp": 16.0,
+      "conditions": "Light Rain"
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Partly cloudy"
-    },
-    "llandudno": {
       "temp": 14.0,
       "conditions": "Light Rain"
+    },
+    "llandudno": {
+      "temp": 21.0,
+      "conditions": "Partly cloudy"
     }
   },
   "astronomy": {
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "UK AI hiring surges as firms seek people to babysit the bots",
     "UK Treasury hunts CTO on salary that may not compute for top tech talent",
     "Palantir's NHS data deal called in for a second opinion",
-    "Britain plots digital bedtime after kicking under-16s off social media",
-    "Google found liable for bad AI Overview results. Let’s play Truth Or Consequences"
+    "Britain plots digital bedtime after kicking under-16s off social media"
   ],
-  "crew_quote": "\"With all this rain about, it's a wonder my hair doesn't look like a wet mop! But hey, at least it's a cozy 21 degrees in here—perfect curry weather!\""
+  "crew_quote": "\"Looks like it’s a proper rainy day outside; perfect for a curry and a good moan about the bots getting more jobs than me! Not that it’s ever stopped me from dreaming.\""
 }
