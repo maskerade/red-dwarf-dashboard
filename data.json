@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-16T21:41:33.170181+00:00",
+  "timestamp": "2026-06-16T22:12:33.767807+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 16.8,
-    "outdoor_humidity": 91.0,
+    "outdoor_temp": 16.6,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 300.0,
+    "wind_direction": 329.0,
     "pressure": 1015.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 221.0,
+    "power_usage": 191.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Light Rain"
+      "temp": 17.0,
+      "conditions": "Partly cloudy"
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Partly cloudy"
+      "temp": 19.0,
+      "conditions": "Light Rain"
     },
     "llandudno": {
       "temp": 13.0,
-      "conditions": "Light Rain"
+      "conditions": "Light Drizzle"
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "AI and brain-computer interface allow speechless ALS patient to work a full-time job",
     "Three critical Fortinet sandbox bugs splattered by unknown attackers"
   ],
-  "crew_quote": "\"Oi, it’s raining again! I’d say it’s a great day for a curry, but I don’t want to drown my taste buds in this weather!\""
+  "crew_quote": "\"With this weather, I reckon I’d prefer to be in here at 21 degrees, eating a curry, rather than risking light drizzle and feeling all soggy in Llandudno!\""
 }
