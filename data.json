@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-06-16T22:43:34.038359+00:00",
+  "timestamp": "2026-06-16T23:14:34.298604+00:00",
   "house": {
     "indoor_temp": 21.0,
-    "indoor_humidity": 56.0,
-    "outdoor_temp": 15.8,
-    "outdoor_humidity": 96.0,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 15.5,
+    "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 293.0,
+    "wind_direction": 313.0,
     "pressure": 1015.8,
-    "rain_today": 0.3,
+    "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 213.0,
     "gas_consumption": 123.872039586667,
@@ -43,5 +43,5 @@
     "Python dev saved from disaster by intuition...and AI",
     "Intel-born networking tech resurfaces as InfiniBand alternative for DoE supers"
   ],
-  "crew_quote": "\"Ah, the weather's about as cheerful as a curry left out in the rain—19°C and drizzling! Makes me wish I could just sit inside with a pint, not that I ever could.\""
+  "crew_quote": "\"Partly cloudy in Altrincham? Perfect weather for a curry, as long as we don't end up with that drizzly mess from Llandudno – now that's a right disaster!\""
 }
