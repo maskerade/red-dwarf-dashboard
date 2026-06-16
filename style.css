@@ -926,10 +926,122 @@ body::after {
   100% { transform: scale(1); }
 }
 
+/* === Health Strip (#2) === */
+.health-strip {
+  display: flex;
+  gap: 12px;
+  padding: 6px 18px;
+  margin-bottom: 12px;
+  background: rgba(0, 0, 0, 0.15);
+  border: 1px solid rgba(255, 176, 0, 0.06);
+  border-radius: 6px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.health-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.55rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+}
+
+.health-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  flex-shrink: 0;
+  transition: background 0.5s, box-shadow 0.5s;
+}
+
+.health-dot.online {
+  background: var(--green);
+  box-shadow: 0 0 4px rgba(0, 255, 136, 0.5);
+}
+.health-dot.stale {
+  background: var(--amber);
+  box-shadow: 0 0 4px var(--amber-glow);
+  animation: stale-pulse 2s ease-in-out infinite;
+}
+.health-dot.offline {
+  background: var(--red-dim);
+  box-shadow: none;
+}
+
+/* === Trend Arrows (#3) === */
+.ship-value .trend-up { color: var(--green); margin-left: 3px; }
+.ship-value .trend-down { color: var(--red); margin-left: 3px; }
+.ship-value .trend-flat { color: var(--text-dim); margin-left: 3px; }
+
+/* === Countdown Bar (#5) === */
+.footer-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 6px;
+}
+
+.countdown-area {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+}
+
+.countdown-bar-wrap {
+  flex: 1;
+  height: 3px;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.countdown-bar {
+  height: 100%;
+  width: 100%;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--cyan), var(--amber));
+  transition: width 0.5s linear;
+}
+
+.countdown-text {
+  font-size: 0.55rem;
+  color: var(--text-dim);
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+  min-width: 100px;
+  text-align: right;
+}
+
+.countdown-btn {
+  background: rgba(0, 204, 255, 0.06);
+  border: 1px solid rgba(0, 204, 255, 0.15);
+  color: var(--cyan);
+  font-family: var(--font-mono);
+  font-size: 0.55rem;
+  padding: 3px 8px;
+  cursor: pointer;
+  letter-spacing: 0.05em;
+  transition: all 0.2s;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+.countdown-btn:hover {
+  background: rgba(0, 204, 255, 0.12);
+  border-color: var(--cyan);
+  box-shadow: 0 0 6px var(--cyan-glow);
+}
+
 /* Responsive */
 @media (max-width: 900px) {
   .deck-grid { grid-template-columns: 1fr 1fr; }
   .deck-log, .deck-toast { grid-column: 1 / -1; }
+  .countdown-area { flex-wrap: wrap; }
 }
 
 @media (max-width: 480px) {

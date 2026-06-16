@@ -135,7 +135,73 @@
     }
   }
 
-  // ── Weather icon mapping ─────────────────────────────────────────
+  // ── Data Source Health Strip (#2) ─────────────────────────────────
+    function renderHealthStrip(data) {
+      const setDot = (id, status) => {
+        const el = $('health-' + id);
+        if (!el) return;
+        el.className = 'health-dot ' + status;
+      };
+
+      // HA sensors: at least 8 ship keys have values
+      const house = data.house || {};
+      const haKeys = Object.keys(house).filter(k => house[k] !== null && house[k] !== undefined);
+      setDot('ha', haKeys.length >= 8 ? 'online' : haKeys.length > 0 ? 'stale' : 'offline');
+
+      // Weather: at least 1 location has temp
+      const locs = data.locations || {};
+      const weatherOk = Object.values(locs).some(l => l.temp !== null && l.temp !== undefined);
+      setDot('weather', weatherOk ? 'online' : 'stale');
+
+      // Headlines: array with items
+      const hl = data.headlines || [];
+      setDot('headlines', hl.length > 0 ? 'online' : 'stale');
+
+      // Quote: crew_quote string present
+      setDot('quote', data.crew_quote ? 'online' : 'stale');
+    }
+
+    // ── Weather Trend Arrows (#3) ────────────────────────────────────
+    const TREND_KEYS = ['indoor_temp', 'outdoor_temp', 'pressure', 'indoor_humidity'];
+    const TREND_STORAGE_KEY = 'rdwd_trends';
+
+    function renderTrendArrows(data) {
+      const house = data.house || {};
+      const prev = JSON.parse(localStorage.getItem(TREND_STORAGE_KEY) || '{}');
+      const curr = {};
+
+      for (const key of TREND_KEYS) {
+        const val = house[key];
+        if (val === null || val === undefined) continue;
+        curr[key] = Number(val);
+
+        const prevVal = prev[key];
+        if (prevVal !== undefined && !isNaN(prevVal)) {
+          const el = $('ship-' + key);
+          if (!el) continue;
+          const diff = curr[key] - prevVal;
+          // Remove old trend span
+          const oldSpan = el.querySelector('.trend-up, .trend-down, .trend-flat');
+          if (oldSpan) oldSpan.remove();
+
+          const span = document.createElement('span');
+          if (Math.abs(diff) < 0.3) {
+            span.className = 'trend-flat';
+            span.textContent = '➡';
+          } else if (diff > 0) {
+            span.className = 'trend-up';
+            span.textContent = '▲';
+          } else {
+            span.className = 'trend-down';
+            span.textContent = '▼';
+          }
+          el.appendChild(span);
+        }
+      }
+
+      // Save current values for next comparison
+      localStorage.setItem(TREND_STORAGE_KEY, JSON.stringify(curr));
+    }
   function getWeatherIcon(conditions) {
     if (!conditions) return '';
     const c = conditions.toLowerCase();
@@ -740,6 +806,8 @@
 
       renderShip(data);
       renderAstronomy(data);
+      renderHealthStrip(data);   // #2
+      renderTrendArrows(data);   // #3
       renderWeather(data);
       renderMetrolink(data);
       renderHeadlines(data);
@@ -763,8 +831,61 @@
     document.addEventListener('DOMContentLoaded', function () {
       startClock();
       loadDashboard();
+
+      const REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minutes
+      let countdownMs = REFRESH_INTERVAL;
+
+      // Countdown bar — updates every second
+      const countdownBar = $('countdown-bar');
+      const countdownText = $('countdown-text');
+      const countdownBtn = $('countdown-btn');
+
+      function updateCountdown() {
+        countdownMs -= 1000;
+        if (countdownMs <= 0) countdownMs = REFRESH_INTERVAL;
+
+        const totalSec = Math.round(countdownMs / 1000);
+        const mins = Math.floor(totalSec / 60);
+        const secs = totalSec % 60;
+        const pct = (countdownMs / REFRESH_INTERVAL) * 100;
+
+        if (countdownText) {
+          countdownText.textContent = 'NEXT REFRESH IN ' + mins + ':' + String(secs).padStart(2, '0');
+        }
+        if (countdownBar) {
+          countdownBar.style.width = pct + '%';
+          // Shift from cyan toward amber as it approaches zero
+          if (pct < 20) {
+            countdownBar.style.background = 'linear-gradient(90deg, var(--red), var(--amber))';
+          } else if (pct < 50) {
+            countdownBar.style.background = 'linear-gradient(90deg, var(--amber), var(--cyan))';
+          } else {
+            countdownBar.style.background = 'linear-gradient(90deg, var(--cyan), var(--amber))';
+          }
+        }
+      }
+
+      // Reset countdown when data refreshes
+      const origLoadDashboard = loadDashboard;
+      loadDashboard = async function() {
+        countdownMs = REFRESH_INTERVAL;
+        await origLoadDashboard.apply(this, arguments);
+      };
+
+      // SYNC NOW button
+      if (countdownBtn) {
+        countdownBtn.addEventListener('click', function() {
+          countdownMs = REFRESH_INTERVAL;
+          loadDashboard();
+        });
+      }
+
+      // Start countdown ticker
+      setInterval(updateCountdown, 1000);
+      updateCountdown();
+
       // Refresh every 5 minutes
-      setInterval(loadDashboard, 5 * 60 * 1000);
+      setInterval(loadDashboard, REFRESH_INTERVAL);
 
       // --- Theme toggle ---
       initThemeToggle();

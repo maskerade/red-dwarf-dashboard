@@ -24,6 +24,14 @@
       </div>
     </header>
 
+    <!-- Data Source Health Strip (#2) -->
+    <div class="health-strip" id="health-strip">
+      <div class="health-item" data-source="ha"><span class="health-dot" id="health-ha"></span><span class="health-label">HA SENSORS</span></div>
+      <div class="health-item" data-source="weather"><span class="health-dot" id="health-weather"></span><span class="health-label">WEATHER</span></div>
+      <div class="health-item" data-source="headlines"><span class="health-dot" id="health-headlines"></span><span class="health-label">HEADLINES</span></div>
+      <div class="health-item" data-source="quote"><span class="health-dot" id="health-quote"></span><span class="health-label">CREW QUOTE</span></div>
+    </div>
+
     <!-- Main grid -->
     <div class="grid-main">
 
@@ -299,8 +307,17 @@
 
     <!-- Footer -->
     <footer class="panel panel-footer">
-      <span>LAST UPDATED: <span id="footer-timestamp">--</span> <span id="freshness-badge" class="freshness-badge freshness-unknown"></span></span>
-      <span class="footer-smoke">RED DWARF MISSION CONTROL // NETHERRR</span>
+      <div class="footer-row">
+        <span>LAST UPDATED: <span id="footer-timestamp">--</span> <span id="freshness-badge" class="freshness-badge freshness-unknown"></span></span>
+        <span class="footer-smoke">RED DWARF MISSION CONTROL // NETHERRR</span>
+      </div>
+      <div class="countdown-area">
+        <div class="countdown-bar-wrap" id="countdown-bar-wrap">
+          <div class="countdown-bar" id="countdown-bar"></div>
+        </div>
+        <span class="countdown-text" id="countdown-text">NEXT REFRESH IN 5:00</span>
+        <button class="countdown-btn" id="countdown-btn">⟳ SYNC NOW</button>
+      </div>
     </footer>
 
   </div>
