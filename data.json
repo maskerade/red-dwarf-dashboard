@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-16T07:44:24.832602+00:00",
+  "timestamp": "2026-06-16T08:15:24.551747+00:00",
   "house": {
     "indoor_temp": 20.5,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 16.6,
-    "outdoor_humidity": 89.0,
+    "outdoor_temp": 17.1,
+    "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 325.0,
-    "pressure": 1014.9,
+    "wind_direction": 311.0,
+    "pressure": 1015.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 193.0,
+    "power_usage": 221.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Partly cloudy"
+      "temp": 16.0,
+      "conditions": "Overcast"
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy"
     },
     "llandudno": {
       "temp": 13.0,
-      "conditions": "Fog"
+      "conditions": "Mist, Fog"
     }
   },
   "astronomy": {
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Inside the cloud's new agentic AI-ready, Arm-powered foundation",
     "A modest proposal: Reformat everything to make documents more palatable to AI",
     "Cisco SD-WAN make-me-root bug under attack",
-    "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak, says researcher",
-    "DARPA seeks swappable satellites to help with future star wars"
+    "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak, says researcher"
   ],
-  "crew_quote": "\"Well, with it being a balmy 15 degrees out, I could really go for a curry — you know, something to spice up this dreary, cloudy day!\""
+  "crew_quote": "\"16 degrees and overcast? Sounds like a perfect day for a curry! Just the right temperature to simmer while I daydream about being fabulous like a fog-covered Llandudno.\""
 }
