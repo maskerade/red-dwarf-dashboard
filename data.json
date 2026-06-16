@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-16T14:58:32.140133+00:00",
+  "timestamp": "2026-06-16T15:29:31.787821+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 23.1,
-    "outdoor_humidity": 63.0,
+    "outdoor_temp": 22.8,
+    "outdoor_humidity": 67.0,
     "wind_speed": 0.0,
-    "wind_direction": 49.0,
-    "pressure": 1014.9,
+    "wind_direction": 290.0,
+    "pressure": 1015.0,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 191.0,
+    "power_usage": 193.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Microsoft faces down sueball, capacity problems in series of challenges",
     "Crooks found a new way to collaborate using Teams – by hiding command-and-control traffic",
     "Linux kernel 7.1 sends Intel 486 support to silicon heaven",
-    "Non-x86 servers now nearly half the market, IDC says",
-    "NHS Palantir claims face scrutiny after data suggests uneven results"
+    "Non-x86 servers now nearly half the market, IDC says"
   ],
-  "crew_quote": "\"Blimey, it’s almost 21 degrees in here—perfect curry weather! Just don’t blame me if I start sweating like a kebab on the grill!\""
+  "crew_quote": "\"Blimey, it’s a balmy 21 degrees in here — perfect curry weather! Just think, if only my cooking could be as good as Microsoft’s mess-ups!\""
 }
