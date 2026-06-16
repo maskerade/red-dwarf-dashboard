@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-16T09:17:25.464899+00:00",
+  "timestamp": "2026-06-16T09:48:26.780382+00:00",
   "house": {
     "indoor_temp": 20.7,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 20.5,
-    "outdoor_humidity": 76.0,
+    "outdoor_temp": 20.9,
+    "outdoor_humidity": 75.0,
     "wind_speed": 0.0,
-    "wind_direction": 298.0,
-    "pressure": 1015.3,
+    "wind_direction": 295.0,
+    "pressure": 1014.9,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 221.0,
+    "power_usage": 196.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Overcast"
+      "temp": 19.0,
+      "conditions": "Partly cloudy"
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 18.0,
       "conditions": "Partly cloudy"
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Mist, Fog"
+      "temp": 15.0,
+      "conditions": "Mist"
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "Inside the cloud's new agentic AI-ready, Arm-powered foundation",
     "A modest proposal: Reformat everything to make documents more palatable to AI"
   ],
-  "crew_quote": "\"With the weather so dismal, I think I’ll whip up a curry to cheer us up! Nothing like a good balti to brighten a day that’s 16 degrees and overcast!\""
+  "crew_quote": "\"With it being 19 degrees out and partly cloudy, I reckon it's the perfect day for a curry—just don't let that mist in Llandudno get too close, or it'll steal me chips!\""
 }
