@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-16T02:03:20.249830+00:00",
+  "timestamp": "2026-06-16T02:34:22.958887+00:00",
   "house": {
     "indoor_temp": 20.6,
     "indoor_humidity": 54.0,
@@ -7,10 +7,10 @@
     "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
     "wind_direction": 342.0,
-    "pressure": 1013.7,
+    "pressure": 1013.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 210.0,
+    "power_usage": 188.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak, says researcher",
     "DARPA seeks swappable satellites to help with future star wars"
   ],
-  "crew_quote": "\"With this weather, it's like the universe is serving up a lukewarm curry—satisfying, but definitely needs some spice to liven things up!\""
+  "crew_quote": "\"With this lovely 15°C weather, I reckon I could really go for a curry—just as long as the power doesn't cut out while I'm heating it up!\""
 }
