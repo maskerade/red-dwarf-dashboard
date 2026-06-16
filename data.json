@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-16T13:56:30.534835+00:00",
+  "timestamp": "2026-06-16T14:27:30.681832+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 22.3,
-    "outdoor_humidity": 68.0,
+    "outdoor_temp": 23.1,
+    "outdoor_humidity": 64.0,
     "wind_speed": 0.0,
     "wind_direction": 291.0,
-    "pressure": 1015.1,
+    "pressure": 1014.9,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 193.0,
+    "uv_index": 2.0,
+    "power_usage": 216.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 21.0,
-      "conditions": "Partly cloudy"
+      "conditions": "Overcast"
     },
     "overseal": {
       "temp": 22.0,
@@ -25,7 +25,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Mist"
+      "conditions": "Partly cloudy"
     }
   },
   "astronomy": {
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Linux kernel 7.1 sends Intel 486 support to silicon heaven",
+    "Non-x86 servers now nearly half the market, IDC says",
     "NHS Palantir claims face scrutiny after data suggests uneven results",
-    "NASA said nyet to Roscosmos plan to cut into leaky ISS segment",
-    "Cardiac monitor maker's security skips a beat as data thieves go for the jugular",
-    "Qualcomm said to be circling AI chip biz Tenstorrent in $10B RISC-V power play"
+    "NASA said nyet to Roscosmos plan to cut into leaky ISS segment"
   ],
-  "crew_quote": "\"With the weather like this, I’d say it's a perfect day for a curry, as long as the NHS data doesn’t leave us all feeling a bit misty about our dinner plans!\""
+  "crew_quote": "\"With all this cloud, I reckon even the sun’s having a lie-in — just like I do after a good curry!\""
 }
