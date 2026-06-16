@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-16T19:37:31.898338+00:00",
+  "timestamp": "2026-06-16T20:08:32.246227+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 19.2,
-    "outdoor_humidity": 79.0,
+    "outdoor_temp": 18.2,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
-    "wind_direction": 42.0,
-    "pressure": 1015.4,
+    "wind_direction": 48.0,
+    "pressure": 1015.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 210.0,
+    "power_usage": 241.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "Commodore gets into the phone biz with Sailfish-powered retro 'Callback'",
     "There's no such thing as an agentic CPU"
   ],
-  "crew_quote": "\"Oi, did you see the weather? It's a balmy 21°, perfect for a curry picnic under the clouds! Just watch out for the rain, or we'll be eating soggy chips instead!\""
+  "crew_quote": "\"Ah, lovely day for a curry, innit? Just don't let the patchy rain ruin my hair, or I’ll be more overcast than Llandudno!\""
 }
