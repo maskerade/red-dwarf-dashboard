@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-16T08:46:24.929307+00:00",
+  "timestamp": "2026-06-16T09:17:25.464899+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.7,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 19.1,
-    "outdoor_humidity": 82.0,
+    "outdoor_temp": 20.5,
+    "outdoor_humidity": 76.0,
     "wind_speed": 0.0,
-    "wind_direction": 301.0,
-    "pressure": 1015.0,
+    "wind_direction": 298.0,
+    "pressure": 1015.3,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 193.0,
+    "power_usage": 221.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "ERP users may soon get ahead by going headless, says Rimini Street boss",
     "France's digital sovereignty push is struggling to escape the Microsoft gravity well",
     "Inside the cloud's new agentic AI-ready, Arm-powered foundation",
-    "A modest proposal: Reformat everything to make documents more palatable to AI",
-    "Cisco SD-WAN make-me-root bug under attack"
+    "A modest proposal: Reformat everything to make documents more palatable to AI"
   ],
-  "crew_quote": "\"16 degrees and overcast? Perfect weather for a good curry! Just enough to sit inside, eat, and not think about France’s tech troubles!\""
+  "crew_quote": "\"With the weather so dismal, I think I’ll whip up a curry to cheer us up! Nothing like a good balti to brighten a day that’s 16 degrees and overcast!\""
 }
