@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-16T11:52:27.821613+00:00",
+  "timestamp": "2026-06-16T12:23:28.325751+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 22.0,
-    "outdoor_humidity": 68.0,
+    "outdoor_temp": 21.5,
+    "outdoor_humidity": 70.0,
     "wind_speed": 0.0,
-    "wind_direction": 295.0,
-    "pressure": 1015.1,
+    "wind_direction": 7.0,
+    "pressure": 1015.3,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 224.0,
+    "power_usage": 193.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "NASA said nyet to Roscosmos plan to cut into leaky ISS segment",
     "Cardiac monitor maker's security skips a beat as data thieves go for the jugular",
     "Qualcomm said to be circling AI chip biz Tenstorrent in $10B RISC-V power play",
-    "Scammers keep scoring: Brits fleeced for £1.3B as Americans lose $3.5B to impersonators",
-    "Capita is about to sail past deadline to fix civil service pensions scheme"
+    "Scammers keep scoring: Brits fleeced for £1.3B as Americans lose $3.5B to impersonators"
   ],
-  "crew_quote": "\"With 21 degrees indoors, it’s practically balmy! I’d whip up a curry, but I’m worried the humidity might ruin my spice blend—can’t have that, it’s too fabulous!\""
+  "crew_quote": "\"With weather like this, I'd say we should just chill out, maybe whip up a curry and forget about that leaky ISS—it's not like it’s gonna rain on our parade, is it?\""
 }
