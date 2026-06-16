@@ -1037,10 +1037,134 @@ body::after {
   box-shadow: 0 0 6px var(--cyan-glow);
 }
 
+/* === Digital Pot Plant (#1, Lister) === */
+.deck-plant { grid-column: span 1; }
+.plant-container {
+  display: flex; flex-direction: column; gap: 4px; align-items: center;
+  padding: 4px 0;
+}
+.plant-pixel-art {
+  font-size: 2rem; line-height: 1; min-height: 36px;
+  transition: transform 0.5s ease;
+  filter: drop-shadow(0 0 4px rgba(0, 255, 136, 0.2));
+}
+.plant-pixel-art:hover {
+  transform: scale(1.1);
+}
+.plant-stats {
+  display: flex; flex-direction: column; align-items: center; gap: 1px;
+}
+.plant-stage {
+  font-size: 0.6rem; color: var(--green); letter-spacing: 0.05em;
+}
+.plant-refreshes {
+  font-size: 0.5rem; color: var(--text-dim);
+}
+.plant-water-bar {
+  width: 80%; height: 4px; background: rgba(255,255,255,0.05);
+  border-radius: 2px; overflow: hidden;
+}
+.plant-water-fill {
+  height: 100%; width: 0%;
+  background: linear-gradient(90deg, var(--cyan), var(--green));
+  border-radius: 2px; transition: width 0.5s ease;
+}
+
+/* === Rimmer's Exam Study Clock (#4) === */
+.deck-clock { grid-column: span 1; }
+.clock-content {
+  display: flex; flex-direction: column; align-items: center; gap: 4px;
+}
+.clock-timer {
+  font-size: 1.8rem; font-weight: bold; font-family: var(--font-mono-alt);
+  color: var(--amber); text-shadow: 0 0 10px rgba(255, 176, 0, 0.2);
+  letter-spacing: 0.08em;
+}
+.clock-timer.break-mode {
+  color: var(--cyan); text-shadow: 0 0 10px rgba(0, 204, 255, 0.2);
+}
+.clock-phase {
+  font-size: 0.55rem; letter-spacing: 0.15em; color: var(--text-dim);
+  text-transform: uppercase;
+}
+.clock-phase.study-phase { color: var(--amber); }
+.clock-phase.break-phase { color: var(--cyan); }
+.clock-controls {
+  display: flex; gap: 4px; margin: 2px 0;
+}
+.clock-btn {
+  background: rgba(255, 176, 0, 0.08);
+  border: 1px solid var(--amber-dim); color: var(--amber);
+  font-family: var(--font-mono); font-size: 0.6rem;
+  padding: 3px 8px; cursor: pointer; border-radius: 3px;
+  transition: all 0.2s;
+}
+.clock-btn:hover {
+  background: rgba(255, 176, 0, 0.15); box-shadow: 0 0 6px var(--amber-glow);
+}
+.clock-btn-reset {
+  border-color: var(--red-dim); color: var(--red);
+}
+.clock-btn-reset:hover {
+  background: rgba(255, 51, 68, 0.12); box-shadow: 0 0 6px var(--red-glow);
+}
+
+/* === Tonight's Sky Report (#5, Holly) === */
+.deck-sky { grid-column: span 1; }
+.sky-content {
+  display: flex; flex-direction: column; gap: 3px;
+}
+.sky-primary {
+  font-size: 1rem; font-weight: bold; color: var(--cyan);
+  text-shadow: 0 0 6px rgba(0, 204, 255, 0.15);
+  line-height: 1.3;
+}
+.sky-secondary {
+  font-size: 0.7rem; color: var(--text-main); line-height: 1.3;
+}
+
+/* === Condition Threshold Alarms (#3, Kryten) === */
+.ship-item.alert-amber {
+  background: rgba(255, 176, 0, 0.06);
+  border-left: 2px solid var(--amber);
+}
+.ship-item.alert-red {
+  background: rgba(255, 51, 68, 0.06);
+  border-left: 2px solid var(--red);
+  animation: alert-pulse 1.5s ease-in-out infinite;
+}
+.ship-item .ship-alert-indicator {
+  display: none; font-size: 0.55rem;
+  margin-left: 3px; flex-shrink: 0;
+}
+.ship-item.alert-amber .ship-alert-indicator {
+  display: inline; color: var(--amber);
+}
+.ship-item.alert-red .ship-alert-indicator {
+  display: inline; color: var(--red);
+}
+@keyframes alert-pulse {
+  0%, 100% { border-left-color: var(--red); }
+  50% { border-left-color: transparent; }
+}
+
+/* === Mini Sparkline Trends (#2, Holly) === */
+.ship-sparkline-wrap {
+  display: inline-block; vertical-align: middle;
+  margin-left: 4px; width: 40px; height: 16px;
+  overflow: hidden;
+}
+.ship-sparkline-wrap svg {
+  width: 40px; height: 16px;
+}
+.ship-sparkline-wrap .spark-up { stroke: var(--green); }
+.ship-sparkline-wrap .spark-down { stroke: var(--red); }
+.ship-sparkline-wrap .spark-flat { stroke: var(--text-dim); }
+
 /* Responsive */
 @media (max-width: 900px) {
   .deck-grid { grid-template-columns: 1fr 1fr; }
-  .deck-log, .deck-toast { grid-column: 1 / -1; }
+  .deck-log, .deck-toast, .deck-plant, .deck-clock, .deck-sky { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
 }
 

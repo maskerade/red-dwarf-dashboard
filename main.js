@@ -558,11 +558,402 @@
     });
   }
 
+  // ── Condition Threshold Alarms (#3, Kryten) ─────────────────────
+  const THRESHOLDS = {
+    wind_speed:       { amber: 30,  red: 50 },
+    indoor_humidity:  { amber: 70,  red: 85 },
+    outdoor_humidity: { amber: 80,  red: 95 },
+    pressure:         { amber_min: 990, amber_max: 1030, red_min: 975, red_max: 1045 },
+    rain_today:       { amber: 5,   red: 15 },
+    uv_index:         { amber: 6,   red: 8 },
+    power_usage:      { amber: 500, red: 1000 },
+  };
+
+  function renderThresholdAlarms(data) {
+    const house = data.house || {};
+    for (const [key, threshold] of Object.entries(THRESHOLDS)) {
+      const val = house[key];
+      if (val === null || val === undefined) continue;
+      const num = Number(val);
+      if (isNaN(num)) continue;
+
+      const item = document.querySelector(`.ship-item[data-key="${key}"]`);
+      if (!item) continue;
+
+      item.classList.remove('alert-amber', 'alert-red');
+
+      let isAlert = false;
+      if (threshold.amber !== undefined && num >= threshold.amber) {
+        item.classList.add(num >= threshold.red ? 'alert-red' : 'alert-amber');
+        isAlert = true;
+      } else if (threshold.amber_min !== undefined) {
+        if (num <= threshold.amber_min || num >= threshold.amber_max) {
+          item.classList.add((num <= threshold.red_min || num >= threshold.red_max) ? 'alert-red' : 'alert-amber');
+          isAlert = true;
+        }
+      }
+    }
+  }
+
+  // ── Mini Sparkline Trends (#2, Holly) ──────────────────────────
+  const SPARKLINE_KEYS = ['indoor_temp', 'outdoor_temp', 'pressure', 'indoor_humidity', 'wind_speed', 'power_usage'];
+  const SPARKLINE_MAX = 288; // 24h at 5-min intervals
+
+  function setupSparklineWrappers() {
+    for (const key of SPARKLINE_KEYS) {
+      const el = $(key === 'indoor_temp' ? 'ship-indoor_temp' : 'ship-' + key);
+      if (!el) continue;
+      const parentSpan = el.parentElement;
+      if (!parentSpan) continue;
+      // Check if wrapper already exists
+      if (parentSpan.querySelector('.ship-sparkline-wrap')) continue;
+      const wrap = document.createElement('span');
+      wrap.className = 'ship-sparkline-wrap';
+      wrap.innerHTML = '<svg viewBox="0 0 40 16" preserveAspectRatio="none"><polyline fill="none" class="spark-flat" points="0,8 40,8" /></svg>';
+      parentSpan.appendChild(wrap);
+    }
+  }
+
+  function renderSparklines(data) {
+    const house = data.house || {};
+    const stored = JSON.parse(localStorage.getItem('rdwd_sparklines') || '{}');
+    const now = Date.now();
+
+    for (const key of SPARKLINE_KEYS) {
+      const val = house[key];
+      if (val === null || val === undefined) continue;
+      if (!stored[key]) stored[key] = [];
+
+      // Add current value with timestamp
+      stored[key].push({ v: Number(val), t: now });
+
+      // Trim to 24h
+      const cutoff = now - 86400000;
+      stored[key] = stored[key].filter(p => p.t >= cutoff);
+
+      // Keep max SPARKLINE_MAX
+      if (stored[key].length > SPARKLINE_MAX) {
+        stored[key] = stored[key].slice(-SPARKLINE_MAX);
+      }
+    }
+
+    localStorage.setItem('rdwd_sparklines', JSON.stringify(stored));
+
+    // Render SVGs
+    for (const key of SPARKLINE_KEYS) {
+      const points = stored[key];
+      if (!points || points.length < 2) continue;
+
+      const el = $(key === 'indoor_temp' ? 'ship-indoor_temp' : 'ship-' + key);
+      if (!el) continue;
+      const parentSpan = el.parentElement;
+      if (!parentSpan) continue;
+      const wrap = parentSpan.querySelector('.ship-sparkline-wrap');
+      if (!wrap) continue;
+
+      const values = points.map(p => p.v);
+      const min = Math.min(...values);
+      const max = Math.max(...values);
+      const range = (max - min) || 1;
+      const w = 40, h = 16;
+
+      // Build polyline points
+      const stepX = w / (values.length - 1);
+      const pts = values.map((v, i) => {
+        const x = i * stepX;
+        const y = h - ((v - min) / range) * (h - 2) - 1;
+        return `${x.toFixed(1)},${y.toFixed(1)}`;
+      }).join(' ');
+
+      // Determine trend color
+      const trend = values[values.length - 1] - values[0];
+      const cls = Math.abs(trend) < 0.5 ? 'spark-flat' : trend > 0 ? 'spark-up' : 'spark-down';
+
+      wrap.innerHTML = `<svg viewBox="0 0 40 16" preserveAspectRatio="none">
+        <polyline fill="none" stroke-width="1.5" class="${cls}" points="${pts}" />
+      </svg>`;
+    }
+  }
+
+  // ── Digital Pot Plant (#1, Lister) ─────────────────────────────
+  const PLANT_STAGES = [
+    { emoji: '🌰', stage: 'SEED',       waterNeeded: 0 },
+    { emoji: '🌱', stage: 'SPROUT',     waterNeeded: 1 },
+    { emoji: '🌿', stage: 'SEEDLING',   waterNeeded: 3 },
+    { emoji: '🪴', stage: 'YOUNG PLANT', waterNeeded: 6 },
+    { emoji: '🌳', stage: 'FULL GROWN', waterNeeded: 12 },
+    { emoji: '🌺', stage: 'BLOOMING',   waterNeeded: 20 },
+  ];
+
+  function renderPotPlant() {
+    const stored = JSON.parse(localStorage.getItem('rdwd_potplant') || '{"refreshCount":0,"lastWaterDay":""}');
+    const plantArt = $('plant-art');
+    const plantStage = $('plant-stage');
+    const plantRefreshes = $('plant-refreshes');
+    const waterFill = $('plant-water-fill');
+
+    if (!plantArt) return;
+
+    // Increment refresh count
+    stored.refreshCount = (stored.refreshCount || 0) + 1;
+
+    // Watering: once per day
+    const today = new Date().toDateString();
+    if (stored.lastWaterDay !== today) {
+      stored.lastWaterDay = today;
+    }
+
+    const todayWatered = stored.lastWaterDay === today;
+    const waterPct = todayWatered ? Math.min(100, (stored.refreshCount / 24) * 100) : 50;
+
+    // Determine growth stage
+    let stageIdx = 0;
+    for (let i = PLANT_STAGES.length - 1; i >= 0; i--) {
+      if (stored.refreshCount >= PLANT_STAGES[i].waterNeeded) {
+        stageIdx = i;
+        break;
+      }
+    }
+    const stage = PLANT_STAGES[stageIdx];
+
+    plantArt.textContent = stage.emoji;
+    if (plantStage) {
+      plantStage.textContent = stage.stage;
+      // Color changes as it grows
+      plantStage.style.color = stageIdx < 2 ? 'var(--green-dim)' :
+                               stageIdx < 4 ? 'var(--green)' : 'var(--amber)';
+    }
+    if (plantRefreshes) {
+      const nextStage = PLANT_STAGES[stageIdx + 1];
+      if (nextStage) {
+        plantRefreshes.textContent = `${stored.refreshCount} refreshes (${nextStage.waterNeeded - stored.refreshCount} to next)`;
+      } else {
+        plantRefreshes.textContent = `${stored.refreshCount} refreshes — FULLY GROWN!`;
+      }
+    }
+    if (waterFill) {
+      waterFill.style.width = waterPct + '%';
+      waterFill.style.background = todayWatered
+        ? 'linear-gradient(90deg, var(--cyan), var(--green))'
+        : 'linear-gradient(90deg, var(--red-dim), var(--amber))';
+    }
+
+    localStorage.setItem('rdwd_potplant', JSON.stringify(stored));
+  }
+
+  // ── Rimmer's Exam Study Clock (#4) ────────────────────────────
+  function setupStudyClock() {
+    const btn = $('clock-btn');
+    const resetBtn = $('clock-reset');
+    const timerEl = $('clock-timer');
+    const phaseEl = $('clock-phase');
+    const logEl = $('clock-log');
+
+    if (!btn || !timerEl) return;
+
+    const STUDY_MS = 25 * 60 * 1000;   // 25 min
+    const BREAK_MS = 5 * 60 * 1000;    // 5 min
+
+    let state = JSON.parse(localStorage.getItem('rdwd_studyclock') || '{"running":false,"phase":"study","elapsed":0,"totalStudyMs":0,"startTime":null}');
+    let intervalId = null;
+
+    // Restore previous state
+    if (state.running && state.startTime) {
+      const elapsedSinceStart = Date.now() - state.startTime;
+      if (state.phase === 'study') {
+        state.elapsed = Math.min(elapsedSinceStart, STUDY_MS);
+        if (state.elapsed >= STUDY_MS) {
+          // Auto-switch to break if timer expired while away
+          state.phase = 'break';
+          state.elapsed = 0;
+          state.startTime = Date.now();
+        }
+      } else {
+        state.elapsed = Math.min(elapsedSinceStart, BREAK_MS);
+        if (state.elapsed >= BREAK_MS) {
+          state.phase = 'study';
+          state.elapsed = 0;
+          state.startTime = Date.now();
+        }
+      }
+      startTimer();
+    }
+
+    function updateDisplay() {
+      const phaseDuration = state.phase === 'study' ? STUDY_MS : BREAK_MS;
+      const remaining = Math.max(0, phaseDuration - state.elapsed);
+      const totalSec = Math.round(remaining / 1000);
+      const mins = Math.floor(totalSec / 60);
+      const secs = totalSec % 60;
+
+      timerEl.textContent = String(mins).padStart(2, '0') + ':' + String(secs).padStart(2, '0');
+      timerEl.className = 'clock-timer' + (state.phase === 'break' ? ' break-mode' : '');
+
+      phaseEl.textContent = state.phase === 'study' ? 'STUDY SESSION' : 'BREAK TIME';
+      phaseEl.className = 'clock-phase ' + (state.phase === 'study' ? 'study-phase' : 'break-phase');
+
+      btn.textContent = state.running ? '⏸ PAUSE' : '▶ START';
+
+      // Study log
+      if (logEl) {
+        const totalHrs = Math.floor(state.totalStudyMs / 3600000);
+        const totalMins = Math.floor((state.totalStudyMs % 3600000) / 60000);
+        logEl.textContent = `STUDY LOG: ${totalHrs}h ${totalMins}m`;
+      }
+
+      saveState();
+    }
+
+    function startTimer() {
+      if (intervalId) clearInterval(intervalId);
+      state.running = true;
+      state.startTime = Date.now();
+      intervalId = setInterval(function() {
+        const elapsedSinceStart = Date.now() - state.startTime;
+        const phaseDuration = state.phase === 'study' ? STUDY_MS : BREAK_MS;
+        state.elapsed = elapsedSinceStart;
+
+        if (state.elapsed >= phaseDuration) {
+          // Phase complete
+          if (state.phase === 'study') {
+            state.totalStudyMs += STUDY_MS;
+          }
+          state.phase = state.phase === 'study' ? 'break' : 'study';
+          state.elapsed = 0;
+          state.startTime = Date.now();
+        }
+
+        updateDisplay();
+      }, 1000);
+    }
+
+    function stopTimer() {
+      if (intervalId) {
+        clearInterval(intervalId);
+        intervalId = null;
+      }
+      state.running = false;
+      state.startTime = null;
+      updateDisplay();
+    }
+
+    function saveState() {
+      localStorage.setItem('rdwd_studyclock', JSON.stringify({
+        running: state.running,
+        phase: state.phase,
+        elapsed: state.elapsed,
+        totalStudyMs: state.totalStudyMs,
+        startTime: state.startTime,
+      }));
+    }
+
+    // Toggle start/pause
+    btn.addEventListener('click', function() {
+      if (state.running) {
+        // Pause: add elapsed so far
+        if (state.startTime) {
+          state.elapsed += Date.now() - state.startTime;
+        }
+        stopTimer();
+      } else {
+        state.startTime = Date.now();
+        startTimer();
+      }
+    });
+
+    // Reset
+    resetBtn.addEventListener('click', function() {
+      stopTimer();
+      state.elapsed = 0;
+      state.phase = 'study';
+      state.totalStudyMs = 0;
+      state.running = false;
+      state.startTime = null;
+      updateDisplay();
+    });
+
+    // Initial display
+    updateDisplay();
+  }
+
+  // ── Tonight's Sky Report (#5, Holly) ─────────────────────────
+  const CELESTIAL_EVENTS = [
+    { desc: 'Venus visible in SW after sunset', time: '21:20' },
+    { desc: 'Jupiter high in S sky at midnight', time: '00:15' },
+    { desc: 'Mars rising in E around 02:00', time: '02:00' },
+    { desc: 'Saturn near the Moon tonight', time: '22:30' },
+    { desc: 'ISS pass — look SW at', time: null },
+    { desc: 'Pleiades cluster visible in E', time: '23:00' },
+    { desc: 'Andromeda Galaxy visible (dark sky)', time: '01:00' },
+    { desc: 'Mercury low in W after sunset', time: '20:45' },
+    { desc: 'Orion Nebula visible in SE', time: '03:30' },
+    { desc: 'Lyrid meteor shower — 10/h', time: '02:00' },
+  ];
+
+  let lastIisfetch = 0;
+  let lastIssData = null;
+
+  async function renderSkyReport(data) {
+    const primaryEl = $('sky-primary');
+    const secondaryEl = $('sky-secondary');
+    const subEl = $('sky-sub');
+    if (!primaryEl) return;
+
+    // Use astronomy data from data.json
+    const astro = data.astronomy || {};
+    const moonPhase = astro.moon_phase || 'Unknown';
+    const sunrise = astro.sunrise || '--';
+    const sunset = astro.sunset || '--';
+
+    // Show moon + sunrise/sunset as baseline
+    let primary = `${moonPhase} Moon`;
+    let secondary = `Sunrise: ${sunrise}  /  Sunset: ${sunset}`;
+    let sub = '';
+
+    // Fetch ISS position (throttled to once per 5 min)
+    try {
+      const now = Date.now();
+      if (now - lastIisfetch > 300000) {
+        const res = await fetch('https://api.wheretheiss.at/v1/satellites/25544');
+        if (res.ok) {
+          lastIssData = await res.json();
+        }
+        lastIisfetch = now;
+      }
+    } catch (_) {
+      // ISS fetch failed — no big deal
+    }
+
+    if (lastIssData && lastIssData.latitude !== undefined) {
+      const lat = Number(lastIssData.latitude).toFixed(1);
+      const lon = Number(lastIssData.longitude).toFixed(1);
+      const alt = Number(lastIssData.altitude).toFixed(0);
+      const vis = lastIssData.visibility || 'unknown';
+
+      // Pick a random celestial event (deterministic based on day)
+      const dayOfYear = Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0)) / 86400000);
+      const event = CELESTIAL_EVENTS[dayOfYear % CELESTIAL_EVENTS.length];
+
+      const issLine = `🛰 ISS at ${lat}°, ${lon}° (${alt} km, ${vis})`;
+      primary = event.desc + (event.time ? ` ~${event.time}` : '');
+      secondary = issLine;
+      sub = `🌙 ${moonPhase}  ☀ Rise ${sunrise} / Set ${sunset}`;
+    } else {
+      sub = `🌙 ${moonPhase}  ☀ Rise ${sunrise} / Set ${sunset}`;
+    }
+
+    primaryEl.textContent = primary;
+    if (secondaryEl) secondaryEl.textContent = secondary;
+    if (subEl) subEl.textContent = sub;
+  }
+
   // Init: set daily items, then start timers
   renderDeckDaily();
   renderDeckPerMinute();
   renderDeckFrequent();
   setupToast();
+  setupSparklineWrappers();
+  setupStudyClock();
 
   // Timers at different cadences
   setInterval(renderDeckPerMinute, 30000);  // every 30s
@@ -805,14 +1196,18 @@
       window.__dashboardData = data;
 
       renderShip(data);
+      renderThresholdAlarms(data); // #3 — Kryten
       renderAstronomy(data);
       renderHealthStrip(data);   // #2
-      renderTrendArrows(data);   // #3
+      renderTrendArrows(data);   // #3 — trend arrows (existing)
+      renderSparklines(data);    // #2 — Holly's sparklines
       renderWeather(data);
       renderMetrolink(data);
       renderHeadlines(data);
       renderCrew();
       renderQuote(data);
+      renderPotPlant();          // #1 — Lister
+      renderSkyReport(data);     // #5 — Holly
       updateTimestamps(data.timestamp);
       setupWeatherClicks();
     } catch (err) {
