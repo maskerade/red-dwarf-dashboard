@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-16T01:01:18.076042+00:00",
+  "timestamp": "2026-06-16T01:32:18.906663+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 15.2,
+    "outdoor_temp": 15.1,
     "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 343.0,
-    "pressure": 1013.6,
+    "wind_direction": 342.0,
+    "pressure": 1013.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 224.0,
+    "power_usage": 182.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak, says researcher",
     "DARPA seeks swappable satellites to help with future star wars"
   ],
-  "crew_quote": "\"Listen, with the weather as drizzly as my last curry, I reckon we should just reformat everything into a nice, warm pie chart. Right, mate?\""
+  "crew_quote": "\"With this drizzly weather, I might just have to whip up a curry to warm us all up—unless, of course, the AI insists on reformatting my recipe!\""
 }
