@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-16T13:25:29.660267+00:00",
+  "timestamp": "2026-06-16T13:56:30.534835+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 21.6,
-    "outdoor_humidity": 69.0,
+    "outdoor_temp": 22.3,
+    "outdoor_humidity": 68.0,
     "wind_speed": 0.0,
     "wind_direction": 291.0,
     "pressure": 1015.1,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 233.0,
+    "uv_index": 1.0,
+    "power_usage": 193.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "Cardiac monitor maker's security skips a beat as data thieves go for the jugular",
     "Qualcomm said to be circling AI chip biz Tenstorrent in $10B RISC-V power play"
   ],
-  "crew_quote": "\"What’s with the weather, eh? One minute it's a balmy 21 degrees and the next, the NHS is having a meltdown—I'd rather focus on getting a good curry than worrying about that!\""
+  "crew_quote": "\"With the weather like this, I’d say it's a perfect day for a curry, as long as the NHS data doesn’t leave us all feeling a bit misty about our dinner plans!\""
 }
