@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-17T06:59:45.790524+00:00",
+  "timestamp": "2026-06-17T07:30:46.443954+00:00",
   "house": {
     "indoor_temp": 20.9,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 16.6,
-    "outdoor_humidity": 99.0,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 17.3,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 308.0,
-    "pressure": 1015.1,
+    "wind_direction": 296.0,
+    "pressure": 1015.2,
     "rain_today": 1.8,
-    "uv_index": 0.0,
-    "power_usage": 191.0,
+    "uv_index": 1.0,
+    "power_usage": 219.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -20,12 +20,12 @@
       "conditions": "Overcast"
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Light Rain"
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Light Rain"
+      "conditions": "Mist, Fog"
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "AMD's Mext buy shows how AI could solve the RAM shortage it created",
     "The new Siri makes one of Apple's most convenient OS features a cumbersome mess"
   ],
-  "crew_quote": "\"Looks like it's a perfect day for a light curry and a good moan about the weather – I mean, who wouldn’t want to be stuck inside on a rainy 16 degrees?\""
+  "crew_quote": "\"Looks like it’s a bit misty out there today, but at least it’s not raining like a curry explosion! Just a shame we can’t use the fog to cover up my cooking.\""
 }
