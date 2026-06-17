@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-17T13:42:51.306987+00:00",
+  "timestamp": "2026-06-17T14:13:53.102508+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.4,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 23.3,
-    "outdoor_humidity": 64.0,
-    "wind_speed": 2.2,
-    "wind_direction": 55.0,
-    "pressure": 1016.6,
+    "outdoor_temp": 21.8,
+    "outdoor_humidity": 70.0,
+    "wind_speed": 0.0,
+    "wind_direction": 29.0,
+    "pressure": 1016.8,
     "rain_today": 1.8,
-    "uv_index": 2.0,
-    "power_usage": 213.0,
+    "uv_index": 1.0,
+    "power_usage": 196.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
-    "Intel starts cooking up enhanced 18A-P silicon for would-be foundry customers",
-    "Windows devs rerolled old code to save precious bytes",
-    "UK.gov links up with LinkedIn for jobs market intel from 40M accounts",
-    "Brit competition cops order Google to make search rankings less mysterious"
+    "Cisco adds another SD-WAN box to max-severity bug advisory",
+    "Homebrew 6.0 released with new security mechanism, Linux sandbox and more",
+    "Apple's WebKit performance tax leaves iOS browsers stuck in the slow lane, says Microsoft",
+    "Intel starts cooking up enhanced 18A-P silicon for would-be foundry customers"
   ],
-  "crew_quote": "\"Lovely weather for a stroll, but not too hot for a curry, right? Just don’t let it distract you from that enhanced silicon—those bytes won't save themselves!\""
+  "crew_quote": "\"With this perfect 21°C weather, it’s a shame I can't get my curry fix—it's way too nice for a normal meal, but I suppose I could always microwave a poppadom!\""
 }
