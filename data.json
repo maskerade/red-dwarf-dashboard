@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-17T03:53:42.558759+00:00",
+  "timestamp": "2026-06-17T04:24:43.227989+00:00",
   "house": {
     "indoor_temp": 20.9,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 15.8,
+    "outdoor_temp": 15.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 335.0,
-    "pressure": 1014.5,
+    "wind_direction": 0.0,
+    "pressure": 1014.4,
     "rain_today": 1.5,
     "uv_index": 0.0,
-    "power_usage": 221.0,
+    "power_usage": 199.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 16.0,
-      "conditions": "Overcast"
+      "conditions": "Light Rain"
     },
     "overseal": {
       "temp": 17.0,
@@ -43,5 +43,5 @@
     "The new Siri makes one of Apple's most convenient OS features a cumbersome mess",
     "Python dev saved from disaster by intuition...and AI"
   ],
-  "crew_quote": "\"Well, at least it's 20.9°C in here; I could use a curry to go with this overcast misery out there. Just don't ask me to stand in the rain for it!\""
+  "crew_quote": "\"Did you hear, mate? It’s so rainy outside, even my curry’s thinking about staying indoors. I mean, who wants to face the wet when you can have a nice hot vindaloo instead?\""
 }
