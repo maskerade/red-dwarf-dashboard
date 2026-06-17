@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-17T11:07:48.864704+00:00",
+  "timestamp": "2026-06-17T11:38:49.042215+00:00",
   "house": {
     "indoor_temp": 21.2,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 19.9,
-    "outdoor_humidity": 78.0,
-    "wind_speed": 0.0,
-    "wind_direction": 310.0,
+    "outdoor_temp": 20.9,
+    "outdoor_humidity": 74.0,
+    "wind_speed": 0.4,
+    "wind_direction": 322.0,
     "pressure": 1016.2,
     "rain_today": 1.8,
     "uv_index": 1.0,
-    "power_usage": 205.0,
+    "power_usage": 199.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -36,12 +36,12 @@
     "moonrise": "06:58 AM",
     "moonset": "No moonset"
   },
-  "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
+  "metrolink": "Due to a tram fault we currently have a Minor Deley on the Altrincham and Bury Lines.",
   "headlines": [
     "Brit competition cops order Google to make search rankings less mysterious",
     "Helpdesk scammers are making house calls to make their lies feel more real",
     "Windows update leaves third-party Office document launches in limbo",
     "System76 boss reckons he can liberate the entire PC stack... just give him another 15 years"
   ],
-  "crew_quote": "\"Blimey, it’s so humid in here I could cook a curry just by standing around, but at least it’s not as mysterious as Google’s search rankings!\""
+  "crew_quote": "\"19 degrees and partly cloudy? Perfect weather for a curry! Just not one of those dodgy ones that make you sorry the next day, like those helpdesk scammers!”"
 }
