@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-17T01:18:40.604656+00:00",
+  "timestamp": "2026-06-17T01:49:40.538436+00:00",
   "house": {
     "indoor_temp": 20.9,
     "indoor_humidity": 57.0,
     "outdoor_temp": 15.3,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 291.0,
-    "pressure": 1014.8,
+    "wind_direction": 296.0,
+    "pressure": 1014.7,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 213.0,
+    "power_usage": 188.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "Python dev saved from disaster by intuition...and AI",
     "Intel-born networking tech resurfaces as InfiniBand alternative for DoE supers"
   ],
-  "crew_quote": "\"With the weather all over the place, I reckon we should just stay indoors, crank up the curries, and hope the room doesn't get too humid for me to breathe!\""
+  "crew_quote": "\"With the weather being overcast and a bit chilly, I reckon a nice curry could warm us up—unless it’s one of Rimmer’s awful attempts at cooking, of course!\""
 }
