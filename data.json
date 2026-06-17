@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-17T15:46:52.903897+00:00",
+  "timestamp": "2026-06-17T16:17:53.890845+00:00",
   "house": {
     "indoor_temp": 21.4,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 24.1,
-    "outdoor_humidity": 64.0,
+    "outdoor_temp": 23.5,
+    "outdoor_humidity": 65.0,
     "wind_speed": 0.0,
-    "wind_direction": 287.0,
-    "pressure": 1017.0,
+    "wind_direction": 288.0,
+    "pressure": 1016.9,
     "rain_today": 1.8,
     "uv_index": 1.0,
-    "power_usage": 224.0,
+    "power_usage": 219.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Only half of US datacenter capacity planned for 2026 is actually  under construction",
     "Smartphone market to shrink 15 percent this year due to memory crisis",
     "AWS hypes continuous agentic DevOps, puts Kiro in your pocket",
-    "Digital sovereignty needs an operating model",
-    "Surface tension rises as Microsoft's latest kit starts at a pricey $1,499"
+    "Digital sovereignty needs an operating model"
   ],
-  "crew_quote": "\"21 degrees, partly cloudy? Perfect curry weather! I reckon we should celebrate with a nice vindaloo — if the power doesn't run out from all that smartphone nonsense!\""
+  "crew_quote": "\"21 degrees and partly cloudy, eh? Perfect curry weather! Let's celebrate with a takeaway instead of worrying about all those datacenters that aren't even built yet!\""
 }
