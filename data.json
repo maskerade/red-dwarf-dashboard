@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-17T05:57:44.424769+00:00",
+  "timestamp": "2026-06-17T06:28:45.050217+00:00",
   "house": {
     "indoor_temp": 20.9,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 16.2,
+    "outdoor_temp": 16.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 322.0,
-    "pressure": 1014.6,
+    "wind_direction": 307.0,
+    "pressure": 1015.0,
     "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 193.0,
+    "power_usage": 221.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "The new Siri makes one of Apple's most convenient OS features a cumbersome mess",
     "Python dev saved from disaster by intuition...and AI"
   ],
-  "crew_quote": "\"Looks like it's raining cats and dogs out there—good thing I brought my fancy umbrella and the curry leftovers; nothing like a bit of spice to brighten a dreary day!\""
+  "crew_quote": "\"Look at that weather! Perfect excuse for a curry night in — nothing like a good takeaway while the world floods with rain and AI takes over, eh?\""
 }
