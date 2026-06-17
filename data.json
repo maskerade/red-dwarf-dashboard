@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-17T12:09:50.054349+00:00",
+  "timestamp": "2026-06-17T12:40:50.916253+00:00",
   "house": {
     "indoor_temp": 21.2,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 21.8,
+    "outdoor_temp": 20.7,
     "outdoor_humidity": 71.0,
-    "wind_speed": 0.0,
-    "wind_direction": 54.0,
-    "pressure": 1016.3,
+    "wind_speed": 0.4,
+    "wind_direction": 20.0,
+    "pressure": 1016.4,
     "rain_today": 1.8,
-    "uv_index": 2.0,
-    "power_usage": 224.0,
+    "uv_index": 1.0,
+    "power_usage": 202.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Due to a tram fault we currently have a Minor Deley on the Altrincham and Bury Lines.",
   "headlines": [
+    "Intel starts cooking up enhanced 18A-P silicon for would-be foundry customers",
     "Windows devs rerolled old code to save precious bytes",
     "UK.gov links up with LinkedIn for jobs market intel from 40M accounts",
-    "Brit competition cops order Google to make search rankings less mysterious",
-    "Helpdesk scammers are making house calls to make their lies feel more real"
+    "Brit competition cops order Google to make search rankings less mysterious"
   ],
-  "crew_quote": "\"Well, at least it's not raining here in Altrincham, so I've decided to whip up a curry — if it starts pouring, I might have to rethink my plans for the night!\""
+  "crew_quote": "\"Looks like it’s time for a curry in this lovely 21°C weather! Just hope the patchy rain doesn’t ruin my plans for a stroll with my favourite takeaway.\""
 }
