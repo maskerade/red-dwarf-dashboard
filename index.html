@@ -24,12 +24,37 @@
       </div>
     </header>
 
-    <!-- Data Source Health Strip (#2) -->
+        <!-- Weather Alert Banner (#1, Kryten) -->
+        <div class="alert-banner" id="alert-banner" style="display:none;">
+          <div class="alert-banner-inner">
+            <span class="alert-banner-icon" id="alert-banner-icon">⚠</span>
+            <span class="alert-banner-text" id="alert-banner-text">SYSTEM ALERT</span>
+            <button class="alert-banner-close" id="alert-banner-close">×</button>
+          </div>
+        </div>
+
+        <!-- Data Source Health Strip -->
     <div class="health-strip" id="health-strip">
       <div class="health-item" data-source="ha"><span class="health-dot" id="health-ha"></span><span class="health-label">HA SENSORS</span></div>
       <div class="health-item" data-source="weather"><span class="health-dot" id="health-weather"></span><span class="health-label">WEATHER</span></div>
       <div class="health-item" data-source="headlines"><span class="health-dot" id="health-headlines"></span><span class="health-label">HEADLINES</span></div>
       <div class="health-item" data-source="quote"><span class="health-dot" id="health-quote"></span><span class="health-label">CREW QUOTE</span></div>
+    </div>
+
+    <!-- Day-at-a-Glance Summary Strip (#2, Holly) -->
+    <div class="glance-strip" id="glance-strip">
+      <div class="glance-item">
+        <span class="glance-icon">🌙</span>
+        <span class="glance-label" id="glance-moon">Waxing Crescent</span>
+      </div>
+      <div class="glance-item">
+        <span class="glance-icon">☀</span>
+        <span class="glance-label" id="glance-sunset">Sunset in 8h 13m</span>
+      </div>
+      <div class="glance-item glance-weather">
+        <span class="glance-icon" id="glance-weather-icon">☁</span>
+        <span class="glance-label" id="glance-weather-digest">Overcast, 16°C</span>
+      </div>
     </div>
 
     <!-- Main grid -->
@@ -392,6 +417,7 @@
         </div>
         <span class="countdown-text" id="countdown-text">NEXT REFRESH IN 5:00</span>
         <button class="countdown-btn" id="countdown-btn">⟳ SYNC NOW</button>
+        <button class="hum-btn" id="hum-btn" title="Toggle ambient engine hum">🔊</button>
       </div>
     </footer>
 

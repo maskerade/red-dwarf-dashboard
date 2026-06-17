@@ -1161,11 +1161,142 @@ body::after {
 .ship-sparkline-wrap .spark-down { stroke: var(--red); }
 .ship-sparkline-wrap .spark-flat { stroke: var(--text-dim); }
 
-/* Responsive */
+/* === Weather Alert Banner (#1, Kryten) === */
+.alert-banner {
+  display: none;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  overflow: hidden;
+  animation: banner-slide 0.4s ease-out;
+}
+.alert-banner.active {
+  display: block;
+}
+.alert-banner.alert-level-amber {
+  background: rgba(255, 176, 0, 0.12);
+  border: 1px solid var(--amber);
+  box-shadow: 0 0 12px var(--amber-glow), inset 0 0 30px rgba(255, 176, 0, 0.03);
+}
+.alert-banner.alert-level-red {
+  background: rgba(255, 51, 68, 0.12);
+  border: 1px solid var(--red);
+  box-shadow: 0 0 16px var(--red-glow), inset 0 0 30px rgba(255, 51, 68, 0.03);
+  animation: banner-flash 1s ease-in-out infinite;
+}
+.alert-banner-inner {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  font-size: 0.75rem;
+}
+.alert-banner-icon {
+  font-size: 1rem;
+  flex-shrink: 0;
+}
+.alert-banner.alert-level-amber .alert-banner-icon { color: var(--amber); }
+.alert-banner.alert-level-red .alert-banner-icon { color: var(--red); animation: banner-flash-icon 0.5s ease-in-out infinite; }
+.alert-banner-text {
+  flex: 1;
+  letter-spacing: 0.05em;
+  line-height: 1.4;
+}
+.alert-banner.alert-level-amber .alert-banner-text { color: var(--amber); }
+.alert-banner.alert-level-red .alert-banner-text { color: var(--red); }
+.alert-banner-close {
+  background: none;
+  border: 1px solid rgba(255,255,255,0.1);
+  color: var(--text-dim);
+  font-size: 1rem;
+  cursor: pointer;
+  width: 22px;
+  height: 22px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: all 0.2s;
+}
+.alert-banner-close:hover {
+  background: rgba(255,255,255,0.05);
+  border-color: var(--text-dim);
+}
+@keyframes banner-slide {
+  from { max-height: 0; opacity: 0; transform: translateY(-10px); }
+  to { max-height: 60px; opacity: 1; transform: translateY(0); }
+}
+@keyframes banner-flash {
+  0%, 100% { border-color: var(--red); box-shadow: 0 0 16px var(--red-glow); }
+  50% { border-color: transparent; box-shadow: none; }
+}
+@keyframes banner-flash-icon {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.3; }
+}
+
+/* === Day-at-a-Glance Summary Strip (#2, Holly) === */
+.glance-strip {
+  display: flex;
+  gap: 16px;
+  padding: 6px 18px;
+  margin-bottom: 12px;
+  background: rgba(0, 204, 255, 0.04);
+  border: 1px solid rgba(0, 204, 255, 0.1);
+  border-radius: 6px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.glance-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.65rem;
+  color: var(--text-main);
+  letter-spacing: 0.03em;
+}
+.glance-icon {
+  font-size: 0.85rem;
+  flex-shrink: 0;
+}
+.glance-label {
+  white-space: nowrap;
+}
+.glance-weather {
+  margin-left: auto;
+}
+
+/* === Ambient Ship Hum (#4, Lister) === */
+.hum-btn {
+  background: rgba(0, 204, 255, 0.06);
+  border: 1px solid rgba(0, 204, 255, 0.15);
+  color: var(--cyan);
+  font-size: 0.8rem;
+  padding: 3px 8px;
+  cursor: pointer;
+  border-radius: 3px;
+  transition: all 0.2s;
+  white-space: nowrap;
+  line-height: 1;
+}
+.hum-btn:hover {
+  background: rgba(0, 204, 255, 0.12);
+  box-shadow: 0 0 6px var(--cyan-glow);
+}
+.hum-btn.active {
+  background: rgba(0, 255, 136, 0.1);
+  border-color: var(--green);
+  color: var(--green);
+  box-shadow: 0 0 6px rgba(0, 255, 136, 0.2);
+}
+
+/* Responsive updates */
 @media (max-width: 900px) {
   .deck-grid { grid-template-columns: 1fr 1fr; }
   .deck-log, .deck-toast, .deck-plant, .deck-clock, .deck-sky { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
+  .glance-strip { font-size: 0.6rem; gap: 10px; }
+  .glance-weather { margin-left: 0; }
 }
 
 @media (max-width: 480px) {
@@ -1173,4 +1304,5 @@ body::after {
     grid-template-columns: 1fr;
   }
   .deck-log { grid-column: 1; }
+  .glance-item { font-size: 0.55rem; }
 }

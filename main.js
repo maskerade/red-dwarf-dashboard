@@ -947,6 +947,216 @@
     if (subEl) subEl.textContent = sub;
   }
 
+  // ── Weather Alert Banner (#1, Kryten) ───────────────────────────
+  const BANNER_ALERT_KEYS = {
+    wind_speed:  { amber: 30, red: 50, label: 'Wind Speed' },
+    rain_today:  { amber: 5,  red: 15, label: 'Rain Today' },
+    uv_index:    { amber: 6,  red: 8,  label: 'UV Index' },
+    power_usage: { amber: 500, red: 1000, label: 'Power Usage' },
+    indoor_humidity: { amber: 75, red: 90, label: 'Indoor Humidity' },
+  };
+
+  function renderWeatherAlertBanner(data) {
+    const banner = $('alert-banner');
+    const bannerText = $('alert-banner-text');
+    const bannerIcon = $('alert-banner-icon');
+    const closeBtn = $('alert-banner-close');
+    if (!banner || !bannerText) return;
+
+    const house = data.house || {};
+    let highestLevel = null;
+    let alerts = [];
+
+    for (const [key, cfg] of Object.entries(BANNER_ALERT_KEYS)) {
+      const val = house[key];
+      if (val === null || val === undefined) continue;
+      const num = Number(val);
+      if (isNaN(num)) continue;
+
+      if (num >= cfg.red) {
+        highestLevel = 'red';
+        alerts.push(`${cfg.label}: ${num.toFixed(1)}`);
+      } else if (num >= cfg.amber) {
+        if (highestLevel !== 'red') highestLevel = 'amber';
+        alerts.push(`${cfg.label}: ${num.toFixed(1)}`);
+      }
+    }
+
+    if (alerts.length === 0) {
+      banner.classList.remove('active', 'alert-level-amber', 'alert-level-red');
+      return;
+    }
+
+    banner.classList.add('active');
+    banner.classList.remove('alert-level-amber', 'alert-level-red');
+    banner.classList.add('alert-level-' + highestLevel);
+
+    const levelWord = highestLevel === 'red' ? 'CRITICAL' : 'WARNING';
+    bannerIcon.textContent = highestLevel === 'red' ? '⚠' : '⚡';
+    bannerText.textContent = levelWord + ` — ${alerts.join(', ')}`;
+
+    // Close button
+    if (closeBtn) {
+      closeBtn.onclick = function() {
+        banner.classList.remove('active', 'alert-level-amber', 'alert-level-red');
+      };
+    }
+  }
+
+  // ── Day-at-a-Glance Summary Strip (#2, Holly) ──────────────────
+  function renderDayGlance(data) {
+    const moonEl = $('glance-moon');
+    const sunsetEl = $('glance-sunset');
+    const weatherIconEl = $('glance-weather-icon');
+    const weatherDigestEl = $('glance-weather-digest');
+    if (!moonEl || !sunsetEl) return;
+
+    const astro = data.astronomy || {};
+    const moonPhase = astro.moon_phase || 'Unknown';
+    const moonIcon = getMoonIcon(moonPhase);
+
+    // Moon
+    moonEl.textContent = (moonIcon ? moonIcon + ' ' : '') + moonPhase;
+
+    // Sunset countdown
+    if (astro.sunset) {
+      try {
+        const now = new Date();
+        const sunsetMatch = astro.sunset.match(/(\d+):(\d+)\s*(AM|PM)/i);
+        if (sunsetMatch) {
+          let sunsetH = parseInt(sunsetMatch[1], 10);
+          const sunsetM = parseInt(sunsetMatch[2], 10);
+          const ampm = sunsetMatch[3].toUpperCase();
+          if (ampm === 'PM' && sunsetH !== 12) sunsetH += 12;
+          if (ampm === 'AM' && sunsetH === 12) sunsetH = 0;
+          const sunsetDate = new Date(now);
+          sunsetDate.setHours(sunsetH, sunsetM, 0, 0);
+
+          if (sunsetDate > now) {
+            const diffMs = sunsetDate - now;
+            const hrs = Math.floor(diffMs / 3600000);
+            const mins = Math.floor((diffMs % 3600000) / 60000);
+            sunsetEl.textContent = `Sunset in ${hrs}h ${mins}m`;
+          } else {
+            // Already past sunset — show tomorrow
+            sunsetEl.textContent = `Sunset was at ${astro.sunset}`;
+          }
+        } else {
+          sunsetEl.textContent = 'Sunset: ' + astro.sunset;
+        }
+      } catch (_) {
+        sunsetEl.textContent = 'Sunset: ' + astro.sunset;
+      }
+    } else {
+      sunsetEl.textContent = 'Sunset: --';
+    }
+
+    // Weather digest — best location's conditions
+    const locs = data.locations || {};
+    let bestLoc = null;
+    for (const [loc, info] of Object.entries(locs)) {
+      if (info.temp !== null && info.temp !== undefined) {
+        bestLoc = { name: loc, temp: info.temp, conditions: info.conditions };
+        break;
+      }
+    }
+
+    if (bestLoc && weatherIconEl && weatherDigestEl) {
+      const icon = getWeatherIcon(bestLoc.conditions);
+      weatherIconEl.textContent = icon || '☁';
+      const locName = bestLoc.name.charAt(0).toUpperCase() + bestLoc.name.slice(1);
+      const cond = bestLoc.conditions || 'N/A';
+      weatherDigestEl.textContent = `${locName}: ${cond}, ${Number(bestLoc.temp).toFixed(0)}°C`;
+    } else if (weatherDigestEl) {
+      weatherDigestEl.textContent = 'Weather: --';
+    }
+  }
+
+  // ── Ambient Ship Hum (#4, Lister) ──────────────────────────────
+  let humAudioCtx = null;
+  let humOscillator = null;
+  let humGain = null;
+  let humEnabled = false;
+
+  function setupShipHum() {
+    const btn = $('hum-btn');
+    if (!btn) return;
+
+    btn.addEventListener('click', function() {
+      if (humEnabled) {
+        stopHum();
+        btn.textContent = '🔇';
+        btn.classList.remove('active');
+        humEnabled = false;
+      } else {
+        startHum();
+        btn.textContent = '🔊';
+        btn.classList.add('active');
+        humEnabled = true;
+      }
+    });
+  }
+
+  function startHum() {
+    try {
+      humAudioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      // Resume if suspended (autoplay policy)
+      if (humAudioCtx.state === 'suspended') {
+        humAudioCtx.resume();
+      }
+
+      humOscillator = humAudioCtx.createOscillator();
+      humGain = humAudioCtx.createGain();
+
+      humOscillator.type = 'sawtooth';  // Gritty engine feel
+      humOscillator.frequency.value = 55; // A1 — low engine rumble
+      humGain.gain.value = 0.03; // Very subtle
+
+      humOscillator.connect(humGain);
+      humGain.connect(humAudioCtx.destination);
+      humOscillator.start();
+
+      // Update pitch based on power usage
+      updateHumPitch();
+
+      console.log('[Hum] Ship engine started');
+    } catch (e) {
+      console.warn('[Hum] Web Audio not available:', e);
+    }
+  }
+
+  function stopHum() {
+    try {
+      if (humOscillator) {
+        humOscillator.stop();
+        humOscillator.disconnect();
+        humOscillator = null;
+      }
+      if (humGain) {
+        humGain.disconnect();
+        humGain = null;
+      }
+      if (humAudioCtx) {
+        humAudioCtx.close();
+        humAudioCtx = null;
+      }
+      console.log('[Hum] Ship engine stopped');
+    } catch (_) {}
+  }
+
+  function updateHumPitch() {
+    if (!humOscillator || !humAudioCtx) return;
+
+    const data = window.__dashboardData;
+    const power = data && data.house ? Number(data.house.power_usage) : 200;
+    if (isNaN(power)) return;
+
+    // Map power usage (0-1000 kWh) to frequency (65-45 Hz)
+    // More power = lower/deeper hum
+    const freq = Math.max(42, Math.min(70, 65 - (power / 1000) * 20));
+    humOscillator.frequency.setTargetAtTime(freq, humAudioCtx.currentTime, 0.5);
+  }
+
   // Init: set daily items, then start timers
   renderDeckDaily();
   renderDeckPerMinute();
@@ -954,6 +1164,7 @@
   setupToast();
   setupSparklineWrappers();
   setupStudyClock();
+  setupShipHum();
 
   // Timers at different cadences
   setInterval(renderDeckPerMinute, 30000);  // every 30s
@@ -1196,9 +1407,11 @@
       window.__dashboardData = data;
 
       renderShip(data);
+      renderWeatherAlertBanner(data); // #1 — Kryten's banner
       renderThresholdAlarms(data); // #3 — Kryten
       renderAstronomy(data);
       renderHealthStrip(data);   // #2
+      renderDayGlance(data);     // #2 — Holly's summary strip
       renderTrendArrows(data);   // #3 — trend arrows (existing)
       renderSparklines(data);    // #2 — Holly's sparklines
       renderWeather(data);
@@ -1208,6 +1421,7 @@
       renderQuote(data);
       renderPotPlant();          // #1 — Lister
       renderSkyReport(data);     // #5 — Holly
+      updateHumPitch();           // #4 — Lister (update engine hum pitch)
       updateTimestamps(data.timestamp);
       setupWeatherClicks();
     } catch (err) {
@@ -1281,6 +1495,12 @@
 
       // Refresh every 5 minutes
       setInterval(loadDashboard, REFRESH_INTERVAL);
+
+      // Live display refreshes (every 60s)
+      setInterval(function() {
+        const data = window.__dashboardData;
+        if (data) renderDayGlance(data);
+      }, 60000);
 
       // --- Theme toggle ---
       initThemeToggle();
