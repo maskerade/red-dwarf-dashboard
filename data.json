@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-17T02:20:41.062110+00:00",
+  "timestamp": "2026-06-17T02:51:41.660943+00:00",
   "house": {
     "indoor_temp": 20.9,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 15.5,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 15.7,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 297.0,
-    "pressure": 1014.8,
+    "wind_direction": 309.0,
+    "pressure": 1014.4,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 188.0,
+    "power_usage": 213.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Overcast"
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Partly cloudy"
+      "temp": 17.0,
+      "conditions": "Light Rain"
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Overcast"
+      "temp": 14.0,
+      "conditions": "Rain"
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "The new Siri makes one of Apple's most convenient OS features a cumbersome mess",
     "Python dev saved from disaster by intuition...and AI"
   ],
-  "crew_quote": "\"15 degrees and overcast? Blimey, it's like the weather's just as confused as us lot! Still, a nice curry could warm it up a bit, don’t you think?\""
+  "crew_quote": "\"I'm telling you, the weather's foul enough to make me consider going back to bed with a curry instead of facing this rain!\""
 }
