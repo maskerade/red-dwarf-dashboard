@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-17T00:47:35.779113+00:00",
+  "timestamp": "2026-06-17T01:18:40.604656+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.9,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 15.4,
+    "outdoor_temp": 15.3,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 289.0,
-    "pressure": 1015.0,
+    "wind_direction": 291.0,
+    "pressure": 1014.8,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 196.0,
+    "power_usage": 213.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Light Rain"
+      "conditions": "Overcast"
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby"
+      "temp": 18.0,
+      "conditions": "Partly cloudy"
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Light Drizzle"
+      "temp": 15.0,
+      "conditions": "Overcast"
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "Python dev saved from disaster by intuition...and AI",
     "Intel-born networking tech resurfaces as InfiniBand alternative for DoE supers"
   ],
-  "crew_quote": "\"With this weather, it’s like someone’s pouring curry-flavored rain over Altrincham! At least the indoor temp’s nice; I could use a good meal and a nap right about now!\""
+  "crew_quote": "\"With the weather all over the place, I reckon we should just stay indoors, crank up the curries, and hope the room doesn't get too humid for me to breathe!\""
 }
