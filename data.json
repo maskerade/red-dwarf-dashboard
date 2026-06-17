@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-17T09:34:47.655633+00:00",
+  "timestamp": "2026-06-17T10:05:47.815705+00:00",
   "house": {
-    "indoor_temp": 21.1,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 20.1,
-    "outdoor_humidity": 80.0,
+    "indoor_temp": 21.2,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 19.7,
+    "outdoor_humidity": 78.0,
     "wind_speed": 0.0,
-    "wind_direction": 31.0,
-    "pressure": 1015.8,
+    "wind_direction": 330.0,
+    "pressure": 1015.9,
     "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 193.0,
+    "power_usage": 196.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Windows update leaves third-party Office document launches in limbo",
     "System76 boss reckons he can liberate the entire PC stack... just give him another 15 years",
     "Tesco is sprinting to quit VMware and Broadcom despite rapid migration risks",
-    "Developers build the best tools for developers – and are now defanging the AI menace",
-    "Cyberattack sees crops kept in the ground"
+    "Developers build the best tools for developers – and are now defanging the AI menace"
   ],
-  "crew_quote": "\"With the weather being a balmy 17°C, I can't think of a better excuse to whip up a curry and pretend we're not stuck on this floating tin can!\""
+  "crew_quote": "\"Well, it's a balmy 17 degrees outside, perfect for a curry, but with all this cloud, I might need a little more than my usual charm to impress the ladies!\""
 }
