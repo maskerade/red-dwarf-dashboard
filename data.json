@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-17T16:48:54.709076+00:00",
+  "timestamp": "2026-06-17T17:19:55.095962+00:00",
   "house": {
     "indoor_temp": 21.4,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 22.3,
-    "outdoor_humidity": 68.0,
+    "outdoor_temp": 22.2,
+    "outdoor_humidity": 64.0,
     "wind_speed": 0.0,
-    "wind_direction": 41.0,
-    "pressure": 1017.0,
+    "wind_direction": 49.0,
+    "pressure": 1017.1,
     "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 199.0,
+    "power_usage": 224.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Uncle Sam bets $500M that Alphabet spinoff's AI can dig up new semiconductor materials",
     "Only half of US datacenter capacity planned for 2026 is actually  under construction",
     "Smartphone market to shrink 15 percent this year due to memory crisis",
-    "AWS hypes continuous agentic DevOps, puts Kiro in your pocket",
-    "Digital sovereignty needs an operating model"
+    "AWS hypes continuous agentic DevOps, puts Kiro in your pocket"
   ],
-  "crew_quote": "\"Can't believe people are sweating over smartphones when it's a lovely 21 degrees outside! I could whip up a curry, sit back, and enjoy the weather — that’s proper multitasking!\""
+  "crew_quote": "\"With weather like this, I could almost fancy a pint and a curry, but instead, I guess I’ll just have to settle for some ambient server cooling while Uncle Sam plays casino with AI.\""
 }
