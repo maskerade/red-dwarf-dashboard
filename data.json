@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-18T07:17:07.225630+00:00",
+  "timestamp": "2026-06-18T07:48:07.658588+00:00",
   "house": {
     "indoor_temp": 21.2,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 18.3,
-    "outdoor_humidity": 81.0,
+    "outdoor_temp": 19.7,
+    "outdoor_humidity": 80.0,
     "wind_speed": 0.0,
-    "wind_direction": 22.0,
-    "pressure": 1017.4,
+    "wind_direction": 29.0,
+    "pressure": 1017.3,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 199.0,
+    "uv_index": 0.0,
+    "power_usage": 221.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "Git good with Epic Games' new open source VCS, Lore",
     "Smelly config files will make your agents waste tokens, researchers warn"
   ],
-  "crew_quote": "\"With the weather like this, I reckon we should just chill indoors—just like a curry, you know? Best served warm, unlike the state of affairs out there!\""
+  "crew_quote": "\"Well, with the weather like this and a 16°C chill, I’d say it’s the perfect day for a curry… or maybe just to sit back and let the robots deal with the cyber-crime. Cheers!\""
 }
