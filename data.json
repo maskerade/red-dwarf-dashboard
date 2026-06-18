@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-18T08:50:10.247010+00:00",
+  "timestamp": "2026-06-18T09:21:09.321308+00:00",
   "house": {
     "indoor_temp": 21.3,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 19.9,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 1.4,
-    "wind_direction": 35.0,
-    "pressure": 1017.3,
+    "outdoor_temp": 20.0,
+    "outdoor_humidity": 81.0,
+    "wind_speed": 0.0,
+    "wind_direction": 298.0,
+    "pressure": 1017.1,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 193.0,
+    "power_usage": 221.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Oracle support timelines for Fusion Middleware tighter than expected",
     "UK Cabinet Office hiring AI and innovation 'influencer' to build 'AI-first culture' in civil service",
     "RoachFest London 2026: The database as competitive asset",
-    "Cyber offenses now account for around a third of all crime across Asia and South Pacific",
-    "Estonia intends to recognize AI agents with digital IDs"
+    "Cyber offenses now account for around a third of all crime across Asia and South Pacific"
   ],
-  "crew_quote": "\"Blimey, it's 21 degrees indoors and you've got a drizzle outside, Rimmer! If only we could fry up a curry with all this humidity — now that'd be proper multitasking!\""
+  "crew_quote": "\"Blimey, with this drizzle in Llandudno, I reckon the best plan is to whip up a curry and pretend we're on a tropical holiday, right?\""
 }
