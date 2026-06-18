@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-06-18T16:35:13.817288+00:00",
+  "timestamp": "2026-06-18T17:06:12.642454+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.6,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 23.0,
-    "outdoor_humidity": 77.0,
-    "wind_speed": 0.0,
-    "wind_direction": 185.0,
-    "pressure": 1014.7,
+    "outdoor_temp": 27.3,
+    "outdoor_humidity": 63.0,
+    "wind_speed": 1.4,
+    "wind_direction": 195.0,
+    "pressure": 1014.8,
     "rain_today": 0.0,
-    "uv_index": 0.0,
+    "uv_index": 2.0,
     "power_usage": 196.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
@@ -89,10 +89,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Citrix now lets you run virtual desktops like a cost-conscious private equityeer",
+    "Canonical reveals Myna, its local speech-to-text app",
     "NASA payload to ride commercial Mars orbiter from rocket biz yet to reach orbit",
-    "ZTE and China Telecom Guangdong advance cross‑vendor IP network simulation pilots, paving the way for intelligent network operations",
-    "The AI tipping point: where enterprise AI runs at scale",
-    "Google told researcher 'Nice catch!' Then denied bug bounty for flaw it still hasn't fixed"
+    "ZTE and China Telecom Guangdong advance cross‑vendor IP network simulation pilots, paving the way for intelligent network operations"
   ],
-  "crew_quote": "\"With this weather, I'm almost tempted to put on a proper outfit instead of my jumpsuit, but then I'd miss that lovely light drizzle in Llandudno—perfect for a curry run!\""
+  "crew_quote": "\"23 degrees and overcast? That's perfect curry weather, just the right temperature to enjoy a nice hot vindaloo while we wait for the ship to start working again!\""
 }
