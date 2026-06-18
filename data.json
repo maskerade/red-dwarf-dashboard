@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-18T15:33:15.172900+00:00",
+  "timestamp": "2026-06-18T16:04:13.262448+00:00",
   "house": {
     "indoor_temp": 21.6,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 23.2,
-    "outdoor_humidity": 74.0,
-    "wind_speed": 0.0,
-    "wind_direction": 82.0,
-    "pressure": 1015.0,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 23.6,
+    "outdoor_humidity": 75.0,
+    "wind_speed": 0.4,
+    "wind_direction": 115.0,
+    "pressure": 1014.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 216.0,
+    "power_usage": 196.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "NASA payload to ride commercial Mars orbiter from rocket biz yet to reach orbit",
+    "ZTE and China Telecom Guangdong advance cross‑vendor IP network simulation pilots, paving the way for intelligent network operations",
     "The AI tipping point: where enterprise AI runs at scale",
-    "Neuromorphic computing may one day offer AI a power-saving brainwave",
-    "KDE Plasma 6.7 brings the X11 era to a close",
-    "AI nose uses 'Smell Language Model' to sniff out signs of disease"
+    "Google told researcher 'Nice catch!' Then denied bug bounty for flaw it still hasn't fixed"
   ],
-  "crew_quote": "\"Oi, if it’s 23 degrees outside, I reckon a curry’s the perfect way to heat things up in here, especially with all this humidity making me feel like a soggy chip!\""
+  "crew_quote": "\"23 degrees and overcast? I’ve had hotter curries! Let’s just hope the only rain I see today is from those useless Mars rockets!\""
 }
