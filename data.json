@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-18T00:03:00.608710+00:00",
+  "timestamp": "2026-06-18T00:33:56.726727+00:00",
   "house": {
     "indoor_temp": 21.3,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 15.6,
-    "outdoor_humidity": 84.0,
+    "outdoor_temp": 15.1,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
     "wind_direction": 47.0,
-    "pressure": 1018.8,
+    "pressure": 1018.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 191.0,
+    "power_usage": 210.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "Smelly config files will make your agents waste tokens, researchers warn",
     "Nvidia-backed optics vendor to boost wafer output by 4x to meet AI interconnect demand"
   ],
-  "crew_quote": "\"Oi, mate, with it being 17 degrees out, I'm thinking a nice curry for dinner — just like my wardrobe, spicy and not too cloudy!\""
+  "crew_quote": "\"Oi, at 17 degrees, it's like the universe is trying to tell us something — probably that I should just stick to curry and not bother with this whole AI business!\""
 }
