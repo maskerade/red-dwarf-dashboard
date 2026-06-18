@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-18T06:15:08.053764+00:00",
+  "timestamp": "2026-06-18T06:46:06.617172+00:00",
   "house": {
-    "indoor_temp": 21.1,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 16.7,
-    "outdoor_humidity": 84.0,
+    "indoor_temp": 21.2,
+    "indoor_humidity": 56.0,
+    "outdoor_temp": 17.8,
+    "outdoor_humidity": 82.0,
     "wind_speed": 0.0,
-    "wind_direction": 30.0,
+    "wind_direction": 39.0,
     "pressure": 1017.5,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 193.0,
+    "uv_index": 1.0,
+    "power_usage": 191.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "Git good with Epic Games' new open source VCS, Lore",
     "Smelly config files will make your agents waste tokens, researchers warn"
   ],
-  "crew_quote": "\"Well, it’s cloudy enough outside to make even the sun feel self-conscious, but at least our power usage is still a hit — how about a curry to celebrate, eh?\""
+  "crew_quote": "\"Cloudy skies and dodgy cyber crimes? Sounds like a perfect day for a curry and a good old-fashioned nap, mate!\""
 }
