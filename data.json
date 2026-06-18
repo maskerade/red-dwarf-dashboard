@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-06-18T03:40:05.597364+00:00",
+  "timestamp": "2026-06-18T04:11:05.381581+00:00",
   "house": {
     "indoor_temp": 21.2,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 14.5,
-    "outdoor_humidity": 94.0,
+    "outdoor_temp": 14.7,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
     "wind_direction": 44.0,
-    "pressure": 1018.1,
+    "pressure": 1017.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 205.0,
+    "power_usage": 182.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Clear "
+      "temp": 15.0,
+      "conditions": "Mist"
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Partly cloudy"
+      "temp": 15.0,
+      "conditions": "Mist"
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Overcast"
+      "conditions": "Partly cloudy"
     }
   },
   "astronomy": {
@@ -43,5 +43,5 @@
     "Git good with Epic Games' new open source VCS, Lore",
     "Smelly config files will make your agents waste tokens, researchers warn"
   ],
-  "crew_quote": "\"With the weather so nice and a temperature of 21.2°C, I reckon it's a perfect day for a curry and a bit of lazing about, not that I’d be any good at that AI recognition nonsense!\""
+  "crew_quote": "\"15 degrees and misty, eh? Just like my love life—always cloudy with a chance of disappointment. Now, where's my curry?\""
 }
