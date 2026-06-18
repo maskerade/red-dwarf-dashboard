@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-06-18T17:37:13.081595+00:00",
+  "timestamp": "2026-06-18T18:08:13.233396+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 25.7,
-    "outdoor_humidity": 64.0,
-    "wind_speed": 0.7,
-    "wind_direction": 312.0,
+    "outdoor_temp": 24.8,
+    "outdoor_humidity": 66.0,
+    "wind_speed": 0.4,
+    "wind_direction": 354.0,
     "pressure": 1014.4,
     "rain_today": 0.0,
-    "uv_index": 1.0,
+    "uv_index": 0.0,
     "power_usage": 233.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 23.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-18",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Light Drizzle",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-06-18",
@@ -94,5 +94,5 @@
     "NASA payload to ride commercial Mars orbiter from rocket biz yet to reach orbit",
     "ZTE and China Telecom Guangdong advance cross‑vendor IP network simulation pilots, paving the way for intelligent network operations"
   ],
-  "crew_quote": "\"Blimey, it's warmer than the curry I had last night, and that was a real scorcher! Who knew the weather could be more unreliable than Rimmer's intellect?\""
+  "crew_quote": "\"With this lovely 23 degrees in Altrincham, I reckon I could whip up a curry so hot it’d make the sun feel like a nice, cool breeze!\""
 }
