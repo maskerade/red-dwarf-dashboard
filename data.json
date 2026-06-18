@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-06-18T06:46:06.617172+00:00",
+  "timestamp": "2026-06-18T07:17:07.225630+00:00",
   "house": {
     "indoor_temp": 21.2,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 17.8,
-    "outdoor_humidity": 82.0,
+    "outdoor_temp": 18.3,
+    "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 39.0,
-    "pressure": 1017.5,
+    "wind_direction": 22.0,
+    "pressure": 1017.4,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 191.0,
+    "power_usage": 199.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Cloudy "
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy "
+      "temp": 18.0,
+      "conditions": "Partly cloudy"
     },
     "llandudno": {
       "temp": 15.0,
@@ -43,5 +43,5 @@
     "Git good with Epic Games' new open source VCS, Lore",
     "Smelly config files will make your agents waste tokens, researchers warn"
   ],
-  "crew_quote": "\"Cloudy skies and dodgy cyber crimes? Sounds like a perfect day for a curry and a good old-fashioned nap, mate!\""
+  "crew_quote": "\"With the weather like this, I reckon we should just chill indoors—just like a curry, you know? Best served warm, unlike the state of affairs out there!\""
 }
