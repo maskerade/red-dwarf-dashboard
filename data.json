@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-18T10:23:10.389176+00:00",
+  "timestamp": "2026-06-18T10:54:10.571879+00:00",
   "house": {
-    "indoor_temp": 21.4,
+    "indoor_temp": 21.5,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 21.6,
+    "outdoor_temp": 22.2,
     "outdoor_humidity": 76.0,
-    "wind_speed": 1.4,
-    "wind_direction": 37.0,
+    "wind_speed": 0.0,
+    "wind_direction": 333.0,
     "pressure": 1016.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 216.0,
+    "power_usage": 213.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "FreeBSD 15.1 lands, but desktop dabblers still have to draw their own GUI",
     "Transport for London keeps Capita behind wheel of road charging ops in £912M extension",
     "Oracle support timelines for Fusion Middleware tighter than expected",
-    "UK Cabinet Office hiring AI and innovation 'influencer' to build 'AI-first culture' in civil service",
-    "RoachFest London 2026: The database as competitive asset"
+    "UK Cabinet Office hiring AI and innovation 'influencer' to build 'AI-first culture' in civil service"
   ],
-  "crew_quote": "\"With this lovely 20°C weather, I reckon I could whip up a curry that'll knock you into next week—if only I could get through all this fancy road charging nonsense first!\""
+  "crew_quote": "\"With this lovely 20°C weather, I reckon it's curry night — just me and a nice, warm naan while the rest of the galaxy melts in their own tech disasters!\""
 }
