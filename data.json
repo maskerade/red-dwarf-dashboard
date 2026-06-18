@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-18T04:42:00.877758+00:00",
+  "timestamp": "2026-06-18T05:13:02.277795+00:00",
   "house": {
     "indoor_temp": 21.2,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 15.1,
-    "outdoor_humidity": 91.0,
+    "outdoor_temp": 15.5,
+    "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 44.0,
-    "pressure": 1018.0,
+    "wind_direction": 45.0,
+    "pressure": 1017.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 196.0,
+    "power_usage": 221.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -43,5 +43,5 @@
     "Git good with Epic Games' new open source VCS, Lore",
     "Smelly config files will make your agents waste tokens, researchers warn"
   ],
-  "crew_quote": "\"When it’s misty outside and my brain’s 15°C cooler than the room, I could swear I'd left my curry on the stove and it's just taking a cheeky little break!\""
+  "crew_quote": "\"Oi, it's so misty outside, I can barely see me curry cooking! At least the indoor temperature's a comfy 21 degrees — perfect for a cheeky pint!\""
 }
