@@ -168,6 +168,14 @@
             <span class="ship-label">MOON ILLUM</span>
             <span class="ship-value" id="ship-moon_illumination">--</span>
           </div>
+          <div class="ship-item ship-item-astro" data-key="moonrise">
+            <span class="ship-label">MOONRISE</span>
+            <span class="ship-value" id="ship-moonrise">--</span>
+          </div>
+          <div class="ship-item ship-item-astro" data-key="moonset">
+            <span class="ship-label">MOONSET</span>
+            <span class="ship-value" id="ship-moonset">--</span>
+          </div>
         </div>
       </section>
 
@@ -194,6 +202,11 @@
             <div class="weather-temp" id="weather-llandudno-temp">--</div>
             <div class="weather-cond" id="weather-llandudno-conditions">--</div>
           </div>
+        </div>
+        <!-- 3-Day Forecast Strip (#2, Holly) -->
+        <div class="forecast-strip" id="forecast-strip">
+          <span class="forecast-label">FORECAST</span>
+          <div class="forecast-days" id="forecast-days"></div>
         </div>
       </section>
 
@@ -399,6 +412,58 @@
             <div class="sky-primary" id="sky-primary">Fetching...</div>
             <div class="sky-secondary" id="sky-secondary">—</div>
             <span class="deck-sub" id="sky-sub">—</span>
+          </div>
+        </div>
+
+        <!-- 15. Cat's Weather Verdict (#3) -->
+        <div class="deck-item deck-cat-verdict">
+          <span class="deck-label">THE CAT'S WEATHER VERDICT</span>
+          <div class="cat-verdict-content" id="cat-verdict-content">
+            <span class="cat-verdict-text" id="cat-verdict-text">Click a weather card to hear what The Cat thinks...</span>
+          </div>
+        </div>
+
+        <!-- 16. Power & Gas Gauges (#4, Rimmer) -->
+        <div class="deck-item deck-power-gauges">
+          <span class="deck-label">RIMMER'S POWER & GAS</span>
+          <div class="gauge-group">
+            <div class="gauge-row">
+              <span class="gauge-label">POWER</span>
+              <div class="deck-gauge-wrap">
+                <div class="deck-gauge" id="gauge-power"></div>
+              </div>
+              <span class="gauge-value" id="gauge-power-val">0 kWh</span>
+            </div>
+            <div class="gauge-row">
+              <span class="gauge-label">GAS</span>
+              <div class="deck-gauge-wrap">
+                <div class="deck-gauge" id="gauge-gas"></div>
+              </div>
+              <span class="gauge-value" id="gauge-gas-val">0 m³</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- 17. Lister's Day Counter (#5) -->
+        <div class="deck-item deck-day-counter">
+          <span class="deck-label">LISTER'S DAY COUNTER</span>
+          <div class="day-counter-content">
+            <div class="counter-row">
+              <span class="counter-label">LAUNDRY</span>
+              <span class="counter-value" id="counter-laundry">0</span>
+              <button class="counter-btn" data-counter="laundry">↺</button>
+            </div>
+            <div class="counter-row">
+              <span class="counter-label">CURRY</span>
+              <span class="counter-value" id="counter-curry">0</span>
+              <button class="counter-btn" data-counter="curry">↺</button>
+            </div>
+            <div class="counter-row">
+              <span class="counter-label">RIMMER COMPLAINT</span>
+              <span class="counter-value" id="counter-rimmer">0</span>
+              <button class="counter-btn" data-counter="rimmer">↺</button>
+            </div>
+            <span class="deck-sub" id="counter-message">DAYS WITHOUT INCIDENT</span>
           </div>
         </div>
 

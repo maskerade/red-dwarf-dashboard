@@ -115,6 +115,8 @@
     const sunsetEl = $('ship-sunset');
     const moonEl = $('ship-moon_phase');
     const moonIllumEl = $('ship-moon_illumination');
+    const moonriseEl = $('ship-moonrise');
+    const moonsetEl = $('ship-moonset');
 
     if (sunriseEl) {
       sunriseEl.textContent = astro.sunrise || '--';
@@ -132,6 +134,15 @@
     if (moonIllumEl) {
       moonIllumEl.textContent = astro.moon_illumination ? astro.moon_illumination + '%' : '--';
       moonIllumEl.className = 'ship-value';
+    }
+    if (moonriseEl) {
+      const icon = getMoonIcon(astro.moon_phase);
+      moonriseEl.textContent = (icon ? icon + ' ' : '') + (astro.moonrise || '--');
+      moonriseEl.className = 'ship-value';
+    }
+    if (moonsetEl) {
+      moonsetEl.textContent = astro.moonset || '--';
+      moonsetEl.className = 'ship-value';
     }
   }
 
@@ -1157,6 +1168,182 @@
     humOscillator.frequency.setTargetAtTime(freq, humAudioCtx.currentTime, 0.5);
   }
 
+  // ── 3-Day Forecast Strip (#2, Holly) ──────────────────────────
+  function renderForecast(data) {
+    const container = $('forecast-days');
+    if (!container) return;
+
+    const locs = data.locations || {};
+    // Use the first location that has forecast data
+    let forecastLoc = null;
+    for (const [loc, info] of Object.entries(locs)) {
+      if (info.forecast && info.forecast.length >= 2) {
+        forecastLoc = { name: loc, data: info.forecast };
+        break;
+      }
+    }
+
+    if (!forecastLoc) {
+      container.innerHTML = '<span class="forecast-day">No forecast data</span>';
+      return;
+    }
+
+    // Skip today (index 0), show tomorrow and day after
+    const days = forecastLoc.data.slice(1, 3);
+    if (days.length === 0) {
+      container.innerHTML = '<span class="forecast-day">No extended forecast</span>';
+      return;
+    }
+
+    container.innerHTML = days.map(d => {
+      const dateObj = new Date(d.date + 'T12:00:00');
+      const dayName = dateObj.toLocaleDateString('en-GB', { weekday: 'short' });
+      const dateStr = dateObj.toLocaleDateString('en-GB', { day: '2-digit', month: '2-digit' });
+      return `<div class="forecast-day">
+        <span class="fc-date">${dayName} ${dateStr}</span>
+        <span class="fc-temps"><span class="fc-high">↑${d.max}°</span><span class="fc-low">↓${d.min}°</span></span>
+      </div>`;
+    }).join('');
+  }
+
+  // ── Cat's Weather Verdict (#3) ────────────────────────────────
+  function renderCatVerdict(data) {
+    const el = $('cat-verdict-text');
+    if (!el) return;
+
+    const locs = data.locations || {};
+    let bestLoc = null;
+    for (const [loc, info] of Object.entries(locs)) {
+      if (info.temp !== null && info.temp !== undefined) {
+        bestLoc = { key: loc, temp: info.temp, conditions: info.conditions };
+        break;
+      }
+    }
+
+    if (!bestLoc) {
+      el.textContent = 'No weather data for The Cat to judge.';
+      return;
+    }
+
+    const catReactions = [
+      `Hm. ${bestLoc.key}, ${Number(bestLoc.temp).toFixed(0)}°C. The temperature is adequate — just — but the conditions lack commitment.`,
+      `${bestLoc.key} at ${Number(bestLoc.temp).toFixed(0)}°C. I could work with this. My fur looks sensational in this light.`,
+      `Darling, ${Number(bestLoc.temp).toFixed(0)}°C in ${bestLoc.key}? That's not a temperature, that's a suggestion. I'm staying inside until the sun learns what it's doing.`,
+      `${bestLoc.key}: ${bestLoc.conditions} at ${Number(bestLoc.temp).toFixed(0)}°C. The lighting situation needs addressing. I've seen brighter days inside a cupboard.`,
+      `I've reviewed the ${bestLoc.key} situation. ${Number(bestLoc.temp).toFixed(0)}°C. It's fine. Not fabulous. Fine. But I can make anything work.`,
+      `${bestLoc.key} at ${Number(bestLoc.temp).toFixed(0)}°C and ${bestLoc.conditions.toLowerCase()}. The humidity is a problem. Do you know what humidity does to a coat?`,
+    ];
+    const idx = Math.floor(Math.random() * catReactions.length);
+    el.textContent = catReactions[idx];
+  }
+
+  // ── Power & Gas Gauges (#4, Rimmer) ──────────────────────────
+  const GAUGE_THRESHOLDS = {
+    power: { max: 500, amber: 300, red: 450 },
+    gas: { max: 150, amber: 100, red: 130 },
+  };
+
+  function renderPowerGasGauges(data) {
+    const house = data.house || {};
+    const power = Number(house.power_usage) || 0;
+    const gas = Number(house.gas_consumption) || 0;
+
+    const powerGauge = $('gauge-power');
+    const powerVal = $('gauge-power-val');
+    const gasGauge = $('gauge-gas');
+    const gasVal = $('gauge-gas-val');
+
+    function setGauge(gaugeEl, valEl, val, cfg, suffix) {
+      if (!gaugeEl || !valEl) return;
+      const pct = Math.min(100, Math.round((val / cfg.max) * 100));
+      gaugeEl.style.width = Math.max(2, pct) + '%';
+      valEl.textContent = val.toFixed(1) + suffix;
+
+      let color;
+      if (val >= cfg.red) color = 'var(--red)';
+      else if (val >= cfg.amber) color = 'var(--amber)';
+      else color = 'var(--green)';
+      gaugeEl.style.background = `linear-gradient(90deg, ${color}, var(--amber-dim))`;
+    }
+
+    setGauge(powerGauge, powerVal, power, GAUGE_THRESHOLDS.power, ' kWh');
+    setGauge(gasGauge, gasVal, gas, GAUGE_THRESHOLDS.gas, ' m³');
+  }
+
+  // ── Lister's Day Counter (#5) ────────────────────────────────
+  const COUNTER_DEFAULT = { laundry: 0, curry: 0, rimmer: 0, date: new Date().toDateString() };
+  const COUNTER_MESSAGES = [
+    'DAYS WITHOUT INCIDENT',
+    'LISTER IS DOING... OKAY',
+    'THINGS ARE GETTING WORSE',
+    'SOMEONE\'S GONNA DO SOMETHING SOON',
+    'THIS IS FINE. EVERYTHING IS FINE.',
+    'A SITUATION IS DEVELOPING',
+    'DISASTER IMMINENT',
+    'ABSOLUTE STATE OF THINGS',
+    'LISTER\'S LAUNDRY HAS DEVELOPED SENTIENCE',
+    'THE SMELL IS NOW VISIBLE',
+  ];
+
+  function setupDayCounter() {
+    const stored = JSON.parse(localStorage.getItem('rdwd_daycounter') || 'null');
+    let state;
+    if (stored && stored.date && stored.date !== new Date().toDateString()) {
+      // New day — increment counters
+      state = {
+        laundry: (stored.laundry || 0) + 1,
+        curry: (stored.curry || 0) + 1,
+        rimmer: (stored.rimmer || 0) + 1,
+        date: new Date().toDateString(),
+      };
+    } else if (stored) {
+      state = stored;
+    } else {
+      state = { ...COUNTER_DEFAULT };
+    }
+    localStorage.setItem('rdwd_daycounter', JSON.stringify(state));
+
+    // Render
+    const counters = ['laundry', 'curry', 'rimmer'];
+    for (const c of counters) {
+      const el = $(`counter-${c}`);
+      if (el) el.textContent = state[c];
+    }
+
+    const msgEl = $('counter-message');
+    if (msgEl) {
+      const highest = Math.max(state.laundry, state.curry, state.rimmer);
+      const idx = Math.min(highest, COUNTER_MESSAGES.length - 1);
+      msgEl.textContent = COUNTER_MESSAGES[idx];
+    }
+
+    // Reset buttons
+    document.querySelectorAll('.counter-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        const counter = this.dataset.counter;
+        if (!counter) return;
+        const current = JSON.parse(localStorage.getItem('rdwd_daycounter') || '{}');
+        current[counter] = 0;
+        current.date = new Date().toDateString();
+        localStorage.setItem('rdwd_daycounter', JSON.stringify(current));
+        const el = $(`counter-${counter}`);
+        if (el) el.textContent = '0';
+
+        const allCounters = ['laundry', 'curry', 'rimmer'];
+        const vals = allCounters.map(c => {
+          const e = $(`counter-${c}`);
+          return e ? parseInt(e.textContent) : 0;
+        });
+        const highest = Math.max(...vals);
+        const msgEl = $('counter-message');
+        if (msgEl) {
+          const idx = Math.min(highest, COUNTER_MESSAGES.length - 1);
+          msgEl.textContent = COUNTER_MESSAGES[idx];
+        }
+      });
+    });
+  }
+
   // Init: set daily items, then start timers
   renderDeckDaily();
   renderDeckPerMinute();
@@ -1165,6 +1352,7 @@
   setupSparklineWrappers();
   setupStudyClock();
   setupShipHum();
+  setupDayCounter();
 
   // Timers at different cadences
   setInterval(renderDeckPerMinute, 30000);  // every 30s
@@ -1409,18 +1597,21 @@
       renderShip(data);
       renderWeatherAlertBanner(data); // #1 — Kryten's banner
       renderThresholdAlarms(data); // #3 — Kryten
-      renderAstronomy(data);
+      renderAstronomy(data);         // #1 — includes moonrise/moonset
       renderHealthStrip(data);   // #2
       renderDayGlance(data);     // #2 — Holly's summary strip
+      renderForecast(data);      // #2 — Holly's 3-day forecast
       renderTrendArrows(data);   // #3 — trend arrows (existing)
       renderSparklines(data);    // #2 — Holly's sparklines
       renderWeather(data);
+      renderCatVerdict(data);    // #3 — Cat's verdict
       renderMetrolink(data);
       renderHeadlines(data);
       renderCrew();
       renderQuote(data);
       renderPotPlant();          // #1 — Lister
       renderSkyReport(data);     // #5 — Holly
+      renderPowerGasGauges(data); // #4 — Rimmer's gauges
       updateHumPitch();           // #4 — Lister (update engine hum pitch)
       updateTimestamps(data.timestamp);
       setupWeatherClicks();

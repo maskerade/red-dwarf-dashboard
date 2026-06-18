@@ -133,8 +133,7 @@ POSTCODES = {
 
 def collect_weather():
     """Fetch current weather for each postcode from wttr.in.
-    Also returns astronomy data (moon phase, sun times) from the first
-    location's response."""
+    Also returns astronomy data (moon phase, sun times) and 3-day forecast. """
     locations = {}
     astronomy = {}
     for key, postcode in POSTCODES.items():
@@ -148,6 +147,21 @@ def collect_weather():
                 temp = safe_float(cc.get("temp_C"))
                 conditions = cc.get("weatherDesc", [{}])[0].get("value")
                 locations[key] = {"temp": temp, "conditions": conditions}
+
+                # 3-day forecast from weather[0..2]
+                weather = data.get("weather", [])
+                forecasts = []
+                for w in weather[:3]:  # today + 2 more days
+                    fc = {
+                        "date": w.get("date", ""),
+                        "max": safe_float(w.get("maxtempC")),
+                        "min": safe_float(w.get("mintempC")),
+                    }
+                    # Only include if we have valid data
+                    if fc["max"] is not None:
+                        forecasts.append(fc)
+                if forecasts:
+                    locations[key]["forecast"] = forecasts
 
                 # Grab astronomy from first successful response only
                 if not astronomy:

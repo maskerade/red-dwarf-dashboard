@@ -1290,13 +1290,78 @@ body::after {
   box-shadow: 0 0 6px rgba(0, 255, 136, 0.2);
 }
 
+/* === 3-Day Forecast Strip (#2, Holly) === */
+.forecast-strip {
+  display: flex; align-items: center; gap: 10px;
+  margin-top: 10px; padding: 6px 10px;
+  background: rgba(0, 204, 255, 0.03);
+  border: 1px solid rgba(0, 204, 255, 0.08);
+  border-radius: 4px;
+}
+.forecast-label {
+  font-size: 0.55rem; letter-spacing: 0.12em; color: var(--cyan-dim);
+  text-transform: uppercase; flex-shrink: 0;
+}
+.forecast-days {
+  display: flex; gap: 10px; flex: 1;
+}
+.forecast-day {
+  font-size: 0.6rem; color: var(--text-main);
+  display: flex; flex-direction: column; gap: 1px;
+}
+.forecast-day .fc-date { font-size: 0.5rem; color: var(--text-dim); letter-spacing: 0.03em; }
+.forecast-day .fc-temps { display: flex; gap: 4px; }
+.forecast-day .fc-high { color: var(--amber); }
+.forecast-day .fc-low { color: var(--cyan-dim); }
+
+/* === Cat's Verdict Widget (#3) === */
+.deck-cat-verdict { grid-column: span 1; }
+.cat-verdict-content { padding: 2px 0; }
+.cat-verdict-text {
+  font-size: 0.65rem; color: var(--amber); line-height: 1.4;
+  font-style: italic; display: block;
+}
+
+/* === Power & Gas Gauges (#4, Rimmer) === */
+.deck-power-gauges { grid-column: span 1; }
+.gauge-group { display: flex; flex-direction: column; gap: 6px; }
+.gauge-row { display: flex; align-items: center; gap: 6px; }
+.gauge-label { font-size: 0.55rem; color: var(--text-dim); min-width: 35px; letter-spacing: 0.08em; }
+.gauge-row .deck-gauge-wrap { flex: 1; height: 6px; }
+.gauge-row .deck-gauge {
+  height: 100%; border-radius: 3px;
+  transition: width 0.5s ease;
+}
+.gauge-value { font-size: 0.55rem; color: var(--text-dim); min-width: 50px; text-align: right; white-space: nowrap; }
+
+/* === Lister's Day Counter (#5) === */
+.deck-day-counter { grid-column: span 1; }
+.day-counter-content { display: flex; flex-direction: column; gap: 4px; }
+.counter-row { display: flex; align-items: center; gap: 4px; }
+.counter-label { font-size: 0.55rem; color: var(--text-dim); flex: 1; letter-spacing: 0.05em; }
+.counter-value {
+  font-size: 0.9rem; font-weight: bold; color: var(--amber);
+  font-family: var(--font-mono-alt); min-width: 24px; text-align: right;
+}
+.counter-btn {
+  background: rgba(255, 51, 68, 0.06);
+  border: 1px solid var(--red-dim); color: var(--red);
+  font-size: 0.6rem; padding: 1px 5px; cursor: pointer; border-radius: 3px;
+  transition: all 0.2s; line-height: 1;
+}
+.counter-btn:hover {
+  background: rgba(255, 51, 68, 0.12); box-shadow: 0 0 4px var(--red-glow);
+}
+
 /* Responsive updates */
 @media (max-width: 900px) {
   .deck-grid { grid-template-columns: 1fr 1fr; }
-  .deck-log, .deck-toast, .deck-plant, .deck-clock, .deck-sky { grid-column: 1 / -1; }
+  .deck-log, .deck-toast, .deck-plant, .deck-clock, .deck-sky,
+  .deck-cat-verdict, .deck-power-gauges, .deck-day-counter { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
   .glance-strip { font-size: 0.6rem; gap: 10px; }
   .glance-weather { margin-left: 0; }
+  .forecast-days { flex-wrap: wrap; }
 }
 
 @media (max-width: 480px) {
