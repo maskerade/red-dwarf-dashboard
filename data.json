@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-18T20:12:15.284390+00:00",
+  "timestamp": "2026-06-18T20:43:15.495147+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.8,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 20.4,
-    "outdoor_humidity": 80.0,
+    "outdoor_temp": 19.6,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 287.0,
+    "wind_direction": 235.0,
     "pressure": 1014.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 230.0,
+    "power_usage": 191.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Citrix now lets you run virtual desktops like a cost-conscious private equityeer",
     "Canonical reveals Myna, its local speech-to-text app"
   ],
-  "crew_quote": "\"Oi, it's warmer outside than the curry I had last night! Fancy a bit of drizzle with your chips, or shall we just bask in this lovely indoor heat?\""
+  "crew_quote": "\"Ah, 22 degrees and patchy rain? Perfect weather for a curry binge while we wait for the golden light spa treatments to become a thing on this ship! I'm in!\""
 }
