@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-18T12:27:12.470329+00:00",
+  "timestamp": "2026-06-18T12:58:13.558938+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 57.0,
     "outdoor_temp": 23.3,
     "outdoor_humidity": 74.0,
-    "wind_speed": 0.0,
-    "wind_direction": 33.0,
-    "pressure": 1015.6,
+    "wind_speed": 0.4,
+    "wind_direction": 121.0,
+    "pressure": 1015.4,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 199.0,
+    "uv_index": 1.0,
+    "power_usage": 216.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "AI nose uses 'Smell Language Model' to sniff out signs of disease",
     "Microsoft once used its own brand of 'Lego' to optimize Windows",
     "India blocks Telegram ahead of scandal-hit medical school entrance exam",
-    "FreeBSD 15.1 lands, but desktop dabblers still have to draw their own GUI",
-    "Transport for London keeps Capita behind wheel of road charging ops in £912M extension"
+    "FreeBSD 15.1 lands, but desktop dabblers still have to draw their own GUI"
   ],
-  "crew_quote": "\"You know, with all this rain in Llandudno, I could really use a curry and a good old fashioned mope about! What’s the point of being partly cloudy when you could just be fabulous?\""
+  "crew_quote": "\"With the weather like this, I can’t believe I left my curry out in the rain—great, now it smells like a soggy dog’s dinner!\""
 }
