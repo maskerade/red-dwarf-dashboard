@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-18T11:56:11.779103+00:00",
+  "timestamp": "2026-06-18T12:27:12.470329+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 22.8,
-    "outdoor_humidity": 75.0,
+    "outdoor_temp": 23.3,
+    "outdoor_humidity": 74.0,
     "wind_speed": 0.0,
-    "wind_direction": 3.0,
-    "pressure": 1015.9,
+    "wind_direction": 33.0,
+    "pressure": 1015.6,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 196.0,
+    "uv_index": 2.0,
+    "power_usage": 199.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Microsoft once used its own brand of 'Lego' to optimize Windows",
     "India blocks Telegram ahead of scandal-hit medical school entrance exam",
     "FreeBSD 15.1 lands, but desktop dabblers still have to draw their own GUI",
-    "Transport for London keeps Capita behind wheel of road charging ops in £912M extension",
-    "Oracle support timelines for Fusion Middleware tighter than expected"
+    "Transport for London keeps Capita behind wheel of road charging ops in £912M extension"
   ],
-  "crew_quote": "\"Well, if it’s 21 degrees in here, I reckon it’s a perfect day for a curry — just don’t tell the Cat, he’ll want to wear it as a new fashion statement!\""
+  "crew_quote": "\"You know, with all this rain in Llandudno, I could really use a curry and a good old fashioned mope about! What’s the point of being partly cloudy when you could just be fabulous?\""
 }
