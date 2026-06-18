@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-18T07:48:07.658588+00:00",
+  "timestamp": "2026-06-18T08:19:08.258508+00:00",
   "house": {
     "indoor_temp": 21.2,
-    "indoor_humidity": 56.0,
-    "outdoor_temp": 19.7,
-    "outdoor_humidity": 80.0,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 19.2,
+    "outdoor_humidity": 82.0,
     "wind_speed": 0.0,
-    "wind_direction": 29.0,
-    "pressure": 1017.3,
+    "wind_direction": 32.0,
+    "pressure": 1017.2,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 221.0,
+    "uv_index": 1.0,
+    "power_usage": 193.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -38,10 +38,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "RoachFest London 2026: The database as competitive asset",
     "Cyber offenses now account for around a third of all crime across Asia and South Pacific",
     "Estonia intends to recognize AI agents with digital IDs",
-    "Git good with Epic Games' new open source VCS, Lore",
-    "Smelly config files will make your agents waste tokens, researchers warn"
+    "Git good with Epic Games' new open source VCS, Lore"
   ],
-  "crew_quote": "\"Well, with the weather like this and a 16°C chill, I’d say it’s the perfect day for a curry… or maybe just to sit back and let the robots deal with the cyber-crime. Cheers!\""
+  "crew_quote": "\"Well, looks like it’s not too hot or too cold, perfect curry weather if you ask me! Just need to avoid any cyber-crime while I’m at it!\""
 }
