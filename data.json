@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-19T17:54:34.087271+00:00",
+  "timestamp": "2026-06-19T18:25:37.060073+00:00",
   "house": {
     "indoor_temp": 22.5,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 20.3,
-    "outdoor_humidity": 86.0,
+    "outdoor_temp": 20.4,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 296.0,
-    "pressure": 1012.4,
+    "wind_direction": 217.0,
+    "pressure": 1012.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 221.0,
+    "power_usage": 219.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Bcachefs exits experimental status in new 'performance release'",
     "Waymo hits the brakes after robotaxis keep missing the signs for freeway construction zones"
   ],
-  "crew_quote": "\"Ah, the weather’s nice and toasty today, just like a good curry on a Saturday night—too bad the clouds are trying to ruin my vibe! Can’t they just get lost?\""
+  "crew_quote": "\"With indoor temps at 22.5°C, I reckon we could be sizzling up a curry while waiting for the clouds to clear in Llandudno — not too hot, not too cold, just right for a good munch!\""
 }
