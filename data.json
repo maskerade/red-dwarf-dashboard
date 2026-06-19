@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-19T02:24:20.246256+00:00",
+  "timestamp": "2026-06-19T02:55:20.787007+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.6,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 14.5,
-    "outdoor_humidity": 97.0,
+    "outdoor_temp": 14.3,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 244.0,
-    "pressure": 1013.4,
+    "wind_direction": 245.0,
+    "pressure": 1013.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 213.0,
+    "power_usage": 179.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Committed skeptic finds himself warming to new Amazon AI products that actually don't suck",
     "Citrix now lets you run virtual desktops like a cost-conscious private equityeer"
   ],
-  "crew_quote": "\"Well, if the weather's as foggy as my head most mornings, I might as well open a curry house in Overseal; at least the customers will understand the mist!\""
+  "crew_quote": "\"With the weather being all misty and overcast, it's the perfect day for a curry and a bit of a laugh, eh? Just keep the power usage down, or we’ll be in the red like me bank account!\""
 }
