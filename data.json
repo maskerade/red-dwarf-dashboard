@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-19T10:40:27.616133+00:00",
+  "timestamp": "2026-06-19T11:11:28.606451+00:00",
   "house": {
-    "indoor_temp": 22.3,
+    "indoor_temp": 22.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 22.8,
-    "outdoor_humidity": 77.0,
-    "wind_speed": 0.4,
-    "wind_direction": 196.0,
-    "pressure": 1011.8,
+    "outdoor_temp": 23.1,
+    "outdoor_humidity": 74.0,
+    "wind_speed": 4.0,
+    "wind_direction": 53.0,
+    "pressure": 1011.9,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 221.0,
+    "uv_index": 0.0,
+    "power_usage": 207.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Nutanix's Tech Day London 2026 offers infrastructure insights",
     "Use of HMRC's taxing IR35 status tool drops 71% in two years"
   ],
-  "crew_quote": "\"Only 22 degrees outside and they're already sweating over automation? Blimey, I just want a nice curry, not a tech revolution!\""
+  "crew_quote": "\"Twenty degrees and partly cloudy? Lovely weather for a curry, but I'd still prefer a nice sunny spot in Overscale, where the only thing getting automated is my tan!\""
 }
