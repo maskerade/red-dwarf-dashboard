@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-19T16:52:33.414413+00:00",
+  "timestamp": "2026-06-19T17:23:34.315402+00:00",
   "house": {
     "indoor_temp": 22.5,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 21.2,
-    "outdoor_humidity": 83.0,
-    "wind_speed": 0.0,
-    "wind_direction": 15.0,
-    "pressure": 1012.9,
+    "outdoor_temp": 20.6,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 0.4,
+    "wind_direction": 259.0,
+    "pressure": 1012.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 199.0,
+    "power_usage": 202.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "10:04 AM",
     "moonset": "12:21 AM"
   },
-  "metrolink": "Due to a dog in the tracks earlier we currently have some severe delays on the Altrincham Line. Customers can also use local buses on the line. See tfgm.com for bus numbers.",
+  "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
     "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones",
     "Tensordyne makes a big bet on log math to beat Nvidia",
     "Bcachefs exits experimental status in new 'performance release'",
     "Waymo hits the brakes after robotaxis keep missing the signs for freeway construction zones"
   ],
-  "crew_quote": "\"Well, it's 22 degrees and overcast, which is perfect curry weather! I reckon we should whip up a spicy one and enjoy a proper meal in this not-so-dismal place!\""
+  "crew_quote": "\"Oi, it’s so muggy in here, I feel like I’m swimming in a curry! At least it’s only 22 degrees outside; they’ll have to wait for the rain to cool things down!\""
 }
