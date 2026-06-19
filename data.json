@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-06-19T04:28:23.996498+00:00",
+  "timestamp": "2026-06-19T04:59:25.748981+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 15.2,
-    "outdoor_humidity": 99.0,
+    "outdoor_temp": 16.0,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 245.0,
-    "pressure": 1012.8,
+    "pressure": 1012.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 182.0,
+    "power_usage": 199.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Mist",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Committed skeptic finds himself warming to new Amazon AI products that actually don't suck",
     "Citrix now lets you run virtual desktops like a cost-conscious private equityeer"
   ],
-  "crew_quote": "\"Looks like the weather's as confused as a cat in a dog show—misting about at 15°C, just like my last curry, slightly cloudy and definitely spicy!\""
+  "crew_quote": "\"Oi, with the mist everywhere, it's like the universe's way of telling me to stay inside and enjoy a curry instead of getting soaked—lovely jab at my plans, eh?\""
 }
