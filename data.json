@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-19T12:13:29.742164+00:00",
+  "timestamp": "2026-06-19T12:44:29.746384+00:00",
   "house": {
-    "indoor_temp": 22.6,
+    "indoor_temp": 22.5,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 23.2,
-    "outdoor_humidity": 74.0,
-    "wind_speed": 1.8,
-    "wind_direction": 81.0,
-    "pressure": 1011.6,
+    "outdoor_temp": 23.8,
+    "outdoor_humidity": 73.0,
+    "wind_speed": 0.0,
+    "wind_direction": 15.0,
+    "pressure": 1011.4,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 227.0,
+    "uv_index": 1.0,
+    "power_usage": 193.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Geopolitical jitters push Europe's internet registry away from cloud-first strategy",
     "Devs in the trenches are stressed from the mandate to automate everything, but Render thinks it can help"
   ],
-  "crew_quote": "\"Blimey, it's about as sunny as my future—24 degrees in Overseal! Now, where's my curry to celebrate this glorious weather?\""
+  "crew_quote": "\"Oi, it's so nice out I could almost forget the government’s busy bodging up AI! Fancy a curry on the sunny deck while we pretend all that's drizzling down is just rain?\""
 }
