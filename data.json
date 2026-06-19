@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-19T20:29:36.560749+00:00",
+  "timestamp": "2026-06-19T21:00:52.137184+00:00",
   "house": {
     "indoor_temp": 22.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 19.5,
-    "outdoor_humidity": 86.0,
-    "wind_speed": 0.7,
-    "wind_direction": 284.0,
-    "pressure": 1013.5,
+    "outdoor_temp": 19.3,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 0.0,
+    "wind_direction": 44.0,
+    "pressure": 1013.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 213.0,
+    "power_usage": 227.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-06-19",
@@ -31,14 +31,14 @@
         },
         {
           "date": "2026-06-21",
-          "max": 24.0,
+          "max": 25.0,
           "min": 11.0
         }
       ]
     },
     "overseal": {
       "temp": 22.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-19",
@@ -48,7 +48,7 @@
         {
           "date": "2026-06-20",
           "max": 22.0,
-          "min": 14.0
+          "min": 16.0
         },
         {
           "date": "2026-06-21",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Mist",
       "forecast": [
         {
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-06-21",
-          "max": 20.0,
+          "max": 19.0,
           "min": 10.0
         }
       ]
@@ -94,5 +94,5 @@
     "Bcachefs exits experimental status in new 'performance release'",
     "Waymo hits the brakes after robotaxis keep missing the signs for freeway construction zones"
   ],
-  "crew_quote": "\"With all this humid air and a delightful 22 degrees, I reckon a nice curry is the perfect thing to spice up the day, don’t you think?\""
+  "crew_quote": "\"Oi, it's like a bloody curry night in here with all this humidity! Let's hope the weather outside doesn’t rain on my parade—gotta keep it cool for the lads!\""
 }
