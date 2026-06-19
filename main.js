@@ -1344,6 +1344,253 @@
     });
   }
 
+  // ── Rimmer's Efficiency Report (#1, June 19) ─────────────────
+  function renderEfficiencyReport(data) {
+    const el = $('efficiency-text');
+    if (!el) return;
+    const house = data.house || {};
+    const power = Number(house.power_usage) || 0;
+    const gas = Number(house.gas_consumption) || 0;
+    const indoorTemp = Number(house.indoor_temp) || 0;
+    const heating = house.heating_active;
+
+    const templates = [
+      `Attention! I've reviewed today's resource consumption and I must register my extreme displeasure. Power usage is at ${power.toFixed(1)} kWh — that's enough to run a small moonbase. Gas consumption at ${gas.toFixed(1)} m³. And the indoor temperature is ${indoorTemp.toFixed(1)}°C, which is either too hot or too cold depending on which regulation you're consulting. In my day, we didn't have thermostats. We had discipline.`,
+      `Right then. Another day, another catalogue of inefficiencies. Power: ${power.toFixed(1)} kWh. Do you know what that could power? A lightbulb. For a considerable amount of time. And gas at ${gas.toFixed(1)} m³ — I assume you're heating the entire block of flats? The indoor temperature reading of ${indoorTemp.toFixed(1)}°C is frankly indulgent. I'm logging this.`,
+      `Daily efficiency report. ${power.toFixed(1)} kWh. ${gas.toFixed(1)} m³. ${indoorTemp.toFixed(1)}°C. These numbers are NOT within acceptable parameters. I checked. I have a list of acceptable parameters somewhere. If the heating is ${heating ? 'ON' : 'OFF'}, someone's made a serious error in judgment. I expect better. Or at least, different.`,
+      `I've compiled today's figures: power draw of ${power.toFixed(1)} kWh, gas at ${gas.toFixed(1)} m³, internal climate reading ${indoorTemp.toFixed(1)}°C. I could present a 27-point improvement plan, but given the general level of competence around here, I'll simply note my dissatisfaction and await the inevitable crisis.`,
+    ];
+    const idx = Math.floor(Math.random() * templates.length);
+    el.textContent = templates[idx];
+  }
+
+  // ── Cat's Daily Colour Accent (#2, June 19) ─────────────────
+  function renderColourAccent(data) {
+    const locs = data.locations || {};
+    // Pick the first location's conditions
+    let conditions = '';
+    for (const info of Object.values(locs)) {
+      if (info.conditions) { conditions = info.conditions.toLowerCase(); break; }
+    }
+
+    let colour, accentName;
+    if (!conditions) { colour = '#00ccff'; accentName = 'CYAN'; }
+    else if (conditions.includes('sunny') || conditions.includes('clear')) {
+      colour = '#ffd700'; accentName = 'GOLD';
+    } else if (conditions.includes('rain') || conditions.includes('drizzle') || conditions.includes('storm')) {
+      colour = '#c0c0c0'; accentName = 'SILVER';
+    } else if (conditions.includes('cloud') || conditions.includes('overcast')) {
+      colour = '#ff8c00'; accentName = 'AMBER';
+    } else if (conditions.includes('fog') || conditions.includes('mist')) {
+      colour = '#87ceeb'; accentName = 'SKY BLUE';
+    } else if (conditions.includes('snow') || conditions.includes('ice')) {
+      colour = '#ffffff'; accentName = 'ICE';
+    } else if (conditions.includes('wind')) {
+      colour = '#00ff88'; accentName = 'EMERALD';
+    } else {
+      colour = '#ffb000'; accentName = 'AMBER';
+    }
+
+    // Apply as CSS custom property on body
+    document.body.style.setProperty('--cat-accent', colour);
+    document.body.classList.add('cat-accent-active');
+  }
+
+  // ── Lister's Tinned Curry Countdown (#3, June 19) ────────────
+  function setupCurryStockpile() {
+    const expiryEl = $('curry-expiry');
+    const findBtn = $('curry-find-btn');
+    const cooldownEl = $('curry-cooldown');
+    if (!expiryEl) return;
+
+    // Base date: ten years ago today
+    const base = new Date();
+    base.setFullYear(base.getFullYear() - 10);
+    const daysSince = Math.floor((Date.now() - base.getTime()) / 86400000);
+    expiryEl.textContent = daysSince.toLocaleString();
+
+    if (findBtn) {
+      let onCooldown = false;
+      findBtn.addEventListener('click', function() {
+        if (onCooldown) return;
+        onCooldown = true;
+        findBtn.disabled = true;
+
+        // Celebration animation
+        expiryEl.classList.add('curry-celebration');
+        expiryEl.style.color = 'var(--green)';
+        setTimeout(() => {
+          expiryEl.classList.remove('curry-celebration');
+          expiryEl.style.color = '';
+        }, 500);
+
+        // Cooldown countdown
+        if (cooldownEl) {
+          cooldownEl.style.display = '';
+          let remaining = 30;
+          cooldownEl.textContent = `🔍 Searching pantry... ${remaining}s`;
+          const interval = setInterval(() => {
+            remaining--;
+            if (remaining <= 0) {
+              clearInterval(interval);
+              cooldownEl.style.display = 'none';
+              onCooldown = false;
+              findBtn.disabled = false;
+              cooldownEl.textContent = '';
+            } else {
+              cooldownEl.textContent = `🔍 Searching pantry... ${remaining}s`;
+            }
+          }, 1000);
+        }
+      });
+    }
+  }
+
+  // ── Holly's Trivia Fact of the Day (#4, June 19) ─────────────
+  const TRIVIA_FACTS = [
+    "The original working title for Red Dwarf was 'Red Dwarf XI' (as in the 11th series).",
+    "Kryten's head has 37 separate moving parts and cost £32,000 to build.",
+    "The Cat costume had to be replaced 14 times during Series 1 because of wear and tear.",
+    "Chris Barrie (Rimmer) performed all his own stunts, including the famous hologram 'de-resolution' sequence.",
+    "The original script for 'The End' had Lister being 2 million years old, increased to 3 million for dramatic effect.",
+    "Craig Charles was cast as Lister just two days after auditioning — he didn't even have time to learn his lines.",
+    "The set for the sleeping quarters was actually half the size it appeared on screen, achieved with forced perspective.",
+    "Norman Lovett (Holly) improvised most of his computer voice lines on the spot.",
+    "The show's theme song was written in just one evening by Howard Goodall.",
+    "Danny John-Jules (Cat) was a professional dancer before joining Red Dwarf and choreographed his own movements.",
+    "The original pilot episode had a different actor playing Cat — David Gillespie, before Danny John-Jules took over.",
+    "Kryten was originally written as a one-off character but was brought back due to popular demand.",
+    "Rimmer's hologram suit cost £15,000 and had to be specially lit to create the transparent effect.",
+    "The model shots of Red Dwarf ship were over 12 feet long and took two weeks to build.",
+    "Lister's curry obsession was based on Craig Charles's own love of Indian food.",
+    "The show was rejected by BBC1 before finding a home on BBC2, where it became a cult hit.",
+    "Holly's IQ display was manually operated by a crew member off-camera.",
+    "The toaster prop from Series 1 is now in the Science Museum in London.",
+    "'Smoke me a kipper, I'll be back for breakfast' was voted the funniest Red Dwarf line in a 2004 poll.",
+    "The original Cat costume was made from a modified sheepskin rug.",
+    "Series 3 was the first to use the updated, larger Red Dwarf model.",
+    "Rob Grant and Doug Naylor wrote every episode together until Series 6, then parted ways.",
+    "The 'Better Than Life' virtual reality game helmet was actually a repurposed hair dryer.",
+    "Hattie Hayridge took over as Holly from Series 3 after Norman Lovett left.",
+    "The space suits worn by the cast were modified Royal Navy survival suits.",
+    "Rimmer's Light Bee — the device that projects his hologram — was never fully explained on screen.",
+    "The show was originally conceived as a sitcom version of Alien meets The Odd Couple.",
+    "Kryten's head mechanism required a puppeteer hidden behind the set operating cables.",
+    "The Polymorph episode was inspired by a real dream Doug Naylor had.",
+    "'Queeg' was named after a character from the original Grant Naylor pitch document.",
+    "Starbug was originally designed to look like a small red car with wings.",
+    "Cat's wardrobe had to be replaced every series as Danny John-Jules changed his fashion preferences.",
+    "The 'Backwards' episode required actors to perform scenes in reverse and then reverse the film.",
+    "The Red Dwarf theme was originally recorded with a full orchestra.",
+    "Rimmer's middle name is Judas — revealed in the book 'Last Human'.",
+    "Lister's first name is Dave, but his full name is David Lister.",
+    "The 'White Hole' episode featured one of the most expensive visual effects shots in BBC history at the time.",
+    "Cat's obsession with fashion was inspired by Danny John-Jules's own interest in clothing.",
+    "The set for the corridor was redressed 15 different ways across the series to look like different parts of the ship.",
+    "Kryten's full designation is Kryten Series 4000, though he was actually a Series 3000 unit.",
+    "The original ending for 'The End' had Lister giving birth to twins, which was cut for time.",
+    "Craig Charles and Chris Barrie did not get along at first but became close friends over the course of filming.",
+    "The 'Queeg' episode was the first to reveal that Holly had accidentally wiped out the crew.",
+    "The theme song lyrics were written by Rob Grant and Doug Naylor.",
+    "Lister's string vest was deliberately distressed to look 3 million years old.",
+    "The original Cat had no speaking lines in the first draft of the pilot.",
+    "Rimmer's hologrammatic nature means he can't touch anything — but this rule was broken frequently.",
+    "The series has won multiple international Emmy awards.",
+    "Every episode title in Series 1 and 2 was a single word or short phrase ending in 's'.",
+    "The show's working title in the US was 'Space Life'.",
+    "Kryten's head contains a working light that was originally intended to flash when he spoke.",
+    "The cat litter tray joke in 'Kryten' was ad-libbed by Danny John-Jules.",
+    "No episode has ever been entirely set outside the ship's environment.",
+    "The sets were so hot under studio lights that actors often fainted during summer recordings.",
+    "The original Holly was written as male, but Norman Lovett's performance redefined the character.",
+    "Red Dwarf has a dedicated fan club that has been running continuously since 1989.",
+    "Lister's record collection was stated to contain over 1,000 albums.",
+    "Kryten's first words on screen were 'Would anyone like any toast?'",
+    "The show's canned laughter was recorded from live studio audiences.",
+    "Rimmer's exam failure (the 'Astro-Navigation' paper) is the defining failure of his life.",
+  ];
+
+  function renderTriviaFact() {
+    const el = $('trivia-text');
+    if (!el) return;
+    const dayOfYear = Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0)) / 86400000);
+    const idx = dayOfYear % TRIVIA_FACTS.length;
+    el.textContent = TRIVIA_FACTS[idx];
+  }
+
+  // ── Kryten's System Uptime (#5, June 19) ─────────────────────
+  function setupUptimeCounter() {
+    const valEl = $('uptime-value');
+    const msgEl = $('uptime-message');
+    if (!valEl) return;
+
+    let state = JSON.parse(localStorage.getItem('rdwd_uptime') || '{"startTime":null,"totalMs":0,"lastVisit":null}');
+    const now = Date.now();
+
+    // Check if away more than 24h
+    if (state.lastVisit && (now - state.lastVisit) > 86400000) {
+      state = { startTime: now, totalMs: 0, lastVisit: now };
+    }
+
+    if (!state.startTime) {
+      state.startTime = now;
+      state.totalMs = 0;
+    }
+
+    state.lastVisit = now;
+    localStorage.setItem('rdwd_uptime', JSON.stringify(state));
+
+    function updateUptime() {
+      const elapsed = state.totalMs + (Date.now() - state.startTime);
+      const totalSec = Math.floor(elapsed / 1000);
+      const days = Math.floor(totalSec / 86400);
+      const hours = Math.floor((totalSec % 86400) / 3600);
+      const mins = Math.floor((totalSec % 3600) / 60);
+
+      valEl.textContent = `${days}d ${hours}h ${mins}m`;
+
+      if (msgEl) {
+        const msgs = [
+          'I have been monitoring the dashboard without incident.',
+          'All systems nominal. I have prepared a 14-day projection, just in case.',
+          'Still watching. Still cleaning. Still waiting for someone to ask for toast.',
+          `I have now been operational for ${days} day${days !== 1 ? 's' : ''}, ${hours} hour${hours !== 1 ? 's' : ''}, and ${mins} minute${mins !== 1 ? 's' : ''}. Everything is in order.`,
+        ];
+        // Pick based on days running
+        const msgIdx = Math.min(days, msgs.length - 1);
+        msgEl.textContent = msgs[msgIdx];
+      }
+    }
+
+    updateUptime();
+    setInterval(updateUptime, 60000); // Update every minute
+  }
+
+  // ── Cat's Colour Accent CSS ──────────────────────────────────
+  // Inject cat accent CSS once
+  (function injectCatAccentCSS() {
+    // Only inject once
+    if (document.getElementById('cat-accent-style')) return;
+    const style = document.createElement('style');
+    style.id = 'cat-accent-style';
+    style.textContent = `
+      body.cat-accent-active {
+        --cat-accent: #ffb000;
+      }
+      body.cat-accent-active .panel-title {
+        border-bottom-color: color-mix(in srgb, var(--cat-accent) 30%, transparent);
+      }
+      body.cat-accent-active .panel-corner {
+        border-color: var(--cat-accent);
+        opacity: 0.6;
+      }
+      body.cat-accent-active .panel-header {
+        border-color: color-mix(in srgb, var(--cat-accent) 40%, transparent);
+      }
+    `;
+    document.head.appendChild(style);
+  })();
+
   // Init: set daily items, then start timers
   renderDeckDaily();
   renderDeckPerMinute();
@@ -1353,6 +1600,8 @@
   setupStudyClock();
   setupShipHum();
   setupDayCounter();
+  setupCurryStockpile();
+  setupUptimeCounter();
 
   // Timers at different cadences
   setInterval(renderDeckPerMinute, 30000);  // every 30s
@@ -1595,26 +1844,29 @@
       window.__dashboardData = data;
 
       renderShip(data);
-      renderWeatherAlertBanner(data); // #1 — Kryten's banner
-      renderThresholdAlarms(data); // #3 — Kryten
-      renderAstronomy(data);         // #1 — includes moonrise/moonset
-      renderHealthStrip(data);   // #2
-      renderDayGlance(data);     // #2 — Holly's summary strip
-      renderForecast(data);      // #2 — Holly's 3-day forecast
-      renderTrendArrows(data);   // #3 — trend arrows (existing)
-      renderSparklines(data);    // #2 — Holly's sparklines
-      renderWeather(data);
-      renderCatVerdict(data);    // #3 — Cat's verdict
-      renderMetrolink(data);
-      renderHeadlines(data);
-      renderCrew();
-      renderQuote(data);
-      renderPotPlant();          // #1 — Lister
-      renderSkyReport(data);     // #5 — Holly
-      renderPowerGasGauges(data); // #4 — Rimmer's gauges
-      updateHumPitch();           // #4 — Lister (update engine hum pitch)
-      updateTimestamps(data.timestamp);
-      setupWeatherClicks();
+            renderWeatherAlertBanner(data);
+            renderThresholdAlarms(data);
+            renderAstronomy(data);
+            renderHealthStrip(data);
+            renderDayGlance(data);
+            renderForecast(data);
+            renderColourAccent(data);     // #2 — Cat's colour
+            renderTrendArrows(data);
+            renderSparklines(data);
+            renderWeather(data);
+            renderCatVerdict(data);
+            renderEfficiencyReport(data); // #1 — Rimmer
+            renderMetrolink(data);
+            renderHeadlines(data);
+            renderCrew();
+            renderQuote(data);
+            renderPotPlant();
+            renderSkyReport(data);
+            renderPowerGasGauges(data);
+            renderTriviaFact();          // #4 — Holly
+            updateHumPitch();
+            updateTimestamps(data.timestamp);
+            setupWeatherClicks();
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
