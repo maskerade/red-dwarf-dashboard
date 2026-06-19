@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-06-19T05:30:23.607207+00:00",
+  "timestamp": "2026-06-19T06:01:23.688235+00:00",
   "house": {
-    "indoor_temp": 21.6,
+    "indoor_temp": 22.0,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 17.1,
-    "outdoor_humidity": 93.0,
+    "outdoor_temp": 18.0,
+    "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
-    "wind_direction": 240.0,
+    "wind_direction": 243.0,
     "pressure": 1012.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 221.0,
-    "gas_consumption": 123.872039586667,
+    "power_usage": 191.0,
+    "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "Committed skeptic finds himself warming to new Amazon AI products that actually don't suck",
     "Citrix now lets you run virtual desktops like a cost-conscious private equityeer"
   ],
-  "crew_quote": "\"Ah, misty weather and an indoor temperature perfect for a lovely curry! Just the right setting for a nice pint and a good old chat about those retired Pixel phones!\""
+  "crew_quote": "\"16 degrees and misty? Blimey, it's a perfect day for a curry—just like a lovely warm cloud of deliciousness wrapping around you!\""
 }
