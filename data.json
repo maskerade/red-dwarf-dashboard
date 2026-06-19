@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-19T08:36:30.525439+00:00",
+  "timestamp": "2026-06-19T09:07:30.499124+00:00",
   "house": {
-    "indoor_temp": 22.1,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 22.2,
-    "outdoor_humidity": 75.0,
-    "wind_speed": 1.4,
-    "wind_direction": 111.0,
-    "pressure": 1011.8,
+    "indoor_temp": 22.3,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 21.9,
+    "outdoor_humidity": 77.0,
+    "wind_speed": 1.8,
+    "wind_direction": 263.0,
+    "pressure": 1012.0,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 202.0,
+    "uv_index": 2.0,
+    "power_usage": 196.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Users claimed they’d never seen a spell checker and panicked at the sight of red squiggles",
     "2,000 retired Google Pixel phones get a second life as a private cloud"
   ],
-  "crew_quote": "\"Did you see the weather? Drizzle in Llandudno—perfect for a curry and a bit of telly. I mean, who needs sunshine when you've got spicy food, right?\""
+  "crew_quote": "\"Blimey, with all this drizzle in Llandudno, I reckon we need to whip up a curry to cheer us up — nothing like a bit of spice to brighten a cloudy day!\""
 }
