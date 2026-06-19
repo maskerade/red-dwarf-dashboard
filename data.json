@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-19T19:58:36.146285+00:00",
+  "timestamp": "2026-06-19T20:29:36.560749+00:00",
   "house": {
-    "indoor_temp": 22.5,
+    "indoor_temp": 22.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 19.7,
-    "outdoor_humidity": 84.0,
-    "wind_speed": 0.0,
-    "wind_direction": 245.0,
-    "pressure": 1013.3,
+    "outdoor_temp": 19.5,
+    "outdoor_humidity": 86.0,
+    "wind_speed": 0.7,
+    "wind_direction": 284.0,
+    "pressure": 1013.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 199.0,
+    "power_usage": 213.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Bcachefs exits experimental status in new 'performance release'",
     "Waymo hits the brakes after robotaxis keep missing the signs for freeway construction zones"
   ],
-  "crew_quote": "\"Well, it’s partly cloudy here, but with my luck, every curry I make ends up foggier than Llandudno! At least the power usage isn’t as high as my last attempt.\""
+  "crew_quote": "\"With all this humid air and a delightful 22 degrees, I reckon a nice curry is the perfect thing to spice up the day, don’t you think?\""
 }
