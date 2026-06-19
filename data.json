@@ -1,34 +1,92 @@
 {
-  "timestamp": "2026-06-19T08:05:25.478668+00:00",
+  "timestamp": "2026-06-19T08:36:30.525439+00:00",
   "house": {
-    "indoor_temp": 22.3,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 21.1,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 0.0,
-    "wind_direction": 266.0,
-    "pressure": 1012.1,
+    "indoor_temp": 22.1,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 22.2,
+    "outdoor_humidity": 75.0,
+    "wind_speed": 1.4,
+    "wind_direction": 111.0,
+    "pressure": 1011.8,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 199.0,
+    "power_usage": 202.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 20.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-06-19",
+          "max": 25.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-06-20",
+          "max": 21.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-06-21",
+          "max": 24.0,
+          "min": 10.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 19.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-06-19",
+          "max": 25.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-06-20",
+          "max": 23.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-06-21",
+          "max": 23.0,
+          "min": 10.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 16.0,
+      "conditions": "Drizzle",
+      "forecast": [
+        {
+          "date": "2026-06-19",
+          "max": 19.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-06-20",
+          "max": 17.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-06-21",
+          "max": 19.0,
+          "min": 9.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "04:40 AM",
+    "sunset": "09:41 PM",
+    "moon_phase": "Waxing Crescent",
+    "moon_illumination": "20",
+    "moonrise": "10:04 AM",
+    "moonset": "12:21 AM"
+  },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
     "Nutanix's Tech Day London 2026 offers infrastructure insights",
@@ -36,5 +94,5 @@
     "Users claimed they’d never seen a spell checker and panicked at the sight of red squiggles",
     "2,000 retired Google Pixel phones get a second life as a private cloud"
   ],
-  "crew_quote": "\"22.3 degrees, perfect for a curry! Now if only we could heat up a few of those Nutanix insights and make them a bit more edible!\""
+  "crew_quote": "\"Did you see the weather? Drizzle in Llandudno—perfect for a curry and a bit of telly. I mean, who needs sunshine when you've got spicy food, right?\""
 }
