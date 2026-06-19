@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-19T06:01:23.688235+00:00",
+  "timestamp": "2026-06-19T06:32:24.731240+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 22.5,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 18.0,
-    "outdoor_humidity": 90.0,
+    "outdoor_temp": 21.8,
+    "outdoor_humidity": 77.0,
     "wind_speed": 0.0,
-    "wind_direction": 243.0,
-    "pressure": 1012.5,
+    "wind_direction": 280.0,
+    "pressure": 1012.2,
     "rain_today": 0.0,
-    "uv_index": 0.0,
+    "uv_index": 2.0,
     "power_usage": 191.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Mist",
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-19",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Mist",
+      "temp": 17.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-19",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Overcast",
+      "temp": 15.0,
+      "conditions": "Light Drizzle, Drizzle",
       "forecast": [
         {
           "date": "2026-06-19",
@@ -89,10 +89,10 @@
   },
   "metrolink": "Events are taking place across Greater Manchester this weekend; services may be busier than usual. To plan your journey visit www.tfgm.com",
   "headlines": [
+    "Users claimed they’d never seen a spell checker and panicked at the sight of red squiggles",
     "2,000 retired Google Pixel phones get a second life as a private cloud",
     "Midjourney pivots from AI image generation to body scanning medical spa where patients bathe in 'golden light'",
-    "Committed skeptic finds himself warming to new Amazon AI products that actually don't suck",
-    "Citrix now lets you run virtual desktops like a cost-conscious private equityeer"
+    "Committed skeptic finds himself warming to new Amazon AI products that actually don't suck"
   ],
-  "crew_quote": "\"16 degrees and misty? Blimey, it's a perfect day for a curry—just like a lovely warm cloud of deliciousness wrapping around you!\""
+  "crew_quote": "\"17 degrees and partly cloudy? Brilliant! Perfect curry weather if you ask me — just means I can stay in and avoid that light drizzle in Llandudno!\""
 }
