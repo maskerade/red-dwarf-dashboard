@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-19T00:20:22.575857+00:00",
+  "timestamp": "2026-06-19T00:51:20.185362+00:00",
   "house": {
     "indoor_temp": 21.7,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 15.9,
-    "outdoor_humidity": 94.0,
+    "outdoor_temp": 15.7,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 231.0,
+    "wind_direction": 247.0,
     "pressure": 1013.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 213.0,
+    "power_usage": 185.0,
     "gas_consumption": 123.872039586667,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Committed skeptic finds himself warming to new Amazon AI products that actually don't suck",
     "Citrix now lets you run virtual desktops like a cost-conscious private equityeer"
   ],
-  "crew_quote": "\"Ah, 21.7°C indoors, perfect for a curry! Just the right temperature for maximum comfort while I contemplate how to avoid heavy drizzle outside.\""
+  "crew_quote": "\"With all this mist in Overseal, I reckon even a retired Google Pixel phone could find itself a second life as a curry delivery service! Just needs a bit of bling, like me!\""
 }
