@@ -1424,6 +1424,46 @@ body::after {
   line-height: 1.3;
 }
 
+/* === Starbug Status (NAS) === */
+.panel-starbug {
+  margin-bottom: 14px;
+  border-color: rgba(0, 255, 136, 0.15);
+}
+.starbug-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 4px 10px;
+}
+.starbug-item {
+  display: flex;
+  flex-direction: column;
+  padding: 3px 4px;
+  border-bottom: 1px solid rgba(0, 255, 136, 0.06);
+}
+.starbug-label {
+  font-size: 0.55rem;
+  letter-spacing: 0.1em;
+  color: var(--green-dim);
+  text-transform: uppercase;
+}
+.starbug-value {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: var(--green);
+  font-family: var(--font-mono-alt);
+}
+.starbug-value.offline {
+  color: var(--red-dim);
+  font-weight: normal;
+}
+
+@media (max-width: 900px) {
+  .starbug-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 480px) {
+  .starbug-grid { grid-template-columns: 1fr; }
+}
+
 /* Responsive updates */
 @media (max-width: 900px) {
   .deck-grid { grid-template-columns: 1fr 1fr; }

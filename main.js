@@ -1591,6 +1591,66 @@
     document.head.appendChild(style);
   })();
 
+  // ── Starbug (NAS) Status Panel ────────────────────────────────
+  function renderStarbug(data) {
+    const panel = $('panel-starbug');
+    const statusEl = $('starbug-status');
+    const uptimeEl = $('starbug-uptime');
+    const cpuEl = $('starbug-cpu');
+    const ramEl = $('starbug-ram');
+    const dockerEl = $('starbug-docker');
+    const containersEl = $('starbug-containers');
+    const diskEl = $('starbug-disk');
+    const jellyfinEl = $('starbug-jellyfin');
+    if (!panel || !statusEl) return;
+
+    if (!data || data.status !== 'online') {
+      panel.style.display = '';
+      statusEl.textContent = 'OFFLINE';
+      statusEl.className = 'starbug-value offline';
+      if (uptimeEl) uptimeEl.textContent = '--';
+      if (cpuEl) cpuEl.textContent = '--';
+      if (ramEl) ramEl.textContent = '--';
+      if (dockerEl) dockerEl.textContent = '--';
+      if (containersEl) containersEl.textContent = '--';
+      if (diskEl) diskEl.textContent = '--';
+      if (jellyfinEl) jellyfinEl.textContent = '--';
+      return;
+    }
+
+    panel.style.display = '';
+    statusEl.textContent = '🟢 ONLINE';
+    statusEl.className = 'starbug-value';
+    if (cpuEl) cpuEl.textContent = `${data.system.cpu_count} cores`;
+    if (ramEl) ramEl.textContent = `${data.system.memory_gb} GB`;
+    if (dockerEl) dockerEl.textContent = `v${data.docker.version}`;
+
+    // Containers summary
+    const c = data.docker.containers;
+    if (containersEl) {
+      containersEl.textContent = `${c.total} (${c.running} up)`;
+      if (c.stopped > 0) containersEl.style.color = 'var(--amber)';
+    }
+
+    // Disk
+    if (diskEl && data.system.docker_disk_gb) {
+      diskEl.textContent = `${data.system.docker_disk_gb} GB`;
+    }
+
+    // Find key containers
+    const containers = data.containers || [];
+    const sc = containers.find(c => c.name === 'starbug-cockpit');
+    if (uptimeEl && sc) {
+      uptimeEl.textContent = sc.status;
+    }
+
+    const jf = containers.find(c => c.name === 'Jellyfin');
+    if (jellyfinEl && jf) {
+      jellyfinEl.textContent = jf.state === 'running' ? '✅ ' + jf.status : '❌ DOWN';
+      jellyfinEl.style.color = jf.state === 'running' ? '' : 'var(--red)';
+    }
+  }
+
   // Init: set daily items, then start timers
   renderDeckDaily();
   renderDeckPerMinute();
@@ -1844,29 +1904,30 @@
       window.__dashboardData = data;
 
       renderShip(data);
-            renderWeatherAlertBanner(data);
-            renderThresholdAlarms(data);
-            renderAstronomy(data);
-            renderHealthStrip(data);
-            renderDayGlance(data);
-            renderForecast(data);
-            renderColourAccent(data);     // #2 — Cat's colour
-            renderTrendArrows(data);
-            renderSparklines(data);
-            renderWeather(data);
-            renderCatVerdict(data);
-            renderEfficiencyReport(data); // #1 — Rimmer
-            renderMetrolink(data);
-            renderHeadlines(data);
-            renderCrew();
-            renderQuote(data);
-            renderPotPlant();
-            renderSkyReport(data);
-            renderPowerGasGauges(data);
-            renderTriviaFact();          // #4 — Holly
-            updateHumPitch();
-            updateTimestamps(data.timestamp);
-            setupWeatherClicks();
+      renderWeatherAlertBanner(data);
+      renderThresholdAlarms(data);
+      renderAstronomy(data);
+      renderHealthStrip(data);
+      renderDayGlance(data);
+      renderForecast(data);
+      renderColourAccent(data);
+      renderTrendArrows(data);
+      renderSparklines(data);
+      renderWeather(data);
+      renderCatVerdict(data);
+      renderEfficiencyReport(data);
+      renderMetrolink(data);
+      renderHeadlines(data);
+      renderCrew();
+      renderQuote(data);
+      renderPotPlant();
+      renderSkyReport(data);
+      renderPowerGasGauges(data);
+      renderTriviaFact();
+      updateHumPitch();
+      updateTimestamps(data.timestamp);
+      setupWeatherClicks();
+      fetchStarbugData();
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
@@ -1876,6 +1937,18 @@
       // Show error in ship panel
       const els = document.querySelectorAll('.ship-value');
       els.forEach(el => { el.textContent = 'ERR'; el.className = 'ship-value null-value'; });
+    }
+  }
+
+  async function fetchStarbugData() {
+    try {
+      const res = await fetch('starbug.json?_=' + Date.now());
+      if (!res.ok) return;
+      const data = await res.json();
+      console.log('[Dashboard] Starbug data:', data.status);
+      renderStarbug(data);
+    } catch (_) {
+      // Starbug offline or not yet collected — fine
     }
   }
 

@@ -1,0 +1,139 @@
+{
+  "status": "online",
+  "timestamp": "2026-06-19T14:50:14.795892+00:00",
+  "docker": {
+    "version": "28.1.1",
+    "containers": {
+      "total": 19,
+      "running": 18,
+      "stopped": 1
+    }
+  },
+  "system": {
+    "cpu_count": 4,
+    "memory_bytes": 16536760320,
+    "memory_gb": 15.4,
+    "docker_disk_bytes": 12822067133,
+    "docker_disk_gb": 11.9
+  },
+  "containers": [
+    {
+      "name": "metrolinkmap-map-1",
+      "state": "running",
+      "status": "Up 8 weeks (unhealthy)",
+      "image": "ghcr.io/maskerade/tfgmmetrolinkmap:latest"
+    },
+    {
+      "name": "tfgmmetrolinkapi-api-1",
+      "state": "running",
+      "status": "Up 2 months (healthy)",
+      "image": "ghcr.io/maskerade/tfgmmetrolinkapi:latest"
+    },
+    {
+      "name": "tfgmmetrolinkapi-influxdb-1",
+      "state": "running",
+      "status": "Up 2 months (healthy)",
+      "image": "influxdb:2-alpine"
+    },
+    {
+      "name": "tfgmmetrolinkapi-redis-1",
+      "state": "running",
+      "status": "Up 2 months (healthy)",
+      "image": "redis:7-alpine"
+    },
+    {
+      "name": "starbug-cockpit",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "ghcr.io/home-assistant/home-assistant:stable"
+    },
+    {
+      "name": "nginx",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "ghcr.io/maskerade/f1replaytiming-nginx:latest"
+    },
+    {
+      "name": "frontend",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "ghcr.io/maskerade/f1replaytiming-frontend:latest"
+    },
+    {
+      "name": "backend",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "ghcr.io/maskerade/f1replaytiming-backend:latest"
+    },
+    {
+      "name": "calibre-web-automated",
+      "state": "running",
+      "status": "Up 2 months (healthy)",
+      "image": "crocodilestick/calibre-web-automated:latest"
+    },
+    {
+      "name": "Cloudflared",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "cloudflare/cloudflared:latest"
+    },
+    {
+      "name": "Sonarr",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "linuxserver/sonarr:latest"
+    },
+    {
+      "name": "PortainerCE",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "portainer/portainer-ce:latest"
+    },
+    {
+      "name": "SeerrD",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "ghcr.io/seerr-team/seerr:latest"
+    },
+    {
+      "name": "Jellyfin",
+      "state": "running",
+      "status": "Up 2 months (healthy)",
+      "image": "jellyfin/jellyfin:latest"
+    },
+    {
+      "name": "Radarr",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "linuxserver/radarr:latest"
+    },
+    {
+      "name": "SABnzbd",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "linuxserver/sabnzbd:latest"
+    },
+    {
+      "name": "tfgmtramtimes",
+      "state": "exited",
+      "status": "Exited (255) 3 months ago",
+      "image": "ghcr.io/maskerade/metrolink-times:latest"
+    },
+    {
+      "name": "KomgaD",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "gotson/komga:latest"
+    },
+    {
+      "name": "Readarr",
+      "state": "running",
+      "status": "Up 2 months",
+      "image": "linuxserver/readarr:develop"
+    }
+  ],
+  "starbug_cockpit": {
+    "status": "Up 2 months",
+    "state": "running"
+  }
+}
