@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-19T14:48:32.335170+00:00",
+  "timestamp": "2026-06-19T15:19:32.367976+00:00",
   "house": {
     "indoor_temp": 22.5,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 23.1,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 23.2,
     "outdoor_humidity": 73.0,
-    "wind_speed": 1.4,
-    "wind_direction": 78.0,
-    "pressure": 1012.4,
+    "wind_speed": 0.0,
+    "wind_direction": 221.0,
+    "pressure": 1012.2,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 221.0,
+    "power_usage": 219.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Telegram founder accuses Meta of sabotaging access in India with BGP hijacks",
     "Everything's bigger and better in Texas – even data breaches"
   ],
-  "crew_quote": "\"With the weather swinging from light rain to partly cloudy, I can't help but wonder if my curry's going to end up more like soup than dinner!\""
+  "crew_quote": "\"I swear, with this weather, I could fry an egg in me curry! Light rain up top, but I reckon we’re all a bit too hot under the collar for that, eh?\""
 }
