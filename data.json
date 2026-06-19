@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-19T06:32:24.731240+00:00",
+  "timestamp": "2026-06-19T07:03:25.022094+00:00",
   "house": {
-    "indoor_temp": 22.5,
+    "indoor_temp": 22.4,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 21.8,
-    "outdoor_humidity": 77.0,
+    "outdoor_temp": 23.0,
+    "outdoor_humidity": 73.0,
     "wind_speed": 0.0,
-    "wind_direction": 280.0,
+    "wind_direction": 313.0,
     "pressure": 1012.2,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 191.0,
+    "uv_index": 1.0,
+    "power_usage": 210.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Midjourney pivots from AI image generation to body scanning medical spa where patients bathe in 'golden light'",
     "Committed skeptic finds himself warming to new Amazon AI products that actually don't suck"
   ],
-  "crew_quote": "\"17 degrees and partly cloudy? Brilliant! Perfect curry weather if you ask me — just means I can stay in and avoid that light drizzle in Llandudno!\""
+  "crew_quote": "\"Ah, a bit of light drizzle in Llandudno, perfect weather for a curry! Nothing like a good spicy vindaloo to make you forget the dreary clouds, right?\""
 }
