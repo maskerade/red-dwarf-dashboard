@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-20T23:22:05.718123+00:00",
+  "timestamp": "2026-06-20T23:53:06.099407+00:00",
   "house": {
-    "indoor_temp": 22.7,
-    "indoor_humidity": 54.0,
-    "outdoor_temp": 13.7,
-    "outdoor_humidity": 89.0,
+    "indoor_temp": 22.8,
+    "indoor_humidity": 55.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
     "wind_direction": 103.0,
-    "pressure": 1026.8,
+    "pressure": 1026.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 491.0,
+    "power_usage": 427.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up",
     "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones"
   ],
-  "crew_quote": "\"Right, it's 22.7°C inside and a lovely day outside, perfect for a cold curry and a nap—nothing like a bit of heat to make a proper Korma, eh?\""
+  "crew_quote": "\"With the weather a balmy 18 degrees, I reckon it's perfect for a nice curry — if I could only convince the ship to stop serving rehydrated muck!\""
 }
