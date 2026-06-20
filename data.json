@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-20T06:18:49.613324+00:00",
+  "timestamp": "2026-06-20T06:49:50.235273+00:00",
   "house": {
     "indoor_temp": 22.2,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 17.3,
-    "outdoor_humidity": 83.0,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 19.2,
+    "outdoor_humidity": 75.0,
     "wind_speed": 0.0,
-    "wind_direction": 114.0,
-    "pressure": 1017.4,
+    "wind_direction": 127.0,
+    "pressure": 1017.8,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 216.0,
+    "uv_index": 2.0,
+    "power_usage": 185.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Bcachefs exits experimental status in new 'performance release'",
     "Waymo hits the brakes after robotaxis keep missing the signs for freeway construction zones"
   ],
-  "crew_quote": "\"With the weather like this, I can't decide if I should pop out for a curry or just lounge about in this toasty 22.2°C — decisions, decisions!\""
+  "crew_quote": "\"Lovely, innit? Perfect curry weather at 17 degrees, just a bit cloudy like my last relationship. Now, where's the nearest takeaway?\""
 }
