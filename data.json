@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-20T16:07:54.623058+00:00",
+  "timestamp": "2026-06-20T16:38:55.702381+00:00",
   "house": {
     "indoor_temp": 22.8,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 21.6,
-    "outdoor_humidity": 58.0,
-    "wind_speed": 0.0,
-    "wind_direction": 117.0,
+    "outdoor_temp": 21.3,
+    "outdoor_humidity": 60.0,
+    "wind_speed": 1.1,
+    "wind_direction": 51.0,
     "pressure": 1023.3,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 191.0,
+    "uv_index": 1.0,
+    "power_usage": 193.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up",
     "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones"
   ],
-  "crew_quote": "\"With the weather like this, I’d say it’s a perfect day for some light rain and a curry! Just don’t forget to order extra rice, it’s essential for proper hydration!\""
+  "crew_quote": "\"Ah, today’s almost perfect for a pint and a curry—just enough clouds to keep the sun from frying my head, unlike that rainy mess back in Llandudno!\""
 }
