@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-20T08:22:47.586678+00:00",
+  "timestamp": "2026-06-20T08:53:48.892023+00:00",
   "house": {
     "indoor_temp": 22.3,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 20.3,
+    "outdoor_temp": 19.9,
     "outdoor_humidity": 72.0,
     "wind_speed": 0.0,
-    "wind_direction": 116.0,
-    "pressure": 1019.3,
+    "wind_direction": 98.0,
+    "pressure": 1019.4,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 227.0,
+    "power_usage": 196.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "11:29 AM",
     "moonset": "12:34 AM"
   },
-  "metrolink": "Police incident in City Centre. Airport operating to Deansgate. Eccles operating to Crumpsall. Altrincham operating to Victoria and Ashton Line suspended with ticket acceptance in place.",
+  "metrolink": "Due to an earlier police incident at Piccadilly there is a delay to services on the Altrincham Line. We are sorry for the inconvenience to your journey.",
   "headlines": [
+    "EU won't force publishers to grant dead video games an afterlife",
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up",
     "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones",
-    "Tensordyne makes a big bet on log math to beat Nvidia",
-    "Bcachefs exits experimental status in new 'performance release'"
+    "Tensordyne makes a big bet on log math to beat Nvidia"
   ],
-  "crew_quote": "\"Alright, it's 18 degrees and raining on the outside, but in here, it's a balmy 22.3—just like a good curry, mate, warm and a bit spicy!\""
+  "crew_quote": "\"Ah, patchy rain and a room so comfy at 22.3°C—just like a warm curry, it’s all about finding that perfect balance, innit?\""
 }
