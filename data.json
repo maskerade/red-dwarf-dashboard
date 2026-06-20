@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-20T02:41:46.173971+00:00",
+  "timestamp": "2026-06-20T03:12:46.806012+00:00",
   "house": {
     "indoor_temp": 22.3,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 17.0,
-    "outdoor_humidity": 91.0,
+    "outdoor_temp": 16.9,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 154.0,
-    "pressure": 1015.0,
+    "wind_direction": 160.0,
+    "pressure": 1015.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 196.0,
+    "power_usage": 182.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-20",
@@ -32,18 +32,18 @@
         {
           "date": "2026-06-22",
           "max": 26.0,
-          "min": 13.0
+          "min": 14.0
         }
       ]
     },
     "overseal": {
       "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-06-20",
           "max": 22.0,
-          "min": 16.0
+          "min": 14.0
         },
         {
           "date": "2026-06-21",
@@ -53,28 +53,28 @@
         {
           "date": "2026-06-22",
           "max": 27.0,
-          "min": 12.0
+          "min": 13.0
         }
       ]
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-20",
           "max": 17.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-06-21",
-          "max": 19.0,
+          "max": 20.0,
           "min": 10.0
         },
         {
           "date": "2026-06-22",
-          "max": 23.0,
-          "min": 13.0
+          "max": 22.0,
+          "min": 14.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Bcachefs exits experimental status in new 'performance release'",
     "Waymo hits the brakes after robotaxis keep missing the signs for freeway construction zones"
   ],
-  "crew_quote": "\"The weather's acting like my last date — patchy at best! I’d rather have a good curry in here at a toasty 22 degrees than step out into that overcast mess.\""
+  "crew_quote": "\"Oi, I don't care if it’s 19 degrees outside; this curry's hotter than a supernova in a sweat lodge!\""
 }
