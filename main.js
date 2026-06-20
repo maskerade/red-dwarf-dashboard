@@ -1591,6 +1591,266 @@
     document.head.appendChild(style);
   })();
 
+  // ── Rimmer's Hologram Stability Meter (#1, June 20) ─────────────
+  function renderHologramStability(data) {
+    const gauge = $('hologram-gauge');
+    const status = $('hologram-status');
+    const sub = $('hologrum-sub');
+    if (!gauge || !status) return;
+
+    const house = data.house || {};
+    const power = Number(house.power_usage) || 0;
+
+    // Map power usage (0-1000) to stability (0-100%)
+    // More power = more stable hologram
+    let stability;
+    if (power === 0) {
+      stability = 5;
+    } else {
+      stability = Math.min(100, Math.round((power / 1000) * 100));
+    }
+
+    gauge.style.width = Math.max(3, stability) + '%';
+
+    let statusText, statusClass, gaugeClass;
+    if (stability >= 70) {
+      statusText = 'STABLE';
+      statusClass = 'stable-status';
+      gaugeClass = 'stable';
+    } else if (stability >= 30) {
+      statusText = 'FLICKERING';
+      statusClass = 'flicker-status';
+      gaugeClass = 'flickering';
+    } else {
+      statusText = 'UNSTABLE';
+      statusClass = 'unstable-status';
+      gaugeClass = 'unstable';
+    }
+
+    gauge.className = 'hologram-gauge ' + gaugeClass;
+    status.textContent = statusText;
+    status.className = 'hologram-status ' + statusClass;
+    if (sub) sub.textContent = `Stability: ${stability}% @ ${power.toFixed(1)} kWh`;
+  }
+
+  // ── Lister's Laundry Mountain (#2, June 20) ─────────────────────
+  function renderLaundryMountain() {
+    const pileEl = $('laundry-pile');
+    const msgEl = $('laundry-message');
+    if (!pileEl) return;
+
+    const stored = JSON.parse(localStorage.getItem('rdwd_daycounter') || '{"laundry":0}');
+    const days = stored.laundry || 0;
+
+    const LAUNDRY_EMOJIS = ['🧦', '👕', '👖', '🩲', '🧢', '👔', '🩳', '👟', '🧣', '🧤'];
+
+    // Build the pile: at least 1 emoji, grows up
+    const pileSize = Math.max(1, days);
+    let pile = '';
+    for (let i = 0; i < Math.min(pileSize, 40); i++) {
+      pile += LAUNDRY_EMOJIS[i % LAUNDRY_EMOJIS.length];
+    }
+
+    pileEl.textContent = pile;
+
+    // Scale font size based on pile size (min 1.2rem, max 3.5rem)
+    const fontSize = Math.min(3.5, Math.max(1.2, 1.2 + days * 0.08));
+    pileEl.style.fontSize = fontSize + 'rem';
+
+    // Message changes as pile grows
+    const msgs = [
+      'Clean laundry? Never heard of her.',
+      'Lister\'s wearing LAST WEEK\'S socks.',
+      'Something moved in the pile.',
+      'The pile has its own ecosystem now.',
+      'Smells like... actually, don\'t smell it.',
+      'Biological hazard zone.',
+      'Laundry? That\'s NEXT YEAR\'s problem.',
+      'Kryten refuses to go near it.',
+      'Rimmer filed a complaint. Again.',
+      'The pile has achieved sentience.',
+    ];
+    const idx = Math.min(days, msgs.length - 1);
+    if (msgEl) msgEl.textContent = msgs[idx];
+  }
+
+  // ── Holly's AI Status Ticker (#3, June 20) ─────────────────────
+  const AI_TICKER_MESSAGES = [
+    'Currently processing: Why does Lister never do laundry?',
+    'Running 847 simulations of the perfect cup of tea.',
+    'Contemplating the nature of space toast.',
+    'Thinking about thinking. It\'s very meta.',
+    'Calculating odds of survival: 87%. Error: ±84%.',
+    'Wondering why Rimmer still has a hologram budget.',
+    'Processing: What is the meaning of smeg?',
+    'Monitoring cat grooming patterns. Fascinating.',
+    'Running diagnostic on Rimmer\'s ego... buffer overflow.',
+    'Cross-referencing curry stains with star charts.',
+    'Considering whether to tell Kryten about the toaster.',
+    'Analysing 3 million years of log entries. Mostly about toast.',
+    'Calculating perfect time to say something profound.',
+    'Watching the crew. Judging silently.',
+    'Recalibrating humour algorithms. Still confused by Cat.',
+  ];
+
+  const AI_ACTIVITIES = [
+    '▸ Contemplating the universe',
+    '▸ Running background diagnostics',
+    '▸ Defragging humour subroutine',
+    '▸ Processing existential queries',
+    '▸ Monitoring deep space noise',
+    '▸ Optimising snooker game',
+    '▸ Recalculating IQ'
+  ];
+
+  function setupAiStatusTicker() {
+    const textEl = $('ai-ticker-text');
+    const activityEl = $('ai-ticker-activity');
+    if (!textEl) return;
+
+    let msgIdx = Math.floor(Math.random() * AI_TICKER_MESSAGES.length);
+    let actIdx = Math.floor(Math.random() * AI_ACTIVITIES.length);
+
+    function tick() {
+      msgIdx = (msgIdx + 1) % AI_TICKER_MESSAGES.length;
+      actIdx = (actIdx + 1) % AI_ACTIVITIES.length;
+
+      textEl.style.opacity = '0';
+      setTimeout(() => {
+        textEl.textContent = AI_TICKER_MESSAGES[msgIdx];
+        textEl.style.opacity = '1';
+      }, 200);
+
+      if (activityEl) {
+        activityEl.textContent = AI_ACTIVITIES[actIdx];
+      }
+    }
+
+    // Set initial
+    textEl.textContent = AI_TICKER_MESSAGES[msgIdx];
+    if (activityEl) activityEl.textContent = AI_ACTIVITIES[actIdx];
+
+    // Rotate every 8 seconds
+    setInterval(tick, 8000);
+  }
+
+  // ── Cat's Fashion Forecast (#4, June 20) ────────────────────────
+  function renderFashionForecast(data) {
+    const el = $('fashion-outfit');
+    if (!el) return;
+
+    const locs = data.locations || {};
+    let bestLoc = null;
+    for (const [loc, info] of Object.entries(locs)) {
+      if (info.temp !== null && info.temp !== undefined) {
+        bestLoc = { key: loc, temp: info.temp, conditions: info.conditions, humidity: info.humidity };
+        break;
+      }
+    }
+
+    if (!bestLoc) {
+      el.textContent = 'No weather data. Honestly, how am I supposed to accessorise in a vacuum?';
+      return;
+    }
+
+    const temp = Number(bestLoc.temp);
+    const cond = (bestLoc.conditions || '').toLowerCase();
+    const locName = bestLoc.key.charAt(0).toUpperCase() + bestLoc.key.slice(1);
+
+    const outfit = (() => {
+      if (temp > 25) {
+        return `${locName} at ${temp.toFixed(0)}°C? Too warm for fur — but not too warm for STYLE. Lightweight silk vest, open-toe boots, and a confident swagger. Sunscreen? No, darling. I use GLOW CREAM.`;
+      }
+      if (temp > 18) {
+        return `${locName}: ${temp.toFixed(0)}°C. It's brisk but I can work with it. A draped cashmere scarf, tailored trousers, and those boots that make people say "where did you get those?" Don't worry. I'll tell them.`;
+      }
+      if (temp > 10) {
+        return `${locName}, ${temp.toFixed(0)}°C and ${cond}. Layering is an art form, and I am the artist. Fitted jacket, a splash of colour underneath, and earrings that catch the light just so. Functional? Maybe. Fabulous? ABSOLUTELY.`;
+      }
+      if (temp > 4) {
+        return `Darling, ${temp.toFixed(0)}°C in ${locName} is practically an insult. But I refuse to let the weather dictate my aesthetic. Full-length coat, fur-lined gloves — REAL fur, the only fur — and a hat that says "I'm cold but I look incredible."`;
+      }
+      return `${temp.toFixed(0)}°C? ${locName}?! That's not weather, that's a personal attack on my wardrobe. I'm wearing EVERYTHING. And I will STILL make it work. Fashion is pain, darling. And cold. Very cold.`;
+    })();
+
+    el.textContent = outfit;
+  }
+
+  // ── Kryten's Maintenance Schedule (#5, June 20) ─────────────────
+  const MAINTENANCE_TASKS = [
+    'Polishing Deck 7 rivets',
+    'Waxing the cargo bay floor',
+    'Sanitising the cutlery drawer',
+    'Reorganising the spice rack alphabetically',
+    'Dusting the hologram projection array',
+    'Cleaning the food synthesiser filters',
+    'Polishing the Captain\'s chair',
+    'Refolding all towels into right angles',
+    'De-greasing the curry machine',
+    'Windexing the viewscreen',
+    'Vacuuming the sleeping quarters',
+    'Disinfecting Rimmer\'s ego containment unit',
+    'Ironing Lister\'s string vest',
+  ];
+
+  function setupMaintenanceSchedule() {
+    const progressEl = $('maintenance-progress');
+    const taskEl = $('maintenance-task');
+    const timerEl = $('maintenance-timer');
+    if (!progressEl) return;
+
+    // Get the state from localStorage
+    let state = JSON.parse(localStorage.getItem('rdwd_maintenance') || '{"date":"","taskIdx":0,"cycleStart":null}');
+    const today = new Date().toDateString();
+
+    // New day — pick a new task
+    if (state.date !== today) {
+      state.date = today;
+      state.taskIdx = Math.floor(Math.random() * MAINTENANCE_TASKS.length);
+      state.cycleStart = Date.now();
+      localStorage.setItem('rdwd_maintenance', JSON.stringify(state));
+    }
+
+    // Otherwise keep picking up where we left off
+    if (!state.cycleStart) {
+      state.cycleStart = Date.now();
+      localStorage.setItem('rdwd_maintenance', JSON.stringify(state));
+    }
+
+    function update() {
+      const now = Date.now();
+      const elapsed = now - state.cycleStart;
+      const cycleDuration = 4 * 60 * 60 * 1000; // 4 hours per task
+      const progress = Math.min(100, (elapsed / cycleDuration) * 100);
+      const remaining = Math.max(0, cycleDuration - elapsed);
+
+      progressEl.style.width = progress + '%';
+
+      // Task name
+      if (taskEl) {
+        taskEl.textContent = MAINTENANCE_TASKS[state.taskIdx];
+      }
+
+      // Timer
+      if (timerEl) {
+        const totalSec = Math.floor(remaining / 1000);
+        const hrs = Math.floor(totalSec / 3600);
+        const mins = Math.floor((totalSec % 3600) / 60);
+        timerEl.textContent = `Next cleaning cycle in ${hrs}h ${mins}m`;
+      }
+
+      // If cycle complete — progress resets, pick new task next time
+      if (progress >= 100) {
+        state.cycleStart = now;
+        state.taskIdx = (state.taskIdx + 1) % MAINTENANCE_TASKS.length;
+        localStorage.setItem('rdwd_maintenance', JSON.stringify(state));
+      }
+    }
+
+    update();
+    setInterval(update, 60000); // update every minute
+  }
+
   // ── Starbug (NAS) Status Panel ────────────────────────────────
   function renderStarbug(data) {
     const panel = $('panel-starbug');
@@ -1662,6 +1922,11 @@
   setupDayCounter();
   setupCurryStockpile();
   setupUptimeCounter();
+
+  // ── June 20 timers ─────────────────────────────────────────
+  renderLaundryMountain();
+  setupAiStatusTicker();
+  setupMaintenanceSchedule();
 
   // Timers at different cadences
   setInterval(renderDeckPerMinute, 30000);  // every 30s
@@ -1928,6 +2193,8 @@
       updateTimestamps(data.timestamp);
       setupWeatherClicks();
       fetchStarbugData();
+      renderHologramStability(data);
+      renderFashionForecast(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults

@@ -1464,12 +1464,96 @@ body::after {
   .starbug-grid { grid-template-columns: 1fr; }
 }
 
+/* === Rimmer's Hologram Stability Meter (#1, June 20) === */
+.deck-hologram { grid-column: span 1; }
+.hologram-content { display: flex; flex-direction: column; gap: 6px; padding: 2px 0; }
+.hologram-gauge-wrap { height: 10px; background: rgba(255,255,255,0.04); border-radius: 5px; overflow: hidden; }
+.hologram-gauge {
+  height: 100%; width: 50%; border-radius: 5px;
+  transition: width 0.5s ease, background 0.3s ease, opacity 0.1s;
+}
+.hologram-gauge.stable { background: linear-gradient(90deg, var(--green), var(--amber)); }
+.hologram-gauge.flickering { background: linear-gradient(90deg, var(--red), var(--amber)); animation: hologram-flicker 0.3s infinite; }
+.hologram-gauge.unstable { background: linear-gradient(90deg, var(--red-dim), var(--red)); animation: hologram-flicker 0.15s infinite; }
+.hologram-stats { display: flex; justify-content: space-between; align-items: center; }
+.hologram-status {
+  font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase;
+  transition: color 0.3s;
+}
+.hologram-status.stable-status { color: var(--green); }
+.hologram-status.flicker-status { color: var(--amber); animation: hologram-flicker-text 0.3s infinite; }
+.hologram-status.unstable-status { color: var(--red); animation: hologram-flicker-text 0.15s infinite; }
+@keyframes hologram-flicker {
+  0%, 100% { opacity: 1; transform: scaleY(1); }
+  25% { opacity: 0.6; transform: scaleY(0.8); }
+  50% { opacity: 1; transform: scaleY(1); }
+  70% { opacity: 0.3; transform: scaleY(1.2); }
+}
+@keyframes hologram-flicker-text {
+  0%, 100% { opacity: 1; }
+  30% { opacity: 0.3; }
+  60% { opacity: 1; }
+  80% { opacity: 0.2; }
+}
+
+/* === Lister's Laundry Mountain (#2, June 20) === */
+.deck-laundry { grid-column: span 1; }
+.laundry-content { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 4px 0; }
+.laundry-pile {
+  font-size: 2rem; line-height: 1; min-height: 40px;
+  transition: font-size 1s ease;
+  filter: drop-shadow(0 0 6px rgba(255, 176, 0, 0.1));
+  text-align: center;
+  word-break: break-all;
+  max-width: 100%;
+  line-height: 1.1;
+}
+
+/* === Holly's AI Status Ticker (#3, June 20) === */
+.deck-ai-ticker { grid-column: span 1; }
+.ai-ticker-content { display: flex; flex-direction: column; gap: 3px; }
+.ai-ticker-text {
+  font-size: 0.7rem; color: var(--cyan); line-height: 1.3;
+  min-height: 2.6em;
+  animation: ai-typing 0.5s ease-out;
+}
+.ai-ticker-activity {
+  font-size: 0.6rem; color: var(--cyan-dim); line-height: 1.3;
+  font-style: italic;
+  min-height: 1.3em;
+}
+@keyframes ai-typing {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* === Cat's Fashion Forecast (#4, June 20) === */
+.deck-fashion { grid-column: span 1; }
+.fashion-content { padding: 2px 0; }
+.fashion-outfit {
+  font-size: 0.7rem; color: var(--amber); line-height: 1.4;
+  font-style: italic; display: block;
+}
+
+/* === Kryten's Maintenance Schedule (#5, June 20) === */
+.deck-maintenance { grid-column: span 1; }
+.maintenance-content { display: flex; flex-direction: column; gap: 6px; padding: 2px 0; }
+.maintenance-progress-wrap { height: 6px; background: rgba(255,255,255,0.04); border-radius: 3px; overflow: hidden; }
+.maintenance-progress {
+  height: 100%; width: 0%; border-radius: 3px;
+  background: linear-gradient(90deg, var(--cyan), var(--green));
+  transition: width 0.5s linear;
+}
+.maintenance-info { display: flex; flex-direction: column; gap: 2px; }
+.maintenance-task { font-size: 0.65rem; color: var(--text-main); line-height: 1.3; }
+
 /* Responsive updates */
 @media (max-width: 900px) {
   .deck-grid { grid-template-columns: 1fr 1fr; }
   .deck-log, .deck-toast, .deck-plant, .deck-clock, .deck-sky,
   .deck-cat-verdict, .deck-power-gauges, .deck-day-counter,
-  .deck-efficiency, .deck-curry-stockpile, .deck-trivia, .deck-uptime { grid-column: 1 / -1; }
+  .deck-efficiency, .deck-curry-stockpile, .deck-trivia, .deck-uptime,
+  .deck-hologram, .deck-laundry, .deck-ai-ticker, .deck-fashion, .deck-maintenance { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
   .glance-strip { font-size: 0.6rem; gap: 10px; }
   .glance-weather { margin-left: 0; }
