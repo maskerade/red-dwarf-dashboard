@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-20T13:01:52.432484+00:00",
+  "timestamp": "2026-06-20T13:32:52.321384+00:00",
   "house": {
-    "indoor_temp": 23.0,
+    "indoor_temp": 22.9,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 23.2,
+    "outdoor_temp": 22.4,
     "outdoor_humidity": 53.0,
     "wind_speed": 0.0,
-    "wind_direction": 82.0,
-    "pressure": 1022.0,
+    "wind_direction": 131.0,
+    "pressure": 1021.9,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 191.0,
+    "power_usage": 216.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones",
     "Tensordyne makes a big bet on log math to beat Nvidia"
   ],
-  "crew_quote": "\"With this lovely weather, I'm feeling inspired to create a new curry recipe, maybe something with a bit of drone spice. It's just like the EU — dead video games and all, but at least it’s sunny!\""
+  "crew_quote": "\"With all this lovely weather, I might just throw on a curry and celebrate—after all, it’s not every day you get to bask in 22.9 degrees indoors while the drones do all the work!\""
 }
