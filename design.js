@@ -129,7 +129,106 @@
   }
 
   // ============================================================
-  // 6. Init everything
+  // 6. Starfield Parallax Background (#1, Lister, June 21)
+  // ============================================================
+  function initStarfield() {
+    // Check if canvas already exists
+    if (document.getElementById('starfield-canvas')) return;
+
+    const canvas = document.createElement('canvas');
+    canvas.id = 'starfield-canvas';
+    canvas.style.cssText = `
+      position: fixed;
+      top: 0; left: 0; width: 100%; height: 100%;
+      z-index: 0;
+      pointer-events: none;
+    `;
+    document.body.insertBefore(canvas, document.body.firstChild);
+
+    const ctx = canvas.getContext('2d');
+    let stars = [];
+    let animationId = null;
+    let mouseX = 0;
+    let mouseY = 0;
+
+    function resize() {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    }
+
+    function createStars() {
+      stars = [];
+      const count = Math.floor((canvas.width * canvas.height) / 1200); // ~130 stars on 1280x900
+
+      for (let i = 0; i < count; i++) {
+        const depth = Math.random(); // 0 = far, 1 = near
+        stars.push({
+          x: Math.random() * canvas.width,
+          y: Math.random() * canvas.height,
+          size: 0.5 + depth * 1.5, // far = tiny, near = bigger
+          speed: 0.3 + depth * 0.7, // far = slow, near = fast
+          brightness: 0.3 + depth * 0.6, // far = dim, near = bright
+          flickerSpeed: 0.5 + Math.random() * 2,
+          flickerPhase: Math.random() * Math.PI * 2,
+        });
+      }
+    }
+
+    function draw() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+      // Very subtle parallax: stars shift slightly opposite to mouse
+      const parallaxX = (mouseX / window.innerWidth - 0.5) * 6;
+      const parallaxY = (mouseY / window.innerHeight - 0.5) * 4;
+
+      const now = Date.now() / 1000;
+
+      for (const star of stars) {
+        // Parallax offset (far stars shift less)
+        const depthFactor = 1 - (star.speed - 0.3) / 0.7; // 1 = far, 0 = near
+        const shiftX = parallaxX * depthFactor;
+        const shiftY = parallaxY * depthFactor;
+
+        let x = star.x + shiftX;
+        let y = star.y + shiftY;
+
+        // Drift slowly downward (feels like ship moving through space)
+        star.y += star.speed * 0.02;
+        if (star.y > canvas.height) {
+          star.y = 0;
+          star.x = Math.random() * canvas.width;
+        }
+
+        // Subtle flicker
+        const flicker = 0.7 + 0.3 * Math.sin(now * star.flickerSpeed + star.flickerPhase);
+
+        ctx.beginPath();
+        ctx.arc(x, y, star.size, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(200, 210, 255, ${star.brightness * flicker})`;
+        ctx.fill();
+      }
+
+      animationId = requestAnimationFrame(draw);
+    }
+
+    // Mouse tracking for parallax
+    document.addEventListener('mousemove', (e) => {
+      mouseX = e.clientX;
+      mouseY = e.clientY;
+    });
+
+    resize();
+    createStars();
+    draw();
+
+    window.addEventListener('resize', () => {
+      resize();
+      createStars();
+    });
+  }
+
+  // ============================================================
+  // 7. Init everything
   // ============================================================
   function init() {
     if (document.readyState === 'loading') {
@@ -145,6 +244,7 @@
     initGlitchEffect();
     initDataStream();
     initCornerAnimation();
+    initStarfield();
 
     console.log('[Design] Retro effects initialised.');
   }

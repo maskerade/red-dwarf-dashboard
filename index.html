@@ -21,6 +21,10 @@
         <span id="header-date" class="header-date">--/--/----</span>
         <span class="header-sep">//</span>
         <span id="header-time" class="header-time">--:--:--</span>
+        <span class="ship-status-indicator" id="ship-status-indicator">
+          <span class="ship-status-dot" id="ship-status-dot">🟢</span>
+          <span class="ship-status-text" id="ship-status-text">NOMINAL</span>
+        </span>
       </div>
     </header>
 
@@ -179,7 +183,40 @@
         </div>
       </section>
 
-      <!-- Destination Weather -->
+      <!-- Yesterday's Comparison Strip (#2, Rimmer) -->
+      <section class="panel panel-compare" id="panel-compare">
+        <div class="panel-corner tl"></div>
+        <div class="panel-corner tr"></div>
+        <div class="panel-corner bl"></div>
+        <div class="panel-corner br"></div>
+        <h2 class="panel-title">&gt; YESTERDAY VS TODAY</h2>
+        <div class="compare-grid" id="compare-grid">
+          <div class="compare-item" data-key="outdoor_temp">
+            <span class="compare-label">OUTDOOR TEMP</span>
+            <span class="compare-today" id="cmp-outdoor_temp-today">--</span>
+            <span class="compare-yesterday" id="cmp-outdoor_temp-yest">--</span>
+            <span class="compare-arrow" id="cmp-outdoor_temp-arrow"></span>
+          </div>
+          <div class="compare-item" data-key="pressure">
+            <span class="compare-label">PRESSURE</span>
+            <span class="compare-today" id="cmp-pressure-today">--</span>
+            <span class="compare-yesterday" id="cmp-pressure-yest">--</span>
+            <span class="compare-arrow" id="cmp-pressure-arrow"></span>
+          </div>
+          <div class="compare-item" data-key="power_usage">
+            <span class="compare-label">POWER</span>
+            <span class="compare-today" id="cmp-power_usage-today">--</span>
+            <span class="compare-yesterday" id="cmp-power_usage-yest">--</span>
+            <span class="compare-arrow" id="cmp-power_usage-arrow"></span>
+          </div>
+          <div class="compare-item" data-key="indoor_humidity">
+            <span class="compare-label">INDOOR HUM</span>
+            <span class="compare-today" id="cmp-indoor_humidity-today">--</span>
+            <span class="compare-yesterday" id="cmp-indoor_humidity-yest">--</span>
+            <span class="compare-arrow" id="cmp-indoor_humidity-arrow"></span>
+          </div>
+        </div>
+      </section>
       <section class="panel panel-weather" id="panel-weather">
         <div class="panel-corner tl"></div>
         <div class="panel-corner tr"></div>
@@ -587,18 +624,27 @@
                 </div>
 
                 <!-- 26. Kryten's Maintenance Schedule (#5, June 20) -->
-                <div class="deck-item deck-maintenance">
-                  <span class="deck-label">KRYTEN'S MAINTENANCE SCHEDULE</span>
-                  <div class="maintenance-content">
-                    <div class="maintenance-progress-wrap">
-                      <div class="maintenance-progress" id="maintenance-progress"></div>
-                    </div>
-                    <div class="maintenance-info">
-                      <span class="maintenance-task" id="maintenance-task">Polishing Deck 7 rivets</span>
-                      <span class="deck-sub" id="maintenance-timer">Next cleaning cycle in --h --m</span>
-                    </div>
-                  </div>
-                </div>
+                        <div class="deck-item deck-maintenance">
+                          <span class="deck-label">KRYTEN'S MAINTENANCE SCHEDULE</span>
+                          <div class="maintenance-content">
+                            <div class="maintenance-progress-wrap">
+                              <div class="maintenance-progress" id="maintenance-progress"></div>
+                            </div>
+                            <div class="maintenance-info">
+                              <span class="maintenance-task" id="maintenance-task">Polishing Deck 7 rivets</span>
+                              <span class="deck-sub" id="maintenance-timer">Next cleaning cycle in --h --m</span>
+                            </div>
+                          </div>
+                        </div>
+
+                        <!-- 27. Lister's Weather-Based Meal Suggestion (#5, June 21) -->
+                        <div class="deck-item deck-meal">
+                          <span class="deck-label">LISTER'S MEAL SUGGESTION</span>
+                          <div class="meal-content">
+                            <span class="meal-emoji" id="meal-emoji">🍛</span>
+                            <span class="meal-text" id="meal-text">Loading weather...</span>
+                          </div>
+                        </div>
 
               </div>
     </section>

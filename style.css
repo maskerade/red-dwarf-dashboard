@@ -1547,17 +1547,119 @@ body::after {
 .maintenance-info { display: flex; flex-direction: column; gap: 2px; }
 .maintenance-task { font-size: 0.65rem; color: var(--text-main); line-height: 1.3; }
 
+/* === Ship's Ambient Status Indicator (#4, Holly, June 21) === */
+.ship-status-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  margin-left: 14px;
+  padding: 3px 10px;
+  border: 1px solid var(--green-dim);
+  border-radius: 4px;
+  background: rgba(0, 255, 136, 0.04);
+  transition: border-color 0.5s, background 0.5s;
+}
+.ship-status-indicator.status-caution {
+  border-color: var(--amber-dim);
+  background: rgba(255, 176, 0, 0.06);
+}
+.ship-status-indicator.status-critical {
+  border-color: var(--red-dim);
+  background: rgba(255, 51, 68, 0.08);
+  animation: status-critical-pulse 1s ease-in-out infinite;
+}
+.ship-status-dot { font-size: 0.7rem; line-height: 1; }
+.ship-status-text {
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  font-family: var(--font-mono);
+  color: var(--green);
+  transition: color 0.5s;
+}
+.ship-status-indicator.status-caution .ship-status-text { color: var(--amber); }
+.ship-status-indicator.status-critical .ship-status-text { color: var(--red); }
+@keyframes status-critical-pulse {
+  0%, 100% { background: rgba(255, 51, 68, 0.08); }
+  50% { background: rgba(255, 51, 68, 0.15); }
+}
+
+/* === Yesterday's Comparison Strip (#2, Rimmer, June 21) === */
+.panel-compare {
+  grid-column: 1;
+  margin-bottom: 0;
+  padding: 10px 18px;
+}
+.compare-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 20px;
+}
+.compare-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 6px;
+  border-bottom: 1px solid rgba(255, 176, 0, 0.05);
+  font-size: 0.7rem;
+}
+.compare-label {
+  color: var(--text-dim);
+  font-size: 0.6rem;
+  letter-spacing: 0.08em;
+  min-width: 70px;
+  text-transform: uppercase;
+}
+.compare-today {
+  color: var(--amber);
+  font-weight: bold;
+  min-width: 50px;
+  text-align: right;
+}
+.compare-yesterday {
+  color: var(--text-dim);
+  font-size: 0.65rem;
+  min-width: 50px;
+  text-align: right;
+}
+.compare-arrow {
+  min-width: 14px;
+  text-align: center;
+  font-size: 0.7rem;
+}
+.compare-arrow.up { color: var(--green); }
+.compare-arrow.down { color: var(--red); }
+.compare-arrow.flat { color: var(--text-dim); }
+
+/* === Lister's Weather-Based Meal Suggestion (#5, June 21) === */
+.deck-meal { grid-column: span 1; }
+.meal-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 0;
+}
+.meal-emoji { font-size: 2rem; line-height: 1; }
+.meal-text {
+  font-size: 0.65rem;
+  color: var(--green);
+  line-height: 1.3;
+  text-align: center;
+}
+
 /* Responsive updates */
 @media (max-width: 900px) {
   .deck-grid { grid-template-columns: 1fr 1fr; }
   .deck-log, .deck-toast, .deck-plant, .deck-clock, .deck-sky,
   .deck-cat-verdict, .deck-power-gauges, .deck-day-counter,
   .deck-efficiency, .deck-curry-stockpile, .deck-trivia, .deck-uptime,
-  .deck-hologram, .deck-laundry, .deck-ai-ticker, .deck-fashion, .deck-maintenance { grid-column: 1 / -1; }
+  .deck-hologram, .deck-laundry, .deck-ai-ticker, .deck-fashion, .deck-maintenance, .deck-meal { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
   .glance-strip { font-size: 0.6rem; gap: 10px; }
   .glance-weather { margin-left: 0; }
   .forecast-days { flex-wrap: wrap; }
+  .panel-compare { grid-column: 1; }
+  .compare-grid { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 480px) {

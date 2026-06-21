@@ -995,6 +995,12 @@
 
     if (alerts.length === 0) {
       banner.classList.remove('active', 'alert-level-amber', 'alert-level-red');
+      // Restore normal tab title if alert cleared
+      if (window.__alertTabInterval) {
+        clearInterval(window.__alertTabInterval);
+        window.__alertTabInterval = null;
+        document.title = 'Red Dwarf Mission Status';
+      }
       return;
     }
 
@@ -1005,6 +1011,30 @@
     const levelWord = highestLevel === 'red' ? 'CRITICAL' : 'WARNING';
     bannerIcon.textContent = highestLevel === 'red' ? '⚠' : '⚡';
     bannerText.textContent = levelWord + ` — ${alerts.join(', ')}`;
+
+    // ── Tab Notifier (#3, Kryten, June 21) ──────────────────
+    if (highestLevel === 'red') {
+      if (!window.__alertTabInterval) {
+        const normalTitle = 'Red Dwarf Mission Status';
+        const alertTitles = alerts.map(a => '⚠ ' + a);
+        let titleIdx = 0;
+        window.__alertTabInterval = setInterval(() => {
+          if (titleIdx % 2 === 0) {
+            document.title = '⚠ CRITICAL — ' + alertTitles[Math.floor(titleIdx / 2) % alertTitles.length];
+          } else {
+            document.title = normalTitle;
+          }
+          titleIdx++;
+        }, 1500);
+      }
+    } else {
+      // Only amber — stop cycling if it was red before
+      if (window.__alertTabInterval) {
+        clearInterval(window.__alertTabInterval);
+        window.__alertTabInterval = null;
+        document.title = 'Red Dwarf Mission Status';
+      }
+    }
 
     // Close button
     if (closeBtn) {
@@ -1851,6 +1881,166 @@
     setInterval(update, 60000); // update every minute
   }
 
+  // ── Ship's Ambient Status Indicator (#4, Holly, June 21) ──────
+  function renderShipStatusIndicator(data) {
+    const dot = $('ship-status-dot');
+    const text = $('ship-status-text');
+    const wrap = $('ship-status-indicator');
+    if (!dot || !text || !wrap) return;
+
+    const house = data.house || {};
+    let critical = false;
+    let caution = false;
+
+    // Check thresholds from EXISTING THRESHOLDS config
+    for (const [key, threshold] of Object.entries(THRESHOLDS)) {
+      const val = house[key];
+      if (val === null || val === undefined) continue;
+      const num = Number(val);
+      if (isNaN(num)) continue;
+
+      if (threshold.red !== undefined && num >= threshold.red) { critical = true; }
+      else if (threshold.amber !== undefined && num >= threshold.amber) { caution = true; }
+      else if (threshold.red_min !== undefined && (num <= threshold.red_min || num >= threshold.red_max)) { critical = true; }
+      else if (threshold.amber_min !== undefined && (num <= threshold.amber_min || num >= threshold.amber_max)) { caution = true; }
+    }
+
+    wrap.classList.remove('status-caution', 'status-critical');
+
+    if (critical) {
+      dot.textContent = '🔴';
+      text.textContent = 'CRITICAL';
+      wrap.classList.add('status-critical');
+    } else if (caution) {
+      dot.textContent = '🟡';
+      text.textContent = 'CAUTION';
+      wrap.classList.add('status-caution');
+    } else {
+      dot.textContent = '🟢';
+      text.textContent = 'NOMINAL';
+    }
+  }
+
+  // ── Yesterday's Comparison Strip (#2, Rimmer, June 21) ────────
+  const COMPARE_KEYS = ['outdoor_temp', 'pressure', 'power_usage', 'indoor_humidity'];
+
+  function renderYesterdayComparison(data) {
+    const house = data.house || {};
+    const now = Date.now();
+    const todayKey = new Date().toDateString();
+
+    // Get stored snapshot
+    const stored = JSON.parse(localStorage.getItem('rdwd_comparison') || '{"date":"","snapshot":{}}');
+
+    // If it's a new day, save today's snapshot (for tomorrow), and compare with stored snapshot
+    if (stored.date !== todayKey) {
+      // Save current values for tomorrow
+      const snapshot = {};
+      for (const key of COMPARE_KEYS) {
+        snapshot[key] = house[key] !== null && house[key] !== undefined ? Number(house[key]) : null;
+      }
+      localStorage.setItem('rdwd_comparison', JSON.stringify({ date: todayKey, snapshot }));
+    }
+
+    // Render comparison with stored snapshot
+    for (const key of COMPARE_KEYS) {
+      const todayEl = $('cmp-' + key + '-today');
+      const yestEl = $('cmp-' + key + '-yest');
+      const arrowEl = $('cmp-' + key + '-arrow');
+      if (!todayEl || !yestEl || !arrowEl) continue;
+
+      const todayVal = house[key];
+      const yestVal = stored.snapshot[key];
+
+      if (todayVal === null || todayVal === undefined) {
+        todayEl.textContent = '--';
+      } else {
+        const formatted = Number(todayVal).toFixed(key === 'power_usage' ? 1 : key === 'indoor_humidity' || key === 'pressure' ? 0 : 1);
+        const unit = key === 'outdoor_temp' ? '°C' : key === 'pressure' ? ' hPa' : key === 'power_usage' ? ' kWh' : '%';
+        todayEl.textContent = formatted + unit;
+      }
+
+      if (yestVal === null || yestVal === undefined) {
+        yestEl.textContent = '--';
+        arrowEl.textContent = '';
+        arrowEl.className = 'compare-arrow';
+      } else {
+        const formatted = yestVal.toFixed(key === 'power_usage' ? 1 : key === 'indoor_humidity' || key === 'pressure' ? 0 : 1);
+        const unit = key === 'outdoor_temp' ? '°C' : key === 'pressure' ? ' hPa' : key === 'power_usage' ? ' kWh' : '%';
+        yestEl.textContent = 'yest ' + formatted + unit;
+
+        // Arrow
+        if (todayVal !== null && todayVal !== undefined) {
+          const diff = Number(todayVal) - yestVal;
+          if (Math.abs(diff) < 0.3) {
+            arrowEl.textContent = '➡';
+            arrowEl.className = 'compare-arrow flat';
+          } else if (diff > 0) {
+            arrowEl.textContent = '▲';
+            arrowEl.className = 'compare-arrow up';
+          } else {
+            arrowEl.textContent = '▼';
+            arrowEl.className = 'compare-arrow down';
+          }
+        }
+      }
+    }
+  }
+
+  // ── Lister's Weather-Based Meal Suggestion (#5, June 21) ──────
+  const MEALS = {
+    sunny:     { emoji: '🍺', text: (loc, t) => `Lager and a bacon butty in the cargo bay, al fresco on the ${loc} observation deck. ${t}°C is proper beer weather, man.` },
+    clear:     { emoji: '🍺', text: (loc, t) => `Lager and a bacon butty in the cargo bay, al fresco on the ${loc} observation deck. ${t}°C is proper beer weather, man.` },
+    'partly cloudy': { emoji: '🥘', text: (loc, t) => `Chicken tikka masala with a proper brew. ${loc} at ${t}°C — mild enough for a biryani on the go.` },
+    cloudy:    { emoji: '🍛', text: (loc, t) => `Extra-hot vindaloo with mango chutney to warm the bones. ${loc} at ${t}°C needs some spice, man.` },
+    overcast:  { emoji: '🍛', text: (loc, t) => `Extra-hot vindaloo with mango chutney to warm the bones. ${loc} at ${t}°C needs some spice, man.` },
+    rain:      { emoji: '🍜', text: (loc, t) => `Big bowl of curry soup with naan bread to dip. ${loc} at ${t}°C — rainy days call for liquid comfort.` },
+    'light rain': { emoji: '🍜', text: (loc, t) => `Big bowl of curry soup with naan bread to dip. ${loc} at ${t}°C — rainy days call for liquid comfort.` },
+    thunder:   { emoji: '🍲', text: (loc, t) => `Kryten's emergency stew with extra dumplings. Storm in ${loc} — time to bunker down with comfort food.` },
+    snow:      { emoji: '☕', text: (loc, t) => `Hot chocolate with a cheeky splash of something stronger. ${loc} at ${t}°C — snow day rules apply.` },
+    fog:       { emoji: '🍳', text: (loc, t) => `Full English breakfast with fried bread, two eggs, and a mug of strong tea. Can't see a thing in ${loc}, so might as well eat.` },
+    wind:      { emoji: '🥪', text: (loc, t) => `Cheese and pickle sandwich with a flask of tea. Windy in ${loc} at ${t}°C — keep it simple, keep it warm.` },
+  };
+  const MEAL_FALLBACK = { emoji: '🍛', text: (loc, t) => `Vindaloo. The answer's always vindaloo. ${loc}, ${t}°C — doesn't matter what the weather's doing.` };
+
+  function renderMealSuggestion(data) {
+    const emojiEl = $('meal-emoji');
+    const textEl = $('meal-text');
+    if (!emojiEl || !textEl) return;
+
+    const locs = data.locations || {};
+    let bestLoc = null;
+    for (const [loc, info] of Object.entries(locs)) {
+      if (info.temp !== null && info.temp !== undefined) {
+        bestLoc = { key: loc, temp: info.temp, conditions: info.conditions };
+        break;
+      }
+    }
+
+    if (!bestLoc) {
+      emojiEl.textContent = '🍛';
+      textEl.textContent = 'No weather data yet. Anything from the vending machine?';
+      return;
+    }
+
+    const temp = Number(bestLoc.temp);
+    const cond = (bestLoc.conditions || '').toLowerCase();
+    const locName = bestLoc.key.charAt(0).toUpperCase() + bestLoc.key.slice(1);
+
+    // Find matching meal
+    let meal = null;
+    for (const [key, m] of Object.entries(MEALS)) {
+      if (cond.includes(key)) {
+        meal = m;
+        break;
+      }
+    }
+    if (!meal) meal = MEAL_FALLBACK;
+
+    emojiEl.textContent = meal.emoji;
+    textEl.textContent = meal.text(locName, temp.toFixed(0));
+  }
+
   // ── Starbug (NAS) Status Panel ────────────────────────────────
   function renderStarbug(data) {
     const panel = $('panel-starbug');
@@ -2195,6 +2385,9 @@
       fetchStarbugData();
       renderHologramStability(data);
       renderFashionForecast(data);
+      renderShipStatusIndicator(data);
+      renderYesterdayComparison(data);
+      renderMealSuggestion(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
