@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-21T16:56:23.267528+00:00",
+  "timestamp": "2026-06-21T17:27:22.135793+00:00",
   "house": {
-    "indoor_temp": 23.3,
+    "indoor_temp": 23.2,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 25.2,
-    "outdoor_humidity": 66.0,
-    "wind_speed": 2.2,
-    "wind_direction": 304.0,
-    "pressure": 1028.3,
+    "outdoor_temp": 24.4,
+    "outdoor_humidity": 70.0,
+    "wind_speed": 0.0,
+    "wind_direction": 276.0,
+    "pressure": 1028.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 213.0,
+    "power_usage": 300.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up",
     "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones"
   ],
-  "crew_quote": "\"Oi, it's 25 degrees out, perfect curry weather! Let's whip up a vindaloo and pretend we're not stuck in a chipped spaceship, eh?\""
+  "crew_quote": "\"Blimey, it’s warmer than a curry in a sauna! I’d suggest we all just sit around and sweat, but I reckon the Cat would prefer a mirror to admire himself first!\""
 }
