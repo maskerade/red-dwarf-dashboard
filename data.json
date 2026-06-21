@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-21T20:02:24.692763+00:00",
+  "timestamp": "2026-06-21T20:33:25.687404+00:00",
   "house": {
     "indoor_temp": 23.2,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 22.5,
-    "outdoor_humidity": 75.0,
-    "wind_speed": 1.1,
-    "wind_direction": 309.0,
-    "pressure": 1029.0,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 22.1,
+    "outdoor_humidity": 76.0,
+    "wind_speed": 2.2,
+    "wind_direction": 345.0,
+    "pressure": 1029.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 213.0,
+    "power_usage": 3023.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up",
     "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones"
   ],
-  "crew_quote": "\"Right, so it's 23 degrees and raining patches—sounds like the perfect day for a curry and a good old moan about how Amazon's ruining the future! What a world!\""
+  "crew_quote": "\"Looks like it's 23 degrees outside, just the right temp for a pint and a curry, but I wouldn't hold me breath about avoiding that patchy rain!\""
 }
