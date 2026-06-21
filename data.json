@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-21T08:40:14.263370+00:00",
+  "timestamp": "2026-06-21T09:11:14.663935+00:00",
   "house": {
-    "indoor_temp": 22.5,
+    "indoor_temp": 22.7,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 22.5,
-    "outdoor_humidity": 61.0,
+    "outdoor_temp": 22.9,
+    "outdoor_humidity": 60.0,
     "wind_speed": 0.0,
-    "wind_direction": 78.0,
-    "pressure": 1028.6,
+    "wind_direction": 246.0,
+    "pressure": 1028.7,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 311.0,
+    "uv_index": 0.0,
+    "power_usage": 362.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up",
     "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones"
   ],
-  "crew_quote": "\"Ah, it's a lovely 20 degrees outside—perfect curry weather! Let's not forget, though, that the real heat is in the fight for dead video games to get their second chance!\""
+  "crew_quote": "\"Blimey, 22.7°C indoors? I could be sweating over a curry right now instead of sweating over dead video games!\""
 }
