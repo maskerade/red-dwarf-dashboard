@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-21T23:08:28.113645+00:00",
+  "timestamp": "2026-06-21T23:39:28.221649+00:00",
   "house": {
-    "indoor_temp": 23.5,
+    "indoor_temp": 23.6,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 19.6,
+    "outdoor_temp": 19.3,
     "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 327.0,
-    "pressure": 1029.8,
+    "wind_direction": 319.0,
+    "pressure": 1029.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 393.0,
+    "power_usage": 396.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "EU won't force publishers to grant dead video games an afterlife",
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up"
   ],
-  "crew_quote": "\"Twenty degrees and partly cloudy? Perfect weather for a curry and a snooze, not that I’d ever forget about the ‘human-in-the-loop’ nonsense. Just give me my dinner!\""
+  "crew_quote": "\"With it being 20 degrees out and partly cloudy, I reckon we should cook up a curry and enjoy the open air — unless Rimmer starts talking about AI again, then it’s indoors for sure!\""
 }
