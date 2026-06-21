@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-21T22:37:26.971538+00:00",
+  "timestamp": "2026-06-21T23:08:28.113645+00:00",
   "house": {
-    "indoor_temp": 23.4,
+    "indoor_temp": 23.5,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 20.2,
-    "outdoor_humidity": 81.0,
+    "outdoor_temp": 19.6,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 289.0,
-    "pressure": 1029.9,
+    "wind_direction": 327.0,
+    "pressure": 1029.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 399.0,
+    "power_usage": 393.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Events taking place across Manchester this weekend; services will be busier than usual. Bury services are operating to Victoria and Altrincham and Airport services are operating from Piccadilly.",
   "headlines": [
+    "Anthropic's Mythos mess just keeps getting more complicated",
     "Why Amazon hates 'human-in-the-loop' AI governance",
     "EU won't force publishers to grant dead video games an afterlife",
-    "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up",
-    "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones"
+    "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up"
   ],
-  "crew_quote": "\"Oi, with this weather, it’s perfect curry-making conditions! Just don’t let me end up in a clear-headed AI conversation – I’ll take a vindaloo over that any day!\""
+  "crew_quote": "\"Twenty degrees and partly cloudy? Perfect weather for a curry and a snooze, not that I’d ever forget about the ‘human-in-the-loop’ nonsense. Just give me my dinner!\""
 }
