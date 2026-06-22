@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-22T01:12:29.522004+00:00",
+  "timestamp": "2026-06-22T01:43:29.767195+00:00",
   "house": {
     "indoor_temp": 23.4,
     "indoor_humidity": 58.0,
     "outdoor_temp": 18.5,
     "outdoor_humidity": 85.0,
-    "wind_speed": 1.4,
-    "wind_direction": 318.0,
-    "pressure": 1029.7,
+    "wind_speed": 0.0,
+    "wind_direction": 328.0,
+    "pressure": 1029.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 238.0,
+    "power_usage": 202.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 16.0,
-      "conditions": "Mist",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -94,5 +94,5 @@
     "EU won't force publishers to grant dead video games an afterlife",
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up"
   ],
-  "crew_quote": "\"Ah, it’s partly cloudy out there, just like my chances of getting through a day without tripping over my own ego—maybe I should just relax with a nice curry instead!\""
+  "crew_quote": "\"Blimey, it's a balmy 19 degrees out there—perfect curry weather! Let’s whip up a vindaloo and celebrate our survival amidst the chaos of Mythos!\""
 }
