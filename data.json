@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-22T20:19:43.396871+00:00",
+  "timestamp": "2026-06-22T20:50:44.021147+00:00",
   "house": {
-    "indoor_temp": 24.4,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 23.5,
+    "indoor_temp": 24.3,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 22.7,
     "outdoor_humidity": 67.0,
-    "wind_speed": 0.4,
-    "wind_direction": 276.0,
-    "pressure": 1025.1,
+    "wind_speed": 1.1,
+    "wind_direction": 323.0,
+    "pressure": 1025.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 531.0,
+    "power_usage": 522.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Ukraine puts its Russian war trophies online for allies to pick apart",
     "Inspired by musical greeting cards, DARPA demands tiny, cheap, self-modifying systems"
   ],
-  "crew_quote": "\"It's a balmy 24.4°C indoors, perfect for a curry, but I wouldn't mind some patchy rain outside — just enough to make the chips soggy!\""
+  "crew_quote": "\"I'm telling you, it's so hot in here, I could cook a curry without even trying! And just as well, 'cause the weather outside is patchy enough to ruin any outdoor plans!\""
 }
