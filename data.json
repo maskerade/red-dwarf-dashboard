@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-22T18:46:47.747050+00:00",
+  "timestamp": "2026-06-22T19:17:41.937380+00:00",
   "house": {
     "indoor_temp": 24.4,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 26.4,
-    "outdoor_humidity": 61.0,
-    "wind_speed": 7.2,
-    "wind_direction": 243.0,
-    "pressure": 1025.8,
+    "outdoor_temp": 25.6,
+    "outdoor_humidity": 62.0,
+    "wind_speed": 0.4,
+    "wind_direction": 357.0,
+    "pressure": 1026.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 297.0,
+    "power_usage": 309.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Ukraine puts its Russian war trophies online for allies to pick apart",
     "Inspired by musical greeting cards, DARPA demands tiny, cheap, self-modifying systems"
   ],
-  "crew_quote": "\"With the weather being all patchy rain and temperatures hotter than a curry left on the stove, I reckon we should just stay in and chill, mate!\""
+  "crew_quote": "\"Ah, lovely weather for a curry, innit? Bit of patchy rain, but honestly, at 24.4°C, I'd say that's just nature's way of keeping me hydrated while I chow down!\""
 }
