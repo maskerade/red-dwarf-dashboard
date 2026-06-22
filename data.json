@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-22T22:23:45.053208+00:00",
+  "timestamp": "2026-06-22T22:54:45.347614+00:00",
   "house": {
     "indoor_temp": 24.5,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 21.5,
-    "outdoor_humidity": 68.0,
-    "wind_speed": 3.6,
-    "wind_direction": 254.0,
-    "pressure": 1025.0,
+    "outdoor_temp": 21.1,
+    "outdoor_humidity": 71.0,
+    "wind_speed": 0.0,
+    "wind_direction": 275.0,
+    "pressure": 1024.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 469.0,
+    "power_usage": 466.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Security shops among the 'hundreds' of Klue hack victims",
     "Nvidia gets all agentic about supercomputing for scientific research"
   ],
-  "crew_quote": "\"With the weather patchy and overcast, it’s a perfect day to stay inside, put the kettle on, and whip up a curry. Who needs sunshine when you’ve got a good meal and a decent pint?\""
+  "crew_quote": "\"With all this patchy rain and humidity, I'm thinking it's the perfect weather for a curry — nothing like a warm vindaloo to keep the damp at bay, right?\""
 }
