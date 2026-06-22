@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-22T04:49:33.047047+00:00",
+  "timestamp": "2026-06-22T05:20:31.112501+00:00",
   "house": {
     "indoor_temp": 23.2,
     "indoor_humidity": 58.0,
     "outdoor_temp": 18.5,
-    "outdoor_humidity": 82.0,
+    "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 316.0,
-    "pressure": 1029.6,
+    "wind_direction": 314.0,
+    "pressure": 1029.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 213.0,
+    "power_usage": 193.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "EU won't force publishers to grant dead video games an afterlife",
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up"
   ],
-  "crew_quote": "\"Well, with all this rain around, I reckon we could whip up a nice curry and call it a proper British summer! Just don't forget the naan this time, eh?\""
+  "crew_quote": "\"With this weather, I’d say it’s the perfect day for a nice curry, right after I get the power usage down—193 kWh is no joke, mates!\""
 }
