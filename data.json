@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-22T02:14:30.689454+00:00",
+  "timestamp": "2026-06-22T02:45:30.493708+00:00",
   "house": {
     "indoor_temp": 23.3,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 18.7,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 18.8,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 287.0,
-    "pressure": 1029.6,
+    "wind_direction": 279.0,
+    "pressure": 1029.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 213.0,
+    "power_usage": 219.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "EU won't force publishers to grant dead video games an afterlife",
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up"
   ],
-  "crew_quote": "\"Well, it’s a balmy 19 degrees outside, but I think I’ll stay in where it’s nice and warm—got a curry to heat up and no time to waste with fancy weather!\""
+  "crew_quote": "\"19 degrees in Altrincham? Lovely! Just the right temperature for a curry, but not too hot to stop my hair from looking fabulous!\""
 }
