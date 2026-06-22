@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-22T10:30:38.988549+00:00",
+  "timestamp": "2026-06-22T11:01:38.927552+00:00",
   "house": {
-    "indoor_temp": 23.8,
+    "indoor_temp": 24.1,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 25.0,
-    "outdoor_humidity": 66.0,
-    "wind_speed": 2.2,
-    "wind_direction": 273.0,
-    "pressure": 1028.8,
+    "outdoor_temp": 25.2,
+    "outdoor_humidity": 64.0,
+    "wind_speed": 5.8,
+    "wind_direction": 277.0,
+    "pressure": 1028.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 1551.0,
+    "power_usage": 415.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 24.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 25.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 23.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 24.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -89,10 +89,10 @@
   },
   "metrolink": "Events taking place across Manchester this weekend; services will be busier than usual. Bury services are operating to Victoria and Altrincham and Airport services are operating from Piccadilly.",
   "headlines": [
+    "Humanity trashed Earth orbit – next stop the Moon",
     "Gizmodo readers hit with ClickFix malware prompts after account compromise",
     "Small island nation tries bold tech education strategy",
-    "Lessons from the VMwars – nothing virtual about the Broadcom vs Tesco slugfest",
-    "How dare you stop data loss – that's not your job!"
+    "Lessons from the VMwars – nothing virtual about the Broadcom vs Tesco slugfest"
   ],
-  "crew_quote": "\"Well, I hope our tech education strategy doesn’t involve teaching everyone to click on dodgy links – it’s about as useful as a curry without rice!\""
+  "crew_quote": "\"Blimey, with this weather, I think I’ll just sit back and enjoy a nice curry, preferably one that won't make me wake up on the Moon with a hangover!\""
 }
