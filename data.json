@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-22T07:24:35.881214+00:00",
+  "timestamp": "2026-06-22T07:55:39.737615+00:00",
   "house": {
     "indoor_temp": 23.3,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 21.3,
-    "outdoor_humidity": 74.0,
+    "outdoor_temp": 22.4,
+    "outdoor_humidity": 73.0,
     "wind_speed": 0.0,
-    "wind_direction": 270.0,
+    "wind_direction": 299.0,
     "pressure": 1029.7,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 221.0,
+    "power_usage": 227.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Overcast ",
+      "temp": 20.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 19.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Partly cloudy",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -94,5 +94,5 @@
     "Why Amazon hates 'human-in-the-loop' AI governance",
     "EU won't force publishers to grant dead video games an afterlife"
   ],
-  "crew_quote": "\"With the indoor temp at a cozy 23.3°C, I'm feeling inspired to create the ultimate curry! Just don’t let the power usage get too spicy, eh?\""
+  "crew_quote": "\"With it being 20 degrees out there, I’d say the only thing hotter than the weather is my curry—at least that’s what I keep telling myself!\""
 }
