@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-22T08:26:37.254624+00:00",
+  "timestamp": "2026-06-22T08:57:36.509263+00:00",
   "house": {
     "indoor_temp": 23.5,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 25.0,
-    "outdoor_humidity": 65.0,
+    "outdoor_temp": 23.5,
+    "outdoor_humidity": 67.0,
     "wind_speed": 0.0,
-    "wind_direction": 294.0,
-    "pressure": 1029.6,
+    "wind_direction": 290.0,
+    "pressure": 1029.9,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 202.0,
+    "uv_index": 1.0,
+    "power_usage": 236.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Events taking place across Manchester this weekend; services will be busier than usual. Bury services are operating to Victoria and Altrincham and Airport services are operating from Piccadilly.",
   "headlines": [
+    "Lessons from the VMwars – nothing virtual about the Broadcom vs Tesco slugfest",
     "How dare you stop data loss – that's not your job!",
     "Anthropic's Mythos mess just keeps getting more complicated",
-    "Why Amazon hates 'human-in-the-loop' AI governance",
-    "EU won't force publishers to grant dead video games an afterlife"
+    "Why Amazon hates 'human-in-the-loop' AI governance"
   ],
-  "crew_quote": "\"What’s the point in worrying about data loss when it’s 21 degrees in Llandudno? I mean, we could just fry some curry and embrace the chaos!\""
+  "crew_quote": "\"You know, it's a perfect 20 degrees outside—just the right temperature for a curry! Too bad my last one was a dumpster fire.\""
 }
