@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-22T17:13:42.398294+00:00",
+  "timestamp": "2026-06-22T17:44:41.119740+00:00",
   "house": {
     "indoor_temp": 24.4,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 27.6,
-    "outdoor_humidity": 60.0,
+    "outdoor_temp": 27.2,
+    "outdoor_humidity": 61.0,
     "wind_speed": 0.0,
-    "wind_direction": 260.0,
-    "pressure": 1026.0,
+    "wind_direction": 285.0,
+    "pressure": 1025.7,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 230.0,
+    "power_usage": 210.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "The new database world according to Google: Inexact queries and AI in everything",
     "Canadian utility fesses up to data breach, but key details remain off-grid"
   ],
-  "crew_quote": "\"With this weather, it's perfect for a curry! Just me, me nan's recipe, and a light drizzle to keep the spice levels high—brilliant!\""
+  "crew_quote": "\"We should all be grateful for this lovely 26 degrees, eh? Perfect curry weather, just as long as the rain keeps its distance—I'm not in the mood for a soggy boogie!\""
 }
