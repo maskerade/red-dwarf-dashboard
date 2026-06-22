@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-22T00:41:29.156578+00:00",
+  "timestamp": "2026-06-22T01:12:29.522004+00:00",
   "house": {
-    "indoor_temp": 23.5,
+    "indoor_temp": 23.4,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 19.0,
-    "outdoor_humidity": 84.0,
-    "wind_speed": 0.0,
-    "wind_direction": 319.0,
-    "pressure": 1030.0,
+    "outdoor_temp": 18.5,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 1.4,
+    "wind_direction": 318.0,
+    "pressure": 1029.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 314.0,
+    "power_usage": 238.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "EU won't force publishers to grant dead video games an afterlife",
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up"
   ],
-  "crew_quote": "\"19 degrees and partly cloudy? Perfect weather for a pint and a curry! Just don't let the mist in Overseal steal my shine!\""
+  "crew_quote": "\"Ah, it’s partly cloudy out there, just like my chances of getting through a day without tripping over my own ego—maybe I should just relax with a nice curry instead!\""
 }
