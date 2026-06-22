@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-22T12:03:40.584638+00:00",
+  "timestamp": "2026-06-22T12:34:40.421551+00:00",
   "house": {
     "indoor_temp": 24.3,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 26.1,
-    "outdoor_humidity": 63.0,
-    "wind_speed": 0.0,
-    "wind_direction": 52.0,
-    "pressure": 1028.5,
+    "outdoor_temp": 26.8,
+    "outdoor_humidity": 60.0,
+    "wind_speed": 2.9,
+    "wind_direction": 302.0,
+    "pressure": 1028.2,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 438.0,
+    "uv_index": 2.0,
+    "power_usage": 384.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 24.0,
-      "conditions": "Sunny",
+      "temp": 25.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 26.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 24.0,
-      "conditions": "Sunny",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -89,10 +89,10 @@
   },
   "metrolink": "Events taking place across Manchester this weekend; services will be busier than usual. Bury services are operating to Victoria and Altrincham and Airport services are operating from Piccadilly.",
   "headlines": [
+    "Microsoft accidentally kills epic Outlook email threads",
     "Health board apologizes for phishing staff with with bogus vacation day",
     "Humanity trashed Earth orbit – next stop the Moon",
-    "Gizmodo readers hit with ClickFix malware prompts after account compromise",
-    "Small island nation tries bold tech education strategy"
+    "Gizmodo readers hit with ClickFix malware prompts after account compromise"
   ],
-  "crew_quote": "\"Blimey, it’s roasting out here! If the sun gets any hotter, I’ll be making a curry that’s actually on fire.\""
+  "crew_quote": "\"Well, at least the weather's nice while we’re all stuck here, but I’d trade this sunny brilliance for a curry any day—preferably one that doesn’t involve phishing emails!\""
 }
