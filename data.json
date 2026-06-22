@@ -1,33 +1,33 @@
 {
-  "timestamp": "2026-06-22T02:45:30.493708+00:00",
+  "timestamp": "2026-06-22T03:16:31.558533+00:00",
   "house": {
     "indoor_temp": 23.3,
     "indoor_humidity": 58.0,
     "outdoor_temp": 18.8,
     "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 279.0,
-    "pressure": 1029.7,
+    "wind_direction": 300.0,
+    "pressure": 1029.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 219.0,
+    "power_usage": 193.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 19.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-06-22",
           "max": 27.0,
-          "min": 16.0
+          "min": 17.0
         },
         {
           "date": "2026-06-23",
           "max": 30.0,
-          "min": 16.0
+          "min": 17.0
         },
         {
           "date": "2026-06-24",
@@ -37,29 +37,29 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": 15.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-22",
-          "max": 26.0,
+          "max": 27.0,
           "min": 15.0
         },
         {
           "date": "2026-06-23",
-          "max": 30.0,
+          "max": 31.0,
           "min": 15.0
         },
         {
           "date": "2026-06-24",
-          "max": 32.0,
+          "max": 31.0,
           "min": 19.0
         }
       ]
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -68,12 +68,12 @@
         },
         {
           "date": "2026-06-23",
-          "max": 23.0,
+          "max": 22.0,
           "min": 15.0
         },
         {
           "date": "2026-06-24",
-          "max": 23.0,
+          "max": 24.0,
           "min": 14.0
         }
       ]
@@ -94,5 +94,5 @@
     "EU won't force publishers to grant dead video games an afterlife",
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up"
   ],
-  "crew_quote": "\"19 degrees in Altrincham? Lovely! Just the right temperature for a curry, but not too hot to stop my hair from looking fabulous!\""
+  "crew_quote": "\"19 degrees in Altrincham? Blimey, that's practically tropical! Time for a pint and a curry — can't let a bit of cloud ruin my day!\""
 }
