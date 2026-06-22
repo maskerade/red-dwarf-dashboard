@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-22T11:01:38.927552+00:00",
+  "timestamp": "2026-06-22T11:32:39.082144+00:00",
   "house": {
-    "indoor_temp": 24.1,
+    "indoor_temp": 24.3,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 25.2,
-    "outdoor_humidity": 64.0,
-    "wind_speed": 5.8,
-    "wind_direction": 277.0,
+    "outdoor_temp": 25.9,
+    "outdoor_humidity": 62.0,
+    "wind_speed": 5.0,
+    "wind_direction": 307.0,
     "pressure": 1028.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 415.0,
+    "power_usage": 396.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Events taking place across Manchester this weekend; services will be busier than usual. Bury services are operating to Victoria and Altrincham and Airport services are operating from Piccadilly.",
   "headlines": [
+    "Health board apologizes for phishing staff with with bogus vacation day",
     "Humanity trashed Earth orbit – next stop the Moon",
     "Gizmodo readers hit with ClickFix malware prompts after account compromise",
-    "Small island nation tries bold tech education strategy",
-    "Lessons from the VMwars – nothing virtual about the Broadcom vs Tesco slugfest"
+    "Small island nation tries bold tech education strategy"
   ],
-  "crew_quote": "\"Blimey, with this weather, I think I’ll just sit back and enjoy a nice curry, preferably one that won't make me wake up on the Moon with a hangover!\""
+  "crew_quote": "\"Blimey, it's so lovely and sunny out, I might just put a curry on the barbie and retire to a nice shady corner — if I can remember where I put my hat!\""
 }
