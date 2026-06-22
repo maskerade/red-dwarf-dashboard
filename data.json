@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-22T12:34:40.421551+00:00",
+  "timestamp": "2026-06-22T13:05:40.489107+00:00",
   "house": {
-    "indoor_temp": 24.3,
+    "indoor_temp": 24.4,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 26.8,
-    "outdoor_humidity": 60.0,
-    "wind_speed": 2.9,
-    "wind_direction": 302.0,
-    "pressure": 1028.2,
+    "outdoor_temp": 26.7,
+    "outdoor_humidity": 61.0,
+    "wind_speed": 5.0,
+    "wind_direction": 247.0,
+    "pressure": 1028.0,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 384.0,
+    "uv_index": 1.0,
+    "power_usage": 387.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "02:07 PM",
     "moonset": "12:53 AM"
   },
-  "metrolink": "Events taking place across Manchester this weekend; services will be busier than usual. Bury services are operating to Victoria and Altrincham and Airport services are operating from Piccadilly.",
+  "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
   "headlines": [
+    "Brazil probes emergency warning system after nationwide rogue alert",
     "Microsoft accidentally kills epic Outlook email threads",
     "Health board apologizes for phishing staff with with bogus vacation day",
-    "Humanity trashed Earth orbit – next stop the Moon",
-    "Gizmodo readers hit with ClickFix malware prompts after account compromise"
+    "Humanity trashed Earth orbit – next stop the Moon"
   ],
-  "crew_quote": "\"Well, at least the weather's nice while we’re all stuck here, but I’d trade this sunny brilliance for a curry any day—preferably one that doesn’t involve phishing emails!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here, and that’s saying something! I’d rather be dodging rogue alerts in Brazil than sweating in this tin can!\""
 }
