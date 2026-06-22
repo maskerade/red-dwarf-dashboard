@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-22T05:51:31.834291+00:00",
+  "timestamp": "2026-06-22T06:22:36.638464+00:00",
   "house": {
     "indoor_temp": 23.2,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 19.5,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 0.0,
-    "wind_direction": 314.0,
-    "pressure": 1029.6,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 20.1,
+    "outdoor_humidity": 76.0,
+    "wind_speed": 0.4,
+    "wind_direction": 337.0,
+    "pressure": 1029.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 221.0,
+    "power_usage": 191.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 19.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Overcast",
+      "temp": 18.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-22",
@@ -94,5 +94,5 @@
     "EU won't force publishers to grant dead video games an afterlife",
     "Britain sending Ukraine an extra 30,000 drones – now 150,000 all up"
   ],
-  "crew_quote": "\"Oi, it's 23 degrees in here and still feels like a curry’s just been thrown in the microwave! I’d rather be out in the rain than stuck with you lot!\""
+  "crew_quote": "\"With this weather, I could totally go for a curry while lounging indoors at a cozy 23 degrees — but knowing my luck, it’d probably end up as a disaster like that Anthropic mess!\""
 }
