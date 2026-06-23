@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-23T14:56:03.306033+00:00",
+  "timestamp": "2026-06-23T15:27:03.367499+00:00",
   "house": {
     "indoor_temp": 25.0,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 30.9,
+    "outdoor_temp": 30.4,
     "outdoor_humidity": 67.0,
     "wind_speed": 0.0,
-    "wind_direction": 243.0,
+    "wind_direction": 105.0,
     "pressure": 1019.2,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 210.0,
+    "uv_index": 0.0,
+    "power_usage": 227.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Bold move, Cotton: Trump administration tells US techies it expects American quantum computer by 2028",
     "Microsoft Access finally breaks free of its 22-inch form limit"
   ],
-  "crew_quote": "\"With this heat, I reckon we’ll have to invent a new curry—one that cools you down instead of setting your mouth on fire! Partly cloudy? More like partly sweaty!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry on a rocket, but at least it's not raining like Llandudno! Fancy a drink to cool down, or are we saving up for those fancy steam machines?\""
 }
