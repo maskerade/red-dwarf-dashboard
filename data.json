@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-23T15:27:03.367499+00:00",
+  "timestamp": "2026-06-23T15:58:03.701595+00:00",
   "house": {
     "indoor_temp": 25.0,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 30.4,
-    "outdoor_humidity": 67.0,
+    "outdoor_temp": 29.7,
+    "outdoor_humidity": 68.0,
     "wind_speed": 0.0,
-    "wind_direction": 105.0,
-    "pressure": 1019.2,
+    "wind_direction": 88.0,
+    "pressure": 1019.0,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 227.0,
+    "uv_index": 1.0,
+    "power_usage": 233.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Bold move, Cotton: Trump administration tells US techies it expects American quantum computer by 2028",
     "Microsoft Access finally breaks free of its 22-inch form limit"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry on a rocket, but at least it's not raining like Llandudno! Fancy a drink to cool down, or are we saving up for those fancy steam machines?\""
+  "crew_quote": "\"With it being 30 degrees outside, I reckon a good curry is just what we need to sweat it out—unless the rain in Llandudno tries to cool my plans down!\""
 }
