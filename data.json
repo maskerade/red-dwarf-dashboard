@@ -1,34 +1,92 @@
 {
-  "timestamp": "2026-06-23T17:31:47.411536+00:00",
+  "timestamp": "2026-06-23T18:02:11.287293+00:00",
   "house": {
-    "indoor_temp": 25.0,
+    "indoor_temp": 25.1,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 27.8,
-    "outdoor_humidity": 71.0,
+    "outdoor_temp": 27.1,
+    "outdoor_humidity": 74.0,
     "wind_speed": 0.0,
-    "wind_direction": 124.0,
-    "pressure": 1019.4,
+    "wind_direction": 117.0,
+    "pressure": 1019.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 236.0,
+    "power_usage": 334.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 27.0,
+      "conditions": "Patchy rain nearby",
+      "forecast": [
+        {
+          "date": "2026-06-23",
+          "max": 30.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-06-24",
+          "max": 29.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-06-25",
+          "max": 31.0,
+          "min": 18.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 32.0,
+      "conditions": "Patchy rain nearby",
+      "forecast": [
+        {
+          "date": "2026-06-23",
+          "max": 31.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-06-24",
+          "max": 30.0,
+          "min": 18.0
+        },
+        {
+          "date": "2026-06-25",
+          "max": 31.0,
+          "min": 16.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 21.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-06-23",
+          "max": 23.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-06-24",
+          "max": 20.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-06-25",
+          "max": 28.0,
+          "min": 16.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "04:41 AM",
+    "sunset": "09:42 PM",
+    "moon_phase": "Waxing Gibbous",
+    "moon_illumination": "61",
+    "moonrise": "03:24 PM",
+    "moonset": "01:03 AM"
+  },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
     "Space Force goes to (pretend) orbital war following record-fast Rocket Lab launch",
@@ -36,5 +94,5 @@
     "Valve opens Steam Machine pre-orders with queue lottery and hefty prices amid AI squeeze",
     "21,000 Oracle jobs vanish amid Big Red's big bets on AI"
   ],
-  "crew_quote": "\"Well, if the O2 switch-off happens in 2029, I’ll be long dead... but at least I’ll be cool and comfortable at a balmy 25 degrees until then!\""
+  "crew_quote": "\"Ah, lovely weather! If it keeps up like this, I fancy a nice curry on the beach—just me, the sun, and a bit of patchy rain for that authentic Altrincham experience!\""
 }
