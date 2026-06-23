@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-23T20:37:09.325870+00:00",
+  "timestamp": "2026-06-23T21:08:09.708263+00:00",
   "house": {
     "indoor_temp": 25.1,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 24.1,
-    "outdoor_humidity": 81.0,
+    "outdoor_temp": 23.5,
+    "outdoor_humidity": 82.0,
     "wind_speed": 0.0,
-    "wind_direction": 123.0,
-    "pressure": 1019.8,
+    "wind_direction": 124.0,
+    "pressure": 1020.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 483.0,
+    "power_usage": 581.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 26.0,
-      "conditions": "Partly cloudy",
+      "temp": 25.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-06-23",
@@ -27,18 +27,18 @@
         {
           "date": "2026-06-24",
           "max": 29.0,
-          "min": 16.0
+          "min": 17.0
         },
         {
           "date": "2026-06-25",
-          "max": 31.0,
+          "max": 30.0,
           "min": 18.0
         }
       ]
     },
     "overseal": {
-      "temp": 31.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 29.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-06-23",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-06-23",
@@ -74,7 +74,7 @@
         {
           "date": "2026-06-25",
           "max": 28.0,
-          "min": 16.0
+          "min": 15.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "O2 joins UK 2G switch-off with summer 2029 start date",
     "Valve opens Steam Machine pre-orders with queue lottery and hefty prices amid AI squeeze"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a curry left in the sun! I’d trade this indoor humidity for a nice cold pint any day—preferably with a side of chips!\""
+  "crew_quote": "\"They're off pretending to have a war while I'm sweating like a curry on a hot day! It's 25 degrees in here, and that’s without the heat from my brain!\""
 }
