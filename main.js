@@ -580,6 +580,9 @@
     power_usage:      { amber: 500, red: 1000 },
   };
 
+  // Track last logged alarm state to avoid duplicates
+  const LAST_ALARM_STATE = 'rdwd_last_alarm_state';
+
   function renderThresholdAlarms(data) {
     const house = data.house || {};
     for (const [key, threshold] of Object.entries(THRESHOLDS)) {
@@ -591,17 +594,27 @@
       const item = document.querySelector(`.ship-item[data-key="${key}"]`);
       if (!item) continue;
 
+      const prevClass = item.classList.contains('alert-red') ? 'red' : item.classList.contains('alert-amber') ? 'amber' : null;
       item.classList.remove('alert-amber', 'alert-red');
 
       let isAlert = false;
+      let level = null;
       if (threshold.amber !== undefined && num >= threshold.amber) {
-        item.classList.add(num >= threshold.red ? 'alert-red' : 'alert-amber');
+        level = num >= threshold.red ? 'red' : 'amber';
+        item.classList.add(level === 'red' ? 'alert-red' : 'alert-amber');
         isAlert = true;
       } else if (threshold.amber_min !== undefined) {
         if (num <= threshold.amber_min || num >= threshold.amber_max) {
-          item.classList.add((num <= threshold.red_min || num >= threshold.red_max) ? 'alert-red' : 'alert-amber');
+          level = (num <= threshold.red_min || num >= threshold.red_max) ? 'red' : 'amber';
+          item.classList.add(level === 'red' ? 'alert-red' : 'alert-amber');
           isAlert = true;
         }
+      }
+
+      // Log new/changed alarms
+      if (level && level !== prevClass) {
+        const label = key.replace(/_/g, ' ').toUpperCase();
+        logAlarmEvent(level, label, num.toFixed(1));
       }
     }
   }
@@ -1012,7 +1025,7 @@
     bannerIcon.textContent = highestLevel === 'red' ? '⚠' : '⚡';
     bannerText.textContent = levelWord + ` — ${alerts.join(', ')}`;
 
-    // ── Tab Notifier (#3, Kryten, June 21) ──────────────────
+    // ── Tab Notifier (#3, Kryten, June 21) + Voice Alert (#5, June 23) ──
     if (highestLevel === 'red') {
       if (!window.__alertTabInterval) {
         const normalTitle = 'Red Dwarf Mission Status';
@@ -1027,6 +1040,8 @@
           titleIdx++;
         }, 1500);
       }
+      // Voice alert for red
+      speakAlert('red', alerts.join(', '));
     } else {
       // Only amber — stop cycling if it was red before
       if (window.__alertTabInterval) {
@@ -2041,6 +2056,243 @@
     textEl.textContent = meal.text(locName, temp.toFixed(0));
   }
 
+  // ── Audio Crew Quote Reader (#1, Kryten, June 23) ──────────────
+  function setupQuoteSpeaker() {
+    const btn = $('quote-speaker-btn');
+    const quoteEl = $('quote-text');
+    if (!btn || !quoteEl) return;
+
+    btn.addEventListener('click', function() {
+      if (!window.speechSynthesis) {
+        console.warn('[Quote] Speech synthesis not available');
+        return;
+      }
+
+      // Stop any current speech
+      window.speechSynthesis.cancel();
+
+      const text = quoteEl.textContent;
+      if (!text || text === 'Loading...') return;
+
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.rate = 0.85;  // Slightly slow - ship computer feel
+      utterance.pitch = 0.9;
+      utterance.volume = 0.8;
+
+      btn.classList.add('speaking');
+      utterance.onend = function() {
+        btn.classList.remove('speaking');
+      };
+      utterance.onerror = function() {
+        btn.classList.remove('speaking');
+      };
+
+      window.speechSynthesis.speak(utterance);
+    });
+  }
+
+  // ── Threshold Alarm History Log (#3, Rimmer, June 23) ──────────
+  const ALARM_LOG_STORAGE = 'rdwd_alarm_log';
+  const ALARM_LOG_MAX = 50;
+
+  function logAlarmEvent(level, key, value) {
+    const log = JSON.parse(localStorage.getItem(ALARM_LOG_STORAGE) || '[]');
+    const now = new Date();
+    const time = now.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+    log.unshift({ time, level, key, value, ts: now.getTime() });
+    if (log.length > ALARM_LOG_MAX) log.length = ALARM_LOG_MAX;
+    localStorage.setItem(ALARM_LOG_STORAGE, JSON.stringify(log));
+  }
+
+  function renderAlarmHistory() {
+    const scrollEl = $('alarm-log-scroll');
+    if (!scrollEl) return;
+
+    const log = JSON.parse(localStorage.getItem(ALARM_LOG_STORAGE) || '[]');
+    if (log.length === 0) {
+      scrollEl.innerHTML = '<div class="alarm-log-entry">[SYSTEM] No alarms recorded yet</div>';
+      return;
+    }
+
+    scrollEl.innerHTML = log.map(entry => {
+      const cls = entry.level === 'red' ? 'red-log' : entry.level === 'amber' ? 'amber-log' : '';
+      return `<div class="alarm-log-entry ${cls}">[${entry.time}] ${entry.level.toUpperCase()} — ${entry.key}: ${entry.value}</div>`;
+    }).join('');
+  }
+
+  // ── Screenshot Exporter (#4, Cat, June 23) ─────────────────────
+  function setupScreenshotExporter() {
+    const btn = $('screenshot-btn');
+    if (!btn) return;
+
+    btn.addEventListener('click', async function() {
+      this.classList.add('capturing');
+      this.textContent = '⏳';
+
+      try {
+        // Dynamically load html2canvas
+        if (!window.html2canvas) {
+          const script = document.createElement('script');
+          script.src = 'https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js';
+          document.head.appendChild(script);
+          await new Promise((resolve, reject) => {
+            script.onload = resolve;
+            script.onerror = reject;
+          });
+        }
+
+        const dashboard = document.querySelector('.dashboard');
+        if (!dashboard) throw new Error('Dashboard element not found');
+
+        const canvas = await window.html2canvas(dashboard, {
+          backgroundColor: '#0a0a0f',
+          scale: 2,
+          useCORS: true,
+          logging: false,
+          allowTaint: false,
+        });
+
+        // Create download link
+        const link = document.createElement('a');
+        const now = new Date();
+        const dateStr = now.toISOString().split('T')[0];
+        link.download = `red-dwarf-dashboard-${dateStr}.png`;
+        link.href = canvas.toDataURL('image/png');
+        link.click();
+
+        this.textContent = '✅';
+        setTimeout(() => {
+          this.textContent = '📸';
+          this.classList.remove('capturing');
+        }, 2000);
+      } catch (err) {
+        console.warn('[Screenshot] Failed:', err);
+        this.textContent = '❌';
+        setTimeout(() => {
+          this.textContent = '📸';
+          this.classList.remove('capturing');
+        }, 2000);
+      }
+    });
+  }
+
+  // ── Voice Alert Toggle & Speaker (#5, Lister, June 23) ─────────
+  function setupVoiceAlerts() {
+    const toggleWrap = $('voice-toggle-wrap');
+    const toggleInput = $('voice-toggle-input');
+    if (!toggleWrap || !toggleInput) return;
+
+    // Show the toggle (hidden by default)
+    toggleWrap.style.display = '';
+
+    // Restore saved state
+    const saved = localStorage.getItem('rdwd_voice_alerts');
+    if (saved === 'on') {
+      toggleInput.checked = true;
+    }
+
+    // Save preference
+    toggleInput.addEventListener('change', function() {
+      localStorage.setItem('rdwd_voice_alerts', this.checked ? 'on' : 'off');
+    });
+  }
+
+  function speakAlert(level, message) {
+    const toggleInput = $('voice-toggle-input');
+    if (!toggleInput || !toggleInput.checked) return;
+    if (!window.speechSynthesis) return;
+
+    // Don't interrupt if already speaking (avoid overlapping alerts)
+    if (window.speechSynthesis.speaking) return;
+
+    const prefix = level === 'red' ? 'CRITICAL ALERT: ' : 'Attention: ';
+    const utterance = new SpeechSynthesisUtterance(prefix + message);
+    utterance.rate = level === 'red' ? 0.9 : 0.8;
+    utterance.pitch = level === 'red' ? 0.7 : 0.9;
+    utterance.volume = 0.7;
+
+    window.speechSynthesis.speak(utterance);
+  }
+
+  // ── Command Palette (#2, Holly, June 23) ───────────────────────
+  function setupCommandPalette() {
+    const palette = $('command-palette');
+    if (!palette) return;
+
+    function togglePalette() {
+      const isOpen = palette.style.display !== 'none';
+      palette.style.display = isOpen ? 'none' : 'flex';
+    }
+
+    function closePalette() {
+      palette.style.display = 'none';
+    }
+
+    // Listen for keyboard shortcuts
+    document.addEventListener('keydown', function(e) {
+      // ? or Ctrl+K to toggle
+      if (e.key === '?' && !e.ctrlKey && !e.metaKey) {
+        e.preventDefault();
+        togglePalette();
+        return;
+      }
+      if ((e.ctrlKey || e.metaKey) && e.key === 'k') {
+        e.preventDefault();
+        togglePalette();
+        return;
+      }
+      // Esc to close
+      if (e.key === 'Escape') {
+        closePalette();
+        return;
+      }
+      // Shortcuts when palette is not open (global keys)
+      if (palette.style.display === 'none') {
+        const key = e.key.toUpperCase();
+        if (key === 'T' && !e.ctrlKey && !e.metaKey && !e.target.closest('input,textarea,button')) {
+          // Toggle theme
+          const themeBtn = document.getElementById('theme-toggle');
+          if (themeBtn) themeBtn.click();
+          e.preventDefault();
+        }
+        if (key === 'S' && !e.ctrlKey && !e.metaKey && !e.target.closest('input,textarea,button')) {
+          // Sync now
+          const syncBtn = document.getElementById('countdown-btn');
+          if (syncBtn) syncBtn.click();
+          e.preventDefault();
+        }
+        if (key === 'Q' && !e.ctrlKey && !e.metaKey && !e.target.closest('input,textarea,button')) {
+          // Read quote
+          const quoteBtn = document.getElementById('quote-speaker-btn');
+          if (quoteBtn) quoteBtn.click();
+          e.preventDefault();
+        }
+        if (key === 'M' && !e.ctrlKey && !e.metaKey && !e.target.closest('input,textarea,button')) {
+          // Toggle hum
+          const humBtn = document.getElementById('hum-btn');
+          if (humBtn) humBtn.click();
+          e.preventDefault();
+        }
+        if (key === 'V' && !e.ctrlKey && !e.metaKey && !e.target.closest('input,textarea,button')) {
+          // Toggle voice alerts
+          const voiceCheckbox = document.getElementById('voice-toggle-input');
+          if (voiceCheckbox) { voiceCheckbox.checked = !voiceCheckbox.checked; voiceCheckbox.dispatchEvent(new Event('change')); }
+          e.preventDefault();
+        }
+        if (key === 'P' && !e.ctrlKey && !e.metaKey && !e.target.closest('input,textarea,button')) {
+          // Screenshot
+          const ssBtn = document.getElementById('screenshot-btn');
+          if (ssBtn) ssBtn.click();
+          e.preventDefault();
+        }
+      }
+    });
+
+    // Click outside to close
+    palette.addEventListener('click', function(e) {
+      if (e.target === palette) closePalette();
+    });
+  }
   // ── Starbug (NAS) Status Panel ────────────────────────────────
   function renderStarbug(data) {
     const panel = $('panel-starbug');
@@ -2117,6 +2369,13 @@
   renderLaundryMountain();
   setupAiStatusTicker();
   setupMaintenanceSchedule();
+
+  // ── June 23 inits ──────────────────────────────────────────
+  setupQuoteSpeaker();
+  setupScreenshotExporter();
+  setupVoiceAlerts();
+  setupCommandPalette();
+  renderAlarmHistory();
 
   // Timers at different cadences
   setInterval(renderDeckPerMinute, 30000);  // every 30s
@@ -2388,6 +2647,7 @@
       renderShipStatusIndicator(data);
       renderYesterdayComparison(data);
       renderMealSuggestion(data);
+      renderAlarmHistory();
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults

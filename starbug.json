@@ -1,6 +1,6 @@
 {
   "status": "online",
-  "timestamp": "2026-06-21T10:28:12.000386+00:00",
+  "timestamp": "2026-06-23T22:05:06.706929+00:00",
   "docker": {
     "version": "28.1.1",
     "containers": {
@@ -20,7 +20,7 @@
     {
       "name": "metrolinkmap-map-1",
       "state": "running",
-      "status": "Up 8 weeks (unhealthy)",
+      "status": "Up 2 months (unhealthy)",
       "image": "ghcr.io/maskerade/tfgmmetrolinkmap:latest"
     },
     {
@@ -116,7 +116,7 @@
     {
       "name": "tfgmtramtimes",
       "state": "exited",
-      "status": "Exited (255) 3 months ago",
+      "status": "Exited (255) 4 months ago",
       "image": "ghcr.io/maskerade/metrolink-times:latest"
     },
     {

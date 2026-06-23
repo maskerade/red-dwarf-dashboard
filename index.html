@@ -313,6 +313,7 @@
       <h2 class="panel-title">&gt; CREW QUOTE</h2>
       <div class="quote-content" id="quote-content">
         <span class="quote-text" id="quote-text">Loading...</span>
+        <button class="quote-speaker-btn" id="quote-speaker-btn" title="Read quote aloud">🔊</button>
       </div>
     </section>
 
@@ -646,6 +647,14 @@
                           </div>
                         </div>
 
+                        <!-- 28. Rimmer's Threshold Alarm History Log (#3, June 23) -->
+                        <div class="deck-item deck-alarm-log">
+                          <span class="deck-label">RIMMER'S ALARM LOG</span>
+                          <div class="alarm-log-scroll" id="alarm-log-scroll">
+                            <div class="alarm-log-entry">[SYSTEM] Alarm log initialised</div>
+                          </div>
+                        </div>
+
               </div>
     </section>
 
@@ -662,12 +671,36 @@
         <span class="countdown-text" id="countdown-text">NEXT REFRESH IN 5:00</span>
         <button class="countdown-btn" id="countdown-btn">⟳ SYNC NOW</button>
         <button class="hum-btn" id="hum-btn" title="Toggle ambient engine hum">🔊</button>
+        <button class="screenshot-btn" id="screenshot-btn" title="📸 Download dashboard screenshot">📸</button>
+        <label class="voice-toggle-wrap" id="voice-toggle-wrap" title="Weather voice alerts" style="display:none;">
+          <span class="voice-toggle-label">🗣</span>
+          <input type="checkbox" class="voice-toggle-input" id="voice-toggle-input">
+          <span class="voice-toggle-slider"></span>
+        </label>
       </div>
     </footer>
 
   </div>
 
   <!-- Crew Report Modal -->
+  <div class="modal-overlay" id="crew-report-modal" style="display:none;">
+
+  <!-- Command Palette (#2, Holly) -->
+  <div class="command-palette" id="command-palette" style="display:none;">
+    <div class="command-palette-inner">
+      <h3 class="command-palette-title">&gt; COMMAND PALETTE</h3>
+      <div class="command-palette-grid">
+        <div class="command-item"><span class="command-key">?</span><span class="command-desc">Toggle this palette</span></div>
+        <div class="command-item"><span class="command-key">T</span><span class="command-desc">Toggle light/dark theme</span></div>
+        <div class="command-item"><span class="command-key">S</span><span class="command-desc">Sync data now</span></div>
+        <div class="command-item"><span class="command-key">Q</span><span class="command-desc">Read quote aloud</span></div>
+        <div class="command-item"><span class="command-key">M</span><span class="command-desc">Mute engine hum</span></div>
+        <div class="command-item"><span class="command-key">V</span><span class="command-desc">Toggle voice alerts</span></div>
+        <div class="command-item"><span class="command-key">Esc</span><span class="command-desc">Close palette / modals</span></div>
+        <div class="command-item"><span class="command-key">P</span><span class="command-desc">Screenshot download</span></div>
+      </div>
+    </div>
+  </div>
   <div class="modal-overlay" id="crew-report-modal" style="display:none;">
     <div class="modal-panel">
       <div class="panel-corner tl"></div>
