@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-23T10:16:58.636905+00:00",
+  "timestamp": "2026-06-23T10:48:05.050677+00:00",
   "house": {
-    "indoor_temp": 24.5,
+    "indoor_temp": 24.6,
     "indoor_humidity": 58.0,
     "outdoor_temp": 27.0,
-    "outdoor_humidity": 67.0,
-    "wind_speed": 0.0,
-    "wind_direction": 276.0,
-    "pressure": 1021.6,
+    "outdoor_humidity": 68.0,
+    "wind_speed": 1.1,
+    "wind_direction": 261.0,
+    "pressure": 1021.3,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 337.0,
+    "uv_index": 0.0,
+    "power_usage": 286.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "Blast from the past as GIMP 0.54 is revived in Flatpak form",
     "Brits still reckon Big Tech isn't paying enough tax",
     "Datacenters dip a toe back into waterborne computing despite obvious challenges",
-    "Digital indigestion: Fizzy Coca-Cola display chokes on full storage",
-    "Five Eyes spooks warn AI means infosec incidents can become ‘major operational and financial crises’"
+    "Digital indigestion: Fizzy Coca-Cola display chokes on full storage"
   ],
-  "crew_quote": "\"With this sun shining, I reckon we'd break the internet if we added a few curry recipes to the dataservers instead of just their taxes!\""
+  "crew_quote": "\"With the sun shining at 25 degrees, it’s the perfect day for a curry in the holoship—unless Rimmer decides to make it a ‘sophisticated’ affair, of course!\""
 }
