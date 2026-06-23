@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-23T21:08:09.708263+00:00",
+  "timestamp": "2026-06-23T21:39:10.484154+00:00",
   "house": {
-    "indoor_temp": 25.1,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 23.5,
-    "outdoor_humidity": 82.0,
+    "indoor_temp": 25.2,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 23.0,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
     "wind_direction": 124.0,
-    "pressure": 1020.1,
+    "pressure": 1020.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 581.0,
+    "power_usage": 418.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "OpenAI Codex bombards SSDs with needless write operations, costing millions",
+    "Anthropic reimagines Claude in Slack as nosy, always-on agentic AI coworker",
     "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
-    "Space Force goes to (pretend) orbital war following record-fast Rocket Lab launch",
-    "O2 joins UK 2G switch-off with summer 2029 start date",
-    "Valve opens Steam Machine pre-orders with queue lottery and hefty prices amid AI squeeze"
+    "Space Force goes to (pretend) orbital war following record-fast Rocket Lab launch"
   ],
-  "crew_quote": "\"They're off pretending to have a war while I'm sweating like a curry on a hot day! It's 25 degrees in here, and that’s without the heat from my brain!\""
+  "crew_quote": "\"With this lovely 25°C weather, I could really go for a curry, but knowing my luck, it’d end up misty like Llandudno and ruin my appetite!\""
 }
