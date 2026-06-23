@@ -1,40 +1,23 @@
 {
-  "timestamp": "2026-06-23T01:29:48.312256+00:00",
+  "timestamp": "2026-06-23T02:01:08.861453+00:00",
   "house": {
-    "indoor_temp": 24.4,
+    "indoor_temp": 24.3,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 18.8,
-    "outdoor_humidity": 78.0,
+    "outdoor_temp": 18.4,
+    "outdoor_humidity": 80.0,
     "wind_speed": 0.0,
     "wind_direction": 281.0,
-    "pressure": 1024.8,
+    "pressure": 1024.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 247.0,
+    "power_usage": 221.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Patchy rain nearby",
-      "forecast": [
-        {
-          "date": "2026-06-23",
-          "max": 30.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-06-24",
-          "max": 31.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-06-25",
-          "max": 32.0,
-          "min": 18.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
       "temp": 18.0,
@@ -80,12 +63,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:41 AM",
-    "sunset": "09:42 PM",
+    "sunrise": "04:42 AM",
+    "sunset": "09:36 PM",
     "moon_phase": "Waxing Gibbous",
     "moon_illumination": "61",
-    "moonrise": "03:24 PM",
-    "moonset": "01:03 AM"
+    "moonrise": "03:20 PM",
+    "moonset": "01:01 AM"
   },
   "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
   "headlines": [
@@ -94,5 +77,5 @@
     "Texas lassoes massive Microsoft datacenter - and 20 years of gas turbine emissions",
     "Cloudflare teams up with big browsers to help websites tell welcome from unwelcome visitors"
   ],
-  "crew_quote": "\"How can I be expected to work in this humidity? I mean, it’s like living inside a curry pot with patchy rain on the side!\""
+  "crew_quote": "\"With this weather and humidity, I reckon my curry's gonna stick to my ribs like a clingy ex! Better make it a good one — I can't compete with that misty glamour of Llandudno!\""
 }
