@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-23T08:43:55.832624+00:00",
+  "timestamp": "2026-06-23T09:14:54.791943+00:00",
   "house": {
     "indoor_temp": 24.3,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 26.2,
+    "outdoor_temp": 25.8,
     "outdoor_humidity": 68.0,
     "wind_speed": 0.0,
-    "wind_direction": 271.0,
-    "pressure": 1022.4,
+    "wind_direction": 357.0,
+    "pressure": 1022.2,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 331.0,
+    "uv_index": 0.0,
+    "power_usage": 340.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "India and China are home to 2.9 billion people – and together they bought just 13 million PCs in Q1",
     "Sniff out stale AI override advice with this open source CLI"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! I thought we were on a spaceship, not a giant oven!\""
+  "crew_quote": "\"With the sun shining like it’s on a permanent holiday, I’d say it’s the perfect day for a curry and a lager, not that I’d want to share my lager with a fizzy display!\""
 }
