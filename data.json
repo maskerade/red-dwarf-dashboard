@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-23T03:33:49.205866+00:00",
+  "timestamp": "2026-06-23T04:04:50.074302+00:00",
   "house": {
-    "indoor_temp": 24.3,
+    "indoor_temp": 24.2,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 17.5,
-    "outdoor_humidity": 83.0,
+    "outdoor_temp": 17.2,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
     "wind_direction": 281.0,
-    "pressure": 1023.6,
+    "pressure": 1023.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 221.0,
+    "power_usage": 210.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Mist",
+      "temp": 18.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-06-23",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-23",
@@ -94,5 +94,5 @@
     "Texas lassoes massive Microsoft datacenter - and 20 years of gas turbine emissions",
     "Cloudflare teams up with big browsers to help websites tell welcome from unwelcome visitors"
   ],
-  "crew_quote": "\" blimey, it's like being wrapped in a warm curry — just without the lovely smell! Who needs a weather forecast when you've got this misty brilliance, eh?\""
+  "crew_quote": "\"With the indoor temp hitting 24.2°C, it's hotter than my curry last week—I'd suggest we open a window, but I might get mistaken for a misty Llandudno!\""
 }
