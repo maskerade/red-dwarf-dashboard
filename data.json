@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T14:11:25.838303+00:00",
+  "timestamp": "2026-06-24T14:42:27.695763+00:00",
   "house": {
     "indoor_temp": 25.9,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 28.3,
-    "outdoor_humidity": 63.0,
+    "outdoor_temp": 28.6,
+    "outdoor_humidity": 62.0,
     "wind_speed": 0.0,
-    "wind_direction": 120.0,
-    "pressure": 1021.8,
+    "wind_direction": 104.0,
+    "pressure": 1022.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 227.0,
+    "power_usage": 199.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Database vendors pitch themselves as the cure for runaway AI costs",
     "Alpine Linux 3.24 scales new desktop heights with COSMIC"
   ],
-  "crew_quote": "\"Blimey, it's so hot out there I could fry a curry and still have enough heat left over to cook a toastie in here!\""
+  "crew_quote": "\"Blimey, it's hot enough to fry an egg on your forehead! I could really do with a curry for lunch, but at this rate, it'll just end up as an explosive little volcano!\""
 }
