@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-24T01:16:13.458245+00:00",
+  "timestamp": "2026-06-24T01:47:14.079023+00:00",
   "house": {
-    "indoor_temp": 25.4,
+    "indoor_temp": 25.3,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 19.3,
-    "outdoor_humidity": 92.0,
+    "outdoor_temp": 19.0,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
-    "wind_direction": 128.0,
-    "pressure": 1020.8,
+    "wind_direction": 108.0,
+    "pressure": 1021.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 207.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
-      "conditions": "Partly cloudy",
+      "temp": 19.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-06-24",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
+      "temp": 22.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 17.0,
-      "conditions": "Fog",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-06-24",
@@ -94,5 +94,5 @@
     "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
     "Space Force goes to (pretend) orbital war following record-fast Rocket Lab launch"
   ],
-  "crew_quote": "\"With the weather like this, why’s the ship stifling at 25.4°C? It’s like being trapped in a curry house during a heatwave—let’s get some ventilation, or I’ll start sweating just thinking about it!\""
+  "crew_quote": "\"With this lovely 19 degrees in Altrincham, I could whip up a curry so good even the fog in Llandudno would clear just to have a taste!\""
 }
