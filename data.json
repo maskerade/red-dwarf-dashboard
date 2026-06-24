@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T05:24:17.479193+00:00",
+  "timestamp": "2026-06-24T05:55:18.000194+00:00",
   "house": {
     "indoor_temp": 25.1,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 18.5,
-    "outdoor_humidity": 98.0,
+    "outdoor_temp": 23.5,
+    "outdoor_humidity": 80.0,
     "wind_speed": 0.0,
     "wind_direction": 104.0,
     "pressure": 1021.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 230.0,
+    "power_usage": 193.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Anthropic reimagines Claude in Slack as nosy, always-on agentic AI coworker",
     "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era"
   ],
-  "crew_quote": "\"Well, if it's all sunny in Overseal, I guess I’ll just have to take a curry out there and brighten up the place! I'm pretty sure the fog in Llandudno is just jealous.\""
+  "crew_quote": "\"Blimey, even the computer’s got more power than my love life, and it’s only 25 degrees in here! At least the weather's not as foggy as my future.\""
 }
