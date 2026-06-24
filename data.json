@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T18:50:31.125736+00:00",
+  "timestamp": "2026-06-24T19:21:31.689590+00:00",
   "house": {
     "indoor_temp": 26.0,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 26.7,
-    "outdoor_humidity": 64.0,
+    "outdoor_temp": 26.0,
+    "outdoor_humidity": 66.0,
     "wind_speed": 0.0,
-    "wind_direction": 103.0,
-    "pressure": 1022.3,
+    "wind_direction": 97.0,
+    "pressure": 1022.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 421.0,
+    "power_usage": 449.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Boffin claims Microsoft's supposed quantum leap does not compute due to 'basic Python errors'",
     "Medical diagnosis AIs can be tricked into telling whose data trained them"
   ],
-  "crew_quote": "\"Blimey, with it being 31 degrees out there, I might as well marinate myself in a curry and see if I can out-sweat the sun!\""
+  "crew_quote": "\"Oi, anyone fancy a curry in this heat? It’s hotter than my aftershave on a sunny day in Overseal!\""
 }
