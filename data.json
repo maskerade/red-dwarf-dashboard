@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-24T04:22:16.209541+00:00",
+  "timestamp": "2026-06-24T04:53:17.646303+00:00",
   "house": {
-    "indoor_temp": 25.2,
+    "indoor_temp": 25.1,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 17.7,
+    "outdoor_temp": 17.9,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 104.0,
-    "pressure": 1021.3,
+    "wind_direction": 105.0,
+    "pressure": 1021.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 207.0,
+    "power_usage": 196.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Clear ",
+      "temp": 17.0,
+      "conditions": "Haze",
       "forecast": [
         {
           "date": "2026-06-24",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 21.0,
-      "conditions": "Clear ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-24",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Fog",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "Chinese supercomputer using local processors heads TOP500 list",
     "OpenAI Codex bombards SSDs with needless write operations, costing millions",
     "Anthropic reimagines Claude in Slack as nosy, always-on agentic AI coworker",
-    "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
-    "Space Force goes to (pretend) orbital war following record-fast Rocket Lab launch"
+    "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era"
   ],
-  "crew_quote": "\"Clear skies everywhere, but inside, we're roasting like a bad curry—I'm starting to think the ship's thermostat is trying to fry us for dinner!\""
+  "crew_quote": "\"At 25.1°C, it's like one of my curry nights in here, but without the flavor! And what's with the fog in Llandudno? Glad I’m not home snoozing in that!\""
 }
