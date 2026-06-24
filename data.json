@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T16:46:31.546616+00:00",
+  "timestamp": "2026-06-24T17:17:30.436717+00:00",
   "house": {
     "indoor_temp": 25.9,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 29.8,
-    "outdoor_humidity": 54.0,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 29.7,
+    "outdoor_humidity": 56.0,
     "wind_speed": 0.0,
-    "wind_direction": 106.0,
-    "pressure": 1022.2,
+    "wind_direction": 95.0,
+    "pressure": 1022.0,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 205.0,
+    "uv_index": 1.0,
+    "power_usage": 458.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -22,17 +22,17 @@
         {
           "date": "2026-06-24",
           "max": 29.0,
-          "min": 17.0
+          "min": 16.0
         },
         {
           "date": "2026-06-25",
-          "max": 32.0,
+          "max": 30.0,
           "min": 18.0
         },
         {
           "date": "2026-06-26",
-          "max": 33.0,
-          "min": 19.0
+          "max": 32.0,
+          "min": 18.0
         }
       ]
     },
@@ -80,7 +80,7 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:40 AM",
+    "sunrise": "04:41 AM",
     "sunset": "09:42 PM",
     "moon_phase": "Waxing Gibbous",
     "moon_illumination": "70",
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "Windows 11 turns five, leaving some important lessons for Microsoft",
     "Deno project is going to add cross-platform desktop apps in next major update",
     "Boffin claims Microsoft's supposed quantum leap does not compute due to 'basic Python errors'",
-    "Medical diagnosis AIs can be tricked into telling whose data trained them",
-    "British Home Office seeks techie to herd nearly 1,000 engineers looking after 600 systems"
+    "Medical diagnosis AIs can be tricked into telling whose data trained them"
   ],
-  "crew_quote": "\"Sod the weather, mate! At this heat, I'm gonna whip up a curry so spicy it'll make those computer geniuses at Deno wish they’d stuck to their basic Python!\""
+  "crew_quote": "\"Blimey, with it being 29 degrees out, I could fancy a curry so spicy it knocks my socks off — if only the power usage didn't make it feel like a sauna in here!\""
 }
