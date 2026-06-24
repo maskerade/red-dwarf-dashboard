@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T11:05:23.144270+00:00",
+  "timestamp": "2026-06-24T11:36:24.678977+00:00",
   "house": {
-    "indoor_temp": 25.7,
+    "indoor_temp": 25.8,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 26.6,
-    "outdoor_humidity": 70.0,
+    "outdoor_temp": 26.7,
+    "outdoor_humidity": 71.0,
     "wind_speed": 0.0,
-    "wind_direction": 88.0,
-    "pressure": 1021.9,
+    "wind_direction": 93.0,
+    "pressure": 1021.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 278.0,
+    "power_usage": 241.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "04:40 PM",
     "moonset": "01:13 AM"
   },
-  "metrolink": "Due to a points fault at Timperley there are no services operating between Old Trafford and Altrincham. Tickets can be used on local Bee Network buse (See website for the full list of bus numbers)",
+  "metrolink": "Due to an earlier points fault we are currently experiencing minor delays to services on the Altrincham Line. Metrolink apologises for any inconveniece caused.",
   "headlines": [
     "Database vendors pitch themselves as the cure for runaway AI costs",
     "Alpine Linux 3.24 scales new desktop heights with COSMIC",
     "Ordering a trip back to 2009, with a side of nostalgia",
     "Explainer: Why your legacy storage is choking your expensive GPU"
   ],
-  "crew_quote": "\"Blimey, with temperatures hitting 28°C, I could really go for a curry right now — as long as it's not too spicy, or I'll be sweating more than I am already!\""
+  "crew_quote": "\"Blimey, it’s hotter than a curry in a sauna! If it gets any warmer, I might just have to start fanning myself with a copy of that Alpine Linux blurb!\""
 }
