@@ -1830,6 +1830,106 @@ body::after {
   to { opacity: 1; }
 }
 
+/* === Efficiency Grade (#2, Rimmer, June 24) === */
+.efficiency-grade {
+  display: inline-block;
+  margin-left: 10px;
+  padding: 2px 10px;
+  font-size: 0.6rem;
+  letter-spacing: 0.12em;
+  font-family: var(--font-mono-alt);
+  font-weight: bold;
+  border: 1px solid var(--amber-dim);
+  border-radius: 3px;
+  background: rgba(255, 176, 0, 0.06);
+  color: var(--amber);
+  transition: color 0.3s, border-color 0.3s, background 0.3s;
+}
+.efficiency-grade.grade-a { color: var(--green); border-color: var(--green-dim); background: rgba(0, 255, 136, 0.06); }
+.efficiency-grade.grade-b { color: var(--cyan); border-color: var(--cyan-dim); background: rgba(0, 204, 255, 0.06); }
+.efficiency-grade.grade-c { color: var(--amber); border-color: var(--amber-dim); background: rgba(255, 176, 0, 0.06); }
+.efficiency-grade.grade-d { color: var(--red); border-color: var(--red-dim); background: rgba(255, 51, 68, 0.06); }
+.efficiency-grade.grade-f { color: var(--red); border-color: var(--red); background: rgba(255, 51, 68, 0.1); animation: grade-f-pulse 1s infinite; }
+@keyframes grade-f-pulse {
+  0%, 100% { box-shadow: 0 0 4px var(--red-glow); }
+  50% { box-shadow: 0 0 10px var(--red-glow); }
+}
+
+/* === Glance-Strip Accessory (#3, Cat, June 24) === */
+.glance-accessory { margin-left: auto; }
+
+/* === Temperature Spread (#4, Lister, June 24) === */
+.temp-spread {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 6px;
+  padding: 4px 10px;
+  background: rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(255, 176, 0, 0.05);
+  border-radius: 4px;
+  font-size: 0.6rem;
+}
+.temp-spread-label {
+  color: var(--text-dim);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  flex-shrink: 0;
+}
+.temp-spread-values { color: var(--text-main); }
+
+/* === Footer Health Bar (#1, Kryten, June 24) === */
+.health-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+  width: 100%;
+}
+.health-bar-label {
+  font-size: 0.55rem;
+  color: var(--text-dim);
+  letter-spacing: 0.08em;
+  flex-shrink: 0;
+}
+.health-bar-wrap {
+  flex: 1;
+  height: 4px;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.health-bar-fill {
+  height: 100%;
+  width: 100%;
+  border-radius: 2px;
+  transition: width 0.5s ease, background 0.5s ease;
+  background: var(--green);
+}
+.health-bar-fill.health-amber { background: linear-gradient(90deg, var(--amber), var(--red-dim)); }
+.health-bar-fill.health-red { background: var(--red); animation: health-pulse 1s infinite; }
+@keyframes health-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+.health-bar-pct {
+  font-size: 0.55rem;
+  color: var(--green);
+  min-width: 28px;
+  text-align: right;
+  font-family: var(--font-mono-alt);
+}
+.health-bar-pct.pct-amber { color: var(--amber); }
+.health-bar-pct.pct-red { color: var(--red); }
+
+/* === Mission Elapsed Timer (#5, Holly, June 24) === */
+.mission-day {
+  font-size: 0.6rem;
+  letter-spacing: 0.15em;
+  color: var(--cyan);
+  font-family: var(--font-mono-alt);
+}
+
 /* Responsive updates */
 @media (max-width: 900px) {
   .deck-grid { grid-template-columns: 1fr 1fr; }

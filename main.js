@@ -2214,6 +2214,194 @@
     window.speechSynthesis.speak(utterance);
   }
 
+  // ── Footer System Health Bar (#1, Kryten, June 24) ─────────────
+  function renderHealthBar(data) {
+    const fill = $('health-bar-fill');
+    const pct = $('health-bar-pct');
+    if (!fill || !pct) return;
+
+    let totalSources = 0;
+    let freshSources = 0;
+
+    const house = data.house || {};
+    const haKeys = ['indoor_temp', 'indoor_humidity', 'outdoor_temp', 'outdoor_humidity', 'pressure', 'rain_today', 'uv_index', 'power_usage', 'gas_consumption', 'wind_speed', 'wind_direction', 'heating_active'];
+    let haOk = 0;
+    for (const k of haKeys) {
+      if (house[k] !== null && house[k] !== undefined) haOk++;
+    }
+    totalSources++;
+    if (haOk >= 8) freshSources++;
+
+    const locs = data.locations || {};
+    const weatherCount = Object.keys(locs).length;
+    totalSources++;
+    const weatherOk = Object.values(locs).some(l => l.temp !== null && l.temp !== undefined);
+    if (weatherOk) freshSources++;
+
+    const headlines = data.headlines || [];
+    totalSources++;
+    if (headlines.length > 0) freshSources++;
+
+    totalSources++;
+    if (data.crew_quote) freshSources++;
+
+    totalSources++;
+    if (data.starbug && data.starbug.status === 'online') freshSources++;
+    else if (data.starbug) totalSources--; // don't penalise if starbug hasn't been collected yet
+
+    const healthPct = Math.round((freshSources / Math.max(1, totalSources)) * 100);
+    fill.style.width = healthPct + '%';
+    pct.textContent = healthPct + '%';
+
+    fill.classList.remove('health-amber', 'health-red');
+    pct.classList.remove('pct-amber', 'pct-red');
+
+    if (healthPct >= 80) {
+      fill.style.background = 'var(--green)';
+      pct.style.color = '';
+    } else if (healthPct >= 50) {
+      fill.classList.add('health-amber');
+      pct.classList.add('pct-amber');
+    } else {
+      fill.classList.add('health-red');
+      pct.classList.add('pct-red');
+    }
+  }
+
+  // ── Ship-wide Efficiency Grade (#2, Rimmer, June 24) ───────────
+  function renderEfficiencyGrade(data) {
+    const el = $('efficiency-grade');
+    if (!el) return;
+
+    const house = data.house || {};
+    const power = Number(house.power_usage) || 0;
+    const gas = Number(house.gas_consumption) || 0;
+    const temp = Number(house.indoor_temp) || 0;
+    const humidity = Number(house.indoor_humidity) || 0;
+
+    let score = 100;
+
+    // Power: less than 200 is ideal, over 400 is bad
+    if (power > 400) score -= 20;
+    else if (power > 300) score -= 10;
+    else if (power > 200) score -= 5;
+    else score += 5;
+
+    // Gas: less than 80 is ideal
+    if (gas > 120) score -= 15;
+    else if (gas > 100) score -= 8;
+    else score += 5;
+
+    // Indoor temp: 20-24°C is ideal
+    if (temp < 15 || temp > 30) score -= 20;
+    else if (temp < 18 || temp > 26) score -= 10;
+    else if (temp >= 20 && temp <= 24) score += 5;
+
+    // Humidity: 40-60% is ideal
+    if (humidity > 80) score -= 15;
+    else if (humidity > 70 || humidity < 30) score -= 8;
+    else if (humidity >= 40 && humidity <= 60) score += 5;
+
+    // Clamp
+    score = Math.max(0, Math.min(100, score));
+
+    let grade, cls;
+    if (score >= 90) { grade = 'A+'; cls = 'grade-a'; }
+    else if (score >= 80) { grade = 'A'; cls = 'grade-a'; }
+    else if (score >= 70) { grade = 'B+'; cls = 'grade-b'; }
+    else if (score >= 60) { grade = 'B'; cls = 'grade-b'; }
+    else if (score >= 50) { grade = 'C+'; cls = 'grade-c'; }
+    else if (score >= 40) { grade = 'C'; cls = 'grade-c'; }
+    else if (score >= 30) { grade = 'D'; cls = 'grade-d'; }
+    else { grade = 'F'; cls = 'grade-f'; }
+
+    el.textContent = 'GRADE: ' + grade;
+    el.className = 'efficiency-grade ' + cls;
+  }
+
+  // ── Glance-Strip Accessory Suggestion (#3, Cat, June 24) ───────
+  function renderAccessorySuggestion(data) {
+    const wrap = $('glance-accessory');
+    const icon = $('accessory-icon');
+    const label = $('accessory-label');
+    if (!wrap || !icon || !label) return;
+
+    const locs = data.locations || {};
+    let bestLoc = null;
+    for (const info of Object.values(locs)) {
+      if (info.temp !== null && info.temp !== undefined) {
+        bestLoc = { temp: info.temp, conditions: info.conditions };
+        break;
+      }
+    }
+
+    if (!bestLoc) { wrap.style.display = 'none'; return; }
+
+    const temp = Number(bestLoc.temp);
+    const cond = (bestLoc.conditions || '').toLowerCase();
+
+    let accIcon, accLabel;
+    if (temp >= 25 || cond.includes('sunny') || cond.includes('clear')) {
+      accIcon = '🕶️'; accLabel = 'SUNGLASSES';
+    } else if (temp >= 20) {
+      accIcon = '🧢'; accLabel = 'CAP';
+    } else if (cond.includes('rain') || cond.includes('drizzle') || cond.includes('storm')) {
+      accIcon = '☂️'; accLabel = 'UMBRELLA';
+    } else if (temp >= 10) {
+      accIcon = '🧥'; accLabel = 'JACKET';
+    } else if (temp >= 4) {
+      accIcon = '🧣'; accLabel = 'SCARF';
+    } else {
+      accIcon = '🧤'; accLabel = 'GLOVES';
+    }
+
+    icon.textContent = accIcon;
+    label.textContent = accLabel;
+    wrap.style.display = '';
+  }
+
+  // ── Temperature Spread Widget (#4, Lister, June 24) ────────────
+  function renderTempSpread(data) {
+    const wrap = $('temp-spread');
+    const val = $('temp-spread-values');
+    if (!wrap || !val) return;
+
+    const locs = data.locations || {};
+    const entries = Object.entries(locs)
+      .map(([key, info]) => ({ name: key, temp: Number(info.temp) }))
+      .filter(e => !isNaN(e.temp));
+
+    if (entries.length < 2) { wrap.style.display = 'none'; return; }
+
+    entries.sort((a, b) => b.temp - a.temp);
+    const hottest = entries[0];
+    const coolest = entries[entries.length - 1];
+    const delta = (hottest.temp - coolest.temp).toFixed(1);
+
+    val.textContent = `↑ ${hottest.temp.toFixed(0)}°C ${hottest.name}  ↓ ${coolest.temp.toFixed(0)}°C ${coolest.name}  (Δ ${delta}°C)`;
+    wrap.style.display = '';
+  }
+
+  // ── Dashboard Mission Elapsed Timer (#5, Holly, June 24) ────────
+  function setupMissionTimer() {
+    const el = $('mission-day');
+    if (!el) return;
+
+    const LAUNCH_KEY = 'rdwd_mission_launch';
+    let launch = localStorage.getItem(LAUNCH_KEY);
+    if (!launch) {
+      launch = Date.now().toString();
+      localStorage.setItem(LAUNCH_KEY, launch);
+    }
+
+    const launchDate = new Date(parseInt(launch));
+    const now = new Date();
+    const dayDiff = Math.floor((now - launchDate) / 86400000) + 1;
+
+    const dayStr = String(dayDiff).padStart(3, '0');
+    el.textContent = `MISSION DAY ${dayStr}`;
+  }
+
   // ── Command Palette (#2, Holly, June 23) ───────────────────────
   function setupCommandPalette() {
     const palette = $('command-palette');
@@ -2376,6 +2564,9 @@
   setupVoiceAlerts();
   setupCommandPalette();
   renderAlarmHistory();
+
+  // ── June 24 inits ──────────────────────────────────────────
+  setupMissionTimer();
 
   // Timers at different cadences
   setInterval(renderDeckPerMinute, 30000);  // every 30s
@@ -2648,6 +2839,10 @@
       renderYesterdayComparison(data);
       renderMealSuggestion(data);
       renderAlarmHistory();
+      renderHealthBar(data);
+      renderEfficiencyGrade(data);
+      renderAccessorySuggestion(data);
+      renderTempSpread(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults

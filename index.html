@@ -25,6 +25,7 @@
           <span class="ship-status-dot" id="ship-status-dot">🟢</span>
           <span class="ship-status-text" id="ship-status-text">NOMINAL</span>
         </span>
+        <span class="efficiency-grade" id="efficiency-grade" title="Rimmer's Efficiency Grade">GRADE: A+</span>
       </div>
     </header>
 
@@ -55,10 +56,14 @@
         <span class="glance-icon">☀</span>
         <span class="glance-label" id="glance-sunset">Sunset in 8h 13m</span>
       </div>
-      <div class="glance-item glance-weather">
-        <span class="glance-icon" id="glance-weather-icon">☁</span>
-        <span class="glance-label" id="glance-weather-digest">Overcast, 16°C</span>
-      </div>
+      <span class="glance-item glance-weather">
+              <span class="glance-icon" id="glance-weather-icon">☁</span>
+              <span class="glance-label" id="glance-weather-digest">Overcast, 16°C</span>
+            </span>
+            <span class="glance-item glance-accessory" id="glance-accessory" style="display:none;">
+              <span class="glance-icon" id="accessory-icon">🕶️</span>
+              <span class="glance-label" id="accessory-label">SUNGLASSES</span>
+            </span>
     </div>
 
     <!-- Main grid -->
@@ -241,10 +246,15 @@
           </div>
         </div>
         <!-- 3-Day Forecast Strip (#2, Holly) -->
-        <div class="forecast-strip" id="forecast-strip">
-          <span class="forecast-label">FORECAST</span>
-          <div class="forecast-days" id="forecast-days"></div>
-        </div>
+                <div class="forecast-strip" id="forecast-strip">
+                  <span class="forecast-label">FORECAST</span>
+                  <span class="forecast-days" id="forecast-days"></span>
+                </div>
+                <!-- Temperature Spread (#4, Lister) -->
+                <div class="temp-spread" id="temp-spread" style="display:none;">
+                  <span class="temp-spread-label">TEMP SPREAD</span>
+                  <span class="temp-spread-values" id="temp-spread-values">Loading...</span>
+                </div>
       </section>
 
       <!-- Metrolink ticker -->
@@ -662,7 +672,15 @@
     <footer class="panel panel-footer">
       <div class="footer-row">
         <span>LAST UPDATED: <span id="footer-timestamp">--</span> <span id="freshness-badge" class="freshness-badge freshness-unknown"></span></span>
+        <span id="mission-day" class="mission-day">MISSION DAY 001</span>
         <span class="footer-smoke">RED DWARF MISSION CONTROL // NETHERRR</span>
+      </div>
+      <div class="footer-row health-row" id="health-row">
+        <span class="health-bar-label">DATA HEALTH</span>
+        <div class="health-bar-wrap">
+          <div class="health-bar-fill" id="health-bar-fill"></div>
+        </div>
+        <span class="health-bar-pct" id="health-bar-pct">100%</span>
       </div>
       <div class="countdown-area">
         <div class="countdown-bar-wrap" id="countdown-bar-wrap">
