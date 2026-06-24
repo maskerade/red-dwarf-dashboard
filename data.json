@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T13:09:25.546054+00:00",
+  "timestamp": "2026-06-24T13:40:24.898016+00:00",
   "house": {
     "indoor_temp": 26.0,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 29.4,
-    "outdoor_humidity": 59.0,
+    "outdoor_temp": 28.6,
+    "outdoor_humidity": 64.0,
     "wind_speed": 0.0,
-    "wind_direction": 104.0,
+    "wind_direction": 85.0,
     "pressure": 1021.8,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 233.0,
+    "uv_index": 0.0,
+    "power_usage": 202.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "04:40 PM",
     "moonset": "01:13 AM"
   },
-  "metrolink": "Due to an earlier points fault we are currently experiencing minor delays to services on the Altrincham Line. Metrolink apologises for any inconveniece caused.",
+  "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
     "London cops bring live facial recognition to West End",
     "Microsoft rivals line up to tell UK watchdog where the software behemoth hurt them",
     "Database vendors pitch themselves as the cure for runaway AI costs",
     "Alpine Linux 3.24 scales new desktop heights with COSMIC"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! I’d trade this indoor sauna for a nice pint on the sunny streets of Overseal any day.\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! I reckon we could cook curry in the control room, but then we’d have to find a way to cool down all this power usage!\""
 }
