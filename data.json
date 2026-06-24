@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T00:45:12.873615+00:00",
+  "timestamp": "2026-06-24T01:16:13.458245+00:00",
   "house": {
     "indoor_temp": 25.4,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 19.7,
-    "outdoor_humidity": 91.0,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 19.3,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
     "wind_direction": 128.0,
-    "pressure": 1020.6,
+    "pressure": 1020.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 250.0,
+    "power_usage": 272.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
     "Space Force goes to (pretend) orbital war following record-fast Rocket Lab launch"
   ],
-  "crew_quote": "\"Oi, it's a perfect day for a curry in Altrincham, mate! Just the right temp to sweat like a pig while I devour me own body weight in chips!\""
+  "crew_quote": "\"With the weather like this, why’s the ship stifling at 25.4°C? It’s like being trapped in a curry house during a heatwave—let’s get some ventilation, or I’ll start sweating just thinking about it!\""
 }
