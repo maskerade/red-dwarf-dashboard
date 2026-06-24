@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T00:14:12.378538+00:00",
+  "timestamp": "2026-06-24T00:45:12.873615+00:00",
   "house": {
     "indoor_temp": 25.4,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 20.4,
-    "outdoor_humidity": 89.0,
+    "outdoor_temp": 19.7,
+    "outdoor_humidity": 91.0,
     "wind_speed": 0.0,
     "wind_direction": 128.0,
     "pressure": 1020.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 281.0,
+    "power_usage": 250.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
     "Space Force goes to (pretend) orbital war following record-fast Rocket Lab launch"
   ],
-  "crew_quote": "\"Oi, I’d say it’s a nice day for a curry, but I reckon the fog in Llandudno might just steal the show. Who needs a view when you’ve got a good vindaloo, right?\""
+  "crew_quote": "\"Oi, it's a perfect day for a curry in Altrincham, mate! Just the right temp to sweat like a pig while I devour me own body weight in chips!\""
 }
