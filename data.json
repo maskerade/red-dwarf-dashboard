@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T12:38:22.794435+00:00",
+  "timestamp": "2026-06-24T13:09:25.546054+00:00",
   "house": {
-    "indoor_temp": 26.1,
+    "indoor_temp": 26.0,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 27.9,
-    "outdoor_humidity": 62.0,
+    "outdoor_temp": 29.4,
+    "outdoor_humidity": 59.0,
     "wind_speed": 0.0,
-    "wind_direction": 112.0,
-    "pressure": 1021.4,
+    "wind_direction": 104.0,
+    "pressure": 1021.8,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 205.0,
+    "uv_index": 1.0,
+    "power_usage": 233.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Database vendors pitch themselves as the cure for runaway AI costs",
     "Alpine Linux 3.24 scales new desktop heights with COSMIC"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a curry on a sunny day, and I'm still waiting for my rain dance to kick in. Anyone fancy a pint?\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! I’d trade this indoor sauna for a nice pint on the sunny streets of Overseal any day.\""
 }
