@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-06-24T22:58:33.957301+00:00",
+  "timestamp": "2026-06-24T23:29:33.989542+00:00",
   "house": {
     "indoor_temp": 26.1,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 20.8,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 20.5,
+    "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
     "wind_direction": 115.0,
     "pressure": 1022.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 379.0,
+    "power_usage": 334.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 21.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-06-24",
-          "max": 29.0,
-          "min": 16.0
-        },
         {
           "date": "2026-06-25",
           "max": 31.0,
@@ -33,18 +28,18 @@
           "date": "2026-06-26",
           "max": 33.0,
           "min": 19.0
+        },
+        {
+          "date": "2026-06-27",
+          "max": 29.0,
+          "min": 16.0
         }
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 22.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-06-24",
-          "max": 30.0,
-          "min": 18.0
-        },
         {
           "date": "2026-06-25",
           "max": 31.0,
@@ -54,18 +49,18 @@
           "date": "2026-06-26",
           "max": 32.0,
           "min": 18.0
+        },
+        {
+          "date": "2026-06-27",
+          "max": 29.0,
+          "min": 16.0
         }
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-06-24",
-          "max": 20.0,
-          "min": 15.0
-        },
         {
           "date": "2026-06-25",
           "max": 28.0,
@@ -75,17 +70,22 @@
           "date": "2026-06-26",
           "max": 24.0,
           "min": 14.0
+        },
+        {
+          "date": "2026-06-27",
+          "max": 22.0,
+          "min": 13.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "04:41 AM",
+    "sunrise": "04:42 AM",
     "sunset": "09:42 PM",
     "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "70",
-    "moonrise": "04:40 PM",
-    "moonset": "01:13 AM"
+    "moon_illumination": "79",
+    "moonrise": "05:57 PM",
+    "moonset": "01:26 AM"
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
@@ -94,5 +94,5 @@
     "Microsoft uses AI to link two malware operations in racketeering suit",
     "Windows 11 turns five, leaving some important lessons for Microsoft"
   ],
-  "crew_quote": "\"With the indoor temp at a tropical 26.1°C, I reckon I could fry an egg on my forehead, but I'd rather a curry, thank you very much!\""
+  "crew_quote": "\"Oi, with the weather being like this, I could really go for a cold curry and a pint—20 degrees is just right for a proper sweat without needing to turn on the fan!\""
 }
