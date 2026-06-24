@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T09:32:20.953260+00:00",
+  "timestamp": "2026-06-24T10:03:21.879010+00:00",
   "house": {
-    "indoor_temp": 25.3,
+    "indoor_temp": 25.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 25.2,
-    "outdoor_humidity": 77.0,
+    "outdoor_temp": 25.6,
+    "outdoor_humidity": 74.0,
     "wind_speed": 0.0,
-    "wind_direction": 97.0,
+    "wind_direction": 117.0,
     "pressure": 1022.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 325.0,
+    "power_usage": 281.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "Alpine Linux 3.24 scales new desktop heights with COSMIC",
     "Ordering a trip back to 2009, with a side of nostalgia",
     "Explainer: Why your legacy storage is choking your expensive GPU",
-    "Germany went off the rails as wireless outage saw all trains cancelled",
-    "You have got to be KDDI-ng – Japanese telco exposes 14.2 million managed email credentials"
+    "Germany went off the rails as wireless outage saw all trains cancelled"
   ],
-  "crew_quote": "\"With it being 25 degrees and sunny, I reckon a nice curry would go perfectly with a cheeky pint — just make sure the GPU doesn't choke on the nostalgia!\""
+  "crew_quote": "\"With temperatures soaring like my ego on a sunny day, I reckon it’s the perfect time for a curry — just need to make sure it doesn’t rain on my parade!\""
 }
