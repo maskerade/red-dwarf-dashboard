@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T03:20:15.559986+00:00",
+  "timestamp": "2026-06-24T03:51:15.709162+00:00",
   "house": {
     "indoor_temp": 25.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 17.9,
-    "outdoor_humidity": 97.0,
+    "outdoor_temp": 17.8,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 99.0,
-    "pressure": 1021.1,
+    "pressure": 1021.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 199.0,
+    "power_usage": 230.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
     "Space Force goes to (pretend) orbital war following record-fast Rocket Lab launch"
   ],
-  "crew_quote": "\"Well, with the indoor temp at 25.2°C, I reckon we'd need a curry cooler to handle the heat, especially with that fog outside making everything feel a bit dodgy!\""
+  "crew_quote": "\"With this weather, I could really go for a curry on the beach — not that it would matter much in foggy Llandudno! How do you even get a decent pint in this climate?\""
 }
