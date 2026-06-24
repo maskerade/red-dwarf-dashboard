@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-24T21:25:31.797077+00:00",
+  "timestamp": "2026-06-24T21:56:32.997452+00:00",
   "house": {
     "indoor_temp": 26.0,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 22.7,
-    "outdoor_humidity": 78.0,
+    "outdoor_temp": 21.8,
+    "outdoor_humidity": 82.0,
     "wind_speed": 0.0,
     "wind_direction": 115.0,
-    "pressure": 1022.2,
+    "pressure": 1022.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 913.0,
+    "power_usage": 441.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
-      "conditions": "Sunny",
+      "temp": 22.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-06-24",
@@ -26,19 +26,19 @@
         },
         {
           "date": "2026-06-25",
-          "max": 30.0,
-          "min": 18.0
+          "max": 31.0,
+          "min": 17.0
         },
         {
           "date": "2026-06-26",
-          "max": 32.0,
-          "min": 18.0
+          "max": 33.0,
+          "min": 19.0
         }
       ]
     },
     "overseal": {
-      "temp": 27.0,
-      "conditions": "Sunny",
+      "temp": 21.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-06-24",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-06-24",
@@ -69,7 +69,7 @@
         {
           "date": "2026-06-25",
           "max": 28.0,
-          "min": 15.0
+          "min": 16.0
         },
         {
           "date": "2026-06-26",
@@ -94,5 +94,5 @@
     "Microsoft uses AI to link two malware operations in racketeering suit",
     "Windows 11 turns five, leaving some important lessons for Microsoft"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! You'd think with all this power, we could at least crank up the air con instead of sweating like a bunch of lobsters!\""
+  "crew_quote": "\"Right, so we've got a nice 22 degrees out there, but in here it's hotter than a curry on the first day of summer! Who needs AI when we’ve got sweat, eh?\""
 }
