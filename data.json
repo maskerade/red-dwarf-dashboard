@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T08:30:20.128635+00:00",
+  "timestamp": "2026-06-24T09:01:28.745037+00:00",
   "house": {
     "indoor_temp": 25.2,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 26.9,
-    "outdoor_humidity": 71.0,
+    "outdoor_temp": 25.0,
+    "outdoor_humidity": 77.0,
     "wind_speed": 0.0,
-    "wind_direction": 83.0,
+    "wind_direction": 100.0,
     "pressure": 1022.0,
     "rain_today": 0.0,
-    "uv_index": 4.0,
-    "power_usage": 289.0,
+    "uv_index": 0.0,
+    "power_usage": 281.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Germany went off the rails as wireless outage saw all trains cancelled",
     "You have got to be KDDI-ng – Japanese telco exposes 14.2 million managed email credentials"
   ],
-  "crew_quote": "\"Ah, the weather's nice and sunny! Perfect for a curry picnic... though I suppose I'd better keep an eye on that patchy rain in Llandudno, just in case!\""
+  "crew_quote": "\"Sunny weather and everyone's reminiscing about 2009? Brilliant! I wouldn't mind a curry and a good old-fashioned trip to the past, just like a proper holiday!\""
 }
