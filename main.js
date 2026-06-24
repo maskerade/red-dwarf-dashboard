@@ -330,6 +330,19 @@
     'JUST NEEDS A GOOD WAX',
   ];
 
+  const HOLOGRAM_REASONS = [
+    'EXCEEDED BY 847%',
+    'LISTER\'S CURRY EXPENSES',
+    'CAT\'S HAIR PRODUCTS',
+    'KRYTEN\'S POLISH ALLOWANCE',
+    'HOLOGRAPHIC UPGRADE PACKAGE',
+    'DOPPELGANGER INSURANCE',
+    'ACE RIMMER ROYALTIES',
+    'PERSONALITY CHIP MAINTENANCE',
+    'BUDGETED FOR A HAT',
+    'BLUE MIDNIGHT OVERTIME',
+  ];
+
   const EPISODES = [
     { title: 'The End', series: 'S1E1' },
     { title: 'Future Echoes', series: 'S1E2' },
@@ -437,6 +450,17 @@
       const val = spike ? base + Math.random() * 0.5 : base;
       radEl.textContent = val.toFixed(2);
       radEl.className = 'deck-value' + (spike ? ' spike' : '');
+    }
+
+    // 7b. Hologram Budget Tracker (Rimmer)
+    const budgetEl = $('hologram-budget');
+    const budgetReasonEl = $('hologram-budget-reason');
+    if (budgetEl) {
+      const budget = 12000 + Math.floor(Math.random() * 75001);
+      budgetEl.textContent = budget.toLocaleString();
+    }
+    if (budgetReasonEl) {
+      budgetReasonEl.textContent = HOLOGRAM_REASONS[Math.floor(Math.random() * HOLOGRAM_REASONS.length)];
     }
 
     // 10. Ship's Log — new entry

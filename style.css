@@ -855,6 +855,7 @@ body::after {
 .deck-cat .deck-value { color: var(--amber); text-shadow: 0 0 12px rgba(255, 176, 0, 0.3); }
 .deck-cleaning .deck-label { color: var(--cyan-dim); }
 .deck-starbug .deck-value { color: var(--green); }
+.deck-hologram-budget .deck-value { color: var(--red); text-shadow: 0 0 8px rgba(255, 51, 68, 0.2); }
 .deck-radiation .deck-value { color: var(--green); }
 .deck-radiation .deck-value.spike { color: var(--red); animation: spike-pulse 0.3s ease-out; }
 .deck-episode .deck-value-sm { color: var(--cyan); }
