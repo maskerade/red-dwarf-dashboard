@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-24T20:23:31.390890+00:00",
+  "timestamp": "2026-06-24T20:54:31.916172+00:00",
   "house": {
     "indoor_temp": 25.9,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 24.2,
-    "outdoor_humidity": 72.0,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 23.5,
+    "outdoor_humidity": 75.0,
     "wind_speed": 0.0,
-    "wind_direction": 117.0,
+    "wind_direction": 115.0,
     "pressure": 1022.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 3133.0,
+    "power_usage": 500.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Microsoft uses AI to link two malware operations in racketeering suit",
     "Windows 11 turns five, leaving some important lessons for Microsoft"
   ],
-  "crew_quote": "\"I tell you, with this sunny weather, it's a perfect day for a curry! A bit of spice to go with all this heat, eh? Just don't let it mess with my fridge!\""
+  "crew_quote": "\"With temperatures soaring, I thought about whipping up a curry, but then I remembered I’ll just sweat my face off instead—can’t have a curry without the heat, right?\""
 }
