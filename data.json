@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T10:20:45.246878+00:00",
+  "timestamp": "2026-06-25T10:51:44.951519+00:00",
   "house": {
-    "indoor_temp": 26.3,
+    "indoor_temp": 26.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 29.1,
+    "outdoor_temp": 29.7,
     "outdoor_humidity": 51.0,
-    "wind_speed": 5.8,
-    "wind_direction": 285.0,
+    "wind_speed": 4.0,
+    "wind_direction": 278.0,
     "pressure": 1020.6,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 306.0,
+    "uv_index": 0.0,
+    "power_usage": 250.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "ZTE CDO Cui Li at MWC Shanghai 2026: unlocking value and embracing uncertainty in the AI era",
+    "ZTE showcases full-stack AI capabilities at MWC Shanghai 2026, empowering new era of token operations",
     "IBM stacks up a sub-nanometer chip future",
-    "Digital ID brain trust will meet behind closed doors as minister ducks cost questions",
-    "Salyut 5 at 50: The Soviet space station that sickened one crew and nearly drowned another",
-    "The CPU's growing role in agentic AI infrastructure"
+    "Digital ID brain trust will meet behind closed doors as minister ducks cost questions"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry left in a microwaved spaceship! I reckon we should be stacking up chips instead of sweating like Rimmer on a quiz show!\""
+  "crew_quote": "\"With it being a sizzling 28°C outside, I can’t decide if I should make a curry or just celebrate being the hottest thing in the universe!\""
 }
