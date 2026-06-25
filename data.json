@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T04:39:38.718633+00:00",
+  "timestamp": "2026-06-25T05:10:39.575051+00:00",
   "house": {
     "indoor_temp": 25.9,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 19.1,
-    "outdoor_humidity": 94.0,
+    "outdoor_temp": 20.2,
+    "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
     "wind_direction": 115.0,
-    "pressure": 1022.4,
+    "pressure": 1022.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 182.0,
+    "power_usage": 171.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "The hits keep on coming for Cisco vulnerabilities",
     "Qualcomm claims it's not too late for Dragonfly to land in datacenters"
   ],
-  "crew_quote": "\"Twenty degrees and partly cloudy? Brilliant! Just the right weather for a cold curry, but let's not let it distract us from those memory prices—it's like they’re trying to charge us for thinking!\""
+  "crew_quote": "\"With the temperature soaring nearly as high as my last curry's spice levels, I can’t help but think this weather's got more personality than Rimmer!\""
 }
