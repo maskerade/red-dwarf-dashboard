@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T03:06:38.057876+00:00",
+  "timestamp": "2026-06-25T03:37:37.813855+00:00",
   "house": {
-    "indoor_temp": 26.0,
+    "indoor_temp": 25.9,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 18.9,
-    "outdoor_humidity": 93.0,
+    "outdoor_temp": 18.8,
+    "outdoor_humidity": 94.0,
     "wind_speed": 0.0,
     "wind_direction": 115.0,
-    "pressure": 1022.1,
+    "pressure": 1022.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 191.0,
+    "power_usage": 210.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "Micron locks in historically high memory prices for five years",
     "Companies are not looking before they're leaping into the AI playpen",
     "The hits keep on coming for Cisco vulnerabilities",
-    "Qualcomm claims it's not too late for Dragonfly to land in datacenters",
-    "Loop engineering, latest AI buzzword, still needs humans in the loop"
+    "Qualcomm claims it's not too late for Dragonfly to land in datacenters"
   ],
-  "crew_quote": "\"With the indoor heat cranking up to 26°C, maybe it's time for a cheeky curry night, just to cool down from all this tech gossip! Can't let those AI companies outshine my spices!\""
+  "crew_quote": "\"You know it’s a nice day outside, and I could really go for a curry, but with the power bill climbing like a cat in a tree, I think I’ll just stay in and sweat it out!\""
 }
