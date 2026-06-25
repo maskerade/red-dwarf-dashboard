@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-25T09:18:43.872487+00:00",
+  "timestamp": "2026-06-25T09:49:44.292459+00:00",
   "house": {
-    "indoor_temp": 26.0,
+    "indoor_temp": 26.1,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 27.8,
-    "outdoor_humidity": 59.0,
-    "wind_speed": 0.0,
-    "wind_direction": 8.0,
-    "pressure": 1021.3,
+    "outdoor_temp": 28.3,
+    "outdoor_humidity": 56.0,
+    "wind_speed": 8.6,
+    "wind_direction": 15.0,
+    "pressure": 1020.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 255.0,
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "Digital ID brain trust will meet behind closed doors as minister ducks cost questions",
     "Salyut 5 at 50: The Soviet space station that sickened one crew and nearly drowned another",
     "The CPU's growing role in agentic AI infrastructure",
-    "UK school’s network left wide open for invasion, student found",
-    "Infosys boss says vibe coding is no threat because there’s more to writing software than writing software"
+    "UK school’s network left wide open for invasion, student found"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry left in the sun! I reckon we could fry an egg on the console, but we’ll need to use the power for something more important—like my next meal!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! If the humidity gets any worse, we'll be swimming to our next curry night!\""
 }
