@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T20:09:53.320207+00:00",
+  "timestamp": "2026-06-25T20:40:53.734878+00:00",
   "house": {
-    "indoor_temp": 26.7,
+    "indoor_temp": 26.6,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 27.4,
-    "outdoor_humidity": 60.0,
-    "wind_speed": 3.6,
-    "wind_direction": 305.0,
-    "pressure": 1016.6,
+    "outdoor_temp": 26.8,
+    "outdoor_humidity": 63.0,
+    "wind_speed": 0.0,
+    "wind_direction": 262.0,
+    "pressure": 1016.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 463.0,
+    "power_usage": 2939.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "OpenAI says employees moving beyond chat to agents",
     "Perseverance rover finds even more signs of extinct life on Mars",
     "FOSS dev builds a BASIC compiler using LLVM",
-    "Recovery has to keep up with AI",
-    "Apple passes RAMpocalypse costs on to consumers"
+    "Recovery has to keep up with AI"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! If that Perseverance rover finds any curry signs on Mars, I'm packing my bags!\""
+  "crew_quote": "\"You know, with it being 32°C in Llandudno, I reckon I could fry my curry on the pavement—if only I could find a pavement that's not too sweaty!\""
 }
