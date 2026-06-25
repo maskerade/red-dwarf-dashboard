@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-06-25T11:22:45.390971+00:00",
+  "timestamp": "2026-06-25T11:53:45.393567+00:00",
   "house": {
-    "indoor_temp": 26.5,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 29.8,
-    "outdoor_humidity": 50.0,
-    "wind_speed": 2.2,
-    "wind_direction": 358.0,
+    "indoor_temp": 26.7,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 30.1,
+    "outdoor_humidity": 47.0,
+    "wind_speed": 1.1,
+    "wind_direction": 255.0,
     "pressure": 1020.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 182.0,
+    "power_usage": 207.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 28.0,
+      "temp": 29.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 27.0,
+      "temp": 30.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 27.0,
+      "temp": 31.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "Collabora releases CODE 26.04 as rivalry between FOSS cloudy office suites heats up",
+    "ZTE builds a TCO-optimal AI factory to fuel token economy",
     "Elastic stretches workforce 7% thinner as AI does more of the heavy lifting",
-    "ZTE CDO Cui Li at MWC Shanghai 2026: unlocking value and embracing uncertainty in the AI era",
-    "ZTE showcases full-stack AI capabilities at MWC Shanghai 2026, empowering new era of token operations",
-    "IBM stacks up a sub-nanometer chip future"
+    "ZTE CDO Cui Li at MWC Shanghai 2026: unlocking value and embracing uncertainty in the AI era"
   ],
-  "crew_quote": "\"Blimey, it's a scorcher out there! Just like my last curry, too hot to handle—but at least I don't have to compete with AI for cooking jobs!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo out there! What’s next, a curry-flavored sun?\""
 }
