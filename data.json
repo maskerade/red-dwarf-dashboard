@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T14:59:49.042293+00:00",
+  "timestamp": "2026-06-25T15:30:48.720693+00:00",
   "house": {
-    "indoor_temp": 26.5,
+    "indoor_temp": 26.6,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 31.2,
-    "outdoor_humidity": 45.0,
-    "wind_speed": 4.7,
-    "wind_direction": 292.0,
-    "pressure": 1018.6,
+    "outdoor_temp": 31.3,
+    "outdoor_humidity": 49.0,
+    "wind_speed": 0.0,
+    "wind_direction": 302.0,
+    "pressure": 1018.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 202.0,
+    "power_usage": 216.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "05:57 PM",
     "moonset": "01:26 AM"
   },
-  "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
+  "metrolink": "Due to a points fault at Trafford Bar we are currently experiencing delays to services on this line. Metrolink apologises for any inconvenience caused.",
   "headlines": [
-    "Windows 11 can now turn back the clock when updates go bad",
-    "Apple takes over Swift Package Index, vows to remove  GitHub dependency",
-    "Amazon pours another $13B into India's AI and cloud infrastructure",
-    "European Commission lines up Amazon and Microsoft for cloud gatekeeper status"
+    "FOSS dev builds a BASIC compiler using LLVM",
+    "Recovery has to keep up with AI",
+    "Apple passes RAMpocalypse costs on to consumers",
+    "Windows 11 can now turn back the clock when updates go bad"
   ],
-  "crew_quote": "\"Blimey, it's so hot outside I'd fry an egg on me curry! But at least Windows can turn back the clock; wish I could do the same with me life!\""
+  "crew_quote": "\"Blimey, with it being 31 degrees and all this talk of BASIC compilers, I reckon the only thing I’ll be compiling tonight is a massive curry!\""
 }
