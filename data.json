@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T02:35:38.318972+00:00",
+  "timestamp": "2026-06-25T03:06:38.057876+00:00",
   "house": {
     "indoor_temp": 26.0,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 19.3,
-    "outdoor_humidity": 92.0,
+    "outdoor_temp": 18.9,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
     "wind_direction": 115.0,
-    "pressure": 1022.2,
+    "pressure": 1022.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 221.0,
+    "power_usage": 191.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Qualcomm claims it's not too late for Dragonfly to land in datacenters",
     "Loop engineering, latest AI buzzword, still needs humans in the loop"
   ],
-  "crew_quote": "\"I reckon with all this clear weather, it’s the perfect day for a curry. Hopefully, the only thing that's vulnerable today is my spice tolerance!\""
+  "crew_quote": "\"With the indoor heat cranking up to 26°C, maybe it's time for a cheeky curry night, just to cool down from all this tech gossip! Can't let those AI companies outshine my spices!\""
 }
