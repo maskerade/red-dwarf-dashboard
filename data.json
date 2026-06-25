@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-06-25T09:49:44.292459+00:00",
+  "timestamp": "2026-06-25T10:20:45.246878+00:00",
   "house": {
-    "indoor_temp": 26.1,
+    "indoor_temp": 26.3,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 28.3,
-    "outdoor_humidity": 56.0,
-    "wind_speed": 8.6,
-    "wind_direction": 15.0,
-    "pressure": 1020.9,
+    "outdoor_temp": 29.1,
+    "outdoor_humidity": 51.0,
+    "wind_speed": 5.8,
+    "wind_direction": 285.0,
+    "pressure": 1020.6,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 255.0,
+    "uv_index": 1.0,
+    "power_usage": 306.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 26.0,
+      "temp": 28.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
-      "conditions": "Sunny",
+      "temp": 27.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-25",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 25.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "IBM stacks up a sub-nanometer chip future",
     "Digital ID brain trust will meet behind closed doors as minister ducks cost questions",
     "Salyut 5 at 50: The Soviet space station that sickened one crew and nearly drowned another",
-    "The CPU's growing role in agentic AI infrastructure",
-    "UK school’s network left wide open for invasion, student found"
+    "The CPU's growing role in agentic AI infrastructure"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! If the humidity gets any worse, we'll be swimming to our next curry night!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry left in a microwaved spaceship! I reckon we should be stacking up chips instead of sweating like Rimmer on a quiz show!\""
 }
