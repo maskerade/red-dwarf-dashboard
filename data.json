@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-06-25T17:34:50.926769+00:00",
+  "timestamp": "2026-06-25T18:05:51.660940+00:00",
   "house": {
-    "indoor_temp": 26.6,
+    "indoor_temp": 26.5,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 31.1,
-    "outdoor_humidity": 50.0,
-    "wind_speed": 0.0,
-    "wind_direction": 329.0,
-    "pressure": 1017.2,
+    "outdoor_temp": 30.4,
+    "outdoor_humidity": 51.0,
+    "wind_speed": 5.8,
+    "wind_direction": 322.0,
+    "pressure": 1017.1,
     "rain_today": 0.0,
-    "uv_index": 1.0,
+    "uv_index": 0.0,
     "power_usage": 213.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 31.0,
+      "temp": 30.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 32.0,
-      "conditions": "Thundery outbreaks in nearby",
+      "temp": 30.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-25",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 27.0,
-      "conditions": "Thundery outbreaks in nearby",
+      "temp": 31.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-25",
@@ -94,5 +94,5 @@
     "Apple passes RAMpocalypse costs on to consumers",
     "Windows 11 can now turn back the clock when updates go bad"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here, and I reckon I've got more chance of finishing a BASIC compiler than finding a decent curry!\""
+  "crew_quote": "\"Blimey, it’s hotter than a curry left in the sun! I reckon even my beer's sweating in this heat!\""
 }
