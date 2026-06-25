@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T10:51:44.951519+00:00",
+  "timestamp": "2026-06-25T11:22:45.390971+00:00",
   "house": {
-    "indoor_temp": 26.4,
+    "indoor_temp": 26.5,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 29.7,
-    "outdoor_humidity": 51.0,
-    "wind_speed": 4.0,
-    "wind_direction": 278.0,
-    "pressure": 1020.6,
+    "outdoor_temp": 29.8,
+    "outdoor_humidity": 50.0,
+    "wind_speed": 2.2,
+    "wind_direction": 358.0,
+    "pressure": 1020.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 250.0,
+    "power_usage": 182.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "Elastic stretches workforce 7% thinner as AI does more of the heavy lifting",
     "ZTE CDO Cui Li at MWC Shanghai 2026: unlocking value and embracing uncertainty in the AI era",
     "ZTE showcases full-stack AI capabilities at MWC Shanghai 2026, empowering new era of token operations",
-    "IBM stacks up a sub-nanometer chip future",
-    "Digital ID brain trust will meet behind closed doors as minister ducks cost questions"
+    "IBM stacks up a sub-nanometer chip future"
   ],
-  "crew_quote": "\"With it being a sizzling 28°C outside, I can’t decide if I should make a curry or just celebrate being the hottest thing in the universe!\""
+  "crew_quote": "\"Blimey, it's a scorcher out there! Just like my last curry, too hot to handle—but at least I don't have to compete with AI for cooking jobs!\""
 }
