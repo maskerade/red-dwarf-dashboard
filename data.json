@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T21:11:54.213120+00:00",
+  "timestamp": "2026-06-25T21:42:54.545321+00:00",
   "house": {
-    "indoor_temp": 26.6,
+    "indoor_temp": 26.7,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 25.9,
-    "outdoor_humidity": 66.0,
-    "wind_speed": 0.0,
-    "wind_direction": 325.0,
-    "pressure": 1017.1,
+    "outdoor_temp": 25.4,
+    "outdoor_humidity": 68.0,
+    "wind_speed": 0.4,
+    "wind_direction": 331.0,
+    "pressure": 1016.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 497.0,
+    "power_usage": 542.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "FOSS dev builds a BASIC compiler using LLVM",
     "Recovery has to keep up with AI"
   ],
-  "crew_quote": "\"Blimey, 31 degrees in Llandudno? You'd think the sun's got a curry craving! Pass me a cold lager and let’s hope Mars finds a way to heat up its chips too!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! If I wanted to sweat this much, I’d have gone to Mars with that rover!\""
 }
