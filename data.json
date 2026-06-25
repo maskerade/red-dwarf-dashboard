@@ -1,37 +1,37 @@
 {
-  "timestamp": "2026-06-25T03:37:37.813855+00:00",
+  "timestamp": "2026-06-25T04:08:39.887489+00:00",
   "house": {
     "indoor_temp": 25.9,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 18.8,
+    "outdoor_temp": 18.9,
     "outdoor_humidity": 94.0,
     "wind_speed": 0.0,
     "wind_direction": 115.0,
     "pressure": 1022.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 210.0,
+    "power_usage": 213.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Clear ",
+      "temp": 20.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-25",
           "max": 31.0,
-          "min": 17.0
+          "min": 18.0
         },
         {
           "date": "2026-06-26",
-          "max": 33.0,
-          "min": 19.0
+          "max": 32.0,
+          "min": 18.0
         },
         {
           "date": "2026-06-27",
-          "max": 29.0,
+          "max": 27.0,
           "min": 16.0
         }
       ]
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Clear ",
+      "temp": 19.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-25",
@@ -94,5 +94,5 @@
     "The hits keep on coming for Cisco vulnerabilities",
     "Qualcomm claims it's not too late for Dragonfly to land in datacenters"
   ],
-  "crew_quote": "\"You know it’s a nice day outside, and I could really go for a curry, but with the power bill climbing like a cat in a tree, I think I’ll just stay in and sweat it out!\""
+  "crew_quote": "\"I'm not saying the weather's perfect, but at 25.9°C indoors, I could definitely cook a curry and still have room for a nap.\""
 }
