@@ -2867,6 +2867,11 @@
       renderEfficiencyGrade(data);
       renderAccessorySuggestion(data);
       renderTempSpread(data);
+      renderInspectionGrade(data);
+      renderLightingAdvisory(data);
+      renderStringVest(data);
+      renderDustIndex(data);
+      renderSnookerAdvisory(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
@@ -2889,6 +2894,174 @@
     } catch (_) {
       // Starbug offline or not yet collected — fine
     }
+  }
+
+  // ── Rimmer's Inspection Grade (#29, June 25) ─────────────────
+  function renderInspectionGrade(data) {
+    const el = $('efficiency-grade');
+    if (!el) return;
+    const healthPct = data.meta && data.meta.data_health_percentage;
+    let grade, cls;
+    if (healthPct !== undefined && healthPct !== null) {
+      const pct = Number(healthPct);
+      if (pct >= 95) { grade = 'A+'; cls = 'grade-a'; }
+      else if (pct >= 85) { grade = 'A'; cls = 'grade-a'; }
+      else if (pct >= 75) { grade = 'B'; cls = 'grade-b'; }
+      else if (pct >= 60) { grade = 'C'; cls = 'grade-c'; }
+      else if (pct >= 40) { grade = 'D'; cls = 'grade-d'; }
+      else { grade = 'F'; cls = 'grade-f'; }
+      el.title = 'Data Health: ' + pct + '%';
+    } else {
+      grade = 'A+'; cls = 'grade-a';
+      el.title = 'Rimmer\'s Inspection Grade (default)';
+    }
+    el.textContent = 'GRADE: ' + grade;
+    el.className = 'efficiency-grade ' + cls + ' grade-hex';
+  }
+
+  // ── Cat's Lighting Advisory (#30, June 25) ──────────────────
+  function renderLightingAdvisory(data) {
+    const scoreEl = $('lighting-score');
+    const commentEl = $('lighting-comment');
+    if (!scoreEl || !commentEl) return;
+    const house = data.house || {};
+    const uv = Number(house.uv_index);
+    let score = 5;
+    if (!isNaN(uv)) {
+      score = Math.min(10, Math.max(1, Math.round(uv) + 1));
+    }
+    const locs = data.locations || {};
+    const firstLoc = Object.values(locs).find(l => l.conditions);
+    if (firstLoc) {
+      const cond = firstLoc.conditions.toLowerCase();
+      if (cond.includes('sunny') || cond.includes('clear')) score = Math.min(10, score + 1);
+      else if (cond.includes('cloud') || cond.includes('overcast')) score = Math.max(1, score - 1);
+      else if (cond.includes('rain') || cond.includes('storm')) score = Math.max(1, score - 2);
+    }
+    scoreEl.textContent = score;
+    const pct = (score / 10) * 100;
+    const ring = scoreEl.parentElement;
+    if (ring) {
+      const colors = ['#ffe066', '#ffb347', '#ff8c00', '#ff6b35', '#cc3300'];
+      const stop = Math.max(5, pct);
+      ring.style.background = 'conic-gradient(#ffe066 0% 10%, #ffb347 10% 30%, #ff8c00 30% 60%, #ff6b35 60% 80%, #cc3300 80% ' + stop + '%, transparent ' + stop + '% 100%)';
+    }
+    let comment;
+    if (score >= 8) comment = 'Studio-quality glow';
+    else if (score >= 6) comment = 'You\'ll do';
+    else if (score >= 4) comment = 'Filter recommended';
+    else comment = 'Stay inside, darling';
+    commentEl.textContent = comment;
+  }
+
+  // ── Lister's String Vest Thermometer (#31, June 25) ──────────
+  function renderStringVest(data) {
+    const verdictEl = $('vest-verdict');
+    const tempEl = $('vest-temp');
+    if (!verdictEl || !tempEl) return;
+    const house = data.house || {};
+    const outdoorTemp = house.outdoor_temp !== null && house.outdoor_temp !== undefined ? Number(house.outdoor_temp) : null;
+    const indoorTemp = house.indoor_temp !== null && house.indoor_temp !== undefined ? Number(house.indoor_temp) : null;
+    const temp = outdoorTemp !== null ? outdoorTemp : indoorTemp;
+    let verdict, verdictClass, message;
+    if (temp !== null && !isNaN(temp)) {
+      if (temp > 22) {
+        verdict = 'YES';
+        verdictClass = 'verdict-yes';
+        message = temp.toFixed(1) + '°C — proper vest weather';
+      } else if (temp >= 15) {
+        verdict = 'MAYBE';
+        verdictClass = 'verdict-maybe';
+        message = temp.toFixed(1) + '°C — risky, man';
+      } else {
+        verdict = 'NO';
+        verdictClass = 'verdict-no';
+        message = temp.toFixed(1) + '°C — too cold, smeg it';
+      }
+    } else {
+      verdict = 'MAYBE';
+      verdictClass = 'verdict-maybe';
+      message = 'No temp data — check sensors';
+    }
+    verdictEl.textContent = verdict;
+    verdictEl.className = 'vest-verdict ' + verdictClass;
+    tempEl.textContent = message;
+  }
+
+  // ── Kryten's Dust Accumulation Index (#32, June 25) ──────────
+  function renderDustIndex(data) {
+    const fillEl = $('dust-fill');
+    const needleEl = $('dust-needle');
+    const statusEl = $('dust-status');
+    if (!fillEl || !needleEl || !statusEl) return;
+    const house = data.house || {};
+    const humidity = Number(house.indoor_humidity);
+    const indoorTemp = Number(house.indoor_temp);
+    let dustLevel = 35;
+    if (!isNaN(humidity) && humidity > 0) {
+      const humidityFill = Math.max(10, Math.min(90, ((70 - humidity) / 40) * 80 + 10));
+      let tempModifier = 0;
+      if (!isNaN(indoorTemp)) {
+        tempModifier = Math.max(0, Math.min(20, ((indoorTemp - 15) / 15) * 20));
+      }
+      dustLevel = humidityFill * 0.7 + tempModifier * 0.3;
+      dustLevel = Math.max(5, Math.min(95, dustLevel));
+    }
+    fillEl.style.height = dustLevel + '%';
+    needleEl.style.top = (100 - dustLevel) + '%';
+    let msg;
+    if (dustLevel < 20) msg = 'Immaculate. I am proud.';
+    else if (dustLevel < 40) msg = 'Acceptable. I shall permit it.';
+    else if (dustLevel < 60) msg = 'Hmm. Not ideal.';
+    else if (dustLevel < 80) msg = 'Sir, I am concerned.';
+    else msg = 'THIS IS A DISASTER.';
+    statusEl.textContent = msg;
+  }
+
+  // ── Holly's Snooker Break Advisory (#33, June 25) ────────────
+  const SNOOKER_YES_MSGS = [
+    'I\'ve already set up the triangle',
+    'The table is waiting',
+    'Your move, meatbag',
+  ];
+  const SNOOKER_NO_MSGS = [
+    'Come back after lunch',
+    'I\'m calculating — leave me alone',
+    'Too early, even for me.',
+  ];
+  const SNOOKER_MAYBE_MSGS = [
+    'The jury\'s out',
+    'Flip a coin?',
+    'I\'ll decide when I feel like it',
+  ];
+
+  function renderSnookerAdvisory(data) {
+    const questionEl = $('snooker-question');
+    const answerEl = $('snooker-answer');
+    const subtleEl = $('snooker-subtle');
+    if (!questionEl || !answerEl || !subtleEl) return;
+
+    const hour = new Date().getHours();
+    let answer, msgPool, reasoning;
+    if (hour >= 14 && hour <= 20) {
+      answer = 'YES';
+      msgPool = SNOOKER_YES_MSGS;
+      reasoning = 'conditions optimal';
+    } else if (hour >= 0 && hour <= 8) {
+      answer = 'NO';
+      msgPool = SNOOKER_NO_MSGS;
+      reasoning = 'too early even by Holly\'s standards';
+    } else {
+      answer = 'MAYBE';
+      msgPool = SNOOKER_MAYBE_MSGS;
+      reasoning = 'jury is still deliberating';
+    }
+    const msg = msgPool[Math.floor(Math.random() * msgPool.length)];
+    answerEl.textContent = answer + ' — ' + msg;
+    subtleEl.textContent = '(IQ 6000 analysis: ' + reasoning + ')';
+    answerEl.style.animation = 'none';
+    void answerEl.offsetHeight;
+    answerEl.style.animation = 'snooker-bounce 0.5s cubic-bezier(0.34, 1.56, 0.64, 1)';
   }
 
   // --- Init ---
