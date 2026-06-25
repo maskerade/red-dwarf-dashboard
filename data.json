@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T06:12:40.220147+00:00",
+  "timestamp": "2026-06-25T06:43:40.690313+00:00",
   "house": {
-    "indoor_temp": 25.8,
+    "indoor_temp": 25.9,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 25.7,
-    "outdoor_humidity": 72.0,
+    "outdoor_temp": 26.3,
+    "outdoor_humidity": 67.0,
     "wind_speed": 0.0,
     "wind_direction": 115.0,
-    "pressure": 1022.2,
+    "pressure": 1022.0,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 182.0,
+    "power_usage": 221.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "Infosys boss says vibe coding is no threat because there’s more to writing software than writing software",
+    "Nation-state actors cracked critical Australian infrastructure to ‘cripple it at a time of their choosing’",
     "Micron locks in historically high memory prices for five years",
-    "Companies are not looking before they're leaping into the AI playpen",
-    "The hits keep on coming for Cisco vulnerabilities",
-    "Qualcomm claims it's not too late for Dragonfly to land in datacenters"
+    "Companies are not looking before they're leaping into the AI playpen"
   ],
-  "crew_quote": "\"Oi, with all this sunny weather, I reckon I could cook a curry on the dashboard! Just don’t let Rimmer turn it into an AI playpen disaster!\""
+  "crew_quote": "\"I don't see what the fuss is about, it’s only 20 degrees outside! I mean, I could cook a curry in that sunshine — just add a bit of spice and you’ve got a feast fit for a king!\""
 }
