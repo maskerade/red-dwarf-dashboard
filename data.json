@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T18:05:51.660940+00:00",
+  "timestamp": "2026-06-25T18:36:51.519715+00:00",
   "house": {
-    "indoor_temp": 26.5,
+    "indoor_temp": 26.6,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 30.4,
-    "outdoor_humidity": 51.0,
-    "wind_speed": 5.8,
-    "wind_direction": 322.0,
-    "pressure": 1017.1,
+    "outdoor_temp": 29.6,
+    "outdoor_humidity": 54.0,
+    "wind_speed": 0.4,
+    "wind_direction": 323.0,
+    "pressure": 1016.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 213.0,
+    "power_usage": 174.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Apple passes RAMpocalypse costs on to consumers",
     "Windows 11 can now turn back the clock when updates go bad"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a curry left in the sun! I reckon even my beer's sweating in this heat!\""
+  "crew_quote": "\"Blimey, it's hotter than my last curry! At least I can't blame the power usage for the sweat this time.\""
 }
