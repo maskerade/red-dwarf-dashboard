@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-06-25T05:10:39.575051+00:00",
+  "timestamp": "2026-06-25T05:41:40.697504+00:00",
   "house": {
-    "indoor_temp": 25.9,
+    "indoor_temp": 25.8,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 20.2,
-    "outdoor_humidity": 90.0,
+    "outdoor_temp": 22.9,
+    "outdoor_humidity": 79.0,
     "wind_speed": 0.0,
     "wind_direction": 115.0,
-    "pressure": 1022.3,
+    "pressure": 1022.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 171.0,
+    "power_usage": 210.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-25",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "The hits keep on coming for Cisco vulnerabilities",
     "Qualcomm claims it's not too late for Dragonfly to land in datacenters"
   ],
-  "crew_quote": "\"With the temperature soaring nearly as high as my last curry's spice levels, I can’t help but think this weather's got more personality than Rimmer!\""
+  "crew_quote": "\"With this weather, I could really go for a nice curry — but I'll probably just stick my head in the fridge and see if anything's cooler than this 25.8°C!\""
 }
