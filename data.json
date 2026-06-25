@@ -1,32 +1,32 @@
 {
-  "timestamp": "2026-06-25T06:43:40.690313+00:00",
+  "timestamp": "2026-06-25T07:14:44.008105+00:00",
   "house": {
     "indoor_temp": 25.9,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 26.3,
-    "outdoor_humidity": 67.0,
+    "outdoor_temp": 28.7,
+    "outdoor_humidity": 62.0,
     "wind_speed": 0.0,
     "wind_direction": 115.0,
-    "pressure": 1022.0,
+    "pressure": 1021.8,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 221.0,
+    "uv_index": 2.0,
+    "power_usage": 303.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 22.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-25",
-          "max": 31.0,
+          "max": 30.0,
           "min": 18.0
         },
         {
           "date": "2026-06-26",
-          "max": 32.0,
+          "max": 31.0,
           "min": 18.0
         },
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -47,34 +47,34 @@
         },
         {
           "date": "2026-06-26",
-          "max": 32.0,
+          "max": 31.0,
           "min": 18.0
         },
         {
           "date": "2026-06-27",
-          "max": 29.0,
+          "max": 27.0,
           "min": 16.0
         }
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-25",
-          "max": 28.0,
-          "min": 16.0
+          "max": 27.0,
+          "min": 15.0
         },
         {
           "date": "2026-06-26",
           "max": 24.0,
-          "min": 14.0
+          "min": 15.0
         },
         {
           "date": "2026-06-27",
-          "max": 22.0,
-          "min": 13.0
+          "max": 20.0,
+          "min": 14.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "UK school’s network left wide open for invasion, student found",
     "Infosys boss says vibe coding is no threat because there’s more to writing software than writing software",
     "Nation-state actors cracked critical Australian infrastructure to ‘cripple it at a time of their choosing’",
-    "Micron locks in historically high memory prices for five years",
-    "Companies are not looking before they're leaping into the AI playpen"
+    "Micron locks in historically high memory prices for five years"
   ],
-  "crew_quote": "\"I don't see what the fuss is about, it’s only 20 degrees outside! I mean, I could cook a curry in that sunshine — just add a bit of spice and you’ve got a feast fit for a king!\""
+  "crew_quote": "\"Ah, the weather's just lovely today! Perfect for a curry picnic, although I doubt the school's server could handle the spice!\""
 }
