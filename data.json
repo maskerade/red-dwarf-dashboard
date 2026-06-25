@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T13:57:47.544443+00:00",
+  "timestamp": "2026-06-25T14:28:48.229197+00:00",
   "house": {
     "indoor_temp": 26.6,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 31.3,
-    "outdoor_humidity": 49.0,
-    "wind_speed": 2.5,
-    "wind_direction": 282.0,
-    "pressure": 1019.3,
+    "outdoor_temp": 31.2,
+    "outdoor_humidity": 45.0,
+    "wind_speed": 5.4,
+    "wind_direction": 330.0,
+    "pressure": 1018.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 213.0,
+    "power_usage": 202.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
+    "Apple takes over Swift Package Index, vows to remove  GitHub dependency",
     "Amazon pours another $13B into India's AI and cloud infrastructure",
     "European Commission lines up Amazon and Microsoft for cloud gatekeeper status",
-    "Collabora releases CODE 26.04 as rivalry between FOSS cloudy office suites heats up",
-    "ZTE builds a TCO-optimal AI factory to fuel token economy"
+    "Collabora releases CODE 26.04 as rivalry between FOSS cloudy office suites heats up"
   ],
-  "crew_quote": "\"Blimey, 30 degrees and I’m sweating like a curry on a summer’s day! But at least I’ve got my trusty fridge to keep the lager chilled!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry left in a microwave for too long! I reckon even the computers are sweating, and that's just wrong!\""
 }
