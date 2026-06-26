@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-26T11:40:10.052174+00:00",
+  "timestamp": "2026-06-26T12:11:07.891304+00:00",
   "house": {
-    "indoor_temp": 27.4,
+    "indoor_temp": 27.5,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 31.6,
+    "outdoor_temp": 31.9,
     "outdoor_humidity": 65.0,
     "wind_speed": 0.0,
-    "wind_direction": 259.0,
-    "pressure": 1014.2,
+    "wind_direction": 267.0,
+    "pressure": 1014.1,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 289.0,
+    "uv_index": 1.0,
+    "power_usage": 286.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
   "headlines": [
-    "Space Shuttle Endeavour stacks up nicely for new California exhibit",
-    "Three FOSS projects for developers, procrastinators, and media wranglers",
-    "BOFH: Amnesty means never having to say you're sorry",
-    "Security boss thought MFA would be too much security"
+    "ZTE and GSMA announce co-location between ZTE Global Summit & User Congress and GSMA M360 ASEAN at MWC26 Shanghai",
+    "Italy probes AI-fueled price hikes in Microsoft 365",
+    "ZTE CDO Cui Li at GTI Summit 2026: Co-creating an intelligent, ubiquitous 6G future and exploring new opportunities in the mobile AI era",
+    "ZTE AIR Core unleashes a new era of agent services beyond connectivity"
   ],
-  "crew_quote": "\"With it being hotter than a curry in a sauna, I reckon I might just start sweating like a pig in a heatwave—where's me cold lager?\""
+  "crew_quote": "\"Blimey, it's hotter than a Vindaloo in a sauna! I thought we were on a spaceship, not a holiday resort for sunbathers!\""
 }
