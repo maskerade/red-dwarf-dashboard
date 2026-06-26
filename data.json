@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-26T12:42:09.396493+00:00",
+  "timestamp": "2026-06-26T13:13:09.239082+00:00",
   "house": {
     "indoor_temp": 27.6,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 32.5,
-    "outdoor_humidity": 60.0,
+    "outdoor_temp": 34.4,
+    "outdoor_humidity": 53.0,
     "wind_speed": 0.0,
-    "wind_direction": 331.0,
-    "pressure": 1014.1,
+    "wind_direction": 271.0,
+    "pressure": 1014.0,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 191.0,
+    "uv_index": 0.0,
+    "power_usage": 188.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
   "headlines": [
+    "Notion kills its Gmail client after AI agents keep humans from troubling inbox",
+    "Jiangsu's first AI-powered 10 Gbps all-optical campus network launched at Southeast University",
     "Miasma campaign poisons 20-plus npm packages, hunts for developer secrets",
-    "ZTE and Tianyi Digital Life jointly unveil flagship home AI router",
-    "ZTE showcases practical path to Level-4 autonomous networks through agentic AI and cross-domain innovation at DTW Ignite 2026",
-    "ZTE presents full-stack intelligent energy storage solutions at the Smarter E Europe 2026, powering Europe's energy transition"
+    "ZTE and Tianyi Digital Life jointly unveil flagship home AI router"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a curry shop in the sun! At least we’re not in Llandudno with that misty nonsense—who wants to eat a curry with a side of fog?\""
+  "crew_quote": "\"Blimey, it’s hotter than a curry left in a sunbaked tin! I’m starting to think the ship’s thermostat is on holiday in Overseal!\""
 }
