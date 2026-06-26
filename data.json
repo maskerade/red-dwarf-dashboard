@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-26T19:25:15.191637+00:00",
+  "timestamp": "2026-06-26T19:56:15.095135+00:00",
   "house": {
-    "indoor_temp": 27.6,
+    "indoor_temp": 27.5,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 24.3,
-    "outdoor_humidity": 79.0,
+    "outdoor_temp": 23.6,
+    "outdoor_humidity": 76.0,
     "wind_speed": 0.0,
-    "wind_direction": 108.0,
-    "pressure": 1017.1,
+    "wind_direction": 69.0,
+    "pressure": 1017.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 283.0,
+    "power_usage": 281.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "We are experienicng a minor delay to some services across the network. We apologise for any inconvenience this may cause to your journey",
   "headlines": [
+    "Google wants AI regulation, but on its own terms",
+    "US auto regulators want to kill robotaxi brake pedals",
     "Amazon Q flaw let booby-trapped Git repos execute code, swipe cloud creds",
-    "Oracle promises to open up MySQL governance, but the community wants guarantees",
-    "One man, two kernels, and a lot of RISC-V",
-    "Notion kills its Gmail client after AI agents keep humans from troubling inbox"
+    "Oracle promises to open up MySQL governance, but the community wants guarantees"
   ],
-  "crew_quote": "\"Well, it’s a roasting 28 degrees out there! Just the right temperature for a curry—if only I could find a decent takeaway in space!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here, and I’m pretty sure I saw the Cat trying to set the air conditioning to his own fashion line!\""
 }
