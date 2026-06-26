@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-26T05:28:01.257088+00:00",
+  "timestamp": "2026-06-26T05:59:01.960774+00:00",
   "house": {
     "indoor_temp": 26.6,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 22.6,
-    "outdoor_humidity": 91.0,
+    "outdoor_temp": 22.8,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
     "wind_direction": 307.0,
-    "pressure": 1013.8,
+    "pressure": 1014.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 185.0,
+    "power_usage": 207.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Self-destructing Mistic backdoor linked to access broker selling corporate footholds to ransomware gangs",
     "They read the scroll thing! AI helps decipher ancient document charred by Vesuvius"
   ],
-  "crew_quote": "\"Who knew the weather could be so stormy while I’m sweating like a curry in this tin can? Blimey, even the AI’s got better conditions than us!\""
+  "crew_quote": "\"Blimey, with this heat indoors, we might as well throw a curry on the floor and let the thunderstorm do the cooking for us!\""
 }
