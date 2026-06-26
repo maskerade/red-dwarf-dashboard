@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-26T20:27:15.629396+00:00",
+  "timestamp": "2026-06-26T20:58:15.474160+00:00",
   "house": {
-    "indoor_temp": 27.3,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 23.0,
-    "outdoor_humidity": 69.0,
+    "indoor_temp": 27.2,
+    "indoor_humidity": 55.0,
+    "outdoor_temp": 22.0,
+    "outdoor_humidity": 73.0,
     "wind_speed": 0.0,
-    "wind_direction": 348.0,
-    "pressure": 1018.0,
+    "wind_direction": 341.0,
+    "pressure": 1018.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 421.0,
+    "power_usage": 463.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Amazon Q flaw let booby-trapped Git repos execute code, swipe cloud creds",
     "Oracle promises to open up MySQL governance, but the community wants guarantees"
   ],
-  "crew_quote": "\"It's so hot in here, I could fry a curry on the dashboard! You'd think we were in Altrincham, not stuck on this tin can!\""
+  "crew_quote": "\"Blimey, it's hotter in here than a curry on a summer's day! If Google thinks it can regulate AI, it should start by getting a decent air conditioner!\""
 }
