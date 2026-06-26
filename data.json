@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-26T04:57:01.108724+00:00",
+  "timestamp": "2026-06-26T05:28:01.257088+00:00",
   "house": {
     "indoor_temp": 26.6,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 22.4,
-    "outdoor_humidity": 89.0,
+    "outdoor_temp": 22.6,
+    "outdoor_humidity": 91.0,
     "wind_speed": 0.0,
-    "wind_direction": 320.0,
+    "wind_direction": 307.0,
     "pressure": 1013.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 191.0,
+    "power_usage": 185.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "07:13 PM",
     "moonset": "01:42 AM"
   },
-  "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
+  "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
   "headlines": [
     "Chinese cybersecurity company claims it’s built a better-than-Mythos bug finder",
     "AI giants back non-profit to retrain workers left behind by AI",
     "Self-destructing Mistic backdoor linked to access broker selling corporate footholds to ransomware gangs",
     "They read the scroll thing! AI helps decipher ancient document charred by Vesuvius"
   ],
-  "crew_quote": "\"Rain, thunder, and I'm stuck in here at 26.6 degrees—it's like being in a sauna where the only thing being cooked is my patience. Where’s my curry when I need it?\""
+  "crew_quote": "\"Who knew the weather could be so stormy while I’m sweating like a curry in this tin can? Blimey, even the AI’s got better conditions than us!\""
 }
