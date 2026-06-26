@@ -686,6 +686,104 @@ body {
   100% { transform: scale(1); opacity: 1; }
 }
 
+/* === Wind Compass Rose (June 26) === */
+.wind-compass {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  cursor: default;
+}
+.wind-compass-svg {
+  flex-shrink: 0;
+  animation: compass-nudge 4s ease-in-out infinite;
+}
+@keyframes compass-nudge {
+  0%, 100% { transform: rotate(-1deg); }
+  50% { transform: rotate(1deg); }
+}
+.wind-compass-cardinal {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: var(--cyan);
+}
+.wind-compass-deg {
+  font-size: 0.6rem;
+  color: var(--text-dim);
+}
+
+/* === Holly's Daily Featured Widget (June 26) === */
+.deck-item.holly-featured {
+  border-color: var(--amber) !important;
+  animation: holly-pulse-border 2s ease-in-out infinite;
+  box-shadow: 0 0 8px var(--amber-glow), inset 0 0 20px rgba(255, 176, 0, 0.03);
+}
+.deck-item.holly-featured::after {
+  content: 'HOLLY RECS';
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 0.45rem;
+  letter-spacing: 0.08em;
+  padding: 2px 6px;
+  background: var(--amber);
+  color: var(--bg-deep);
+  border-radius: 0 6px 0 4px;
+  font-weight: bold;
+  line-height: 1.4;
+  z-index: 2;
+}
+@keyframes holly-pulse-border {
+  0%, 100% { border-color: var(--amber); box-shadow: 0 0 8px var(--amber-glow); }
+  50% { border-color: var(--amber-dim); box-shadow: 0 0 4px var(--amber-glow); }
+}
+
+/* === Indoor-Outdoor Comfort Index (June 26) === */
+.deck-comfort { grid-column: span 1; }
+.comfort-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  padding: 4px 0;
+}
+.comfort-verdict {
+  font-size: 1.6rem;
+  font-weight: bold;
+  font-family: var(--font-mono-alt);
+  line-height: 1.1;
+  text-shadow: 0 0 10px currentColor;
+}
+.comfort-verdict.verdict-stuffy { color: var(--red); }
+.comfort-verdict.verdict-perfect { color: var(--green); }
+.comfort-verdict.verdict-drafty { color: var(--cyan); }
+.comfort-verdict.verdict-sauna { color: var(--red); text-shadow: 0 0 15px rgba(255,51,68,0.3); }
+.comfort-verdict.verdict-fridge { color: var(--cyan-dim); }
+.comfort-details {
+  font-size: 0.55rem;
+  color: var(--text-dim);
+  text-align: center;
+  line-height: 1.3;
+}
+.comfort-saying {
+  font-size: 0.6rem;
+  color: var(--green);
+  font-style: italic;
+  text-align: center;
+  line-height: 1.3;
+  margin-top: 2px;
+}
+
+/* === Yesterday vs Today Narrative (June 26) === */
+.compare-narrative {
+  margin-top: 8px;
+  padding: 6px 10px;
+  border-top: 1px solid rgba(255, 176, 0, 0.1);
+  font-size: 0.7rem;
+  color: var(--amber);
+  line-height: 1.4;
+  font-style: italic;
+}
+
 /* --- Responsive --- */
 @media (max-width: 900px) {
   .grid-main {
@@ -2089,7 +2187,7 @@ body::after {
   .deck-cat-verdict, .deck-power-gauges, .deck-day-counter,
   .deck-efficiency, .deck-curry-stockpile, .deck-trivia, .deck-uptime,
   .deck-hologram, .deck-laundry, .deck-ai-ticker, .deck-fashion, .deck-maintenance, .deck-meal, .deck-alarm-log,
-  .lighting-advisory, .string-vest, .dust-index, .snooker-advisory { grid-column: 1 / -1; }
+  .lighting-advisory, .string-vest, .dust-index, .snooker-advisory, .deck-comfort { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
   .glance-strip { font-size: 0.6rem; gap: 10px; }
   .glance-weather { margin-left: 0; }

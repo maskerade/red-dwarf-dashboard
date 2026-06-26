@@ -94,6 +94,37 @@
     }
   }
 
+  // ── Wind Compass Rose (June 26) ─────────────────────────────────
+  function renderWindCompass(data) {
+    const el = $('ship-wind_direction');
+    if (!el) return;
+    const house = data.house || {};
+    const dir = Number(house.wind_direction);
+    const speed = Number(house.wind_speed);
+    if (isNaN(dir)) { el.textContent = '--'; return; }
+
+    const directions = ['N','NNE','NE','ENE','E','ESE','SE','SSE','S','SSW','SW','WSW','W','WNW','NW','NNW'];
+    const cardinal = directions[Math.round(dir / 22.5) % 16];
+    const speedStr = !isNaN(speed) ? speed.toFixed(1) + ' km/h' : '-- km/h';
+
+    el.innerHTML = '<span class="wind-compass" title="' + dir.toFixed(0) + '° &middot; ' + speedStr + '">' +
+      '<svg width="20" height="20" viewBox="0 0 20 20" class="wind-compass-svg">' +
+        '<circle cx="10" cy="10" r="9" fill="none" stroke="var(--cyan-dim)" stroke-width="0.6" opacity="0.4"/>' +
+        '<text x="10" y="2.2" text-anchor="middle" font-size="3" fill="var(--cyan)" opacity="0.7">N</text>' +
+        '<text x="10" y="18.5" text-anchor="middle" font-size="3" fill="var(--cyan-dim)" opacity="0.4">S</text>' +
+        '<text x="1.5" y="10.8" text-anchor="middle" font-size="3" fill="var(--cyan-dim)" opacity="0.4">W</text>' +
+        '<text x="18.5" y="10.8" text-anchor="middle" font-size="3" fill="var(--cyan-dim)" opacity="0.4">E</text>' +
+        '<g transform="translate(10,10) rotate(' + dir + ')">' +
+          '<polygon points="0,-8 -2,1.5 0,0 2,1.5" fill="var(--red)" opacity="0.9"/>' +
+          '<polygon points="0,8 -1.5,-1 0,0 1.5,-1" fill="var(--text-dim)" opacity="0.4"/>' +
+        '</g>' +
+        '<circle cx="10" cy="10" r="1.2" fill="var(--amber)"/>' +
+      '</svg>' +
+      '<span class="wind-compass-cardinal">' + cardinal + '</span>' +
+      '<span class="wind-compass-deg">' + dir.toFixed(0) + '°</span>' +
+    '</span>';
+  }
+
   // ── Astronomy rendering ───────────────────────────────────────────
   function getMoonIcon(phase) {
     if (!phase) return '';
@@ -644,7 +675,7 @@
   }
 
   // ── Mini Sparkline Trends (#2, Holly) ──────────────────────────
-  const SPARKLINE_KEYS = ['indoor_temp', 'outdoor_temp', 'pressure', 'indoor_humidity', 'wind_speed', 'power_usage'];
+  const SPARKLINE_KEYS = ['indoor_temp', 'outdoor_temp', 'pressure', 'indoor_humidity', 'wind_speed', 'power_usage', 'gas_consumption'];
   const SPARKLINE_MAX = 288; // 24h at 5-min intervals
 
   function setupSparklineWrappers() {
@@ -2872,12 +2903,17 @@
       renderStringVest(data);
       renderDustIndex(data);
       renderSnookerAdvisory(data);
+      renderWindCompass(data);
+      renderHollyFeatured();
+      renderComfortIndex(data);
+      renderCompareNarrative(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
       renderCrew();
       renderQuote({});
       updateTimestamps(null);
+      renderHollyFeatured();
       // Show error in ship panel
       const els = document.querySelectorAll('.ship-value');
       els.forEach(el => { el.textContent = 'ERR'; el.className = 'ship-value null-value'; });
@@ -3062,6 +3098,135 @@
     answerEl.style.animation = 'none';
     void answerEl.offsetHeight;
     answerEl.style.animation = 'snooker-bounce 0.5s cubic-bezier(0.34, 1.56, 0.64, 1)';
+  }
+
+  // ── Holly's Daily Featured Widget Highlight (June 26) ─────────
+  function renderHollyFeatured() {
+    const items = document.querySelectorAll('.deck-grid > .deck-item');
+    if (items.length === 0) return;
+    // Remove any existing highlight
+    items.forEach(el => el.classList.remove('holly-featured'));
+    // Deterministic pick based on day-of-year
+    const dayOfYear = Math.floor((Date.now() - new Date(new Date().getFullYear(), 0, 0)) / 86400000);
+    const idx = dayOfYear % items.length;
+    items[idx].classList.add('holly-featured');
+  }
+
+  // ── Indoor-Outdoor Comfort Index (June 26) ──────────────────
+  function renderComfortIndex(data) {
+    const verdictEl = $('comfort-verdict');
+    const detailsEl = $('comfort-details');
+    const sayingEl = $('comfort-saying');
+    if (!verdictEl || !detailsEl || !sayingEl) return;
+
+    const house = data.house || {};
+    const indoorTemp = Number(house.indoor_temp);
+    const indoorHum = Number(house.indoor_humidity);
+    const outdoorTemp = Number(house.outdoor_temp);
+    const outdoorWind = Number(house.wind_speed);
+
+    const hasTemp = !isNaN(indoorTemp);
+    const hasHum = !isNaN(indoorHum);
+
+    let verdict, cls, detail, saying;
+
+    if (!hasTemp && !hasHum) {
+      verdict = 'OFFLINE';
+      cls = '';
+      detail = 'No indoor sensor data';
+      saying = '';
+    } else if (hasHum && indoorHum > 75) {
+      verdict = 'SAUNA';
+      cls = 'verdict-sauna';
+      detail = (hasTemp ? indoorTemp.toFixed(1) + '°C, ' : '') + indoorHum.toFixed(0) + '% humidity';
+      saying = 'Lister\'s string vest is stuck to his back. Somebody open an airlock.';
+    } else if (hasTemp && indoorTemp < 15) {
+      verdict = 'FRIDGE';
+      cls = 'verdict-fridge';
+      detail = indoorTemp.toFixed(1) + '°C' + (hasHum ? ', ' + indoorHum.toFixed(0) + '% humidity' : '');
+      saying = 'It\'s brass monkeys out there, man. Fetch me a lager — forget the glass.';
+    } else if (hasTemp && indoorTemp > 26 && hasHum && indoorHum > 65) {
+      verdict = 'STUFFY';
+      cls = 'verdict-stuffy';
+      detail = indoorTemp.toFixed(1) + '°C @ ' + indoorHum.toFixed(0) + '%';
+      saying = 'You could bottle this atmosphere and sell it as soup. Where\'s the nearest breeze?';
+    } else if (hasTemp && indoorTemp >= 19 && indoorTemp <= 26 && hasHum && indoorHum >= 30 && indoorHum <= 60) {
+      verdict = 'PERFECT';
+      cls = 'verdict-perfect';
+      detail = indoorTemp.toFixed(1) + '°C, ' + indoorHum.toFixed(0) + '% humidity';
+      saying = 'Lister\'s lit a joss stick and put his feet up. This is the life, man.';
+    } else if (hasTemp && indoorTemp < 19 && !isNaN(outdoorWind) && outdoorWind > 20) {
+      verdict = 'DRAFTY';
+      cls = 'verdict-drafty';
+      detail = indoorTemp.toFixed(1) + '°C, wind ' + outdoorWind.toFixed(1) + ' km/h outside';
+      saying = 'Shut that smegging door! Some of us are trying to keep warm in here.';
+    } else if (hasTemp && indoorTemp < 19) {
+      verdict = 'DRAFTY';
+      cls = 'verdict-drafty';
+      detail = indoorTemp.toFixed(1) + '°C' + (hasHum ? ', ' + indoorHum.toFixed(0) + '% humidity' : '');
+      saying = 'It\'s a bit parky. Reckon I need another string vest. Or three.';
+    } else if (hasHum && indoorHum > 65) {
+      verdict = 'STUFFY';
+      cls = 'verdict-stuffy';
+      detail = (hasTemp ? indoorTemp.toFixed(1) + '°C, ' : '') + indoorHum.toFixed(0) + '% humidity';
+      saying = 'The air in here is thick enough to slice. Kryten! Open a vent!';
+    } else {
+      verdict = 'TOLERABLE';
+      cls = 'verdict-perfect';
+      detail = (hasTemp ? indoorTemp.toFixed(1) + '°C' : '') + (hasTemp && hasHum ? ', ' : '') + (hasHum ? indoorHum.toFixed(0) + '%' : '');
+      saying = 'Yeah, it\'s alright. Not complaining. Well, maybe a little.';
+    }
+
+    verdictEl.textContent = verdict;
+    verdictEl.className = 'comfort-verdict ' + cls;
+    detailsEl.textContent = detail;
+    sayingEl.textContent = saying;
+  }
+
+  // ── Yesterday vs Today Narrative Summary (June 26) ──────────
+  function renderCompareNarrative(data) {
+    const el = $('compare-narrative');
+    if (!el) return;
+
+    const house = data.house || {};
+    const stored = JSON.parse(localStorage.getItem('rdwd_comparison') || '{"snapshot":{}}');
+    const snap = stored.snapshot || {};
+
+    const LABELS = {
+      outdoor_temp: { label: 'outdoor temperature', unit: '°C' },
+      pressure: { label: 'pressure', unit: ' hPa' },
+      power_usage: { label: 'power usage', unit: ' kWh' },
+      indoor_humidity: { label: 'indoor humidity', unit: '%' },
+    };
+
+    let biggestDelta = 0;
+    let biggestKey = null;
+    let isUp = false;
+
+    for (const key of COMPARE_KEYS) {
+      const todayVal = house[key];
+      const yestVal = snap[key];
+      if (todayVal === null || todayVal === undefined || yestVal === null || yestVal === undefined) continue;
+      const delta = Number(todayVal) - Number(yestVal);
+      if (Math.abs(delta) > Math.abs(biggestDelta)) {
+        biggestDelta = delta;
+        biggestKey = key;
+        isUp = delta > 0;
+      }
+    }
+
+    if (!biggestKey) {
+      el.textContent = 'No comparison data available yet. Check back tomorrow.';
+      return;
+    }
+
+    const cfg = LABELS[biggestKey];
+    const dir = isUp ? 'UP' : 'DOWN';
+    const arrow = isUp ? '📈' : '📉';
+    const val = Math.abs(biggestDelta).toFixed(biggestKey === 'outdoor_temp' || biggestKey === 'power_usage' ? 1 : 0);
+    const unit = cfg.unit;
+
+    el.textContent = arrow + ' Rimmer: "' + cfg.label.charAt(0).toUpperCase() + cfg.label.slice(1) + ' is ' + dir + ' ' + val + unit + ' compared to yesterday. ' + (isUp ? 'This is an outrage!' : 'Finally, something is going right around here.') + '"';
   }
 
   // --- Init ---
