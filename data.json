@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-26T01:19:57.447012+00:00",
+  "timestamp": "2026-06-26T01:50:58.466263+00:00",
   "house": {
-    "indoor_temp": 26.8,
+    "indoor_temp": 26.7,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 22.6,
-    "outdoor_humidity": 84.0,
+    "outdoor_temp": 22.5,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
     "wind_direction": 320.0,
-    "pressure": 1016.1,
+    "pressure": 1016.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 281.0,
+    "power_usage": 241.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
-      "conditions": "Clear ",
+      "temp": 24.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-06-26",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 20.0,
-      "conditions": "Patchy light rain in area with thunder",
+      "conditions": "Thundery outbreaks in nearby",
       "forecast": [
         {
           "date": "2026-06-26",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 23.0,
-      "conditions": "Clear ",
+      "temp": 21.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-26",
@@ -94,5 +94,5 @@
     "They read the scroll thing! AI helps decipher ancient document charred by Vesuvius",
     "Ex-Huntress analyst claims company insider fed info to a ransomware crim. Social media drama ensues"
   ],
-  "crew_quote": "\"Well, if it’s 25 degrees in Altrincham, I reckon it’s the perfect weather for a curry! Just don’t call it a ‘non-profit’ — I’m all about the profits, baby!\""
+  "crew_quote": "\"I'm telling you, mate, this indoor heat's perfect for cooking up a curry, just like my love life—hot, steamy, and a bit patchy!\""
 }
