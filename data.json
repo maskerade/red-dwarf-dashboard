@@ -1,43 +1,22 @@
 {
-  "timestamp": "2026-06-26T07:32:04.734593+00:00",
+  "timestamp": "2026-06-26T08:03:05.352252+00:00",
   "house": {
-    "indoor_temp": 26.6,
+    "indoor_temp": 26.7,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 29.2,
-    "outdoor_humidity": 72.0,
+    "outdoor_temp": 30.1,
+    "outdoor_humidity": 70.0,
     "wind_speed": 0.0,
-    "wind_direction": 286.0,
-    "pressure": 1014.8,
+    "wind_direction": 295.0,
+    "pressure": 1014.9,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 264.0,
+    "uv_index": 3.0,
+    "power_usage": 306.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
-      "conditions": "Patchy rain nearby",
-      "forecast": [
-        {
-          "date": "2026-06-26",
-          "max": 34.0,
-          "min": 20.0
-        },
-        {
-          "date": "2026-06-27",
-          "max": 28.0,
-          "min": 17.0
-        },
-        {
-          "date": "2026-06-28",
-          "max": 24.0,
-          "min": 15.0
-        }
-      ]
-    },
-    "overseal": {
-      "temp": 21.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -48,18 +27,39 @@
         {
           "date": "2026-06-27",
           "max": 28.0,
-          "min": 15.0
+          "min": 16.0
         },
         {
           "date": "2026-06-28",
-          "max": 24.0,
-          "min": 12.0
+          "max": 23.0,
+          "min": 14.0
+        }
+      ]
+    },
+    "overseal": {
+      "temp": 25.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-06-26",
+          "max": 32.0,
+          "min": 17.0
+        },
+        {
+          "date": "2026-06-27",
+          "max": 29.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-06-28",
+          "max": 25.0,
+          "min": 13.0
         }
       ]
     },
     "llandudno": {
-      "temp": 23.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 26.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-26",
@@ -73,18 +73,18 @@
         },
         {
           "date": "2026-06-28",
-          "max": 18.0,
-          "min": 11.0
+          "max": 17.0,
+          "min": 12.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "04:41 AM",
+    "sunrise": "04:42 AM",
     "sunset": "09:42 PM",
     "moon_phase": "Waxing Gibbous",
     "moon_illumination": "86",
-    "moonrise": "07:13 PM",
+    "moonrise": "07:12 PM",
     "moonset": "01:42 AM"
   },
   "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
@@ -94,5 +94,5 @@
     "Chinese cybersecurity company claims it’s built a better-than-Mythos bug finder",
     "AI giants back non-profit to retrain workers left behind by AI"
   ],
-  "crew_quote": "\"Honestly, in this muggy heat, I’d rather be out in the rain with a curry than stuck in here counting power usage—what’s a bloke gotta do for a bit of fresh air?\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! If we keep this up, we should just start growing mangoes instead of worrying about Microsoft updates!\""
 }
