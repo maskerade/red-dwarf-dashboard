@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-26T18:23:13.526490+00:00",
+  "timestamp": "2026-06-26T18:54:14.482322+00:00",
   "house": {
     "indoor_temp": 27.6,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 27.0,
-    "outdoor_humidity": 72.0,
+    "outdoor_temp": 25.4,
+    "outdoor_humidity": 76.0,
     "wind_speed": 0.0,
-    "wind_direction": 330.0,
-    "pressure": 1016.3,
+    "wind_direction": 98.0,
+    "pressure": 1016.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 289.0,
+    "power_usage": 345.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 29.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 28.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-26",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 31.0,
-      "conditions": "Sunny",
+      "temp": 28.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-06-26",
@@ -94,5 +94,5 @@
     "One man, two kernels, and a lot of RISC-V",
     "Notion kills its Gmail client after AI agents keep humans from troubling inbox"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry on a nightclub dance floor! If it gets much sunnier, I'll have to start wearing sunscreen in the shower!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in Altrincham! You'd think the universe would give us a break from the heat, but no, it's just one big curry in the sky!\""
 }
