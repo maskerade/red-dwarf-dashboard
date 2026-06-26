@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-26T13:13:09.239082+00:00",
+  "timestamp": "2026-06-26T13:44:09.504573+00:00",
   "house": {
     "indoor_temp": 27.6,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 34.4,
+    "outdoor_temp": 33.6,
     "outdoor_humidity": 53.0,
     "wind_speed": 0.0,
-    "wind_direction": 271.0,
-    "pressure": 1014.0,
+    "wind_direction": 162.0,
+    "pressure": 1013.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 188.0,
+    "power_usage": 221.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Miasma campaign poisons 20-plus npm packages, hunts for developer secrets",
     "ZTE and Tianyi Digital Life jointly unveil flagship home AI router"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a curry left in a sunbaked tin! I’m starting to think the ship’s thermostat is on holiday in Overseal!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! At this rate, I might have to swap me curry for a nice refreshing mist—what’s it like in Llandudno, anyway?\""
 }
