@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-25T23:46:56.322364+00:00",
+  "timestamp": "2026-06-26T00:17:56.830104+00:00",
   "house": {
     "indoor_temp": 26.9,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 22.8,
-    "outdoor_humidity": 81.0,
+    "outdoor_temp": 22.9,
+    "outdoor_humidity": 82.0,
     "wind_speed": 0.0,
-    "wind_direction": 319.0,
-    "pressure": 1015.7,
+    "wind_direction": 320.0,
+    "pressure": 1015.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 289.0,
+    "power_usage": 283.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -20,11 +20,6 @@
       "conditions": "Clear ",
       "forecast": [
         {
-          "date": "2026-06-25",
-          "max": 31.0,
-          "min": 18.0
-        },
-        {
           "date": "2026-06-26",
           "max": 33.0,
           "min": 19.0
@@ -33,18 +28,18 @@
           "date": "2026-06-27",
           "max": 28.0,
           "min": 16.0
+        },
+        {
+          "date": "2026-06-28",
+          "max": 24.0,
+          "min": 12.0
         }
       ]
     },
     "overseal": {
-      "temp": 21.0,
-      "conditions": "Clear ",
+      "temp": 20.0,
+      "conditions": "Patchy light rain in area with thunder",
       "forecast": [
-        {
-          "date": "2026-06-25",
-          "max": 31.0,
-          "min": 16.0
-        },
         {
           "date": "2026-06-26",
           "max": 32.0,
@@ -54,18 +49,18 @@
           "date": "2026-06-27",
           "max": 28.0,
           "min": 15.0
+        },
+        {
+          "date": "2026-06-28",
+          "max": 24.0,
+          "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 29.0,
+      "temp": 23.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-06-25",
-          "max": 27.0,
-          "min": 15.0
-        },
         {
           "date": "2026-06-26",
           "max": 24.0,
@@ -75,6 +70,11 @@
           "date": "2026-06-27",
           "max": 21.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-06-28",
+          "max": 18.0,
+          "min": 11.0
         }
       ]
     }
@@ -83,16 +83,16 @@
     "sunrise": "04:42 AM",
     "sunset": "09:42 PM",
     "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "79",
-    "moonrise": "05:57 PM",
-    "moonset": "01:26 AM"
+    "moon_illumination": "86",
+    "moonrise": "07:12 PM",
+    "moonset": "01:42 AM"
   },
   "metrolink": "Weather Warning - Take care when you travel stay hydrated and allow more time for your journey",
   "headlines": [
-    "OpenAI says employees moving beyond chat to agents",
-    "Perseverance rover finds even more signs of extinct life on Mars",
-    "FOSS dev builds a BASIC compiler using LLVM",
-    "Recovery has to keep up with AI"
+    "AI giants back non-profit to retrain workers left behind by AI",
+    "Self-destructing Mistic backdoor linked to access broker selling corporate footholds to ransomware gangs",
+    "They read the scroll thing! AI helps decipher ancient document charred by Vesuvius",
+    "Ex-Huntress analyst claims company insider fed info to a ransomware crim. Social media drama ensues"
   ],
-  "crew_quote": "\"Blimey, 26.9°C indoors? It’s hotter than a curry on a bad day! At this rate, we'll have to start cooling off with a nice cold pint, not that I've got any, of course.\""
+  "crew_quote": "\"Do you know what’s lovely about this weather? It’s the perfect conditions for a nice cold curry — and not a drop of rain in sight, unlike that dreary Overseal!\""
 }
