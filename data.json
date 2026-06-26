@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-26T11:09:08.125952+00:00",
+  "timestamp": "2026-06-26T11:40:10.052174+00:00",
   "house": {
-    "indoor_temp": 27.3,
+    "indoor_temp": 27.4,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 31.2,
-    "outdoor_humidity": 67.0,
+    "outdoor_temp": 31.6,
+    "outdoor_humidity": 65.0,
     "wind_speed": 0.0,
-    "wind_direction": 317.0,
-    "pressure": 1014.1,
+    "wind_direction": 259.0,
+    "pressure": 1014.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 252.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "BOFH: Amnesty means never having to say you're sorry",
     "Security boss thought MFA would be too much security"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo on a Tuesday! If we don't find some shade soon, I'll be as crispy as a deep-fried Mars bar!\""
+  "crew_quote": "\"With it being hotter than a curry in a sauna, I reckon I might just start sweating like a pig in a heatwave—where's me cold lager?\""
 }
