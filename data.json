@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-26T08:03:05.352252+00:00",
+  "timestamp": "2026-06-26T08:34:04.865114+00:00",
   "house": {
     "indoor_temp": 26.7,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 30.1,
-    "outdoor_humidity": 70.0,
+    "outdoor_temp": 29.0,
+    "outdoor_humidity": 72.0,
     "wind_speed": 0.0,
-    "wind_direction": 295.0,
-    "pressure": 1014.9,
+    "wind_direction": 266.0,
+    "pressure": 1015.1,
     "rain_today": 0.0,
     "uv_index": 3.0,
-    "power_usage": 306.0,
+    "power_usage": 314.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
   "headlines": [
+    "BOFH: Amnesty means never having to say you're sorry",
     "Security boss thought MFA would be too much security",
     "Microsoft extends extended updates for Windows 10 in the most muted way imaginable",
-    "Chinese cybersecurity company claims it’s built a better-than-Mythos bug finder",
-    "AI giants back non-profit to retrain workers left behind by AI"
+    "Chinese cybersecurity company claims it’s built a better-than-Mythos bug finder"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! If we keep this up, we should just start growing mangoes instead of worrying about Microsoft updates!\""
+  "crew_quote": "\"Blimey, with it being 26 degrees and sunny, I could really go for a curry—might just have to sweat it out in the heat! Who's with me?\""
 }
