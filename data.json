@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-27T22:48:35.121285+00:00",
+  "timestamp": "2026-06-27T23:19:39.993412+00:00",
   "house": {
-    "indoor_temp": 26.9,
+    "indoor_temp": 27.0,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 19.4,
+    "outdoor_temp": 19.3,
     "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
     "wind_direction": 332.0,
-    "pressure": 1013.9,
-    "rain_today": 0.2,
+    "pressure": 1014.0,
+    "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 491.0,
+    "power_usage": 587.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"Blimey, it’s hotter in here than a curry on a summer’s day! I reckon even the AI medic would have a sweat on with this power usage!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry left in the sun! Just hope the AI medic knows how to keep my lager cold while we're stuck in this sauna!\""
 }
