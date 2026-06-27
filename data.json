@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-27T03:10:19.644750+00:00",
+  "timestamp": "2026-06-27T03:41:18.321322+00:00",
   "house": {
     "indoor_temp": 27.0,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 16.9,
+    "outdoor_temp": 17.0,
     "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
-    "wind_direction": 172.0,
+    "wind_direction": 114.0,
     "pressure": 1018.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 233.0,
+    "power_usage": 230.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Google wants AI regulation, but on its own terms",
     "US auto regulators want to kill robotaxi brake pedals"
   ],
-  "crew_quote": "\"Well, with the indoor temp at 27 degrees, I reckon it's the perfect weather for a curry! Clear skies outside, but we all know it's just hiding from the heat!\""
+  "crew_quote": "\"Hmm, 27 degrees indoors and 17 outside? Perfect curry weather! As long as the power doesn’t go out, or I might be reduced to eating the tinned stuff again!\""
 }
