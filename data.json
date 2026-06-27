@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-06-27T03:41:18.321322+00:00",
+  "timestamp": "2026-06-27T04:12:17.940657+00:00",
   "house": {
-    "indoor_temp": 27.0,
+    "indoor_temp": 26.9,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 17.0,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 17.1,
+    "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
-    "wind_direction": 114.0,
-    "pressure": 1018.1,
+    "wind_direction": 87.0,
+    "pressure": 1018.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 230.0,
+    "power_usage": 292.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 17.0,
-      "conditions": "Clear ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-27",
           "max": 28.0,
-          "min": 15.0
+          "min": 16.0
         },
         {
           "date": "2026-06-28",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Clear ",
+      "temp": 18.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-27",
@@ -52,19 +52,19 @@
         },
         {
           "date": "2026-06-29",
-          "max": 23.0,
+          "max": 22.0,
           "min": 9.0
         }
       ]
     },
     "llandudno": {
       "temp": 17.0,
-      "conditions": "Overcast",
+      "conditions": "Drizzle",
       "forecast": [
         {
           "date": "2026-06-27",
           "max": 22.0,
-          "min": 13.0
+          "min": 14.0
         },
         {
           "date": "2026-06-28",
@@ -94,5 +94,5 @@
     "Google wants AI regulation, but on its own terms",
     "US auto regulators want to kill robotaxi brake pedals"
   ],
-  "crew_quote": "\"Hmm, 27 degrees indoors and 17 outside? Perfect curry weather! As long as the power doesn’t go out, or I might be reduced to eating the tinned stuff again!\""
+  "crew_quote": "\"Blimey, it’s sunnier in Overseal than a holiday in Ibiza! I reckon I’ll whip up a curry and enjoy the rays; even a drizzle can't dampen my appetite!\""
 }
