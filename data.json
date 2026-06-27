@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-27T16:36:33.166996+00:00",
+  "timestamp": "2026-06-27T17:07:32.253082+00:00",
   "house": {
     "indoor_temp": 27.1,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 26.8,
-    "outdoor_humidity": 57.0,
+    "outdoor_temp": 27.9,
+    "outdoor_humidity": 55.0,
     "wind_speed": 0.0,
-    "wind_direction": 84.0,
-    "pressure": 1014.5,
+    "wind_direction": 55.0,
+    "pressure": 1014.4,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 185.0,
+    "uv_index": 2.0,
+    "power_usage": 213.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"With the temperature soaring and patchy rain nearby, I reckon it’s the perfect time for a curry — just don't forget to close the windows; wouldn't want the rain ruining my meal!\""
+  "crew_quote": "\"Well, with it being hotter than a curry in a sauna, I'd say we’re all in for a right sweaty summer, aren’t we? Just keep those patchy rain clouds away from my pint!\""
 }
