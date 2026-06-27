@@ -1,43 +1,43 @@
 {
-  "timestamp": "2026-06-27T06:47:20.437157+00:00",
+  "timestamp": "2026-06-27T07:18:25.486818+00:00",
   "house": {
-    "indoor_temp": 26.7,
-    "indoor_humidity": 52.0,
-    "outdoor_temp": 22.9,
+    "indoor_temp": 26.8,
+    "indoor_humidity": 53.0,
+    "outdoor_temp": 22.8,
     "outdoor_humidity": 74.0,
     "wind_speed": 0.0,
-    "wind_direction": 73.0,
-    "pressure": 1017.4,
+    "wind_direction": 66.0,
+    "pressure": 1018.1,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 289.0,
+    "uv_index": 2.0,
+    "power_usage": 269.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-27",
-          "max": 28.0,
+          "max": 27.0,
           "min": 16.0
         },
         {
           "date": "2026-06-28",
-          "max": 22.0,
+          "max": 23.0,
           "min": 12.0
         },
         {
           "date": "2026-06-29",
           "max": 21.0,
-          "min": 10.0
+          "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -52,23 +52,23 @@
         },
         {
           "date": "2026-06-29",
-          "max": 22.0,
+          "max": 24.0,
           "min": 9.0
         }
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Drizzle",
+      "temp": 18.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-06-27",
-          "max": 22.0,
-          "min": 14.0
+          "max": 21.0,
+          "min": 13.0
         },
         {
           "date": "2026-06-28",
-          "max": 17.0,
+          "max": 18.0,
           "min": 11.0
         },
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "On Sunday 28th June until 10am no trams will operate through Victoria. Rochdale & Bury services will terminate at Victoria. East Didsbury will terminate at Exchange Sq. See TfGM.com for more info",
   "headlines": [
+    "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands",
-    "Google wants AI regulation, but on its own terms",
-    "US auto regulators want to kill robotaxi brake pedals"
+    "Google wants AI regulation, but on its own terms"
   ],
-  "crew_quote": "\"You know, even the weather's more consistent than our power usage—at least it's sunny in Altrincham; my curry's still cooking nicely at 26.7°C!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry left in the sun! Just wait till I get my hands on some proper air conditioning.\""
 }
