@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-27T07:18:25.486818+00:00",
+  "timestamp": "2026-06-27T07:49:26.757616+00:00",
   "house": {
     "indoor_temp": 26.8,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 22.8,
-    "outdoor_humidity": 74.0,
+    "outdoor_temp": 23.1,
+    "outdoor_humidity": 73.0,
     "wind_speed": 0.0,
-    "wind_direction": 66.0,
-    "pressure": 1018.1,
+    "wind_direction": 80.0,
+    "pressure": 1017.8,
     "rain_today": 0.0,
     "uv_index": 2.0,
-    "power_usage": 269.0,
+    "power_usage": 266.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Trump-shuttered climate change site back online in nonprofit hands",
     "Google wants AI regulation, but on its own terms"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry left in the sun! Just wait till I get my hands on some proper air conditioning.\""
+  "crew_quote": "\"Blimey, it's hotter in here than a curry at a sauna party! If only we could trade some of this indoor heat for a nice, cool Altrincham breeze.\""
 }
