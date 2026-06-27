@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-27T15:03:31.995101+00:00",
+  "timestamp": "2026-06-27T15:34:32.873932+00:00",
   "house": {
     "indoor_temp": 27.2,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 28.1,
-    "outdoor_humidity": 53.0,
+    "outdoor_temp": 28.8,
+    "outdoor_humidity": 51.0,
     "wind_speed": 0.0,
-    "wind_direction": 304.0,
-    "pressure": 1015.2,
+    "wind_direction": 97.0,
+    "pressure": 1015.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 182.0,
+    "power_usage": 196.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"Blimey, it's so hot even the AI medic's sweating bullets! Just don't let it try and treat my curry hangover, alright?\""
+  "crew_quote": "\"Blimey, it’s a scorcher! It’s so hot even my curry’s sweating, but at least the AI can help us fix the air con if it breaks down, eh?\""
 }
