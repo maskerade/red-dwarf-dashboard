@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-06-27T01:37:15.899494+00:00",
+  "timestamp": "2026-06-27T02:08:16.083387+00:00",
   "house": {
     "indoor_temp": 27.2,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 17.3,
-    "outdoor_humidity": 87.0,
+    "outdoor_temp": 17.2,
+    "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
-    "wind_direction": 244.0,
+    "wind_direction": 185.0,
     "pressure": 1018.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
@@ -94,5 +94,5 @@
     "Google wants AI regulation, but on its own terms",
     "US auto regulators want to kill robotaxi brake pedals"
   ],
-  "crew_quote": "\"Blimey, at 27 degrees in here, it's hotter than a curry on a hot summer's day! I thought I signed up for space travel, not a sauna!\""
+  "crew_quote": "\"You know, with the indoor temp hitting 27.2°C, I reckon we could cook a curry in here; just a shame the Secret Service won't taste my masterpiece!\""
 }
