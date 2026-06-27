@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-27T17:38:32.389083+00:00",
+  "timestamp": "2026-06-27T18:09:32.637486+00:00",
   "house": {
     "indoor_temp": 27.1,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 26.9,
-    "outdoor_humidity": 58.0,
+    "outdoor_temp": 22.4,
+    "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 92.0,
-    "pressure": 1014.3,
-    "rain_today": 0.0,
+    "wind_direction": 262.0,
+    "pressure": 1014.5,
+    "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 205.0,
+    "power_usage": 179.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 26.0,
+      "conditions": "Patchy light rain in area with thunder",
       "forecast": [
         {
           "date": "2026-06-27",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 28.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 27.0,
+      "conditions": "Thundery outbreaks in nearby",
       "forecast": [
         {
           "date": "2026-06-27",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 18.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"Blimey, with this heat, I reckon my curry's gonna turn into a soup if I don't eat it quick! At least the rain'll give me a break from sweating like a pig!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here, and I've just heard there's a thunderstorm brewing! Perfect weather for a good old curry and a power cut!\""
 }
