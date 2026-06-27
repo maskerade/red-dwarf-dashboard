@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-27T12:28:29.887214+00:00",
+  "timestamp": "2026-06-27T12:59:30.305142+00:00",
   "house": {
     "indoor_temp": 27.4,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 26.8,
-    "outdoor_humidity": 58.0,
+    "outdoor_temp": 27.6,
+    "outdoor_humidity": 55.0,
     "wind_speed": 0.0,
-    "wind_direction": 308.0,
-    "pressure": 1016.0,
+    "wind_direction": 252.0,
+    "pressure": 1015.6,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 207.0,
+    "uv_index": 4.0,
+    "power_usage": 171.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"Blimey, with the indoor temp at 27.4°C, I reckon we could cook a curry just by leaving it out in the living room!\""
+  "crew_quote": "\"Oi, with this heat, I’m pretty sure my curry’s going to start cooking itself if it sits out any longer! Can’t believe it’s 27.4°C indoors, I’m melting here!\""
 }
