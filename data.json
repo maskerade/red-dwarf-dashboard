@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-27T10:55:28.414242+00:00",
+  "timestamp": "2026-06-27T11:26:28.697924+00:00",
   "house": {
-    "indoor_temp": 27.1,
+    "indoor_temp": 27.2,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 24.7,
-    "outdoor_humidity": 65.0,
+    "outdoor_temp": 25.7,
+    "outdoor_humidity": 62.0,
     "wind_speed": 0.0,
-    "wind_direction": 88.0,
-    "pressure": 1016.9,
+    "wind_direction": 81.0,
+    "pressure": 1016.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 202.0,
+    "power_usage": 174.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"Well, I don’t know about you, but I could cook a curry in here with all this heat! Maybe NASA should send an AI chef instead of a medic!\""
+  "crew_quote": "\"Honestly, with the heat at 27.2°C, I’m starting to wonder if I should cook my curry in the air-con instead of on the hob — it’d be just as steamy!\""
 }
