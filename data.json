@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-27T09:22:27.975292+00:00",
+  "timestamp": "2026-06-27T09:53:27.563425+00:00",
   "house": {
     "indoor_temp": 27.1,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 23.9,
-    "outdoor_humidity": 71.0,
+    "outdoor_temp": 24.0,
+    "outdoor_humidity": 72.0,
     "wind_speed": 0.0,
-    "wind_direction": 1.0,
-    "pressure": 1017.6,
+    "wind_direction": 222.0,
+    "pressure": 1017.4,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 379.0,
+    "power_usage": 334.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! I reckon we could fry an egg on me forehead while the AI sorts out the big brains in space.\""
+  "crew_quote": "\"Blimey, it’s 27 degrees in here! Feels like the curry I had last night is turning into a sauna! At least the weather outside is nearly as hot as my love life!\""
 }
