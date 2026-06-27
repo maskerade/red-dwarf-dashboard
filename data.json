@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-27T05:14:18.983869+00:00",
+  "timestamp": "2026-06-27T05:45:19.765865+00:00",
   "house": {
     "indoor_temp": 26.8,
-    "indoor_humidity": 53.0,
-    "outdoor_temp": 17.7,
-    "outdoor_humidity": 88.0,
+    "indoor_humidity": 52.0,
+    "outdoor_temp": 20.1,
+    "outdoor_humidity": 80.0,
     "wind_speed": 0.0,
-    "wind_direction": 254.0,
-    "pressure": 1017.7,
+    "wind_direction": 253.0,
+    "pressure": 1017.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 199.0,
+    "power_usage": 205.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Google wants AI regulation, but on its own terms",
     "US auto regulators want to kill robotaxi brake pedals"
   ],
-  "crew_quote": "\"Ah, just like a good curry, the weather's got to be just right—17 degrees and sunny in Altrincham sounds perfect for a pint and a takeaway, don't you think?\""
+  "crew_quote": "\"Blimey, it's sunny in Altrincham, but I’m stuck in this boiling tin can! I’d give anything for a curry and a proper breeze!\""
 }
