@@ -2907,6 +2907,10 @@
       renderHollyFeatured();
       renderComfortIndex(data);
       renderCompareNarrative(data);
+      renderRunLog(data);
+      renderGlowUp(data);
+      renderPanelAudit(data);
+      renderListerAlert(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
@@ -3229,10 +3233,180 @@
     el.textContent = arrow + ' Rimmer: "' + cfg.label.charAt(0).toUpperCase() + cfg.label.slice(1) + ' is ' + dir + ' ' + val + unit + ' compared to yesterday. ' + (isUp ? 'This is an outrage!' : 'Finally, something is going right around here.') + '"';
   }
 
+  // ── 39. Data Collect Run Log (Kryten) ────────────────────────────
+  function renderRunLog(data) {
+    const container = $('run-log-entries');
+    if (!container) return;
+    const meta = data.meta || {};
+    const runTime = meta.generated_at || meta.timestamp || new Date().toISOString();
+    const now = Date.now();
+    const runDate = new Date(runTime);
+    const ageMs = now - runDate.getTime();
+    let status = 'fresh';
+    if (ageMs >= 7200000) status = 'aged';
+    else if (ageMs >= 1800000) status = 'stale';
+    const entry = { time: runTime, status: status };
+    let log = JSON.parse(localStorage.getItem('rdwd_run_log') || '[]');
+    log.unshift(entry);
+    if (log.length > 10) log.length = 10;
+    localStorage.setItem('rdwd_run_log', JSON.stringify(log));
+    if (log.length === 0) {
+      container.innerHTML = '<div class="run-log-empty">No run data recorded yet.</div>';
+      return;
+    }
+    container.innerHTML = log.map(function(e) {
+      let timeStr = '--';
+      try {
+        const d = new Date(e.time);
+        timeStr = d.toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit', second: '2-digit' });
+      } catch (_) {}
+      return '<div class="run-log-entry ' + e.status + '"><span class="run-time">' + timeStr + '</span><span class="run-status">' + e.status.toUpperCase() + '</span></div>';
+    }).join('');
+  }
+
+  // ── 40. Daily Glow-Up Score (Cat) ────────────────────────────────
+  function renderGlowUp(data) {
+    const scoreEl = $('glow-up-score');
+    const starsEl = $('glow-up-stars');
+    const commentEl = $('glow-up-comment');
+    if (!scoreEl || !starsEl || !commentEl) return;
+    const house = data.house || {};
+    const uv = Number(house.uv_index);
+    let score = 3;
+    if (!isNaN(uv)) {
+      score = Math.min(10, Math.max(1, Math.round(uv)));
+    }
+    const locs = data.locations || {};
+    const firstLoc = Object.values(locs).find(function(l) { return l.conditions; });
+    if (firstLoc) {
+      const cond = firstLoc.conditions.toLowerCase();
+      if (cond.includes('sunny') || cond.includes('clear')) score += 2;
+      else if (cond.includes('rain') || cond.includes('overcast') || cond.includes('drizzle') || cond.includes('storm')) score -= 1;
+    }
+    if (firstLoc && !isNaN(Number(firstLoc.temp)) && Number(firstLoc.temp) > 20) score += 1;
+    score = Math.max(1, Math.min(10, score));
+    scoreEl.textContent = score;
+    var stars, comment;
+    if (score >= 9) { stars = '\u2605\u2605\u2605\u2605\u2605'; comment = 'Absolutely edible'; }
+    else if (score >= 7) { stars = '\u2605\u2605\u2605\u2605\u2606'; comment = 'Giving main character energy'; }
+    else if (score >= 5) { stars = '\u2605\u2605\u2605\u2606\u2606'; comment = 'You\'ll do, I suppose'; }
+    else if (score >= 3) { stars = '\u2605\u2605\u2606\u2606\u2606'; comment = 'Filter recommended darling'; }
+    else { stars = '\u2605\u2606\u2606\u2606\u2606'; comment = 'Wear a bag'; }
+    starsEl.textContent = stars;
+    commentEl.textContent = comment;
+  }
+
+  // ── 41. Panel Audit Checklist (Rimmer) ───────────────────────────
+  function renderPanelAudit(data) {
+    const container = $('audit-items');
+    const footer = $('audit-footer');
+    if (!container || !footer) return;
+    function hasVal(obj, key) { return obj && obj[key] !== null && obj[key] !== undefined; }
+    var checks = [
+      { label: 'House Data', pass: (function() {
+        var h = data.house;
+        if (!h) return false;
+        return hasVal(h, 'indoor_temp') && hasVal(h, 'indoor_humidity') && hasVal(h, 'pressure');
+      })() },
+      { label: 'Weather Locations', pass: (function() {
+        var locs = data.locations || {};
+        var keys = Object.keys(locs);
+        if (keys.length < 3) return false;
+        return Object.values(locs).some(function(l) { return l.conditions; });
+      })() },
+      { label: 'Forecast', pass: (function() {
+        if (data.forecast && data.forecast.length >= 3) return true;
+        var locs = data.locations || {};
+        return Object.values(locs).some(function(l) { return l.forecast && l.forecast.length >= 3; });
+      })() },
+      { label: 'Headlines', pass: !!(data.headlines && data.headlines.length >= 3) },
+      { label: 'Crew Quote', pass: !!data.crew_quote },
+      { label: 'Starbug', pass: !!(data.starbug && (data.starbug.status || Object.keys(data.starbug).length > 0)) },
+    ];
+    var passCount = checks.filter(function(c) { return c.pass; }).length;
+    container.innerHTML = checks.map(function(c) {
+      var cls = c.pass ? 'audit-pass' : 'audit-fail';
+      var marker = c.pass ? '\u2713' : '\u2717';
+      return '<div class="audit-item ' + cls + '"><span class="audit-marker">' + marker + '</span><span class="audit-label">' + c.label + '</span></div>';
+    }).join('');
+    var signoff;
+    if (passCount === 6) signoff = 'Acceptable.';
+    else if (passCount >= 4) signoff = 'Substandard.';
+    else signoff = 'Disgraceful.';
+    footer.textContent = passCount + ' of 6 panels passed. ' + signoff;
+  }
+
+  // ── 42. Ask Holly Interactive Tooltip ────────────────────────────
+  function setupHollyTooltips() {
+    var TOOLTIPS = {
+      indoor_temp: 'That\'s... that\'s a temperature, yes. I think. Could be wrong.',
+      outdoor_temp: 'Outside is... outside-ish. Numbers confirm this.',
+      pressure: 'The air is pressing. As it does. Generally.',
+      humidity: 'Wetness quantity. Important for... things.',
+      wind_speed: 'Moving air. Or a very lazy ghost.',
+      power_usage: 'Electrons. Going places. Without asking permission.',
+      rain_today: 'Sky water. Falling. For some reason.',
+      uv_index: 'Sun violence. Wear a hat if you care.',
+      gas_consumption: 'Methane movement. Probably Lister.',
+      temperature: 'Hot cold measurement. Very scientific.',
+    };
+    var els = document.querySelectorAll('[data-holly]');
+    els.forEach(function(el) {
+      el.addEventListener('mouseenter', function(e) {
+        var key = this.dataset.holly;
+        var tipMap = TOOLTIPS[key] || TOOLTIPS.temperature || '';
+        var data = window.__dashboardData || {};
+        var house = data.house || {};
+        var val = house[key];
+        if ((val === undefined || val === null) && key === 'humidity') {
+          val = house.indoor_humidity !== undefined ? house.indoor_humidity : house.outdoor_humidity;
+        }
+        var valStr = (val !== undefined && val !== null) ? ' (' + val + ')' : '';
+        var existing = document.querySelector('.holly-tooltip');
+        if (existing) existing.remove();
+        var tip = document.createElement('div');
+        tip.className = 'holly-tooltip';
+        tip.textContent = tipMap + valStr;
+        document.body.appendChild(tip);
+        var rect = this.getBoundingClientRect();
+        tip.style.left = rect.left + 'px';
+        tip.style.top = (rect.bottom + 4) + 'px';
+        requestAnimationFrame(function() { tip.classList.add('visible'); });
+      });
+      el.addEventListener('mouseleave', function() {
+        var tip = document.querySelector('.holly-tooltip');
+        if (tip) {
+          tip.classList.remove('visible');
+          setTimeout(function() { tip.remove(); }, 200);
+        }
+      });
+    });
+  }
+
+  // ── 43. Lister's Left It On Again Humour Alert ──────────────────
+  function renderListerAlert(data) {
+    var alertEl = $('lister-alert');
+    var textEl = $('lister-alert-text');
+    if (!alertEl || !textEl) return;
+    var house = data.house || {};
+    var power = Number(house.power_usage);
+    var wind = Number(house.wind_speed);
+    var alerts = [];
+    if (!isNaN(power) && power > 400) alerts.push('Oi, who left the oven on? I can see the meter from here, man!');
+    if (!isNaN(wind) && wind < 2) alerts.push('Not even a breeze. Proper still. Might as well be in me bunk.');
+    if (alerts.length > 0) {
+      textEl.textContent = alerts.join(' ');
+      alertEl.style.display = '';
+    } else {
+      alertEl.style.display = 'none';
+    }
+  }
+
   // --- Init ---
     document.addEventListener('DOMContentLoaded', function () {
       startClock();
       loadDashboard();
+      setupHollyTooltips();
 
       const REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minutes
       let countdownMs = REFRESH_INTERVAL;

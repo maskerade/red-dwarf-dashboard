@@ -78,70 +78,70 @@
         <h2 class="panel-title">&gt; SHIP DIAGNOSTIC</h2>
         <div class="ship-grid" id="ship-grid">
           <div class="ship-item" data-key="indoor_temp">
-            <span class="ship-label">INDOOR TEMP</span>
+            <span class="ship-label" data-holly="indoor_temp">INDOOR TEMP</span>
             <span>
               <span class="ship-value" id="ship-indoor_temp">--</span>
               <span class="ship-alert-indicator">⚠</span>
             </span>
           </div>
           <div class="ship-item" data-key="indoor_humidity">
-            <span class="ship-label">INDOOR HUM</span>
+            <span class="ship-label" data-holly="humidity">INDOOR HUM</span>
             <span>
               <span class="ship-value" id="ship-indoor_humidity">--</span>
               <span class="ship-alert-indicator">⚠</span>
             </span>
           </div>
           <div class="ship-item" data-key="outdoor_temp">
-            <span class="ship-label">OUTDOOR TEMP</span>
+            <span class="ship-label" data-holly="outdoor_temp">OUTDOOR TEMP</span>
             <span>
               <span class="ship-value" id="ship-outdoor_temp">--</span>
               <span class="ship-alert-indicator">⚠</span>
             </span>
           </div>
           <div class="ship-item" data-key="outdoor_humidity">
-            <span class="ship-label">OUTDOOR HUM</span>
+            <span class="ship-label" data-holly="humidity">OUTDOOR HUM</span>
             <span>
               <span class="ship-value" id="ship-outdoor_humidity">--</span>
               <span class="ship-alert-indicator">⚠</span>
             </span>
           </div>
           <div class="ship-item" data-key="pressure">
-            <span class="ship-label">PRESSURE</span>
+            <span class="ship-label" data-holly="pressure">PRESSURE</span>
             <span>
               <span class="ship-value" id="ship-pressure">--</span>
               <span class="ship-alert-indicator">⚠</span>
             </span>
           </div>
           <div class="ship-item" data-key="rain_today">
-            <span class="ship-label">RAIN TODAY</span>
+            <span class="ship-label" data-holly="rain_today">RAIN TODAY</span>
             <span>
               <span class="ship-value" id="ship-rain_today">--</span>
               <span class="ship-alert-indicator">⚠</span>
             </span>
           </div>
           <div class="ship-item" data-key="uv_index">
-            <span class="ship-label">UV INDEX</span>
+            <span class="ship-label" data-holly="uv_index">UV INDEX</span>
             <span>
               <span class="ship-value" id="ship-uv_index">--</span>
               <span class="ship-alert-indicator">⚠</span>
             </span>
           </div>
           <div class="ship-item" data-key="power_usage">
-            <span class="ship-label">POWER USAGE</span>
+            <span class="ship-label" data-holly="power_usage">POWER USAGE</span>
             <span>
               <span class="ship-value" id="ship-power_usage">--</span>
               <span class="ship-alert-indicator">⚠</span>
             </span>
           </div>
           <div class="ship-item" data-key="gas_consumption">
-            <span class="ship-label">GAS CONSUMP</span>
+            <span class="ship-label" data-holly="gas_consumption">GAS CONSUMP</span>
             <span>
               <span class="ship-value" id="ship-gas_consumption">--</span>
               <span class="ship-alert-indicator">⚠</span>
             </span>
           </div>
           <div class="ship-item" data-key="wind_speed">
-            <span class="ship-label">WIND SPEED</span>
+            <span class="ship-label" data-holly="wind_speed">WIND SPEED</span>
             <span>
               <span class="ship-value" id="ship-wind_speed">--</span>
               <span class="ship-alert-indicator">⚠</span>
@@ -370,6 +370,11 @@
         </div>
       </div>
     </section>
+
+    <!-- 43. Lister's Left It On Again Humour Alert -->
+    <div class="lister-alert" id="lister-alert" style="display:none">
+      <span class="lister-alert-text" id="lister-alert-text"></span>
+    </div>
 
     <!-- DECK ENTERTAINMENT — Red Dwarf fun widgets -->
     <section class="panel panel-deck" id="panel-deck">
@@ -713,9 +718,34 @@
                           <div class="comfort-content">
                             <span class="comfort-verdict" id="comfort-verdict">--</span>
                             <span class="comfort-details" id="comfort-details">Loading...</span>
-                            <span class="comfort-saying" id="comfort-saying"></span>
-                          </div>
-                        </div>
+                        <span class="comfort-saying" id="comfort-saying"></span>
+                      </div>
+                    </div>
+
+                    <!-- 39. Data Collect Run Log (Kryten) -->
+                    <div class="deck-item deck run-log" id="run-log">
+                      <span class="deck-label">▸ DATA COLLECT RUN LOG</span>
+                      <div class="run-log-entries" id="run-log-entries">
+                        <div class="run-log-entry fresh"><span class="run-time">--</span><span class="run-status">Awaiting data...</span></div>
+                      </div>
+                    </div>
+
+                    <!-- 40. Daily Glow-Up Score (Cat) -->
+                    <div class="deck-item deck glow-up" id="glow-up">
+                      <span class="deck-label">▸ DAILY GLOW-UP SCORE</span>
+                      <div class="glow-up-ring">
+                        <span class="glow-up-score" id="glow-up-score">7</span>
+                        <span class="glow-up-stars" id="glow-up-stars">★★★☆☆</span>
+                      </div>
+                      <span class="deck-sub glow-up-comment" id="glow-up-comment">Giving main character energy</span>
+                    </div>
+
+                    <!-- 41. Panel Audit Checklist (Rimmer) -->
+                    <div class="deck-item deck panel-audit" id="panel-audit">
+                      <span class="deck-label">▸ PANEL AUDIT CHECKLIST</span>
+                      <div class="audit-items" id="audit-items"></div>
+                      <span class="deck-sub audit-footer" id="audit-footer">Inspection complete.</span>
+                    </div>
 
               </div>
     </section>
