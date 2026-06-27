@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-27T15:34:32.873932+00:00",
+  "timestamp": "2026-06-27T16:05:32.590302+00:00",
   "house": {
-    "indoor_temp": 27.2,
+    "indoor_temp": 27.1,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 28.8,
-    "outdoor_humidity": 51.0,
+    "outdoor_temp": 28.7,
+    "outdoor_humidity": 53.0,
     "wind_speed": 0.0,
-    "wind_direction": 97.0,
-    "pressure": 1015.0,
+    "wind_direction": 58.0,
+    "pressure": 1014.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 196.0,
+    "power_usage": 174.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "08:21 PM",
     "moonset": "02:05 AM"
   },
-  "metrolink": "Due to an earlier tram fault we are experiencing a delay through Trafford Bar towards the city. We apologise for any inconvenience caused",
+  "metrolink": "On Sunday 28th June until 10am no trams will operate through Victoria. Rochdale & Bury services will terminate at Victoria. East Didsbury will terminate at Exchange Sq. See TfGM.com for more info",
   "headlines": [
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"Blimey, it’s a scorcher! It’s so hot even my curry’s sweating, but at least the AI can help us fix the air con if it breaks down, eh?\""
+  "crew_quote": "\"Blimey, I thought the curry was making me sweat, but it turns out it’s just this roasting 28 degrees! Can we at least get a fan that doesn’t sound like a dying seagull?\""
 }
