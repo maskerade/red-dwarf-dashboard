@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-06-27T11:26:28.697924+00:00",
+  "timestamp": "2026-06-27T11:57:29.251966+00:00",
   "house": {
-    "indoor_temp": 27.2,
+    "indoor_temp": 27.4,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 25.7,
-    "outdoor_humidity": 62.0,
+    "outdoor_temp": 26.1,
+    "outdoor_humidity": 60.0,
     "wind_speed": 0.0,
-    "wind_direction": 81.0,
-    "pressure": 1016.7,
+    "wind_direction": 292.0,
+    "pressure": 1016.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 174.0,
+    "power_usage": 207.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
+      "temp": 25.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Sunny",
+      "temp": 26.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-27",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Overcast",
+      "temp": 21.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-27",
@@ -94,5 +94,5 @@
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"Honestly, with the heat at 27.2°C, I’m starting to wonder if I should cook my curry in the air-con instead of on the hob — it’d be just as steamy!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry in a sauna! I swear, if it gets any warmer, even my hair will start sweating.\""
 }
