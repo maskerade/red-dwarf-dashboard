@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-27T00:04:18.612472+00:00",
+  "timestamp": "2026-06-27T00:35:19.192791+00:00",
   "house": {
     "indoor_temp": 27.4,
-    "indoor_humidity": 55.0,
-    "outdoor_temp": 18.5,
-    "outdoor_humidity": 84.0,
+    "indoor_humidity": 54.0,
+    "outdoor_temp": 18.0,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
-    "wind_direction": 246.0,
-    "pressure": 1018.4,
+    "wind_direction": 241.0,
+    "pressure": 1018.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 446.0,
+    "power_usage": 331.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Google wants AI regulation, but on its own terms",
     "US auto regulators want to kill robotaxi brake pedals"
   ],
-  "crew_quote": "\"Oi, it’s so hot in here, I could fry an egg on me head! But with all this power use, we might as well throw a curry party instead!\""
+  "crew_quote": "\"Looks like it’s a perfect day outside—wish I could swap this sauna for Altrincham's clear skies, but I suppose I’ll just have to settle for a curry instead!\""
 }
