@@ -1,40 +1,98 @@
 {
-  "timestamp": "2026-06-27T19:12:13.502645+00:00",
+  "timestamp": "2026-06-27T19:42:32.661101+00:00",
   "house": {
     "indoor_temp": 27.0,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 23.2,
-    "outdoor_humidity": 75.0,
+    "outdoor_temp": 23.4,
+    "outdoor_humidity": 74.0,
     "wind_speed": 0.0,
-    "wind_direction": 84.0,
-    "pressure": 1014.4,
+    "wind_direction": 39.0,
+    "pressure": 1014.2,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 202.0,
+    "power_usage": 177.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 24.0,
+      "conditions": "Patchy rain nearby",
+      "forecast": [
+        {
+          "date": "2026-06-27",
+          "max": 27.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-06-28",
+          "max": 22.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-06-29",
+          "max": 22.0,
+          "min": 10.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 25.0,
+      "conditions": "Thundery outbreaks in nearby",
+      "forecast": [
+        {
+          "date": "2026-06-27",
+          "max": 27.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-06-28",
+          "max": 22.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-06-29",
+          "max": 23.0,
+          "min": 9.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 18.0,
+      "conditions": "Overcast",
+      "forecast": [
+        {
+          "date": "2026-06-27",
+          "max": 22.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-06-28",
+          "max": 17.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-06-29",
+          "max": 19.0,
+          "min": 11.0
+        }
+      ]
     }
   },
-  "astronomy": {},
-  "metrolink": "Due to a medical emergency at Altrincham all trams will depart from platform 2 until further notice. We apologise for any inconvenience this may cause",
+  "astronomy": {
+    "sunrise": "04:43 AM",
+    "sunset": "09:42 PM",
+    "moon_phase": "Waxing Gibbous",
+    "moon_illumination": "92",
+    "moonrise": "08:21 PM",
+    "moonset": "02:05 AM"
+  },
+  "metrolink": "On Sunday 28th June until 10am no trams will operate through Victoria. Rochdale & Bury services will terminate at Victoria. East Didsbury will terminate at Exchange Sq. See TfGM.com for more info",
   "headlines": [
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"With this heat, I reckon the AI medic's gonna need a curry, just to cool down and keep it from melting into a puddle of circuits!\""
+  "crew_quote": "\"Look at the weather! It’s hotter than a vindaloo in a sauna—perfect for a pint and a curry, not so much for dodging thunderstorms!\""
 }
