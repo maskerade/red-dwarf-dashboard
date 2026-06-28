@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-28T08:37:49.222491+00:00",
+  "timestamp": "2026-06-28T09:08:48.947955+00:00",
   "house": {
-    "indoor_temp": 26.0,
+    "indoor_temp": 25.9,
     "indoor_humidity": 52.0,
-    "outdoor_temp": 19.1,
-    "outdoor_humidity": 81.0,
+    "outdoor_temp": 20.0,
+    "outdoor_humidity": 80.0,
     "wind_speed": 0.0,
-    "wind_direction": 75.0,
+    "wind_direction": 149.0,
     "pressure": 1016.8,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 306.0,
+    "uv_index": 1.0,
+    "power_usage": 432.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "09:21 PM",
     "moonset": "02:39 AM"
   },
-  "metrolink": "On Sunday 28th June until 10am no trams will operate through Victoria. Rochdale & Bury services will terminate at Victoria. East Didsbury will terminate at Exchange Sq. See TfGM.com for more info",
+  "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
   "headlines": [
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"Blimey, it's hotter in here than a Vindaloo on a summer's day! At least we'll be cooking up a decent curry while the AI sorts out the universe!\""
+  "crew_quote": "\"Blimey, it’s hotter in here than a curry on a summer’s day! Bet I’d still trade it for a nice pint in Altrincham… at least I could sweat in style!\""
 }
