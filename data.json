@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-28T00:21:40.710796+00:00",
+  "timestamp": "2026-06-28T00:52:41.207793+00:00",
   "house": {
-    "indoor_temp": 26.9,
+    "indoor_temp": 26.8,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 19.6,
-    "outdoor_humidity": 82.0,
+    "outdoor_temp": 18.9,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 60.0,
-    "pressure": 1013.7,
+    "wind_direction": 37.0,
+    "pressure": 1013.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 264.0,
+    "power_usage": 272.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"With the weather being overcast in so many places, I reckon the only thing getting baked today is my curry! Let's just hope the power doesn't run out before I finish!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! I reckon we should open a window before we all start melting like chocolate in the sun!\""
 }
