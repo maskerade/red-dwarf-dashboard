@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-28T12:14:51.581915+00:00",
+  "timestamp": "2026-06-28T12:45:52.635451+00:00",
   "house": {
-    "indoor_temp": 26.1,
-    "indoor_humidity": 47.0,
-    "outdoor_temp": 21.0,
-    "outdoor_humidity": 50.0,
-    "wind_speed": 0.4,
-    "wind_direction": 159.0,
-    "pressure": 1018.7,
+    "indoor_temp": 26.2,
+    "indoor_humidity": 46.0,
+    "outdoor_temp": 21.8,
+    "outdoor_humidity": 52.0,
+    "wind_speed": 0.0,
+    "wind_direction": 99.0,
+    "pressure": 1018.9,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 533.0,
+    "uv_index": 1.0,
+    "power_usage": 500.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Shower In Vicinity",
+      "temp": 20.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Shower In Vicinity",
+      "temp": 21.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones"
   ],
-  "crew_quote": "\"When it’s 19 degrees and a shower's brewing outside, I reckon that’s perfect curry weather—just not for NASA’s AI medic; he’d need a proper doctor after my vindaloo!\""
+  "crew_quote": "\"Did you hear about that NASA AI medic? I mean, if it can't tell the difference between a bad curry and a mild case of space madness, we’re all in trouble!\""
 }
