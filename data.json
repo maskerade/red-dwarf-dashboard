@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-28T07:04:47.618032+00:00",
+  "timestamp": "2026-06-28T07:35:47.302160+00:00",
   "house": {
-    "indoor_temp": 26.3,
+    "indoor_temp": 26.2,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 19.8,
-    "outdoor_humidity": 78.0,
+    "outdoor_temp": 19.3,
+    "outdoor_humidity": 79.0,
     "wind_speed": 0.0,
-    "wind_direction": 291.0,
-    "pressure": 1015.1,
+    "wind_direction": 196.0,
+    "pressure": 1015.6,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 286.0,
+    "uv_index": 1.0,
+    "power_usage": 584.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "09:21 PM",
     "moonset": "02:39 AM"
   },
-  "metrolink": "We are experiencing a minor delay on the Altrincham line. Metrolink apologises for any inconvenience caused to your journey.",
+  "metrolink": "On Sunday 28th June until 10am no trams will operate through Victoria. Rochdale & Bury services will terminate at Victoria. East Didsbury will terminate at Exchange Sq. See TfGM.com for more info",
   "headlines": [
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"With it being 26°C in here, I'm starting to think we should just bring the curry to the sauna. I can hear the chicken tikka calling me from the fridge!\""
+  "crew_quote": "\"I mean, 26.2°C indoors? It’s like we’re training for the Great Curry Sweat Olympics! Pass the poppadoms, I'm boiling over here!\""
 }
