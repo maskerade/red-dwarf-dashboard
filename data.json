@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-28T09:08:48.947955+00:00",
+  "timestamp": "2026-06-28T09:39:49.053964+00:00",
   "house": {
-    "indoor_temp": 25.9,
+    "indoor_temp": 26.0,
     "indoor_humidity": 52.0,
-    "outdoor_temp": 20.0,
-    "outdoor_humidity": 80.0,
+    "outdoor_temp": 18.4,
+    "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 149.0,
-    "pressure": 1016.8,
+    "wind_direction": 78.0,
+    "pressure": 1017.5,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 432.0,
+    "uv_index": 0.0,
+    "power_usage": 306.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Partly cloudy",
+      "temp": 18.0,
+      "conditions": "Shower In Vicinity",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 21.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Shower In Vicinity",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -94,5 +94,5 @@
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"Blimey, it’s hotter in here than a curry on a summer’s day! Bet I’d still trade it for a nice pint in Altrincham… at least I could sweat in style!\""
+  "crew_quote": "\"With this heat and those showers, it’s like the Great British Weather is trying to set the mood for a curry night—just add a bit of spice and you’re all set!\""
 }
