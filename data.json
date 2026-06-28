@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-06-28T15:51:55.134580+00:00",
+  "timestamp": "2026-06-28T16:23:31.315001+00:00",
   "house": {
-    "indoor_temp": 25.4,
-    "indoor_humidity": 39.0,
-    "outdoor_temp": 21.9,
-    "outdoor_humidity": 50.0,
-    "wind_speed": 0.0,
-    "wind_direction": 136.0,
-    "pressure": 1020.5,
-    "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 522.0,
-    "gas_consumption": 124.247028492917,
-    "heating_active": false
+    "indoor_temp": null,
+    "indoor_humidity": null,
+    "outdoor_temp": null,
+    "outdoor_humidity": null,
+    "wind_speed": null,
+    "wind_direction": null,
+    "pressure": null,
+    "rain_today": null,
+    "uv_index": null,
+    "power_usage": null,
+    "gas_consumption": null,
+    "heating_active": null
   },
   "locations": {
     "altrincham": {
@@ -87,12 +87,12 @@
     "moonrise": "09:21 PM",
     "moonset": "02:39 AM"
   },
-  "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
+  "metrolink": null,
   "headlines": [
+    "Boffins build a better pixel capable of emitting and receiving light",
     "Portuguese bank sign's storage is about to cash out",
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
-    "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
-    "Even the Secret Service won't use company-issued phones"
+    "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns"
   ],
-  "crew_quote": "\"Blimey, with this heat and sunny weather, I'd rather be cashing out on a curry than worrying about AI doctors! Just make sure they don't confuse it with my last takeaway!\""
+  "crew_quote": "\"21 degrees and sunny? Blimey, it's hotter than a curry at a climate change conference! I reckon we should swap the ship for a beach!\""
 }
