@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T17:25:10.051613+00:00",
+  "timestamp": "2026-06-28T17:56:10.573051+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns"
   ],
-  "crew_quote": "\"Oi, with it being sunny and twenty degrees, I reckon it's a perfect day for a curry! Or maybe just a pint... who needs pixels when you’ve got proper weather, eh?\""
+  "crew_quote": "\"With the weather so nice, I reckon we should celebrate with a curry! Who's up for a takeaway while we bask in this sunny splendor?\""
 }
