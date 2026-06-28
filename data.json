@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T22:36:14.329765+00:00",
+  "timestamp": "2026-06-28T23:07:14.968117+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns"
   ],
-  "crew_quote": "\"Clear skies and 15 degrees? Perfect curry weather! Just don’t forget the naan, or it’s a complete disaster.\""
+  "crew_quote": "\"With the weather as clear as my past failures, I reckon it's a perfect day for a pint and a curry—nothing like some good comfort food while the boffins play with pixels!\""
 }
