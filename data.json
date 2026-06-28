@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-28T15:20:54.521418+00:00",
+  "timestamp": "2026-06-28T15:51:55.134580+00:00",
   "house": {
-    "indoor_temp": 25.6,
-    "indoor_humidity": 40.0,
-    "outdoor_temp": 21.7,
-    "outdoor_humidity": 49.0,
+    "indoor_temp": 25.4,
+    "indoor_humidity": 39.0,
+    "outdoor_temp": 21.9,
+    "outdoor_humidity": 50.0,
     "wind_speed": 0.0,
-    "wind_direction": 157.0,
-    "pressure": 1020.2,
+    "wind_direction": 136.0,
+    "pressure": 1020.5,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 547.0,
+    "uv_index": 0.0,
+    "power_usage": 522.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -21,38 +21,38 @@
       "forecast": [
         {
           "date": "2026-06-28",
+          "max": 21.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-06-29",
+          "max": 21.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-06-30",
+          "max": 20.0,
+          "min": 13.0
+        }
+      ]
+    },
+    "overseal": {
+      "temp": 23.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-06-28",
           "max": 22.0,
           "min": 12.0
         },
         {
           "date": "2026-06-29",
           "max": 23.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-06-30",
-          "max": 23.0,
-          "min": 13.0
-        }
-      ]
-    },
-    "overseal": {
-      "temp": 22.0,
-      "conditions": "Partly cloudy",
-      "forecast": [
-        {
-          "date": "2026-06-28",
-          "max": 23.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-06-29",
-          "max": 24.0,
           "min": 9.0
         },
         {
           "date": "2026-06-30",
-          "max": 24.0,
+          "max": 22.0,
           "min": 13.0
         }
       ]
@@ -64,7 +64,7 @@
         {
           "date": "2026-06-28",
           "max": 17.0,
-          "min": 11.0
+          "min": 12.0
         },
         {
           "date": "2026-06-29",
@@ -74,7 +74,7 @@
         {
           "date": "2026-06-30",
           "max": 19.0,
-          "min": 11.0
+          "min": 12.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones"
   ],
-  "crew_quote": "\"Cor, it's hotter in here than a curry at a dodgy takeaway! I mean, 25.6 degrees? I should be lounging in Llandudno instead of sweating like a nun at a penguin shoot!\""
+  "crew_quote": "\"Blimey, with this heat and sunny weather, I'd rather be cashing out on a curry than worrying about AI doctors! Just make sure they don't confuse it with my last takeaway!\""
 }
