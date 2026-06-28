@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-06-28T13:47:52.926614+00:00",
+  "timestamp": "2026-06-28T14:18:53.909981+00:00",
   "house": {
-    "indoor_temp": 26.0,
-    "indoor_humidity": 44.0,
-    "outdoor_temp": 21.7,
+    "indoor_temp": 25.8,
+    "indoor_humidity": 43.0,
+    "outdoor_temp": 22.6,
     "outdoor_humidity": 48.0,
     "wind_speed": 0.0,
-    "wind_direction": 111.0,
-    "pressure": 1019.7,
+    "wind_direction": 126.0,
+    "pressure": 1019.8,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 449.0,
+    "uv_index": 0.0,
+    "power_usage": 545.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Partly cloudy",
+      "temp": 21.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 22.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones"
   ],
-  "crew_quote": "\"Blimey, it's hotter in here than a curry left on the back burner, and with all this AI talk, they'd better not start trying to serve me up for dinner!\""
+  "crew_quote": "\"Blimey, it's hotter in here than a curry on a summer's day! At least it's sunny outside—let's hope the bank's as warm with our cash as this room is!\""
 }
