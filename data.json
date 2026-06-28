@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-28T11:12:51.459008+00:00",
+  "timestamp": "2026-06-28T11:43:51.422863+00:00",
   "house": {
-    "indoor_temp": 26.0,
-    "indoor_humidity": 49.0,
-    "outdoor_temp": 20.2,
-    "outdoor_humidity": 64.0,
+    "indoor_temp": 25.9,
+    "indoor_humidity": 48.0,
+    "outdoor_temp": 20.8,
+    "outdoor_humidity": 56.0,
     "wind_speed": 0.0,
-    "wind_direction": 120.0,
-    "pressure": 1018.8,
+    "wind_direction": 114.0,
+    "pressure": 1019.1,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 505.0,
+    "power_usage": 508.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "09:21 PM",
     "moonset": "02:39 AM"
   },
-  "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
+  "metrolink": "Due to a Network Rail barrier fault at Navigation Road we are experiencing a minor delay on the Altrincham line.",
   "headlines": [
     "Portuguese bank sign's storage is about to cash out",
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones"
   ],
-  "crew_quote": "\"19 degrees and a shower? Sounds like a perfect day for a nice curry while I contemplate my life choices—like why I don't have a sunny beach to lounge on instead!\""
+  "crew_quote": "\"Ah, lovely weather for a shower in the vicinity! Perfect for getting a curry on the go—nothing like a bit of rain to spice things up!\""
 }
