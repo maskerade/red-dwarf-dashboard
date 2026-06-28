@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-28T09:39:49.053964+00:00",
+  "timestamp": "2026-06-28T10:10:54.305080+00:00",
   "house": {
     "indoor_temp": 26.0,
-    "indoor_humidity": 52.0,
-    "outdoor_temp": 18.4,
-    "outdoor_humidity": 81.0,
+    "indoor_humidity": 51.0,
+    "outdoor_temp": 20.1,
+    "outdoor_humidity": 70.0,
     "wind_speed": 0.0,
-    "wind_direction": 78.0,
-    "pressure": 1017.5,
+    "wind_direction": 136.0,
+    "pressure": 1018.0,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 306.0,
+    "uv_index": 1.0,
+    "power_usage": 502.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
   "headlines": [
+    "Portuguese bank sign's storage is about to cash out",
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
-    "Even the Secret Service won't use company-issued phones",
-    "Trump-shuttered climate change site back online in nonprofit hands"
+    "Even the Secret Service won't use company-issued phones"
   ],
-  "crew_quote": "\"With this heat and those showers, it’s like the Great British Weather is trying to set the mood for a curry night—just add a bit of spice and you’re all set!\""
+  "crew_quote": "\"What’s the point of a 26-degree climate inside when it’s just going to rain outside? I mean, that’s like having a curry with no poppadoms!\""
 }
