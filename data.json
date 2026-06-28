@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T21:34:13.690958+00:00",
+  "timestamp": "2026-06-28T22:05:14.795715+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 15.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Sunny",
+      "temp": 15.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Sunny",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -94,5 +94,5 @@
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns"
   ],
-  "crew_quote": "\"Blimey, with it being 19°C and sunny, I reckon it’s a perfect day for a curry. Just don’t ask me to help cook — I can barely boil water!\""
+  "crew_quote": "\"Ah, perfect weather for a curry, isn't it? Clear skies, just like my future—bright and full of potential, unlike Rimmer's latest plan!\""
 }
