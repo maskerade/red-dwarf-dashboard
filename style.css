@@ -829,6 +829,30 @@ body {
 }
 @keyframes lister-fade-in { 0% { opacity: 0; transform: translateY(-4px); } 100% { opacity: 1; transform: translateY(0); } }
 
+/* === 42. Lister's Best Location of the Day === */
+.location-pick { font-size: 1.2rem; font-weight: bold; color: var(--amber); display: block; }
+.location-reason { font-size: 0.65rem; color: var(--text-dim); font-style: italic; }
+
+/* === 43. Holly's Deep Space Fact of the Day === */
+.fact-text { font-size: 0.7rem; line-height: 1.4; color: var(--cyan); font-style: italic; opacity: 0.9; }
+
+/* === 44. Rimmer's Complaint Register === */
+.complaint-count { font-size: 1.8rem; font-weight: bold; color: var(--red); display: block; }
+.complaint-text { font-size: 0.65rem; color: var(--text-dim); font-style: italic; }
+
+/* === Cat's Out or Fabulously Out? (glance-strip) === */
+.cat-verdict { display: inline-flex; align-items: center; gap: 4px; }
+.cat-dot { font-size: 0.9rem; }
+.cat-label { font-size: 0.55rem; font-weight: bold; text-transform: uppercase; }
+
+/* === 45. Kryten's Data Freshness Panel === */
+.freshness-grid { display: grid; grid-template-columns: auto 1fr; gap: 2px 8px; font-size: 0.6rem; }
+.freshness-source { color: var(--text-dim); }
+.freshness-age { font-family: var(--font-mono-alt); }
+.age-fresh { color: var(--green); }
+.age-ok { color: var(--amber); }
+.age-stale { color: var(--red); }
+
 /* --- Responsive --- */
 @media (max-width: 900px) {
   .grid-main {
@@ -856,6 +880,9 @@ body {
     flex-direction: column;
     align-items: flex-start;
   }
+  .deck-grid {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 @media (max-width: 480px) {
@@ -871,6 +898,9 @@ body {
   }
   .weather-temp {
     font-size: 1.2rem;
+  }
+  .deck-grid {
+    grid-template-columns: 1fr;
   }
 }
 

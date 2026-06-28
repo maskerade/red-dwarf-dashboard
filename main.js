@@ -2911,6 +2911,11 @@
       renderGlowUp(data);
       renderPanelAudit(data);
       renderListerAlert(data);
+      renderBestLocation(data);
+      renderSpaceFact(data);
+      renderComplaintRegister(data);
+      renderCatGlanceVerdict(data);
+      renderFreshnessPanel(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
@@ -3400,6 +3405,241 @@
     } else {
       alertEl.style.display = 'none';
     }
+  }
+
+  // ── 42. Lister's Best Location of the Day ──────────────────────────
+  const LOCATION_ADVICE = [
+    (loc, t, c) => `${t}°C, ${c} — proper chip-eating weather`,
+    (loc, t, c) => `${t}°C and ${c} — banging day for it, man`,
+    (loc, t, c) => `${t}°C, ${c} — sound for a wander`,
+    (loc, t, c) => `${t}°C with ${c} — ideal for sitting on a bench with a brew`,
+    (loc, t, c) => `${t}°C, ${c} — I've seen worse. Probably.`,
+    (loc, t, c) => `${t}°C, ${c} — get yourself out there, you're not made of sugar`,
+    (loc, t, c) => `${t}°C and ${c} — decent enough for a mooch about`,
+    (loc, t, c) => `${t}°C, ${c} — you could do a lot worse, mate`,
+    (loc, t, c) => `${t}°C, ${c} — proper smeggin' lovely`,
+    (loc, t, c) => `${t}°C, ${c} — I'd call that a result`,
+  ];
+
+  function conditionScore(cond) {
+    const c = (cond || '').toLowerCase();
+    if (c.includes('sunny') || c.includes('clear')) return 4;
+    if (c.includes('partly cloudy')) return 3;
+    if (c.includes('cloudy') || c.includes('overcast')) return 2;
+    if (c.includes('rain') || c.includes('drizzle') || c.includes('storm') || c.includes('shower')) return 1;
+    return 0;
+  }
+
+  function tempScore(temp) {
+    const t = Number(temp);
+    if (isNaN(t)) return -1;
+    if (t >= 20 && t <= 30) return 10 - Math.abs(t - 25);
+    if (t >= 15 && t < 20) return 5 - (20 - t);
+    if (t > 30 && t <= 35) return 5 - (t - 30);
+    return 0;
+  }
+
+  function renderBestLocation(data) {
+    const pickEl = $('location-pick');
+    const reasonEl = $('location-reason');
+    if (!pickEl || !reasonEl) return;
+
+    const locs = data.locations || {};
+    let best = null;
+    let bestCombined = -1;
+
+    for (const [key, info] of Object.entries(locs)) {
+      const score = conditionScore(info.conditions) + tempScore(info.temp);
+      if (score > bestCombined) {
+        bestCombined = score;
+        best = { key, temp: info.temp, conditions: info.conditions, humidity: info.humidity };
+      }
+    }
+
+    if (!best || isNaN(Number(best.temp))) {
+      pickEl.textContent = 'No data';
+      reasonEl.textContent = 'Sensors are on the blink, man';
+      return;
+    }
+
+    const locName = best.key.charAt(0).toUpperCase() + best.key.slice(1);
+    const temp = Number(best.temp).toFixed(0);
+    const cond = best.conditions || 'unknown';
+    pickEl.textContent = locName;
+
+    const adviceIdx = Math.floor(Math.random() * LOCATION_ADVICE.length);
+    reasonEl.textContent = LOCATION_ADVICE[adviceIdx](locName, temp, cond);
+  }
+
+  // ── 43. Holly's Deep Space Fact of the Day ─────────────────────────
+  const SPACE_FACTS = [
+    "Did you know... light from the Sun takes about 8 minutes to reach us? That's 8 minutes I could've spent doing nothing.",
+    "Did you know... there's a planet made of diamond? 55 Cancri e. I'd have lost it in a week. I lose everything.",
+    "Did you know... there are more stars in the universe than grains of sand on Earth? I counted. Got bored after 6000.",
+    "Did you know... a day on Venus is longer than a year on Venus. So technically, every day is your birthday there.",
+    "Did you know... the largest known asteroid is Ceres, about 940 km wide. Lister once left a curry stain that big.",
+    "Did you know... there's a giant cloud of alcohol in space, 463 billion km across. Proper Friday night material.",
+    "Did you know... the Andromeda Galaxy is heading our way at 400,000 km/h. Should get here in about 4.5 billion years. I'll mark it in my diary. Somewhere.",
+    "Did you know... a spoonful of neutron star material would weigh about 10 million tons. Bit heavy for a cuppa.",
+    "Did you know... Jupiter's Great Red Spot is a storm bigger than Earth that's been raging for 350 years. And Rimmer thinks his hair's bad.",
+    "Did you know... space smells like seared steak, hot metal, and welding fumes. Apparently. I wouldn't know, I leave the ship about as often as Lister does laundry.",
+    "Did you know... the Milky Way and the Andromeda Galaxy are going to collide? I'd be more worried if it wasn't 4 billion years away. Anyway, I'll be on my lunch break.",
+    "Did you know... black holes aren't actually holes. They're really dense objects. Like the complete works of Rimmer's ego compressed into a pinhead.",
+  ];
+
+  function renderSpaceFact(data) {
+    const el = $('fact-text');
+    if (!el) return;
+    const idx = Math.floor(Math.random() * SPACE_FACTS.length);
+    el.textContent = SPACE_FACTS[idx];
+  }
+
+  // ── 44. Rimmer's Complaint Register ──────────────────────────────
+  const COMPLAINT_TEMPLATES = [
+    (issues) => `Regulation ${Math.floor(Math.random() * 800) + 1} violation! ${issues.join(' Furthermore, ')} Another catalogue of inefficiencies!`,
+    (issues) => `I've logged ${issues.length} infraction${issues.length > 1 ? 's' : ''}! ${issues.join(' And ')} This is exactly the sort of slapdash behaviour I've come to expect from this crew!`,
+    (issues) => `Attention! ${issues.join(' ')} I'm entering this in the official register. For the record. Again.`,
+    (issues) => `As acting efficiency officer, I must register my extreme displeasure! ${issues.join(' Also, ')} The standards on this ship are an absolute disgrace!`,
+    (issues) => `Right then. ${issues.join(' ')} I have a 14-point improvement plan that nobody will read. Typical.`,
+  ];
+
+  const COMPLAINT_MSGS = {
+    power: params => `Power consumption at ${params.power.toFixed(1)} kWh exceeds regulation 47B!`,
+    humidity: params => `Humidity at ${params.humidity.toFixed(0)}% is a breeding ground for incompetence! And mould!`,
+    temp: params => `The temperature is ${params.temp.toFixed(1)}°C, which is OUTSIDE the acceptable envelope!`,
+    pressure: params => `Atmospheric pressure at ${params.pressure.toFixed(0)} hPa is dangerously substandard!`,
+    wind: params => `Wind speed at ${params.wind.toFixed(1)} km/h constitutes a navigation hazard!`,
+  };
+
+  function renderComplaintRegister(data) {
+    const countEl = $('complaint-count');
+    const textEl = $('complaint-text');
+    if (!countEl || !textEl) return;
+
+    const house = data.house || {};
+    const power = Number(house.power_usage);
+    const humidity = Number(house.indoor_humidity);
+    const temp = Number(house.outdoor_temp);
+    const pressure = Number(house.pressure);
+    const wind = Number(house.wind_speed);
+
+    let infractions = 0;
+    let issueMsgs = [];
+    let params = {};
+
+    if (!isNaN(power) && power > 300) {
+      infractions++;
+      params.power = power;
+      issueMsgs.push(COMPLAINT_MSGS.power(params));
+    }
+    if (!isNaN(humidity) && humidity > 70) {
+      infractions++;
+      params.humidity = humidity;
+      issueMsgs.push(COMPLAINT_MSGS.humidity(params));
+    }
+    if (!isNaN(temp) && (temp < 18 || temp > 28)) {
+      infractions++;
+      params.temp = temp;
+      issueMsgs.push(COMPLAINT_MSGS.temp(params));
+    }
+    if (!isNaN(pressure) && pressure < 1000) {
+      infractions++;
+      params.pressure = pressure;
+      issueMsgs.push(COMPLAINT_MSGS.pressure(params));
+    }
+    if (!isNaN(wind) && wind > 30) {
+      infractions++;
+      params.wind = wind;
+      issueMsgs.push(COMPLAINT_MSGS.wind(params));
+    }
+
+    countEl.textContent = infractions;
+
+    if (infractions === 0) {
+      textEl.textContent = 'No infractions. Suspiciously efficient.';
+      countEl.style.color = 'var(--green)';
+    } else {
+      const tmpl = COMPLAINT_TEMPLATES[Math.floor(Math.random() * COMPLAINT_TEMPLATES.length)];
+      textEl.textContent = tmpl(issueMsgs);
+      countEl.style.color = 'var(--red)';
+    }
+  }
+
+  // ── Cat's Out or Fabulously Out? (glance-strip traffic light) ──
+  function renderCatGlanceVerdict(data) {
+    const dotEl = $('cat-dot');
+    const labelEl = $('cat-label');
+    if (!dotEl || !labelEl) return;
+
+    const house = data.house || {};
+    const outdoorTemp = Number(house.outdoor_temp);
+    const locs = data.locations || {};
+    let conditions = '';
+    for (const info of Object.values(locs)) {
+      if (info.conditions) { conditions = info.conditions.toLowerCase(); break; }
+    }
+
+    let dot, label;
+    if (!isNaN(outdoorTemp) && outdoorTemp >= 20 && outdoorTemp <= 28 && (conditions.includes('sunny') || conditions.includes('clear'))) {
+      dot = '🟢'; label = 'GO';
+    } else if (!isNaN(outdoorTemp) && ((outdoorTemp >= 20 && outdoorTemp <= 28) || (conditions.includes('partly cloudy') || conditions.includes('cloudy')))) {
+      dot = '🟡'; label = 'ACCS';
+    } else if (!isNaN(outdoorTemp) && outdoorTemp >= 15 && outdoorTemp <= 32 && !conditions.includes('rain') && !conditions.includes('storm')) {
+      dot = '🟡'; label = 'ACCS';
+    } else {
+      dot = '🔴'; label = 'NOPE';
+    }
+
+    dotEl.textContent = dot;
+    labelEl.textContent = label;
+  }
+
+  // ── 45. Kryten's Data Freshness Panel ──────────────────────────────
+  function renderFreshnessPanel(data) {
+    const grid = $('freshness-grid');
+    if (!grid) return;
+
+    const ts = data.timestamp;
+    const now = Date.now();
+    const dataTime = ts ? new Date(ts) : new Date();
+    const ageMs = now - dataTime.getTime();
+
+    const sources = [
+      { id: 'ha', label: 'HA', check: data.house && Object.keys(data.house).length > 0 },
+      { id: 'weather', label: 'Weather', check: data.locations && Object.keys(data.locations).length > 0 },
+      { id: 'headlines', label: 'Headlines', check: data.headlines && data.headlines.length > 0 },
+      { id: 'quote', label: 'Quote', check: !!data.crew_quote },
+      { id: 'starbug', label: 'Starbug', check: !!(data.starbug && data.starbug.status === 'online') },
+    ];
+
+    grid.innerHTML = sources.map(s => {
+      const age = s.check ? ageMs : -1;
+      let ageClass, ageText;
+      if (age < 0) {
+        ageClass = 'age-stale';
+        ageText = 'OFFLINE';
+      } else if (age < 300000) {
+        ageClass = 'age-fresh';
+        ageText = formatAge(age);
+      } else if (age < 900000) {
+        ageClass = 'age-ok';
+        ageText = formatAge(age);
+      } else {
+        ageClass = 'age-stale';
+        ageText = formatAge(age);
+      }
+      return `<span class="freshness-source">${s.label}</span><span class="freshness-age ${ageClass}">${ageText}</span>`;
+    }).join('');
+  }
+
+  function formatAge(ms) {
+    const sec = Math.floor(ms / 1000);
+    if (sec < 60) return sec + 's ago';
+    const min = Math.floor(sec / 60);
+    if (min < 60) return min + 'm ago';
+    const hr = Math.floor(min / 60);
+    const remMin = min % 60;
+    return hr + 'h ' + remMin + 'm ago';
   }
 
   // --- Init ---
