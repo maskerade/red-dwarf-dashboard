@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T23:07:14.968117+00:00",
+  "timestamp": "2026-06-28T23:38:16.016109+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,23 +16,23 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 13.0,
       "conditions": "Clear ",
       "forecast": [
         {
-          "date": "2026-06-28",
-          "max": 21.0,
-          "min": 13.0
-        },
-        {
           "date": "2026-06-29",
           "max": 22.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-06-30",
-          "max": 20.0,
-          "min": 13.0
+          "max": 21.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-01",
+          "max": 21.0,
+          "min": 15.0
         }
       ]
     },
@@ -40,11 +40,6 @@
       "temp": 15.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-06-28",
-          "max": 22.0,
-          "min": 12.0
-        },
         {
           "date": "2026-06-29",
           "max": 23.0,
@@ -54,18 +49,18 @@
           "date": "2026-06-30",
           "max": 22.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-07-01",
+          "max": 23.0,
+          "min": 11.0
         }
       ]
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Overcast",
+      "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-06-28",
-          "max": 17.0,
-          "min": 11.0
-        },
         {
           "date": "2026-06-29",
           "max": 19.0,
@@ -75,17 +70,22 @@
           "date": "2026-06-30",
           "max": 18.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-07-01",
+          "max": 18.0,
+          "min": 12.0
         }
       ]
     }
   },
   "astronomy": {
     "sunrise": "04:43 AM",
-    "sunset": "09:41 PM",
-    "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "96",
-    "moonrise": "09:21 PM",
-    "moonset": "02:39 AM"
+    "sunset": "09:42 PM",
+    "moon_phase": "Full Moon",
+    "moon_illumination": "99",
+    "moonrise": "10:07 PM",
+    "moonset": "03:25 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns"
   ],
-  "crew_quote": "\"With the weather as clear as my past failures, I reckon it's a perfect day for a pint and a curry—nothing like some good comfort food while the boffins play with pixels!\""
+  "crew_quote": "\"Clear skies and a lovely 15 degrees, perfect weather for a curry, isn't it? Just think of the sizzling spices under that glorious sun — I can taste it already!\""
 }
