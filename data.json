@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-28T03:27:43.621475+00:00",
+  "timestamp": "2026-06-28T03:58:44.219492+00:00",
   "house": {
     "indoor_temp": 26.5,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 18.9,
-    "outdoor_humidity": 84.0,
+    "outdoor_temp": 19.0,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
-    "wind_direction": 274.0,
-    "pressure": 1013.5,
+    "wind_direction": 261.0,
+    "pressure": 1013.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 199.0,
+    "power_usage": 174.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"With the indoor temp at 26.5°C, it's like a sauna in here! Makes me wonder if I should start serving curry in a steam room for the full experience.\""
+  "crew_quote": "\"With this heat, I say we whip up a nice curry and pretent to be astronauts testing out our own AI—at least if it goes wrong, I can blame the weather!\""
 }
