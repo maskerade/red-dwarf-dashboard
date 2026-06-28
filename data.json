@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-06-28T10:10:54.305080+00:00",
+  "timestamp": "2026-06-28T10:41:50.856828+00:00",
   "house": {
     "indoor_temp": 26.0,
-    "indoor_humidity": 51.0,
-    "outdoor_temp": 20.1,
-    "outdoor_humidity": 70.0,
+    "indoor_humidity": 50.0,
+    "outdoor_temp": 19.9,
+    "outdoor_humidity": 67.0,
     "wind_speed": 0.0,
-    "wind_direction": 136.0,
-    "pressure": 1018.0,
+    "wind_direction": 99.0,
+    "pressure": 1018.4,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 502.0,
+    "power_usage": 547.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones"
   ],
-  "crew_quote": "\"What’s the point of a 26-degree climate inside when it’s just going to rain outside? I mean, that’s like having a curry with no poppadoms!\""
+  "crew_quote": "\"With this humidity, I could make a curry that practically cooks itself—just sprinkle in some rain and let it simmer!\""
 }
