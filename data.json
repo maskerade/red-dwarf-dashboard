@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-06-28T10:41:50.856828+00:00",
+  "timestamp": "2026-06-28T11:12:51.459008+00:00",
   "house": {
     "indoor_temp": 26.0,
-    "indoor_humidity": 50.0,
-    "outdoor_temp": 19.9,
-    "outdoor_humidity": 67.0,
+    "indoor_humidity": 49.0,
+    "outdoor_temp": 20.2,
+    "outdoor_humidity": 64.0,
     "wind_speed": 0.0,
-    "wind_direction": 99.0,
-    "pressure": 1018.4,
+    "wind_direction": 120.0,
+    "pressure": 1018.8,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 547.0,
+    "power_usage": 505.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Shower In Vicinity",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 19.0,
       "conditions": "Shower In Vicinity",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -94,5 +94,5 @@
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones"
   ],
-  "crew_quote": "\"With this humidity, I could make a curry that practically cooks itself—just sprinkle in some rain and let it simmer!\""
+  "crew_quote": "\"19 degrees and a shower? Sounds like a perfect day for a nice curry while I contemplate my life choices—like why I don't have a sunny beach to lounge on instead!\""
 }
