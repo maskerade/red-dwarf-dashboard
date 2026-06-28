@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-06-28T06:02:46.046220+00:00",
+  "timestamp": "2026-06-28T06:33:46.408228+00:00",
   "house": {
     "indoor_temp": 26.4,
-    "indoor_humidity": 54.0,
-    "outdoor_temp": 18.9,
-    "outdoor_humidity": 85.0,
+    "indoor_humidity": 53.0,
+    "outdoor_temp": 21.1,
+    "outdoor_humidity": 73.0,
     "wind_speed": 0.0,
-    "wind_direction": 236.0,
+    "wind_direction": 247.0,
     "pressure": 1014.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 199.0,
+    "power_usage": 196.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 20.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Drizzle",
+      "temp": 15.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-06-28",
@@ -87,12 +87,12 @@
     "moonrise": "09:21 PM",
     "moonset": "02:39 AM"
   },
-  "metrolink": "On Sunday 28th June until 10am no trams will operate through Victoria. Rochdale & Bury services will terminate at Victoria. East Didsbury will terminate at Exchange Sq. See TfGM.com for more info",
+  "metrolink": "We are experiencing a minor delay on the Altrincham line. Metrolink apologises for any inconvenience caused to your journey.",
   "headlines": [
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns",
     "Even the Secret Service won't use company-issued phones",
     "Trump-shuttered climate change site back online in nonprofit hands"
   ],
-  "crew_quote": "\"You know, with the way it's drizzling outside, it’s the perfect time for a curry. Nothing like a bit of spice to heat things up while we’re stuck in here!\""
+  "crew_quote": "\"Ah, it’s 20 degrees out there and I’m melting like a curry left on the stove too long! Let’s just hope the AI medic can handle the heat better than I can!\""
 }
