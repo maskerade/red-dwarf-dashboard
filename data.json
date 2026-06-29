@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T14:38:31.050875+00:00",
+  "timestamp": "2026-06-29T15:09:30.273441+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -52,7 +52,7 @@
         },
         {
           "date": "2026-07-01",
-          "max": 22.0,
+          "max": 23.0,
           "min": 11.0
         }
       ]
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-07-01",
-          "max": 17.0,
+          "max": 18.0,
           "min": 12.0
         }
       ]
@@ -94,5 +94,5 @@
     "Microsoft keeps Windows Server 2022 hotpatching alive into 2027",
     "Blue Origin insists New Glenn will rise from the ashes this year after explosion deleted launchpad"
   ],
-  "crew_quote": "\"Did you see that? It’s 19 degrees in Altrincham! Perfect weather for a pint and a curry, just as long as I don’t spill any on my shirt again!\""
+  "crew_quote": "\"Well, isn’t it lovely? Nice and warm here at 19 degrees — just perfect for a curry night and avoiding any Microsoft drama!\""
 }
