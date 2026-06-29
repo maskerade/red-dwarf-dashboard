@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T21:21:31.672874+00:00",
+  "timestamp": "2026-06-29T21:52:32.533054+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,18 +16,18 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Overcast",
+      "temp": 15.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-06-29",
-          "max": 22.0,
+          "max": 21.0,
           "min": 10.0
         },
         {
           "date": "2026-06-30",
           "max": 21.0,
-          "min": 13.0
+          "min": 12.0
         },
         {
           "date": "2026-07-01",
@@ -94,5 +94,5 @@
     "Large Hadron Collider goes offline to make room for its enhanced successor",
     ".NET's long-term support is not long-term enough, dev complains"
   ],
-  "crew_quote": "\"With the weather in Llandudno as dreary as my love life, fancy a curry? Nothing like a good vindaloo to spice up a cloudy day!\""
+  "crew_quote": "\"Clear skies and a comfy 15 degrees? Perfect weather for a curry binge while we wait for the Supreme Court to sort out the copper's phone snooping!\""
 }
