@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T22:23:32.807976+00:00",
+  "timestamp": "2026-06-29T22:54:33.663411+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Large Hadron Collider goes offline to make room for its enhanced successor",
     ".NET's long-term support is not long-term enough, dev complains"
   ],
-  "crew_quote": "\"Blimey, with this lovely weather, I reckon I could whip up a cracking curry—just hope it doesn't get too steamy in here, unlike Llandudno!\""
+  "crew_quote": "\"With temperatures hovering around 15°C, I reckon my curry's about to get its own weather report—cloudy with a chance of delicious!\""
 }
