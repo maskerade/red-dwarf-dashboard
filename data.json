@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T06:52:21.864612+00:00",
+  "timestamp": "2026-06-29T07:23:28.230600+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -26,19 +26,19 @@
         },
         {
           "date": "2026-06-30",
-          "max": 20.0,
-          "min": 12.0
+          "max": 21.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-01",
-          "max": 22.0,
+          "max": 21.0,
           "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Sunny",
+      "temp": 14.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -47,12 +47,12 @@
         },
         {
           "date": "2026-06-30",
-          "max": 22.0,
-          "min": 12.0
+          "max": 23.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-01",
-          "max": 23.0,
+          "max": 22.0,
           "min": 11.0
         }
       ]
@@ -68,12 +68,12 @@
         },
         {
           "date": "2026-06-30",
-          "max": 18.0,
-          "min": 12.0
+          "max": 19.0,
+          "min": 11.0
         },
         {
           "date": "2026-07-01",
-          "max": 18.0,
+          "max": 17.0,
           "min": 12.0
         }
       ]
@@ -94,5 +94,5 @@
     "Australia investigating five social media giants for not enforcing ban on kids",
     "Boffins build a better pixel capable of emitting and receiving light"
   ],
-  "crew_quote": "\"Ah, lovely weather! Just perfect for a pint and a curry, or a little stroll around, you know, if we weren't stuck on this clapped-out old tin can!\""
+  "crew_quote": "\"With weather like this, I reckon a nice curry in me belly is just what the day ordered — can’t let a bit of cloud ruin my appetite!\""
 }
