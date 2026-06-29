@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T16:11:31.374454+00:00",
+  "timestamp": "2026-06-29T16:42:32.090871+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft keeps Windows Server 2022 hotpatching alive into 2027",
     "Blue Origin insists New Glenn will rise from the ashes this year after explosion deleted launchpad"
   ],
-  "crew_quote": "\"Cor, it’s a lovely 19 degrees out there! Just right for a nice curry and a pint, mate. Not that I’m complaining, but I’d still prefer it if the weather could bring me a bacon sandwich!\""
+  "crew_quote": "\"With weather like this, I could really go for a curry... but I suppose I'll settle for avoiding AI — it’s probably smarter than me and that’s just depressing!\""
 }
