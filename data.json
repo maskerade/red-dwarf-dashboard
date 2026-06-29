@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T20:19:30.827760+00:00",
+  "timestamp": "2026-06-29T20:50:31.358014+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Mageia 10 keeps the 32-bit Linux flame alive",
     "Rocket Lab buys its way into the satellite big league with $8B Iridium deal"
   ],
-  "crew_quote": "\"17 degrees and overcast? Blimey, that's practically tropical! Just the weather for a nice curry night, if only I had the ingredients instead of this dreary spaceship!\""
+  "crew_quote": "\"Overcast, partly cloudy, and 17 degrees? Sounds like the perfect day for a curry and a good old moan about how none of it makes any sense!\""
 }
