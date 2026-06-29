@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T03:46:18.906302+00:00",
+  "timestamp": "2026-06-29T04:17:21.061508+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 12.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Clear ",
+      "temp": 12.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 14.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -94,5 +94,5 @@
     "Portuguese bank sign's storage is about to cash out",
     "NASA tests AI medic for astronauts too far from Earth to call a doctor"
   ],
-  "crew_quote": "\"Partly cloudy in Altrincham? Great, just what I need—more excuses to avoid doing my laundry. Now, where’s that curry I stashed?\""
+  "crew_quote": "\"Ah, look at that, sunny in Altrincham! Perfect weather for a curry picnic, just hope the mist in Overseal doesn’t come to ruin my day! We can't have soggy samosas!\""
 }
