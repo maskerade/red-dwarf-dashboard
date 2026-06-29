@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T14:07:29.399013+00:00",
+  "timestamp": "2026-06-29T14:38:31.050875+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft to assist European Commission in defense of EU-US data-sharing agreement",
     "AI may be good at finding security vulnerabilities, but it can't beat human stupidity",
     "Microsoft keeps Windows Server 2022 hotpatching alive into 2027",
-    "Blue Origin insists New Glenn will rise from the ashes this year after explosion deleted launchpad",
-    "BT and Verizon spin off international networking arms into $4B joint venture"
+    "Blue Origin insists New Glenn will rise from the ashes this year after explosion deleted launchpad"
   ],
-  "crew_quote": "\"With all this lovely weather, I could really go for a curry right now — but first, let me just contemplate the sheer brilliance of human stupidity.\""
+  "crew_quote": "\"Did you see that? It’s 19 degrees in Altrincham! Perfect weather for a pint and a curry, just as long as I don’t spill any on my shirt again!\""
 }
