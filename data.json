@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T19:48:30.339057+00:00",
+  "timestamp": "2026-06-29T20:19:30.827760+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Overcast",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Mageia 10 keeps the 32-bit Linux flame alive",
     "Rocket Lab buys its way into the satellite big league with $8B Iridium deal"
   ],
-  "crew_quote": "\"18 degrees and overcast, perfect curry weather! Just don’t expect my cooking to pop like that pesky AI bubble everyone's going on about.\""
+  "crew_quote": "\"17 degrees and overcast? Blimey, that's practically tropical! Just the weather for a nice curry night, if only I had the ingredients instead of this dreary spaceship!\""
 }
