@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T06:21:21.983828+00:00",
+  "timestamp": "2026-06-29T06:52:21.864612+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Sysadmin broke hardware worth more than he made in a month – and lied his way out of the mess",
     "Malaysia ponders regulating management of IP addresses",
     "Australia investigating five social media giants for not enforcing ban on kids",
-    "Boffins build a better pixel capable of emitting and receiving light",
-    "Portuguese bank sign's storage is about to cash out"
+    "Boffins build a better pixel capable of emitting and receiving light"
   ],
-  "crew_quote": "\"It's a bit nippy at 13 degrees, but I reckon it's the perfect weather for a nice curry, maybe with a side of some rogue IP address shenanigans!\""
+  "crew_quote": "\"Ah, lovely weather! Just perfect for a pint and a curry, or a little stroll around, you know, if we weren't stuck on this clapped-out old tin can!\""
 }
