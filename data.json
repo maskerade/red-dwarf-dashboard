@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T05:19:20.666591+00:00",
+  "timestamp": "2026-06-29T05:50:22.212080+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Sunny",
+      "temp": 13.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Mist",
+      "temp": 13.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Boffins build a better pixel capable of emitting and receiving light",
     "Portuguese bank sign's storage is about to cash out"
   ],
-  "crew_quote": "\"Well, it may be sunny in Altrincham, but I’d rather face a full-on mist in Overseal than listen to another tedious debate about IP addresses!\""
+  "crew_quote": "\"Ah, 13 degrees and partly cloudy? Perfect weather for a nice curry, mate! I mean, why bother with sunshine when you can have a good vindaloo?\""
 }
