@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T17:44:32.587479+00:00",
+  "timestamp": "2026-06-29T18:15:33.283665+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Microsoft to assist European Commission in defense of EU-US data-sharing agreement",
-    "AI may be good at finding security vulnerabilities, but it can't beat human stupidity",
-    "Microsoft keeps Windows Server 2022 hotpatching alive into 2027",
-    "Blue Origin insists New Glenn will rise from the ashes this year after explosion deleted launchpad"
+    "How the AI bubble could pop and take down the global economy, according to the BIS",
+    "Mageia 10 keeps the 32-bit Linux flame alive",
+    "Rocket Lab buys its way into the satellite big league with $8B Iridium deal",
+    "Microsoft to assist European Commission in defense of EU-US data-sharing agreement"
   ],
-  "crew_quote": "\"Looks like it’s a nice day out there, just the sort of weather for a curry and a nap — overcast, like my chances of getting promoted!\""
+  "crew_quote": "\"Blimey, it’s nearly 19 degrees out there! Perfect weather for a curry, as long as it doesn’t rain on my chips!\""
 }
