@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T08:25:24.702108+00:00",
+  "timestamp": "2026-06-29T08:56:24.229705+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Telling internet platforms where to stick public service media will serve nobody. Turn it on its head",
     "Sysadmin broke hardware worth more than he made in a month – and lied his way out of the mess",
     "Malaysia ponders regulating management of IP addresses",
-    "Australia investigating five social media giants for not enforcing ban on kids",
-    "Boffins build a better pixel capable of emitting and receiving light"
+    "Australia investigating five social media giants for not enforcing ban on kids"
   ],
-  "crew_quote": "\"With the weather being a balmy 15°C, I reckon it's a perfect day for a curry! As long as we don’t have to fix any broken sysadmin disasters, of course.\""
+  "crew_quote": "\"With it being a balmy 17 degrees, I reckon we could do with a curry to really spice things up — after all, who needs that dodgy hardware when you've got a good vindaloo?\""
 }
