@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T22:54:33.663411+00:00",
+  "timestamp": "2026-06-29T23:25:34.910768+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -20,11 +20,6 @@
       "conditions": "Clear ",
       "forecast": [
         {
-          "date": "2026-06-29",
-          "max": 21.0,
-          "min": 10.0
-        },
-        {
           "date": "2026-06-30",
           "max": 21.0,
           "min": 12.0
@@ -33,6 +28,11 @@
           "date": "2026-07-01",
           "max": 21.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-07-02",
+          "max": 19.0,
+          "min": 11.0
         }
       ]
     },
@@ -80,12 +80,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:44 AM",
+    "sunrise": "04:45 AM",
     "sunset": "09:41 PM",
-    "moon_phase": "Full Moon",
-    "moon_illumination": "99",
-    "moonrise": "10:06 PM",
-    "moonset": "03:26 AM"
+    "moon_phase": "Waning Gibbous",
+    "moon_illumination": "100",
+    "moonrise": "10:38 PM",
+    "moonset": "04:26 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Large Hadron Collider goes offline to make room for its enhanced successor",
     ".NET's long-term support is not long-term enough, dev complains"
   ],
-  "crew_quote": "\"With temperatures hovering around 15°C, I reckon my curry's about to get its own weather report—cloudy with a chance of delicious!\""
+  "crew_quote": "\"Today’s so clear and lovely, I might just take a curry outside and let the sun work its magic on me. Maybe it’ll turn me into a proper human instead of a smelly space drifter!\""
 }
