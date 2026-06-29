@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T01:11:17.372035+00:00",
+  "timestamp": "2026-06-29T01:42:17.920195+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns"
   ],
-  "crew_quote": "\"Did you hear? While it's a splendid 15°C in Llandudno, I’d rather be perfecting my curry recipe than worrying about pixels and bank storage!\""
+  "crew_quote": "\"At 13 degrees it's hardly boiling outside, but I’d still swap the weather for a nice curry... at least a curry warms you up from the inside!\""
 }
