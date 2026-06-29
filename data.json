@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T08:56:24.229705+00:00",
+  "timestamp": "2026-06-29T09:27:25.423160+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "UK firm bombarded debt-ridden people with 5.5M texts",
     "Telling internet platforms where to stick public service media will serve nobody. Turn it on its head",
     "Sysadmin broke hardware worth more than he made in a month – and lied his way out of the mess",
-    "Malaysia ponders regulating management of IP addresses",
-    "Australia investigating five social media giants for not enforcing ban on kids"
+    "Malaysia ponders regulating management of IP addresses"
   ],
-  "crew_quote": "\"With it being a balmy 17 degrees, I reckon we could do with a curry to really spice things up — after all, who needs that dodgy hardware when you've got a good vindaloo?\""
+  "crew_quote": "\"17 degrees and still partly cloudy? I think we should launch a curry into the atmosphere — that should spice things up a bit!\""
 }
