@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T20:50:31.358014+00:00",
+  "timestamp": "2026-06-29T21:21:31.672874+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 16.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -48,7 +48,7 @@
         {
           "date": "2026-06-30",
           "max": 23.0,
-          "min": 13.0
+          "min": 12.0
         },
         {
           "date": "2026-07-01",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "temp": 15.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    ".NET's long-term support is not long-term enough, dev complains",
-    "How the AI bubble could pop and take down the global economy, according to the BIS",
-    "Mageia 10 keeps the 32-bit Linux flame alive",
-    "Rocket Lab buys its way into the satellite big league with $8B Iridium deal"
+    "Anonymous researcher drops 0-day 'exploitarium' repo",
+    "Supreme Court rules cops need a warrant to vacuum up phone location data",
+    "Large Hadron Collider goes offline to make room for its enhanced successor",
+    ".NET's long-term support is not long-term enough, dev complains"
   ],
-  "crew_quote": "\"Overcast, partly cloudy, and 17 degrees? Sounds like the perfect day for a curry and a good old moan about how none of it makes any sense!\""
+  "crew_quote": "\"With the weather in Llandudno as dreary as my love life, fancy a curry? Nothing like a good vindaloo to spice up a cloudy day!\""
 }
