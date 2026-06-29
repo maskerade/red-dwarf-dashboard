@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T11:32:27.345710+00:00",
+  "timestamp": "2026-06-29T12:03:27.185024+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Sysadmin broke hardware worth more than he made in a month – and lied his way out of the mess",
     "Malaysia ponders regulating management of IP addresses"
   ],
-  "crew_quote": "\"With all this cloudy weather, I reckon it's the perfect day for a curry! Just don't let it simmer too long, or it'll be more of a disaster than Rimmer's last promotion.\""
+  "crew_quote": "\"19 degrees and partly cloudy? That's just perfect for a curry night, isn't it? A bit of spice to warm the soul while the universe tries to kill us!\""
 }
