@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T18:15:33.283665+00:00",
+  "timestamp": "2026-06-29T18:46:33.910537+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Overcast",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Rocket Lab buys its way into the satellite big league with $8B Iridium deal",
     "Microsoft to assist European Commission in defense of EU-US data-sharing agreement"
   ],
-  "crew_quote": "\"Blimey, it’s nearly 19 degrees out there! Perfect weather for a curry, as long as it doesn’t rain on my chips!\""
+  "crew_quote": "\"Looks like it's a perfect day for a nice curry, and just the right weather for a spot of overcast lounging—better than worrying about that AI bubble popping!\""
 }
