@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T04:17:21.061508+00:00",
+  "timestamp": "2026-06-29T04:48:20.255565+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Malaysia ponders regulating management of IP addresses",
     "Australia investigating five social media giants for not enforcing ban on kids",
     "Boffins build a better pixel capable of emitting and receiving light",
-    "Portuguese bank sign's storage is about to cash out",
-    "NASA tests AI medic for astronauts too far from Earth to call a doctor"
+    "Portuguese bank sign's storage is about to cash out"
   ],
-  "crew_quote": "\"Ah, look at that, sunny in Altrincham! Perfect weather for a curry picnic, just hope the mist in Overseal doesn’t come to ruin my day! We can't have soggy samosas!\""
+  "crew_quote": "\"When it’s 12 degrees and sunny, you'd think they'd let us have a curry on deck instead of worrying about IP addresses—who cares about that when the weather’s nice, eh?\""
 }
