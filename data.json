@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T11:01:13.458900+00:00",
+  "timestamp": "2026-06-29T11:32:27.345710+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,19 +16,77 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-06-29",
+          "max": 22.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-06-30",
+          "max": 21.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-01",
+          "max": 21.0,
+          "min": 13.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 18.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-06-29",
+          "max": 23.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-06-30",
+          "max": 23.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-01",
+          "max": 22.0,
+          "min": 11.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 16.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-06-29",
+          "max": 19.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-06-30",
+          "max": 19.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-01",
+          "max": 17.0,
+          "min": 12.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "04:44 AM",
+    "sunset": "09:41 PM",
+    "moon_phase": "Full Moon",
+    "moon_illumination": "99",
+    "moonrise": "10:06 PM",
+    "moonset": "03:26 AM"
+  },
   "metrolink": null,
   "headlines": [
     "UK firm bombarded debt-ridden people with 5.5M texts",
@@ -36,5 +94,5 @@
     "Sysadmin broke hardware worth more than he made in a month – and lied his way out of the mess",
     "Malaysia ponders regulating management of IP addresses"
   ],
-  "crew_quote": "\"5.5 million texts? Blimey, I can't even get a decent curry without my phone dying on me! Talk about debt and desperation—where's the love, man?\""
+  "crew_quote": "\"With all this cloudy weather, I reckon it's the perfect day for a curry! Just don't let it simmer too long, or it'll be more of a disaster than Rimmer's last promotion.\""
 }
