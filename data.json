@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T02:44:19.391054+00:00",
+  "timestamp": "2026-06-29T03:15:19.102083+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns"
   ],
-  "crew_quote": "\"Well, it’s a nice day in Llandudno; not too warm for a curry, but just right for a pint! Let’s not forget to check our temperatures—can’t have the beer being warmer than the weather!\""
+  "crew_quote": "\"With the weather so nice in Llandudno, I might just roam around and look for a good curry; after all, what's the point of being stuck inside when it's partly cloudy and 15 degrees?\""
 }
