@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T03:15:19.102083+00:00",
+  "timestamp": "2026-06-29T03:46:18.906302+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Australia investigating five social media giants for not enforcing ban on kids",
     "Boffins build a better pixel capable of emitting and receiving light",
     "Portuguese bank sign's storage is about to cash out",
-    "NASA tests AI medic for astronauts too far from Earth to call a doctor",
-    "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns"
+    "NASA tests AI medic for astronauts too far from Earth to call a doctor"
   ],
-  "crew_quote": "\"With the weather so nice in Llandudno, I might just roam around and look for a good curry; after all, what's the point of being stuck inside when it's partly cloudy and 15 degrees?\""
+  "crew_quote": "\"Partly cloudy in Altrincham? Great, just what I need—more excuses to avoid doing my laundry. Now, where’s that curry I stashed?\""
 }
