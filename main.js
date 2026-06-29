@@ -2623,6 +2623,9 @@
   // ── June 24 inits ──────────────────────────────────────────
   setupMissionTimer();
 
+  // ── June 29 inits ──────────────────────────────────────────
+  setupRimmerCitations();
+
   // Timers at different cadences
   setInterval(renderDeckPerMinute, 30000);  // every 30s
   setInterval(renderDeckFrequent, 8000);    // every 8s
@@ -2916,6 +2919,10 @@
       renderComplaintRegister(data);
       renderCatGlanceVerdict(data);
       renderFreshnessPanel(data);
+      renderHollyToldYou(data);
+      renderCurryClock(data);
+      renderNapIndex(data);
+      renderPoliteAdvisory(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
@@ -3640,6 +3647,289 @@
     const hr = Math.floor(min / 60);
     const remMin = min % 60;
     return hr + 'h ' + remMin + 'm ago';
+  }
+
+  // ── 46. Holly's 'I Could've Told You That' Counter ──────────────
+  const HOLLY_PREDICTIONS = [
+    'Water cooling pipes need replacing since 2017',
+    'That power coupling looked dodgy to me',
+    "I told 'em the air scrubber would go. Did they listen? No.",
+    'The navigation system has been making that noise for six years',
+    'I calculated a 73% chance the backup drive would fail. It did.',
+    'The coffee machine. I warned them. 47 times.',
+    'That junction box was a fire hazard since Tuesday',
+    'The hull integrity reading was off by 0.0003%. I noticed.',
+    "Lister's curry-based fire risk. Annual prediction. Always right.",
+  ];
+  let hollyTally = parseInt(localStorage.getItem('rdwd_holly_tally') || '0');
+  let hollyPredictionIdx = parseInt(localStorage.getItem('rdwd_holly_prediction_idx') || '0');
+
+  function renderHollyToldYou(data) {
+    const tallyEl = $('holy-tally');
+    const lastEl = $('holy-last');
+    if (!tallyEl || !lastEl) return;
+
+    hollyTally++;
+    if (hollyTally > HOLLY_PREDICTIONS.length) hollyTally = HOLLY_PREDICTIONS.length;
+    localStorage.setItem('rdwd_holly_tally', String(hollyTally));
+
+    hollyPredictionIdx = Math.min(hollyTally - 1, HOLLY_PREDICTIONS.length - 1);
+    if (hollyPredictionIdx < 0) hollyPredictionIdx = 0;
+    localStorage.setItem('rdwd_holly_prediction_idx', String(hollyPredictionIdx));
+
+    tallyEl.textContent = hollyTally;
+    const pick = Math.floor(Math.random() * (hollyPredictionIdx + 1));
+    lastEl.textContent = '"' + HOLLY_PREDICTIONS[pick] + '"';
+  }
+
+  // ── 47. Rimmer's Smeg-Head Citation Index ─────────────────────
+  const RIMMER_INSULTS = [
+    { text: 'Technician First Class? More like... Actually, that\'s his real rank.', source: 'Cat', time: '07:42' },
+    { text: 'If I may speak plainly, sir — that is complete smeg.', source: 'Kryten', time: '08:15' },
+    { text: 'Oi Rimmer, you\'re about as useful as a chocolate fireguard.', source: 'Lister', time: '09:03' },
+    { text: 'Arnold, I\'ve calculated your contribution to this ship. It\'s negative.', source: 'Holly', time: '10:00' },
+    { text: 'You couldn\'t organise a curry in a curry shop.', source: 'Lister', time: '11:30' },
+    { text: 'With respect, sir, your diagnostic methodology is... how shall I put this... suboptimal.', source: 'Kryten', time: '12:45' },
+    { text: 'The mirror says I\'m fabulous. Rimmer says he\'s in charge. One of us is delusional.', source: 'Cat', time: '13:20' },
+    { text: 'Rimmer\'s tactical assessment: \'Let\'s do the thing I said not to do.\' Again.', source: 'Holly', time: '14:00' },
+    { text: 'You\'re a smegging hologram that couldn\'t pass a real exam if the answers were tattooed on your hand.', source: 'Lister', time: '15:30' },
+    { text: 'I\'ve cleaned the floor twice. Rimmer\'s still standing on it. Correlation is not causation but I have my suspicions.', source: 'Kryten', time: '16:45' },
+    { text: 'That outfit is a war crime. I should know — I have a certificate in fashion.', source: 'Cat', time: '17:10' },
+    { text: 'Arnold, I\'ve seen more intelligent lifeforms in a bowl of petunias.', source: 'Holly', time: '18:30' },
+    { text: 'You\'re not a leader, you\'re a moderately persistent error message.', source: 'Cat', time: '19:15' },
+    { text: 'Sir, if enthusiasm were a substitute for competence, you\'d be running the ship. As it is...', source: 'Kryten', time: '20:00' },
+  ];
+
+  function setupRimmerCitations() {
+    const currentEl = $('citation-current');
+    const sourceEl = $('citation-source');
+    const totalEl = $('citation-total');
+    if (!currentEl || !sourceEl || !totalEl) return;
+
+    let idx = 0;
+
+    function showCitation() {
+      const insult = RIMMER_INSULTS[idx];
+      currentEl.textContent = '"' + insult.text + '"';
+      sourceEl.textContent = '\u2014 ' + insult.source + ', ' + insult.time;
+      idx = (idx + 1) % RIMMER_INSULTS.length;
+      currentEl.style.animation = 'none';
+      void currentEl.offsetHeight;
+      currentEl.style.animation = 'log-fade 0.5s ease-out';
+    }
+
+    // Citation counter — once per day
+    const CITATION_KEY = 'rdwd_citation_count';
+    const CITATION_DATE_KEY = 'rdwd_citation_date';
+    const today = new Date().toDateString();
+    let count = parseInt(localStorage.getItem(CITATION_KEY) || '42');
+    const lastDate = localStorage.getItem(CITATION_DATE_KEY);
+    if (lastDate !== today) {
+      count++;
+      localStorage.setItem(CITATION_KEY, String(count));
+      localStorage.setItem(CITATION_DATE_KEY, today);
+    }
+    totalEl.textContent = count;
+
+    // Initial display
+    showCitation();
+
+    // Rotate every 30 seconds
+    setInterval(showCitation, 30000);
+  }
+
+  // ── 48. Lister's 'Is It Curry O'Clock?' Indicator ──────────────
+  function renderCurryClock(data) {
+    const verdictEl = $('curry-verdict');
+    const reasonEl = $('curry-reason');
+    const timeEl = $('curry-time');
+    if (!verdictEl || !reasonEl || !timeEl) return;
+
+    const hour = new Date().getHours();
+    const min = new Date().getMinutes();
+    const timeStr = String(hour).padStart(2, '0') + ':' + String(min).padStart(2, '0');
+
+    let verdict, reason, suffix;
+
+    if (hour >= 11 && hour <= 14) {
+      verdict = 'ALWAYS';
+      reason = 'Lunch is curry o\'clock. This is science.';
+      suffix = 'STANDARD CURRY HOURS';
+    } else if (hour >= 17 && hour <= 22) {
+      verdict = 'ALWAYS';
+      reason = 'Dinner time, la. Vindaloo\'s calling.';
+      suffix = 'STANDARD CURRY HOURS';
+    } else if (hour >= 10 && hour < 11) {
+      verdict = 'GETTING THERE';
+      reason = 'Almost there. Can taste the spices already.';
+      suffix = 'PRE-CURRY WINDOW';
+    } else if (hour >= 14 && hour < 17) {
+      verdict = 'GETTING THERE';
+      reason = 'Post-lunch curry window\'s closing. Better order quick.';
+      suffix = 'PRE-CURRY WINDOW';
+    } else if (hour >= 22 || hour < 0) {
+      verdict = 'NIGHT CURRY';
+      reason = 'Night curry? Now we\'re talking dangerous territory.';
+      suffix = 'DANGER ZONE';
+    } else {
+      verdict = 'TOO EARLY';
+      reason = 'Even I have standards, man.';
+      suffix = 'WAITING FOR CURRY O\'CLOCK';
+    }
+
+    verdictEl.textContent = verdict;
+    reasonEl.textContent = reason;
+    timeEl.textContent = 'Current: ' + timeStr + ' \u2014 ' + suffix;
+  }
+
+  // ── 49. Cat's Nap Readiness Index ──────────────────────────────
+  function renderNapIndex(data) {
+    const fillEl = $('nap-fill');
+    const scoreEl = $('nap-score');
+    const recEl = $('nap-recommendation');
+    const detailsEl = $('nap-details');
+    if (!fillEl || !scoreEl || !recEl || !detailsEl) return;
+
+    const house = data.house || {};
+    const temp = Number(house.indoor_temp);
+    const humidity = Number(house.indoor_humidity);
+    const hour = new Date().getHours();
+
+    let score = 0;
+    let detailParts = [];
+
+    // Temperature: 22-28°C ideal → 40 points
+    if (!isNaN(temp)) {
+      if (temp >= 22 && temp <= 28) {
+        score += 40;
+        detailParts.push('Temp ' + temp.toFixed(1) + '°C \u2192 ideal napping warmth');
+      } else if (temp >= 18 && temp < 22) {
+        score += 20;
+        detailParts.push('Temp ' + temp.toFixed(1) + '°C \u2192 a bit cool');
+      } else if (temp > 28 && temp <= 32) {
+        score += 15;
+        detailParts.push('Temp ' + temp.toFixed(1) + '°C \u2192 a bit warm');
+      } else if (temp < 18 || temp > 32) {
+        score += 0;
+        detailParts.push('Temp ' + temp.toFixed(1) + '°C \u2192 not napping weather');
+      }
+    }
+
+    // Humidity: 40-60% ideal → 30 points
+    if (!isNaN(humidity)) {
+      if (humidity >= 40 && humidity <= 60) {
+        score += 30;
+        detailParts.push('Humidity ' + humidity.toFixed(0) + '% \u2192 purrfect');
+      } else if (humidity >= 30 && humidity < 40) {
+        score += 15;
+      } else if (humidity > 60 && humidity <= 75) {
+        score += 10;
+      }
+    }
+
+    // Time since last meal: 13-15 or 20-22 (post-meal) → 30 points, else 10
+    if ((hour >= 13 && hour <= 15) || (hour >= 20 && hour <= 22)) {
+      score += 30;
+      detailParts.push('Post-meal \u2192 nap window optimal');
+    } else {
+      score += 10;
+    }
+
+    // Time of day bonus
+    if (hour >= 12 && hour <= 15) {
+      score += 10;
+      detailParts.push('Afternoon nap prime time');
+    } else if (hour >= 0 && hour <= 6) {
+      score += 20;
+      detailParts.push('Sleeping hours \u2192 ideal');
+    } else if (hour >= 22 && hour <= 24) {
+      score += 20;
+      detailParts.push('Night hours \u2192 sleep time');
+    }
+
+    score = Math.max(0, Math.min(100, score));
+
+    fillEl.style.width = score + '%';
+    scoreEl.textContent = score;
+
+    // Recommendation
+    let rec;
+    if (score >= 80) rec = 'The Command Chair \u2014 it\'s where The Cat would nap';
+    else if (score >= 60) rec = 'Your bunk \u2014 acceptable but uninspired';
+    else if (score >= 40) rec = 'The floor near a warm vent \u2014 desperate times';
+    else rec = 'Don\'t bother. Go do something productive.';
+    recEl.textContent = 'Recommended napping spot: ' + rec;
+
+    // Details
+    detailsEl.textContent = detailParts[0] || '';
+  }
+
+  // ── 50. Kryten's Excessively Polite System Advisory ────────────
+  function renderPoliteAdvisory(data) {
+    const tickerEl = $('advisory-ticker');
+    const severityEl = $('advisory-severity');
+    if (!tickerEl || !severityEl) return;
+
+    const house = data.house || {};
+    const indoorTemp = Number(house.indoor_temp);
+    const humidity = Number(house.indoor_humidity);
+    const power = Number(house.power_usage);
+    const outdoorTemp = Number(house.outdoor_temp);
+    const windSpeed = Number(house.wind_speed);
+    const heating = house.heating_active;
+
+    const conditions = [];
+
+    if (!isNaN(indoorTemp) && indoorTemp > 30) {
+      conditions.push({
+        msg: 'I do apologise for the intrusion, but the ambient temperature is ever so slightly above what might be considered comfortable. I\'ve taken the liberty of preparing a cold beverage.',
+        sev: 'Temperature Advisory',
+        priority: 3,
+      });
+    }
+
+    if (!isNaN(humidity) && humidity > 75) {
+      conditions.push({
+        msg: 'I hope I\'m not overstepping, but the humidity levels are rather elevated. I\'ve already aired the cupboards \u2014 just in case.',
+        sev: 'Humidity Advisory',
+        priority: 3,
+      });
+    }
+
+    if (!isNaN(power) && power > 400) {
+      conditions.push({
+        msg: 'I don\'t wish to alarm anyone, but the power consumption is somewhat higher than typical. Might someone check the engine room? No rush, of course.',
+        sev: 'Power Advisory',
+        priority: 5,
+      });
+    }
+
+    if (!isNaN(outdoorTemp) && outdoorTemp < 5 && heating !== 'ON') {
+      conditions.push({
+        msg: 'Terribly sorry to mention it, but it is rather cold outside and the heating appears to be off. I\'ve prepared a blanket and a hot water bottle \u2014 should you require them.',
+        sev: 'Climate Advisory',
+        priority: 4,
+      });
+    }
+
+    if (!isNaN(windSpeed) && windSpeed > 30) {
+      conditions.push({
+        msg: 'I beg your pardon, but the external wind speeds are rather robust. I\'ve checked all the hatches. They are secure. One does like to be thorough.',
+        sev: 'Wind Advisory',
+        priority: 2,
+      });
+    }
+
+    if (conditions.length === 0) {
+      tickerEl.textContent = '"Everything is in order, sir. I\'ve checked all systems \u2014 thoroughly, as you\'d expect. There\'s a pot of tea waiting if you need one."';
+      severityEl.textContent = 'All systems nominal \u2014 carry on, sir';
+      return;
+    }
+
+    // Pick most urgent (highest priority)
+    conditions.sort(function(a, b) { return b.priority - a.priority; });
+    tickerEl.textContent = '"' + conditions[0].msg + '"';
+    severityEl.textContent = conditions[0].sev + ' in effect';
   }
 
   // --- Init ---

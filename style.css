@@ -853,6 +853,103 @@ body {
 .age-ok { color: var(--amber); }
 .age-stale { color: var(--red); }
 
+/* === 46. Holly's 'I Could've Told You That' Counter === */
+.holly-told-you { text-align: center; }
+.holy-counter-grid { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 4px 0; }
+.holy-counter { display: flex; flex-direction: column; align-items: center; gap: 1px; }
+.holy-tally {
+  font-size: 2rem; font-weight: bold; font-family: var(--font-mono-alt);
+  color: #7df9ff; text-shadow: 0 0 12px rgba(125, 249, 255, 0.4);
+  line-height: 1;
+}
+.holy-unit { font-size: 0.5rem; color: var(--text-dim); letter-spacing: 0.1em; }
+.holy-last {
+  font-size: 0.65rem; font-style: italic; color: var(--cyan-dim);
+  line-height: 1.4; margin-top: 4px; min-height: 1.4em;
+  background: repeating-linear-gradient(0deg, transparent, transparent 20px, rgba(125, 249, 255, 0.03) 20px, rgba(125, 249, 255, 0.03) 21px);
+}
+.holy-last::after {
+  content: ''; display: inline-block;
+  animation: holy-ellipsis 2s steps(4) infinite;
+}
+@keyframes holy-ellipsis {
+  0% { content: '.'; }
+  25% { content: '..'; }
+  50% { content: '...'; }
+  75% { content: ''; }
+}
+
+/* === 47. Rimmer's Smeg-Head Citation Index === */
+.rimmer-citations { position: relative; }
+.rimmer-citations::before {
+  content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+  background: repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(255,51,68,0.02) 3px, rgba(255,51,68,0.02) 4px);
+  pointer-events: none;
+  z-index: 0;
+}
+.citation-container { display: flex; flex-direction: column; gap: 2px; padding: 4px 0; position: relative; z-index: 1; }
+.citation-current {
+  font-size: 0.7rem; color: var(--text-main); line-height: 1.4; font-style: italic;
+  border-left: 2px solid var(--red); padding-left: 8px;
+}
+.citation-source { font-size: 0.55rem; color: var(--text-dim); text-align: right; }
+.citation-counter {
+  display: flex; align-items: center; gap: 6px; justify-content: center;
+  padding: 4px 0; border-top: 1px solid rgba(255,51,68,0.1); margin-top: 4px;
+}
+.citation-total {
+  font-size: 1.8rem; font-weight: bold; font-family: var(--font-mono-alt);
+  color: #ff4444; text-shadow: 0 0 10px rgba(255,68,68,0.3);
+  line-height: 1;
+}
+.citation-label { font-size: 0.5rem; color: var(--text-dim); letter-spacing: 0.1em; }
+
+/* === 48. Lister's 'Is It Curry O'Clock?' Indicator === */
+.curry-clock { text-align: center; background: linear-gradient(135deg, rgba(139,0,0,0.1) 0%, rgba(201,169,81,0.08) 100%) !important; }
+.curry-verdict-large {
+  font-size: 2.5rem; font-weight: bold; font-family: var(--font-mono-alt);
+  color: #c8a951; text-shadow: 0 0 15px rgba(200,169,81,0.3);
+  line-height: 1.1; margin: 4px 0;
+}
+.curry-reason { font-size: 0.65rem; color: #f5deb3; font-style: italic; margin-bottom: 2px; }
+.curry-time { font-size: 0.55rem; color: var(--text-dim); }
+
+/* === 49. Cat's Nap Readiness Index === */
+.nap-index { text-align: center; }
+.nap-meter {
+  position: relative; width: 100%; height: 28px;
+  background: linear-gradient(90deg, #4a0080 0%, #6a20b0 30%, #d4a030 70%, #ffd700 100%);
+  border-radius: 14px; margin: 8px 0; overflow: hidden;
+}
+.nap-fill {
+  position: absolute; top: 0; left: 0; height: 100%;
+  background: linear-gradient(90deg, rgba(74,0,128,0.3) 0%, rgba(255,215,0,0.3) 100%);
+  border-radius: 14px; transition: width 1s ease;
+}
+.nap-score {
+  position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
+  font-size: 1rem; font-weight: bold; font-family: var(--font-mono-alt);
+  color: #fff; text-shadow: 0 0 8px rgba(0,0,0,0.5);
+  line-height: 1; z-index: 1;
+}
+.nap-recommendation { font-size: 0.6rem; color: var(--amber); font-style: italic; margin-top: 4px; }
+.nap-details { font-size: 0.55rem; color: var(--text-dim); margin-top: 2px; }
+
+/* === 50. Kryten's Excessively Polite System Advisory === */
+.polite-advisory {
+  background: linear-gradient(135deg, rgba(255,253,208,0.04) 0%, rgba(255,253,208,0.02) 100%) !important;
+}
+.polite-advisory .deck-label { color: #800020; }
+.advisory-ticker {
+  font-size: 0.7rem; color: #800020; line-height: 1.4; font-style: italic;
+  padding: 6px 8px; margin: 4px 0;
+  background: repeating-linear-gradient(90deg, transparent, transparent 10px, rgba(128,0,32,0.03) 10px, rgba(128,0,32,0.03) 11px);
+  border: 1px solid rgba(128,0,32,0.1);
+  border-radius: 4px;
+  min-height: 2.8em;
+}
+.advisory-severity { font-size: 0.55rem; color: var(--text-dim); text-align: center; letter-spacing: 0.05em; }
+
 /* --- Responsive --- */
 @media (max-width: 900px) {
   .grid-main {
@@ -2262,7 +2359,8 @@ body::after {
   .deck-cat-verdict, .deck-power-gauges, .deck-day-counter,
   .deck-efficiency, .deck-curry-stockpile, .deck-trivia, .deck-uptime,
   .deck-hologram, .deck-laundry, .deck-ai-ticker, .deck-fashion, .deck-maintenance, .deck-meal, .deck-alarm-log,
-  .lighting-advisory, .string-vest, .dust-index, .snooker-advisory, .deck-comfort, .run-log, .glow-up, .panel-audit { grid-column: 1 / -1; }
+  .lighting-advisory, .string-vest, .dust-index, .snooker-advisory, .deck-comfort, .run-log, .glow-up, .panel-audit,
+  .holly-told-you, .rimmer-citations, .curry-clock, .nap-index, .polite-advisory { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
   .glance-strip { font-size: 0.6rem; gap: 10px; }
   .glance-weather { margin-left: 0; }
