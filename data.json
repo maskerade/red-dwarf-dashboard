@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T16:42:32.090871+00:00",
+  "timestamp": "2026-06-29T17:13:37.980255+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 19.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -94,5 +94,5 @@
     "Microsoft keeps Windows Server 2022 hotpatching alive into 2027",
     "Blue Origin insists New Glenn will rise from the ashes this year after explosion deleted launchpad"
   ],
-  "crew_quote": "\"With weather like this, I could really go for a curry... but I suppose I'll settle for avoiding AI — it’s probably smarter than me and that’s just depressing!\""
+  "crew_quote": "\"Just like the weather in Overseal, I feel partly cloudy today—mostly because I've just realised I’m out of curry and that’s a total disaster!\""
 }
