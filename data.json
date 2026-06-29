@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T00:40:16.587412+00:00",
+  "timestamp": "2026-06-29T01:11:17.372035+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,27 +17,27 @@
   "locations": {
     "altrincham": {
       "temp": 13.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-29",
           "max": 22.0,
-          "min": 11.0
+          "min": 10.0
         },
         {
           "date": "2026-06-30",
-          "max": 21.0,
-          "min": 14.0
+          "max": 20.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-01",
           "max": 21.0,
-          "min": 15.0
+          "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Clear ",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-06-29",
@@ -80,12 +80,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:43 AM",
-    "sunset": "09:42 PM",
+    "sunrise": "04:44 AM",
+    "sunset": "09:41 PM",
     "moon_phase": "Full Moon",
     "moon_illumination": "99",
-    "moonrise": "10:07 PM",
-    "moonset": "03:25 AM"
+    "moonrise": "10:06 PM",
+    "moonset": "03:26 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "NASA tests AI medic for astronauts too far from Earth to call a doctor",
     "It's looking like a hot, messy summer for security teams as AI finds countless previously hidden vulns"
   ],
-  "crew_quote": "\"Clear skies and a chill in the air—perfect for a curry night! Just remember, if we can’t power the fridge, it’s a hint from the universe to skip the leftovers!\""
+  "crew_quote": "\"Did you hear? While it's a splendid 15°C in Llandudno, I’d rather be perfecting my curry recipe than worrying about pixels and bank storage!\""
 }
