@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T11:49:50.898222+00:00",
+  "timestamp": "2026-06-30T12:20:49.968624+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Former Microsoft engineer shrinks Notepad down to size",
     "Where there's a will, AI still has work to do",
     "Raspberry Pi OS gets a new kernel but apparently not a new version number",
-    "No more Java refills for Intel Macs after JDK 27, says Oracle",
-    "HS2's latest reset ditches autonomous train tech to get project back on track"
+    "No more Java refills for Intel Macs after JDK 27, says Oracle"
   ],
-  "crew_quote": "\"Is it partly cloudy or just a metaphor for my existence? Either way, I'm still craving a good curry—rain or shine!\""
+  "crew_quote": "\"I reckon if we had a curry while this rain pours down in Llandudno, it’d be the perfect excuse for a ‘stay indoors’ day — sunny weather can wait!\""
 }
