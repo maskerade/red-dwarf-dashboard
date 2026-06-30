@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T12:51:50.869658+00:00",
+  "timestamp": "2026-06-30T13:22:51.550037+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 21.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -94,5 +94,5 @@
     "Raspberry Pi OS gets a new kernel but apparently not a new version number",
     "No more Java refills for Intel Macs after JDK 27, says Oracle"
   ],
-  "crew_quote": "\"Well, with all this light drizzle in Llandudno, I suppose that means it's the perfect weather for a curry, eh? Nothing like a good vindaloo to brighten up a rainy day!\""
+  "crew_quote": "\"Light rain, eh? Perfect weather for a nice curry, a pint, and pretending we’re not stuck on this rusty old tin can!\""
 }
