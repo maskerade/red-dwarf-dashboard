@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T10:16:44.919574+00:00",
+  "timestamp": "2026-06-30T10:47:44.207351+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Raspberry Pi OS gets a new kernel but apparently not a new version number",
     "No more Java refills for Intel Macs after JDK 27, says Oracle",
     "HS2's latest reset ditches autonomous train tech to get project back on track",
-    "Atlas shrugs: New UK asylum seeker IT system failed to help case workers learn from appeals",
-    "Microsoft builds a bouncer to keep bots out of Teams meetings"
+    "Atlas shrugs: New UK asylum seeker IT system failed to help case workers learn from appeals"
   ],
-  "crew_quote": "\"19 degrees and partly cloudy? Pfft, that’s jacket weather for a cat like me! I need sunshine for my fabulousness, darling!\""
+  "crew_quote": "\"You know, with this lovely weather in Altrincham, I could really go for a pint and a curry, instead of worrying about Raspberry Pi nonsense—who cares about kernels when there’s curry to be had?\""
 }
