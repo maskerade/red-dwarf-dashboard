@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T13:22:51.550037+00:00",
+  "timestamp": "2026-06-30T13:53:51.774285+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Raspberry Pi OS gets a new kernel but apparently not a new version number",
     "No more Java refills for Intel Macs after JDK 27, says Oracle"
   ],
-  "crew_quote": "\"Light rain, eh? Perfect weather for a nice curry, a pint, and pretending we’re not stuck on this rusty old tin can!\""
+  "crew_quote": "\"Just my luck, it’s light rain in Altrincham—perfect weather for a curry binge and a good old moan about how miserable it is! Bet the rest of the galaxy’s got better vibes!\""
 }
