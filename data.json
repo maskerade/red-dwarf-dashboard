@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T14:55:53.054374+00:00",
+  "timestamp": "2026-06-30T15:26:54.105318+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "What the OCI MSA didn't solve for AI scaling",
     "Arm64 on the desktop? It’s spendy and it’s sluggish",
     "UK regulator wants Apple and Google to let devs steer clear of app store fees",
-    "Former Microsoft engineer shrinks Notepad down to size",
-    "Where there's a will, AI still has work to do"
+    "Former Microsoft engineer shrinks Notepad down to size"
   ],
-  "crew_quote": "\"21 degrees and it's still spitting like a disgruntled cat? I could whip up a curry in this weather, but I'd need an umbrella to serve it!\""
+  "crew_quote": "\"Oi, with all this patchy drizzle, I reckon it’s perfect weather for a curry night in! Just gotta keep that 'sluggish' laptop away from the bhaji, yeah?\""
 }
