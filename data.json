@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T10:47:44.207351+00:00",
+  "timestamp": "2026-06-30T11:18:48.592939+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Rain Shower",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "HS2's latest reset ditches autonomous train tech to get project back on track",
     "Atlas shrugs: New UK asylum seeker IT system failed to help case workers learn from appeals"
   ],
-  "crew_quote": "\"You know, with this lovely weather in Altrincham, I could really go for a pint and a curry, instead of worrying about Raspberry Pi nonsense—who cares about kernels when there’s curry to be had?\""
+  "crew_quote": "\"Well, at least it's warmer outside than my last curry — 19 degrees is practically a heatwave! Just wait till you see me in my shorts!\""
 }
