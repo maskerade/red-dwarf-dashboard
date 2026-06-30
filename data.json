@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T19:03:57.749768+00:00",
+  "timestamp": "2026-06-30T19:34:57.104138+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 16.0,
-      "conditions": "Light Rain Shower",
+      "conditions": "Light Rain Shower, Fog In Vicinity",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Huntress CEO says threat hunter used 'poor judgment' in alerting ransomware crim about law enforcement probe",
+    "Meta's non-surgical mind reading machine improves on prior projects, but still isn't great",
     "AI agents: Cause of database sprawl. And also the proposed solution",
-    "Microsoft previews Linux containers that run in Windows",
-    "What the OCI MSA didn't solve for AI scaling",
-    "Arm64 on the desktop? It’s spendy and it’s sluggish"
+    "Microsoft previews Linux containers that run in Windows"
   ],
-  "crew_quote": "\"You know, it's about 16 degrees out there, perfect curry weather! Just the right temp to spice up your life while dodging those pesky light rain showers!\""
+  "crew_quote": "\"Honestly, with all this fog around, I wouldn't be surprised if we ended up having a curry delivered by a ghost!\""
 }
