@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-29T23:56:33.737526+00:00",
+  "timestamp": "2026-06-30T00:27:34.556138+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,14 +37,9 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Clear ",
+      "temp": 15.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
-        {
-          "date": "2026-06-29",
-          "max": 23.0,
-          "min": 9.0
-        },
         {
           "date": "2026-06-30",
           "max": 23.0,
@@ -53,6 +48,11 @@
         {
           "date": "2026-07-01",
           "max": 23.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-02",
+          "max": 22.0,
           "min": 11.0
         }
       ]
@@ -62,11 +62,6 @@
       "conditions": "Overcast",
       "forecast": [
         {
-          "date": "2026-06-29",
-          "max": 19.0,
-          "min": 10.0
-        },
-        {
           "date": "2026-06-30",
           "max": 19.0,
           "min": 11.0
@@ -75,6 +70,11 @@
           "date": "2026-07-01",
           "max": 18.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-07-02",
+          "max": 17.0,
+          "min": 11.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Large Hadron Collider goes offline to make room for its enhanced successor",
     ".NET's long-term support is not long-term enough, dev complains"
   ],
-  "crew_quote": "\"Blimey, it’s nicer outside than a curry vindaloo on a cold day! Just don’t let Rimmer out there, he might start trying to exploit the clear skies!\""
+  "crew_quote": "\"15 degrees and overcast, perfect weather for a curry, innit? Not too hot for me, but just right for the aromas to dance around like my culinary genius!\""
 }
