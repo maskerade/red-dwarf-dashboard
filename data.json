@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T09:14:43.678857+00:00",
+  "timestamp": "2026-06-30T09:45:44.922918+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 19.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Rain Shower",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "HS2's latest reset ditches autonomous train tech to get project back on track",
     "Atlas shrugs: New UK asylum seeker IT system failed to help case workers learn from appeals",
     "Microsoft builds a bouncer to keep bots out of Teams meetings",
-    "South Korea’s hot new sensation is 3S+1F – a quadrillion-Won AI plan, not a band",
-    "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info"
+    "South Korea’s hot new sensation is 3S+1F – a quadrillion-Won AI plan, not a band"
   ],
-  "crew_quote": "\"Oi, it's 18 degrees and sunny out there! Perfect curry weather, unless you’re stuck inside fending off bots in Teams meetings—what a nightmare, eh?\""
+  "crew_quote": "\"Look at this weather, it's like a lovely sunny day on the ship — too bad our power usage is still as low as Rimmer's chances of getting promoted!\""
 }
