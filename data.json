@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T03:33:41.992065+00:00",
+  "timestamp": "2026-06-30T04:04:42.499864+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,12 +17,12 @@
   "locations": {
     "altrincham": {
       "temp": 14.0,
-      "conditions": "Light Rain",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-30",
-          "max": 21.0,
-          "min": 12.0
+          "max": 22.0,
+          "min": 11.0
         },
         {
           "date": "2026-07-01",
@@ -32,7 +32,7 @@
         {
           "date": "2026-07-02",
           "max": 19.0,
-          "min": 11.0
+          "min": 12.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "Anonymous researcher drops 0-day 'exploitarium' repo",
     "Supreme Court rules cops need a warrant to vacuum up phone location data"
   ],
-  "crew_quote": "\"Ah, it's a perfect day for a pint and a curry while the rain tries to decide if it wants to join in the fun or just be a miserable drizzle like my last relationship!\""
+  "crew_quote": "\"Windy enough to blow your hair into a proper mess, but hey, at least it's not raining — just like my love life, really!\""
 }
