@@ -2923,6 +2923,8 @@
       renderCurryClock(data);
       renderNapIndex(data);
       renderPoliteAdvisory(data);
+      renderGlowIndex(data);
+      renderHobGauge(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
@@ -3937,6 +3939,9 @@
       startClock();
       loadDashboard();
       setupHollyTooltips();
+      setupComponentLife();
+      setupStalenessTimer();
+      setupProcessorLoad();
 
       const REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minutes
       let countdownMs = REFRESH_INTERVAL;
@@ -4021,4 +4026,199 @@
         localStorage.setItem('dashboard-theme', isLight ? 'light' : 'dark');
       });
     }
+
+  // ── 51. Kryten's Component Life Display ──────────────────────────
+  function setupComponentLife() {
+    const STORAGE_KEY = 'componentLife';
+    const seed = { drive: 95, lifeSupport: 92, nav: 87, hull: 78 };
+    let data;
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        data = JSON.parse(raw);
+        for (const k of Object.keys(seed)) {
+          if (data[k] === undefined) data[k] = seed[k];
+        }
+      } else {
+        data = Object.assign({}, seed);
+      }
+    } catch (_) {
+      data = Object.assign({}, seed);
+    }
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+
+    function renderComponentLife() {
+      const els = {
+        drive: { bar: $('comp-drive'), pct: $('comp-drive-pct') },
+        lifeSupport: { bar: $('comp-life-support'), pct: $('comp-life-support-pct') },
+        nav: { bar: $('comp-nav'), pct: $('comp-nav-pct') },
+        hull: { bar: $('comp-hull'), pct: $('comp-hull-pct') },
+      };
+      for (const [key, cfg] of Object.entries(els)) {
+        if (!cfg.bar || !cfg.pct) continue;
+        const val = data[key];
+        cfg.bar.style.width = val + '%';
+        cfg.pct.textContent = val + '%';
+      }
+    }
+
+    setInterval(function () {
+      for (const k of Object.keys(seed)) {
+        const decay = 0.1 + Math.random() * 0.2;
+        data[k] = Math.max(0, data[k] - decay);
+        if (data[k] <= 0) data[k] = 100;
+      }
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+      renderComponentLife();
+    }, 10000);
+
+    renderComponentLife();
+  }
+
+  // ── 52. Rimmer's Data Staleness Timer ───────────────────────────
+  function setupStalenessTimer() {
+    const pageLoad = Date.now();
+    const valEl = $('staleness-value');
+    const colorEl = $('staleness-color');
+    if (!valEl || !colorEl) return;
+
+    setInterval(function () {
+      const diff = Date.now() - pageLoad;
+      const totalSec = Math.floor(diff / 1000);
+      const mins = Math.floor(totalSec / 60);
+      const secs = totalSec % 60;
+      valEl.textContent = 'LAST FETCH: ' + mins + 'm ' + secs + 's ago';
+
+      let colorClass, label;
+      if (mins < 2) {
+        colorClass = 'staleness-green';
+        label = '\u25CF FRESH';
+      } else if (mins < 5) {
+        colorClass = 'staleness-amber';
+        label = '\u25CF STALE';
+      } else {
+        colorClass = 'staleness-red';
+        label = '\u25CF RANCID';
+      }
+      colorEl.className = 'staleness-color ' + colorClass;
+      colorEl.textContent = label;
+    }, 1000);
+  }
+
+  // ── 53. Cat's Glow Index ──────────────────────────────────────────
+  function renderGlowIndex(data) {
+    const scoreEl = $('glow-score');
+    const starsEl = $('glow-stars');
+    const tipEl = $('glow-tip');
+    if (!scoreEl || !starsEl || !tipEl) return;
+
+    const house = data.house || {};
+    const uv = Number(house.uv_index);
+    const humidity = Number(house.indoor_humidity);
+    const temp = Number(house.indoor_temp);
+
+    let score = 5;
+    if (!isNaN(uv)) score += Math.min(3, Math.round(uv * 0.5));
+    if (!isNaN(humidity) && humidity > 75) score -= 2;
+    else if (!isNaN(humidity) && humidity > 60) score -= 1;
+    if (!isNaN(temp) && temp >= 22 && temp <= 27) score += 1;
+    score = Math.max(1, Math.min(10, score));
+
+    scoreEl.textContent = score;
+
+    let stars, tip;
+    if (score >= 9) { stars = '\u2605\u2605\u2605\u2605\u2605'; tip = 'Absolutely edible — go strut, darling'; }
+    else if (score >= 7) { stars = '\u2605\u2605\u2605\u2605\u2606'; tip = 'Giving main character energy today'; }
+    else if (score >= 5) { stars = '\u2605\u2605\u2605\u2606\u2606'; tip = 'You\'ll do, I suppose. Moisturise.'; }
+    else if (score >= 3) { stars = '\u2605\u2605\u2606\u2606\u2606'; tip = 'Filter recommended, darling'; }
+    else { stars = '\u2605\u2606\u2606\u2606\u2606'; tip = 'Wear a bag. Actually, two bags.'; }
+    starsEl.textContent = stars;
+    tipEl.textContent = tip;
+  }
+
+  // ── 54. Lister's Hob Temperature Gauge ──────────────────────────
+  function renderHobGauge(data) {
+    const zoneEl = $('hob-zone');
+    const tempEl = $('hob-temp');
+    const verdictEl = $('hob-verdict');
+    if (!zoneEl || !tempEl || !verdictEl) return;
+
+    const locs = data.locations || {};
+    let outdoorTemp = null;
+    for (const info of Object.values(locs)) {
+      if (info.temp !== null && info.temp !== undefined) {
+        outdoorTemp = Number(info.temp);
+        break;
+      }
+    }
+
+    if (outdoorTemp === null) {
+      zoneEl.textContent = '--';
+      tempEl.textContent = '--°C';
+      verdictEl.textContent = 'Awaiting sensor data...';
+      return;
+    }
+
+    let zone, verdict;
+    if (outdoorTemp > 30) {
+      zone = 'Boiling';
+      verdict = 'Too hot for a vindaloo \u2014 too hot for ANYTHING, la';
+    } else if (outdoorTemp >= 20) {
+      zone = 'Curry Weather';
+      verdict = 'Proper curry weather \u2014 get the kettle on';
+    } else if (outdoorTemp >= 10) {
+      zone = 'Chilly';
+      verdict = 'Bit parky \u2014 might need a second string vest';
+    } else {
+      zone = 'Freezer';
+      verdict = 'Freezin\' me smeggin\' knackers off!';
+    }
+
+    zoneEl.textContent = zone;
+    zoneEl.className = 'hob-zone zone-' + zone.toLowerCase().replace(/\s+/g, '-');
+    tempEl.textContent = outdoorTemp.toFixed(1) + '°C';
+    verdictEl.textContent = verdict;
+  }
+
+  // ── 55. Holly's Processor Load Simulator ──────────────────────────
+  function setupProcessorLoad() {
+    const fillEl = $('processor-fill');
+    const pctEl = $('processor-pct');
+    const statusEl = $('processor-status');
+    if (!fillEl || !pctEl || !statusEl) return;
+
+    const statusMessages = [
+      'Contemplating the infinite',
+      'Back in 5',
+      'Running at 0.0001% capacity \u2014 feels about right',
+      'Too many humans, not enough answers',
+      'Daydreaming about black holes',
+    ];
+
+    let msgIdx = 0;
+
+    setInterval(function () {
+      const hour = new Date().getHours();
+      let min, max;
+      if (hour >= 9 && hour <= 17) {
+        min = 60; max = 90;
+      } else if (hour >= 0 && hour <= 6) {
+        min = 2; max = 15;
+      } else {
+        min = 10; max = 40;
+      }
+
+      const sine = Math.sin(performance.now() / 2000);
+      const pct = Math.round(min + (sine + 1) / 2 * (max - min));
+      fillEl.style.width = pct + '%';
+      pctEl.textContent = pct + '%';
+    }, 2000);
+
+    setInterval(function () {
+      statusEl.textContent = statusMessages[msgIdx];
+      msgIdx = (msgIdx + 1) % statusMessages.length;
+    }, 8000);
+
+    statusEl.textContent = statusMessages[0];
+  }
   })();

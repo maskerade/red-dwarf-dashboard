@@ -950,6 +950,50 @@ body {
 }
 .advisory-severity { font-size: 0.55rem; color: var(--text-dim); text-align: center; letter-spacing: 0.05em; }
 
+/* === 51. Kryten's Component Life Display === */
+.component-life { }
+.component-life-grid { display: flex; flex-direction: column; gap: 6px; }
+.component-row { display: flex; align-items: center; gap: 6px; }
+.component-label { font-size: 0.55rem; color: var(--text-dim); width: 72px; flex-shrink: 0; letter-spacing: 0.05em; }
+.component-gauge-wrap { flex: 1; height: 10px; background: rgba(255,255,255,0.05); border-radius: 5px; overflow: hidden; }
+.component-gauge { height: 100%; border-radius: 5px; transition: width 3s ease; }
+.component-drive { background: linear-gradient(90deg, #00cc66, #00ff88); }
+.component-life-support { background: linear-gradient(90deg, #0099cc, #00ccff); }
+.component-nav { background: linear-gradient(90deg, #cc8800, #ffaa00); }
+.component-hull { background: linear-gradient(90deg, #cc2222, #ff4444); }
+.component-pct { font-size: 0.6rem; font-family: var(--font-mono-alt); color: var(--amber); width: 32px; text-align: right; }
+
+/* === 52. Rimmer's Data Staleness Timer === */
+.staleness-display { text-align: center; padding: 6px 0; }
+.staleness-value { display: block; font-size: 1rem; font-weight: bold; font-family: var(--font-mono-alt); margin-bottom: 4px; }
+.staleness-color { display: inline-block; font-size: 0.65rem; letter-spacing: 0.1em; }
+.staleness-green { color: #00ff88; }
+.staleness-amber { color: #ffaa00; }
+.staleness-red { color: #ff4444; }
+
+/* === 53. Cat's Glow Index === */
+.glow-index { text-align: center; }
+.glow-index-ring { padding: 6px 0; }
+.glow-score { font-size: 2em; font-weight: bold; font-family: var(--font-mono-alt); color: var(--amber); display: block; text-shadow: 0 0 10px rgba(255,176,0,0.2); }
+.glow-stars { font-size: 1.2em; color: #ffd700; display: block; margin: 2px 0; }
+.glow-tip { font-style: italic; color: var(--cyan-dim); }
+
+/* === 54. Lister's Hob Temperature Gauge === */
+.hob-gauge { text-align: center; }
+.hob-zone { font-size: 1.8rem; font-weight: bold; font-family: var(--font-mono-alt); text-shadow: 0 0 12px rgba(255,176,0,0.15); }
+.hob-temp { font-size: 0.8rem; font-family: var(--font-mono-alt); color: var(--text-dim); margin: 2px 0; }
+.hob-zone.zone-boiling { color: #ff4444; }
+.hob-zone.zone-curry { color: #ff8800; }
+.hob-zone.zone-chilly { color: #4488ff; }
+.hob-zone.zone-freezer { color: #8844ff; }
+
+/* === 55. Holly's Processor Load Simulator === */
+.processor-load { }
+.processor-gauge-wrap { position: relative; width: 100%; height: 28px; background: rgba(255,255,255,0.04); border-radius: 14px; overflow: hidden; margin: 8px 0; }
+.processor-fill { position: absolute; top: 0; left: 0; height: 100%; background: linear-gradient(90deg, #008877, #00ccaa); border-radius: 14px; transition: width 2s ease; }
+.processor-pct { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 0.85rem; font-weight: bold; font-family: var(--font-mono-alt); color: #fff; text-shadow: 0 0 8px rgba(0,0,0,0.6); line-height: 1; z-index: 1; }
+.processor-status { font-style: italic; font-size: 0.6rem; color: var(--cyan-dim); text-align: center; display: block; }
+
 /* --- Responsive --- */
 @media (max-width: 900px) {
   .grid-main {
@@ -2360,7 +2404,7 @@ body::after {
   .deck-efficiency, .deck-curry-stockpile, .deck-trivia, .deck-uptime,
   .deck-hologram, .deck-laundry, .deck-ai-ticker, .deck-fashion, .deck-maintenance, .deck-meal, .deck-alarm-log,
   .lighting-advisory, .string-vest, .dust-index, .snooker-advisory, .deck-comfort, .run-log, .glow-up, .panel-audit,
-  .holly-told-you, .rimmer-citations, .curry-clock, .nap-index, .polite-advisory { grid-column: 1 / -1; }
+  .holly-told-you, .rimmer-citations, .curry-clock, .nap-index, .polite-advisory, .component-life, .staleness-timer, .glow-index, .hob-gauge, .processor-load { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
   .glance-strip { font-size: 0.6rem; gap: 10px; }
   .glance-weather { margin-left: 0; }
