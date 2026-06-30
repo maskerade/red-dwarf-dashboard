@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T21:38:59.026679+00:00",
+  "timestamp": "2026-06-30T22:09:59.384613+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Light Rain Shower",
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "temp": 15.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -94,5 +94,5 @@
     "Infosec professionals sour on automated pentesting tools",
     "Huntress CEO says threat hunter used 'poor judgment' in alerting ransomware crim about law enforcement probe"
   ],
-  "crew_quote": "\"You know, even with the weather being as dreary as a light rain shower over there, nothing can dampen my spirits—especially when I’m dreaming of a curry!\""
+  "crew_quote": "\"16 degrees and overcast? Sounds like the perfect weather for a curry binge while we ponder why AI tech is buried deeper than my last attempt at cooking!\""
 }
