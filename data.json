@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T08:12:47.720908+00:00",
+  "timestamp": "2026-06-30T08:43:43.246017+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Partly cloudy",
+      "temp": 18.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Atlas shrugs: New UK asylum seeker IT system failed to help case workers learn from appeals",
     "Microsoft builds a bouncer to keep bots out of Teams meetings",
     "South Korea’s hot new sensation is 3S+1F – a quadrillion-Won AI plan, not a band",
-    "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info",
-    "Security researchers tricked LLMs into giving them cocaine recipes by abusing role models for prompt injection"
+    "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info"
   ],
-  "crew_quote": "\"With it being partly cloudy and a lovely 15 degrees, I reckon it's a perfect day for a curry and a pint, just no bots allowed – I wouldn’t want them stealing my chips!\""
+  "crew_quote": "\"Well, I must say, even if the asylum seekers are in a pickle, at least the weather's nice enough for a curry outside! Nothing like a sunny day to distract from the chaos, eh?\""
 }
