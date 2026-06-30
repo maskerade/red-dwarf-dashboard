@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T20:05:58.249792+00:00",
+  "timestamp": "2026-06-30T20:36:58.157130+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Shower In Vicinity",
+      "temp": 18.0,
+      "conditions": "Light Rain Shower",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AI agents: Cause of database sprawl. And also the proposed solution",
     "Microsoft previews Linux containers that run in Windows"
   ],
-  "crew_quote": "\"I don’t know about you lot, but I could really do with a curry right now, especially with this dull weather—16 degrees and a shower? Might as well be on a rain-soaked asteroid!\""
+  "crew_quote": "\"16 degrees and light rain? Brilliant! Just enough to make me crave a curry and then feel deeply miserable about it while I get soaked!\""
 }
