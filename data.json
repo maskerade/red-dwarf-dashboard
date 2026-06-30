@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T06:39:44.902470+00:00",
+  "timestamp": "2026-06-30T07:10:46.124592+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,22 +16,22 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-30",
-          "max": 22.0,
-          "min": 11.0
+          "max": 20.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-01",
-          "max": 21.0,
+          "max": 22.0,
           "min": 12.0
         },
         {
           "date": "2026-07-02",
-          "max": 19.0,
+          "max": 20.0,
           "min": 12.0
         }
       ]
@@ -94,5 +94,5 @@
     "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info",
     "Security researchers tricked LLMs into giving them cocaine recipes by abusing role models for prompt injection"
   ],
-  "crew_quote": "\"Look at that weather! Partly cloudy, a perfect day for a curry, but I suppose I’ll just have to settle for staring at the ceiling instead.\""
+  "crew_quote": "\"Oi, with the weather being so middling, I bet a good curry would really spice things up — just like that AI plan in South Korea! Now that’s something to make the clouds disappear!\""
 }
