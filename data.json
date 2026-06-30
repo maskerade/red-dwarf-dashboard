@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T03:02:41.812618+00:00",
+  "timestamp": "2026-06-30T03:33:41.992065+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,13 +37,13 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Partly cloudy",
+      "temp": 13.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-30",
           "max": 23.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-07-01",
@@ -52,29 +52,29 @@
         },
         {
           "date": "2026-07-02",
-          "max": 22.0,
+          "max": 21.0,
           "min": 11.0
         }
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-06-30",
-          "max": 19.0,
+          "max": 18.0,
           "min": 11.0
         },
         {
           "date": "2026-07-01",
-          "max": 18.0,
+          "max": 17.0,
           "min": 12.0
         },
         {
           "date": "2026-07-02",
           "max": 17.0,
-          "min": 11.0
+          "min": 12.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Anonymous researcher drops 0-day 'exploitarium' repo",
     "Supreme Court rules cops need a warrant to vacuum up phone location data"
   ],
-  "crew_quote": "\"With this weather, I might just whip up a lovely curry to keep warm, though knowing my luck, it'll end up tasting like overcast sky!\""
+  "crew_quote": "\"Ah, it's a perfect day for a pint and a curry while the rain tries to decide if it wants to join in the fun or just be a miserable drizzle like my last relationship!\""
 }
