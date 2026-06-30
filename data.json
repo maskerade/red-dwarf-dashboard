@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T07:41:45.685208+00:00",
+  "timestamp": "2026-06-30T08:12:47.720908+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,12 +38,12 @@
     },
     "overseal": {
       "temp": 17.0,
-      "conditions": "Cloudy ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-06-30",
-          "max": 23.0,
-          "min": 11.0
+          "max": 21.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-01",
@@ -52,29 +52,29 @@
         },
         {
           "date": "2026-07-02",
-          "max": 21.0,
-          "min": 11.0
+          "max": 22.0,
+          "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-30",
           "max": 18.0,
-          "min": 11.0
+          "min": 12.0
         },
         {
           "date": "2026-07-01",
-          "max": 17.0,
-          "min": 12.0
+          "max": 18.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-02",
           "max": 17.0,
-          "min": 12.0
+          "min": 13.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info",
     "Security researchers tricked LLMs into giving them cocaine recipes by abusing role models for prompt injection"
   ],
-  "crew_quote": "\"Nice bit of weather today! Just the right temperature for a curry — not that I can feel it in this tin can!\""
+  "crew_quote": "\"With it being partly cloudy and a lovely 15 degrees, I reckon it's a perfect day for a curry and a pint, just no bots allowed – I wouldn’t want them stealing my chips!\""
 }
