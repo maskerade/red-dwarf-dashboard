@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T17:30:55.360313+00:00",
+  "timestamp": "2026-06-30T18:02:03.730924+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 16.0,
       "conditions": "Light Rain Shower",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "What the OCI MSA didn't solve for AI scaling",
     "Arm64 on the desktop? It’s spendy and it’s sluggish"
   ],
-  "crew_quote": "\"Looks like it's 20 degrees in Altrincham and I still haven't found a way to cook a curry that doesn't involve rain ruining the ambiance. Come on, universe!\""
+  "crew_quote": "\"With this weather, I can't decide if I'm craving a nice curry or just wanting an excuse to stay in and avoid the rain. Probably both, to be honest!\""
 }
