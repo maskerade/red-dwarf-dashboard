@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T23:12:01.816617+00:00",
+  "timestamp": "2026-06-30T23:43:00.741695+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,14 +37,9 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "temp": 16.0,
+      "conditions": "Mist",
       "forecast": [
-        {
-          "date": "2026-06-30",
-          "max": 23.0,
-          "min": 13.0
-        },
         {
           "date": "2026-07-01",
           "max": 23.0,
@@ -54,18 +49,18 @@
           "date": "2026-07-02",
           "max": 21.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-07-03",
+          "max": 26.0,
+          "min": 9.0
         }
       ]
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Mist",
+      "conditions": "Overcast",
       "forecast": [
-        {
-          "date": "2026-06-30",
-          "max": 18.0,
-          "min": 12.0
-        },
         {
           "date": "2026-07-01",
           "max": 18.0,
@@ -75,6 +70,11 @@
           "date": "2026-07-02",
           "max": 17.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-07-03",
+          "max": 20.0,
+          "min": 10.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Claude Code users complain their chat records are being mysteriously wiped out",
     "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
     "Changing AI math could reduce the hardware burden, researchers show",
-    "Infosec professionals sour on automated pentesting tools",
-    "Huntress CEO says threat hunter used 'poor judgment' in alerting ransomware crim about law enforcement probe"
+    "Infosec professionals sour on automated pentesting tools"
   ],
-  "crew_quote": "\"Light rain in Altrincham? Perfect curry weather! Just add a bit of spice and we're all set for a right cozy night in.\""
+  "crew_quote": "\"With this weather, I think my curry's gonna need a raincoat. Fancy a drizzle of misty gravy on top, eh?\""
 }
