@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T12:20:49.968624+00:00",
+  "timestamp": "2026-06-30T12:51:50.869658+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 22.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Rain Shower",
+      "conditions": "Light Drizzle And Rain",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -94,5 +94,5 @@
     "Raspberry Pi OS gets a new kernel but apparently not a new version number",
     "No more Java refills for Intel Macs after JDK 27, says Oracle"
   ],
-  "crew_quote": "\"I reckon if we had a curry while this rain pours down in Llandudno, it’d be the perfect excuse for a ‘stay indoors’ day — sunny weather can wait!\""
+  "crew_quote": "\"Well, with all this light drizzle in Llandudno, I suppose that means it's the perfect weather for a curry, eh? Nothing like a good vindaloo to brighten up a rainy day!\""
 }
