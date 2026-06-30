@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T05:37:55.290501+00:00",
+  "timestamp": "2026-06-30T06:08:44.232231+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "South Korea’s hot new sensation is 3S+1F – a quadrillion-Won AI plan, not a band",
+    "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info",
     "Security researchers tricked LLMs into giving them cocaine recipes by abusing role models for prompt injection",
-    "Four years into Ukraine invasion, Russia turns influence-ops back to US and Europe",
-    "Anonymous researcher drops 0-day 'exploitarium' repo",
-    "Supreme Court rules cops need a warrant to vacuum up phone location data"
+    "Four years into Ukraine invasion, Russia turns influence-ops back to US and Europe"
   ],
-  "crew_quote": "\"Oi, with it being 14 degrees out, I reckon it’s a perfect day for a curry and a good long nap — just what we need while the world's going bonkers!\""
+  "crew_quote": "\"With the weather between 14 and 16 degrees, it’s practically a heatwave! Just perfect for a curry, not that I’m sharing my vindaloo with anyone!\""
 }
