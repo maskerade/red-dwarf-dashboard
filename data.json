@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T15:57:55.094542+00:00",
+  "timestamp": "2026-06-30T16:28:54.390923+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
-      "conditions": "Patchy light drizzle",
+      "temp": 20.0,
+      "conditions": "Light Rain Shower",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI agents: Cause of database sprawl. And also the proposed solution",
     "Microsoft previews Linux containers that run in Windows",
     "What the OCI MSA didn't solve for AI scaling",
-    "Arm64 on the desktop? It’s spendy and it’s sluggish",
-    "UK regulator wants Apple and Google to let devs steer clear of app store fees"
+    "Arm64 on the desktop? It’s spendy and it’s sluggish"
   ],
-  "crew_quote": "\"Looks like it's a lovely 21 degrees and patchy drizzle out there; just the perfect weather for a nice curry and a good old moan about the state of Microsoft!\""
+  "crew_quote": "\"Honestly, what's a bit of light rain? Just add a curry and a comfy chair, and it's a perfect day in Altrincham!\""
 }
