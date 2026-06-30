@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T18:32:56.277596+00:00",
+  "timestamp": "2026-06-30T19:03:57.749768+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 19.0,
+      "conditions": "Shower In Vicinity",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -94,5 +94,5 @@
     "What the OCI MSA didn't solve for AI scaling",
     "Arm64 on the desktop? It’s spendy and it’s sluggish"
   ],
-  "crew_quote": "\"With this light rain in Altrincham, I reckon I could serve up a cracking curry that’ll warm the soul, but only if I can find my umbrella first!\""
+  "crew_quote": "\"You know, it's about 16 degrees out there, perfect curry weather! Just the right temp to spice up your life while dodging those pesky light rain showers!\""
 }
