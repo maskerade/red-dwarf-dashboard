@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T21:07:58.634368+00:00",
+  "timestamp": "2026-06-30T21:38:59.026679+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Huntress CEO says threat hunter used 'poor judgment' in alerting ransomware crim about law enforcement probe",
-    "Meta's non-surgical mind reading machine improves on prior projects, but still isn't great",
-    "AI agents: Cause of database sprawl. And also the proposed solution",
-    "Microsoft previews Linux containers that run in Windows"
+    "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
+    "Changing AI math could reduce the hardware burden, researchers show",
+    "Infosec professionals sour on automated pentesting tools",
+    "Huntress CEO says threat hunter used 'poor judgment' in alerting ransomware crim about law enforcement probe"
   ],
-  "crew_quote": "\"Looks like it’s a perfect day for a curry, even if it’s overcast—nothing like a bit of spice to brighten up a gloomy sky, eh?\""
+  "crew_quote": "\"You know, even with the weather being as dreary as a light rain shower over there, nothing can dampen my spirits—especially when I’m dreaming of a curry!\""
 }
