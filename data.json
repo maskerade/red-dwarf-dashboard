@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T14:24:53.382230+00:00",
+  "timestamp": "2026-06-30T14:55:53.054374+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,22 +17,22 @@
   "locations": {
     "altrincham": {
       "temp": 21.0,
-      "conditions": "Light rain shower",
+      "conditions": "Patchy light drizzle",
       "forecast": [
         {
           "date": "2026-06-30",
-          "max": 20.0,
+          "max": 21.0,
           "min": 13.0
         },
         {
           "date": "2026-07-01",
-          "max": 22.0,
+          "max": 21.0,
           "min": 12.0
         },
         {
           "date": "2026-07-02",
-          "max": 20.0,
-          "min": 12.0
+          "max": 19.0,
+          "min": 11.0
         }
       ]
     },
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Arm64 on the desktop? It’s spendy and it’s sluggish",
     "UK regulator wants Apple and Google to let devs steer clear of app store fees",
     "Former Microsoft engineer shrinks Notepad down to size",
-    "Where there's a will, AI still has work to do",
-    "Raspberry Pi OS gets a new kernel but apparently not a new version number"
+    "Where there's a will, AI still has work to do"
   ],
-  "crew_quote": "\"What’s all this fuss about app fees? I mean, it’s not like half the universe isn’t already dodging a light rain shower in Altrincham!\""
+  "crew_quote": "\"21 degrees and it's still spitting like a disgruntled cat? I could whip up a curry in this weather, but I'd need an umbrella to serve it!\""
 }
