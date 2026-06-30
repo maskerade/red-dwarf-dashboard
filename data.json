@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T06:08:44.232231+00:00",
+  "timestamp": "2026-06-30T06:39:44.902470+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Overcast ",
+      "temp": 17.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft builds a bouncer to keep bots out of Teams meetings",
     "South Korea’s hot new sensation is 3S+1F – a quadrillion-Won AI plan, not a band",
     "India’s central bank mandated use of .bank domains to enhance trust – but its registry leaked sensitive info",
-    "Security researchers tricked LLMs into giving them cocaine recipes by abusing role models for prompt injection",
-    "Four years into Ukraine invasion, Russia turns influence-ops back to US and Europe"
+    "Security researchers tricked LLMs into giving them cocaine recipes by abusing role models for prompt injection"
   ],
-  "crew_quote": "\"With the weather between 14 and 16 degrees, it’s practically a heatwave! Just perfect for a curry, not that I’m sharing my vindaloo with anyone!\""
+  "crew_quote": "\"Look at that weather! Partly cloudy, a perfect day for a curry, but I suppose I’ll just have to settle for staring at the ceiling instead.\""
 }
