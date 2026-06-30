@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T04:35:42.282704+00:00",
+  "timestamp": "2026-06-30T05:06:43.831546+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -94,5 +94,5 @@
     "Anonymous researcher drops 0-day 'exploitarium' repo",
     "Supreme Court rules cops need a warrant to vacuum up phone location data"
   ],
-  "crew_quote": "\"With this weather, I might just lounge around and dream of a curry, but then again, it's probably too cloudy for that. Ah well, maybe a pint will do!\""
+  "crew_quote": "\"Well, at least the weather's a bit nicer today — I might just leave my curry on the window sill to warm up rather than heat the place, eh?\""
 }
