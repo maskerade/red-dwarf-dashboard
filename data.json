@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T09:45:44.922918+00:00",
+  "timestamp": "2026-06-30T10:16:44.919574+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-06-30",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "No more Java refills for Intel Macs after JDK 27, says Oracle",
     "HS2's latest reset ditches autonomous train tech to get project back on track",
     "Atlas shrugs: New UK asylum seeker IT system failed to help case workers learn from appeals",
-    "Microsoft builds a bouncer to keep bots out of Teams meetings",
-    "South Korea’s hot new sensation is 3S+1F – a quadrillion-Won AI plan, not a band"
+    "Microsoft builds a bouncer to keep bots out of Teams meetings"
   ],
-  "crew_quote": "\"Look at this weather, it's like a lovely sunny day on the ship — too bad our power usage is still as low as Rimmer's chances of getting promoted!\""
+  "crew_quote": "\"19 degrees and partly cloudy? Pfft, that’s jacket weather for a cat like me! I need sunshine for my fabulousness, darling!\""
 }
