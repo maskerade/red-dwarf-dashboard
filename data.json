@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T13:40:19.091707+00:00",
+  "timestamp": "2026-07-01T14:11:15.877993+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Citrix says it's back as a mainstream server virtualization player that won't send scary bills",
     "Brit competition cops fast-track £2B borging of Netomnia into Openreach challenger"
   ],
-  "crew_quote": "\"With it being 22 degrees outside, I might just treat myself to a curry and then spend the rest of the day pretending I’m on a beach in Llandudno!\""
+  "crew_quote": "\"Well, it’s a lovely 19 degrees, but honestly, who cares when I could be gliding through the stars looking fabulous instead of stuck in this cloud boring atmosphere!\""
 }
