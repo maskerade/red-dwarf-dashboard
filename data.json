@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T21:25:20.426209+00:00",
+  "timestamp": "2026-07-01T21:56:21.259825+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -31,8 +31,8 @@
         },
         {
           "date": "2026-07-03",
-          "max": 22.0,
-          "min": 10.0
+          "max": 21.0,
+          "min": 11.0
         }
       ]
     },
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Somebody told DeepSeek to build in-browser ransomware and it gleefully complied",
-    "An artificial cell with a full lifecycle has been created for the first time",
-    "AI search could kill the web without new quality signals and revenue models",
-    "Red teamers turned Claude Desktop into a double agent to do their evil bidding"
+    "EvilTokens device-code phishing kit totally more evil than we all thought",
+    "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy",
+    "Anthropic is removing its covert code for catching Chinese competitors",
+    "Godot says bye bye AI, bans vibe-coded contributions"
   ],
-  "crew_quote": "\"Well, it’s a balmy 18 degrees out there, perfect for a curry! Just don’t ask me to go outside while it drizzles—I'm not a wet dog!\""
+  "crew_quote": "\"Honestly, at 17 degrees and partly cloudy, I'd say it's the perfect day for a nice curry — just don’t let the drizzle catch you off guard, yeah?\""
 }
