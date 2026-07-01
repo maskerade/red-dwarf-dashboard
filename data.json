@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T02:49:04.200224+00:00",
+  "timestamp": "2026-07-01T03:20:07.373616+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,21 +17,21 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-01",
-          "max": 20.0,
+          "max": 21.0,
           "min": 12.0
         },
         {
           "date": "2026-07-02",
           "max": 19.0,
-          "min": 11.0
+          "min": 12.0
         },
         {
           "date": "2026-07-03",
-          "max": 24.0,
+          "max": 23.0,
           "min": 10.0
         }
       ]
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "T-Mobile appears to be quitting VMware – and fighting a very familiar battle for support rights on the way out",
     "Claude Code users complain their chat records are being mysteriously wiped out",
     "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
-    "Changing AI math could reduce the hardware burden, researchers show",
-    "Infosec professionals sour on automated pentesting tools"
+    "Changing AI math could reduce the hardware burden, researchers show"
   ],
-  "crew_quote": "\"Oh great, it's overcast again. Guess that curry I was planning needs extra spice to brighten up this miserable weather!\""
+  "crew_quote": "\"In this weather, a nice curry sounds perfect, but I suppose even I could use a bit of cloud to keep the sun off my hair, eh?\""
 }
