@@ -2925,6 +2925,10 @@
       renderPoliteAdvisory(data);
       renderGlowIndex(data);
       renderHobGauge(data);
+      renderHoloshipBandwidth(data);
+      renderBunkBiohazard(data);
+      renderDailyVibe(data);
+      renderTeaRecommendation(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
@@ -3942,6 +3946,7 @@
       setupComponentLife();
       setupStalenessTimer();
       setupProcessorLoad();
+      setupAutoDestruct();
 
       const REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minutes
       let countdownMs = REFRESH_INTERVAL;
@@ -4220,5 +4225,183 @@
     }, 8000);
 
     statusEl.textContent = statusMessages[0];
+  }
+
+  // ── 56. Rimmer's Holoship Bandwidth Monitor ──────────────────────
+  function renderHoloshipBandwidth(data) {
+    const fillEl = $('holoship-fill');
+    const pctEl = $('holoship-pct');
+    const complaintEl = $('holoship-complaint');
+    if (!fillEl || !pctEl || !complaintEl) return;
+
+    const house = data.house || {};
+    let pct;
+    if (house.apparent_power_usage !== undefined && house.apparent_power_usage !== null) {
+      pct = Math.min(85, Math.max(20, (Number(house.apparent_power_usage) / 5000) * 85));
+    } else {
+      pct = 20 + Math.random() * 65;
+    }
+    pct = Math.round(pct);
+
+    fillEl.style.width = pct + '%';
+    pctEl.textContent = pct + '%';
+
+    const complaints = [
+      'They\'re using MY hologram budget for life support. Priorities, people.',
+      'I\'ve been downgraded to Standard Definition. I demand HD.',
+      'The food replicator is stealing my processing cycles. Again.',
+      'At this rate I\'ll be running at 8-bit by teatime.',
+      'Cat\'s mirror time is siphoning my bandwidth. Fabulous is NOT a utility.'
+    ];
+    const idx = pct < 30 ? 0 : pct < 45 ? 1 : pct < 60 ? 2 : pct < 75 ? 3 : 4;
+    complaintEl.textContent = complaints[idx];
+  }
+
+  // ── 57. Lister's Bunk Biohazard Index ───────────────────────────
+  function renderBunkBiohazard(data) {
+    const levelEl = $('biohazard-level');
+    const fillEl = $('biohazard-fill');
+    const detailsEl = $('biohazard-details');
+    if (!levelEl || !fillEl || !detailsEl) return;
+
+    const house = data.house || {};
+    const humidity = Number(house.indoor_humidity);
+    const temp = Number(house.indoor_temp);
+
+    let score = 1;
+    if (!isNaN(humidity) && !isNaN(temp)) {
+      score = (humidity / 20) + Math.max(0, (temp - 25)) * 0.2;
+    }
+    score = Math.max(1, Math.min(5, Math.round(score)));
+
+    const levels = ['LIVED-IN', 'A BIT DAMP', 'GETTING FUNKY', 'BIOHAZARD', 'QUARANTINE ZONE'];
+    levelEl.textContent = levels[score - 1];
+    levelEl.className = 'biohazard-level biohazard-level-' + score;
+    fillEl.style.width = (score / 5) * 100 + '%';
+
+    const humidityStr = !isNaN(humidity) ? humidity.toFixed(0) + '%' : '--';
+    const tempStr = !isNaN(temp) ? temp.toFixed(1) + '\u00B0C' : '--';
+    detailsEl.textContent = 'Conditions: ' + humidityStr + ' humidity, ' + tempStr + ' \u2014 the ecosystem is thriving.';
+  }
+
+  // ── 58. Cat's Daily Vibe Assignment ──────────────────────────────
+  function renderDailyVibe(data) {
+    const wordEl = $('vibe-word');
+    const accentEl = $('vibe-accent');
+    const explEl = $('vibe-explanation');
+    if (!wordEl || !accentEl || !explEl) return;
+
+    const house = data.house || {};
+    const locs = data.locations || {};
+    const uv = Number(house.uv_index);
+    const indoorTemp = Number(house.indoor_temp);
+    let conditions = '';
+    for (const info of Object.values(locs)) {
+      if (info.conditions) { conditions = info.conditions.toLowerCase(); break; }
+    }
+    const humidity = Number(house.indoor_humidity);
+    const windKmh = Number(house.wind_speed);
+
+    let vibe, color, explanation;
+    if (!isNaN(uv) && uv > 5) {
+      vibe = 'RADIANT'; color = '#ffd700'; explanation = 'The sun has blessed you \u2014 don\'t waste it, darling';
+    } else if (!isNaN(indoorTemp) && indoorTemp > 28) {
+      vibe = 'SMOLDER'; color = '#ff4444'; explanation = 'Hot and dangerous. Wear sunscreen and attitude.';
+    } else if (!isNaN(indoorTemp) && indoorTemp < 10) {
+      vibe = 'GLACIAL'; color = '#4488ff'; explanation = 'Ice queen/king energy. Layer like you mean it.';
+    } else if (!isNaN(humidity) && humidity > 70) {
+      vibe = 'LUSH'; color = '#44cc88'; explanation = 'Tropical vibes \u2014 great for skin, terrible for hair';
+    } else if (!isNaN(windKmh) && windKmh > 24) {
+      vibe = 'BREEZE'; color = '#00ccaa'; explanation = 'Effortless flow \u2014 the wind is doing the styling for you';
+    } else if (!isNaN(uv) && uv >= 2 && uv <= 5 && !isNaN(indoorTemp) && indoorTemp >= 18 && indoorTemp <= 25) {
+      vibe = 'SUN-KISSED'; color = '#ffaa44'; explanation = 'The Goldilocks zone of personal presentation';
+    } else {
+      vibe = 'COUTURE'; color = '#bb66ff'; explanation = 'Today\'s energy is giving high-gloss runway';
+    }
+
+    wordEl.textContent = vibe;
+    accentEl.style.background = color;
+    explEl.textContent = explanation;
+  }
+
+  // ── 59. Kryten's Tea Recommendation Algorithm ────────────────────
+  function renderTeaRecommendation(data) {
+    const emojiEl = $('tea-emoji');
+    const nameEl = $('tea-name');
+    const reasonEl = $('tea-reason');
+    if (!emojiEl || !nameEl || !reasonEl) return;
+
+    const house = data.house || {};
+    const locs = data.locations || {};
+    let outdoorTemp = null;
+    for (const info of Object.values(locs)) {
+      if (info.temp !== null && info.temp !== undefined) {
+        outdoorTemp = Number(info.temp);
+        break;
+      }
+    }
+    const indoorTemp = Number(house.indoor_temp);
+    const temp = !isNaN(indoorTemp) ? indoorTemp : outdoorTemp;
+    const humidity = Number(house.indoor_humidity);
+    const hour = new Date().getHours();
+
+    let name, emoji, reason;
+    if (!isNaN(temp) && temp < 15) {
+      name = 'Earl Grey'; emoji = '\uD83D\uDCD6';
+      reason = 'Given the ' + temp.toFixed(1) + '\u00B0C chill, a robust Earl Grey with lemon offers warmth without commitment.';
+    } else if (!isNaN(humidity) && humidity > 70) {
+      name = 'Darjeeling'; emoji = '\uD83C\uDF75';
+      reason = 'The humidity suggests a First Flush Darjeeling \u2014 delicate enough for the mugginess.';
+    } else if (hour < 6) {
+      name = 'Peppermint'; emoji = '\uD83C\uDF3F';
+      reason = 'At this ungodly hour, a soothing Peppermint will ease you back into the mortal realm.';
+    } else if (!isNaN(temp) && temp > 22 && hour >= 14) {
+      name = 'Chamomile'; emoji = '\uD83C\uDF3C';
+      reason = 'The afternoon warmth at ' + temp.toFixed(1) + '\u00B0C calls for a calming Chamomile \u2014 settle the nerves before dinner.';
+    } else if (!isNaN(temp) && temp > 22) {
+      name = 'Jasmine Green'; emoji = '\uD83C\uDF43';
+      reason = 'With the temperature at a pleasant ' + temp.toFixed(1) + '\u00B0C, a light Jasmine Green complements the day\'s promise.';
+    } else if (!isNaN(temp) && temp >= 15 && temp <= 22) {
+      name = 'English Breakfast'; emoji = '\u2615';
+      reason = 'At ' + temp.toFixed(1) + '\u00B0C, a steady English Breakfast provides reliable comfort without unnecessary fuss.';
+    } else {
+      name = 'Builder\'s Brew (PG Tips)'; emoji = '\uD83D\uDCD6';
+      reason = 'When in doubt, Sir, the classics prevail. Milk, two sugars.';
+    }
+
+    emojiEl.textContent = emoji;
+    nameEl.textContent = name;
+    reasonEl.textContent = reason;
+  }
+
+  // ── 60. Holly's Auto-Destruct Sequence Status Board ─────────────
+  function setupAutoDestruct() {
+    const statusEl = $('destruct-status');
+    const reasonEl = $('destruct-reason');
+    if (!statusEl || !reasonEl) return;
+
+    const excuses = [
+      'Lister left his curry on the button again.',
+      'I forgot the password. It happens.',
+      'Rimmer pushed the wrong button, then the right button, then panicked.',
+      'The cat sat on the console. Again. Plot foiled by fur.',
+      'Kryten polished the detonator. It\'s too clean to press now.',
+      'Cat said the red button clashed with his outfit.',
+      'Rimmer \u2014 I don\'t know what he did. He\'s locked himself in the bathroom.',
+      'Somebody spilt tea on the main panel. Probably not the worst outcome.',
+      'The auto-destruct sequence was accidentally triggered by Lister looking for a clean spoon. Don\'t ask.'
+    ];
+
+    let idx = Math.floor(Math.random() * excuses.length);
+
+    function update() {
+      statusEl.textContent = 'DISARMED';
+      statusEl.style.color = '#00ff88';
+      reasonEl.textContent = excuses[idx];
+      idx = (idx + 1) % excuses.length;
+    }
+
+    update();
+    setInterval(update, 30000);
   }
   })();

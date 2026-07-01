@@ -994,6 +994,46 @@ body {
 .processor-pct { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 0.85rem; font-weight: bold; font-family: var(--font-mono-alt); color: #fff; text-shadow: 0 0 8px rgba(0,0,0,0.6); line-height: 1; z-index: 1; }
 .processor-status { font-style: italic; font-size: 0.6rem; color: var(--cyan-dim); text-align: center; display: block; }
 
+/* === 56. Rimmer's Holoship Bandwidth Monitor === */
+.holoship-bandwidth { }
+.holoship-gauge-wrap { position: relative; height: 28px; background: rgba(255,255,255,0.04); border-radius: 14px; overflow: hidden; margin: 8px 0; }
+.holoship-fill { position: absolute; top: 0; left: 0; height: 100%; background: linear-gradient(90deg, #8844ff, #bb66ff); border-radius: 14px; transition: width 3s ease; }
+.holoship-pct { position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); font-size: 0.85rem; font-weight: bold; font-family: var(--font-mono-alt); color: #fff; text-shadow: 0 0 8px rgba(0,0,0,0.6); line-height: 1; z-index: 1; }
+.holoship-complaint { font-style: italic; font-size: 0.6rem; color: #b388ff; text-align: center; display: block; }
+
+/* === 57. Lister's Bunk Biohazard Index === */
+.bunk-biohazard { text-align: center; }
+.biohazard-level { font-size: 1.6rem; font-weight: bold; font-family: var(--font-mono-alt); text-align: center; padding: 6px 0; }
+.biohazard-meter { height: 10px; background: rgba(255,255,255,0.05); border-radius: 5px; overflow: hidden; margin: 4px 0; }
+.biohazard-fill { height: 100%; border-radius: 5px; transition: width 2s ease; }
+.biohazard-level-1 { color: #00ff88; }
+.biohazard-level-1 .biohazard-fill { background: #00ff88; }
+.biohazard-level-2 { color: #88ff00; }
+.biohazard-level-2 .biohazard-fill { background: #88ff00; }
+.biohazard-level-3 { color: #ffaa00; }
+.biohazard-level-3 .biohazard-fill { background: #ffaa00; }
+.biohazard-level-4 { color: #ff4444; }
+.biohazard-level-4 .biohazard-fill { background: #ff4444; }
+.biohazard-level-5 { color: #ff00aa; }
+.biohazard-level-5 .biohazard-fill { background: #ff00aa; }
+
+/* === 58. Cat's Daily Vibe Assignment === */
+.daily-vibe { text-align: center; }
+.vibe-word { font-size: 2em; font-weight: bold; font-family: var(--font-mono-alt); text-align: center; padding: 8px 0; letter-spacing: 0.15em; }
+.vibe-accent { height: 4px; border-radius: 2px; margin: 4px auto; width: 80%; transition: background 2s ease; }
+.vibe-explanation { font-style: italic; font-size: 0.6rem; text-align: center; display: block; }
+
+/* === 59. Kryten's Tea Recommendation Algorithm === */
+.tea-recommendation { text-align: center; }
+.tea-name { font-size: 1.4rem; font-weight: bold; font-family: var(--font-mono-alt); text-align: center; color: var(--amber); padding: 6px 0; }
+.tea-emoji { font-size: 2em; text-align: center; display: block; }
+.tea-reason { font-size: 0.55rem; font-style: italic; text-align: center; display: block; padding: 4px; line-height: 1.4; }
+
+/* === 60. Holly's Auto-Destruct Sequence Status Board === */
+.auto-destruct { text-align: center; }
+.destruct-status { font-size: 1.5rem; font-weight: bold; font-family: var(--font-mono-alt); text-align: center; padding: 8px 0; text-shadow: 0 0 8px rgba(255,0,0,0.15); }
+.destruct-reason { font-size: 0.6rem; text-align: center; display: block; font-style: italic; color: var(--text-dim); }
+
 /* --- Responsive --- */
 @media (max-width: 900px) {
   .grid-main {
@@ -2404,7 +2444,8 @@ body::after {
   .deck-efficiency, .deck-curry-stockpile, .deck-trivia, .deck-uptime,
   .deck-hologram, .deck-laundry, .deck-ai-ticker, .deck-fashion, .deck-maintenance, .deck-meal, .deck-alarm-log,
   .lighting-advisory, .string-vest, .dust-index, .snooker-advisory, .deck-comfort, .run-log, .glow-up, .panel-audit,
-  .holly-told-you, .rimmer-citations, .curry-clock, .nap-index, .polite-advisory, .component-life, .staleness-timer, .glow-index, .hob-gauge, .processor-load { grid-column: 1 / -1; }
+  .holly-told-you, .rimmer-citations, .curry-clock, .nap-index, .polite-advisory, .component-life, .staleness-timer, .glow-index, .hob-gauge, .processor-load,
+  .holoship-bandwidth, .bunk-biohazard, .daily-vibe, .tea-recommendation, .auto-destruct { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
   .glance-strip { font-size: 0.6rem; gap: 10px; }
   .glance-weather { margin-left: 0; }
