@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T16:46:16.536335+00:00",
+  "timestamp": "2026-07-01T17:17:16.828664+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 20.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Red teamers turned Claude Desktop into a double agent to do their evil bidding",
+    "NASA unsure Boeing Starliner will ever be certified for human flight",
     "When backups aren't enough: the case for real disaster recovery",
-    "Microsoft lets Azure Linux 4 out of the cloud in downloadable ISO form",
-    "Cloudflare to block cynical search-and-scrape bots from ad-supported web pages",
-    "DRAM it! Cheap PCs being priced out of existence as memory cost bites"
+    "Microsoft lets Azure Linux 4 out of the cloud in downloadable ISO form"
   ],
-  "crew_quote": "\"With this weather being so nice, I reckon even the curry would taste better outdoors—just as long as I can keep the overcast clouds off my new hairstyle!\""
+  "crew_quote": "\"Even the weather’s on the fence, like the folks at NASA — I mean, who wouldn’t be unsure about flying in something that sounds like a fancy takeaway?\""
 }
