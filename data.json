@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T10:34:10.849356+00:00",
+  "timestamp": "2026-07-01T11:05:11.825889+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "UK.gov vows to cut consultancy spending, then hands up to £350M to consultancies",
     "Portuguese restaurant kiosk software gives Windows indigestion"
   ],
-  "crew_quote": "\"What's the point of working in an office when it's a lovely 19 degrees outside? I could be out there enjoying a curry instead of staring at another narcissist!\""
+  "crew_quote": "\"Oi, with it being a lovely 18°C out there, we could be enjoying a curry picnic on the beach instead of listening to Rimmer's boring leadership drivel!\""
 }
