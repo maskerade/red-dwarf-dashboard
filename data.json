@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T19:21:19.775848+00:00",
+  "timestamp": "2026-07-01T19:52:20.386633+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
-      "conditions": "Sunny",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Overcast",
+      "temp": 15.0,
+      "conditions": "Light Rain",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -94,5 +94,5 @@
     "NASA unsure Boeing Starliner will ever be certified for human flight",
     "When backups aren't enough: the case for real disaster recovery"
   ],
-  "crew_quote": "\"Well, I'm off to soak up the 23 degrees sunshine and contemplate the sheer brilliance of my hair—overcast skies can take a running jump!\""
+  "crew_quote": "\"With the weather being all sunny in Overseal, I'm tempted to make a curry picnic, but knowing my luck, it'll start raining like Llandudno any second!\""
 }
