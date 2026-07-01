@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T22:27:31.638521+00:00",
+  "timestamp": "2026-07-01T22:58:33.123900+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Partly cloudy",
+      "temp": 18.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Light Drizzle",
+      "conditions": "Drizzle",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -94,5 +94,5 @@
     "Anthropic is removing its covert code for catching Chinese competitors",
     "Godot says bye bye AI, bans vibe-coded contributions"
   ],
-  "crew_quote": "\"When it’s 17 degrees and partly cloudy, I reckon it’s just warm enough for a curry, but not too warm for me to avoid the news about that EvilTokens nonsense!\""
+  "crew_quote": "\"With this drizzle in Llandudno, it's ideal curry-making weather—just like a bad romance novel, steamy and messy all at once!\""
 }
