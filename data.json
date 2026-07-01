@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T15:13:17.245915+00:00",
+  "timestamp": "2026-07-01T15:44:15.407394+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,22 +16,22 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-01",
-          "max": 20.0,
+          "max": 21.0,
           "min": 12.0
         },
         {
           "date": "2026-07-02",
           "max": 19.0,
-          "min": 11.0
+          "min": 13.0
         },
         {
           "date": "2026-07-03",
-          "max": 26.0,
+          "max": 22.0,
           "min": 10.0
         }
       ]
@@ -94,5 +94,5 @@
     "Cloudflare to block cynical search-and-scrape bots from ad-supported web pages",
     "DRAM it! Cheap PCs being priced out of existence as memory cost bites"
   ],
-  "crew_quote": "\"19 degrees and partly cloudy? Sounds like the perfect weather for a curry, doesn’t it? Nothing like a bit of spice to heat things up!\""
+  "crew_quote": "\"With this lovely 20°C weather, it's the perfect day for a curry! Just don't ask me to recover any lost disasters, I'm still working on my last one!\""
 }
