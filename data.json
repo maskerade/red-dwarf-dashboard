@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T06:57:07.827058+00:00",
+  "timestamp": "2026-07-01T07:28:08.281820+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,22 +37,22 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-01",
-          "max": 23.0,
+          "max": 24.0,
           "min": 11.0
         },
         {
           "date": "2026-07-02",
-          "max": 21.0,
+          "max": 22.0,
           "min": 11.0
         },
         {
           "date": "2026-07-03",
-          "max": 25.0,
+          "max": 26.0,
           "min": 9.0
         }
       ]
@@ -69,7 +69,7 @@
         {
           "date": "2026-07-02",
           "max": 17.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-07-03",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Japan wants 10 million more robots by 2040, some providing medical care",
+    "Former Indonesian minister and startup hero jailed for Chromebook buys",
     "T-Mobile appears to be quitting VMware – and fighting a very familiar battle for support rights on the way out",
-    "Claude Code users complain their chat records are being mysteriously wiped out",
-    "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
-    "Changing AI math could reduce the hardware burden, researchers show"
+    "Claude Code users complain their chat records are being mysteriously wiped out"
   ],
-  "crew_quote": "\"Fifteen degrees, overcast, and nothing’s as good as a curry, except maybe the way my hair looks in this light! Just call me the king of cloud coverage!\""
+  "crew_quote": "\"With the weather being perfectly average at 15 degrees, it’s the ideal time for a nice curry—especially if you want to forget about all those robots taking over Japan!\""
 }
