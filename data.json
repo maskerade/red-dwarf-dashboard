@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T07:28:08.281820+00:00",
+  "timestamp": "2026-07-01T07:59:08.493337+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,22 +16,22 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Overcast",
+      "temp": 16.0,
+      "conditions": "Shower In Vicinity",
       "forecast": [
         {
           "date": "2026-07-01",
-          "max": 21.0,
+          "max": 20.0,
           "min": 12.0
         },
         {
           "date": "2026-07-02",
           "max": 19.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-07-03",
-          "max": 23.0,
+          "max": 26.0,
           "min": 10.0
         }
       ]
@@ -94,5 +94,5 @@
     "T-Mobile appears to be quitting VMware – and fighting a very familiar battle for support rights on the way out",
     "Claude Code users complain their chat records are being mysteriously wiped out"
   ],
-  "crew_quote": "\"With the weather being perfectly average at 15 degrees, it’s the ideal time for a nice curry—especially if you want to forget about all those robots taking over Japan!\""
+  "crew_quote": "\"You know, with Japan wanting 10 million more robots by 2040, I reckon they're just trying to take over the world... or at least make a better curry than mine!\""
 }
