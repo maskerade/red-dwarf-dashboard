@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T10:03:10.536386+00:00",
+  "timestamp": "2026-07-01T10:34:10.849356+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "UK.gov vows to cut consultancy spending, then hands up to £350M to consultancies",
     "Portuguese restaurant kiosk software gives Windows indigestion"
   ],
-  "crew_quote": "\"Well, with the weather sitting at a scandalously warm 17 degrees, I reckon it’s the perfect day for a curry—preferably one that doesn’t involve any of Rimmer’s “leadership strategies”!\""
+  "crew_quote": "\"What's the point of working in an office when it's a lovely 19 degrees outside? I could be out there enjoying a curry instead of staring at another narcissist!\""
 }
