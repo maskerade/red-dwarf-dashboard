@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T01:16:06.044419+00:00",
+  "timestamp": "2026-07-01T01:47:03.794776+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -94,5 +94,5 @@
     "Changing AI math could reduce the hardware burden, researchers show",
     "Infosec professionals sour on automated pentesting tools"
   ],
-  "crew_quote": "\"15 degrees and partly cloudy? Perfect weather for a curry! Just as long as we don’t end up like those Claude Code users — mysteriously wiped out like last night’s vindaloo!\""
+  "crew_quote": "\"With all this cloudy weather, it's a wonder I don't feel like a soggy curry! Let's hope my mood's not wiped out like those chat records!\""
 }
