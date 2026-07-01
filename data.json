@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T03:20:07.373616+00:00",
+  "timestamp": "2026-07-01T03:51:05.205644+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
     "Changing AI math could reduce the hardware burden, researchers show"
   ],
-  "crew_quote": "\"In this weather, a nice curry sounds perfect, but I suppose even I could use a bit of cloud to keep the sun off my hair, eh?\""
+  "crew_quote": "\"Is it me, or is this weather as grey as Rimmer's sense of fashion? Even our curry's starting to look more appealing than his sad excuse for a personality!\""
 }
