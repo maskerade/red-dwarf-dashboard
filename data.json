@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T00:45:02.457055+00:00",
+  "timestamp": "2026-07-01T01:16:06.044419+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Mist",
+      "temp": 15.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Overcast",
+      "temp": 16.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -94,5 +94,5 @@
     "Changing AI math could reduce the hardware burden, researchers show",
     "Infosec professionals sour on automated pentesting tools"
   ],
-  "crew_quote": "\"With all this mist, it feels like we’re living in a curry! Makes you want to wrap up and wait for the weather to sort itself out—like most of my life, really.\""
+  "crew_quote": "\"15 degrees and partly cloudy? Perfect weather for a curry! Just as long as we don’t end up like those Claude Code users — mysteriously wiped out like last night’s vindaloo!\""
 }
