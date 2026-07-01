@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T17:48:17.933451+00:00",
+  "timestamp": "2026-07-01T18:19:18.270262+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 23.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -94,5 +94,5 @@
     "When backups aren't enough: the case for real disaster recovery",
     "Microsoft lets Azure Linux 4 out of the cloud in downloadable ISO form"
   ],
-  "crew_quote": "\"20 degrees in Altrincham? That’s practically hot enough for a curry! Now if only I could get the heater to work on that spaceship of ours!\""
+  "crew_quote": "\"Well, it's partly cloudy where I am, but with my luck, it's just my hair day ruining the sunny spots; I could really use a good curry to cheer me up!\""
 }
