@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T05:24:06.420289+00:00",
+  "timestamp": "2026-07-01T05:55:06.815198+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 14.0,
-      "conditions": "Mist",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -94,5 +94,5 @@
     "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
     "Changing AI math could reduce the hardware burden, researchers show"
   ],
-  "crew_quote": "\"When it’s overcast in Altrincham, it’s a perfect day for a curry and a pint — unless you’ve got T-Mobile on the case, then it’s just another day of strife!\""
+  "crew_quote": "\"Ah, 15 degrees and overcast—perfect weather for a curry and a nice long nap. Who needs sunshine when you've got a good vindaloo waiting?\""
 }
