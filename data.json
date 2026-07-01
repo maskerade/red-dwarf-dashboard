@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T12:38:13.932510+00:00",
+  "timestamp": "2026-07-01T13:09:24.929052+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Cloudflare to block cynical search-and-scrape bots from ad-supported web pages",
+    "DRAM it! Cheap PCs being priced out of existence as memory cost bites",
     "Citrix says it's back as a mainstream server virtualization player that won't send scary bills",
-    "Brit competition cops fast-track £2B borging of Netomnia into Openreach challenger",
-    "Purism launches supersized 16-inch laptop for buyers who put privacy before price",
-    "Boffins peg narcissistic leadership as the real driver behind 'return to office' demands"
+    "Brit competition cops fast-track £2B borging of Netomnia into Openreach challenger"
   ],
-  "crew_quote": "\"18 degrees? Perfect for a pint and a curry! If only the weather would make up its mind as fast as Citrix is back on the scene!\""
+  "crew_quote": "\"Oi, at least it’s not too bad outside – a lovely 21 degrees! Perfect weather for a curry night, if we can just keep the computer from eating all the memory first!\""
 }
