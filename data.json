@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T11:36:11.905289+00:00",
+  "timestamp": "2026-07-01T12:07:12.318975+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 21.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Boffins peg narcissistic leadership as the real driver behind 'return to office' demands",
-    "ZTE honored with two GeSI DWP Global Awards for Signal Reach Program in Africa",
-    "UK.gov vows to cut consultancy spending, then hands up to £350M to consultancies",
-    "Portuguese restaurant kiosk software gives Windows indigestion"
+    "Citrix says it's back as a mainstream server virtualization player that won't send scary bills",
+    "Brit competition cops fast-track £2B borging of Netomnia into Openreach challenger",
+    "Purism launches supersized 16-inch laptop for buyers who put privacy before price",
+    "Boffins peg narcissistic leadership as the real driver behind 'return to office' demands"
   ],
-  "crew_quote": "\"Did you see? It’s a balmy 18°C outside! Perfect weather for a curry... or maybe just a nap! Who cares about offices when the sun’s out, eh?\""
+  "crew_quote": "\"With temperatures hovering around 18°C, I reckon the only thing hotter than the weather is the curry I’m planning to make tonight — get in!\""
 }
