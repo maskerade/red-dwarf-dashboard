@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T19:52:20.386633+00:00",
+  "timestamp": "2026-07-01T20:23:19.705322+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Somebody told DeepSeek to build in-browser ransomware and it gleefully complied",
+    "An artificial cell with a full lifecycle has been created for the first time",
     "AI search could kill the web without new quality signals and revenue models",
-    "Red teamers turned Claude Desktop into a double agent to do their evil bidding",
-    "NASA unsure Boeing Starliner will ever be certified for human flight",
-    "When backups aren't enough: the case for real disaster recovery"
+    "Red teamers turned Claude Desktop into a double agent to do their evil bidding"
   ],
-  "crew_quote": "\"With the weather being all sunny in Overseal, I'm tempted to make a curry picnic, but knowing my luck, it'll start raining like Llandudno any second!\""
+  "crew_quote": "\"Well, with Altrincham's weather at a balmy 18 degrees, I suppose I should break out the curry and finally enjoy a nice day instead of being rained on like Llandudno!\""
 }
