@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T20:54:20.856175+00:00",
+  "timestamp": "2026-07-01T21:25:20.426209+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 19.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Light Rain",
+      "conditions": "Light Drizzle",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -69,7 +69,7 @@
         {
           "date": "2026-07-02",
           "max": 17.0,
-          "min": 13.0
+          "min": 12.0
         },
         {
           "date": "2026-07-03",
@@ -94,5 +94,5 @@
     "AI search could kill the web without new quality signals and revenue models",
     "Red teamers turned Claude Desktop into a double agent to do their evil bidding"
   ],
-  "crew_quote": "\"Blimey, with the weather being so nice and 21 degrees, I might just have a curry outside — assuming the light rain doesn't ruin my tandoori!\""
+  "crew_quote": "\"Well, it’s a balmy 18 degrees out there, perfect for a curry! Just don’t ask me to go outside while it drizzles—I'm not a wet dog!\""
 }
