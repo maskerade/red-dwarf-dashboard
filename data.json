@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T08:30:19.874706+00:00",
+  "timestamp": "2026-07-01T09:01:31.623176+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,28 +16,11 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Shower In Vicinity",
-      "forecast": [
-        {
-          "date": "2026-07-01",
-          "max": 20.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-02",
-          "max": 19.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-03",
-          "max": 26.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 18.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,7 +41,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -80,12 +63,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:45 AM",
-    "sunset": "09:40 PM",
+    "sunrise": "04:46 AM",
+    "sunset": "09:35 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "99",
-    "moonrise": "11:01 PM",
-    "moonset": "05:38 AM"
+    "moonrise": "10:55 PM",
+    "moonset": "05:39 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +77,5 @@
     "Former Indonesian minister and startup hero jailed for Chromebook buys",
     "T-Mobile appears to be quitting VMware – and fighting a very familiar battle for support rights on the way out"
   ],
-  "crew_quote": "\"Looks like the weather’s as confused as I am about that Portuguese kiosk—shower in the vicinity? I’d rather be sweating over a curry in a sunny llandudno!\""
+  "crew_quote": "\"Well, with the weather so nice, I reckon I could whip up a curry while pondering if Japan really needs ten million robots. I mean, don't they have enough to do already?\""
 }
