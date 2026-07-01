@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T04:22:05.423308+00:00",
+  "timestamp": "2026-07-01T04:53:06.135453+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-01",
@@ -94,5 +94,5 @@
     "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
     "Changing AI math could reduce the hardware burden, researchers show"
   ],
-  "crew_quote": "\"15 degrees and overcast? Brilliant! Perfect weather for a curry and a good old moan about T-Mobile – I mean, who needs chat records when you've got a pie in the oven?\""
+  "crew_quote": "\"Why is it that even the weather's as dull as a grey curry? Fifteen degrees and overcast—it's like the universe has decided it's a Tuesday!\""
 }
