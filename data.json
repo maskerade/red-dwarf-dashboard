@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T18:38:40.843622+00:00",
+  "timestamp": "2026-07-02T19:09:41.825358+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-02",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Vim text editor game teaches you keyboard shortcuts with ice cream delivery",
     "SAP snaps wallet shut for travel and hiring so it can keep shoveling cash into AI"
   ],
-  "crew_quote": "\"Blimey, at least the weather's nicer than the last time we were chased by a rogue AI; it was 40 degrees and I was halfway to making a curry in me pants!\""
+  "crew_quote": "\"Did you see the weather? It’s 18 degrees and sunny! Perfect for a pint and a curry, not that I’d expect the AI to know how to cook one, the way they’re going!\""
 }
