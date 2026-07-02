@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T09:19:30.223840+00:00",
+  "timestamp": "2026-07-02T09:50:30.678192+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Hackers shoveled snow for company, were rewarded with network admin access",
     "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore"
   ],
-  "crew_quote": "\"Sixteen degrees and partly cloudy? That's just perfect for a nice cold beer, as long as the AI-pocalypse can hold off until after I've had my curry!\""
+  "crew_quote": "\"Partly cloudy, eh? Sounds like the perfect weather for a nice cold beer—preferably while contemplating our impending AI-pocalypse! Now, where's that curry?\""
 }
