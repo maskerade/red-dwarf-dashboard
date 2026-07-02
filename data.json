@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T20:42:42.854852+00:00",
+  "timestamp": "2026-07-02T21:13:43.766049+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -27,7 +27,7 @@
         {
           "date": "2026-07-03",
           "max": 20.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-07-04",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Companies that add more AI also add more people",
     "Smooth AI criminal drives 'first' end-to-end agentic ransomware attack",
     "SoftBank enters the rent-a-GPU race as America looks for support for AI training",
-    "Vim text editor game teaches you keyboard shortcuts with ice cream delivery",
-    "SAP snaps wallet shut for travel and hiring so it can keep shoveling cash into AI"
+    "Vim text editor game teaches you keyboard shortcuts with ice cream delivery"
   ],
-  "crew_quote": "\"No point worrying about AI criminals or sunny weather when I've got a perfect curry lined up for dinner; I reckon it's about 16 degrees of deliciousness!\""
+  "crew_quote": "\"With the weather like this, I'm blooming glad I've got my curry to keep me warm – well, that and the fact we might be on the verge of a robot takeover!\""
 }
