@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T08:48:29.493221+00:00",
+  "timestamp": "2026-07-02T09:19:30.223840+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Connect, disconnect, or just have a lovely beer",
     "UN warns of need for global governance to avoid an AI-pocalypse",
     "Hackers shoveled snow for company, were rewarded with network admin access",
-    "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore",
-    "New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch"
+    "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore"
   ],
-  "crew_quote": "\"Sixteen degrees and partly cloudy? Sounds like the perfect weather for a curry, eh? Just don’t let the AI make it, or we’ll end up with a vindaloo apocalypse!\""
+  "crew_quote": "\"Sixteen degrees and partly cloudy? That's just perfect for a nice cold beer, as long as the AI-pocalypse can hold off until after I've had my curry!\""
 }
