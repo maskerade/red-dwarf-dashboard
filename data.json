@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T17:05:35.818016+00:00",
+  "timestamp": "2026-07-02T17:36:37.081699+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Partly cloudy",
+      "temp": 18.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-02",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "SAP snaps wallet shut for travel and hiring so it can keep shoveling cash into AI",
     "Ctrl+Alt+Oops: FortiBleed criminal's logins stitch two gangs together"
   ],
-  "crew_quote": "\"I'm telling you, if I had a GPU for every time the weather's a perfect 20 degrees and I couldn't even cook a decent curry, I'd be a millionaire!\""
+  "crew_quote": "\"Is it just me, or does it feel like the perfect temperature for a curry? I could really go for some takeout right now, just not from that dodgy place!\""
 }
