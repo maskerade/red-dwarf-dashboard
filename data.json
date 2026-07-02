@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T06:44:30.747539+00:00",
+  "timestamp": "2026-07-02T07:15:28.140061+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -26,13 +26,13 @@
         },
         {
           "date": "2026-07-03",
-          "max": 21.0,
-          "min": 11.0
+          "max": 24.0,
+          "min": 10.0
         },
         {
           "date": "2026-07-04",
-          "max": 25.0,
-          "min": 12.0
+          "max": 23.0,
+          "min": 13.0
         }
       ]
     },
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Hackers shoveled snow for company, were rewarded with network admin access",
+    "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore",
     "New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch",
-    "Oracle outlines all the ways it could lose the farm it bet on AI",
-    "EvilTokens device-code phishing kit totally more evil than we all thought",
-    "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy"
+    "Oracle outlines all the ways it could lose the farm it bet on AI"
   ],
-  "crew_quote": "\"Well, with the weather a perfect 15 degrees and partly cloudy, it’s a great day for a curry, but I must ask, who decided to turn our humanoid robots into creepy pop stars?\""
+  "crew_quote": "\"Fifteen degrees and partly cloudy? Perfect curry weather, mate! Just hope the only thing getting hacked tonight is my takeaway!\""
 }
