@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T01:34:37.865285+00:00",
+  "timestamp": "2026-07-02T02:05:32.568064+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 17.0,
-      "conditions": "Overcast ",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-02",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Overcast",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy",
     "Anthropic is removing its covert code for catching Chinese competitors"
   ],
-  "crew_quote": "\"You know, with this weather, I could really go for a nice curry. Just enough rain to keep my hair looking fabulous while I devour it!\""
+  "crew_quote": "\"17 degrees and light rain? Just like me mum’s curry—always a bit damp and never quite right, but still somehow comforting!\""
 }
