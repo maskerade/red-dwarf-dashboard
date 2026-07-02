@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T04:40:41.962314+00:00",
+  "timestamp": "2026-07-02T05:11:40.327123+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 18.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-02",
@@ -94,5 +94,5 @@
     "EvilTokens device-code phishing kit totally more evil than we all thought",
     "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy"
   ],
-  "crew_quote": "\"What’s with all these overcast days, eh? Even the weather's trying to bring me down—it's like the universe knows I fancy a nice curry and won't let me enjoy it!\""
+  "crew_quote": "\"Feels like the weather's as confused as a robot trying to dance! It’s partly cloudy everywhere, but I’d still rather be here than with those creepy pop star figures!\""
 }
