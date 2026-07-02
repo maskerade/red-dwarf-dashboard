@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T15:01:19.768676+00:00",
+  "timestamp": "2026-07-02T15:32:33.584371+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,19 +16,77 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-02",
+          "max": 19.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-03",
+          "max": 20.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-07-04",
+          "max": 22.0,
+          "min": 14.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 20.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-02",
+          "max": 21.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-03",
+          "max": 26.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-07-04",
+          "max": 27.0,
+          "min": 13.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 18.0,
+      "conditions": "Overcast",
+      "forecast": [
+        {
+          "date": "2026-07-02",
+          "max": 17.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-03",
+          "max": 17.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-07-04",
+          "max": 20.0,
+          "min": 14.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "04:46 AM",
+    "sunset": "09:40 PM",
+    "moon_phase": "Waning Gibbous",
+    "moon_illumination": "96",
+    "moonrise": "11:17 PM",
+    "moonset": "06:54 AM"
+  },
   "metrolink": null,
   "headlines": [
     "Microsoft said exploitation was 'less likely' ... but CISA just added SharePoint RCE to KEV list",
@@ -36,5 +94,5 @@
     "India gives WhatsApp three days to defend username rollout amid security fears",
     "Oracle E-Business Suite was under attack via critical flaw before the public exploit code was even released"
   ],
-  "crew_quote": "\"When I heard about that Medtronic mess, I thought, great, just what I need—my pacemaker turning into a cyber-crime scene while I’m just trying to enjoy my curry!\""
+  "crew_quote": "\"Well, it's a lovely 17 degrees in Altrincham, but I'd trade all the overcast skies for a decent curry right now! Can't a bloke get a bit of sunshine on his chips?\""
 }
