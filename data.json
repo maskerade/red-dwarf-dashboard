@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T23:29:48.102740+00:00",
+  "timestamp": "2026-07-02T00:01:11.066877+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Overcast",
-      "forecast": [
-        {
-          "date": "2026-07-02",
-          "max": 19.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-03",
-          "max": 21.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-04",
-          "max": 24.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-01",
-          "max": 23.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-02",
-          "max": 20.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-03",
-          "max": 24.0,
-          "min": 9.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Drizzle",
-      "forecast": [
-        {
-          "date": "2026-07-01",
-          "max": 18.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-02",
-          "max": 17.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-03",
-          "max": 19.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:46 AM",
-    "sunset": "09:40 PM",
-    "moon_phase": "Waning Gibbous",
-    "moon_illumination": "96",
-    "moonrise": "11:17 PM",
-    "moonset": "06:54 AM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "EvilTokens device-code phishing kit totally more evil than we all thought",
@@ -94,5 +36,5 @@
     "Anthropic is removing its covert code for catching Chinese competitors",
     "Godot says bye bye AI, bans vibe-coded contributions"
   ],
-  "crew_quote": "\"17 degrees and overcast? Perfect curry weather! Just make sure the drizzle doesn’t get in the way of my chips!\""
+  "crew_quote": "\"Honestly, with all this indoor temp nonsense, I'm starting to think we should just have a curry party to warm up the place—nothing like a good vindaloo to spice up the universe!\""
 }
