@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T03:07:37.493630+00:00",
+  "timestamp": "2026-07-02T03:38:43.752543+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Overcast",
       "forecast": [
         {
@@ -53,12 +53,12 @@
         {
           "date": "2026-07-04",
           "max": 27.0,
-          "min": 12.0
+          "min": 11.0
         }
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Overcast",
       "forecast": [
         {
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-07-03",
-          "max": 19.0,
-          "min": 10.0
+          "max": 18.0,
+          "min": 11.0
         },
         {
           "date": "2026-07-04",
           "max": 21.0,
-          "min": 13.0
+          "min": 12.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy",
     "Anthropic is removing its covert code for catching Chinese competitors"
   ],
-  "crew_quote": "\"Looks like the weather’s about as exciting as a plate of damp toast—perfect for a rainy curry night, eh? Just don’t ask me to cook, I might accidentally create a new life form!\""
+  "crew_quote": "\"Ah, it's a lovely day out there, perfect for a rain-soaked stroll! Just me, the drizzle, and maybe a cheeky curry later—couldn’t ask for more, eh?\""
 }
