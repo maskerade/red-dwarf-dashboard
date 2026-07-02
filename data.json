@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T11:23:30.727391+00:00",
+  "timestamp": "2026-07-02T11:54:30.206794+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "UN warns of need for global governance to avoid an AI-pocalypse",
     "Hackers shoveled snow for company, were rewarded with network admin access"
   ],
-  "crew_quote": "\"With the weather at a lovely 19°C, I reckon it's the perfect day for a pint and a curry, just before the universe decides to throw a meteor at us or something!\""
+  "crew_quote": "\"With this lovely 17°C weather, I reckon I could enjoy a nice pint and have a curry — why worry about Oracle flops when you’ve got a cool brew and a belly full of vindaloo?\""
 }
