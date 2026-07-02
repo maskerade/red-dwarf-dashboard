@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T07:46:29.026945+00:00",
+  "timestamp": "2026-07-02T08:17:28.541372+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,23 +37,23 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-02",
-          "max": 20.0,
+          "max": 21.0,
           "min": 11.0
         },
         {
           "date": "2026-07-03",
-          "max": 24.0,
+          "max": 26.0,
           "min": 9.0
         },
         {
           "date": "2026-07-04",
           "max": 27.0,
-          "min": 11.0
+          "min": 13.0
         }
       ]
     },
@@ -64,17 +64,17 @@
         {
           "date": "2026-07-02",
           "max": 17.0,
-          "min": 12.0
+          "min": 13.0
         },
         {
           "date": "2026-07-03",
-          "max": 18.0,
-          "min": 11.0
+          "max": 20.0,
+          "min": 10.0
         },
         {
           "date": "2026-07-04",
-          "max": 21.0,
-          "min": 12.0
+          "max": 20.0,
+          "min": 13.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch",
     "Oracle outlines all the ways it could lose the farm it bet on AI"
   ],
-  "crew_quote": "\"Fifteen degrees? That’s practically tropical! Perfect weather for a curry, or to lounge around doing absolutely nothing. Count me in!\""
+  "crew_quote": "\"Weather's just like my hair—partly cloudy and occasionally a bit frizzy! Now, where's my curry?\""
 }
