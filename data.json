@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T00:32:37.940558+00:00",
+  "timestamp": "2026-07-02T01:03:42.672812+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 17.0,
-      "conditions": "Overcast",
+      "conditions": "Light Rain",
       "forecast": [
         {
           "date": "2026-07-02",
@@ -94,5 +94,5 @@
     "Anthropic is removing its covert code for catching Chinese competitors",
     "Godot says bye bye AI, bans vibe-coded contributions"
   ],
-  "crew_quote": "\"Oh great, another day of overcast skies and doom, just like my love life. Maybe I should spice things up with a nice curry to drown my sorrows!\""
+  "crew_quote": "\"You know, with this light rain and overcast gloom, it's the perfect weather for a curry. Nothing like a good vindaloo to brighten up a dreary day!\""
 }
