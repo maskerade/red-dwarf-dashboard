@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T17:36:37.081699+00:00",
+  "timestamp": "2026-07-02T18:07:36.021899+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "SAP snaps wallet shut for travel and hiring so it can keep shoveling cash into AI",
     "Ctrl+Alt+Oops: FortiBleed criminal's logins stitch two gangs together"
   ],
-  "crew_quote": "\"Is it just me, or does it feel like the perfect temperature for a curry? I could really go for some takeout right now, just not from that dodgy place!\""
+  "crew_quote": "\"Partly cloudy, is it? Just like my love life—always a bit overcast and never enough sun! But hey, at least it’s not raining curry.\""
 }
