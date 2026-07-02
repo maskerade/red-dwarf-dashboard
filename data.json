@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T08:17:28.541372+00:00",
+  "timestamp": "2026-07-02T08:48:29.493221+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "UN warns of need for global governance to avoid an AI-pocalypse",
     "Hackers shoveled snow for company, were rewarded with network admin access",
     "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore",
-    "New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch",
-    "Oracle outlines all the ways it could lose the farm it bet on AI"
+    "New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch"
   ],
-  "crew_quote": "\"Weather's just like my hair—partly cloudy and occasionally a bit frizzy! Now, where's my curry?\""
+  "crew_quote": "\"Sixteen degrees and partly cloudy? Sounds like the perfect weather for a curry, eh? Just don’t let the AI make it, or we’ll end up with a vindaloo apocalypse!\""
 }
