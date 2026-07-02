@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T04:09:41.897937+00:00",
+  "timestamp": "2026-07-02T04:40:41.962314+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "New humanoid robots from China look like creepy pop star action figures – complete with slightly dodgy lip-synch",
     "Oracle outlines all the ways it could lose the farm it bet on AI",
     "EvilTokens device-code phishing kit totally more evil than we all thought",
-    "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy",
-    "Anthropic is removing its covert code for catching Chinese competitors"
+    "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy"
   ],
-  "crew_quote": "\"Blimey, at least it's not freezing, eh? A bit cloudy and 16°C is perfect curry-eating weather—let's hope those AI farm bets don't go as wrong as my last haircut!\""
+  "crew_quote": "\"What’s with all these overcast days, eh? Even the weather's trying to bring me down—it's like the universe knows I fancy a nice curry and won't let me enjoy it!\""
 }
