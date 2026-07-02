@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T03:38:43.752543+00:00",
+  "timestamp": "2026-07-02T04:09:41.897937+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 16.0,
-      "conditions": "Light Rain",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-02",
@@ -94,5 +94,5 @@
     "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy",
     "Anthropic is removing its covert code for catching Chinese competitors"
   ],
-  "crew_quote": "\"Ah, it's a lovely day out there, perfect for a rain-soaked stroll! Just me, the drizzle, and maybe a cheeky curry later—couldn’t ask for more, eh?\""
+  "crew_quote": "\"Blimey, at least it's not freezing, eh? A bit cloudy and 16°C is perfect curry-eating weather—let's hope those AI farm bets don't go as wrong as my last haircut!\""
 }
