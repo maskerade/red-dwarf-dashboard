@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T15:32:33.584371+00:00",
+  "timestamp": "2026-07-02T16:03:39.152706+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -42,24 +42,24 @@
       "forecast": [
         {
           "date": "2026-07-02",
-          "max": 21.0,
+          "max": 20.0,
           "min": 11.0
         },
         {
           "date": "2026-07-03",
-          "max": 26.0,
+          "max": 23.0,
           "min": 9.0
         },
         {
           "date": "2026-07-04",
-          "max": 27.0,
+          "max": 23.0,
           "min": 13.0
         }
       ]
     },
     "llandudno": {
       "temp": 18.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-02",
@@ -94,5 +94,5 @@
     "India gives WhatsApp three days to defend username rollout amid security fears",
     "Oracle E-Business Suite was under attack via critical flaw before the public exploit code was even released"
   ],
-  "crew_quote": "\"Well, it's a lovely 17 degrees in Altrincham, but I'd trade all the overcast skies for a decent curry right now! Can't a bloke get a bit of sunshine on his chips?\""
+  "crew_quote": "\"Oi, even with it being 17 degrees, I'd still prefer a good curry over all this cloud nonsense—nothing like a spicy vindaloo to brighten up a partly cloudy day!\""
 }
