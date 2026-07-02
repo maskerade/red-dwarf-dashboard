@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T01:03:42.672812+00:00",
+  "timestamp": "2026-07-02T01:34:37.865285+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Oracle outlines all the ways it could lose the farm it bet on AI",
     "EvilTokens device-code phishing kit totally more evil than we all thought",
     "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy",
-    "Anthropic is removing its covert code for catching Chinese competitors",
-    "Godot says bye bye AI, bans vibe-coded contributions"
+    "Anthropic is removing its covert code for catching Chinese competitors"
   ],
-  "crew_quote": "\"You know, with this light rain and overcast gloom, it's the perfect weather for a curry. Nothing like a good vindaloo to brighten up a dreary day!\""
+  "crew_quote": "\"You know, with this weather, I could really go for a nice curry. Just enough rain to keep my hair looking fabulous while I devour it!\""
 }
