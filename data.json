@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T06:13:27.043097+00:00",
+  "timestamp": "2026-07-02T06:44:30.747539+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 15.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Overcast",
+      "temp": 15.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-02",
@@ -94,5 +94,5 @@
     "EvilTokens device-code phishing kit totally more evil than we all thought",
     "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy"
   ],
-  "crew_quote": "\"With the weather being as cloudy as my brain after too many curries, I reckon it's a good day for a nice pint and a big old nap!\""
+  "crew_quote": "\"Well, with the weather a perfect 15 degrees and partly cloudy, it’s a great day for a curry, but I must ask, who decided to turn our humanoid robots into creepy pop stars?\""
 }
