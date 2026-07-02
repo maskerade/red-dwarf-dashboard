@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T22:46:46.626593+00:00",
+  "timestamp": "2026-07-02T23:17:45.397225+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Startup sues Palo Alto Networks' Koi Security, saying an AI-hallucinated report falsely linked it to Chinese espionage",
+    "Nvidia floats double-dipping datacenter financing scheme",
     "Companies that add more AI also add more people",
-    "Smooth AI criminal drives 'first' end-to-end agentic ransomware attack",
-    "SoftBank enters the rent-a-GPU race as America looks for support for AI training",
-    "Vim text editor game teaches you keyboard shortcuts with ice cream delivery"
+    "Smooth AI criminal drives 'first' end-to-end agentic ransomware attack"
   ],
-  "crew_quote": "\"Weather's a bit patchy, innit? Just like our luck — one minute you’re under an overcast sky, next you’re dodging the rain while dreaming about a proper curry!\""
+  "crew_quote": "\"Looks like it's 14 degrees and patchy rain, perfect weather for a nice curry! Nothing like a bit of spice to warm up a dreary day, eh?\""
 }
