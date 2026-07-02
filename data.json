@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T05:11:40.327123+00:00",
+  "timestamp": "2026-07-02T05:42:41.635752+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "EvilTokens device-code phishing kit totally more evil than we all thought",
     "Claude Sonnet 5.0 heads straight down the middle of the road to dodge controversy"
   ],
-  "crew_quote": "\"Feels like the weather's as confused as a robot trying to dance! It’s partly cloudy everywhere, but I’d still rather be here than with those creepy pop star figures!\""
+  "crew_quote": "\"Oi! With the weather being all over the place, I might just stay inside and whip up a curry—if I can stand the sight of those creepy robot pop stars first!\""
 }
