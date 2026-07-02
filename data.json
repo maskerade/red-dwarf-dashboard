@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T20:11:42.092618+00:00",
+  "timestamp": "2026-07-02T20:42:42.854852+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 15.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -47,19 +47,19 @@
         },
         {
           "date": "2026-07-03",
-          "max": 23.0,
+          "max": 24.0,
           "min": 9.0
         },
         {
           "date": "2026-07-04",
-          "max": 23.0,
+          "max": 24.0,
           "min": 13.0
         }
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "temp": 15.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-02",
@@ -68,7 +68,7 @@
         },
         {
           "date": "2026-07-03",
-          "max": 17.0,
+          "max": 19.0,
           "min": 10.0
         },
         {
@@ -94,5 +94,5 @@
     "Vim text editor game teaches you keyboard shortcuts with ice cream delivery",
     "SAP snaps wallet shut for travel and hiring so it can keep shoveling cash into AI"
   ],
-  "crew_quote": "\"Nice day out there, ain't it? I could really go for a curry in this lovely 18-degree sunshine—just me, the Cat, and a vat of vindaloo!\""
+  "crew_quote": "\"No point worrying about AI criminals or sunny weather when I've got a perfect curry lined up for dinner; I reckon it's about 16 degrees of deliciousness!\""
 }
