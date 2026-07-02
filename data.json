@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T18:07:36.021899+00:00",
+  "timestamp": "2026-07-02T18:38:40.843622+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Smooth AI criminal drives 'first' end-to-end agentic ransomware attack",
     "SoftBank enters the rent-a-GPU race as America looks for support for AI training",
     "Vim text editor game teaches you keyboard shortcuts with ice cream delivery",
-    "SAP snaps wallet shut for travel and hiring so it can keep shoveling cash into AI",
-    "Ctrl+Alt+Oops: FortiBleed criminal's logins stitch two gangs together"
+    "SAP snaps wallet shut for travel and hiring so it can keep shoveling cash into AI"
   ],
-  "crew_quote": "\"Partly cloudy, is it? Just like my love life—always a bit overcast and never enough sun! But hey, at least it’s not raining curry.\""
+  "crew_quote": "\"Blimey, at least the weather's nicer than the last time we were chased by a rogue AI; it was 40 degrees and I was halfway to making a curry in me pants!\""
 }
