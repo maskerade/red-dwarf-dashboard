@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T10:52:29.600244+00:00",
+  "timestamp": "2026-07-02T11:23:30.727391+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Oracle E-Business Suite was under attack via critical flaw before the public exploit code was even released",
     "Connect, disconnect, or just have a lovely beer",
     "UN warns of need for global governance to avoid an AI-pocalypse",
-    "Hackers shoveled snow for company, were rewarded with network admin access",
-    "Trouble keeps finding Supermicro as strange server shipments attract police attention in Taiwan and Singapore"
+    "Hackers shoveled snow for company, were rewarded with network admin access"
   ],
-  "crew_quote": "\"Well, it's a lovely 16 degrees out there, just perfect for a nice cold beer — or if you fancy a spicy curry, I reckon that'll hit the spot too!\""
+  "crew_quote": "\"With the weather at a lovely 19°C, I reckon it's the perfect day for a pint and a curry, just before the universe decides to throw a meteor at us or something!\""
 }
