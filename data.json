@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T11:54:30.206794+00:00",
+  "timestamp": "2026-07-02T12:25:31.129483+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "India gives WhatsApp three days to defend username rollout amid security fears",
     "Oracle E-Business Suite was under attack via critical flaw before the public exploit code was even released",
     "Connect, disconnect, or just have a lovely beer",
-    "UN warns of need for global governance to avoid an AI-pocalypse",
-    "Hackers shoveled snow for company, were rewarded with network admin access"
+    "UN warns of need for global governance to avoid an AI-pocalypse"
   ],
-  "crew_quote": "\"With this lovely 17°C weather, I reckon I could enjoy a nice pint and have a curry — why worry about Oracle flops when you’ve got a cool brew and a belly full of vindaloo?\""
+  "crew_quote": "\"Well, with Altrincham at a breezy 17 degrees, I reckon it’s a perfect day for a nice, hot curry—just don’t forget the naan, or I’ll be unhappy and that’s the end of the universe, mate!\""
 }
