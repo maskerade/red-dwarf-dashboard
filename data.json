@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T16:34:38.828717+00:00",
+  "timestamp": "2026-07-02T17:05:35.818016+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "SoftBank enters the rent-a-GPU race as America looks for support for AI training",
     "Vim text editor game teaches you keyboard shortcuts with ice cream delivery",
     "SAP snaps wallet shut for travel and hiring so it can keep shoveling cash into AI",
-    "Ctrl+Alt+Oops: FortiBleed criminal's logins stitch two gangs together",
-    "Microsoft said exploitation was 'less likely' ... but CISA just added SharePoint RCE to KEV list"
+    "Ctrl+Alt+Oops: FortiBleed criminal's logins stitch two gangs together"
   ],
-  "crew_quote": "\"With the weather so nice and a cool 20 degrees, I'm feeling inspired! Might treat myself to a nice curry, you know, to keep my creativity sizzling!\""
+  "crew_quote": "\"I'm telling you, if I had a GPU for every time the weather's a perfect 20 degrees and I couldn't even cook a decent curry, I'd be a millionaire!\""
 }
