@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T23:17:45.397225+00:00",
+  "timestamp": "2026-07-02T23:48:45.799847+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,14 +37,9 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-02",
-          "max": 20.0,
-          "min": 11.0
-        },
         {
           "date": "2026-07-03",
           "max": 24.0,
@@ -54,6 +49,11 @@
           "date": "2026-07-04",
           "max": 24.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-07-05",
+          "max": 25.0,
+          "min": 15.0
         }
       ]
     },
@@ -62,17 +62,17 @@
       "conditions": "Overcast",
       "forecast": [
         {
-          "date": "2026-07-02",
-          "max": 17.0,
-          "min": 13.0
-        },
-        {
           "date": "2026-07-03",
           "max": 19.0,
           "min": 10.0
         },
         {
           "date": "2026-07-04",
+          "max": 20.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-05",
           "max": 20.0,
           "min": 14.0
         }
@@ -94,5 +94,5 @@
     "Companies that add more AI also add more people",
     "Smooth AI criminal drives 'first' end-to-end agentic ransomware attack"
   ],
-  "crew_quote": "\"Looks like it's 14 degrees and patchy rain, perfect weather for a nice curry! Nothing like a bit of spice to warm up a dreary day, eh?\""
+  "crew_quote": "\"Seems a bit cloudy out there for a lovely day, mate. Just like that dodgy AI report, could use a good curry to spice things up!\""
 }
