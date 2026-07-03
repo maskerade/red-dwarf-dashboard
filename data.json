@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T15:20:01.313077+00:00",
+  "timestamp": "2026-07-03T15:51:00.493466+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,12 +16,12 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
-      "conditions": "Partly cloudy",
+      "temp": 22.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-03",
-          "max": 21.0,
+          "max": 24.0,
           "min": 10.0
         },
         {
@@ -94,5 +94,5 @@
     "NetNut cracked as Google and FBI target 2 million-device botnet",
     "AI bills are baffling the C-suite after shift to usage-based pricing"
   ],
-  "crew_quote": "\"With this lovely 23 degrees, I'm feeling like a nice curry could be in order—just as long as the only thing getting stolen today is my heart by that takeaway!\""
+  "crew_quote": "\"Cor, it's a balmy 22 degrees out there! Perfect weather for a curry and a bit of a snooze — just don’t let any 3D-printed reactors ruin my dinner plans!\""
 }
