@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T05:29:50.729740+00:00",
+  "timestamp": "2026-07-03T06:01:35.297032+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,50 +16,16 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-03",
-          "max": 22.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-07-04",
-          "max": 22.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-05",
-          "max": 23.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 11.0,
-      "conditions": "Mist",
-      "forecast": [
-        {
-          "date": "2026-07-03",
-          "max": 24.0,
-          "min": 8.0
-        },
-        {
-          "date": "2026-07-04",
-          "max": 23.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-05",
-          "max": 26.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Overcast ",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -80,12 +46,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:47 AM",
-    "sunset": "09:40 PM",
+    "sunrise": "04:54 AM",
+    "sunset": "09:45 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "92",
-    "moonrise": "11:30 PM",
-    "moonset": "08:12 AM"
+    "moonrise": "11:36 PM",
+    "moonset": "08:19 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +60,5 @@
     "In a volatile world, a consistent sustainability policy is critical",
     "Dev says Google warned him about account hijack – then charged him $11,000 anyway"
   ],
-  "crew_quote": "\"Right, sunny in Altrincham, mist in Overseal, sounds like the perfect weather for a curry binge — just don’t ask me to make the naan, I’m still recovering from last time!\""
+  "crew_quote": "\"14 degrees and partly cloudy? Sounds like perfect curry-eating weather to me! Just don't get too comfy, or you'll end up in a blockchain of bad decisions!\""
 }
