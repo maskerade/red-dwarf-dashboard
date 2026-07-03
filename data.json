@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T02:54:48.070152+00:00",
+  "timestamp": "2026-07-03T03:25:49.560621+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,21 +17,21 @@
   "locations": {
     "altrincham": {
       "temp": 11.0,
-      "conditions": "Overcast ",
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-03",
-          "max": 20.0,
-          "min": 11.0
+          "max": 22.0,
+          "min": 10.0
         },
         {
           "date": "2026-07-04",
           "max": 22.0,
-          "min": 15.0
+          "min": 14.0
         },
         {
           "date": "2026-07-05",
-          "max": 22.0,
+          "max": 23.0,
           "min": 15.0
         }
       ]
@@ -80,19 +80,19 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:46 AM",
+    "sunrise": "04:47 AM",
     "sunset": "09:40 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "92",
     "moonrise": "11:30 PM",
-    "moonset": "08:11 AM"
+    "moonset": "08:12 AM"
   },
   "metrolink": null,
   "headlines": [
+    "Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it",
     "In a volatile world, a consistent sustainability policy is critical",
     "Dev says Google warned him about account hijack – then charged him $11,000 anyway",
-    "Startup sues Palo Alto Networks' Koi Security, saying an AI-hallucinated report falsely linked it to Chinese espionage",
-    "Nvidia floats double-dipping datacenter financing scheme"
+    "Startup sues Palo Alto Networks' Koi Security, saying an AI-hallucinated report falsely linked it to Chinese espionage"
   ],
-  "crew_quote": "\"What’s the weather like, Holly? Overcast in Altrincham and I can’t even see the curry shop through the mist! This ship's getting more depressing than Rimmer’s last performance review!\""
+  "crew_quote": "\"Great weather for a good old curry tonight, but I'd rather be in Llandudno dodging light rain than stuck in the ship while Amazon's having a meltdown!\""
 }
