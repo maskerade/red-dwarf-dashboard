@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T16:22:01.478215+00:00",
+  "timestamp": "2026-07-03T16:53:03.367684+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 25.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "NetNut cracked as Google and FBI target 2 million-device botnet",
     "AI bills are baffling the C-suite after shift to usage-based pricing"
   ],
-  "crew_quote": "\"Well, while the weather's a balmy 25°C, I still can't get over how some idiots sweet-talked their way into the cloud. Honestly, it's like letting a curry thief into the kitchen!\""
+  "crew_quote": "\"With this lovely 25 degrees, it's perfect curry weather—just need to keep the data thieves away from my takeaway order. Can't have them stealing my spicy goodness!\""
 }
