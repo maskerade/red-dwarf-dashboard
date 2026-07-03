@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T21:01:40.225836+00:00",
+  "timestamp": "2026-07-03T21:32:07.021374+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,12 +16,29 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 19.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-07-03",
+          "max": 24.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-07-04",
+          "max": 23.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-05",
+          "max": 22.0,
+          "min": 15.0
+        }
+      ]
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -41,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Overcast",
       "forecast": [
         {
@@ -63,12 +80,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:48 AM",
-    "sunset": "09:34 PM",
+    "sunrise": "04:47 AM",
+    "sunset": "09:40 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "92",
-    "moonrise": "11:25 PM",
-    "moonset": "08:11 AM"
+    "moonrise": "11:30 PM",
+    "moonset": "08:12 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -77,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"Blimey, it's 22 degrees in overseal — perfect curry weather! If I can get my hands on some takeout, I might just consider not eating a tin of beans for once!\""
+  "crew_quote": "\"19 degrees and sunny? That’s perfect curry weather, innit? Just gotta work on my technique so I don’t burn the kitchen down this time!\""
 }
