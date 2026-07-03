@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T14:49:00.484198+00:00",
+  "timestamp": "2026-07-03T15:20:01.313077+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -42,34 +42,34 @@
       "forecast": [
         {
           "date": "2026-07-03",
-          "max": 22.0,
+          "max": 26.0,
           "min": 9.0
         },
         {
           "date": "2026-07-04",
-          "max": 26.0,
-          "min": 13.0
+          "max": 23.0,
+          "min": 12.0
         },
         {
           "date": "2026-07-05",
-          "max": 25.0,
-          "min": 14.0
+          "max": 26.0,
+          "min": 16.0
         }
       ]
     },
     "llandudno": {
       "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-03",
-          "max": 18.0,
+          "max": 20.0,
           "min": 10.0
         },
         {
           "date": "2026-07-04",
           "max": 20.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-07-05",
@@ -94,5 +94,5 @@
     "NetNut cracked as Google and FBI target 2 million-device botnet",
     "AI bills are baffling the C-suite after shift to usage-based pricing"
   ],
-  "crew_quote": "\"Looks like it's a lovely 25°C in Overseal, perfect weather for a curry, though I'll have to keep an eye on the data thieves; I bet they wouldn't bother sweet-talking me!\""
+  "crew_quote": "\"With this lovely 23 degrees, I'm feeling like a nice curry could be in order—just as long as the only thing getting stolen today is my heart by that takeaway!\""
 }
