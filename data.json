@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T11:42:56.752006+00:00",
+  "timestamp": "2026-07-03T12:13:59.399668+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "NetNut cracked as Google and FBI target 2 million-device botnet",
+    "AI bills are baffling the C-suite after shift to usage-based pricing",
     "EU appears to find datacenter emissions easier to offset than lobbyists",
-    "Databricks unifies OLTP and OLAP, depending on what counts as a copy",
-    "User swore hacker called General Failure had invaded his PC",
-    "Failed blockchain project ends with big fine for fibs about it being on track"
+    "Databricks unifies OLTP and OLAP, depending on what counts as a copy"
   ],
-  "crew_quote": "\"19 degrees and partly cloudy? Blimey, feels like a perfect day for a curry, doesn’t it? Just a shame we’re stuck on this tin can instead of a proper pub!\""
+  "crew_quote": "\"Ah, the weather's lovely today, but I can't believe the news! You'd think with all that sunshine, they'd just let a botnet relax for once!\""
 }
