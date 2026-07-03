@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T07:34:52.997939+00:00",
+  "timestamp": "2026-07-03T08:05:53.210243+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,22 +16,22 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
+      "temp": 14.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-03",
-          "max": 22.0,
+          "max": 21.0,
           "min": 10.0
         },
         {
           "date": "2026-07-04",
-          "max": 22.0,
-          "min": 14.0
+          "max": 23.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-05",
-          "max": 23.0,
+          "max": 22.0,
           "min": 15.0
         }
       ]
@@ -94,5 +94,5 @@
     "Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it",
     "In a volatile world, a consistent sustainability policy is critical"
   ],
-  "crew_quote": "\"Well, it's a lovely 14 degrees in Overseal—perfect weather for finding a sunny spot to eat a curry and, you know, forget about hackers totally ruining your day!\""
+  "crew_quote": "\"Weather's a bit dodgy today, innit? But with a curry in hand, who cares if it's chilly and overcast? Bring on the comfort food!\""
 }
