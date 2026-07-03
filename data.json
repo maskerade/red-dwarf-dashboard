@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T00:50:48.570993+00:00",
+  "timestamp": "2026-07-03T01:21:46.527811+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "In a volatile world, a consistent sustainability policy is critical",
+    "Dev says Google warned him about account hijack – then charged him $11,000 anyway",
     "Startup sues Palo Alto Networks' Koi Security, saying an AI-hallucinated report falsely linked it to Chinese espionage",
-    "Nvidia floats double-dipping datacenter financing scheme",
-    "Companies that add more AI also add more people",
-    "Smooth AI criminal drives 'first' end-to-end agentic ransomware attack"
+    "Nvidia floats double-dipping datacenter financing scheme"
   ],
-  "crew_quote": "\"You know, with a lovely 13°C and clear skies, it’s practically begging for a curry picnic, but knowing our luck, it’ll start raining AI hallucinations instead!\""
+  "crew_quote": "\"Clear skies and a nice 13 degrees? Perfect weather for a curry run! Just as long as Dev doesn’t keep charging me for accounts I didn’t even know I had!\""
 }
