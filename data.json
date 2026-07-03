@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T02:23:47.556100+00:00",
+  "timestamp": "2026-07-03T02:54:48.070152+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,28 +38,28 @@
     },
     "overseal": {
       "temp": 12.0,
-      "conditions": "Clear ",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-07-03",
           "max": 24.0,
-          "min": 9.0
+          "min": 8.0
         },
         {
           "date": "2026-07-04",
-          "max": 24.0,
+          "max": 23.0,
           "min": 13.0
         },
         {
           "date": "2026-07-05",
-          "max": 25.0,
+          "max": 26.0,
           "min": 15.0
         }
       ]
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Overcast",
+      "conditions": "Light Rain",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-07-05",
-          "max": 20.0,
+          "max": 21.0,
           "min": 14.0
         }
       ]
@@ -94,5 +94,5 @@
     "Startup sues Palo Alto Networks' Koi Security, saying an AI-hallucinated report falsely linked it to Chinese espionage",
     "Nvidia floats double-dipping datacenter financing scheme"
   ],
-  "crew_quote": "\"With the weather flipping between overcast and clear, it’s the perfect day for a nice curry—just don’t ask me to share my naan, alright?\""
+  "crew_quote": "\"What’s the weather like, Holly? Overcast in Altrincham and I can’t even see the curry shop through the mist! This ship's getting more depressing than Rimmer’s last performance review!\""
 }
