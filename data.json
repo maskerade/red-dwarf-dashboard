@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T03:56:48.974001+00:00",
+  "timestamp": "2026-07-03T04:27:50.495312+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Mist",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Light Rain",
+      "temp": 14.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -94,5 +94,5 @@
     "Dev says Google warned him about account hijack – then charged him $11,000 anyway",
     "Startup sues Palo Alto Networks' Koi Security, saying an AI-hallucinated report falsely linked it to Chinese espionage"
   ],
-  "crew_quote": "\"Well, if it’s light rain in Llandudno, that’s practically a tropical holiday for us! Might as well have a curry while we’re at it—spicy food and drizzle, just perfect!\""
+  "crew_quote": "\"Well, at least it’s clear over Altrincham; makes a nice change from the usual fog of despair! Now, where's my curry?\""
 }
