@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T14:18:00.776075+00:00",
+  "timestamp": "2026-07-03T14:49:00.484198+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module",
     "NetNut cracked as Google and FBI target 2 million-device botnet",
-    "AI bills are baffling the C-suite after shift to usage-based pricing",
-    "EU appears to find datacenter emissions easier to offset than lobbyists"
+    "AI bills are baffling the C-suite after shift to usage-based pricing"
   ],
-  "crew_quote": "\"Isn't it lovely out there? Perfect weather for a curry... or, you know, just lounging around, like all those other lazy buggers basking in a toasty 25 degrees!\""
+  "crew_quote": "\"Looks like it's a lovely 25°C in Overseal, perfect weather for a curry, though I'll have to keep an eye on the data thieves; I bet they wouldn't bother sweet-talking me!\""
 }
