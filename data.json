@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T10:09:55.150920+00:00",
+  "timestamp": "2026-07-03T10:40:56.190151+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 21.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "User swore hacker called General Failure had invaded his PC",
     "Failed blockchain project ends with big fine for fibs about it being on track"
   ],
-  "crew_quote": "\"Well, with it only being 17°C in Overseal, I suppose that’s a sign I can finally wear my best leather jacket—if only I could find it under all these curry stains!\""
+  "crew_quote": "\"Well, it’s 21 degrees in Overseal, which is just about perfect for a pint and a curry, but not quite enough for me to bother with an umbrella or my hair.\""
 }
