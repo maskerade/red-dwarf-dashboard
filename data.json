@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T22:35:08.496532+00:00",
+  "timestamp": "2026-07-03T23:06:07.424997+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,14 +37,9 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-03",
-          "max": 26.0,
-          "min": 9.0
-        },
         {
           "date": "2026-07-04",
           "max": 23.0,
@@ -54,18 +49,18 @@
           "date": "2026-07-05",
           "max": 26.0,
           "min": 16.0
+        },
+        {
+          "date": "2026-07-06",
+          "max": 27.0,
+          "min": 15.0
         }
       ]
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Overcast",
+      "conditions": "Mist",
       "forecast": [
-        {
-          "date": "2026-07-03",
-          "max": 20.0,
-          "min": 10.0
-        },
         {
           "date": "2026-07-04",
           "max": 20.0,
@@ -73,6 +68,11 @@
         },
         {
           "date": "2026-07-05",
+          "max": 21.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-06",
           "max": 21.0,
           "min": 14.0
         }
@@ -94,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"Well, with a mild 17 degrees, it's a perfect day for a curry, isn't it? Just don't forget to put on your best 'overcast' face for the occasion!\""
+  "crew_quote": "\"Just look at that weather! Perfect for a curry night — 17 degrees, partly cloudy, just like my plans for world domination!\""
 }
