@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T17:24:03.296996+00:00",
+  "timestamp": "2026-07-03T17:55:03.751687+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
+    "Amazon Leo constellation nears 400 satellites as broadband launch looms",
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
-    "Startup targets datacenters with 3D-printed nuclear reactor module",
-    "NetNut cracked as Google and FBI target 2 million-device botnet",
-    "AI bills are baffling the C-suite after shift to usage-based pricing"
+    "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"Blimey, it’s hotter outside than my last curry night! I hope they’ve got a good ventilation system in that 3D-printed reactor; it’s going to get steamy!\""
+  "crew_quote": "\"Blimey, it’s 25 degrees in Overseal! Perfect weather for a curry, if I can stay awake long enough to cook one without passing out!\""
 }
