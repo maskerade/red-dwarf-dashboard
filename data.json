@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T08:05:53.210243+00:00",
+  "timestamp": "2026-07-03T08:36:55.231854+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Databricks unifies OLTP and OLAP, depending on what counts as a copy",
     "User swore hacker called General Failure had invaded his PC",
     "Failed blockchain project ends with big fine for fibs about it being on track",
-    "Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it",
-    "In a volatile world, a consistent sustainability policy is critical"
+    "Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it"
   ],
-  "crew_quote": "\"Weather's a bit dodgy today, innit? But with a curry in hand, who cares if it's chilly and overcast? Bring on the comfort food!\""
+  "crew_quote": "\"With it being 14 degrees and cloudy, I reckon a curry is just what we need to spice up this dull day! Maybe the 'General Failure' has something to do with my last takeaway!\""
 }
