@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T01:21:46.527811+00:00",
+  "timestamp": "2026-07-03T01:52:47.749302+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Clear ",
+      "temp": 11.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -27,12 +27,12 @@
         {
           "date": "2026-07-04",
           "max": 22.0,
-          "min": 14.0
+          "min": 15.0
         },
         {
           "date": "2026-07-05",
           "max": 22.0,
-          "min": 16.0
+          "min": 15.0
         }
       ]
     },
@@ -80,12 +80,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:47 AM",
+    "sunrise": "04:46 AM",
     "sunset": "09:40 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "92",
     "moonrise": "11:30 PM",
-    "moonset": "08:12 AM"
+    "moonset": "08:11 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Startup sues Palo Alto Networks' Koi Security, saying an AI-hallucinated report falsely linked it to Chinese espionage",
     "Nvidia floats double-dipping datacenter financing scheme"
   ],
-  "crew_quote": "\"Clear skies and a nice 13 degrees? Perfect weather for a curry run! Just as long as Dev doesn’t keep charging me for accounts I didn’t even know I had!\""
+  "crew_quote": "\"With all this overcast weather, I reckon a nice curry could cheer us up—unless, of course, it turns out to be one of those fancy vegan ones!\""
 }
