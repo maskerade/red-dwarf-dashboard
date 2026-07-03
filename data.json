@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T04:27:50.495312+00:00",
+  "timestamp": "2026-07-03T04:58:51.154003+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Clear ",
+      "temp": 10.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -94,5 +94,5 @@
     "Dev says Google warned him about account hijack – then charged him $11,000 anyway",
     "Startup sues Palo Alto Networks' Koi Security, saying an AI-hallucinated report falsely linked it to Chinese espionage"
   ],
-  "crew_quote": "\"Well, at least it’s clear over Altrincham; makes a nice change from the usual fog of despair! Now, where's my curry?\""
+  "crew_quote": "\"Blimey, I could cook a curry with this weather! I mean, it's sunny here and misty there—typical British, eh? Just don't get me started on that Mechanical Turk nonsense!\""
 }
