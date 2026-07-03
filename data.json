@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T08:36:55.231854+00:00",
+  "timestamp": "2026-07-03T09:07:55.178100+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -94,5 +94,5 @@
     "Failed blockchain project ends with big fine for fibs about it being on track",
     "Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it"
   ],
-  "crew_quote": "\"With it being 14 degrees and cloudy, I reckon a curry is just what we need to spice up this dull day! Maybe the 'General Failure' has something to do with my last takeaway!\""
+  "crew_quote": "\"Blimey, with the weather like this, I could do with a curry and a nap—preferably in a cloud rather than under one!\""
 }
