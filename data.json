@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T23:06:07.424997+00:00",
+  "timestamp": "2026-07-03T23:37:08.099625+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "temp": 16.0,
+      "conditions": "Overcast",
       "forecast": [
-        {
-          "date": "2026-07-03",
-          "max": 24.0,
-          "min": 10.0
-        },
         {
           "date": "2026-07-04",
           "max": 23.0,
@@ -33,6 +28,11 @@
           "date": "2026-07-05",
           "max": 22.0,
           "min": 15.0
+        },
+        {
+          "date": "2026-07-06",
+          "max": 23.0,
+          "min": 14.0
         }
       ]
     },
@@ -80,12 +80,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:47 AM",
-    "sunset": "09:40 PM",
+    "sunrise": "04:48 AM",
+    "sunset": "09:39 PM",
     "moon_phase": "Waning Gibbous",
-    "moon_illumination": "92",
-    "moonrise": "11:30 PM",
-    "moonset": "08:12 AM"
+    "moon_illumination": "86",
+    "moonrise": "11:40 PM",
+    "moonset": "09:30 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"Just look at that weather! Perfect for a curry night — 17 degrees, partly cloudy, just like my plans for world domination!\""
+  "crew_quote": "\"Did you see that? Over in Overseal, it’s 17 degrees and clear! Perfect weather for a curry and a nap — now that’s what I call living the dream!\""
 }
