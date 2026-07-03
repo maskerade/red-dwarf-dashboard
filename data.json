@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T12:44:58.019671+00:00",
+  "timestamp": "2026-07-03T13:15:58.561134+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "EU appears to find datacenter emissions easier to offset than lobbyists",
     "Databricks unifies OLTP and OLAP, depending on what counts as a copy"
   ],
-  "crew_quote": "\"Blimey, it's so warm today, I might just ditch the chips and whip up a curry on the deck — nothing says 'partly cloudy' like a sizzling keema!\""
+  "crew_quote": "\"23 degrees and partly cloudy? Blimey, that's the perfect weather for a curry! Too bad we can't power the ship with it.\""
 }
