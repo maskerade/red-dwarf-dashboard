@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T17:55:03.751687+00:00",
+  "timestamp": "2026-07-03T18:26:04.809891+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 24.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"Blimey, it’s 25 degrees in Overseal! Perfect weather for a curry, if I can stay awake long enough to cook one without passing out!\""
+  "crew_quote": "\"With the sun shining like it's auditioning for a role in a Bollywood film, I'm thinking a curry on the beach sounds like just the ticket, mate!\""
 }
