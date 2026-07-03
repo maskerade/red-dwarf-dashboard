@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T16:53:03.367684+00:00",
+  "timestamp": "2026-07-03T17:24:03.296996+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 22.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -94,5 +94,5 @@
     "NetNut cracked as Google and FBI target 2 million-device botnet",
     "AI bills are baffling the C-suite after shift to usage-based pricing"
   ],
-  "crew_quote": "\"With this lovely 25 degrees, it's perfect curry weather—just need to keep the data thieves away from my takeaway order. Can't have them stealing my spicy goodness!\""
+  "crew_quote": "\"Blimey, it’s hotter outside than my last curry night! I hope they’ve got a good ventilation system in that 3D-printed reactor; it’s going to get steamy!\""
 }
