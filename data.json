@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T09:07:55.178100+00:00",
+  "timestamp": "2026-07-03T09:38:55.210477+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Cloudy ",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "EU appears to find datacenter emissions easier to offset than lobbyists",
     "Databricks unifies OLTP and OLAP, depending on what counts as a copy",
     "User swore hacker called General Failure had invaded his PC",
-    "Failed blockchain project ends with big fine for fibs about it being on track",
-    "Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it"
+    "Failed blockchain project ends with big fine for fibs about it being on track"
   ],
-  "crew_quote": "\"Blimey, with the weather like this, I could do with a curry and a nap—preferably in a cloud rather than under one!\""
+  "crew_quote": "\"Patchy rain nearby? Sounds like a perfect day to have a curry, mate! Nothing says ‘I love you, weather’ like dodging raindrops on the way to the takeaway.\""
 }
