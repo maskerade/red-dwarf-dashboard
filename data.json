@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T19:28:03.969201+00:00",
+  "timestamp": "2026-07-03T19:59:05.291593+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -94,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"Blimey, with the weather at 22 degrees and sunny, it's the perfect day for a curry! Just hope we don't have to eat it in the airlock again like last time.\""
+  "crew_quote": "\"Blimey, with all this sun, it feels like we could be cooking curry on the deck! If only I had a decent fridge to keep the beer cold!\""
 }
