@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T07:03:52.331025+00:00",
+  "timestamp": "2026-07-03T07:34:52.997939+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,33 +37,33 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 14.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-03",
-          "max": 24.0,
-          "min": 8.0
+          "max": 22.0,
+          "min": 9.0
         },
         {
           "date": "2026-07-04",
-          "max": 23.0,
+          "max": 26.0,
           "min": 13.0
         },
         {
           "date": "2026-07-05",
-          "max": 26.0,
-          "min": 15.0
+          "max": 25.0,
+          "min": 14.0
         }
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Partly cloudy",
+      "temp": 15.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-03",
-          "max": 19.0,
+          "max": 18.0,
           "min": 10.0
         },
         {
@@ -94,5 +94,5 @@
     "Amazon’s Mechanical Turk to stop accepting new customers – and not even AI can save it",
     "In a volatile world, a consistent sustainability policy is critical"
   ],
-  "crew_quote": "\"Blimey, it's as cloudy as my last curry dinner! I swear, if I see one more hacker, I'm sending them a takeout menu—nothing like a good vindaloo to spice up a computer crisis!\""
+  "crew_quote": "\"Well, it's a lovely 14 degrees in Overseal—perfect weather for finding a sunny spot to eat a curry and, you know, forget about hackers totally ruining your day!\""
 }
