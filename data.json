@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T10:40:56.190151+00:00",
+  "timestamp": "2026-07-03T11:11:56.582928+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 19.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-03",
@@ -94,5 +94,5 @@
     "User swore hacker called General Failure had invaded his PC",
     "Failed blockchain project ends with big fine for fibs about it being on track"
   ],
-  "crew_quote": "\"Well, it’s 21 degrees in Overseal, which is just about perfect for a pint and a curry, but not quite enough for me to bother with an umbrella or my hair.\""
+  "crew_quote": "\"Oh, it's a lovely 19°C out there, just perfect for a cheeky curry, isn't it? Just don't ask Rimmer to cook, or we might end up with a rather smoky disaster!\""
 }
