@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T22:22:28.978714+00:00",
+  "timestamp": "2026-07-04T22:53:29.816878+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 17.0,
-      "conditions": "Light Rain",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Well, it's light rain in Altrincham, mate, perfect weather for a curry. Just not the kind that makes me smell like a wet dog!\""
+  "crew_quote": "\"Ah, it's a lovely 17 degrees outside—perfect weather for a curry! Just don’t ask me to cook; I’ve seen clearer skies in the bottom of a takeout bag!\""
 }
