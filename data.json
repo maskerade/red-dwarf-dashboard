@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T00:08:08.612233+00:00",
+  "timestamp": "2026-07-04T00:39:12.471257+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 17.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Mist",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -94,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"With all this mist in Llandudno, I reckon the only thing clearer than the view is my overwhelming desire for a curry — it’ll cut right through the fog, you know!\""
+  "crew_quote": "\"16 degrees and overcast? Blimey, I’d almost consider foiling the curry with a nice jacket potato instead!\""
 }
