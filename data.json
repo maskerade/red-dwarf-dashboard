@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T05:49:14.195733+00:00",
+  "timestamp": "2026-07-04T06:20:14.204955+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"Ah, patchy rain near Llandudno? Perfect excuse to stay indoors and have a curry while I ponder why I still don’t have a satellite as cool as Amazon's!\""
+  "crew_quote": "\"Nice to see it's a bit cloudy out. Perfect weather for a curry—better than being swamped by satellites or rain, right?\""
 }
