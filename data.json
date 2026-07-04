@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T04:47:12.577510+00:00",
+  "timestamp": "2026-07-04T05:18:14.233673+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Cloudy ",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -94,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"I'm not saying the weather's disappointing, but even the clouds look a bit peaky today—must be time for a curry and a good moan!\""
+  "crew_quote": "\"Ah, 15 degrees and patchy rain? Brilliant! Just what I need for a curry — perfect weather for a proper binge-watch in my pants!\""
 }
