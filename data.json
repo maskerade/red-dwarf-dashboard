@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T02:43:13.988074+00:00",
+  "timestamp": "2026-07-04T03:14:12.869533+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"Looks like it’s 16 degrees out there, perfect curry weather! Just don’t ask me to share my naan, I’m not running a charity!\""
+  "crew_quote": "\"16 degrees and cloudy? I’d say it’s perfect curry weather, unless you’re a satellite, then it’s just clear skies and boredom, innit?\""
 }
