@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T13:04:22.796273+00:00",
+  "timestamp": "2026-07-04T13:35:21.542066+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 21.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Blimey, it’s so overcast outside that even my hair looks flat—thank goodness for a good curry to spice up the day! I mean, who needs the sun when you've got vindaloo?\""
+  "crew_quote": "\"Well, it's a balmy 21 degrees out there—perfect curry weather, just as long as you don’t get too close to that broken core trust mechanism, eh?\""
 }
