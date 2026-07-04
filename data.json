@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T20:49:28.668593+00:00",
+  "timestamp": "2026-07-04T21:20:27.817904+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 17.0,
-      "conditions": "Drizzle And Rain",
+      "conditions": "Light Rain",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -27,12 +27,12 @@
         {
           "date": "2026-07-05",
           "max": 22.0,
-          "min": 16.0
+          "min": 15.0
         },
         {
           "date": "2026-07-06",
           "max": 23.0,
-          "min": 15.0
+          "min": 14.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"With all this drizzle, it’s a perfect day for a curry, eh? I just hope the weather doesn’t ruin my chances of finding a new disco shirt!\""
+  "crew_quote": "\"Oi, I could cook a mean curry in this weather—light rain and all, perfect for a nice hot pot! If only we had some fresh ingredients instead of NASA's isolation nonsense!\""
 }
