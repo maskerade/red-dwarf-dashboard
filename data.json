@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T21:51:29.557429+00:00",
+  "timestamp": "2026-07-04T22:22:28.978714+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Overcast",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Well, at least the weather's not as dodgy as NASA's volunteer plan; light rain's preferable to a year of isolation—unless they bring curry, then I'm in!\""
+  "crew_quote": "\"Well, it's light rain in Altrincham, mate, perfect weather for a curry. Just not the kind that makes me smell like a wet dog!\""
 }
