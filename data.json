@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T09:57:18.734569+00:00",
+  "timestamp": "2026-07-04T10:28:18.556440+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year",
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
-    "Amazon Leo constellation nears 400 satellites as broadband launch looms",
-    "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data"
+    "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Blimey, it’s a blistering 22 degrees in Overseal! Perfect weather for a curry, but all I’ve got is this tin of baked beans. Just my luck!\""
+  "crew_quote": "\"It's a bit overcast today, but at least it's not as gloomy as NASA's idea of fun — isolating volunteers for a year! I mean, what’s wrong with a good curry and a laugh?\""
 }
