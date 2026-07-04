@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T06:20:14.204955+00:00",
+  "timestamp": "2026-07-04T06:51:15.619796+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "temp": 18.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "NASA says it will isolate volunteers from the outside world for a year",
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms",
-    "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
-    "Startup targets datacenters with 3D-printed nuclear reactor module"
+    "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data"
   ],
-  "crew_quote": "\"Nice to see it's a bit cloudy out. Perfect weather for a curry—better than being swamped by satellites or rain, right?\""
+  "crew_quote": "\"With it being 15°C and overcast, I reckon it's perfect weather for a curry, mate! Just the right kind of grim to match my mood.\""
 }
