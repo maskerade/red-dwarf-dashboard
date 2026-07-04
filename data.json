@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T11:31:00.870813+00:00",
+  "timestamp": "2026-07-04T12:02:33.680422+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -20,15 +20,56 @@
       "conditions": null
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 22.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-04",
+          "max": 24.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-05",
+          "max": 26.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-06",
+          "max": 26.0,
+          "min": 15.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 18.0,
+      "conditions": "Overcast",
+      "forecast": [
+        {
+          "date": "2026-07-04",
+          "max": 20.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-05",
+          "max": 21.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-06",
+          "max": 21.0,
+          "min": 14.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "04:48 AM",
+    "sunset": "09:33 PM",
+    "moon_phase": "Waning Gibbous",
+    "moon_illumination": "86",
+    "moonrise": "11:36 PM",
+    "moonset": "09:29 AM"
+  },
   "metrolink": null,
   "headlines": [
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
@@ -36,5 +77,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Right, so NASA's locking people away for a year while some tech is broken? Brilliant! Just what I need—more time to perfect my curry recipe while waiting for the world to sort itself out!\""
+  "crew_quote": "\"Well, at least it’s not as cloudy in here as it is in Llandudno—I can still see my reflection! Not that I’d ever be caught dead looking like that.\""
 }
