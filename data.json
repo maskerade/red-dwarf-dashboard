@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T17:12:25.095949+00:00",
+  "timestamp": "2026-07-04T17:43:25.392640+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 17.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"You know, I’d prefer to be overcast in Altrincham than isolated with NASA—at least there, I could still get a curry and a pint with me mates!\""
+  "crew_quote": "\"With this weather, I could really go for a curry, but knowing my luck it’ll just be cloudy with a chance of Rimmer’s bad jokes!\""
 }
