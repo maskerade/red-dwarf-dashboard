@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T00:39:12.471257+00:00",
+  "timestamp": "2026-07-04T01:10:12.525950+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Overcast",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"16 degrees and overcast? Blimey, I’d almost consider foiling the curry with a nice jacket potato instead!\""
+  "crew_quote": "\"Well, it's a lovely 17 degrees outside; just perfect for a curry. If only I could convince the vending machine to whip up a balti instead of that soggy sandwich!\""
 }
