@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T15:39:25.331231+00:00",
+  "timestamp": "2026-07-04T16:10:23.292098+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Partly cloudy",
+      "temp": 17.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"20 degrees and a bit of rain? Perfect weather for a curry and a good old moan about the universe, innit? Just don’t get me started on NASA's isolation plans!\""
+  "crew_quote": "\"Well, at least it's not as overcast as my love life – but with a year in isolation, I might just have to settle for a curry and a wet blanket.\""
 }
