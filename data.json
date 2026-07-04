@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T18:45:26.047503+00:00",
+  "timestamp": "2026-07-04T19:16:27.086953+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 21.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Well, if the weather's any indication, I reckon we should open a curry house in Llandudno and call it 'Warm and Cloudy'—it’s perfect for emulating the taste of our emotional baggage!\""
+  "crew_quote": "\"Blimey, it’s so cloudy out there, even the weather’s having an identity crisis — now pass me a curry while I figure out if I’m more overcast or partly fabulous!\""
 }
