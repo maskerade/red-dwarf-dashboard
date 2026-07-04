@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T07:53:15.795962+00:00",
+  "timestamp": "2026-07-04T08:24:17.765304+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,23 +37,23 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Cloudy ",
+      "temp": 20.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-04",
-          "max": 23.0,
+          "max": 24.0,
           "min": 13.0
         },
         {
           "date": "2026-07-05",
-          "max": 25.0,
+          "max": 26.0,
           "min": 15.0
         },
         {
           "date": "2026-07-06",
-          "max": 27.0,
-          "min": 14.0
+          "max": 26.0,
+          "min": 15.0
         }
       ]
     },
@@ -69,7 +69,7 @@
         {
           "date": "2026-07-05",
           "max": 21.0,
-          "min": 15.0
+          "min": 14.0
         },
         {
           "date": "2026-07-06",
@@ -94,5 +94,5 @@
     "Amazon Leo constellation nears 400 satellites as broadband launch looms",
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data"
   ],
-  "crew_quote": "\"Well, at least it’s not pouring down like last week, but with all these clouds, I reckon it’s curry for dinner. Can’t beat a good vindaloo under a gray sky!\""
+  "crew_quote": "\"Overcast in Altrincham, eh? Sounds like the perfect weather for a curry night in — just us, a few pints, and the questionable aroma of last week's leftovers!\""
 }
