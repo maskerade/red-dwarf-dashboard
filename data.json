@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T09:26:17.602293+00:00",
+  "timestamp": "2026-07-04T09:57:18.734569+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 22.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "temp": 18.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -94,5 +94,5 @@
     "Amazon Leo constellation nears 400 satellites as broadband launch looms",
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data"
   ],
-  "crew_quote": "\"Ah, this weather is perfect for a curry night! Overcast or not, I've got just the right spice to heat things up!\""
+  "crew_quote": "\"Blimey, it’s a blistering 22 degrees in Overseal! Perfect weather for a curry, but all I’ve got is this tin of baked beans. Just my luck!\""
 }
