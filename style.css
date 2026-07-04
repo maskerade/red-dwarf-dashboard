@@ -1034,6 +1034,34 @@ body {
 .destruct-status { font-size: 1.5rem; font-weight: bold; font-family: var(--font-mono-alt); text-align: center; padding: 8px 0; text-shadow: 0 0 8px rgba(255,0,0,0.15); }
 .destruct-reason { font-size: 0.6rem; text-align: center; display: block; font-style: italic; color: var(--text-dim); }
 
+/* === 61. Cat's Smell-O-Meter === */
+.smell-o-meter { text-align: center; }
+.smell-fragrance { font-size:1.4rem; font-weight:bold; font-family:var(--font-mono-alt); text-align:center; padding:6px 0; }
+.smell-gauge-wrap { height:8px; background:rgba(255,255,255,0.05); border-radius:4px; overflow:hidden; margin:4px 0; }
+.smell-fill { height:100%; border-radius:4px; transition:width 2s ease; background:linear-gradient(90deg,#8844ff,#ff44aa); }
+
+/* === 62. Rimmer's Jury Service Countdown === */
+.jury-countdown { text-align: center; }
+.jury-days { font-size:2.5rem; font-weight:bold; font-family:var(--font-mono-alt); text-align:center; color:var(--amber); text-shadow:0 0 12px rgba(255,176,0,0.2); padding:6px 0; }
+.jury-label { font-size:0.6rem; text-align:center; letter-spacing:0.15em; color:var(--text-dim); }
+
+/* === 63. Lister's Leftovers Alert === */
+.leftovers-alert { text-align: center; }
+.leftovers-verdict { font-size:1.6rem; font-weight:bold; font-family:var(--font-mono-alt); text-align:center; padding:6px 0; }
+.leftovers-temp { font-size:0.7rem; text-align:center; color:var(--text-dim); }
+
+/* === 64. Holly's Deep Thought of the Moment === */
+.deep-thought { text-align: center; }
+.thought-text { font-size:0.65rem; text-align:center; padding:8px; font-style:italic; line-height:1.5; color:var(--cyan); }
+.thought-rating { font-size:0.55rem; text-align:center; color:var(--text-dim); letter-spacing:0.05em; display:block; }
+
+/* === 65. Kryten's Tidiness Priority Matrix === */
+.tidiness-matrix { text-align: center; }
+.matrix-grid { display:grid; grid-template-columns:1fr 1fr; gap:4px; padding:4px 0; }
+.matrix-cell { background:rgba(255,255,255,0.03); border-radius:4px; padding:4px; text-align:center; }
+.matrix-quadrant { display:block; font-size:0.45rem; color:var(--text-dim); letter-spacing:0.05em; margin-bottom:2px; }
+.matrix-task { display:block; font-size:0.6rem; font-family:var(--font-mono-alt); color:var(--amber); }
+
 /* --- Responsive --- */
 @media (max-width: 900px) {
   .grid-main {
@@ -2445,7 +2473,8 @@ body::after {
   .deck-hologram, .deck-laundry, .deck-ai-ticker, .deck-fashion, .deck-maintenance, .deck-meal, .deck-alarm-log,
   .lighting-advisory, .string-vest, .dust-index, .snooker-advisory, .deck-comfort, .run-log, .glow-up, .panel-audit,
   .holly-told-you, .rimmer-citations, .curry-clock, .nap-index, .polite-advisory, .component-life, .staleness-timer, .glow-index, .hob-gauge, .processor-load,
-  .holoship-bandwidth, .bunk-biohazard, .daily-vibe, .tea-recommendation, .auto-destruct { grid-column: 1 / -1; }
+  .holoship-bandwidth, .bunk-biohazard, .daily-vibe, .tea-recommendation, .auto-destruct,
+  .smell-o-meter, .jury-countdown, .leftovers-alert, .deep-thought, .tidiness-matrix { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
   .glance-strip { font-size: 0.6rem; gap: 10px; }
   .glance-weather { margin-left: 0; }

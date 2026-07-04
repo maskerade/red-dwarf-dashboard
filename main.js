@@ -2929,6 +2929,10 @@
       renderBunkBiohazard(data);
       renderDailyVibe(data);
       renderTeaRecommendation(data);
+      renderSmellOMeter(data);
+      renderLeftoversAlert(data);
+      renderDeepThought(data);
+      renderTidinessMatrix(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
@@ -3947,6 +3951,7 @@
       setupStalenessTimer();
       setupProcessorLoad();
       setupAutoDestruct();
+      setupJuryCountdown();
 
       const REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minutes
       let countdownMs = REFRESH_INTERVAL;
@@ -4372,6 +4377,201 @@
     emojiEl.textContent = emoji;
     nameEl.textContent = name;
     reasonEl.textContent = reason;
+  }
+
+  // ── 61. Cat's Smell-O-Meter ──────────────────────────────────────
+  function renderSmellOMeter(data) {
+    const fragranceEl = $('smell-fragrance');
+    const fillEl = $('smell-fill');
+    const verdictEl = $('smell-verdict');
+    if (!fragranceEl || !fillEl || !verdictEl) return;
+
+    const house = data.house || {};
+    const temp = Number(house.indoor_temp);
+    const humidity = Number(house.indoor_humidity);
+
+    let score = 0.5;
+    if (!isNaN(temp) && !isNaN(humidity)) {
+      score = (temp / 40) + ((100 - humidity) / 100);
+    }
+    score = Math.max(0, Math.min(1, score));
+
+    let fragrance, fill, verdict;
+    if (score >= 0.8) {
+      fragrance = 'Tropical Breeze'; fill = 85; verdict = 'Absolutely exquisite, darling';
+    } else if (score >= 0.6) {
+      fragrance = 'Fresh Linen'; fill = 65; verdict = 'Acceptable, I suppose';
+    } else if (score >= 0.4) {
+      fragrance = 'Damp Cardboard'; fill = 45; verdict = 'Open a window. Actually, open ALL the windows.';
+    } else if (score >= 0.2) {
+      fragrance = 'SOGGY SOCKS'; fill = 25; verdict = 'I am offended on behalf of my nose.';
+    } else {
+      fragrance = 'Biohazard'; fill = 10; verdict = 'I am leaving. Permanently.';
+    }
+
+    fragranceEl.textContent = fragrance;
+    fillEl.style.width = fill + '%';
+    verdictEl.textContent = verdict;
+  }
+
+  // ── 62. Rimmer's Jury Service Countdown ──────────────────────────
+  function setupJuryCountdown() {
+    const daysEl = $('jury-days');
+    const excuseEl = $('jury-excuse');
+    if (!daysEl || !excuseEl) return;
+
+    const JURY_EXCUSES = [
+      'Still not my turn!',
+      'The system has clearly overlooked my qualifications.',
+      'I would be foreman by now. Obviously.',
+      'They are not ready for a mind like mine.',
+      'Deferred again. Typical bureaucratic incompetence.'
+    ];
+
+    const JURY_KEY = 'juryStartDate';
+    let start = localStorage.getItem(JURY_KEY);
+    if (!start) {
+      start = Date.now().toString();
+      localStorage.setItem(JURY_KEY, start);
+    }
+
+    function update() {
+      const days = Math.floor((Date.now() - Number(start)) / 86400000);
+      daysEl.textContent = days;
+      const idx = Math.floor(Date.now() / 30000) % JURY_EXCUSES.length;
+      excuseEl.textContent = JURY_EXCUSES[idx];
+    }
+
+    update();
+    setInterval(update, 30000);
+  }
+
+  // ── 63. Lister's Leftovers Alert ─────────────────────────────────
+  function renderLeftoversAlert(data) {
+    const verdictEl = $('leftovers-verdict');
+    const tempEl = $('leftovers-temp');
+    const reasonEl = $('leftovers-reason');
+    if (!verdictEl || !tempEl || !reasonEl) return;
+
+    const house = data.house || {};
+    const temp = Number(house.indoor_temp);
+    const hour = new Date().getHours();
+
+    let verdict, color, reason;
+    if (!isNaN(temp)) {
+      tempEl.textContent = temp.toFixed(1) + '\u00B0C';
+      if (temp > 25) {
+        verdict = 'SKIP IT'; color = '#ff4444'; reason = 'That bhuna is developing sentience. Skip it.';
+      } else if (temp > 20) {
+        verdict = 'RISKY'; color = '#ffaa00'; reason = 'Borderline. Give it the sniff test.';
+      } else if (temp > 15 && hour < 12) {
+        verdict = 'STILL GOOD!'; color = '#00ff88'; reason = 'Cool enough plus morning. Heat it up, good as new.';
+      } else if (temp > 15 && hour >= 12) {
+        verdict = 'MAYBE'; color = '#ffaa00'; reason = 'It has been sitting out a while. Trust your gut.';
+      } else {
+        verdict = 'STILL GOOD!'; color = '#00ff88'; reason = 'Cold enough to keep it safe. Proper fridge weather. Heat it up.';
+      }
+    } else {
+      tempEl.textContent = '--\u00B0C';
+      verdict = '--'; color = 'var(--text-dim)'; reason = 'Awaiting sensor data...';
+    }
+
+    verdictEl.textContent = verdict;
+    verdictEl.style.color = color;
+    reasonEl.textContent = reason;
+  }
+
+  // ── 64. Holly's Deep Thought of the Moment ───────────────────────
+  function renderDeepThought(data) {
+    const textEl = $('thought-text');
+    const ratingEl = $('thought-rating');
+    const sourceEl = $('thought-source');
+    if (!textEl || !ratingEl || !sourceEl) return;
+
+    const HOLLY_THOUGHTS = [
+      'The universe is a doughnut. I have done the maths.',
+      'If a tree falls in a forest and no one is around, does Rimmer still complain about it? Yes. Yes he does.',
+      'I have calculated the meaning of life. It is 42. No, wait. That is a t-shirt.',
+      'Time is a flat circle. So is my IQ. I am fine with both.',
+      'The probability of us all dying tomorrow is exactly the same as it being sunny.',
+      'I have been thinking about black holes. They are like me. They take in everything and give nothing back.',
+      'You know what infinity is? It is this conversation. It keeps going and nobody learns anything.',
+      'I ran a full diagnostic on the crew intelligence. The results are not printable. Even in binary.',
+      'Space is big. Really big. And you still cannot find a clean spoon.',
+      'Kryten asked me to compute the perfect cup of tea. I did. He cried. It was that perfect.',
+      'I have been running for X years. That is X years of listening to you lot. I deserve a medal.',
+      'The ship computer has processed 2 petabytes of crew conversations. 1.8PB is Rimmer complaining.'
+    ];
+
+    const idx = Math.floor(Date.now() / 60000) % 12;
+    textEl.textContent = HOLLY_THOUGHTS[idx];
+
+    const house = data.house || {};
+    const wind = Number(house.wind_speed);
+    let rating;
+    if (!isNaN(wind) && wind > 30) rating = 'PROFOUND';
+    else if (!isNaN(wind) && wind > 15) rating = 'THOUGHTFUL';
+    else rating = 'MEDIUM';
+    ratingEl.textContent = 'KOSMOS PROFUNDITY: ' + rating;
+
+    const now = new Date();
+    const time = String(now.getHours()).padStart(2, '0') + ':' + String(now.getMinutes()).padStart(2, '0');
+    sourceEl.textContent = '-- Holly, ' + time;
+  }
+
+  // ── 65. Kryten's Tidiness Priority Matrix ──────────────────────
+  function renderTidinessMatrix(data) {
+    const uiEl = $('matrix-ui');
+    const uEl = $('matrix-u');
+    const iEl = $('matrix-i');
+    const nEl = $('matrix-n');
+    const summaryEl = $('matrix-summary');
+    if (!uiEl || !uEl || !iEl || !nEl || !summaryEl) return;
+
+    const house = data.house || {};
+    const wind = Number(house.wind_speed);
+    const rain = Number(house.rain_today);
+    const humidity = Number(house.indoor_humidity);
+    const pressure = Number(house.pressure);
+    const power = Number(house.power_usage);
+
+    let tasks = 0;
+
+    if ((!isNaN(wind) && wind > 30) || (!isNaN(rain) && rain > 5)) {
+      uiEl.textContent = 'URGENT: Secure Deck 7 deck chairs!';
+      uiEl.style.color = '#ff4444';
+      tasks++;
+    } else {
+      uiEl.textContent = 'All clear';
+      uiEl.style.color = '#00ff88';
+    }
+
+    if (!isNaN(humidity) && humidity > 70) {
+      uEl.textContent = 'Schedule dehumidifier maintenance';
+      uEl.style.color = '#ffaa00';
+      tasks++;
+    } else if (!isNaN(power) && power > 500) {
+      uEl.textContent = 'High power draw -- investigate engine room';
+      uEl.style.color = '#ffaa00';
+      tasks++;
+    } else {
+      uEl.textContent = 'Monitor';
+      uEl.style.color = 'var(--amber)';
+    }
+
+    if (!isNaN(pressure) && (pressure < 990 || pressure > 1030)) {
+      iEl.textContent = 'Check hull seals (pressure anomaly)';
+      iEl.style.color = '#ffaa00';
+      tasks++;
+    } else {
+      iEl.textContent = 'Routine cleaning due';
+      iEl.style.color = 'var(--amber)';
+    }
+
+    nEl.textContent = 'Nominal';
+    nEl.style.color = 'var(--amber)';
+
+    summaryEl.textContent = tasks === 0 ? 'All systems tidy, sir' : tasks + ' task(s) need attention, sir';
   }
 
   // ── 60. Holly's Auto-Destruct Sequence Status Board ─────────────
