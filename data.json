@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T02:12:11.492241+00:00",
+  "timestamp": "2026-07-04T02:43:13.988074+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Overcast",
+      "temp": 16.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -94,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"Overcast? Clear? Honestly, with the way I feel today, it could be raining cats and dogs and I’d still just want a curry and a good sit-down!\""
+  "crew_quote": "\"Looks like it’s 16 degrees out there, perfect curry weather! Just don’t ask me to share my naan, I’m not running a charity!\""
 }
