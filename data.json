@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T06:51:15.619796+00:00",
+  "timestamp": "2026-07-04T07:22:16.922716+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,23 +16,23 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Overcast ",
+      "temp": 17.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-04",
           "max": 22.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-07-05",
           "max": 22.0,
-          "min": 16.0
+          "min": 15.0
         },
         {
           "date": "2026-07-06",
-          "max": 23.0,
-          "min": 15.0
+          "max": 22.0,
+          "min": 14.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "Amazon Leo constellation nears 400 satellites as broadband launch looms",
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data"
   ],
-  "crew_quote": "\"With it being 15°C and overcast, I reckon it's perfect weather for a curry, mate! Just the right kind of grim to match my mood.\""
+  "crew_quote": "\"Did you hear, NASA's isolating volunteers for a year? I hope they packed a decent curry, because it's overcast out there and no one's going to notice they’ve gone!\""
 }
