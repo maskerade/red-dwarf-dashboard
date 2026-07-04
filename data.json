@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T01:41:10.413689+00:00",
+  "timestamp": "2026-07-04T02:12:11.492241+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-04",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AdaptHealth says attackers sweet-talked their way into cloud systems and stole patient data",
     "Startup targets datacenters with 3D-printed nuclear reactor module"
   ],
-  "crew_quote": "\"Well, it’s 17 degrees out there, a perfect day for a curry—especially if it means staying inside away from all those pesky clouds!\""
+  "crew_quote": "\"Overcast? Clear? Honestly, with the way I feel today, it could be raining cats and dogs and I’d still just want a curry and a good sit-down!\""
 }
