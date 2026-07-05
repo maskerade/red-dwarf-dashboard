@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T03:02:17.850288+00:00",
+  "timestamp": "2026-07-05T03:34:09.887118+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -20,15 +20,56 @@
       "conditions": null
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 16.0,
+      "conditions": "Overcast",
+      "forecast": [
+        {
+          "date": "2026-07-05",
+          "max": 26.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-06",
+          "max": 29.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-07",
+          "max": 28.0,
+          "min": 13.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 16.0,
+      "conditions": "Overcast",
+      "forecast": [
+        {
+          "date": "2026-07-05",
+          "max": 21.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-06",
+          "max": 21.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-07",
+          "max": 22.0,
+          "min": 13.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "04:49 AM",
+    "sunset": "09:33 PM",
+    "moon_phase": "Waning Gibbous",
+    "moon_illumination": "78",
+    "moonrise": "11:46 PM",
+    "moonset": "10:45 AM"
+  },
   "metrolink": null,
   "headlines": [
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
@@ -36,5 +77,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Well, at least we won’t have to worry about the weather outside when NASA's isolating us for a year; I can finally perfect my curry recipe in peace!\""
+  "crew_quote": "\"16 degrees and overcast? Sounds perfect for a nice curry and a good old mope about how we're all trapped in here, while NASA plays hide and seek with volunteers!\""
 }
