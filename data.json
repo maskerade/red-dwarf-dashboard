@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T17:34:44.287013+00:00",
+  "timestamp": "2026-07-05T18:05:44.758073+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year"
   ],
-  "crew_quote": "\"Twenty-one degrees and partly cloudy? That's nice and all, but I’d trade all that for a curry and a few pints in the pub, innit?\""
+  "crew_quote": "\"Oi, it's 21 degrees and partly cloudy—perfect curry weather! Just don't let any thieves nick my secret recipe while I'm out enjoying the sun.\""
 }
