@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T18:05:44.758073+00:00",
+  "timestamp": "2026-07-05T18:36:45.465984+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
-      "conditions": "Partly cloudy",
+      "temp": 20.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Overcast ",
+      "temp": 24.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 16.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -94,5 +94,5 @@
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year"
   ],
-  "crew_quote": "\"Oi, it's 21 degrees and partly cloudy—perfect curry weather! Just don't let any thieves nick my secret recipe while I'm out enjoying the sun.\""
+  "crew_quote": "\"So, it’s 20 degrees in Altrincham, and I’m still waitin' for the curry that’s hotter than Rimmer's ego – and that’s sayin’ something!\""
 }
