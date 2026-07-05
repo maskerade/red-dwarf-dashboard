@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T20:09:47.524247+00:00",
+  "timestamp": "2026-07-05T20:40:47.078244+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year"
   ],
-  "crew_quote": "\"With weather like this, I'd say it's the perfect day for a curry — especially if the banks are leaving their doors wide open! Go on, let’s see if they’ve got a spicy vindaloo in there!\""
+  "crew_quote": "\"20 degrees and partly cloudy? I’d say it’s the perfect weather for a curry! Just don’t let any thieves anywhere near my stash—those MFA banks have me worried!\""
 }
