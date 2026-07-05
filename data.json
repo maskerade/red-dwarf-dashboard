@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T07:10:41.189070+00:00",
+  "timestamp": "2026-07-05T07:41:35.854976+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,23 +58,23 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Overcast",
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-05",
           "max": 21.0,
-          "min": 14.0
+          "min": 15.0
         },
         {
           "date": "2026-07-06",
           "max": 21.0,
-          "min": 13.0
+          "min": 14.0
         },
         {
           "date": "2026-07-07",
-          "max": 22.0,
-          "min": 13.0
+          "max": 21.0,
+          "min": 14.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Well, mate, it’s a bit overcast out there, but who cares? A light drizzle is just nature’s way of reminding us to spice up our curry night! A bit of rain never hurt anyone.\""
+  "crew_quote": "\"With weather like this, I reckon I could make a curry that’d warm up Llandudno, but knowing my luck, the only thing I'd end up isolating is my taste buds!\""
 }
