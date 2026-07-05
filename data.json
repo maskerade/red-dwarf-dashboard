@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T04:05:01.219511+00:00",
+  "timestamp": "2026-07-05T04:35:49.106688+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 16.0,
+      "conditions": "Light Drizzle",
+      "forecast": [
+        {
+          "date": "2026-07-05",
+          "max": 22.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-06",
+          "max": 23.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-07",
+          "max": 24.0,
+          "min": 14.0
+        }
+      ]
     },
     "overseal": {
       "temp": 16.0,
@@ -41,34 +58,17 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Overcast",
-      "forecast": [
-        {
-          "date": "2026-07-05",
-          "max": 21.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-06",
-          "max": 21.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-07",
-          "max": 22.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
   "astronomy": {
     "sunrise": "04:49 AM",
-    "sunset": "09:33 PM",
+    "sunset": "09:38 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "78",
-    "moonrise": "11:46 PM",
-    "moonset": "10:45 AM"
+    "moonrise": "11:49 PM",
+    "moonset": "10:47 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -77,5 +77,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Oh joy, another day of overcast skies and broken trust mechanisms! Maybe I should stick to eating curry; at least that's a reliable source of brightness!\""
+  "crew_quote": "\"With this light drizzle, I reckon it’s the perfect day for a curry, but I’d hate to be a volunteer isolated for a year — that’s like being trapped in a really bad sitcom!\""
 }
