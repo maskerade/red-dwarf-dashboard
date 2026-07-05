@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T04:35:49.106688+00:00",
+  "timestamp": "2026-07-05T05:06:40.518228+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Light Drizzle",
       "forecast": [
         {
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 16.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -58,8 +58,25 @@
       ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 16.0,
+      "conditions": "Overcast",
+      "forecast": [
+        {
+          "date": "2026-07-05",
+          "max": 21.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-06",
+          "max": 21.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-07",
+          "max": 22.0,
+          "min": 13.0
+        }
+      ]
     }
   },
   "astronomy": {
@@ -77,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"With this light drizzle, I reckon it’s the perfect day for a curry, but I’d hate to be a volunteer isolated for a year — that’s like being trapped in a really bad sitcom!\""
+  "crew_quote": "\"I tell you, with all this drizzle and NASA keeping people isolated, curry's the only thing worth risking a year for—at least it warms the soul!\""
 }
