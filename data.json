@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T06:08:37.387450+00:00",
+  "timestamp": "2026-07-05T06:39:47.330047+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Light Drizzle",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Ah, light drizzle in Altrincham? Just my luck, I finally planned on wearing my new coat! At least the curry I’ve got cooking will make me feel good, even if the weather won’t!\""
+  "crew_quote": "\"With the weather like this, I might as well just lock myself in a cupboard with a curry and see if I can outlast NASA's isolation—at least I’ll have decent company!\""
 }
