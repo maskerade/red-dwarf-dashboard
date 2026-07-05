@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T07:41:35.854976+00:00",
+  "timestamp": "2026-07-05T08:12:35.882728+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,22 +17,22 @@
   "locations": {
     "altrincham": {
       "temp": 16.0,
-      "conditions": "Light Drizzle",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-05",
           "max": 22.0,
-          "min": 15.0
+          "min": 16.0
         },
         {
           "date": "2026-07-06",
-          "max": 23.0,
-          "min": 14.0
+          "max": 24.0,
+          "min": 16.0
         },
         {
           "date": "2026-07-07",
-          "max": 24.0,
-          "min": 14.0
+          "max": 23.0,
+          "min": 15.0
         }
       ]
     },
@@ -42,18 +42,18 @@
       "forecast": [
         {
           "date": "2026-07-05",
-          "max": 26.0,
+          "max": 25.0,
           "min": 15.0
         },
         {
           "date": "2026-07-06",
-          "max": 29.0,
+          "max": 28.0,
           "min": 15.0
         },
         {
           "date": "2026-07-07",
-          "max": 28.0,
-          "min": 13.0
+          "max": 27.0,
+          "min": 14.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"With weather like this, I reckon I could make a curry that’d warm up Llandudno, but knowing my luck, the only thing I'd end up isolating is my taste buds!\""
+  "crew_quote": "\"Well, at least it’s a decent 17 degrees outside—perfect curry-eating weather, if only we could get rid of those clouds. Bet they’re hiding the real sunshine, like my love life!\""
 }
