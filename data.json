@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T08:43:41.735352+00:00",
+  "timestamp": "2026-07-05T09:14:50.275906+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,25 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
-      "forecast": [
-        {
-          "date": "2026-07-05",
-          "max": 21.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-06",
-          "max": 21.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-07",
-          "max": 21.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
   "astronomy": {
@@ -94,5 +77,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Well, at least the weather’s nice while we’re probably all gonna be stuck in some sort of tech hell, eh? Got any curry left to drown my sorrows in?\""
+  "crew_quote": "\"Well, at least it's not raining for a change; I could really go for a curry to celebrate, even if we're stuck with overcast skies and news that makes no sense!\""
 }
