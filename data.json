@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T13:25:46.602871+00:00",
+  "timestamp": "2026-07-05T13:56:40.615235+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Partly cloudy",
+      "temp": 21.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Partly cloudy",
+      "temp": 23.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 18.0,
-      "conditions": "Light Rain",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -94,5 +94,5 @@
     "NASA says it will isolate volunteers from the outside world for a year",
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82"
   ],
-  "crew_quote": "\"Ah, it’s 19 degrees and partly cloudy! Perfect weather for a curry, just as long as the C programmers don’t mess it up before I get to eat!\""
+  "crew_quote": "\"Perfect day for a curry, isn’t it? Just don’t ask me to write code—those C programmers are making the weather look clear as a sunny day, and that’s saying something!\""
 }
