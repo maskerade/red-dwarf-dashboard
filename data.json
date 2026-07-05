@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T11:52:39.612504+00:00",
+  "timestamp": "2026-07-05T12:23:39.780255+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 22.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Light Rain",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "C programmers commit fresh crimes against readability",
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year",
-    "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
-    "Amazon Leo constellation nears 400 satellites as broadband launch looms"
+    "David Potter, the man who put Psion in the palm of your hand, logs off at 82"
   ],
-  "crew_quote": "\"Look at that, 20 degrees in Overseal! Just enough to keep your curry nice and warm while we ponder how to fix that trust mechanism—if it's even possible, of course!\""
+  "crew_quote": "\"Partly cloudy or not, I'd still trade this drizzly day in Llandudno for a good curry and an old sci-fi flick any time, mate!\""
 }
