@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T01:28:36.447264+00:00",
+  "timestamp": "2026-07-05T01:59:37.948596+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 17.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"You know, while the weather's a perfect 17°C for a curry, I bet that NASA isolation sounds less fun than a week stuck in a cramped spaceship with Rimmer!\""
+  "crew_quote": "\"Seventeen degrees and partly cloudy? Blimey, that’s practically a heatwave! I could really go for a curry in this glorious sunshine!\""
 }
