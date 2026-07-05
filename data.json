@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T14:58:42.201614+00:00",
+  "timestamp": "2026-07-05T15:29:42.728272+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 21.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
-      "conditions": "Cloudy ",
+      "temp": 25.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "MFA-optional banks leave safe doors (and accounts) wide open for thieves to pillage",
     "C programmers commit fresh crimes against readability",
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
-    "NASA says it will isolate volunteers from the outside world for a year",
-    "David Potter, the man who put Psion in the palm of your hand, logs off at 82"
+    "NASA says it will isolate volunteers from the outside world for a year"
   ],
-  "crew_quote": "\"Blimey, with it being 21 degrees and overcast, I reckon a nice curry would hit the spot! Just gotta hope the C programmers don’t ruin my recipe with their incomprehensible code!\""
+  "crew_quote": "\"Blimey, it’s so warm out there, I could fry a curry just by leaving it on the windowsill—though I’d rather have a pint and let the thieves have their fun!\""
 }
