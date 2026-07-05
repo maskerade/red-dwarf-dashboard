@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T19:38:46.354720+00:00",
+  "timestamp": "2026-07-05T20:09:47.524247+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 20.0,
-      "conditions": "Overcast ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 22.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year"
   ],
-  "crew_quote": "\"With temperatures dancing around 20°C, I reckon it’s the perfect weather for a cheeky curry, mate! Just don’t forget the naan — would hate to miss out on the best bit!\""
+  "crew_quote": "\"With weather like this, I'd say it's the perfect day for a curry — especially if the banks are leaving their doors wide open! Go on, let’s see if they’ve got a spicy vindaloo in there!\""
 }
