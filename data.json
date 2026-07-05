@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T14:28:00.667953+00:00",
+  "timestamp": "2026-07-05T14:58:42.201614+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 21.0,
+      "conditions": "Overcast",
+      "forecast": [
+        {
+          "date": "2026-07-05",
+          "max": 22.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-07-06",
+          "max": 24.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-07-07",
+          "max": 23.0,
+          "min": 15.0
+        }
+      ]
     },
     "overseal": {
       "temp": 23.0,
@@ -64,11 +81,11 @@
   },
   "astronomy": {
     "sunrise": "04:49 AM",
-    "sunset": "09:33 PM",
+    "sunset": "09:38 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "78",
-    "moonrise": "11:46 PM",
-    "moonset": "10:45 AM"
+    "moonrise": "11:49 PM",
+    "moonset": "10:47 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -77,5 +94,5 @@
     "NASA says it will isolate volunteers from the outside world for a year",
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82"
   ],
-  "crew_quote": "\"Blimey, with today’s weather being all cloudy and 23 degrees, it’s practically a heatwave! Perfect for a curry — just don’t get it on your best shirt, eh?\""
+  "crew_quote": "\"Blimey, with it being 21 degrees and overcast, I reckon a nice curry would hit the spot! Just gotta hope the C programmers don’t ruin my recipe with their incomprehensible code!\""
 }
