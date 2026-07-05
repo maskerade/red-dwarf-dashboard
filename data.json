@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T21:11:47.605821+00:00",
+  "timestamp": "2026-07-05T21:42:48.000359+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Light Rain",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -26,8 +26,8 @@
         },
         {
           "date": "2026-07-06",
-          "max": 24.0,
-          "min": 16.0
+          "max": 23.0,
+          "min": 14.0
         },
         {
           "date": "2026-07-07",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 21.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -53,28 +53,28 @@
         {
           "date": "2026-07-07",
           "max": 27.0,
-          "min": 14.0
+          "min": 15.0
         }
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "temp": 15.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-05",
           "max": 21.0,
-          "min": 15.0
+          "min": 13.0
         },
         {
           "date": "2026-07-06",
           "max": 21.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-07-07",
           "max": 21.0,
-          "min": 14.0
+          "min": 13.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year"
   ],
-  "crew_quote": "\"20 degrees and partly cloudy? Perfect weather for a curry and a pint, but it’s a shame the banks left their doors wide open—where’s a bloke to find a decent curry now?\""
+  "crew_quote": "\"I tell ya, with a light rain in Altrincham and crooks robbing banks left right and centre, it’s almost as risky as my last curry night!\""
 }
