@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T17:03:45.183399+00:00",
+  "timestamp": "2026-07-05T17:34:44.287013+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year"
   ],
-  "crew_quote": "\"Ah, lovely weather for a curry, wouldn’t you say? Just enough cloud cover to keep the sun from ruining my takeout!\""
+  "crew_quote": "\"Twenty-one degrees and partly cloudy? That's nice and all, but I’d trade all that for a curry and a few pints in the pub, innit?\""
 }
