@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T23:55:30.825253+00:00",
+  "timestamp": "2026-07-05T00:26:31.882643+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -20,11 +20,6 @@
       "conditions": "Overcast",
       "forecast": [
         {
-          "date": "2026-07-04",
-          "max": 21.0,
-          "min": 13.0
-        },
-        {
           "date": "2026-07-05",
           "max": 22.0,
           "min": 15.0
@@ -32,6 +27,11 @@
         {
           "date": "2026-07-06",
           "max": 23.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-07",
+          "max": 24.0,
           "min": 14.0
         }
       ]
@@ -80,12 +80,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:48 AM",
-    "sunset": "09:39 PM",
+    "sunrise": "04:49 AM",
+    "sunset": "09:38 PM",
     "moon_phase": "Waning Gibbous",
-    "moon_illumination": "86",
-    "moonrise": "11:40 PM",
-    "moonset": "09:30 AM"
+    "moon_illumination": "78",
+    "moonrise": "11:49 PM",
+    "moonset": "10:47 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"Well, it's a lovely 17 degrees outside, perfect for a curry, but knowing our luck, NASA's probably cooking up a scheme to isolate us in here for a year!\""
+  "crew_quote": "\"Well, at least it's a nice day for a curry, even if the weather's as overcast as my love life!\""
 }
