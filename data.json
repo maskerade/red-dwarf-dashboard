@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T16:32:43.502598+00:00",
+  "timestamp": "2026-07-05T17:03:45.183399+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 25.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 22.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-05",
@@ -94,5 +94,5 @@
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year"
   ],
-  "crew_quote": "\"21 degrees and partly cloudy? Perfect weather for a curry! Just as long as we don't end up with a bank robbery happening while I'm frying the bhajis!\""
+  "crew_quote": "\"Ah, lovely weather for a curry, wouldn’t you say? Just enough cloud cover to keep the sun from ruining my takeout!\""
 }
