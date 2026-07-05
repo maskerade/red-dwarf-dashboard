@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T09:46:05.803829+00:00",
+  "timestamp": "2026-07-05T10:17:20.423095+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -24,35 +24,11 @@
       "conditions": null
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Overcast",
-      "forecast": [
-        {
-          "date": "2026-07-05",
-          "max": 21.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-06",
-          "max": 21.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-07",
-          "max": 21.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:55 AM",
-    "sunset": "09:44 PM",
-    "moon_phase": "Waning Gibbous",
-    "moon_illumination": "78",
-    "moonrise": "11:55 PM",
-    "moonset": "10:54 AM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
@@ -60,5 +36,5 @@
     "David Potter, the man who put Psion in the palm of your hand, logs off at 82",
     "Amazon Leo constellation nears 400 satellites as broadband launch looms"
   ],
-  "crew_quote": "\"17 degrees and overcast? Perfect curry weather! Let’s not worry about confidential computing; I’ve got the secret sauce right here!\""
+  "crew_quote": "\"Right, so we're stuck in here with nothing but bad news and no curry? Brilliant! At least I’ll have time to perfect my ultimate chip butty recipe!\""
 }
