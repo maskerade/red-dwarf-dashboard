@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T08:37:02.761155+00:00",
+  "timestamp": "2026-07-06T09:08:04.754309+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Sunny",
+      "temp": 23.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -47,8 +47,8 @@
         },
         {
           "date": "2026-07-07",
-          "max": 26.0,
-          "min": 15.0
+          "max": 29.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-08",
@@ -94,5 +94,5 @@
     "Japan’s asteroid sample retriever rapidly buzzes remote space rock",
     "Zombie ‘who owns Unix?’ lawsuit comes alive again"
   ],
-  "crew_quote": "\"Blimey, it's 19 degrees out, and I'm still stuck on this ship! A good curry would do wonders right now, or maybe just some sunbathing on a beach!\""
+  "crew_quote": "\"Oi, with the weather being 19 degrees and sunny, I reckon it's a perfect day for a curry on the beach — but knowing Rimmer, he'll probably have us stuck in here with his 'important' tasks!\""
 }
