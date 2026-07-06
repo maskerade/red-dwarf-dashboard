@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T04:59:59.238836+00:00",
+  "timestamp": "2026-07-06T05:31:00.577177+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Heavy Drizzle",
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -94,5 +94,5 @@
     "C programmers commit fresh crimes against readability",
     "Confidential computing's core trust mechanism is broken. The fix may not exist"
   ],
-  "crew_quote": "\"Ah, clear skies and heavy drizzle! It's like the universe is trying to decide whether to give me a sunny day or a soggy curry! I just can't catch a break!\""
+  "crew_quote": "\"Oi, can you believe it? One minute we're sweating in sunny Overseal, and the next it's foggy in Llandudno! I'm off to make a curry to spice up this gloomy weather!\""
 }
