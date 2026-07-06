@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T06:33:04.889704+00:00",
+  "timestamp": "2026-07-06T07:04:01.267796+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Fog",
+      "temp": 14.0,
+      "conditions": "Light Drizzle, Fog",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -94,5 +94,5 @@
     "C programmers commit fresh crimes against readability",
     "Confidential computing's core trust mechanism is broken. The fix may not exist"
   ],
-  "crew_quote": "\"I'm just saying, if it's foggy like Llandudno, it’s the perfect weather for a nice curry and a nap. Who needs a bank account when you can have a full belly?\""
+  "crew_quote": "\"You know, it’s a lovely day out—perfect for a nice curry, followed by a stroll in the sun. Just don’t get lost in any fog; it’s easy to trip over your own ego!\""
 }
