@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T15:52:10.140044+00:00",
+  "timestamp": "2026-07-06T16:23:10.784657+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,22 +17,22 @@
   "locations": {
     "altrincham": {
       "temp": 24.0,
-      "conditions": "Sunny",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-06",
-          "max": 22.0,
+          "max": 24.0,
           "min": 14.0
         },
         {
           "date": "2026-07-07",
-          "max": 25.0,
-          "min": 14.0
+          "max": 22.0,
+          "min": 15.0
         },
         {
           "date": "2026-07-08",
           "max": 28.0,
-          "min": 13.0
+          "min": 14.0
         }
       ]
     },
@@ -58,17 +58,17 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 17.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-06",
-          "max": 20.0,
+          "max": 21.0,
           "min": 13.0
         },
         {
           "date": "2026-07-07",
-          "max": 22.0,
+          "max": 21.0,
           "min": 13.0
         },
         {
@@ -94,5 +94,5 @@
     "Even banks and hyperscalers are now sounding the alarm about the AI bubble",
     "Brit supermarket giant triples down on facial recog to nab shoplifters"
   ],
-  "crew_quote": "\"Well, it’s a lovely 24 degrees outside — perfect weather for a curry! Just don’t ask me to cook it; last time I nearly blew up the ship!\""
+  "crew_quote": "\"Ah, 24 degrees and partly cloudy? Perfect weather for a curry and a pint, but don't forget to bring me back a bargain from Europe! I need to look fabulous on a budget.\""
 }
