@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T03:58:31.396701+00:00",
+  "timestamp": "2026-07-06T04:29:12.959626+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,12 +16,46 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 15.0,
+      "conditions": "Clear ",
+      "forecast": [
+        {
+          "date": "2026-07-06",
+          "max": 23.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-07",
+          "max": 22.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-08",
+          "max": 28.0,
+          "min": 13.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 18.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-07-06",
+          "max": 28.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-07",
+          "max": 26.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-08",
+          "max": 31.0,
+          "min": 14.0
+        }
+      ]
     },
     "llandudno": {
       "temp": 15.0,
@@ -46,19 +80,19 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:56 AM",
-    "sunset": "09:44 PM",
+    "sunrise": "04:50 AM",
+    "sunset": "09:38 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "69",
-    "moonrise": "No moonrise",
-    "moonset": "12:12 PM"
+    "moonrise": "11:58 PM",
+    "moonset": "12:05 PM"
   },
   "metrolink": null,
   "headlines": [
+    "EY sacks staff for allegedly accessing Australian Prime Minister’s bank account",
     "MFA-optional banks leave safe doors (and accounts) wide open for thieves to pillage",
     "C programmers commit fresh crimes against readability",
-    "Confidential computing's core trust mechanism is broken. The fix may not exist",
-    "NASA says it will isolate volunteers from the outside world for a year"
+    "Confidential computing's core trust mechanism is broken. The fix may not exist"
   ],
-  "crew_quote": "\"Looks like it's a proper miserable day outside, but at least it’s perfect curry weather! Just don’t leave the bank door open while you’re at it, eh?\""
+  "crew_quote": "\"With a temperature of 15°C, it's perfect curry weather! Just don't get caught in Llandudno's drizzle; that's more soggy than a wet sock after a night on the tiles!\""
 }
