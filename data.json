@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T11:12:05.896796+00:00",
+  "timestamp": "2026-07-06T11:43:03.693134+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Parftial Fog, Mist, Fog",
+      "temp": 16.0,
+      "conditions": "Fog In Vicinity, Mist, Fog",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -94,5 +94,5 @@
     "Apprentice developer defied orders – then got a job supporting her weird code",
     "Japan’s asteroid sample retriever rapidly buzzes remote space rock"
   ],
-  "crew_quote": "\"Even in Llandudno, where it’s all misty and gloomy, I still bet I could make a curry that’d shine brighter than that fog! Fancy a taste, ladies?\""
+  "crew_quote": "\"With the weather being all sunny and misty, it’s a perfect day for a curry, innit? Nothing like a bit of spice to brighten up the fog!\""
 }
