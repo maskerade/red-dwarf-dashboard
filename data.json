@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T16:54:11.172016+00:00",
+  "timestamp": "2026-07-06T17:25:13.087155+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 27.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Even banks and hyperscalers are now sounding the alarm about the AI bubble",
     "Brit supermarket giant triples down on facial recog to nab shoplifters"
   ],
-  "crew_quote": "\"24 degrees, partly cloudy? Well, that's just lovely! Perfect weather for a curry in the canteen — if only we had a canteen!\""
+  "crew_quote": "\"Well, with it 25 degrees and sunny outside, I reckon even the curry's sweating! I guess we’ll just have to tan and dine!\""
 }
