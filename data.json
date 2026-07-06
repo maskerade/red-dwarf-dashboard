@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T21:34:14.656520+00:00",
+  "timestamp": "2026-07-06T22:05:15.721405+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
+      "temp": 22.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -52,8 +52,8 @@
         },
         {
           "date": "2026-07-08",
-          "max": 31.0,
-          "min": 14.0
+          "max": 30.0,
+          "min": 15.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "Madlad builds homebrew GPU using 8,192 RISC-V chips",
     "GitHub cuts short offer to burn repos on CD after mockery ensues"
   ],
-  "crew_quote": "\"Did you see the weather in Altrincham? Perfectly cloudy for a nice curry — not too hot, not too cold, just right for a proper feed and a bit of a snooze!\""
+  "crew_quote": "\"Blimey, in Llandudno it’s overcast and only a chilly 15 degrees! Maybe I should've brought a curry-flavored jacket instead of that silly coat!\""
 }
