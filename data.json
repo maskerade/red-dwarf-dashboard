@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T22:05:15.721405+00:00",
+  "timestamp": "2026-07-06T22:36:16.069894+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -26,7 +26,7 @@
         },
         {
           "date": "2026-07-07",
-          "max": 22.0,
+          "max": 23.0,
           "min": 15.0
         },
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Overcast",
+      "temp": 14.0,
+      "conditions": "Heavy Drizzle",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -94,5 +94,5 @@
     "Madlad builds homebrew GPU using 8,192 RISC-V chips",
     "GitHub cuts short offer to burn repos on CD after mockery ensues"
   ],
-  "crew_quote": "\"Blimey, in Llandudno it’s overcast and only a chilly 15 degrees! Maybe I should've brought a curry-flavored jacket instead of that silly coat!\""
+  "crew_quote": "\"18 degrees in Altrincham? That's practically tropical! If only my curry could get a taste of that sunshine, it might finally be able to compete with my stunning good looks!\""
 }
