@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T14:18:08.205068+00:00",
+  "timestamp": "2026-07-06T14:49:48.467189+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,50 +16,16 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-06",
-          "max": 22.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-07",
-          "max": 25.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-08",
-          "max": 28.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 28.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-06",
-          "max": 28.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-07",
-          "max": 29.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-08",
-          "max": 31.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Fog In Vicinity, Mist, Fog",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -80,12 +46,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:50 AM",
-    "sunset": "09:38 PM",
+    "sunrise": "04:56 AM",
+    "sunset": "09:44 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "69",
-    "moonrise": "11:58 PM",
-    "moonset": "12:05 PM"
+    "moonrise": "No moonrise",
+    "moonset": "12:12 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +60,5 @@
     "Insert token to continue, says AI. Yeah, about that...",
     "Apprentice developer defied orders – then got a job supporting her weird code"
   ],
-  "crew_quote": "\"Looks like it's hotter than a curry in Overseal! I mean, even the fog in Llandudno's struggling to think of something clever to say!\""
+  "crew_quote": "\"Ah, 21 degrees and partly cloudy! Perfect weather for a curry, just as long as we don't end up with a breach like that poor lot at the Bible Institute – I mean, salvation’s great, but I prefer vindaloo!\""
 }
