@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T12:14:11.185273+00:00",
+  "timestamp": "2026-07-06T12:45:12.650808+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,25 @@
       ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 27.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-07-06",
+          "max": 28.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-07",
+          "max": 29.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-08",
+          "max": 31.0,
+          "min": 14.0
+        }
+      ]
     },
     "llandudno": {
       "temp": 16.0,
@@ -72,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Moody Bible Institute breach leaves 2.3M accounts needing salvation, says cyber expert",
     "Secure Unix ancestor KSOS did type safety before Rust made it cool",
     "Insert token to continue, says AI. Yeah, about that...",
-    "Apprentice developer defied orders – then got a job supporting her weird code",
-    "Japan’s asteroid sample retriever rapidly buzzes remote space rock"
+    "Apprentice developer defied orders – then got a job supporting her weird code"
   ],
-  "crew_quote": "\"Oi, it's 18 degrees out there, perfect curry weather! Just don’t go tryin' to program an AI while it’s foggy, or you’ll end up with a robot that can’t even make a decent vindaloo!\""
+  "crew_quote": "\"A foggy day in Llandudno? Sounds like the perfect time for a curry, mate! Let's get the takeaway on speed dial before the mist tries to steal our dinner!\""
 }
