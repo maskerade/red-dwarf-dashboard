@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T00:17:54.508423+00:00",
+  "timestamp": "2026-07-06T00:48:55.475475+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "temp": 16.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year"
   ],
-  "crew_quote": "\"Seventeen degrees and partly cloudy? Perfect weather for a pint and a curry, but I’d still trust a safe door more than I trust Rimmer's cooking!\""
+  "crew_quote": "\"Did you see the weather in Overseal? Perfect curry-eating temperature! Too bad the bank’s wide open; I’d rather have a pint than watch them pillage my savings!\""
 }
