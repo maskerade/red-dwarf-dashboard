@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T03:26:42.347225+00:00",
+  "timestamp": "2026-07-06T03:58:31.396701+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -24,11 +24,35 @@
       "conditions": null
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 15.0,
+      "conditions": "Heavy Drizzle",
+      "forecast": [
+        {
+          "date": "2026-07-06",
+          "max": 21.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-07",
+          "max": 21.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-08",
+          "max": 22.0,
+          "min": 14.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "04:56 AM",
+    "sunset": "09:44 PM",
+    "moon_phase": "Waning Gibbous",
+    "moon_illumination": "69",
+    "moonrise": "No moonrise",
+    "moonset": "12:12 PM"
+  },
   "metrolink": null,
   "headlines": [
     "MFA-optional banks leave safe doors (and accounts) wide open for thieves to pillage",
@@ -36,5 +60,5 @@
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year"
   ],
-  "crew_quote": "\"Ah, the temperature's so confusing, I might as well be cooking a curry in a freezer while the banks throw open their vaults for a cheeky robbing!\""
+  "crew_quote": "\"Looks like it's a proper miserable day outside, but at least it’s perfect curry weather! Just don’t leave the bank door open while you’re at it, eh?\""
 }
