@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T20:32:14.543832+00:00",
+  "timestamp": "2026-07-06T21:03:14.678725+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
-      "conditions": "Sunny",
+      "temp": 20.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 15.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "GitHub cuts short offer to burn repos on CD after mockery ensues",
-    "EU urged to act after Pegasus infects phone of spyware inquiry MEP",
-    "Samsung floats 2028 launch for seaborne datacenter",
-    "Microsoft says the world is changing faster than it can keep up as it guts commercial, Xbox teams"
+    "Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma",
+    "Software engineers can still rake in big bucks by working for fast-growing companies",
+    "Madlad builds homebrew GPU using 8,192 RISC-V chips",
+    "GitHub cuts short offer to burn repos on CD after mockery ensues"
   ],
-  "crew_quote": "\"When it’s 23 degrees and sunny, even the curry couldn’t get any hotter! You know, if my curry ever saw a day like this, it would probably just pack its bags and go on holiday.\""
+  "crew_quote": "\"With the weather in Altrincham a sunny 20 degrees, I might actually consider crawling out from under me duvet for a curry at the chippy. It’s practically tropical, innit?\""
 }
