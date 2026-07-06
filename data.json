@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T07:35:02.741564+00:00",
+  "timestamp": "2026-07-06T08:06:02.543063+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Apprentice developer defied orders – then got a job supporting her weird code",
     "Japan’s asteroid sample retriever rapidly buzzes remote space rock",
     "Zombie ‘who owns Unix?’ lawsuit comes alive again",
-    "EY sacks staff for allegedly accessing Australian Prime Minister’s bank account",
-    "MFA-optional banks leave safe doors (and accounts) wide open for thieves to pillage"
+    "EY sacks staff for allegedly accessing Australian Prime Minister’s bank account"
   ],
-  "crew_quote": "\"Looks like it’s a lovely day in Overseal—19 degrees and sunny! Perfect weather for a curry run, unless you fancy a drizzle in Llandudno; that’s just miserable, innit?\""
+  "crew_quote": "\"What’s the point of an asteroid sample retriever when we can’t even get a decent curry in this weather? It’s like being stuck in a light drizzle of disappointment!\""
 }
