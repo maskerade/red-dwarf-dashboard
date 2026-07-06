@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T13:47:08.857238+00:00",
+  "timestamp": "2026-07-06T14:18:08.205068+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 27.0,
+      "temp": 28.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Insert token to continue, says AI. Yeah, about that...",
     "Apprentice developer defied orders – then got a job supporting her weird code"
   ],
-  "crew_quote": "\"With all this lovely sunshine, I could really go for a curry right now—just me, a plate of vindaloo, and a side of blissful ignorance!\""
+  "crew_quote": "\"Looks like it's hotter than a curry in Overseal! I mean, even the fog in Llandudno's struggling to think of something clever to say!\""
 }
