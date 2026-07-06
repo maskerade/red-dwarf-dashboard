@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T08:06:02.543063+00:00",
+  "timestamp": "2026-07-06T08:37:02.761155+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 19.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Light Drizzle, Fog",
+      "temp": 15.0,
+      "conditions": "Parftial Fog, Mist, Fog",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Insert token to continue, says AI. Yeah, about that...",
     "Apprentice developer defied orders – then got a job supporting her weird code",
     "Japan’s asteroid sample retriever rapidly buzzes remote space rock",
-    "Zombie ‘who owns Unix?’ lawsuit comes alive again",
-    "EY sacks staff for allegedly accessing Australian Prime Minister’s bank account"
+    "Zombie ‘who owns Unix?’ lawsuit comes alive again"
   ],
-  "crew_quote": "\"What’s the point of an asteroid sample retriever when we can’t even get a decent curry in this weather? It’s like being stuck in a light drizzle of disappointment!\""
+  "crew_quote": "\"Blimey, it's 19 degrees out, and I'm still stuck on this ship! A good curry would do wonders right now, or maybe just some sunbathing on a beach!\""
 }
