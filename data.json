@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T17:25:13.087155+00:00",
+  "timestamp": "2026-07-06T17:56:11.433354+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 24.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 25.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Overcast",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -94,5 +94,5 @@
     "Even banks and hyperscalers are now sounding the alarm about the AI bubble",
     "Brit supermarket giant triples down on facial recog to nab shoplifters"
   ],
-  "crew_quote": "\"Well, with it 25 degrees and sunny outside, I reckon even the curry's sweating! I guess we’ll just have to tan and dine!\""
+  "crew_quote": "\"Sunny, 25 degrees, and I'm still in here! A bloke could fry an egg on his forehead, but I'm too busy contemplating that new AI — too rich for my curry-stained wallet!\""
 }
