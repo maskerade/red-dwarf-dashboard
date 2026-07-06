@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T11:43:03.693134+00:00",
+  "timestamp": "2026-07-06T12:14:11.185273+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,25 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-06",
-          "max": 28.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-07",
-          "max": 29.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-08",
-          "max": 31.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
       "temp": 16.0,
@@ -94,5 +77,5 @@
     "Apprentice developer defied orders – then got a job supporting her weird code",
     "Japan’s asteroid sample retriever rapidly buzzes remote space rock"
   ],
-  "crew_quote": "\"With the weather being all sunny and misty, it’s a perfect day for a curry, innit? Nothing like a bit of spice to brighten up the fog!\""
+  "crew_quote": "\"Oi, it's 18 degrees out there, perfect curry weather! Just don’t go tryin' to program an AI while it’s foggy, or you’ll end up with a robot that can’t even make a decent vindaloo!\""
 }
