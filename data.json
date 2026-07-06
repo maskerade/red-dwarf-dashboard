@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T01:19:58.339720+00:00",
+  "timestamp": "2026-07-06T01:51:40.793636+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-06",
-          "max": 23.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-07",
-          "max": 23.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-08",
-          "max": 28.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-06",
-          "max": 28.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-07",
-          "max": 27.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-08",
-          "max": 30.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Overcast",
-      "forecast": [
-        {
-          "date": "2026-07-06",
-          "max": 21.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-07",
-          "max": 21.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-08",
-          "max": 22.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:50 AM",
-    "sunset": "09:38 PM",
-    "moon_phase": "Waning Gibbous",
-    "moon_illumination": "69",
-    "moonrise": "11:58 PM",
-    "moonset": "12:05 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "MFA-optional banks leave safe doors (and accounts) wide open for thieves to pillage",
@@ -94,5 +36,5 @@
     "Confidential computing's core trust mechanism is broken. The fix may not exist",
     "NASA says it will isolate volunteers from the outside world for a year"
   ],
-  "crew_quote": "\"What’s the point of clear weather when the banks are more open than my last curry take-out? At least I won't need to worry about a downpour ruining my plans!\""
+  "crew_quote": "\"Well, with the banks leaving their doors wide open, maybe we should just  steal some hot curry while we’re at it—couldn’t be worse than the last meal I had!\""
 }
