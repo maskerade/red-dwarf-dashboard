@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T09:08:04.754309+00:00",
+  "timestamp": "2026-07-06T09:39:04.881606+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Secure Unix ancestor KSOS did type safety before Rust made it cool",
     "Insert token to continue, says AI. Yeah, about that...",
     "Apprentice developer defied orders – then got a job supporting her weird code",
-    "Japan’s asteroid sample retriever rapidly buzzes remote space rock",
-    "Zombie ‘who owns Unix?’ lawsuit comes alive again"
+    "Japan’s asteroid sample retriever rapidly buzzes remote space rock"
   ],
-  "crew_quote": "\"Oi, with the weather being 19 degrees and sunny, I reckon it's a perfect day for a curry on the beach — but knowing Rimmer, he'll probably have us stuck in here with his 'important' tasks!\""
+  "crew_quote": "\"19 degrees and sunny in Altrincham? That's just lovely! I’d make a mint selling curry ice cream outside—kicking fog and mist to the curb, mate!\""
 }
