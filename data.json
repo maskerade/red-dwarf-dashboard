@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T10:10:12.051655+00:00",
+  "timestamp": "2026-07-06T10:41:05.461985+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 25.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -94,5 +94,5 @@
     "Apprentice developer defied orders – then got a job supporting her weird code",
     "Japan’s asteroid sample retriever rapidly buzzes remote space rock"
   ],
-  "crew_quote": "\"Ah, a lovely 22 degrees in Altrincham! Perfect curry weather, if only we could cook it without setting off the fire alarms again!\""
+  "crew_quote": "\"Blimey, in Altrincham it’s sunny and 22 degrees! Perfect weather for a nice curry... if only we had some power to cook it!\""
 }
