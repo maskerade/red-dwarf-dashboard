@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T07:04:01.267796+00:00",
+  "timestamp": "2026-07-06T07:35:02.741564+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Japan’s asteroid sample retriever rapidly buzzes remote space rock",
+    "Zombie ‘who owns Unix?’ lawsuit comes alive again",
     "EY sacks staff for allegedly accessing Australian Prime Minister’s bank account",
-    "MFA-optional banks leave safe doors (and accounts) wide open for thieves to pillage",
-    "C programmers commit fresh crimes against readability",
-    "Confidential computing's core trust mechanism is broken. The fix may not exist"
+    "MFA-optional banks leave safe doors (and accounts) wide open for thieves to pillage"
   ],
-  "crew_quote": "\"You know, it’s a lovely day out—perfect for a nice curry, followed by a stroll in the sun. Just don’t get lost in any fog; it’s easy to trip over your own ego!\""
+  "crew_quote": "\"Looks like it’s a lovely day in Overseal—19 degrees and sunny! Perfect weather for a curry run, unless you fancy a drizzle in Llandudno; that’s just miserable, innit?\""
 }
