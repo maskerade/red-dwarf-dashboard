@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T12:45:12.650808+00:00",
+  "timestamp": "2026-07-06T13:16:07.568014+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Partly cloudy",
+      "temp": 20.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-06",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Fog In Vicinity, Mist, Fog",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Insert token to continue, says AI. Yeah, about that...",
     "Apprentice developer defied orders – then got a job supporting her weird code"
   ],
-  "crew_quote": "\"A foggy day in Llandudno? Sounds like the perfect time for a curry, mate! Let's get the takeaway on speed dial before the mist tries to steal our dinner!\""
+  "crew_quote": "\"With weather like this, I’d gladly trade a foggy Llandudno for a sunny curry in Altrincham—at least I can count on that for warmth and a decent pint!\""
 }
