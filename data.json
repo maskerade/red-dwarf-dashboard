@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T09:39:04.881606+00:00",
+  "timestamp": "2026-07-06T10:10:12.051655+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,18 +16,18 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-06",
-          "max": 23.0,
+          "max": 22.0,
           "min": 14.0
         },
         {
           "date": "2026-07-07",
-          "max": 22.0,
-          "min": 15.0
+          "max": 25.0,
+          "min": 14.0
         },
         {
           "date": "2026-07-08",
@@ -58,17 +58,17 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Parftial Fog, Mist, Fog",
       "forecast": [
         {
           "date": "2026-07-06",
-          "max": 21.0,
+          "max": 20.0,
           "min": 13.0
         },
         {
           "date": "2026-07-07",
-          "max": 21.0,
+          "max": 22.0,
           "min": 13.0
         },
         {
@@ -94,5 +94,5 @@
     "Apprentice developer defied orders – then got a job supporting her weird code",
     "Japan’s asteroid sample retriever rapidly buzzes remote space rock"
   ],
-  "crew_quote": "\"19 degrees and sunny in Altrincham? That's just lovely! I’d make a mint selling curry ice cream outside—kicking fog and mist to the curb, mate!\""
+  "crew_quote": "\"Ah, a lovely 22 degrees in Altrincham! Perfect curry weather, if only we could cook it without setting off the fire alarms again!\""
 }
