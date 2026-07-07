@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T23:25:40.294027+00:00",
+  "timestamp": "2026-07-07T23:56:40.074470+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-07",
-          "max": 23.0,
-          "min": 15.0
-        },
         {
           "date": "2026-07-08",
           "max": 29.0,
@@ -32,6 +27,11 @@
         {
           "date": "2026-07-09",
           "max": 29.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-10",
+          "max": 32.0,
           "min": 15.0
         }
       ]
@@ -62,11 +62,6 @@
       "conditions": "Clear ",
       "forecast": [
         {
-          "date": "2026-07-07",
-          "max": 21.0,
-          "min": 13.0
-        },
-        {
           "date": "2026-07-08",
           "max": 22.0,
           "min": 14.0
@@ -75,17 +70,22 @@
           "date": "2026-07-09",
           "max": 21.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-07-10",
+          "max": 23.0,
+          "min": 13.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "04:51 AM",
-    "sunset": "09:37 PM",
-    "moon_phase": "Last Quarter",
-    "moon_illumination": "59",
-    "moonrise": "No moonrise",
-    "moonset": "01:26 PM"
+    "sunrise": "04:52 AM",
+    "sunset": "09:36 PM",
+    "moon_phase": "Waning Crescent",
+    "moon_illumination": "48",
+    "moonrise": "12:08 AM",
+    "moonset": "02:51 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "GitHub AI agent leaks private repos when asked nicely",
     "South Korean chip startup FuriosaAI invades European datacenters"
   ],
-  "crew_quote": "\"They say it’s 19 degrees and clear out there—perfect weather for a curry run! Just as long as I don’t run into any of those Windows spies; they can shove their anti-piracy where the sun don’t shine!\""
+  "crew_quote": "\"A lovely 17 degrees and clear skies, just perfect for a nice curry and a quick snooze; not that I'd expect anything less from our weather, is it?\""
 }
