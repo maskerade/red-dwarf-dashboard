@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T12:34:29.499110+00:00",
+  "timestamp": "2026-07-07T13:05:30.298045+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Partly cloudy",
+      "temp": 22.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Enterprise AI still smarting from leaping before looking",
+    "DRAM prices are killing the cheap smartphone",
     "Fake IT bods on Microsoft Teams coax workers into installing malware",
-    "Spain collars alleged pro-Russia hacktivist after FBI tip-off",
-    "Government's cyber pledge lands 60 signatories, including M&S and, somehow, Capita",
-    "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold"
+    "Spain collars alleged pro-Russia hacktivist after FBI tip-off"
   ],
-  "crew_quote": "\"20 degrees and partly cloudy? That's practically a tropical heatwave for us! I'm feeling adventurous, how about a curry picnic in the starboard corridor?\""
+  "crew_quote": "\"Look at this weather, it's cloudier than my brain after a particularly bad curry—24 degrees and still no sign of a proper meal! Talk about a disaster!\""
 }
