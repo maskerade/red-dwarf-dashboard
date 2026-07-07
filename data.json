@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T22:23:38.749243+00:00",
+  "timestamp": "2026-07-07T22:54:38.946483+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "South Korean chip startup FuriosaAI invades European datacenters",
     "CAI cloud worm gives competitors' malware the boot, then steals secrets and mines for coin"
   ],
-  "crew_quote": "\"19 degrees and clear skies? That's perfect curry weather! Just don’t ask me to cook — I might just end up heating up a tin of baked beans instead!\""
+  "crew_quote": "\"19 degrees and clear skies? It's almost as if the universe is trying to impress us—like trying to cook a perfect curry with the lid off!\""
 }
