@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T21:52:37.793240+00:00",
+  "timestamp": "2026-07-07T22:23:38.749243+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -31,8 +31,8 @@
         },
         {
           "date": "2026-07-09",
-          "max": 28.0,
-          "min": 14.0
+          "max": 29.0,
+          "min": 15.0
         }
       ]
     },
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 16.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-07-09",
-          "max": 20.0,
+          "max": 21.0,
           "min": 13.0
         }
       ]
@@ -94,5 +94,5 @@
     "South Korean chip startup FuriosaAI invades European datacenters",
     "CAI cloud worm gives competitors' malware the boot, then steals secrets and mines for coin"
   ],
-  "crew_quote": "\"20 degrees, sunny skies—perfect for a curry and a pint! Just remember, don't leave the AI in charge of the takeaway or we'll end up with a side of mood swings!\""
+  "crew_quote": "\"19 degrees and clear skies? That's perfect curry weather! Just don’t ask me to cook — I might just end up heating up a tin of baked beans instead!\""
 }
