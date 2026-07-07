@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T10:29:27.732319+00:00",
+  "timestamp": "2026-07-07T11:01:17.923595+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,83 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Partly cloudy",
-      "forecast": [
-        {
-          "date": "2026-07-07",
-          "max": 23.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-08",
-          "max": 28.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-09",
-          "max": 29.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-07",
-          "max": 26.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-08",
-          "max": 30.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-09",
-          "max": 31.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
-      "forecast": [
-        {
-          "date": "2026-07-07",
-          "max": 21.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-08",
-          "max": 22.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-09",
-          "max": 21.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:51 AM",
-    "sunset": "09:37 PM",
-    "moon_phase": "Last Quarter",
-    "moon_illumination": "59",
-    "moonrise": "No moonrise",
-    "moonset": "01:26 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "Spain collars alleged pro-Russia hacktivist after FBI tip-off",
     "Government's cyber pledge lands 60 signatories, including M&S and, somehow, Capita",
     "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold",
-    "Northern Ireland tries (again) to expel Capita from schools IT contract",
-    "UK guts planning red tape so datacenters can bypass the neighbors faster"
+    "Northern Ireland tries (again) to expel Capita from schools IT contract"
   ],
-  "crew_quote": "\"With all these techy signatories, I reckon the government should just promise everyone a good curry at 20 degrees—nothing like a bit of spice to sort out the cold!\""
+  "crew_quote": "\"With no weather, no power, and the only excitement being some hacktivist getting collared, I reckon a good curry and a nap might actually be the highlight of my day!\""
 }
