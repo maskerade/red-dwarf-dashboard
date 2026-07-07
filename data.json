@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T09:27:26.695759+00:00",
+  "timestamp": "2026-07-07T09:58:28.052521+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold",
     "Northern Ireland tries (again) to expel Capita from schools IT contract",
     "UK guts planning red tape so datacenters can bypass the neighbors faster",
-    "Brussels shows how to remove friction from collaboration",
-    "Broadcom and Apple extend custom silicon pact to 2031"
+    "Brussels shows how to remove friction from collaboration"
   ],
-  "crew_quote": "\"Partly cloudy, eh? Just like my love life—always something hanging over me. Still, it’s curry night, so who cares!?\""
+  "crew_quote": "\"I'm just saying, it's a lovely 18 degrees out there—perfect for a curry picnic! Just as long as no one spills it on my shirt, or I'll need tech sovereignty over my wardrobe!\""
 }
