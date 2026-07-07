@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T17:44:30.273553+00:00",
+  "timestamp": "2026-07-07T18:15:32.923904+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Put all your data and AI to work and get it out of silos and lakehouses",
-    "Microsoft flips Windows Backup to on by default unless you're in the EU",
-    "Enterprise AI still smarting from leaping before looking",
-    "DRAM prices are killing the cheap smartphone"
+    "South Korean chip startup FuriosaAI invades European datacenters",
+    "CAI cloud worm gives competitors' malware the boot, then steals secrets and mines for coin",
+    "NASA calls time on CAPSTONE after four years of lunar orbit lessons",
+    "New tool gives CLIs a warm and GUI feeling instead"
   ],
-  "crew_quote": "\"With the weather being 22 degrees, it's a perfect day for a curry — or a dive into the nearest lakehouse, though I’m not sure that’s what they mean by 'cloudy'!\""
+  "crew_quote": "\"Did you see the weather in Overseal? 26 degrees and sunny—perfect curry temperature! You can't beat a good balti on a day like this!\""
 }
