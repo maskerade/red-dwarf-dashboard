@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T18:46:32.887344+00:00",
+  "timestamp": "2026-07-07T19:17:35.546561+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Partly cloudy",
+      "temp": 21.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -94,5 +94,5 @@
     "NASA calls time on CAPSTONE after four years of lunar orbit lessons",
     "New tool gives CLIs a warm and GUI feeling instead"
   ],
-  "crew_quote": "\"Ah, 26 degrees in Overseal? Perfect for a curry on the beach, just don't let the chip startup have a go at my secret recipe or I’ll need my own datacenter!\""
+  "crew_quote": "\"Ah, it’s a lovely 21 degrees out there! Perfect weather for a curry — just gotta remember not to spill it on my best shirt, unlike that chip startup invading the datacenters!\""
 }
