@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T12:03:29.492742+00:00",
+  "timestamp": "2026-07-07T12:34:29.499110+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Fake IT bods on Microsoft Teams coax workers into installing malware",
     "Spain collars alleged pro-Russia hacktivist after FBI tip-off",
     "Government's cyber pledge lands 60 signatories, including M&S and, somehow, Capita",
-    "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold",
-    "Northern Ireland tries (again) to expel Capita from schools IT contract"
+    "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold"
   ],
-  "crew_quote": "\"Did you see that? It’s almost 24°C in Overseal! Perfect weather for a curry, but knowing my luck, it’ll probably rain like it always does.\""
+  "crew_quote": "\"20 degrees and partly cloudy? That's practically a tropical heatwave for us! I'm feeling adventurous, how about a curry picnic in the starboard corridor?\""
 }
