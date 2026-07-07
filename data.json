@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T08:56:34.689153+00:00",
+  "timestamp": "2026-07-07T09:27:26.695759+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-07-08",
-          "max": 21.0,
+          "max": 22.0,
           "min": 14.0
         },
         {
           "date": "2026-07-09",
           "max": 21.0,
-          "min": 13.0
+          "min": 14.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Northern Ireland tries (again) to expel Capita from schools IT contract",
     "UK guts planning red tape so datacenters can bypass the neighbors faster",
     "Brussels shows how to remove friction from collaboration",
-    "Broadcom and Apple extend custom silicon pact to 2031",
-    "Samsung’s profits jump 19x in a year and you don’t need AI to figure out why"
+    "Broadcom and Apple extend custom silicon pact to 2031"
   ],
-  "crew_quote": "\"Did you hear? They're cutting the red tape for datacenters! Brilliant! I mean, who doesn't love a little speed, especially when it's partly cloudy and you're craving a curry!\""
+  "crew_quote": "\"Partly cloudy, eh? Just like my love life—always something hanging over me. Still, it’s curry night, so who cares!?\""
 }
