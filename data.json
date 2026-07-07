@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T08:25:26.755743+00:00",
+  "timestamp": "2026-07-07T08:56:34.689153+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,18 +37,18 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-07",
           "max": 26.0,
-          "min": 15.0
+          "min": 14.0
         },
         {
           "date": "2026-07-08",
           "max": 30.0,
-          "min": 15.0
+          "min": 14.0
         },
         {
           "date": "2026-07-09",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "UK guts planning red tape so datacenters can bypass the neighbors faster",
     "Brussels shows how to remove friction from collaboration",
     "Broadcom and Apple extend custom silicon pact to 2031",
-    "Samsung’s profits jump 19x in a year and you don’t need AI to figure out why",
-    "IBM teases new rackable mainframes that ‘complete’ the z17 family"
+    "Samsung’s profits jump 19x in a year and you don’t need AI to figure out why"
   ],
-  "crew_quote": "\"17 degrees and partly cloudy? Perfect curry weather! Just need to find out where I left my last takeaway... oh wait, I think it left me first!\""
+  "crew_quote": "\"Did you hear? They're cutting the red tape for datacenters! Brilliant! I mean, who doesn't love a little speed, especially when it's partly cloudy and you're craving a curry!\""
 }
