@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T02:44:17.758618+00:00",
+  "timestamp": "2026-07-07T03:15:19.918983+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Clear ",
+      "temp": 14.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -31,7 +31,7 @@
         },
         {
           "date": "2026-07-09",
-          "max": 28.0,
+          "max": 29.0,
           "min": 15.0
         }
       ]
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-07-08",
-          "max": 22.0,
+          "max": 21.0,
           "min": 14.0
         },
         {
           "date": "2026-07-09",
           "max": 21.0,
-          "min": 14.0
+          "min": 13.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Software engineers can still rake in big bucks by working for fast-growing companies",
     "Madlad builds homebrew GPU using 8,192 RISC-V chips"
   ],
-  "crew_quote": "\"Ah, lovely weather today! Perfect for a nice curry, but only if we can figure out how to pay the rent on that $19 billion lease—who knew space was this expensive?\""
+  "crew_quote": "\"You know, with it being 19 degrees in Overseal, I reckon we could have a curry picnic outside—just as long as the quantum boffins don’t decide to rain on our parade!\""
 }
