@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T07:54:25.103611+00:00",
+  "timestamp": "2026-07-07T08:25:26.755743+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Brussels shows how to remove friction from collaboration",
     "Broadcom and Apple extend custom silicon pact to 2031",
     "Samsung’s profits jump 19x in a year and you don’t need AI to figure out why",
-    "IBM teases new rackable mainframes that ‘complete’ the z17 family",
-    "AI startup that’s never turned a profit say's it'll totally be around in 2047 to close its $19B lease"
+    "IBM teases new rackable mainframes that ‘complete’ the z17 family"
   ],
-  "crew_quote": "\"Well, with a temperature of 17 degrees and the weather being partly cloudy, I’d say it’s a perfect day for a curry — or maybe just a cheeky pint!\""
+  "crew_quote": "\"17 degrees and partly cloudy? Perfect curry weather! Just need to find out where I left my last takeaway... oh wait, I think it left me first!\""
 }
