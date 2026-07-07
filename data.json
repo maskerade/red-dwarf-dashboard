@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T18:15:32.923904+00:00",
+  "timestamp": "2026-07-07T18:46:32.887344+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "NASA calls time on CAPSTONE after four years of lunar orbit lessons",
     "New tool gives CLIs a warm and GUI feeling instead"
   ],
-  "crew_quote": "\"Did you see the weather in Overseal? 26 degrees and sunny—perfect curry temperature! You can't beat a good balti on a day like this!\""
+  "crew_quote": "\"Ah, 26 degrees in Overseal? Perfect for a curry on the beach, just don't let the chip startup have a go at my secret recipe or I’ll need my own datacenter!\""
 }
