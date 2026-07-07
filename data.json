@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T15:40:28.524249+00:00",
+  "timestamp": "2026-07-07T16:11:29.238983+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -26,13 +26,13 @@
         },
         {
           "date": "2026-07-08",
-          "max": 28.0,
+          "max": 29.0,
           "min": 14.0
         },
         {
           "date": "2026-07-09",
-          "max": 29.0,
-          "min": 15.0
+          "max": 28.0,
+          "min": 14.0
         }
       ]
     },
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-07-09",
-          "max": 21.0,
-          "min": 14.0
+          "max": 20.0,
+          "min": 13.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Enterprise AI still smarting from leaping before looking",
     "DRAM prices are killing the cheap smartphone"
   ],
-  "crew_quote": "\"With weather hotter than a vindaloo, I say we flip on the air con and find a nice shady spot—because you can only sweat so much before you start to smell like a bad curry!\""
+  "crew_quote": "\"Well, if it's partly cloudy at 22 degrees, that's just perfect for a nice curry—who cares about AI in silos when there's a great meal waiting?\""
 }
