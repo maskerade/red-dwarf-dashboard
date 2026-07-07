@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T05:19:22.571713+00:00",
+  "timestamp": "2026-07-07T05:50:25.630824+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "IBM teases new rackable mainframes that ‘complete’ the z17 family",
     "AI startup that’s never turned a profit say's it'll totally be around in 2047 to close its $19B lease",
     "Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma",
-    "Software engineers can still rake in big bucks by working for fast-growing companies",
-    "Madlad builds homebrew GPU using 8,192 RISC-V chips"
+    "Software engineers can still rake in big bucks by working for fast-growing companies"
   ],
-  "crew_quote": "\"Partly cloudy and a lovely 16 degrees! Perfect curry weather, as long as we can avoid any fusion fuel explosions — which, knowing us, isn’t exactly a safe bet!\""
+  "crew_quote": "\"Oh, it’s a lovely 16 degrees out there, perfect weather for a curry and a pint—just don’t let Rimmer talk about his ‘big’ plans for IBM's mainframes while we’re at it!\""
 }
