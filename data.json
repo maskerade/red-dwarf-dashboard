@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T14:07:18.092947+00:00",
+  "timestamp": "2026-07-07T14:38:31.314797+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 22.0,
-      "conditions": "Cloudy ",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "DRAM prices are killing the cheap smartphone",
     "Fake IT bods on Microsoft Teams coax workers into installing malware"
   ],
-  "crew_quote": "\"Ah, beautiful cloudy weather! Just perfect for a nice, warm curry—though I don't fancy it getting too hot, unlike Microsoft's backup plan, which just seems a bit dodgy, doesn't it?\""
+  "crew_quote": "\"Honestly, it’s a lovely 22°C out there, just perfect for a curry-fueled adventure... but let’s not get carried away with all this cloudy nonsense!\""
 }
