@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T11:32:28.182308+00:00",
+  "timestamp": "2026-07-07T12:03:29.492742+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 24.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -94,5 +94,5 @@
     "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold",
     "Northern Ireland tries (again) to expel Capita from schools IT contract"
   ],
-  "crew_quote": "\"With it being a lovely 20 degrees out, I reckon a curry on the beach would be just the thing—unless, of course, the pro-Russian hacktivists show up to ruin my day!\""
+  "crew_quote": "\"Did you see that? It’s almost 24°C in Overseal! Perfect weather for a curry, but knowing my luck, it’ll probably rain like it always does.\""
 }
