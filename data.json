@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T02:13:18.739937+00:00",
+  "timestamp": "2026-07-07T02:44:17.758618+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,13 +37,13 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-07",
           "max": 26.0,
-          "min": 14.0
+          "min": 15.0
         },
         {
           "date": "2026-07-08",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI startup that’s never turned a profit say's it'll totally be around in 2047 to close its $19B lease",
     "Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma",
     "Software engineers can still rake in big bucks by working for fast-growing companies",
-    "Madlad builds homebrew GPU using 8,192 RISC-V chips",
-    "GitHub cuts short offer to burn repos on CD after mockery ensues"
+    "Madlad builds homebrew GPU using 8,192 RISC-V chips"
   ],
-  "crew_quote": "\"With the weather being so clear at 15°C, I could really go for a pint and a curry — but then again, Llandudno's overcast. Ah well, I suppose that's just the universe's way of balancing things!\""
+  "crew_quote": "\"Ah, lovely weather today! Perfect for a nice curry, but only if we can figure out how to pay the rent on that $19 billion lease—who knew space was this expensive?\""
 }
