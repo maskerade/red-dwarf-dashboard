@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T23:38:17.356105+00:00",
+  "timestamp": "2026-07-07T00:09:17.674786+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-06",
-          "max": 24.0,
-          "min": 14.0
-        },
         {
           "date": "2026-07-07",
           "max": 23.0,
@@ -33,6 +28,11 @@
           "date": "2026-07-08",
           "max": 28.0,
           "min": 14.0
+        },
+        {
+          "date": "2026-07-09",
+          "max": 28.0,
+          "min": 15.0
         }
       ]
     },
@@ -58,14 +58,9 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Heavy Drizzle",
       "forecast": [
-        {
-          "date": "2026-07-06",
-          "max": 21.0,
-          "min": 13.0
-        },
         {
           "date": "2026-07-07",
           "max": 21.0,
@@ -75,17 +70,22 @@
           "date": "2026-07-08",
           "max": 22.0,
           "min": 14.0
+        },
+        {
+          "date": "2026-07-09",
+          "max": 21.0,
+          "min": 14.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "04:50 AM",
-    "sunset": "09:38 PM",
-    "moon_phase": "Waning Gibbous",
-    "moon_illumination": "69",
-    "moonrise": "11:58 PM",
-    "moonset": "12:05 PM"
+    "sunrise": "04:51 AM",
+    "sunset": "09:37 PM",
+    "moon_phase": "Last Quarter",
+    "moon_illumination": "59",
+    "moonrise": "No moonrise",
+    "moonset": "01:26 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Madlad builds homebrew GPU using 8,192 RISC-V chips",
     "GitHub cuts short offer to burn repos on CD after mockery ensues"
   ],
-  "crew_quote": "\"Can you believe it? Meanwhile, in Llandudno, they’re having a heavy drizzle. I mean, I’d rather not be rained on while I’m trying to wash down my curry, thank you very much!\""
+  "crew_quote": "\"Oi, it's 21 degrees in Overseal, perfect for a curry night! Just don't ask me to wear anything fancy like the Cat; I prefer my trackies over his glitter any day!\""
 }
