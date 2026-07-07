@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T07:23:23.769289+00:00",
+  "timestamp": "2026-07-07T07:54:25.103611+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Broadcom and Apple extend custom silicon pact to 2031",
+    "Samsung’s profits jump 19x in a year and you don’t need AI to figure out why",
     "IBM teases new rackable mainframes that ‘complete’ the z17 family",
-    "AI startup that’s never turned a profit say's it'll totally be around in 2047 to close its $19B lease",
-    "Boffins bet on quantum computers, AI supers to solve fusion fuel dilemma",
-    "Software engineers can still rake in big bucks by working for fast-growing companies"
+    "AI startup that’s never turned a profit say's it'll totally be around in 2047 to close its $19B lease"
   ],
-  "crew_quote": "\"With the weather this nice, you'd think we could sit outside and enjoy a curry, but knowing Rimmer, he'd probably be stuck calculating the humidity of his own ego!\""
+  "crew_quote": "\"Well, with a temperature of 17 degrees and the weather being partly cloudy, I’d say it’s a perfect day for a curry — or maybe just a cheeky pint!\""
 }
