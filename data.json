@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T03:46:20.902902+00:00",
+  "timestamp": "2026-07-07T04:17:22.183928+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Clear ",
+      "temp": 17.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -94,5 +94,5 @@
     "Software engineers can still rake in big bucks by working for fast-growing companies",
     "Madlad builds homebrew GPU using 8,192 RISC-V chips"
   ],
-  "crew_quote": "\"Oh great, 19°C in Overseal, and I'm stuck on this tin can! I could really use a good curry and some sunshine, not another day of cloudy nonsense!\""
+  "crew_quote": "\"Well, I reckon with this lovely 14°C, it's a perfect day for a curry — too bad we’re stuck on a ship with only space fungus to eat. Cheers, universe!\""
 }
