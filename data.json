@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T01:11:18.325610+00:00",
+  "timestamp": "2026-07-07T01:42:18.982891+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 15.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Heavy Drizzle",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -94,5 +94,5 @@
     "Madlad builds homebrew GPU using 8,192 RISC-V chips",
     "GitHub cuts short offer to burn repos on CD after mockery ensues"
   ],
-  "crew_quote": "\"Weather's looking clear, not a cloud in the sky! Perfect day for a curry, unless you’re in Llandudno—then it’s just heavy drizzle and soggy chips!\""
+  "crew_quote": "\"With temperatures hitting a balmy 20°C, I reckon I could whip up a curry that'll make the sun jealous—if only I could find a frying pan on this tin can!\""
 }
