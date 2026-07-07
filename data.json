@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T13:05:30.298045+00:00",
+  "timestamp": "2026-07-07T13:36:30.565068+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 24.0,
-      "conditions": "Cloudy ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft flips Windows Backup to on by default unless you're in the EU",
     "Enterprise AI still smarting from leaping before looking",
     "DRAM prices are killing the cheap smartphone",
-    "Fake IT bods on Microsoft Teams coax workers into installing malware",
-    "Spain collars alleged pro-Russia hacktivist after FBI tip-off"
+    "Fake IT bods on Microsoft Teams coax workers into installing malware"
   ],
-  "crew_quote": "\"Look at this weather, it's cloudier than my brain after a particularly bad curry—24 degrees and still no sign of a proper meal! Talk about a disaster!\""
+  "crew_quote": "\"Blimey, 22 degrees and cloudy? Perfect curry weather! Just the right time to whip up a spicy vindaloo and pretend we’re not stuck on this tin can!\""
 }
