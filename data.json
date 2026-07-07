@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T09:58:28.052521+00:00",
+  "timestamp": "2026-07-07T10:29:27.732319+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 20.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Government's cyber pledge lands 60 signatories, including M&S and, somehow, Capita",
     "MPs tell Brit government: Sort out your tech sovereignty or get left out in the cold",
     "Northern Ireland tries (again) to expel Capita from schools IT contract",
-    "UK guts planning red tape so datacenters can bypass the neighbors faster",
-    "Brussels shows how to remove friction from collaboration"
+    "UK guts planning red tape so datacenters can bypass the neighbors faster"
   ],
-  "crew_quote": "\"I'm just saying, it's a lovely 18 degrees out there—perfect for a curry picnic! Just as long as no one spills it on my shirt, or I'll need tech sovereignty over my wardrobe!\""
+  "crew_quote": "\"With all these techy signatories, I reckon the government should just promise everyone a good curry at 20 degrees—nothing like a bit of spice to sort out the cold!\""
 }
