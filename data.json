@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T14:38:31.314797+00:00",
+  "timestamp": "2026-07-07T15:09:29.086909+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,17 +37,17 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 27.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-07",
-          "max": 26.0,
+          "max": 27.0,
           "min": 14.0
         },
         {
           "date": "2026-07-08",
-          "max": 30.0,
+          "max": 31.0,
           "min": 14.0
         },
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Put all your data and AI to work and get it out of silos and lakehouses",
     "Microsoft flips Windows Backup to on by default unless you're in the EU",
     "Enterprise AI still smarting from leaping before looking",
-    "DRAM prices are killing the cheap smartphone",
-    "Fake IT bods on Microsoft Teams coax workers into installing malware"
+    "DRAM prices are killing the cheap smartphone"
   ],
-  "crew_quote": "\"Honestly, it’s a lovely 22°C out there, just perfect for a curry-fueled adventure... but let’s not get carried away with all this cloudy nonsense!\""
+  "crew_quote": "\"Well, if it's 27 degrees in Overseal, I reckon it's the perfect time for a curry. Nothing like a bit of spice to match the weather, eh?\""
 }
