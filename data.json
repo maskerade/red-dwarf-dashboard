@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T20:50:37.410410+00:00",
+  "timestamp": "2026-07-07T21:21:37.952622+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
-      "conditions": "Sunny",
+      "temp": 20.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -52,7 +52,7 @@
         },
         {
           "date": "2026-07-09",
-          "max": 31.0,
+          "max": 32.0,
           "min": 15.0
         }
       ]
@@ -94,5 +94,5 @@
     "South Korean chip startup FuriosaAI invades European datacenters",
     "CAI cloud worm gives competitors' malware the boot, then steals secrets and mines for coin"
   ],
-  "crew_quote": "\"Blimey, it’s a lovely 20°C outside! Perfect day for a curry, or just lying in the sun like a mobile meat pie!\""
+  "crew_quote": "\"Did you see the weather today? It’s a perfect 20 degrees—ideal for a curry and a pint, but don’t ask me to open GitHub; that's just a recipe for disaster!\""
 }
