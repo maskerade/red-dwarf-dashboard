@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T16:11:29.238983+00:00",
+  "timestamp": "2026-07-07T16:42:30.222622+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 27.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 26.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-07",
@@ -94,5 +94,5 @@
     "Enterprise AI still smarting from leaping before looking",
     "DRAM prices are killing the cheap smartphone"
   ],
-  "crew_quote": "\"Well, if it's partly cloudy at 22 degrees, that's just perfect for a nice curry—who cares about AI in silos when there's a great meal waiting?\""
+  "crew_quote": "\"You know, on a day like this, 26°C and sunny, I could really go for a curry, but knowing my luck, I’ll probably end up with some stale space food instead!\""
 }
