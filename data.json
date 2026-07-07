@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T20:19:36.438344+00:00",
+  "timestamp": "2026-07-07T20:50:37.410410+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Avoid AI atrophy - new tool promises to reverse vibe coding skills decay",
+    "GitHub AI agent leaks private repos when asked nicely",
     "South Korean chip startup FuriosaAI invades European datacenters",
-    "CAI cloud worm gives competitors' malware the boot, then steals secrets and mines for coin",
-    "NASA calls time on CAPSTONE after four years of lunar orbit lessons",
-    "New tool gives CLIs a warm and GUI feeling instead"
+    "CAI cloud worm gives competitors' malware the boot, then steals secrets and mines for coin"
   ],
-  "crew_quote": "\"Well, it's a lovely 21 degrees out there, but I’d trade it for a curry any day — nothing beats a good vindaloo under the sun!\""
+  "crew_quote": "\"Blimey, it’s a lovely 20°C outside! Perfect day for a curry, or just lying in the sun like a mobile meat pie!\""
 }
