@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T04:36:42.054395+00:00",
+  "timestamp": "2026-07-08T05:07:44.466598+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Cloudy ",
+      "temp": 16.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-08",
@@ -94,5 +94,5 @@
     "GitHub AI agent leaks private repos when asked nicely",
     "South Korean chip startup FuriosaAI invades European datacenters"
   ],
-  "crew_quote": "\"Well, I must say, a sunny 15 degrees in Llandudno really sets the mood for a proper curry feast, as long as we don’t get rained on by those clouds in Overseal!\""
+  "crew_quote": "\"Blimey, 15°C and sunny! Perfect curry weather, if only we had some proper grub on board instead of this recycled space muck!\""
 }
