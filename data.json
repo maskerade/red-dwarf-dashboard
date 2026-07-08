@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T12:52:52.644130+00:00",
+  "timestamp": "2026-07-08T13:23:53.266448+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Another German state heads down the open source sovereignty road",
-    "Home Office's glitchy eVisa rollout lands UK privacy regulator in campaigners' crosshairs",
-    "NHS told to show its working on Palantir platform benefits",
-    "AI's biggest challenge is not compute - it's data storage"
+    "Ex-NASA boss points out small flaw in Moon landing plan: No lander",
+    "Unexpected Windows bloat is due to bug, not by design",
+    "Telstra outage: Failed emergency services calls, train chaos, payment systems down",
+    "Tech divorce from Walmart cost Brit retail giant Asda £1.22B"
   ],
-  "crew_quote": "\"Can you believe it? It’s hotter than a curry in Llandudno! I think I’ve melted into my chair—anybody fancy a cold one to cool down?\""
+  "crew_quote": "\"Blimey, it’s hotter than the curry I had last night! At this rate, I might have to start wearing sunblock in the ship—right after I find out why Windows is still a mess!\""
 }
