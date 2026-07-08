@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T06:09:45.739694+00:00",
+  "timestamp": "2026-07-08T06:40:45.857991+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 20.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI is becoming a bargain hunter's market, with a few luxury models on top",
     "Media Over QUIC can scale real-time streaming and carry the world's vids",
     "Microsoft intros tech that rebuilds dead PCs without requiring local copies of Windows",
-    "Windows is watching: Anti-piracy tool fingers Scattered Spider suspect",
-    "Avoid AI atrophy - new tool promises to reverse vibe coding skills decay"
+    "Windows is watching: Anti-piracy tool fingers Scattered Spider suspect"
   ],
-  "crew_quote": "\"Well, it's a lovely 17 degrees out there — perfect weather for a curry! But don’t let it distract you from our impending doom, right?\""
+  "crew_quote": "\"With Altrincham sizzling at 17 degrees, it's a perfect day for a curry! Let’s not waste it inside—unless we’re streaming something fabulous, of course!\""
 }
