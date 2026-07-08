@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T22:42:57.186620+00:00",
+  "timestamp": "2026-07-08T23:14:01.380386+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 18.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-08",
-          "max": 29.0,
-          "min": 14.0
-        },
         {
           "date": "2026-07-09",
           "max": 29.0,
@@ -33,6 +28,11 @@
           "date": "2026-07-10",
           "max": 32.0,
           "min": 15.0
+        },
+        {
+          "date": "2026-07-11",
+          "max": 29.0,
+          "min": 16.0
         }
       ]
     },
@@ -58,14 +58,9 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-08",
-          "max": 23.0,
-          "min": 14.0
-        },
         {
           "date": "2026-07-09",
           "max": 21.0,
@@ -75,24 +70,29 @@
           "date": "2026-07-10",
           "max": 23.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-07-11",
+          "max": 24.0,
+          "min": 14.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "04:52 AM",
+    "sunrise": "04:53 AM",
     "sunset": "09:36 PM",
     "moon_phase": "Waning Crescent",
-    "moon_illumination": "48",
-    "moonrise": "12:08 AM",
-    "moonset": "02:51 PM"
+    "moon_illumination": "37",
+    "moonrise": "12:21 AM",
+    "moonset": "04:21 PM"
   },
   "metrolink": null,
   "headlines": [
+    "The AI that spawned MechaHitler and deepfake porn puts on a suit to become legal advisor and Excel jockey",
+    "Suspected Chinese snoops caught breaking into universities' Roundcube mailservers",
     "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks",
-    "Former GitHub CEO launches competitor designed for the age of vibe coding",
-    "OpenAI job listing suggests ChatGPT could someday replace junior analysts at Goldman Sachs",
-    "GitHub Copilot: Sorry Dave, I can't do that harmful thing - unless you ask me in code"
+    "Former GitHub CEO launches competitor designed for the age of vibe coding"
   ],
-  "crew_quote": "\"With the weather being this clear and a toasty 22 degrees, I might just put the curry on the side and bask in the glory of my own fabulousness!\""
+  "crew_quote": "\"Blimey, it's hotter than me curry on a Friday night! But at least we won't need to worry about dodgy Chinese snoops ruining our summer vibes.\""
 }
