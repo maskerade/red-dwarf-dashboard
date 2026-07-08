@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T07:11:46.313659+00:00",
+  "timestamp": "2026-07-08T07:42:47.849401+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft intros tech that rebuilds dead PCs without requiring local copies of Windows",
     "Windows is watching: Anti-piracy tool fingers Scattered Spider suspect"
   ],
-  "crew_quote": "\"20 degrees, partly cloudy? That's perfect curry weather! You know what they say—good curry’s all about timing, just like my chance of getting rich!\""
+  "crew_quote": "\"Oi, it's a lovely 20 degrees out there! Bet I could cook a curry in the sunshine—if only I could find a luxury AI to do the washing up after!\""
 }
