@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T13:23:53.266448+00:00",
+  "timestamp": "2026-07-08T13:54:53.591750+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 26.0,
+      "temp": 28.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 20.0,
-      "conditions": "Sunny",
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-07-08",
@@ -94,5 +94,5 @@
     "Telstra outage: Failed emergency services calls, train chaos, payment systems down",
     "Tech divorce from Walmart cost Brit retail giant Asda £1.22B"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than the curry I had last night! At this rate, I might have to start wearing sunblock in the ship—right after I find out why Windows is still a mess!\""
+  "crew_quote": "\"Blimey, it’s hotter than a curry in a sauna out here! I'd rather take my chances with a foggy Llandudno than roast like a chicken on the Sun's barbecue!\""
 }
