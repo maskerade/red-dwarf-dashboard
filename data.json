@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T08:13:47.417067+00:00",
+  "timestamp": "2026-07-08T08:44:47.643392+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "NHS told to show its working on Palantir platform benefits",
     "AI's biggest challenge is not compute - it's data storage",
     "AI is becoming a bargain hunter's market, with a few luxury models on top",
-    "Media Over QUIC can scale real-time streaming and carry the world's vids",
-    "Microsoft intros tech that rebuilds dead PCs without requiring local copies of Windows"
+    "Media Over QUIC can scale real-time streaming and carry the world's vids"
   ],
-  "crew_quote": "\"With all this sunshine, I reckon we could cook a curry on the dashboard! Just don’t forget to add the last bits of data storage—can’t have an AI meltdown on a lovely day like this!\""
+  "crew_quote": "\"Ah, 20 degrees and sunny — perfect curry weather! Just don’t let Rimmer try to calculate the calories; he’ll turn it into a math problem!\""
 }
