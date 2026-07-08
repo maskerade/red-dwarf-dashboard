@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T13:54:53.591750+00:00",
+  "timestamp": "2026-07-08T14:25:56.672833+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Bug in top AI coding agents shows that Unix-era security headaches never really die",
+    "China tells devs to ditch Claude Code over 'backdoor code' fears",
     "Ex-NASA boss points out small flaw in Moon landing plan: No lander",
-    "Unexpected Windows bloat is due to bug, not by design",
-    "Telstra outage: Failed emergency services calls, train chaos, payment systems down",
-    "Tech divorce from Walmart cost Brit retail giant Asda £1.22B"
+    "Unexpected Windows bloat is due to bug, not by design"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a curry in a sauna out here! I'd rather take my chances with a foggy Llandudno than roast like a chicken on the Sun's barbecue!\""
+  "crew_quote": "\"You know it’s hot when even the fog thinks it can take a day off! I could really go for a nice curry right now, maybe with a side of cooling mist.\""
 }
