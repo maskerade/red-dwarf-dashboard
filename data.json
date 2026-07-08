@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T21:10:00.554373+00:00",
+  "timestamp": "2026-07-08T21:40:56.133683+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 24.0,
-      "conditions": "Sunny",
+      "temp": 22.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-08",
@@ -26,12 +26,12 @@
         },
         {
           "date": "2026-07-09",
-          "max": 28.0,
+          "max": 29.0,
           "min": 15.0
         },
         {
           "date": "2026-07-10",
-          "max": 33.0,
+          "max": 32.0,
           "min": 15.0
         }
       ]
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 16.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-08",
@@ -94,5 +94,5 @@
     "OpenAI job listing suggests ChatGPT could someday replace junior analysts at Goldman Sachs",
     "GitHub Copilot: Sorry Dave, I can't do that harmful thing - unless you ask me in code"
   ],
-  "crew_quote": "\"Brilliant weather for a curry, isn't it? Just as long as I don't have to share my chips with Rimmer; he's already been enough of a chip off the old block!\""
+  "crew_quote": "\"With it being a sizzling 27°C in Overseal, I reckon a nice curry would hit the spot, mate — just don’t forget to have your milkshake ready for the heat!\""
 }
