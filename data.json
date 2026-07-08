@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T05:07:44.466598+00:00",
+  "timestamp": "2026-07-08T05:38:44.783625+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft intros tech that rebuilds dead PCs without requiring local copies of Windows",
     "Windows is watching: Anti-piracy tool fingers Scattered Spider suspect",
     "Avoid AI atrophy - new tool promises to reverse vibe coding skills decay",
-    "GitHub AI agent leaks private repos when asked nicely",
-    "South Korean chip startup FuriosaAI invades European datacenters"
+    "GitHub AI agent leaks private repos when asked nicely"
   ],
-  "crew_quote": "\"Blimey, 15°C and sunny! Perfect curry weather, if only we had some proper grub on board instead of this recycled space muck!\""
+  "crew_quote": "\"With a lovely 16 degrees and sunny skies, I'm feeling as alive as a freshly rebuilt PC! Just hope it doesn’t come with any of that anti-piracy nonsense, eh?\""
 }
