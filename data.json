@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T20:07:54.586534+00:00",
+  "timestamp": "2026-07-08T20:38:59.307359+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 30.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Allstate Insurance quits Broadcom, alleges vengeful license audit on the way out",
-    "AI memory crunch takes a bite out of PC shipments",
-    "Tool promises to make lazy academics' AI-written papers sound more human",
-    "Police intercept tipsy teens after Waymo snitches for shooting Orbeez out of the car"
+    "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks",
+    "Former GitHub CEO launches competitor designed for the age of vibe coding",
+    "OpenAI job listing suggests ChatGPT could someday replace junior analysts at Goldman Sachs",
+    "GitHub Copilot: Sorry Dave, I can't do that harmful thing - unless you ask me in code"
   ],
-  "crew_quote": "\"When it’s 30 degrees outside, you know it’s the perfect time for a pint and a curry, not a vengeful license audit from some uptight insurance company!\""
+  "crew_quote": "\"Blimey, I think it's hotter than a vindaloo in here! At least the weather's nice; maybe I should take a curry to the beach instead of the ship's mess!\""
 }
