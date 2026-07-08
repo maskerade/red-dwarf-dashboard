@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T10:17:50.249129+00:00",
+  "timestamp": "2026-07-08T10:48:49.848291+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,23 +16,23 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-08",
           "max": 29.0,
-          "min": 15.0
+          "min": 14.0
         },
         {
           "date": "2026-07-09",
           "max": 28.0,
-          "min": 16.0
+          "min": 15.0
         },
         {
           "date": "2026-07-10",
-          "max": 33.0,
-          "min": 16.0
+          "max": 32.0,
+          "min": 15.0
         }
       ]
     },
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -80,8 +80,8 @@
     }
   },
   "astronomy": {
-    "sunrise": "04:51 AM",
-    "sunset": "09:37 PM",
+    "sunrise": "04:52 AM",
+    "sunset": "09:36 PM",
     "moon_phase": "Waning Crescent",
     "moon_illumination": "48",
     "moonrise": "12:08 AM",
@@ -94,5 +94,5 @@
     "NHS told to show its working on Palantir platform benefits",
     "AI's biggest challenge is not compute - it's data storage"
   ],
-  "crew_quote": "\"Ah, look at that sun! Perfect weather for a curry, innit? A bit like today’s news—glitchy and all over the place, but we can still enjoy a decent meal!\""
+  "crew_quote": "\"Sunny weather and I'm still stuck on this tin can! Bet a curry would taste better in Llandudno than up here, as long as it doesn't involve glitchy visas getting me there!\""
 }
