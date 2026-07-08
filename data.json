@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T09:15:49.743135+00:00",
+  "timestamp": "2026-07-08T09:47:03.114420+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 25.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-08",
@@ -94,5 +94,5 @@
     "AI's biggest challenge is not compute - it's data storage",
     "AI is becoming a bargain hunter's market, with a few luxury models on top"
   ],
-  "crew_quote": "\"21 degrees and sunny? Perfect weather for a curry! Just don’t ask me to get the eVisa sorted; I can barely handle a microwave.\""
+  "crew_quote": "\"I tell you, mate, it's so hot outside I could fry an egg on me head. Just imagine how many curries we could make with this sunshine!\""
 }
