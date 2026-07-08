@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T18:03:56.846404+00:00",
+  "timestamp": "2026-07-08T18:34:58.141526+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 29.0,
+      "temp": 28.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-08",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Allstate Insurance quits Broadcom, alleges vengeful license audit on the way out",
+    "AI memory crunch takes a bite out of PC shipments",
     "Tool promises to make lazy academics' AI-written papers sound more human",
-    "Police intercept tipsy teens after Waymo snitches for shooting Orbeez out of the car",
-    "Bug in top AI coding agents shows that Unix-era security headaches never really die",
-    "China tells devs to ditch Claude Code over 'backdoor code' fears"
+    "Police intercept tipsy teens after Waymo snitches for shooting Orbeez out of the car"
   ],
-  "crew_quote": "\"29 degrees and sunny? Perfect weather for a curry! Although, knowing me, it’ll probably turn into a disaster and I’ll end up with a splattered ceiling instead.\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in Altrincham! I think I'll just lounge around and let the curry sweat it out for me.\""
 }
