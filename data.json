@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T04:05:41.943903+00:00",
+  "timestamp": "2026-07-08T04:36:42.054395+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Clear ",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-08",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Clear ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-08",
@@ -94,5 +94,5 @@
     "GitHub AI agent leaks private repos when asked nicely",
     "South Korean chip startup FuriosaAI invades European datacenters"
   ],
-  "crew_quote": "\"16 degrees and clear skies? Brilliant! Just the right weather for a good curry and a binge-watch of anything but this blasted anti-piracy nonsense!\""
+  "crew_quote": "\"Well, I must say, a sunny 15 degrees in Llandudno really sets the mood for a proper curry feast, as long as we don’t get rained on by those clouds in Overseal!\""
 }
