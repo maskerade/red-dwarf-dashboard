@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T16:29:51.604406+00:00",
+  "timestamp": "2026-07-08T17:01:37.026648+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,50 +16,16 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 29.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-08",
-          "max": 29.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-09",
-          "max": 28.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-10",
-          "max": 32.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 30.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-08",
-          "max": 32.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-09",
-          "max": 32.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-07-10",
-          "max": 34.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Fog",
+      "temp": 19.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-08",
@@ -74,18 +40,18 @@
         {
           "date": "2026-07-10",
           "max": 23.0,
-          "min": 14.0
+          "min": 13.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "04:52 AM",
-    "sunset": "09:36 PM",
+    "sunrise": "04:58 AM",
+    "sunset": "09:42 PM",
     "moon_phase": "Waning Crescent",
     "moon_illumination": "48",
-    "moonrise": "12:08 AM",
-    "moonset": "02:51 PM"
+    "moonrise": "12:15 AM",
+    "moonset": "02:58 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +60,5 @@
     "Bug in top AI coding agents shows that Unix-era security headaches never really die",
     "China tells devs to ditch Claude Code over 'backdoor code' fears"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! I’d rather take my chances with the Orbeez than face this sun without a pint.\""
+  "crew_quote": "\"19 degrees and sunny in Llandudno? Perfect weather for a curry. Just don’t let the Waymo snitch on my takeaway run!\""
 }
