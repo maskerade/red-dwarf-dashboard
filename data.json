@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T17:32:56.895651+00:00",
+  "timestamp": "2026-07-08T18:03:56.846404+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Bug in top AI coding agents shows that Unix-era security headaches never really die",
     "China tells devs to ditch Claude Code over 'backdoor code' fears"
   ],
-  "crew_quote": "\"Oh, it’s 30 degrees and sunny? Perfect weather for a pint and a curry! Just wish I could remember where I left my last pint.\""
+  "crew_quote": "\"29 degrees and sunny? Perfect weather for a curry! Although, knowing me, it’ll probably turn into a disaster and I’ll end up with a splattered ceiling instead.\""
 }
