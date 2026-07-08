@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T02:32:42.601198+00:00",
+  "timestamp": "2026-07-08T03:03:42.729572+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -26,7 +26,7 @@
         },
         {
           "date": "2026-07-09",
-          "max": 29.0,
+          "max": 28.0,
           "min": 15.0
         },
         {
@@ -63,7 +63,7 @@
       "forecast": [
         {
           "date": "2026-07-08",
-          "max": 22.0,
+          "max": 23.0,
           "min": 14.0
         },
         {
@@ -74,7 +74,7 @@
         {
           "date": "2026-07-10",
           "max": 23.0,
-          "min": 13.0
+          "min": 14.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "GitHub AI agent leaks private repos when asked nicely",
     "South Korean chip startup FuriosaAI invades European datacenters"
   ],
-  "crew_quote": "\"Well, with the weather so nice at 17 degrees, I reckon I could enjoy a curry outside—provided the hologram of my last meal doesn't start judging my choice of spice!\""
+  "crew_quote": "\"Sixteen degrees and clear skies, just perfect for a cup of curry — or a quick chat with Windows about my splendid vibe coding skills, which are definitely not decaying, thank you very much!\""
 }
