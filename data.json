@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T05:38:44.783625+00:00",
+  "timestamp": "2026-07-08T06:09:45.739694+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Media Over QUIC can scale real-time streaming and carry the world's vids",
     "Microsoft intros tech that rebuilds dead PCs without requiring local copies of Windows",
     "Windows is watching: Anti-piracy tool fingers Scattered Spider suspect",
-    "Avoid AI atrophy - new tool promises to reverse vibe coding skills decay",
-    "GitHub AI agent leaks private repos when asked nicely"
+    "Avoid AI atrophy - new tool promises to reverse vibe coding skills decay"
   ],
-  "crew_quote": "\"With a lovely 16 degrees and sunny skies, I'm feeling as alive as a freshly rebuilt PC! Just hope it doesn’t come with any of that anti-piracy nonsense, eh?\""
+  "crew_quote": "\"Well, it's a lovely 17 degrees out there — perfect weather for a curry! But don’t let it distract you from our impending doom, right?\""
 }
