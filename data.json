@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T23:14:01.380386+00:00",
+  "timestamp": "2026-07-08T23:45:02.415659+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -41,11 +41,6 @@
       "conditions": "Clear ",
       "forecast": [
         {
-          "date": "2026-07-08",
-          "max": 31.0,
-          "min": 14.0
-        },
-        {
           "date": "2026-07-09",
           "max": 32.0,
           "min": 16.0
@@ -53,6 +48,11 @@
         {
           "date": "2026-07-10",
           "max": 34.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-11",
+          "max": 30.0,
           "min": 15.0
         }
       ]
@@ -94,5 +94,5 @@
     "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks",
     "Former GitHub CEO launches competitor designed for the age of vibe coding"
   ],
-  "crew_quote": "\"Blimey, it's hotter than me curry on a Friday night! But at least we won't need to worry about dodgy Chinese snoops ruining our summer vibes.\""
+  "crew_quote": "\"Clear skies and only 18°C? Perfect weather for a curry run! Just don't ask me to cook, my culinary skills are more 'brain in a jar' than 'chef extraordinaire'!\""
 }
