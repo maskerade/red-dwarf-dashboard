@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T19:36:54.925342+00:00",
+  "timestamp": "2026-07-08T20:07:54.586534+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 28.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 17.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-08",
@@ -94,5 +94,5 @@
     "Tool promises to make lazy academics' AI-written papers sound more human",
     "Police intercept tipsy teens after Waymo snitches for shooting Orbeez out of the car"
   ],
-  "crew_quote": "\"Blimey, 30 degrees and still no curry in sight! If this weather keeps up, I’ll have to start cooking on the dashboard!\""
+  "crew_quote": "\"When it’s 30 degrees outside, you know it’s the perfect time for a pint and a curry, not a vengeful license audit from some uptight insurance company!\""
 }
