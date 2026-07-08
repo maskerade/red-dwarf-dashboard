@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T09:47:03.114420+00:00",
+  "timestamp": "2026-07-08T10:17:50.249129+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Another German state heads down the open source sovereignty road",
     "Home Office's glitchy eVisa rollout lands UK privacy regulator in campaigners' crosshairs",
     "NHS told to show its working on Palantir platform benefits",
-    "AI's biggest challenge is not compute - it's data storage",
-    "AI is becoming a bargain hunter's market, with a few luxury models on top"
+    "AI's biggest challenge is not compute - it's data storage"
   ],
-  "crew_quote": "\"I tell you, mate, it's so hot outside I could fry an egg on me head. Just imagine how many curries we could make with this sunshine!\""
+  "crew_quote": "\"Ah, look at that sun! Perfect weather for a curry, innit? A bit like today’s news—glitchy and all over the place, but we can still enjoy a decent meal!\""
 }
