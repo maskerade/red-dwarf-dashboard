@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T01:29:41.238299+00:00",
+  "timestamp": "2026-07-08T02:01:27.330272+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-08",
-          "max": 29.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-09",
-          "max": 29.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-10",
-          "max": 32.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-08",
-          "max": 31.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-09",
-          "max": 32.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-10",
-          "max": 34.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-08",
-          "max": 22.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-09",
-          "max": 21.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-10",
-          "max": 23.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:52 AM",
-    "sunset": "09:36 PM",
-    "moon_phase": "Waning Crescent",
-    "moon_illumination": "48",
-    "moonrise": "12:08 AM",
-    "moonset": "02:51 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "Windows is watching: Anti-piracy tool fingers Scattered Spider suspect",
@@ -94,5 +36,5 @@
     "GitHub AI agent leaks private repos when asked nicely",
     "South Korean chip startup FuriosaAI invades European datacenters"
   ],
-  "crew_quote": "\"Oi, with the weather being a lovely 17 degrees, I'm feeling inspired—who's up for a curry on the beach? It's not like we get this kind of clear skies often!\""
+  "crew_quote": "\"With no weather and nothing to do, it's a perfect day for a curry—though I suppose Windows is keeping an eye on my cooking skills too, eh?\""
 }
