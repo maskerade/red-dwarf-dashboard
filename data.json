@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T20:26:23.309914+00:00",
+  "timestamp": "2026-07-09T20:57:22.635722+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "SAP makes it easier for customers to shop for legacy product support, ending EU antitrust probe",
     "Outlook for Mac bug makes font choice a purely decorative feature"
   ],
-  "crew_quote": "\"27 degrees in Altrincham? Crikey, it’s hot enough to fry an egg on the dashboard! I’d better start planning my curry night before I melt into a puddle!\""
+  "crew_quote": "\"Blimey, it's so hot in Overseal, I could fry a curry on the pavement — not that I’d be bothered, as long as my pint's nice and cold!\""
 }
