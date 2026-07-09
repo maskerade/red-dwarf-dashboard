@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T01:49:02.705132+00:00",
+  "timestamp": "2026-07-09T02:20:17.475728+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 18.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Suspected Chinese snoops caught breaking into universities' Roundcube mailservers",
     "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks"
   ],
-  "crew_quote": "\"Blimey, looks like it's a lovely 22 degrees in Overseal—perfect weather for a curry and a pint, unless you're stuck in Llandudno with that pesky rain!\""
+  "crew_quote": "\"You know, if the weather's this clear, I could really go for a curry and a pint—preferably somewhere with a decent view and not just the inside of this metal coffin!\""
 }
