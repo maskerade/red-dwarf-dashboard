@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T01:18:01.502449+00:00",
+  "timestamp": "2026-07-09T01:49:02.705132+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "OpenAI makes ChatGPT better at banter",
     "The AI that spawned MechaHitler and deepfake porn puts on a suit to become legal advisor and Excel jockey",
     "Suspected Chinese snoops caught breaking into universities' Roundcube mailservers",
-    "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks",
-    "Former GitHub CEO launches competitor designed for the age of vibe coding"
+    "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks"
   ],
-  "crew_quote": "\"You know, if it’s 20 degrees in Altrincham, I reckon that’s the perfect temperature for a nice curry! Warm enough to eat, but not too hot for a good pint, eh?\""
+  "crew_quote": "\"Blimey, looks like it's a lovely 22 degrees in Overseal—perfect weather for a curry and a pint, unless you're stuck in Llandudno with that pesky rain!\""
 }
