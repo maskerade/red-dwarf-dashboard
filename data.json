@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T11:08:11.479125+00:00",
+  "timestamp": "2026-07-09T11:39:11.240212+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Mist",
+      "temp": 18.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-09",
@@ -94,5 +94,5 @@
     "Scientist models way to make sure no one's violating the ban on nuclear weapons in space",
     "Thief posed as Wi-Fi fixing hero, then stole priceless trophy"
   ],
-  "crew_quote": "\"Blimey, it's so hot in Overseal, I could fry an egg on Rimmer's head, and that’s saying something considering it’s usually just a wasteland of bad ideas!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in a sauna! At least the weather's not as rusty as that old Windows 95 software!\""
 }
