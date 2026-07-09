@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T07:30:29.825656+00:00",
+  "timestamp": "2026-07-09T08:01:53.784942+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-09",
-          "max": 29.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-10",
-          "max": 32.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-11",
-          "max": 29.0,
-          "min": 16.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-09",
-          "max": 32.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-07-10",
-          "max": 34.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-11",
-          "max": 30.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Fog",
-      "forecast": [
-        {
-          "date": "2026-07-09",
-          "max": 21.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-10",
-          "max": 22.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-11",
-          "max": 25.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:53 AM",
-    "sunset": "09:36 PM",
-    "moon_phase": "Waning Crescent",
-    "moon_illumination": "37",
-    "moonrise": "12:21 AM",
-    "moonset": "04:21 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "Thief posed as Wi-Fi fixing hero, then stole priceless trophy",
@@ -94,5 +36,5 @@
     "Singaporean sovereign wealth fund Temasek thinks AI is going to pay off",
     "nubia Neo 5 GT Special Edition debuts with the first and only Liquid and Air Dual Active Cooling System in its class"
   ],
-  "crew_quote": "\"Well, I suppose it’s sunny out, but not even that can distract me from the fact that a Wi-Fi thief is stealing trophies while we can’t even fix our own heat!\""
+  "crew_quote": "\"Looks like the only thing waking up around here is that Pluto probe — I could use a good curry to shake off the stupor of this power-saving weather!\""
 }
