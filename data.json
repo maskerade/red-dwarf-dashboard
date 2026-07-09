@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T20:57:22.635722+00:00",
+  "timestamp": "2026-07-09T21:28:23.275143+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 30.0,
-      "conditions": "Sunny",
+      "temp": 27.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-09",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI slop writing has taken over the internet, particularly LinkedIn and X",
     "AI tool scours the web for job openings, preps your resume and cover letter",
     "OpenMandriva claims disgruntled admin trashed repos after community bust-up",
-    "SAP makes it easier for customers to shop for legacy product support, ending EU antitrust probe",
-    "Outlook for Mac bug makes font choice a purely decorative feature"
+    "SAP makes it easier for customers to shop for legacy product support, ending EU antitrust probe"
   ],
-  "crew_quote": "\"Blimey, it's so hot in Overseal, I could fry a curry on the pavement — not that I’d be bothered, as long as my pint's nice and cold!\""
+  "crew_quote": "\"With the weather this nice, I reckon I could get a job as a professional sunbather, but I'd probably just end up covered in curry stains instead!\""
 }
