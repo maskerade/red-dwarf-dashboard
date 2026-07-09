@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T08:01:53.784942+00:00",
+  "timestamp": "2026-07-09T08:33:11.881628+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,25 +16,83 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 22.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-07-09",
+          "max": 29.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-10",
+          "max": 32.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-11",
+          "max": 29.0,
+          "min": 16.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 20.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-07-09",
+          "max": 32.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-07-10",
+          "max": 34.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-11",
+          "max": 30.0,
+          "min": 15.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 16.0,
+      "conditions": "Mist",
+      "forecast": [
+        {
+          "date": "2026-07-09",
+          "max": 21.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-10",
+          "max": 22.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-11",
+          "max": 25.0,
+          "min": 14.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "04:53 AM",
+    "sunset": "09:36 PM",
+    "moon_phase": "Waning Crescent",
+    "moon_illumination": "37",
+    "moonrise": "12:21 AM",
+    "moonset": "04:21 PM"
+  },
   "metrolink": null,
   "headlines": [
+    "Scientist models way to make sure no one's violating the ban on nuclear weapons in space",
     "Thief posed as Wi-Fi fixing hero, then stole priceless trophy",
     "New Horizons Pluto probe just woke itself up after 321 days of hibernation",
-    "Singaporean sovereign wealth fund Temasek thinks AI is going to pay off",
-    "nubia Neo 5 GT Special Edition debuts with the first and only Liquid and Air Dual Active Cooling System in its class"
+    "Singaporean sovereign wealth fund Temasek thinks AI is going to pay off"
   ],
-  "crew_quote": "\"Looks like the only thing waking up around here is that Pluto probe — I could use a good curry to shake off the stupor of this power-saving weather!\""
+  "crew_quote": "\"With all this sunny weather, I reckon we could fry a curry right on the dashboard—just don't let Rimmer near the Wi-Fi or he'll steal the recipe!\""
 }
