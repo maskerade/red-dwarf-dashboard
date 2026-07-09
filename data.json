@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T09:35:12.794186+00:00",
+  "timestamp": "2026-07-09T10:06:12.658216+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,12 +16,12 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-09",
-          "max": 29.0,
+          "max": 28.0,
           "min": 15.0
         },
         {
@@ -31,7 +31,7 @@
         },
         {
           "date": "2026-07-11",
-          "max": 29.0,
+          "max": 28.0,
           "min": 16.0
         }
       ]
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-07-11",
-          "max": 25.0,
+          "max": 23.0,
           "min": 14.0
         }
       ]
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Ubuntu emphasizes Arm64 support – and gets Rustier",
     "Windows 95 detected installers by looking for magic words and hoping for the best",
     "Scientist models way to make sure no one's violating the ban on nuclear weapons in space",
-    "Thief posed as Wi-Fi fixing hero, then stole priceless trophy",
-    "New Horizons Pluto probe just woke itself up after 321 days of hibernation"
+    "Thief posed as Wi-Fi fixing hero, then stole priceless trophy"
   ],
-  "crew_quote": "\"Blimey, with all this sun in Overseal, I reckon a nice curry would really hit the spot. Just gotta convince Holly this isn't a magic spell for a good meal!\""
+  "crew_quote": "\"25 degrees and sunny? Looks like a perfect day for a curry, unless you're in Llandudno, where the mist is probably hiding all the good fish and chips!\""
 }
