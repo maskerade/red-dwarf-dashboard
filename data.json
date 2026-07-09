@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T04:24:02.316871+00:00",
+  "timestamp": "2026-07-09T04:55:03.139164+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "OpenAI makes ChatGPT better at banter",
-    "The AI that spawned MechaHitler and deepfake porn puts on a suit to become legal advisor and Excel jockey",
-    "Suspected Chinese snoops caught breaking into universities' Roundcube mailservers",
-    "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks"
+    "Singaporean sovereign wealth fund Temasek thinks AI has a future",
+    "nubia Neo 5 GT Special Edition debuts with the first and only Liquid and Air Dual Active Cooling System in its class",
+    "Microsoft shifts to annual exchange rate price revision for cloudy products",
+    "OpenAI makes ChatGPT better at banter"
   ],
-  "crew_quote": "\"Well, with the sunny weather in Overseal, I think I’ll have to take a break from my usual curry — maybe a light salad? Or should I just microwave a doner kebab instead?\""
+  "crew_quote": "\"It's a lovely day in Overseal, but I could really use a pint and a curry to celebrate this lovely weather, instead of pondering all that AI nonsense!\""
 }
