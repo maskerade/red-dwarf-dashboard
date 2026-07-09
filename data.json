@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T08:33:11.881628+00:00",
+  "timestamp": "2026-07-09T09:04:12.106837+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "New Horizons Pluto probe just woke itself up after 321 days of hibernation",
     "Singaporean sovereign wealth fund Temasek thinks AI is going to pay off"
   ],
-  "crew_quote": "\"With all this sunny weather, I reckon we could fry a curry right on the dashboard—just don't let Rimmer near the Wi-Fi or he'll steal the recipe!\""
+  "crew_quote": "\"Well, since it’s sunny everywhere, maybe it’s a good day for a curry picnic—just as long as we avoid anything misty like Llandudno! I don't fancy my korma getting soggy.\""
 }
