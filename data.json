@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T23:02:09.858542+00:00",
+  "timestamp": "2026-07-09T23:33:25.178413+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,19 +16,77 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 20.0,
+      "conditions": "Clear ",
+      "forecast": [
+        {
+          "date": "2026-07-09",
+          "max": 29.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-10",
+          "max": 32.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-11",
+          "max": 30.0,
+          "min": 17.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 24.0,
+      "conditions": "Clear ",
+      "forecast": [
+        {
+          "date": "2026-07-10",
+          "max": 33.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-07-11",
+          "max": 30.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-12",
+          "max": 27.0,
+          "min": 14.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 16.0,
+      "conditions": "Clear ",
+      "forecast": [
+        {
+          "date": "2026-07-09",
+          "max": 21.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-10",
+          "max": 23.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-11",
+          "max": 24.0,
+          "min": 14.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "04:53 AM",
+    "sunset": "09:36 PM",
+    "moon_phase": "Waning Crescent",
+    "moon_illumination": "37",
+    "moonrise": "12:21 AM",
+    "moonset": "04:21 PM"
+  },
   "metrolink": null,
   "headlines": [
     "AI slop writing has taken over the internet, particularly LinkedIn and X",
@@ -36,5 +94,5 @@
     "OpenMandriva claims disgruntled admin trashed repos after community bust-up",
     "SAP makes it easier for customers to shop for legacy product support, ending EU antitrust probe"
   ],
-  "crew_quote": "\"With AI writing junk for jobs, I guess I should've let it write my resume instead of putting curry stains all over it—might’ve landed me a better gig than cleaning this heap!\""
+  "crew_quote": "\"With the weather this clear and pleasant, I could really go for a curry and a pint, not that I'd want to be stuck behind a keyboard like those poor sods on LinkedIn!\""
 }
