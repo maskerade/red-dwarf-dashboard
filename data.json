@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T14:45:17.181275+00:00",
+  "timestamp": "2026-07-09T15:16:17.114121+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "KDE Plasma users face a dire omen of change: 6.6.6 arrives",
+    "Canonical Managed Kubeflow lands on Azure",
     "Brown says AI make student brain no work good, teacher should help use it better",
-    "UK.gov withholds £10M payment from Capita over pensions project fiasco, as dispute continues",
-    "Microsoft closes book on Nightmare Eclipse's RoguePlanet zero-day",
-    "Speedier type checks in TypeScript 7.0 as first stable Go release ships"
+    "UK.gov withholds £10M payment from Capita over pensions project fiasco, as dispute continues"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry in the back of a taxi! I’d say we should go for a swim, but all the water’s probably evaporated!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry left in the microwave too long! I reckon we could fry an egg on the dashboard at this rate!\""
 }
