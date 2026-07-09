@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T12:41:22.603417+00:00",
+  "timestamp": "2026-07-09T13:12:10.819099+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
+      "temp": 28.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Partly cloudy",
+      "temp": 24.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-09",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Ubuntu emphasizes Arm64 support – and gets Rustier",
-    "Windows 95 detected installers by looking for magic words and hoping for the best",
-    "Scientist models way to make sure no one's violating the ban on nuclear weapons in space",
-    "Thief posed as Wi-Fi fixing hero, then stole priceless trophy"
+    "Speedier type checks in TypeScript 7.0 as first stable Go release ships",
+    "Britain's cloud habit has become a billion-pound risk",
+    "Microsoft to switch off OWA Light after nearly two decades",
+    "MPs tell NHS to start packing Palantir's bags ahead of 2027 contract break"
   ],
-  "crew_quote": "\"Blimey, with this weather, I might as well cook a curry on the roof — who needs a sunny beach when you've got Altrincham at 27 degrees, eh?\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo on a sunbed! If I don’t find a curry soon, I might just turn into a walking roast potato!\""
 }
