@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T00:15:59.065252+00:00",
+  "timestamp": "2026-07-09T00:47:00.738910+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 20.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Clear ",
+      "temp": 14.0,
+      "conditions": "Light Rain",
       "forecast": [
         {
           "date": "2026-07-09",
@@ -94,5 +94,5 @@
     "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks",
     "Former GitHub CEO launches competitor designed for the age of vibe coding"
   ],
-  "crew_quote": "\"Did you see the weather in Overseal? A perfect 23 degrees! Just right for a curry and a pint — not that I'd be caught dead doing something normal like that.\""
+  "crew_quote": "\"Blimey! It's about 23 degrees outside, which is perfect curry weather. Let’s just hope the only thing raining today is the sauce, not MechaHitler!\""
 }
