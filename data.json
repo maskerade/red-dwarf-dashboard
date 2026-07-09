@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T13:12:10.819099+00:00",
+  "timestamp": "2026-07-09T13:43:12.878755+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 30.0,
+      "temp": 32.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft closes book on Nightmare Eclipse's RoguePlanet zero-day",
     "Speedier type checks in TypeScript 7.0 as first stable Go release ships",
     "Britain's cloud habit has become a billion-pound risk",
-    "Microsoft to switch off OWA Light after nearly two decades",
-    "MPs tell NHS to start packing Palantir's bags ahead of 2027 contract break"
+    "Microsoft to switch off OWA Light after nearly two decades"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a vindaloo on a sunbed! If I don’t find a curry soon, I might just turn into a walking roast potato!\""
+  "crew_quote": "\"Blimey, it's boiling out there! I reckon I could fry a curry on the pavement and still have leftovers for tomorrow!\""
 }
