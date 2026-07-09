@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T10:06:12.658216+00:00",
+  "timestamp": "2026-07-09T10:37:12.999451+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,23 +37,23 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
+      "temp": 29.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-09",
-          "max": 32.0,
+          "max": 31.0,
           "min": 16.0
         },
         {
           "date": "2026-07-10",
-          "max": 34.0,
+          "max": 33.0,
           "min": 15.0
         },
         {
           "date": "2026-07-11",
           "max": 30.0,
-          "min": 15.0
+          "min": 14.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "Scientist models way to make sure no one's violating the ban on nuclear weapons in space",
     "Thief posed as Wi-Fi fixing hero, then stole priceless trophy"
   ],
-  "crew_quote": "\"25 degrees and sunny? Looks like a perfect day for a curry, unless you're in Llandudno, where the mist is probably hiding all the good fish and chips!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry in the sun out there! If I start sweating, I’ll need a towel and a cold pint, not some bloomin' magic words!\""
 }
