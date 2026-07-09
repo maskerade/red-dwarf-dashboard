@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T03:22:04.229351+00:00",
+  "timestamp": "2026-07-09T03:53:04.233268+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 15.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -68,12 +68,12 @@
         },
         {
           "date": "2026-07-10",
-          "max": 23.0,
+          "max": 22.0,
           "min": 13.0
         },
         {
           "date": "2026-07-11",
-          "max": 24.0,
+          "max": 25.0,
           "min": 14.0
         }
       ]
@@ -94,5 +94,5 @@
     "Suspected Chinese snoops caught breaking into universities' Roundcube mailservers",
     "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks"
   ],
-  "crew_quote": "\"Who needs a sunny day in Altrincham when you can have the light rain of Llandudno? It's like a free shower, perfect for marinating my curry!\""
+  "crew_quote": "\"Blimey, with it being a lovely 19 degrees in Overseal, I could almost fancy a pint and a curry – as long as it doesn't rain like in Llandudno, of course!\""
 }
