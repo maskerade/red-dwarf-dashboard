@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T14:14:16.384179+00:00",
+  "timestamp": "2026-07-09T14:45:17.181275+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 28.0,
+      "temp": 29.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 24.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Brown says AI make student brain no work good, teacher should help use it better",
     "UK.gov withholds £10M payment from Capita over pensions project fiasco, as dispute continues",
     "Microsoft closes book on Nightmare Eclipse's RoguePlanet zero-day",
-    "Speedier type checks in TypeScript 7.0 as first stable Go release ships",
-    "Britain's cloud habit has become a billion-pound risk"
+    "Speedier type checks in TypeScript 7.0 as first stable Go release ships"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! Remind me to never complain about a bit of drizzle again, eh?\""
+  "crew_quote": "\"Blimey, it's hotter than a curry in the back of a taxi! I’d say we should go for a swim, but all the water’s probably evaporated!\""
 }
