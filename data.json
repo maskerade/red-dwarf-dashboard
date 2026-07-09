@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T19:24:20.884597+00:00",
+  "timestamp": "2026-07-09T19:55:21.548604+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 32.0,
+      "temp": 30.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "SAP makes it easier for customers to shop for legacy product support, ending EU antitrust probe",
     "Outlook for Mac bug makes font choice a purely decorative feature"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry that's gone rogue! If this keeps up, I might need to invest in a sunscreen made of chip fat!\""
+  "crew_quote": "\"Blimey, it’s hotter out there than a vindaloo on a summer’s day! Let’s grab some curry and enjoy our own little sunshine party, shall we?\""
 }
