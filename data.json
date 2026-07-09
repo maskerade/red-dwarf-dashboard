@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T03:53:04.233268+00:00",
+  "timestamp": "2026-07-09T04:24:02.316871+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Clear ",
+      "temp": 18.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-09",
@@ -94,5 +94,5 @@
     "Suspected Chinese snoops caught breaking into universities' Roundcube mailservers",
     "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks"
   ],
-  "crew_quote": "\"Blimey, with it being a lovely 19 degrees in Overseal, I could almost fancy a pint and a curry – as long as it doesn't rain like in Llandudno, of course!\""
+  "crew_quote": "\"Well, with the sunny weather in Overseal, I think I’ll have to take a break from my usual curry — maybe a light salad? Or should I just microwave a doner kebab instead?\""
 }
