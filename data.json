@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T00:47:00.738910+00:00",
+  "timestamp": "2026-07-09T01:18:01.502449+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
+      "temp": 22.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks",
     "Former GitHub CEO launches competitor designed for the age of vibe coding"
   ],
-  "crew_quote": "\"Blimey! It's about 23 degrees outside, which is perfect curry weather. Let’s just hope the only thing raining today is the sauce, not MechaHitler!\""
+  "crew_quote": "\"You know, if it’s 20 degrees in Altrincham, I reckon that’s the perfect temperature for a nice curry! Warm enough to eat, but not too hot for a good pint, eh?\""
 }
