@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T16:18:18.845277+00:00",
+  "timestamp": "2026-07-09T16:49:19.488693+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,23 +37,23 @@
       ]
     },
     "overseal": {
-      "temp": 32.0,
+      "temp": 33.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-09",
-          "max": 31.0,
+          "max": 32.0,
           "min": 16.0
         },
         {
           "date": "2026-07-10",
-          "max": 33.0,
-          "min": 15.0
+          "max": 34.0,
+          "min": 16.0
         },
         {
           "date": "2026-07-11",
           "max": 30.0,
-          "min": 14.0
+          "min": 15.0
         }
       ]
     },
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Outlook for Mac bug makes font choice a purely decorative feature",
     "EU 'Chat Control' snoopfest returns after vote to kill it falls short",
     "KDE Plasma users face a dire omen of change: 6.6.6 arrives",
-    "Canonical Managed Kubeflow lands on Azure",
-    "Brown says AI make student brain no work good, teacher should help use it better"
+    "Canonical Managed Kubeflow lands on Azure"
   ],
-  "crew_quote": "\"Blimey, it’s so hot out there I could fry a curry on the pavement! Let’s just hope the only snooping going on today is me keeping an eye on my pint!\""
+  "crew_quote": "\"Blimey, it’s hotter than a curry in a sauna out there! At least my hair’s not going flat, unlike that Outlook bug!\""
 }
