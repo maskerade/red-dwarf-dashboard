@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T06:28:06.116635+00:00",
+  "timestamp": "2026-07-09T06:59:09.235939+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 19.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Heavy Drizzle",
+      "temp": 15.0,
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-07-09",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Singaporean sovereign wealth fund Temasek thinks AI has a future",
+    "Singaporean sovereign wealth fund Temasek thinks AI is going to pay off",
     "nubia Neo 5 GT Special Edition debuts with the first and only Liquid and Air Dual Active Cooling System in its class",
     "Microsoft shifts to annual exchange rate price revision for cloudy products",
     "OpenAI makes ChatGPT better at banter"
   ],
-  "crew_quote": "\"Ah, brilliant! Perfect weather for a curry outside—unless you're in Llandudno, where it's just a heavy drizzle ruining my vibe!\""
+  "crew_quote": "\"Oi, with this sunny weather, I reckon I could fry a curry on the dashboard! Just need to find a pot that’s not melted away.\""
 }
