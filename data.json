@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T13:43:12.878755+00:00",
+  "timestamp": "2026-07-09T14:14:16.384179+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "UK.gov withholds £10M payment from Capita over pensions project fiasco, as dispute continues",
     "Microsoft closes book on Nightmare Eclipse's RoguePlanet zero-day",
     "Speedier type checks in TypeScript 7.0 as first stable Go release ships",
-    "Britain's cloud habit has become a billion-pound risk",
-    "Microsoft to switch off OWA Light after nearly two decades"
+    "Britain's cloud habit has become a billion-pound risk"
   ],
-  "crew_quote": "\"Blimey, it's boiling out there! I reckon I could fry a curry on the pavement and still have leftovers for tomorrow!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! Remind me to never complain about a bit of drizzle again, eh?\""
 }
