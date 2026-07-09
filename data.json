@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T04:55:03.139164+00:00",
+  "timestamp": "2026-07-09T05:26:03.424194+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Clear ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-09",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Light Rain",
+      "conditions": "Heavy Drizzle",
       "forecast": [
         {
           "date": "2026-07-09",
@@ -94,5 +94,5 @@
     "Microsoft shifts to annual exchange rate price revision for cloudy products",
     "OpenAI makes ChatGPT better at banter"
   ],
-  "crew_quote": "\"It's a lovely day in Overseal, but I could really use a pint and a curry to celebrate this lovely weather, instead of pondering all that AI nonsense!\""
+  "crew_quote": "\"Can you believe it? It’s sunny in Altrincham and I can’t even remember the last time I had a good curry in good weather! What’s a man gotta do, go to Llandudno?\""
 }
