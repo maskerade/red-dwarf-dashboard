@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T21:59:23.417607+00:00",
+  "timestamp": "2026-07-09T22:30:24.153137+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
-      "conditions": "Sunny",
+      "temp": 20.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-09",
@@ -31,7 +31,7 @@
         },
         {
           "date": "2026-07-11",
-          "max": 29.0,
+          "max": 30.0,
           "min": 17.0
         }
       ]
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Sunny",
+      "temp": 16.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-09",
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-07-11",
-          "max": 25.0,
-          "min": 15.0
+          "max": 24.0,
+          "min": 14.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "OpenMandriva claims disgruntled admin trashed repos after community bust-up",
     "SAP makes it easier for customers to shop for legacy product support, ending EU antitrust probe"
   ],
-  "crew_quote": "\"Blimey, Llandudno's got the sun and all we’ve got is an empty power grid — I’d trade a curry for some of that clarity any day!”"
+  "crew_quote": "\"With temperatures soaring like a badly made curry, I'm starting to wonder if I should add 'AI job scrounger' to my resume—couldn't do any worse than Rimmer!\""
 }
