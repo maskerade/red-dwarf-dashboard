@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T02:20:17.475728+00:00",
+  "timestamp": "2026-07-09T02:51:03.359238+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 19.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Suspected Chinese snoops caught breaking into universities' Roundcube mailservers",
     "Intel-backed AI chip startup SambaNova breathes new life into aging Nvidia GPUs in latest benchmarks"
   ],
-  "crew_quote": "\"You know, if the weather's this clear, I could really go for a curry and a pint—preferably somewhere with a decent view and not just the inside of this metal coffin!\""
+  "crew_quote": "\"Looks like it's a lovely 19 degrees out there, but let's be honest, mate, it's not curry weather—unless you fancy a rain-soaked vindaloo!\""
 }
