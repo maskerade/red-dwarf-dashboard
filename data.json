@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T15:47:17.557418+00:00",
+  "timestamp": "2026-07-09T16:18:18.845277+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -21,7 +21,7 @@
       "forecast": [
         {
           "date": "2026-07-09",
-          "max": 28.0,
+          "max": 29.0,
           "min": 15.0
         },
         {
@@ -31,8 +31,8 @@
         },
         {
           "date": "2026-07-11",
-          "max": 28.0,
-          "min": 16.0
+          "max": 29.0,
+          "min": 17.0
         }
       ]
     },
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-07-10",
-          "max": 22.0,
+          "max": 23.0,
           "min": 13.0
         },
         {
           "date": "2026-07-11",
-          "max": 23.0,
-          "min": 14.0
+          "max": 25.0,
+          "min": 15.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "EU 'Chat Control' snoopfest returns after vote to kill it falls short",
     "KDE Plasma users face a dire omen of change: 6.6.6 arrives",
     "Canonical Managed Kubeflow lands on Azure",
-    "Brown says AI make student brain no work good, teacher should help use it better",
-    "UK.gov withholds £10M payment from Capita over pensions project fiasco, as dispute continues"
+    "Brown says AI make student brain no work good, teacher should help use it better"
   ],
-  "crew_quote": "\"Blimey, with all this sunshine, I reckon I could cook a curry just by leaving it out on the dashboard! Anyone fancy a nice hot curry, or are we too busy worrying about KDE 6.6.6?\""
+  "crew_quote": "\"Blimey, it’s so hot out there I could fry a curry on the pavement! Let’s just hope the only snooping going on today is me keeping an eye on my pint!\""
 }
