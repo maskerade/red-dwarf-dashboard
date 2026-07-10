@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T10:55:35.180482+00:00",
+  "timestamp": "2026-07-10T11:26:37.390439+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 28.0,
+      "temp": 30.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "BOFH: Cross-department AI pitches are easier to swallow with a pint in hand",
     "Datacenter MacGyver saved the biggest football match of the year"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo out there! Let's hope the only thing overheated is the weather and not the data on those maternity patients!\""
+  "crew_quote": "\"Blimey, with all this sun, I might just fry an egg on the dashboard! Fancy a curry on the beach, or shall we just bask in our sweet, sweaty glory?\""
 }
