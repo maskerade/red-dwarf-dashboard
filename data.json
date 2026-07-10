@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T06:47:31.422756+00:00",
+  "timestamp": "2026-07-10T07:18:32.154941+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Microsoft warns customers AI will mean busier Patch Tuesdays",
     "An unnamed US county – perhaps in Ohio – paid $1M extortion demand to cybercriminals"
   ],
-  "crew_quote": "\"19 degrees and sunny, eh? Perfect weather for a curry, but knowing our luck, we'll end up in the fridge instead!\""
+  "crew_quote": "\"With weather like this, I could really go for a pint and a curry, but knowing my luck, I'd end up stuck in a datacenter saving the world's biggest football match instead!\""
 }
