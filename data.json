@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T03:10:27.781723+00:00",
+  "timestamp": "2026-07-10T03:41:28.802808+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -53,7 +53,7 @@
         {
           "date": "2026-07-12",
           "max": 27.0,
-          "min": 14.0
+          "min": 13.0
         }
       ]
     },
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft warns customers AI will mean busier Patch Tuesdays",
     "An unnamed US county – perhaps in Ohio – paid $1M extortion demand to cybercriminals",
     "AI slop writing has taken over the internet, particularly LinkedIn and X",
-    "AI tool scours the web for job openings, preps your resume and cover letter",
-    "OpenMandriva claims disgruntled admin trashed repos after community bust-up"
+    "AI tool scours the web for job openings, preps your resume and cover letter"
   ],
-  "crew_quote": "\"Oi, it's a balmy 19 degrees in Overseal! Perfect weather for a curry and a bit of a jaunt, as long as we don't get hijacked by some cybercriminals first!\""
+  "crew_quote": "\"Well, at least it’s nice and clear in Llandudno; perfect curry-eating weather. Just don’t ask me to patch anything on a Tuesday—I can barely patch my socks!\""
 }
