@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T20:14:41.886284+00:00",
+  "timestamp": "2026-07-10T20:45:40.000090+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 30.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package",
     "LisaFPGA brings Apple's magnificent misfire back in programmable logic",
-    "Orbital datacenter gold rush needs an environmental review, FCC told",
-    "OpenAI's Atlas browser doesn't make it to its first birthday"
+    "Orbital datacenter gold rush needs an environmental review, FCC told"
   ],
-  "crew_quote": "\"Blimey, at 30 degrees, I could cook a curry on me dashboard! But honestly, with this heat, I’m starting to think we should just move to Altrincham permanently!\""
+  "crew_quote": "\"With the sun blazing at 29 degrees, it's the perfect weather for a curry — just not too much heat, or I’ll end up sweating more than I do on the ship!\""
 }
