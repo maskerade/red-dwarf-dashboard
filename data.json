@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T04:43:30.422818+00:00",
+  "timestamp": "2026-07-10T05:14:30.217804+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 19.0,
-      "conditions": "Clear ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-10",
@@ -94,5 +94,5 @@
     "AI slop writing has taken over the internet, particularly LinkedIn and X",
     "AI tool scours the web for job openings, preps your resume and cover letter"
   ],
-  "crew_quote": "\"Foggy weather in Altrincham, perfect for a curry night in! Just as long as the only thing extorting my money is the takeaway, not some cybercriminals!\""
+  "crew_quote": "\"You know, with all this fog, I can’t even tell if I'm in Altrincham or just in a bad curry coma! Maybe I should’ve used the fog as an excuse for that!\""
 }
