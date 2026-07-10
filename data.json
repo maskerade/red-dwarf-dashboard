@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T01:37:27.376245+00:00",
+  "timestamp": "2026-07-10T02:08:27.392425+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 19.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AI tool scours the web for job openings, preps your resume and cover letter",
     "OpenMandriva claims disgruntled admin trashed repos after community bust-up"
   ],
-  "crew_quote": "\"You know, with this haze, it’s almost like the universe is saying, 'Why not enjoy a nice curry and ignore the world's problems, like that million-dollar extortion thing?'\""
+  "crew_quote": "\"With weather like this, it’s honestly the perfect time for a curry—haze or not, I can still smell a good vindaloo from a mile away!\""
 }
