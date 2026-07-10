@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T06:16:31.688452+00:00",
+  "timestamp": "2026-07-10T06:47:31.422756+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Datacenter MacGyver saved the biggest football match of the year",
+    "Red Hat offers RHEL support ‘forever’ for those who need to lock in to legacy tech",
     "Microsoft warns customers AI will mean busier Patch Tuesdays",
-    "An unnamed US county – perhaps in Ohio – paid $1M extortion demand to cybercriminals",
-    "AI slop writing has taken over the internet, particularly LinkedIn and X",
-    "AI tool scours the web for job openings, preps your resume and cover letter"
+    "An unnamed US county – perhaps in Ohio – paid $1M extortion demand to cybercriminals"
   ],
-  "crew_quote": "\"Blimey, it's so sunny today I could fry a curry on the pavement! But knowing my luck, it'll be raining cats and dogs tomorrow.\""
+  "crew_quote": "\"19 degrees and sunny, eh? Perfect weather for a curry, but knowing our luck, we'll end up in the fridge instead!\""
 }
