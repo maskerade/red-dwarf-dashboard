@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T08:20:33.112392+00:00",
+  "timestamp": "2026-07-10T08:51:33.667290+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "BOFH: Cross-department AI pitches are easier to swallow with a pint in hand",
     "Datacenter MacGyver saved the biggest football match of the year",
     "Red Hat offers RHEL support ‘forever’ for those who need to lock in to legacy tech",
-    "Microsoft warns customers AI will mean busier Patch Tuesdays",
-    "An unnamed US county – perhaps in Ohio – paid $1M extortion demand to cybercriminals"
+    "Microsoft warns customers AI will mean busier Patch Tuesdays"
   ],
-  "crew_quote": "\"Blimey, it's like a bloody beach holiday out there with all this sunshine! Pass the curry, I need something to cool me down!\""
+  "crew_quote": "\"Can you believe it? A perfect 22 degrees in Altrincham! That’s just the weather talking — time for a curry and a pint to celebrate!\""
 }
