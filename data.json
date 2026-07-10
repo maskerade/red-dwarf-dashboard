@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T09:22:34.658698+00:00",
+  "timestamp": "2026-07-10T09:53:46.141009+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,18 +37,18 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
+      "temp": 28.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-10",
-          "max": 33.0,
+          "max": 34.0,
           "min": 16.0
         },
         {
           "date": "2026-07-11",
-          "max": 30.0,
-          "min": 14.0
+          "max": 29.0,
+          "min": 15.0
         },
         {
           "date": "2026-07-12",
@@ -94,5 +94,5 @@
     "Red Hat offers RHEL support ‘forever’ for those who need to lock in to legacy tech",
     "Microsoft warns customers AI will mean busier Patch Tuesdays"
   ],
-  "crew_quote": "\"Ah, it’s a right scorcher today! Perfect weather for a pint, but I still can’t believe that MacGyver bloke saved the football match — reminds me of the time I saved my curry!\""
+  "crew_quote": "\"With this weather, I could really go for a pint and a curry instead of saving the universe! Just imagine, 28 degrees and a lovely Tikka Masala!\""
 }
