@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T11:57:37.408935+00:00",
+  "timestamp": "2026-07-10T12:28:37.563775+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
+      "temp": 30.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 25.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Haze",
       "forecast": [
         {
           "date": "2026-07-10",
@@ -94,5 +94,5 @@
     "BOFH: Cross-department AI pitches are easier to swallow with a pint in hand",
     "Datacenter MacGyver saved the biggest football match of the year"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! I’d say it’s perfect weather for a curry and a pint — as long as I don’t have to deal with any maternity data mix-ups!\""
+  "crew_quote": "\"Blimey, with it being 30 degrees out, I could really fancy a nice curry – but just my luck, all we've got is that powdered stuff. Still, at least it's sunny, eh?\""
 }
