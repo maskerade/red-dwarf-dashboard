@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T08:51:33.667290+00:00",
+  "timestamp": "2026-07-10T09:22:34.658698+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -27,11 +27,11 @@
         {
           "date": "2026-07-11",
           "max": 29.0,
-          "min": 17.0
+          "min": 16.0
         },
         {
           "date": "2026-07-12",
-          "max": 26.0,
+          "max": 27.0,
           "min": 15.0
         }
       ]
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -69,7 +69,7 @@
         {
           "date": "2026-07-11",
           "max": 24.0,
-          "min": 15.0
+          "min": 14.0
         },
         {
           "date": "2026-07-12",
@@ -94,5 +94,5 @@
     "Red Hat offers RHEL support ‘forever’ for those who need to lock in to legacy tech",
     "Microsoft warns customers AI will mean busier Patch Tuesdays"
   ],
-  "crew_quote": "\"Can you believe it? A perfect 22 degrees in Altrincham! That’s just the weather talking — time for a curry and a pint to celebrate!\""
+  "crew_quote": "\"Ah, it’s a right scorcher today! Perfect weather for a pint, but I still can’t believe that MacGyver bloke saved the football match — reminds me of the time I saved my curry!\""
 }
