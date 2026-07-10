@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T07:49:33.442461+00:00",
+  "timestamp": "2026-07-10T08:20:33.112392+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft warns customers AI will mean busier Patch Tuesdays",
     "An unnamed US county – perhaps in Ohio – paid $1M extortion demand to cybercriminals"
   ],
-  "crew_quote": "\"Ah, it's a lovely 22 degrees out, just perfect for a pint and a curry — if only I could remember where I put my pants!\""
+  "crew_quote": "\"Blimey, it's like a bloody beach holiday out there with all this sunshine! Pass the curry, I need something to cool me down!\""
 }
