@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T14:33:39.108422+00:00",
+  "timestamp": "2026-07-10T15:04:40.663236+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "OpenAI's Atlas browser doesn't make it to its first birthday",
     "AI-driven datacenter builds drive Microsoft's emissions up a quarter in one year",
     "EU puts 'addictive' design of Facebook, Instagram under the DSA microscope",
-    "Capita hears demand for pension scheme cleanup 'loud and clear' – but won't say yes",
-    "Fashion mart Miinto unzips breach details, warns shoppers to watch for phisherfolk"
+    "Capita hears demand for pension scheme cleanup 'loud and clear' – but won't say yes"
   ],
-  "crew_quote": "\"You know it’s too hot when even the curry’s sweating! Pass me a pint, I need to cool down before I start looking like one of those Facebook ads!\""
+  "crew_quote": "\"I tell you, 33°C in Overseal, and I’m still not sweating! Must be my rugged good looks keeping the heat at bay—there's only room for one hot thing in this outfit!\""
 }
