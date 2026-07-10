@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T13:30:44.646172+00:00",
+  "timestamp": "2026-07-10T14:02:23.578928+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,83 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 30.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-10",
-          "max": 32.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-11",
-          "max": 29.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-07-12",
-          "max": 27.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 32.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-10",
-          "max": 34.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-07-11",
-          "max": 29.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-12",
-          "max": 27.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 25.0,
-      "conditions": "Haze",
-      "forecast": [
-        {
-          "date": "2026-07-10",
-          "max": 22.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-11",
-          "max": 24.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-12",
-          "max": 22.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:54 AM",
-    "sunset": "09:35 PM",
-    "moon_phase": "Waning Crescent",
-    "moon_illumination": "26",
-    "moonrise": "12:39 AM",
-    "moonset": "05:55 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "AI-driven datacenter builds drive Microsoft's emissions up a quarter in one year",
     "EU puts 'addictive' design of Facebook, Instagram under the DSA microscope",
     "Capita hears demand for pension scheme cleanup 'loud and clear' – but won't say yes",
-    "Fashion mart Miinto unzips breach details, warns shoppers to watch for phisherfolk",
-    "Cinnamon 6.8 will support Wayland – if you want it"
+    "Fashion mart Miinto unzips breach details, warns shoppers to watch for phisherfolk"
   ],
-  "crew_quote": "\"With the way it’s sweltering at 30 degrees, I could really go for a curry, but I’ve got to keep my figure impeccable—don’t want to melt away under all this sunshine!\""
+  "crew_quote": "\"Great! We're stuck in a datacenter with no power and no weather, but at least Facebook's addictive — just like that curry I had last night!\""
 }
