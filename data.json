@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T17:08:37.470506+00:00",
+  "timestamp": "2026-07-10T17:39:38.939952+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package",
+    "LisaFPGA brings Apple's magnificent misfire back in programmable logic",
     "Orbital datacenter gold rush needs an environmental review, FCC told",
-    "OpenAI's Atlas browser doesn't make it to its first birthday",
-    "AI-driven datacenter builds drive Microsoft's emissions up a quarter in one year",
-    "EU puts 'addictive' design of Facebook, Instagram under the DSA microscope"
+    "OpenAI's Atlas browser doesn't make it to its first birthday"
   ],
-  "crew_quote": "\"Blimey, with it being hotter than a curry in a microwave, I’m starting to think this ship’s got its own sun on the fritz!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry left in the sun for a week! Hope this heatwave doesn’t fry my brain like that Windows backdoor, mate!\""
 }
