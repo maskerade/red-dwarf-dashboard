@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T09:53:46.141009+00:00",
+  "timestamp": "2026-07-10T10:24:35.324084+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Cinnamon 6.8 will support Wayland – if you want it",
+    "Scot NHS Trust probes email stuffup involving maternity patients' data",
     "BOFH: Cross-department AI pitches are easier to swallow with a pint in hand",
-    "Datacenter MacGyver saved the biggest football match of the year",
-    "Red Hat offers RHEL support ‘forever’ for those who need to lock in to legacy tech",
-    "Microsoft warns customers AI will mean busier Patch Tuesdays"
+    "Datacenter MacGyver saved the biggest football match of the year"
   ],
-  "crew_quote": "\"With this weather, I could really go for a pint and a curry instead of saving the universe! Just imagine, 28 degrees and a lovely Tikka Masala!\""
+  "crew_quote": "\"Blimey, it's hotter than a Vindaloo in here! I say we ditch the ship and find a nice beach in Llandudno instead.\""
 }
