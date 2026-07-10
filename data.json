@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-09T23:33:25.178413+00:00",
+  "timestamp": "2026-07-10T00:04:25.157459+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-09",
-          "max": 29.0,
-          "min": 15.0
-        },
         {
           "date": "2026-07-10",
           "max": 32.0,
@@ -33,6 +28,11 @@
           "date": "2026-07-11",
           "max": 30.0,
           "min": 17.0
+        },
+        {
+          "date": "2026-07-12",
+          "max": 27.0,
+          "min": 16.0
         }
       ]
     },
@@ -58,14 +58,9 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-09",
-          "max": 21.0,
-          "min": 13.0
-        },
         {
           "date": "2026-07-10",
           "max": 23.0,
@@ -75,17 +70,22 @@
           "date": "2026-07-11",
           "max": 24.0,
           "min": 14.0
+        },
+        {
+          "date": "2026-07-12",
+          "max": 22.0,
+          "min": 13.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "04:53 AM",
-    "sunset": "09:36 PM",
+    "sunrise": "04:54 AM",
+    "sunset": "09:35 PM",
     "moon_phase": "Waning Crescent",
-    "moon_illumination": "37",
-    "moonrise": "12:21 AM",
-    "moonset": "04:21 PM"
+    "moon_illumination": "26",
+    "moonrise": "12:39 AM",
+    "moonset": "05:55 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "OpenMandriva claims disgruntled admin trashed repos after community bust-up",
     "SAP makes it easier for customers to shop for legacy product support, ending EU antitrust probe"
   ],
-  "crew_quote": "\"With the weather this clear and pleasant, I could really go for a curry and a pint, not that I'd want to be stuck behind a keyboard like those poor sods on LinkedIn!\""
+  "crew_quote": "\"With temperatures hitting a balmy 24°C, I might actually consider venturing outside for a pint, but then again, it's probably just another day of AI slop ruining everything!\""
 }
