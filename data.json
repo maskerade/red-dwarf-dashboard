@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T16:37:41.691999+00:00",
+  "timestamp": "2026-07-10T17:08:37.470506+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 32.0,
+      "temp": 33.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -63,13 +63,13 @@
       "forecast": [
         {
           "date": "2026-07-10",
-          "max": 22.0,
+          "max": 23.0,
           "min": 13.0
         },
         {
           "date": "2026-07-11",
-          "max": 24.0,
-          "min": 14.0
+          "max": 25.0,
+          "min": 15.0
         },
         {
           "date": "2026-07-12",
@@ -94,5 +94,5 @@
     "AI-driven datacenter builds drive Microsoft's emissions up a quarter in one year",
     "EU puts 'addictive' design of Facebook, Instagram under the DSA microscope"
   ],
-  "crew_quote": "\"32 degrees, eh? Perfect weather for a cold curry on the beach, as long as I can keep the seagulls from stealing my chips!\""
+  "crew_quote": "\"Blimey, with it being hotter than a curry in a microwave, I’m starting to think this ship’s got its own sun on the fritz!\""
 }
