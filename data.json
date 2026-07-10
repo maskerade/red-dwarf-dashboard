@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T18:41:38.500554+00:00",
+  "timestamp": "2026-07-10T19:12:39.352664+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 32.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 30.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-10",
@@ -94,5 +94,5 @@
     "Orbital datacenter gold rush needs an environmental review, FCC told",
     "OpenAI's Atlas browser doesn't make it to its first birthday"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry left in a microwave too long! If it gets any warmer, I might start serving drinks in my shorts!\""
+  "crew_quote": "\"Can you believe it? It’s 31°C in Altrincham and all I can think about is how to make the perfect curry without burning the place down!\""
 }
