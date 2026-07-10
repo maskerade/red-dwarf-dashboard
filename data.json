@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T05:45:30.178181+00:00",
+  "timestamp": "2026-07-10T06:16:31.688452+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Fog",
+      "temp": 19.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-10",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Clear ",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-10",
@@ -94,5 +94,5 @@
     "AI slop writing has taken over the internet, particularly LinkedIn and X",
     "AI tool scours the web for job openings, preps your resume and cover letter"
   ],
-  "crew_quote": "\"What’s the point of fog in Altrincham when it doesn’t even smell like a good curry? I mean, come on!\""
+  "crew_quote": "\"Blimey, it's so sunny today I could fry a curry on the pavement! But knowing my luck, it'll be raining cats and dogs tomorrow.\""
 }
