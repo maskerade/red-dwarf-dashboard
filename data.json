@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T15:04:40.663236+00:00",
+  "timestamp": "2026-07-10T15:35:40.015373+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -21,12 +21,12 @@
       "forecast": [
         {
           "date": "2026-07-10",
-          "max": 32.0,
+          "max": 33.0,
           "min": 15.0
         },
         {
           "date": "2026-07-11",
-          "max": 29.0,
+          "max": 30.0,
           "min": 16.0
         },
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "EU puts 'addictive' design of Facebook, Instagram under the DSA microscope",
     "Capita hears demand for pension scheme cleanup 'loud and clear' – but won't say yes"
   ],
-  "crew_quote": "\"I tell you, 33°C in Overseal, and I’m still not sweating! Must be my rugged good looks keeping the heat at bay—there's only room for one hot thing in this outfit!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry in the sun! I reckon if we don't find some shade soon, we'll be as crispy as those fried bits on a poppadom!\""
 }
