@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T10:24:35.324084+00:00",
+  "timestamp": "2026-07-10T10:55:35.180482+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
-      "conditions": "Sunny",
+      "temp": 25.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-10",
@@ -94,5 +94,5 @@
     "BOFH: Cross-department AI pitches are easier to swallow with a pint in hand",
     "Datacenter MacGyver saved the biggest football match of the year"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a Vindaloo in here! I say we ditch the ship and find a nice beach in Llandudno instead.\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo out there! Let's hope the only thing overheated is the weather and not the data on those maternity patients!\""
 }
