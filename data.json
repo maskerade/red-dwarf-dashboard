@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T02:39:27.282650+00:00",
+  "timestamp": "2026-07-10T03:10:27.781723+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Haze",
       "forecast": [
         {
@@ -26,13 +26,13 @@
         },
         {
           "date": "2026-07-11",
-          "max": 30.0,
+          "max": 29.0,
           "min": 17.0
         },
         {
           "date": "2026-07-12",
-          "max": 27.0,
-          "min": 16.0
+          "max": 26.0,
+          "min": 15.0
         }
       ]
     },
@@ -58,23 +58,23 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-10",
-          "max": 23.0,
+          "max": 22.0,
           "min": 13.0
         },
         {
           "date": "2026-07-11",
           "max": 24.0,
-          "min": 14.0
+          "min": 15.0
         },
         {
           "date": "2026-07-12",
           "max": 22.0,
-          "min": 13.0
+          "min": 14.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "AI tool scours the web for job openings, preps your resume and cover letter",
     "OpenMandriva claims disgruntled admin trashed repos after community bust-up"
   ],
-  "crew_quote": "\"With hazy skies and a mere 14 degrees, I reckon it's the perfect weather for a curry—much better than paying a million quid to some dodgy cybercriminals, eh?\""
+  "crew_quote": "\"Oi, it's a balmy 19 degrees in Overseal! Perfect weather for a curry and a bit of a jaunt, as long as we don't get hijacked by some cybercriminals first!\""
 }
