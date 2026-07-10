@@ -2626,6 +2626,12 @@
   // ── June 29 inits ──────────────────────────────────────────
   setupRimmerCitations();
 
+  // ── Deck entertainment widgets ─────────────────────────────
+  setupAwardCabinet();
+  setupBoredomIndex();
+  setupRivalDetector();
+  setupFussOMeter();
+
   // Timers at different cadences
   setInterval(renderDeckPerMinute, 30000);  // every 30s
   setInterval(renderDeckFrequent, 8000);    // every 8s
@@ -2933,6 +2939,7 @@
       renderLeftoversAlert(data);
       renderDeepThought(data);
       renderTidinessMatrix(data);
+      renderBrewCalculator(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
@@ -4603,5 +4610,224 @@
 
     update();
     setInterval(update, 30000);
+  }
+
+  // ── 66. Award Cabinet ──────────────────────────────────────
+  function setupAwardCabinet() {
+    const awards = [
+      { id: 'award-cat-winner', title: 'Best Cat Performance', icon: '🐱', winners: ['Dave Lister', 'Cat', 'Kristine Kochanski'], years: [2021, 2022, 2023] },
+      { id: 'award-toast-survivor', title: 'Toast Survival', icon: '🍞', winners: ['Kryten', 'Rimmer', 'Holly'], years: [2020, 2021, 2023] },
+      { id: 'award-curry-champion', title: 'Curry Champion', icon: '🍛', winners: ['Dave Lister', 'The Cat', 'Rimmer'], years: [2019, 2022, 2023] },
+      { id: 'award-holly-genius', title: 'Most Intelligent', icon: '🧠', winners: ['Holly', 'Kryten', 'Queeg'], years: [2018, 2021, 2022] }
+    ];
+
+    function render() {
+      let count = 0;
+      awards.forEach(function(award) {
+        const el = document.getElementById(award.id);
+        if (!el) return;
+        const idx = Math.floor(Math.random() * award.winners.length);
+        const winner = award.winners[idx];
+        const year = award.years[idx];
+        el.querySelector('.award-winner').textContent = winner;
+        el.querySelector('.award-year').textContent = year;
+        count++;
+      });
+      const totalEl = document.getElementById('award-total');
+      if (totalEl) totalEl.textContent = count + ' awards earned';
+    }
+
+    render();
+    setInterval(render, 120000);
+  }
+
+  // ── 67. Boredom Index ─────────────────────────────────────
+  function setupBoredomIndex() {
+    function calculate() {
+      const factors = {
+        'Deck maintenance': Math.floor(Math.random() * 30 + 20),
+        'Rimmer\'s whinging': Math.floor(Math.random() * 25 + 15),
+        'Cat grooming': Math.floor(Math.random() * 20 + 10),
+        'Lister\'s guitar': Math.floor(Math.random() * 20 + 5),
+        'Holly\'s poetry': Math.floor(Math.random() * 20 + 10)
+      };
+      let total = 0;
+      let count = 0;
+      Object.keys(factors).forEach(function(key) {
+        total += factors[key];
+        count++;
+      });
+      const avg = Math.min(total / count, 100);
+
+      const fillEl = document.getElementById('boredom-fill');
+      const valueEl = document.getElementById('boredom-value');
+      const statusEl = document.getElementById('boredom-status');
+      const breakdownEl = document.getElementById('boredom-breakdown');
+
+      if (fillEl) fillEl.style.width = avg + '%';
+      if (valueEl) valueEl.textContent = Math.round(avg) + '%';
+
+      let status = 'Low-level ennui detected';
+      if (avg > 70) status = 'CRITICAL: Ennui levels off the charts!';
+      else if (avg > 50) status = 'Moderate ennui — proceed with caution';
+      else if (avg > 30) status = 'Manageable boredom — recommend recreational activity';
+      if (statusEl) statusEl.textContent = status;
+
+      if (breakdownEl) {
+        breakdownEl.innerHTML = Object.keys(factors).map(function(key) {
+          return '<span>' + key + ': ' + factors[key] + '%</span>';
+        }).join('');
+      }
+    }
+
+    calculate();
+    setInterval(calculate, 45000);
+  }
+
+  // ── 68. Rival Detector ────────────────────────────────────
+  function setupRivalDetector() {
+    function scan() {
+      const rivals = [
+        { id: 'rival-cat', name: 'The Cat', base: 20 },
+        { id: 'rival-roider', name: 'Queeg 2', base: 50 },
+        { id: 'rival-holly', name: 'Holly (backup)', base: 85 }
+      ];
+
+      rivals.forEach(function(rival) {
+        const threat = Math.min(Math.max(rival.base + Math.floor(Math.random() * 21 - 10), 5), 100);
+        const el = document.getElementById(rival.id);
+        if (!el) return;
+
+        const level = threat > 70 ? 'CRITICAL' : threat > 40 ? 'MEDIUM' : 'LOW';
+        const className = threat > 70 ? 'rival-high' : threat > 40 ? 'rival-medium' : 'rival-low';
+        el.className = 'rival-item ' + className;
+        el.querySelector('.rival-threat').textContent = 'Threat Level: ' + level;
+        el.querySelector('.rival-bar-fill').style.width = threat + '%';
+      });
+
+      const updateEl = document.getElementById('rival-update');
+      if (updateEl) {
+        const now = new Date();
+        updateEl.textContent = 'Last scan: ' + now.getHours() + ':' + String(now.getMinutes()).padStart(2, '0');
+      }
+    }
+
+    scan();
+    setInterval(scan, 20000);
+  }
+
+  // ── 69. Brew Calculator ───────────────────────────────────
+  function renderBrewCalculator(data) {
+    const temp = (data && data.house && data.house.indoor_temp != null) ? data.house.indoor_temp : null;
+    const humidity = (data && data.house && data.house.indoor_humidity != null) ? data.house.indoor_humidity : null;
+
+    const tempEl = document.getElementById('brew-temp');
+    const verdictEl = document.getElementById('brew-verdict');
+    const qualityEl = document.getElementById('brew-quality');
+    const stepsEl = document.getElementById('brew-steps');
+
+    if (tempEl) tempEl.textContent = temp != null ? temp.toFixed(1) + '°C' : '--°C';
+
+    let verdict = 'Scanning thermal levels…';
+    let quality = 'Unknown';
+    let steps = [];
+
+    if (temp != null) {
+      if (temp < 15) {
+        verdict = 'Brisk! Hot brew recommended to warm the bones.';
+        quality = 'Frozen';
+        steps = ['1. Boil kettle twice', '2. Pre-warm mug', '3. Add extra-strong tea', '4. Add splash of brandy (optional)', '5. Curl up under duvet'];
+      } else if (temp < 20) {
+        verdict = 'Cool and refreshing. A standard brew is optimal.';
+        quality = 'Crisp';
+        steps = ['1. Boil kettle', '2. Warm pot', '3. Add leaves', '4. Steep 4 min', '5. Pour & enjoy'];
+      } else if (temp < 25) {
+        verdict = 'Pleasant warmth. A nice cuppa will hit the spot.';
+        quality = 'Ideal';
+        steps = ['1. Boil kettle', '2. Add leaves', '3. Steep 3 min', '4. Add milk', '5. Sip with satisfaction'];
+      } else if (temp < 30) {
+        verdict = 'Getting warm! Consider iced tea instead.';
+        quality = 'Toasty';
+        steps = ['1. Boil kettle', '2. Add leaves', '3. Steep 5 min', '4. Cool in fridge', '5. Serve over ice'];
+      } else {
+        verdict = 'Sweltering! Only cold beverages advisable.';
+        quality = 'Scorching';
+        steps = ['1. Skip the kettle entirely', '2. Grab ice from freezer', '3. Brew cold-infusion tea', '4. Add lemon', '5. Retreat to air conditioning'];
+      }
+    }
+
+    if (humidity != null) {
+      if (humidity > 70) verdict += ' Humidity is high — consider a dehumidifier while brewing.';
+      else if (humidity < 30) verdict += ' Very dry air — keep that mug close!';
+    }
+
+    if (verdictEl) verdictEl.textContent = verdict;
+    if (qualityEl) qualityEl.textContent = 'Brew quality: ' + quality;
+    if (stepsEl) {
+      stepsEl.innerHTML = steps.map(function(s) {
+        return '<div class="brew-step">' + s + '</div>';
+      }).join('');
+    }
+  }
+
+  // ── 70. Fuss-O-Meter ──────────────────────────────────────
+  function setupFussOMeter() {
+    var STORAGE_KEY = 'reddwarf_fusslog';
+    var DAILY_KEY = 'reddwarf_fussdate';
+
+    function getLog() {
+      var today = new Date().toDateString();
+      var stored = localStorage.getItem(DAILY_KEY);
+      if (stored !== today) {
+        localStorage.setItem(STORAGE_KEY, '[]');
+        localStorage.setItem(DAILY_KEY, today);
+      }
+      try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); }
+      catch (e) { return []; }
+    }
+
+    function saveLog(log) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(log.slice(-10)));
+    }
+
+    function addFuss() {
+      var log = getLog();
+      var entries = ['Kryten reorganized the condiments', 'Rimmer polished his badges', 'Cat demanded grooming time', 'Holly told a bad joke', 'Lister played guitar loudly', 'Someone moved the spanners', 'Tea was made incorrectly', 'The toaster was used unauthorized'];
+      var entry = entries[Math.floor(Math.random() * entries.length)];
+      log.push({ time: new Date().toLocaleTimeString(), entry: entry });
+      saveLog(log);
+      render();
+    }
+
+    function render() {
+      var log = getLog();
+      var level = Math.min(log.length * 10, 100);
+
+      var needleEl = document.getElementById('fuss-needle');
+      var valueEl = document.getElementById('fuss-value');
+      var labelEl = document.getElementById('fuss-label');
+      var logEl = document.getElementById('fuss-log');
+
+      if (needleEl) needleEl.style.left = level + '%';
+      if (valueEl) valueEl.textContent = level;
+
+      var label = 'No fuss detected';
+      if (level > 70) label = 'PEAK FUSS — All hands to battle stations!';
+      else if (level > 40) label = 'Moderate fuss — brace for impact';
+      else if (level > 10) label = 'Minor fuss detected';
+      if (labelEl) labelEl.textContent = label;
+
+      if (logEl) {
+        logEl.innerHTML = log.slice(-5).reverse().map(function(item) {
+          return '<span>' + item.time + ' — ' + item.entry + '</span>';
+        }).join('');
+      }
+    }
+
+    var fussBtn = document.getElementById('fuss-o-meter');
+    if (fussBtn) fussBtn.addEventListener('click', addFuss);
+
+    render();
+    setInterval(render, 15000);
   }
   })();

@@ -1062,6 +1062,58 @@ body {
 .matrix-quadrant { display:block; font-size:0.45rem; color:var(--text-dim); letter-spacing:0.05em; margin-bottom:2px; }
 .matrix-task { display:block; font-size:0.6rem; font-family:var(--font-mono-alt); color:var(--amber); }
 
+/* === 66. Award Cabinet === */
+.award-cabinet { text-align:center; }
+.award-grid { display:grid; grid-template-columns:1fr 1fr; gap:6px; padding:6px 0; }
+.award-item { background:rgba(255,255,255,0.03); border-radius:6px; padding:8px 4px; text-align:center; border:1px solid rgba(255,215,0,0.15); transition:border-color 0.3s, box-shadow 0.3s; }
+.award-item:hover { border-color:rgba(255,215,0,0.4); box-shadow:0 0 8px rgba(255,215,0,0.15); }
+.award-icon { font-size:1.4rem; margin-bottom:2px; }
+.award-title { font-size:0.5rem; color:var(--text-dim); letter-spacing:0.05em; margin-bottom:2px; }
+.award-winner { font-size:0.65rem; font-family:var(--font-mono-alt); color:var(--amber); }
+.award-year { font-size:0.45rem; color:var(--text-dim); }
+
+/* === 67. Boredom Index === */
+.boredom-index { text-align:center; }
+.boredom-gauge { width:100%; height:12px; background:rgba(255,255,255,0.06); border-radius:6px; overflow:hidden; margin:6px 0; }
+.boredom-fill { height:100%; width:0%; background:linear-gradient(90deg, var(--cyan), var(--amber)); border-radius:6px; transition:width 0.6s ease; }
+.boredom-value { font-size:1.6rem; font-family:var(--font-mono-alt); color:var(--amber); font-weight:bold; margin:4px 0; }
+.boredom-status { font-size:0.6rem; color:var(--text-dim); margin-bottom:6px; }
+.boredom-breakdown { font-size:0.5rem; color:var(--cyan); text-align:left; line-height:1.6; }
+.boredom-breakdown span { display:block; }
+
+/* === 68. Rival Detector === */
+.rival-detector { text-align:center; position:relative; overflow:hidden; }
+.rival-scan-line { position:absolute; top:0; left:0; right:0; height:2px; background:linear-gradient(90deg, transparent, var(--cyan), transparent); animation:scan-line 3s ease-in-out infinite; opacity:0.6; }
+@keyframes scan-line { 0%{top:10%} 50%{top:90%} 100%{top:10%} }
+.rival-grid { display:flex; flex-direction:column; gap:8px; padding:10px 0; }
+.rival-item { display:flex; align-items:center; gap:8px; background:rgba(255,255,255,0.03); border-radius:6px; padding:6px 8px; border-left:3px solid var(--text-dim); }
+.rival-low { border-left-color:#33ff88; }
+.rival-medium { border-left-color:var(--amber); }
+.rival-high { border-left-color:#ff4444; }
+.rival-avatar { font-size:1.2rem; }
+.rival-name { font-size:0.6rem; font-family:var(--font-mono-alt); color:var(--text-main); flex:1; }
+.rival-threat { font-size:0.45rem; color:var(--text-dim); letter-spacing:0.05em; }
+.rival-bar { width:60px; height:4px; background:rgba(255,255,255,0.08); border-radius:2px; overflow:hidden; }
+.rival-bar-fill { height:100%; background:var(--cyan); border-radius:2px; transition:width 0.6s ease; }
+
+/* === 69. Brew Calculator === */
+.brew-calculator { text-align:center; }
+.brew-temp { font-size:1.8rem; font-family:var(--font-mono-alt); color:var(--amber); margin:4px 0; }
+.brew-verdict { font-size:0.6rem; color:var(--cyan); margin-bottom:8px; }
+.brew-steps { text-align:left; padding:0 4px; }
+.brew-step { font-size:0.5rem; color:var(--text-dim); padding:3px 0; border-bottom:1px solid rgba(255,255,255,0.04); font-family:var(--font-mono-alt); }
+.brew-step:last-child { border-bottom:none; }
+
+/* === 70. Fuss-O-Meter === */
+.fuss-o-meter { text-align:center; }
+.fuss-dial { position:relative; width:100%; height:50px; margin:6px 0; background:linear-gradient(90deg, #33ff88, var(--amber), #ff4444); border-radius:8px; opacity:0.8; }
+.fuss-needle { position:absolute; top:-2px; left:0%; width:3px; height:54px; background:var(--text-main); border-radius:2px; transition:left 0.6s ease; box-shadow:0 0 6px rgba(0,0,0,0.5); }
+.fuss-scale { position:absolute; bottom:-14px; left:0; right:0; display:flex; justify-content:space-between; font-size:0.4rem; color:var(--text-dim); letter-spacing:0.05em; }
+.fuss-value { font-size:1.4rem; font-family:var(--font-mono-alt); color:var(--amber); margin:10px 0 2px; }
+.fuss-label { font-size:0.55rem; color:var(--text-dim); margin-bottom:6px; }
+.fuss-log { font-size:0.45rem; color:var(--cyan); text-align:left; line-height:1.6; }
+.fuss-log span { display:block; }
+
 /* --- Responsive --- */
 @media (max-width: 900px) {
   .grid-main {
@@ -2474,7 +2526,8 @@ body::after {
   .lighting-advisory, .string-vest, .dust-index, .snooker-advisory, .deck-comfort, .run-log, .glow-up, .panel-audit,
   .holly-told-you, .rimmer-citations, .curry-clock, .nap-index, .polite-advisory, .component-life, .staleness-timer, .glow-index, .hob-gauge, .processor-load,
   .holoship-bandwidth, .bunk-biohazard, .daily-vibe, .tea-recommendation, .auto-destruct,
-  .smell-o-meter, .jury-countdown, .leftovers-alert, .deep-thought, .tidiness-matrix { grid-column: 1 / -1; }
+  .smell-o-meter, .jury-countdown, .leftovers-alert, .deep-thought, .tidiness-matrix,
+  .award-cabinet, .boredom-index, .rival-detector, .brew-calculator, .fuss-o-meter { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
   .glance-strip { font-size: 0.6rem; gap: 10px; }
   .glance-weather { margin-left: 0; }
