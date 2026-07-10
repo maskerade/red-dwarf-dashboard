@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T12:28:37.563775+00:00",
+  "timestamp": "2026-07-10T12:59:37.963037+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 30.0,
+      "temp": 32.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "BOFH: Cross-department AI pitches are easier to swallow with a pint in hand",
     "Datacenter MacGyver saved the biggest football match of the year"
   ],
-  "crew_quote": "\"Blimey, with it being 30 degrees out, I could really fancy a nice curry – but just my luck, all we've got is that powdered stuff. Still, at least it's sunny, eh?\""
+  "crew_quote": "\"When it’s 30 degrees and sunny, the only thing I’m cooking is my curry! Forget the NHS stuff, just hand me some cold beers and a sunbed!\""
 }
