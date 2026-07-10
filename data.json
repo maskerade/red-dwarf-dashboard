@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T00:04:25.157459+00:00",
+  "timestamp": "2026-07-10T00:35:25.666031+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "An unnamed US county – perhaps in Ohio – paid $1M extortion demand to cybercriminals",
     "AI slop writing has taken over the internet, particularly LinkedIn and X",
     "AI tool scours the web for job openings, preps your resume and cover letter",
-    "OpenMandriva claims disgruntled admin trashed repos after community bust-up",
-    "SAP makes it easier for customers to shop for legacy product support, ending EU antitrust probe"
+    "OpenMandriva claims disgruntled admin trashed repos after community bust-up"
   ],
-  "crew_quote": "\"With temperatures hitting a balmy 24°C, I might actually consider venturing outside for a pint, but then again, it's probably just another day of AI slop ruining everything!\""
+  "crew_quote": "\"With temperatures hitting 24°C in Overseal, I could really go for a nice curry, but all I've got is this lousy tin of beans. Just my luck!\""
 }
