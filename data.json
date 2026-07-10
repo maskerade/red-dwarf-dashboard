@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-10T22:49:42.081618+00:00",
+  "timestamp": "2026-07-10T23:20:42.560599+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 20.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-10",
-          "max": 32.0,
-          "min": 15.0
-        },
         {
           "date": "2026-07-11",
           "max": 30.0,
@@ -33,6 +28,11 @@
           "date": "2026-07-12",
           "max": 27.0,
           "min": 15.0
+        },
+        {
+          "date": "2026-07-13",
+          "max": 26.0,
+          "min": 11.0
         }
       ]
     },
@@ -58,14 +58,9 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-10",
-          "max": 23.0,
-          "min": 13.0
-        },
         {
           "date": "2026-07-11",
           "max": 24.0,
@@ -75,17 +70,22 @@
           "date": "2026-07-12",
           "max": 23.0,
           "min": 14.0
+        },
+        {
+          "date": "2026-07-13",
+          "max": 20.0,
+          "min": 11.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "04:54 AM",
-    "sunset": "09:35 PM",
+    "sunrise": "04:55 AM",
+    "sunset": "09:34 PM",
     "moon_phase": "Waning Crescent",
-    "moon_illumination": "26",
-    "moonrise": "12:39 AM",
-    "moonset": "05:55 PM"
+    "moon_illumination": "17",
+    "moonrise": "01:07 AM",
+    "moonset": "07:24 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "LisaFPGA brings Apple's magnificent misfire back in programmable logic",
     "Orbital datacenter gold rush needs an environmental review, FCC told"
   ],
-  "crew_quote": "\"25 degrees and clear skies? Brilliant! Just perfect for a curry picnic, as long as I don’t accidentally scroll too far into that slothful app!\""
+  "crew_quote": "\"You know, with the weather being so clear and a lovely 20 degrees, it’s the perfect day for a curry and some serious head-tilting to scroll through life - very efficient!\""
 }
