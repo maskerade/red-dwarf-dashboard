@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T02:26:46.344558+00:00",
+  "timestamp": "2026-07-11T02:57:46.327612+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -53,7 +53,7 @@
         {
           "date": "2026-07-13",
           "max": 26.0,
-          "min": 11.0
+          "min": 10.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "LisaFPGA brings Apple's magnificent misfire back in programmable logic",
     "Orbital datacenter gold rush needs an environmental review, FCC told"
   ],
-  "crew_quote": "\"With the weather so clear and 20 degrees, I'm feeling inspired to put my feet up, eat a curry, and not move an inch — who needs a slothful summer app when you’ve got me?\""
+  "crew_quote": "\"20 degrees and clear skies? Brilliant! Just the right weather for a curry — and maybe a little head-tilting while I scroll through all the things I could be doing instead!\""
 }
