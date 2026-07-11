@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T12:48:00.851833+00:00",
+  "timestamp": "2026-07-11T13:19:00.272890+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 26.0,
+      "temp": 28.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 26.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package",
     "LisaFPGA brings Apple's magnificent misfire back in programmable logic"
   ],
-  "crew_quote": "\"Blimey, it’s like a bloody sauna out there! Just perfect for a curry, as long as I don’t end up sweating into the sauce!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! I might just start cooking my curry on the dashboard!\""
 }
