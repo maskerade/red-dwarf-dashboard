@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T17:27:06.074646+00:00",
+  "timestamp": "2026-07-11T17:58:06.922440+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 28.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"With it being a scorching 28 degrees in Altrincham, I reckon we should whip up a curry and celebrate this heat like the sun's our own personal hologram!\""
+  "crew_quote": "\"Blimey, it's so hot I could fry a curry on the dashboard! But at least it’s not like those datacenters guzzling power like a starving cat at an all-you-can-eat buffet!\""
 }
