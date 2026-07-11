@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T03:59:49.129483+00:00",
+  "timestamp": "2026-07-11T04:30:47.673285+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Clear ",
+      "temp": 16.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-11",
@@ -94,5 +94,5 @@
     "LisaFPGA brings Apple's magnificent misfire back in programmable logic",
     "Orbital datacenter gold rush needs an environmental review, FCC told"
   ],
-  "crew_quote": "\"19 degrees and clear skies? Perfect weather for a curry and a good old-fashioned head tilt at that lazy app! Let’s embrace the sloth, it’s practically a national sport!\""
+  "crew_quote": "\"With this lovely 19°C weather, I could really go for a curry, but knowing my luck, it’ll probably be rained out by some blasted Windows bug instead!\""
 }
