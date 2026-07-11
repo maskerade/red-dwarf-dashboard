@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T14:21:01.486970+00:00",
+  "timestamp": "2026-07-11T14:52:02.557750+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 27.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"Blimey, with it being 28 degrees out, I could fry a curry on the pavement! Just don't forget the naan, or I'll be looking for a proper backup plan!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! Must be all those Irish datacenters hogging the electricity while we sweat it out in the sun!\""
 }
