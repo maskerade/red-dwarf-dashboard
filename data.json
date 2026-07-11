@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T05:33:48.490384+00:00",
+  "timestamp": "2026-07-11T06:04:50.031158+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "LisaFPGA brings Apple's magnificent misfire back in programmable logic",
     "Orbital datacenter gold rush needs an environmental review, FCC told"
   ],
-  "crew_quote": "\"With the weather this nice, I could have a curry and still look fabulous—if only there was a slothful app for that!\""
+  "crew_quote": "\"Oi, it’s 19 degrees and sunny! Perfect weather for a curry and a nice, long scroll through that slothful app — as if we needed another reason to avoid doing anything productive!\""
 }
