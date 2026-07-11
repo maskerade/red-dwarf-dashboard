@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T03:28:47.275706+00:00",
+  "timestamp": "2026-07-11T03:59:49.129483+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-07-13",
-          "max": 20.0,
+          "max": 21.0,
           "min": 11.0
         }
       ]
@@ -94,5 +94,5 @@
     "LisaFPGA brings Apple's magnificent misfire back in programmable logic",
     "Orbital datacenter gold rush needs an environmental review, FCC told"
   ],
-  "crew_quote": "\"With the sun shining and a lovely 20 degrees, I reckon it's the perfect day for a curry and a quick head tilt to scroll through all the rubbish news!\""
+  "crew_quote": "\"19 degrees and clear skies? Perfect weather for a curry and a good old-fashioned head tilt at that lazy app! Let’s embrace the sloth, it’s practically a national sport!\""
 }
