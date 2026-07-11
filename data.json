@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T21:05:08.487475+00:00",
+  "timestamp": "2026-07-11T21:36:08.034956+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-11",
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"With a glorious 22 degrees, I reckon it’s the perfect day for a curry on the beach, just don’t ask me to lug that fridge up the sand!\""
+  "crew_quote": "\"Blimey, it’s hotter than a curry left on the heating for too long! With all this clear weather, I reckon we should have a barbecue—just don't ask Rimmer to cook!\""
 }
