@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T19:32:14.902521+00:00",
+  "timestamp": "2026-07-11T20:03:06.907144+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"24 degrees and sunny? Brilliant! Perfect weather for a curry on the deck — just gotta make sure I don’t spill it on the ship’s interior, or Kryten will have a meltdown!\""
+  "crew_quote": "\"You know, if it’s this sunny in Altrincham, we should be having a curry picnic instead of sitting in this tin can! Just think of the mango chutney!\""
 }
