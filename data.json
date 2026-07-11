@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T18:29:06.156204+00:00",
+  "timestamp": "2026-07-11T19:00:51.950509+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-11",
-          "max": 30.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-07-12",
-          "max": 27.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-13",
-          "max": 27.0,
-          "min": 12.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-11",
-          "max": 31.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-12",
-          "max": 28.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-13",
-          "max": 27.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 25.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-11",
-          "max": 24.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-12",
-          "max": 24.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-13",
-          "max": 21.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:55 AM",
-    "sunset": "09:34 PM",
-    "moon_phase": "Waning Crescent",
-    "moon_illumination": "17",
-    "moonrise": "01:07 AM",
-    "moonset": "07:24 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "AI customers are coming around to the idea that small is beautiful",
@@ -94,5 +36,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"A sunny day in Llandudno, 25 degrees! Perfect weather for a curry, but only if I can keep the power bill down like those tiny AI datacenters!\""
+  "crew_quote": "\"With Irish datacenters guzzling all that power, it's a wonder we aren't all sweating like a curry in a sauna! I mean, I've seen more energy efficiency from a three-legged hamster.\""
 }
