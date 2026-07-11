@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T13:50:05.669778+00:00",
+  "timestamp": "2026-07-11T14:21:01.486970+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI customers are coming around to the idea that small is beautiful",
     "Irish datacenters now guzzle 23% of the country's electricity",
     "Slothful summer app lets you scroll simply by tilting your head",
-    "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package",
-    "LisaFPGA brings Apple's magnificent misfire back in programmable logic"
+    "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry left on the engine grill! If we don't find some shade soon, we'll be looking like a couple of overcooked prawns!\""
+  "crew_quote": "\"Blimey, with it being 28 degrees out, I could fry a curry on the pavement! Just don't forget the naan, or I'll be looking for a proper backup plan!\""
 }
