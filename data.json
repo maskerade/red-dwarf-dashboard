@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T08:08:50.992722+00:00",
+  "timestamp": "2026-07-11T08:39:55.721865+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "LisaFPGA brings Apple's magnificent misfire back in programmable logic",
     "Orbital datacenter gold rush needs an environmental review, FCC told"
   ],
-  "crew_quote": "\"You know, if I could scroll through my life like that slothful summer app, I'd have a much sunnier disposition—especially on a day like today! Now, where’s my curry?\""
+  "crew_quote": "\"Oi, with this lovely weather, I could be soaking up the sun in Llandudno and eating a nice curry instead of dealing with all this tech rubbish!\""
 }
