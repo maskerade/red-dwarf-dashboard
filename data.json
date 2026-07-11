@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T22:07:08.726426+00:00",
+  "timestamp": "2026-07-11T22:38:09.620655+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 20.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"Clear skies and a comfy 22 degrees—perfect for a curry on the deck! Just don’t let Rimmer near the power grid; he’ll have it guzzling like an Irish datacentre!\""
+  "crew_quote": "\"With all this clear weather, I reckon we should fire up the curry machine and celebrate — nothing like a bit of heat to match the 20 degrees outside!\""
 }
