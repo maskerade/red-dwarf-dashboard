@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T14:52:02.557750+00:00",
+  "timestamp": "2026-07-11T15:23:03.179694+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 28.0,
+      "temp": 29.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! Must be all those Irish datacenters hogging the electricity while we sweat it out in the sun!\""
+  "crew_quote": "\"Look at the weather! Twenty-eight degrees and sunny — it’s practically curry-eating weather! I’d say we should celebrate with a nice cold one, but that’d just be too sensible!\""
 }
