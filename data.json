@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-11T23:40:10.659511+00:00",
+  "timestamp": "2026-07-12T00:11:06.135845+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-11",
-          "max": 30.0,
-          "min": 16.0
-        },
         {
           "date": "2026-07-12",
           "max": 27.0,
@@ -32,6 +27,11 @@
         {
           "date": "2026-07-13",
           "max": 27.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-14",
+          "max": 29.0,
           "min": 12.0
         }
       ]
@@ -58,14 +58,9 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
+      "temp": 20.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-11",
-          "max": 24.0,
-          "min": 15.0
-        },
         {
           "date": "2026-07-12",
           "max": 24.0,
@@ -75,17 +70,22 @@
           "date": "2026-07-13",
           "max": 21.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-07-14",
+          "max": 23.0,
+          "min": 11.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "04:55 AM",
-    "sunset": "09:34 PM",
+    "sunrise": "04:56 AM",
+    "sunset": "09:33 PM",
     "moon_phase": "Waning Crescent",
-    "moon_illumination": "17",
-    "moonrise": "01:07 AM",
-    "moonset": "07:24 PM"
+    "moon_illumination": "9",
+    "moonrise": "01:50 AM",
+    "moonset": "08:38 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"20 degrees and clear skies? Perfect weather for a curry, not that this ship could handle the heat of my cooking!\""
+  "crew_quote": "\"Don’t you just love a clear day? Perfect for cruising—unless you're a datacenter in Ireland, guzzling power like it's a curry at a bad all-you-can-eat!\""
 }
