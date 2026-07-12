@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T22:56:34.177303+00:00",
+  "timestamp": "2026-07-12T23:27:35.776963+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-12",
-          "max": 27.0,
-          "min": 15.0
-        },
         {
           "date": "2026-07-13",
           "max": 26.0,
@@ -33,6 +28,11 @@
           "date": "2026-07-14",
           "max": 28.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-07-15",
+          "max": 29.0,
+          "min": 15.0
         }
       ]
     },
@@ -59,13 +59,8 @@
     },
     "llandudno": {
       "temp": 21.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
-        {
-          "date": "2026-07-12",
-          "max": 24.0,
-          "min": 14.0
-        },
         {
           "date": "2026-07-13",
           "max": 20.0,
@@ -75,17 +70,22 @@
           "date": "2026-07-14",
           "max": 21.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-07-15",
+          "max": 22.0,
+          "min": 12.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "04:56 AM",
-    "sunset": "09:33 PM",
+    "sunrise": "04:57 AM",
+    "sunset": "09:32 PM",
     "moon_phase": "Waning Crescent",
-    "moon_illumination": "9",
-    "moonrise": "01:50 AM",
-    "moonset": "08:38 PM"
+    "moon_illumination": "3",
+    "moonrise": "02:55 AM",
+    "moonset": "09:30 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "AI customers are coming around to the idea that small is beautiful",
     "Irish datacenters now guzzle 23% of the country's electricity"
   ],
-  "crew_quote": "\"19 degrees and clear skies? This is the perfect day for a curry, unless you want to get stuck in the AI boom — that ride's got more twists than a bag of pretzels!\""
+  "crew_quote": "\"17 degrees in Altrincham, clear skies—perfect weather for a curry, isn’t it? Just don’t ask me to build a robot for your boom-bust web, I’m already struggling to find my left sock!\""
 }
