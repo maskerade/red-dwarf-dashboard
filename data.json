@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T05:52:16.160662+00:00",
+  "timestamp": "2026-07-12T06:23:16.514251+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 19.0,
-      "conditions": "Clear ",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-07-12",
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"Oi, with it being 19 degrees in Llandudno, I'm thinking it’s the perfect day for a curry! Just me, a pint, and the sun—now that’s what I call a good time!\""
+  "crew_quote": "\"Ah, 19 degrees in Llandudno? That's practically tropical! Perfect weather for a curry, as long as the AI doesn't try to order one for itself!\""
 }
