@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T07:56:18.211263+00:00",
+  "timestamp": "2026-07-12T08:27:19.788126+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "temp": 19.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-12",
@@ -94,5 +94,5 @@
     "Irish datacenters now guzzle 23% of the country's electricity",
     "Slothful summer app lets you scroll simply by tilting your head"
   ],
-  "crew_quote": "\"Sunny weather in Llandudno, eh? Perfect for a curry on the beach — just me, the sea, and a world of blissful ignorance about AI web rats!\""
+  "crew_quote": "\"Blimey, it’s 20 degrees and sunny out there—perfect weather for a curry and a few pints! Just remember, even the best AI can’t replicate the taste of my famous vindaloo!\""
 }
