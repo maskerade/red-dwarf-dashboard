@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T10:32:20.538435+00:00",
+  "timestamp": "2026-07-12T11:03:21.933399+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Irish datacenters now guzzle 23% of the country's electricity",
     "Slothful summer app lets you scroll simply by tilting your head"
   ],
-  "crew_quote": "\"Oi, it’s a lovely 22 degrees outside, just perfect for a nice curry, but I reckon I’d still prefer a pint of lager in the sun, innit?\""
+  "crew_quote": "\"Blimey, with a sunny 25 degrees, it’s a perfect day for a curry, and I’m feeling lucky — the AI might even start cooking for us next!\""
 }
