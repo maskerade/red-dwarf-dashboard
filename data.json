@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T09:29:19.650992+00:00",
+  "timestamp": "2026-07-12T10:01:09.421225+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-12",
-          "max": 27.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-13",
-          "max": 27.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-14",
-          "max": 28.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-12",
-          "max": 28.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-13",
-          "max": 27.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-14",
-          "max": 30.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-12",
-          "max": 23.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-13",
-          "max": 21.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-14",
-          "max": 23.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:56 AM",
-    "sunset": "09:33 PM",
-    "moon_phase": "Waning Crescent",
-    "moon_illumination": "9",
-    "moonrise": "01:50 AM",
-    "moonset": "08:38 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "It's an AI web, and we're just rats in the walls",
@@ -94,5 +36,5 @@
     "Irish datacenters now guzzle 23% of the country's electricity",
     "Slothful summer app lets you scroll simply by tilting your head"
   ],
-  "crew_quote": "\"Blimey, it's 22 degrees and sunny — perfect weather for a curry run! Forget the AIs, let's just enjoy life while we can!\""
+  "crew_quote": "\"With no power and no weather, it's like we're just floating in a cosmic curry pot, waiting for the AI to serve us up some tiny, beautiful misery!\""
 }
