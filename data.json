@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T23:27:35.776963+00:00",
+  "timestamp": "2026-07-12T23:58:36.696615+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,14 +37,9 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 15.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-12",
-          "max": 27.0,
-          "min": 14.0
-        },
         {
           "date": "2026-07-13",
           "max": 27.0,
@@ -54,6 +49,11 @@
           "date": "2026-07-14",
           "max": 28.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-07-15",
+          "max": 29.0,
+          "min": 14.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "AI customers are coming around to the idea that small is beautiful",
     "Irish datacenters now guzzle 23% of the country's electricity"
   ],
-  "crew_quote": "\"17 degrees in Altrincham, clear skies—perfect weather for a curry, isn’t it? Just don’t ask me to build a robot for your boom-bust web, I’m already struggling to find my left sock!\""
+  "crew_quote": "\"With the weather clear and me just wondering if it's too warm for a curry, I can't help but feel we're all just rats in the walls of this AI web, mate!\""
 }
