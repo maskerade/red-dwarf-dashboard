@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T01:13:10.293020+00:00",
+  "timestamp": "2026-07-12T01:44:10.404433+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"19 degrees and clear skies? Blimey, that's practically tropical! I could really go for a curry picnic under that nice weather, if I could just remember where I left my lunch!\""
+  "crew_quote": "\"When the weather's this clear, it's a crime not to have a cold curry and a pint, but with datacentres guzzling power, I guess we’ll just have to enjoy it while it lasts!\""
 }
