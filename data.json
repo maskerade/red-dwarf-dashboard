@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T04:50:15.152374+00:00",
+  "timestamp": "2026-07-12T05:21:15.470471+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"19 degrees in Llandudno? Blimey! I’d say it’s the perfect weather for a curry, assuming we can get the power back on before the datacenters eat all the energy!\""
+  "crew_quote": "\"Blimey, it's 19 degrees in Llandudno! Perfect weather for a curry — just need to make sure the datacenters take a break from guzzling all that power!\""
 }
