@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T12:05:25.214783+00:00",
+  "timestamp": "2026-07-12T12:36:22.439030+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AI customers are coming around to the idea that small is beautiful",
     "Irish datacenters now guzzle 23% of the country's electricity"
   ],
-  "crew_quote": "\"Isn't it lovely out there? Makes me feel like I should be lounging on a beach instead of stuck in here, but then again, who needs sun when you've got curry?\""
+  "crew_quote": "\"With all this heat, I reckon even the AIs are sweating in their circuits — tell 'em to cool off with a nice curry!\""
 }
