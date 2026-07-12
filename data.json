@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T03:17:13.872772+00:00",
+  "timestamp": "2026-07-12T03:48:13.780762+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -53,7 +53,7 @@
         {
           "date": "2026-07-14",
           "max": 30.0,
-          "min": 12.0
+          "min": 13.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"You know, with the weather being 20°C in Llandudno, I might just take me a little trip there — even if the only thing I’ll pack is a curry and me lucky socks!\""
+  "crew_quote": "\"Blimey, it’s clear skies and 20 degrees in Llandudno! Perfect curry weather, but I bet the Irish datacenters are guzzling it all up like it’s a vat of vindaloo!\""
 }
