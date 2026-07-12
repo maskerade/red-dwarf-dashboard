@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T15:11:25.099926+00:00",
+  "timestamp": "2026-07-12T15:42:25.580881+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -26,7 +26,7 @@
         },
         {
           "date": "2026-07-13",
-          "max": 27.0,
+          "max": 26.0,
           "min": 11.0
         },
         {
@@ -58,22 +58,22 @@
       ]
     },
     "llandudno": {
-      "temp": 26.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-12",
-          "max": 23.0,
+          "max": 24.0,
           "min": 14.0
         },
         {
           "date": "2026-07-13",
-          "max": 21.0,
+          "max": 20.0,
           "min": 11.0
         },
         {
           "date": "2026-07-14",
-          "max": 23.0,
+          "max": 22.0,
           "min": 11.0
         }
       ]
@@ -94,5 +94,5 @@
     "AI customers are coming around to the idea that small is beautiful",
     "Irish datacenters now guzzle 23% of the country's electricity"
   ],
-  "crew_quote": "\"Blimey, it's hotter than the inside of a curry pot out there! Makes me wonder if we’re living in a simulation or just Lister's cooking gone wrong.\""
+  "crew_quote": "\"Oi, with it being 27 degrees and sunny, I've got a brilliant idea for dinner — let's have a curry so spicy it'll make the AI boom feel like an ice-cold lemonade!\""
 }
