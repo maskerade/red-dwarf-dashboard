@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T21:54:32.701740+00:00",
+  "timestamp": "2026-07-12T22:25:34.181099+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-12",
@@ -48,11 +48,11 @@
         {
           "date": "2026-07-13",
           "max": 27.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-07-14",
-          "max": 29.0,
+          "max": 28.0,
           "min": 12.0
         }
       ]
@@ -94,5 +94,5 @@
     "AI customers are coming around to the idea that small is beautiful",
     "Irish datacenters now guzzle 23% of the country's electricity"
   ],
-  "crew_quote": "\"What’s the weather like outside, Holly? A lovely 19 degrees? Perfect for a pint and a curry, unless they’ve started serving AI-flavored poppadoms!\""
+  "crew_quote": "\"Oh, lovely weather today! Perfect for a nice pint and a curry, while we all pretend we understand this AI boom, which is about as clear as a foggy day in Llandudno!\""
 }
