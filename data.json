@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T14:09:25.605433+00:00",
+  "timestamp": "2026-07-12T14:40:25.102793+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 26.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AI customers are coming around to the idea that small is beautiful",
     "Irish datacenters now guzzle 23% of the country's electricity"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a curry on a sunny day! How about we exchange the AI rollercoaster for a nice pint in this sweltering weather?\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo out there! With all this AI madness, I'm starting to feel like I'm trapped in a sun-soaked episode of 'Rats in the Walls'!\""
 }
