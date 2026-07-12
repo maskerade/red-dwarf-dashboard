@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T07:25:17.422076+00:00",
+  "timestamp": "2026-07-12T07:56:18.211263+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
-      "conditions": "Mist",
+      "temp": 20.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-12",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "It's an AI web, and we're just rats in the walls",
     "AI customers are coming around to the idea that small is beautiful",
     "Irish datacenters now guzzle 23% of the country's electricity",
-    "Slothful summer app lets you scroll simply by tilting your head",
-    "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
+    "Slothful summer app lets you scroll simply by tilting your head"
   ],
-  "crew_quote": "\"Brilliant! Looks like the weather's perfect for a curry and a pint, just as long as we steer clear of those Irish data centers guzzling all the power!\""
+  "crew_quote": "\"Sunny weather in Llandudno, eh? Perfect for a curry on the beach — just me, the sea, and a world of blissful ignorance about AI web rats!\""
 }
