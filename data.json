@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T02:46:10.862675+00:00",
+  "timestamp": "2026-07-12T03:17:13.872772+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -27,12 +27,12 @@
         {
           "date": "2026-07-13",
           "max": 27.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-07-14",
-          "max": 29.0,
-          "min": 12.0
+          "max": 30.0,
+          "min": 13.0
         }
       ]
     },
@@ -63,17 +63,17 @@
       "forecast": [
         {
           "date": "2026-07-12",
-          "max": 24.0,
+          "max": 23.0,
           "min": 13.0
         },
         {
           "date": "2026-07-13",
-          "max": 21.0,
+          "max": 20.0,
           "min": 11.0
         },
         {
           "date": "2026-07-14",
-          "max": 23.0,
+          "max": 25.0,
           "min": 11.0
         }
       ]
@@ -94,5 +94,5 @@
     "Slothful summer app lets you scroll simply by tilting your head",
     "Destructive Windows backdoor stuffs multiple wipers and ransomware code into a single package"
   ],
-  "crew_quote": "\"Oh, come on! It’s 20 degrees in Llandudno and I’m stuck in a metal box with a load of power-hungry computers—where’s my balmy beach day and a curry?\""
+  "crew_quote": "\"You know, with the weather being 20°C in Llandudno, I might just take me a little trip there — even if the only thing I’ll pack is a curry and me lucky socks!\""
 }
