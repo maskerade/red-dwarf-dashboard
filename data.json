@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T11:03:21.933399+00:00",
+  "timestamp": "2026-07-12T11:34:20.940265+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Memory makers are slaves to the boom-bust rollercoaster, and the AI boom is the wildest ride of all",
     "It's an AI web, and we're just rats in the walls",
     "AI customers are coming around to the idea that small is beautiful",
-    "Irish datacenters now guzzle 23% of the country's electricity",
-    "Slothful summer app lets you scroll simply by tilting your head"
+    "Irish datacenters now guzzle 23% of the country's electricity"
   ],
-  "crew_quote": "\"Blimey, with a sunny 25 degrees, it’s a perfect day for a curry, and I’m feeling lucky — the AI might even start cooking for us next!\""
+  "crew_quote": "\"With the sun blazing down like a nuclear explosion, I bet even a curry would be too hot for this weather — unless it's a proper vindaloo, then it’s just a sizzling sensation!\""
 }
