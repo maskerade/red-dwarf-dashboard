@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T08:16:10.983383+00:00",
+  "timestamp": "2026-07-13T08:47:15.034293+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft is losing the battle to protect license lucre. It better get used to the feeling",
     "AI needs a home, not a hotel",
     "Apple accuses OpenAI of stealing its core tech secrets",
-    "User crippled a network while trying to learn Nmap",
-    "Meta admits its first ‘superintelligence’ was too stupid to survive for three days"
+    "User crippled a network while trying to learn Nmap"
   ],
-  "crew_quote": "\"What a lovely sunny day! If only I could find an AI to do my cooking; I'd trade it for my last curry, and I reckon it could whip up something better than this ship!\""
+  "crew_quote": "\"I'm telling you, in this kind of weather, I'd sweat out the best curry on the ship and still look fabulous—air conditioning or not!\""
 }
