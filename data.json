@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T07:14:11.286199+00:00",
+  "timestamp": "2026-07-13T07:45:10.810416+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Lenovo denies using banned Chinese SSDs where they're not allowed",
     "Memory makers are slaves to the boom-bust rollercoaster, and the AI boom is the wildest ride of all"
   ],
-  "crew_quote": "\"Sunny out in Llandudno, perfect for a pint and a curry – just don’t let that superintelligence try to order the takeaway, or we’ll be having soup for dinner!\""
+  "crew_quote": "\"15 degrees and sunny? Perfect curry weather! I can tell you, the only thing hotter than this day is my nan's vindaloo!\""
 }
