@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T02:34:44.141665+00:00",
+  "timestamp": "2026-07-13T03:05:47.014149+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,23 +37,23 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Clear ",
+      "temp": 14.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-13",
-          "max": 27.0,
+          "max": 26.0,
           "min": 11.0
         },
         {
           "date": "2026-07-14",
-          "max": 28.0,
+          "max": 29.0,
           "min": 12.0
         },
         {
           "date": "2026-07-15",
           "max": 29.0,
-          "min": 14.0
+          "min": 13.0
         }
       ]
     },
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Lenovo denies using banned Chinese SSDs where they're not allowed",
     "Memory makers are slaves to the boom-bust rollercoaster, and the AI boom is the wildest ride of all",
     "It's an AI web, and we're just rats in the walls",
-    "AI customers are coming around to the idea that small is beautiful",
-    "Irish datacenters now guzzle 23% of the country's electricity"
+    "AI customers are coming around to the idea that small is beautiful"
   ],
-  "crew_quote": "\"Blimey, with the weather as clear as that, we could almost go for a curry on the beach—if only the universe would stop spinning like a mad AI coaster!\""
+  "crew_quote": "\"Clear skies and a balmy 14 degrees? Perfect curry weather, if you ask me! Just add a bit of spice and I've got the best night in the universe planned!\""
 }
