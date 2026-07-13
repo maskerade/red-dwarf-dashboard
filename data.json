@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T05:09:52.109071+00:00",
+  "timestamp": "2026-07-13T05:40:54.009688+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Clear ",
+      "temp": 16.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-13",
@@ -94,5 +94,5 @@
     "Memory makers are slaves to the boom-bust rollercoaster, and the AI boom is the wildest ride of all",
     "It's an AI web, and we're just rats in the walls"
   ],
-  "crew_quote": "\"Can you believe it? A sunny 14 degrees! Perfect weather for a curry, and just the right excuse to not think about that daft 'superintelligence'.\""
+  "crew_quote": "\"Sunny weather like this just makes me want to have a pint and a curry, not think about some daft superintelligence that couldn’t even last three days!\""
 }
