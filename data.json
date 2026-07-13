@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T07:45:10.810416+00:00",
+  "timestamp": "2026-07-13T08:16:10.983383+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI needs a home, not a hotel",
+    "Apple accuses OpenAI of stealing its core tech secrets",
     "User crippled a network while trying to learn Nmap",
-    "Meta admits its first ‘superintelligence’ was too stupid to survive for three days",
-    "Lenovo denies using banned Chinese SSDs where they're not allowed",
-    "Memory makers are slaves to the boom-bust rollercoaster, and the AI boom is the wildest ride of all"
+    "Meta admits its first ‘superintelligence’ was too stupid to survive for three days"
   ],
-  "crew_quote": "\"15 degrees and sunny? Perfect curry weather! I can tell you, the only thing hotter than this day is my nan's vindaloo!\""
+  "crew_quote": "\"What a lovely sunny day! If only I could find an AI to do my cooking; I'd trade it for my last curry, and I reckon it could whip up something better than this ship!\""
 }
