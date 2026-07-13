@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T11:53:20.701619+00:00",
+  "timestamp": "2026-07-13T12:24:21.345291+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 23.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Backup and running? Not this digital sign",
-    "Photovoltaics are still running after a year under Swiss trains",
-    "Microsoft is losing the battle to protect license lucre. It better get used to the feeling",
-    "AI needs a home, not a hotel"
+    "World Cup grudge attackers may have scored Argentine FA access via year-old infostealer infection",
+    "HTTP gets a QUERY method so complex searches can stop pretending to be POST",
+    "Progress orders emergency ShareFile server shutdown over mystery security threat",
+    "Backup and running? Not this digital sign"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a vindaloo out there! You’d think we were on holiday in Llandudno instead of floating around in space!\""
+  "crew_quote": "\"With all this sunshine, I reckon the only thing hotter than Altrincham's weather is my curry tonight—unless Rimmer's ego gets any bigger!\""
 }
