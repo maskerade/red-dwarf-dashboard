@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T12:55:24.574393+00:00",
+  "timestamp": "2026-07-13T13:26:26.375614+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft emails Windows 10 holdouts: Fine, keep your old PC another year",
     "World Cup grudge attackers may have scored Argentine FA access via year-old infostealer infection",
     "HTTP gets a QUERY method so complex searches can stop pretending to be POST",
-    "Progress orders emergency ShareFile server shutdown over mystery security threat",
-    "Backup and running? Not this digital sign"
+    "Progress orders emergency ShareFile server shutdown over mystery security threat"
   ],
-  "crew_quote": "\"With the sun shining at a glorious 22 degrees in Altrincham, I reckon it’s curry and a cold one for dinner—because why let a perfect day go to waste not enjoying it?\""
+  "crew_quote": "\"Blimey, it's hotter than a curry on fire outside! I hope the computer isn't as outdated as those Windows 10 fans clinging to their old PCs.\""
 }
