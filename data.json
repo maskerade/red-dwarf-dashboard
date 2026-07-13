@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T22:45:42.522706+00:00",
+  "timestamp": "2026-07-13T23:16:43.967549+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,23 +37,23 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
-          "date": "2026-07-13",
-          "max": 26.0,
-          "min": 10.0
-        },
-        {
           "date": "2026-07-14",
           "max": 28.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-07-15",
           "max": 29.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-07-16",
+          "max": 30.0,
+          "min": 11.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
     "German firm files for insolvency, blames cybercrims who shut down production for 6 weeks"
   ],
-  "crew_quote": "\"You know, with it being 19 degrees in Llandudno, I could really go for a curry. A nice chicken vindaloo, spicy enough to sweat out a bit of this sunshine!\""
+  "crew_quote": "\"Well, at least it’s nice and clear outside—perfect weather for a curry run, don’t you think? Nothing like a bit of sunshine to spice up the day!\""
 }
