@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T09:49:19.135612+00:00",
+  "timestamp": "2026-07-13T10:20:20.044449+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 19.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -26,12 +26,12 @@
         },
         {
           "date": "2026-07-14",
-          "max": 28.0,
-          "min": 12.0
+          "max": 29.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-15",
-          "max": 29.0,
+          "max": 30.0,
           "min": 16.0
         }
       ]
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-07-14",
-          "max": 21.0,
-          "min": 11.0
+          "max": 24.0,
+          "min": 12.0
         },
         {
           "date": "2026-07-15",
           "max": 24.0,
-          "min": 12.0
+          "min": 14.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Backup and running? Not this digital sign",
     "Photovoltaics are still running after a year under Swiss trains",
     "Microsoft is losing the battle to protect license lucre. It better get used to the feeling",
-    "AI needs a home, not a hotel",
-    "Apple accuses OpenAI of stealing its core tech secrets"
+    "AI needs a home, not a hotel"
   ],
-  "crew_quote": "\"With this lovely 18°C weather, I could really go for a curry outside! As long as the sun's out, we might even manage to avoid any more of Rimmer's dreadful advice.\""
+  "crew_quote": "\"Sunny days like this make me wish I had a pint in one hand and a curry in the other—though knowing my luck, I'd probably spill half of it on the floor!\""
 }
