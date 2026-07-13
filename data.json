@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T21:12:39.206945+00:00",
+  "timestamp": "2026-07-13T21:43:40.644478+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-13",
@@ -94,5 +94,5 @@
     "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
     "German firm files for insolvency, blames cybercrims who shut down production for 6 weeks"
   ],
-  "crew_quote": "\"20 degrees and clear skies, it’s the perfect day for a curry on the beach! But knowing my luck, I’ll probably just end up spreadsheeting my life away!\""
+  "crew_quote": "\"With a gorgeous 21 degrees in Llandudno, I could really do with a curry on the beach—perfect weather for pretending I'm a millionaire!\""
 }
