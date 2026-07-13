@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T13:26:26.375614+00:00",
+  "timestamp": "2026-07-13T13:57:25.473694+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
-      "conditions": "Partly cloudy",
+      "temp": 25.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-13",
@@ -94,5 +94,5 @@
     "HTTP gets a QUERY method so complex searches can stop pretending to be POST",
     "Progress orders emergency ShareFile server shutdown over mystery security threat"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry on fire outside! I hope the computer isn't as outdated as those Windows 10 fans clinging to their old PCs.\""
+  "crew_quote": "\"Ah, a lovely 25 degrees, just perfect for a cold beer and a curry on the beach — if only we weren’t stuck lightyears away from any sunny coast!\""
 }
