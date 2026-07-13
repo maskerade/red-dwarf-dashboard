@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T22:14:41.405426+00:00",
+  "timestamp": "2026-07-13T22:45:42.522706+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -27,12 +27,12 @@
         {
           "date": "2026-07-14",
           "max": 28.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-07-15",
           "max": 29.0,
-          "min": 15.0
+          "min": 14.0
         }
       ]
     },
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
+      "temp": 19.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
     "German firm files for insolvency, blames cybercrims who shut down production for 6 weeks"
   ],
-  "crew_quote": "\"Well, if it's 21 degrees in Llandudno, it’s a perfect day for a curry outside! Who knew spreadsheets could get people out on the streets? Just don't let them near my vindaloo!\""
+  "crew_quote": "\"You know, with it being 19 degrees in Llandudno, I could really go for a curry. A nice chicken vindaloo, spicy enough to sweat out a bit of this sunshine!\""
 }
