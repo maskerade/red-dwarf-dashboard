@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T14:28:26.666321+00:00",
+  "timestamp": "2026-07-13T14:59:27.780127+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 26.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Sticker shock has execs rethinking this whole AI thing",
+    "Lucky 13: SpaceX aims for July 16 Starship flight test",
     "Microsoft emails Windows 10 holdouts: Fine, keep your old PC another year",
-    "World Cup grudge attackers may have scored Argentine FA access via year-old infostealer infection",
-    "HTTP gets a QUERY method so complex searches can stop pretending to be POST",
-    "Progress orders emergency ShareFile server shutdown over mystery security threat"
+    "World Cup grudge attackers may have scored Argentine FA access via year-old infostealer infection"
   ],
-  "crew_quote": "\"25 degrees and sunny? Perfect weather for a pint and a curry! Who cares about old PCs when you can just chill like a proper human?\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! I’d better get my curry fix before I fry in this tropical paradise!\""
 }
