@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T14:59:27.780127+00:00",
+  "timestamp": "2026-07-13T15:30:30.897291+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "SREs to AI agents: Prove yourself before you touch production",
     "Sticker shock has execs rethinking this whole AI thing",
     "Lucky 13: SpaceX aims for July 16 Starship flight test",
-    "Microsoft emails Windows 10 holdouts: Fine, keep your old PC another year",
-    "World Cup grudge attackers may have scored Argentine FA access via year-old infostealer infection"
+    "Microsoft emails Windows 10 holdouts: Fine, keep your old PC another year"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! I’d better get my curry fix before I fry in this tropical paradise!\""
+  "crew_quote": "\"It's hotter than a vindaloo in a sauna today! I might just set up a curry stand on the ship, y'know, see if I can cash in on this weather!\""
 }
