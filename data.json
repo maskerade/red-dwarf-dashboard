@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T19:08:35.476074+00:00",
+  "timestamp": "2026-07-13T19:39:35.197849+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Astronomers find sugar near the creamy center of the Milky Way (no caramel, though)",
     "Philips to replace bricked Hue Bridge Pro devices"
   ],
-  "crew_quote": "\"Blimey, it’s bloody roasting outside at 25 degrees! Perfect day for a curry and a nice cold lager before we dive into the chaos of cybercrims and AI dramas!\""
+  "crew_quote": "\"Blimey, it’s a whopping 23 degrees in Llandudno! If this keeps up, I might finally be able to convince Kryten to whip up a curry instead of that weird soy stuff!\""
 }
