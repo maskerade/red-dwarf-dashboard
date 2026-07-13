@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T16:33:32.993425+00:00",
+  "timestamp": "2026-07-13T17:04:34.614584+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,23 +37,23 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-13",
-          "max": 27.0,
+          "max": 26.0,
           "min": 10.0
         },
         {
           "date": "2026-07-14",
-          "max": 30.0,
-          "min": 13.0
+          "max": 28.0,
+          "min": 12.0
         },
         {
           "date": "2026-07-15",
-          "max": 31.0,
-          "min": 14.0
+          "max": 29.0,
+          "min": 13.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "Lucky 13: SpaceX aims for July 16 Starship flight test",
     "Microsoft emails Windows 10 holdouts: Fine, keep your old PC another year"
   ],
-  "crew_quote": "\"Blimey, it’s so sunny out there, I might just fry my curry in the street! If only the power was as high as the temperatures, maybe we'd have a chance at a decent meal!\""
+  "crew_quote": "\"Oi, with this heat, the only thing hotter than the sun is my legendary curry! Let's just hope the execs don't burn their fingers playing with those AI toys!\""
 }
