@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T20:41:38.478170+00:00",
+  "timestamp": "2026-07-13T21:12:39.206945+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 20.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-13",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 23.0,
-      "conditions": "Sunny",
+      "temp": 21.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-13",
@@ -94,5 +94,5 @@
     "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
     "German firm files for insolvency, blames cybercrims who shut down production for 6 weeks"
   ],
-  "crew_quote": "\"Cor, I could really go for a curry in this lovely 22-degree weather! Just hope the only thing getting extreme today isn’t my love life!\""
+  "crew_quote": "\"20 degrees and clear skies, it’s the perfect day for a curry on the beach! But knowing my luck, I’ll probably just end up spreadsheeting my life away!\""
 }
