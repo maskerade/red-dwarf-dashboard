@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T04:38:51.180127+00:00",
+  "timestamp": "2026-07-13T05:09:52.109071+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Meta admits its first ‘superintelligence’ was too stupid to survive for three days",
     "Lenovo denies using banned Chinese SSDs where they're not allowed",
     "Memory makers are slaves to the boom-bust rollercoaster, and the AI boom is the wildest ride of all",
-    "It's an AI web, and we're just rats in the walls",
-    "AI customers are coming around to the idea that small is beautiful"
+    "It's an AI web, and we're just rats in the walls"
   ],
-  "crew_quote": "\"Did you see the weather? A glorious 17°C in Llandudno! Perfect for a curry run — just me, the sun, and a mountain of chips!\""
+  "crew_quote": "\"Can you believe it? A sunny 14 degrees! Perfect weather for a curry, and just the right excuse to not think about that daft 'superintelligence'.\""
 }
