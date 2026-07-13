@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T10:20:20.044449+00:00",
+  "timestamp": "2026-07-13T10:51:22.139097+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft is losing the battle to protect license lucre. It better get used to the feeling",
     "AI needs a home, not a hotel"
   ],
-  "crew_quote": "\"Sunny days like this make me wish I had a pint in one hand and a curry in the other—though knowing my luck, I'd probably spill half of it on the floor!\""
+  "crew_quote": "\"19 degrees and sunny? I could really go for a pint and a curry, but instead, I suppose I’ll just sit here sweating while the ship's fancy solar panels do their thing!\""
 }
