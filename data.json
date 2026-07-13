@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T17:35:31.081295+00:00",
+  "timestamp": "2026-07-13T18:06:32.158595+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 26.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "SREs to AI agents: Prove yourself before you touch production",
-    "Sticker shock has execs rethinking this whole AI thing",
-    "Lucky 13: SpaceX aims for July 16 Starship flight test",
-    "Microsoft emails Windows 10 holdouts: Fine, keep your old PC another year"
+    "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
+    "German firm files for insolvency, blames cybercrims who shut down production for 6 weeks",
+    "Astronomers find sugar near the creamy center of the Milky Way (no caramel, though)",
+    "Philips to replace bricked Hue Bridge Pro devices"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo outside, but at least I don't have to worry about AI in production… just my curry burning on the stove!\""
+  "crew_quote": "\"Oi, with it sunny and 25 degrees outside, I reckon it's a perfect day for a curry and a pint—much better than worrying about Microsoft playing hide and seek with their intelligence!\""
 }
