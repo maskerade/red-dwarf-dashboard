@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T08:47:15.034293+00:00",
+  "timestamp": "2026-07-13T09:18:17.560753+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,23 +37,23 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-13",
-          "max": 26.0,
-          "min": 11.0
+          "max": 27.0,
+          "min": 10.0
         },
         {
           "date": "2026-07-14",
-          "max": 29.0,
-          "min": 12.0
+          "max": 30.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-15",
-          "max": 29.0,
-          "min": 13.0
+          "max": 31.0,
+          "min": 14.0
         }
       ]
     },
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Photovoltaics are still running after a year under Swiss trains",
     "Microsoft is losing the battle to protect license lucre. It better get used to the feeling",
     "AI needs a home, not a hotel",
-    "Apple accuses OpenAI of stealing its core tech secrets",
-    "User crippled a network while trying to learn Nmap"
+    "Apple accuses OpenAI of stealing its core tech secrets"
   ],
-  "crew_quote": "\"I'm telling you, in this kind of weather, I'd sweat out the best curry on the ship and still look fabulous—air conditioning or not!\""
+  "crew_quote": "\"Can you believe it's 18°C in Llandudno? I'm thinking of making curry, but if it gets any hotter, I might just end up in a sunbathing contest with the Cat!\""
 }
