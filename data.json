@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T20:10:36.646985+00:00",
+  "timestamp": "2026-07-13T20:41:38.478170+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Excel competition goes extreme, makes spreadsheet geeks compete from the street",
+    "The price is wrong: AI cost calculation has to consider task completion rates, not just token costs",
     "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
-    "German firm files for insolvency, blames cybercrims who shut down production for 6 weeks",
-    "Astronomers find sugar near the creamy center of the Milky Way (no caramel, though)",
-    "Philips to replace bricked Hue Bridge Pro devices"
+    "German firm files for insolvency, blames cybercrims who shut down production for 6 weeks"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry left in the sun! I’m tempted to just set up a beach chair right here in the ship—who needs AI when you've got rays like this?\""
+  "crew_quote": "\"Cor, I could really go for a curry in this lovely 22-degree weather! Just hope the only thing getting extreme today isn’t my love life!\""
 }
