@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T03:36:52.892391+00:00",
+  "timestamp": "2026-07-13T04:07:50.580734+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 14.0,
-      "conditions": "Clear ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-13",
@@ -27,12 +27,12 @@
         {
           "date": "2026-07-14",
           "max": 28.0,
-          "min": 13.0
+          "min": 12.0
         },
         {
           "date": "2026-07-15",
           "max": 29.0,
-          "min": 15.0
+          "min": 16.0
         }
       ]
     },
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-07-15",
-          "max": 22.0,
+          "max": 24.0,
           "min": 12.0
         }
       ]
@@ -94,5 +94,5 @@
     "It's an AI web, and we're just rats in the walls",
     "AI customers are coming around to the idea that small is beautiful"
   ],
-  "crew_quote": "\"Clear skies and a nice 14 degrees? I could throw a barbecue on the spaceship! Just need to figure out how to cook curry in zero gravity…”"
+  "crew_quote": "\"Ah, sunny 14 degrees today! Perfect weather for a nice curry, as long as we don't accidentally sauté the onboard AI into an existential crisis!\""
 }
