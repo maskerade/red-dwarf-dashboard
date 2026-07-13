@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T13:57:25.473694+00:00",
+  "timestamp": "2026-07-13T14:28:26.666321+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "HTTP gets a QUERY method so complex searches can stop pretending to be POST",
     "Progress orders emergency ShareFile server shutdown over mystery security threat"
   ],
-  "crew_quote": "\"Ah, a lovely 25 degrees, just perfect for a cold beer and a curry on the beach — if only we weren’t stuck lightyears away from any sunny coast!\""
+  "crew_quote": "\"25 degrees and sunny? Perfect weather for a pint and a curry! Who cares about old PCs when you can just chill like a proper human?\""
 }
