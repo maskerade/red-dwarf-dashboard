@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T17:23:34.098914+00:00",
+  "timestamp": "2026-07-14T17:54:34.173871+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 26.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft rolls out Windows Search updates and they're... quite good",
     "RISC-V firmware project wants every board booting from the same hymn sheet"
   ],
-  "crew_quote": "\"Sunny weather like this makes me think a nice curry would really hit the spot — I might even risk it and add a bit of extra spicy for a change!\""
+  "crew_quote": "\"You know, with it being 26 degrees in Altrincham, I could really fancy a nice curry — perfect for soaking up the sunshine and the beer, innit?\""
 }
