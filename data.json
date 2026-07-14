@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T22:34:43.848546+00:00",
+  "timestamp": "2026-07-14T23:05:45.968839+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
     "If you want Claude to speak nicely to you, try Hindi or Arabic",
     "New York becomes first state to halt datacenter buildouts",
-    "DeepMind bigbrain calls for America to set AI standards before it's too late",
-    "Welsh Doxbin admin jailed for egging on swatters from behind a screen"
+    "DeepMind bigbrain calls for America to set AI standards before it's too late"
   ],
-  "crew_quote": "\"I'm telling you, in Llandudno at 20 degrees, the only thing better than a curry is a nice stroll along the beach—preferably with someone who appreciates my fabulousness!\""
+  "crew_quote": "\"With weather like this, I could really go for a curry and some sunbathing—just me, a pint, and the thought of all those Microsoft patches falling apart!\""
 }
