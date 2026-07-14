@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T11:42:20.231951+00:00",
+  "timestamp": "2026-07-14T12:13:24.845881+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Hands off our VPNs, privacy groups tell UK ministers",
     "Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websites",
     "Frame: A new X11 server – implemented directly in assembly",
-    "India's crewed space mission is ready for splashdown, but not launch",
-    "How do you solve a problem like Capita?"
+    "India's crewed space mission is ready for splashdown, but not launch"
   ],
-  "crew_quote": "\"Well, with all this sunny weather, I reckon it's the perfect time for a nice curry outside — just as long as the smoke doesn't ruin my meal! Cheers, mate.\""
+  "crew_quote": "\"Well, it's 22 degrees out and I’m thinking it’s the perfect weather for a curry, but only if it doesn't involve baddies exploiting Joomla—don't fancy that in my takeaway!\""
 }
