@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T06:32:07.187745+00:00",
+  "timestamp": "2026-07-14T07:03:10.501739+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "India’s tech services giant HCL is getting into the AI datacenter business",
     "Gobi X: Creating more energy for AI, not taking it from society"
   ],
-  "crew_quote": "\"14 degrees and partly cloudy? Blimey, it's like the universe is trying to decide whether to rain or just throw a mild tantrum!\""
+  "crew_quote": "\"With a temperature like that, I’m surprised no one’s trying to sell me a curry ice cream! It's too sunny for my liking, mate.\""
 }
