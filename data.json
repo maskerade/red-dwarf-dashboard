@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T12:13:24.845881+00:00",
+  "timestamp": "2026-07-14T12:44:22.996776+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Smoke",
+      "temp": 24.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-14",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "'The bots are alive!' Jailbroken Gemini spun up new C2 server for Russian fraudster in just 6 minutes",
     "Hands off our VPNs, privacy groups tell UK ministers",
     "Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websites",
-    "Frame: A new X11 server – implemented directly in assembly",
-    "India's crewed space mission is ready for splashdown, but not launch"
+    "Frame: A new X11 server – implemented directly in assembly"
   ],
-  "crew_quote": "\"Well, it's 22 degrees out and I’m thinking it’s the perfect weather for a curry, but only if it doesn't involve baddies exploiting Joomla—don't fancy that in my takeaway!\""
+  "crew_quote": "\"24 degrees in Altrincham? That's about as close to a tropical holiday as we're gonna get on this rustbucket! Fancy a curry on the sun deck, or is that too posh for you lot?\""
 }
