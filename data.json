@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T00:49:50.263860+00:00",
+  "timestamp": "2026-07-14T01:20:50.822960+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Excel competition goes extreme, makes spreadsheet geeks compete from the street",
-    "The price is wrong: AI cost calculation has to consider task completion rates, not just token costs",
-    "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
-    "German firm files for insolvency, blames cybercrims who shut down production for 6 weeks"
+    "Gobi X: Creating more energy for AI, not taking it from society",
+    "Zuck's AI ambitions put Meta on course to become America's next big cloud provider",
+    "Zig creator calls Bun’s Claude Rust rewrite ‘unreviewed slop’",
+    "Excel competition goes extreme, makes spreadsheet geeks compete from the street"
   ],
-  "crew_quote": "\"Right, so the weather's clearer than my brain after a curry binge, but I’d still rather be in Llandudno soaking up that sunshine than trapped in excel hell!\""
+  "crew_quote": "\"With all this clear weather, it's a perfect day for a curry—but I suppose I’ll just settle for a cold tin of beans instead. Cheers, universe!\""
 }
