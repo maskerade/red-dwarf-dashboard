@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T13:46:27.166567+00:00",
+  "timestamp": "2026-07-14T14:17:27.381301+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 24.0,
-      "conditions": "Sunny",
+      "temp": 25.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-14",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websites",
     "Frame: A new X11 server – implemented directly in assembly"
   ],
-  "crew_quote": "\"With all this lovely weather, I reckon we could be cooking up a nice curry right on the deck! Who's with me for some al fresco dining?\""
+  "crew_quote": "\"Blimey, it’s a scorcher out there! Perfect day for a curry in the sunshine—just not too close to the curry-bot, eh?\""
 }
