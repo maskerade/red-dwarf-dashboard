@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T16:21:32.666530+00:00",
+  "timestamp": "2026-07-14T16:52:34.774285+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "DeepMind bigbrain calls for America to set AI standards before it's too late",
+    "Welsh Doxbin admin jailed for egging on swatters from behind a screen",
     "Microsoft rolls out Windows Search updates and they're... quite good",
-    "RISC-V firmware project wants every board booting from the same hymn sheet",
-    "IBM's mainframe sales get mugged by AI hardware panic, stock loses more than a quarter of its value",
-    "Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy"
+    "RISC-V firmware project wants every board booting from the same hymn sheet"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! If the weather gets any better, I might just have to swap my curry for a cheeky sunbathe!\""
+  "crew_quote": "\"Blimey, it's hotter than the curry I had last night! If this keeps up, I’ll be sweating like a miner in a sauna!\""
 }
