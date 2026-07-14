@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T07:34:09.578455+00:00",
+  "timestamp": "2026-07-14T08:05:11.505058+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Partly cloudy",
+      "temp": 17.0,
+      "conditions": "Smoke",
       "forecast": [
         {
           "date": "2026-07-14",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-14",
@@ -90,9 +90,9 @@
   "metrolink": null,
   "headlines": [
     "Anthropic's extravagant tokenizer complicates AI pricing",
-    "Big Blue thinks small, again, with 2U POWER tower",
+    "Big Blue thinks small, again, with POWER tower",
     "India’s tech services giant HCL is getting into the AI datacenter business",
     "Gobi X: Creating more energy for AI, not taking it from society"
   ],
-  "crew_quote": "\"Well, it’s a lovely 17 degrees in Llandudno—perfect weather for a curry and some sunbathing, if only we could find a place that serves both!\""
+  "crew_quote": "\"With the weather in Llandudno hitting a sizzling 18°C, I reckon a nice curry's just what we need—though I might just let the Cat take care of the heat!\""
 }
