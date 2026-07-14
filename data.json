@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T21:32:41.469612+00:00",
+  "timestamp": "2026-07-14T22:03:42.878546+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-14",
@@ -27,12 +27,12 @@
         {
           "date": "2026-07-15",
           "max": 29.0,
-          "min": 13.0
+          "min": 12.0
         },
         {
           "date": "2026-07-16",
-          "max": 28.0,
-          "min": 13.0
+          "max": 27.0,
+          "min": 12.0
         }
       ]
     },
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 20.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-14",
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-07-16",
-          "max": 22.0,
+          "max": 21.0,
           "min": 13.0
         }
       ]
@@ -94,5 +94,5 @@
     "DeepMind bigbrain calls for America to set AI standards before it's too late",
     "Welsh Doxbin admin jailed for egging on swatters from behind a screen"
   ],
-  "crew_quote": "\"23 degrees and sunny, eh? Perfect curry weather! Just don't forget to add a little extra spice—like the way New York's spicing things up by halting datacenter builds!\""
+  "crew_quote": "\"Cor, it's a lovely 19 degrees out there! Perfect weather for a curry, but I'd hate to ruin my fabulous looks by sweating all over my new shirt!\""
 }
