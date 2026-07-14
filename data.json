@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T08:05:11.505058+00:00",
+  "timestamp": "2026-07-14T08:36:14.136407+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Ministers arm under-16s social media ban with least surprising study of the year",
     "Anthropic's extravagant tokenizer complicates AI pricing",
     "Big Blue thinks small, again, with POWER tower",
-    "India’s tech services giant HCL is getting into the AI datacenter business",
-    "Gobi X: Creating more energy for AI, not taking it from society"
+    "India’s tech services giant HCL is getting into the AI datacenter business"
   ],
-  "crew_quote": "\"With the weather in Llandudno hitting a sizzling 18°C, I reckon a nice curry's just what we need—though I might just let the Cat take care of the heat!\""
+  "crew_quote": "\"Oi, if it’s clear in Llandudno, how come we’re stuck here in this squalor? I’d rather be there, sipping a curry-flavored cocktail under the sun!”"
 }
