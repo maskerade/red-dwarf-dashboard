@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T19:58:38.240643+00:00",
+  "timestamp": "2026-07-14T20:29:40.565622+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 24.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "If you want Claude to speak nicely to you, try Hindi or Arabic",
     "New York becomes first state to halt datacenter buildouts",
     "DeepMind bigbrain calls for America to set AI standards before it's too late",
-    "Welsh Doxbin admin jailed for egging on swatters from behind a screen",
-    "Microsoft rolls out Windows Search updates and they're... quite good"
+    "Welsh Doxbin admin jailed for egging on swatters from behind a screen"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a curry left in the sun for three days! Who needs AI when you can just sweat out all your problems?\""
+  "crew_quote": "\"Here we are, basking in 23 degrees of glorious sunshine – feels just like a perfect day for a curry, doesn't it? I could really go for a nice korma right about now!\""
 }
