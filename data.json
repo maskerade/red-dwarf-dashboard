@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T05:29:02.048058+00:00",
+  "timestamp": "2026-07-14T06:00:49.651064+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,83 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Smoke",
-      "forecast": [
-        {
-          "date": "2026-07-14",
-          "max": 27.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-15",
-          "max": 29.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-16",
-          "max": 28.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Partly cloudy",
-      "forecast": [
-        {
-          "date": "2026-07-14",
-          "max": 28.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-15",
-          "max": 29.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-16",
-          "max": 30.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-14",
-          "max": 21.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-07-15",
-          "max": 21.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-16",
-          "max": 21.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:59 AM",
-    "sunset": "09:31 PM",
-    "moon_phase": "New Moon",
-    "moon_illumination": "0",
-    "moonrise": "04:21 AM",
-    "moonset": "10:03 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "Big Blue thinks small, again, with 2U POWER tower",
     "India’s tech services giant HCL is getting into the AI datacenter business",
     "Gobi X: Creating more energy for AI, not taking it from society",
-    "Zuck's AI ambitions put Meta on course to become America's next big cloud provider",
-    "Zig creator calls Bun’s Claude Rust rewrite ‘unreviewed slop’"
+    "Zuck's AI ambitions put Meta on course to become America's next big cloud provider"
   ],
-  "crew_quote": "\"With all this clear weather, I could cook a curry outside and not even have to worry about the smoke ruining the aroma! Spice up your life, I say!\""
+  "crew_quote": "\"With all this tech news, it’s a good thing we’re not powered by humidity, or else we’d be as useful as a curry-flavored ice cream in a snowstorm!\""
 }
