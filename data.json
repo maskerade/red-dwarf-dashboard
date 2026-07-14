@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-13T23:47:47.063226+00:00",
+  "timestamp": "2026-07-14T00:18:49.441225+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-13",
-          "max": 26.0,
-          "min": 11.0
-        },
         {
           "date": "2026-07-14",
           "max": 28.0,
@@ -33,6 +28,11 @@
           "date": "2026-07-15",
           "max": 29.0,
           "min": 14.0
+        },
+        {
+          "date": "2026-07-16",
+          "max": 28.0,
+          "min": 13.0
         }
       ]
     },
@@ -58,14 +58,9 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-13",
-          "max": 20.0,
-          "min": 11.0
-        },
         {
           "date": "2026-07-14",
           "max": 20.0,
@@ -75,17 +70,22 @@
           "date": "2026-07-15",
           "max": 22.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-07-16",
+          "max": 21.0,
+          "min": 13.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "04:57 AM",
-    "sunset": "09:32 PM",
-    "moon_phase": "Waning Crescent",
-    "moon_illumination": "3",
-    "moonrise": "02:55 AM",
-    "moonset": "09:30 PM"
+    "sunrise": "04:59 AM",
+    "sunset": "09:31 PM",
+    "moon_phase": "New Moon",
+    "moon_illumination": "0",
+    "moonrise": "04:21 AM",
+    "moonset": "10:03 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
     "German firm files for insolvency, blames cybercrims who shut down production for 6 weeks"
   ],
-  "crew_quote": "\"You know, I’d take a sunny 19°C in Llandudno over any silly Excel competition. I’d rather be calculating how many curries I can eat on the beach!\""
+  "crew_quote": "\"It’s a sunny day, perfect for a curry, but I guess Excel geeks are out there in the street instead — talk about missing the point of life, eh?\""
 }
