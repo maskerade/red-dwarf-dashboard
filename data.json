@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T00:18:49.441225+00:00",
+  "timestamp": "2026-07-14T00:49:50.263860+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
     "German firm files for insolvency, blames cybercrims who shut down production for 6 weeks"
   ],
-  "crew_quote": "\"It’s a sunny day, perfect for a curry, but I guess Excel geeks are out there in the street instead — talk about missing the point of life, eh?\""
+  "crew_quote": "\"Right, so the weather's clearer than my brain after a curry binge, but I’d still rather be in Llandudno soaking up that sunshine than trapped in excel hell!\""
 }
