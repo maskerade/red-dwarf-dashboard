@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T11:11:08.113430+00:00",
+  "timestamp": "2026-07-14T11:42:20.231951+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
-      "conditions": "Sunny",
+      "temp": 22.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-14",
@@ -94,5 +94,5 @@
     "India's crewed space mission is ready for splashdown, but not launch",
     "How do you solve a problem like Capita?"
   ],
-  "crew_quote": "\"Blimey, with a perfect 10 score on Joomla, I might as well start cooking curry on the server – it’s just as hot as it is in Altrincham!\""
+  "crew_quote": "\"Well, with all this sunny weather, I reckon it's the perfect time for a nice curry outside — just as long as the smoke doesn't ruin my meal! Cheers, mate.\""
 }
