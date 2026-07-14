@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T14:17:27.381301+00:00",
+  "timestamp": "2026-07-14T14:48:29.308091+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Partly cloudy",
+      "temp": 26.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-14",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "'The bots are alive!' Jailbroken Gemini spun up new C2 server for Russian fraudster in just 6 minutes",
-    "Hands off our VPNs, privacy groups tell UK ministers",
-    "Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websites",
-    "Frame: A new X11 server – implemented directly in assembly"
+    "IBM's mainframe sales get mugged by AI hardware panic",
+    "Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy",
+    "Engineer shoves Linux peg through Sega 32X-shaped hole",
+    "Musk promises purge after Grok Build caught sending entire repos to the cloud"
   ],
-  "crew_quote": "\"Blimey, it’s a scorcher out there! Perfect day for a curry in the sunshine—just not too close to the curry-bot, eh?\""
+  "crew_quote": "\"Blimey, with it being 25 degrees and partly cloudy, I think I'll have to rethink my usual curry dinner—maybe a cold one instead. Only the good stuff, mind!\""
 }
