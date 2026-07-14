@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T18:56:34.365641+00:00",
+  "timestamp": "2026-07-14T19:27:35.731123+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "New York becomes first state to halt datacenter buildouts",
     "DeepMind bigbrain calls for America to set AI standards before it's too late",
     "Welsh Doxbin admin jailed for egging on swatters from behind a screen",
-    "Microsoft rolls out Windows Search updates and they're... quite good",
-    "RISC-V firmware project wants every board booting from the same hymn sheet"
+    "Microsoft rolls out Windows Search updates and they're... quite good"
   ],
-  "crew_quote": "\"Blimey, with it being sunny and 25 degrees out, I reckon a curry on the beach sounds like a plan — as long as it doesn’t end up as a swatting target!\""
+  "crew_quote": "\"Bloody hell, a day like this in Altrincham, I could really go for a curry – as long as it doesn’t get too hot, or I’ll end up sweating more than my last batch!\""
 }
