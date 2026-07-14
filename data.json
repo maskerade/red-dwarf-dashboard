@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T04:26:58.468814+00:00",
+  "timestamp": "2026-07-14T04:58:00.569170+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 13.0,
-      "conditions": "Haze",
+      "conditions": "Smoke",
       "forecast": [
         {
           "date": "2026-07-14",
@@ -94,5 +94,5 @@
     "Zuck's AI ambitions put Meta on course to become America's next big cloud provider",
     "Zig creator calls Bun’s Claude Rust rewrite ‘unreviewed slop’"
   ],
-  "crew_quote": "\"Looks like the weather's a bit hazy today, but as long as my curry's clear and hot, I couldn't care less if it's 13 degrees or a hundred!\""
+  "crew_quote": "\"Can you believe it? It’s only 13 degrees and I’m already sweating like a curry in a sauna! I’ll take clear skies over smoke any day, thank you very much!\""
 }
