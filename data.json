@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T10:40:17.993737+00:00",
+  "timestamp": "2026-07-14T11:11:08.113430+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 22.0,
       "conditions": "Smoke",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websites",
     "Frame: A new X11 server – implemented directly in assembly",
     "India's crewed space mission is ready for splashdown, but not launch",
-    "How do you solve a problem like Capita?",
-    "Ministers arm under-16s social media ban with least surprising study of the year"
+    "How do you solve a problem like Capita?"
   ],
-  "crew_quote": "\"You know, with Altrincham hitting a balmy 19 degrees, I reckon we could almost call this a holiday — if only I could find a decent curry around here!\""
+  "crew_quote": "\"Blimey, with a perfect 10 score on Joomla, I might as well start cooking curry on the server – it’s just as hot as it is in Altrincham!\""
 }
