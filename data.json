@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T15:50:31.311866+00:00",
+  "timestamp": "2026-07-14T16:21:32.666530+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,21 +38,21 @@
     },
     "overseal": {
       "temp": 26.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-14",
-          "max": 29.0,
+          "max": 27.0,
           "min": 12.0
         },
         {
           "date": "2026-07-15",
-          "max": 30.0,
-          "min": 13.0
+          "max": 29.0,
+          "min": 12.0
         },
         {
           "date": "2026-07-16",
-          "max": 30.0,
+          "max": 29.0,
           "min": 11.0
         }
       ]
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft rolls out Windows Search updates and they're... quite good",
     "RISC-V firmware project wants every board booting from the same hymn sheet",
     "IBM's mainframe sales get mugged by AI hardware panic, stock loses more than a quarter of its value",
-    "Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy",
-    "Engineer shoves Linux peg through Sega 32X-shaped hole"
+    "Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy"
   ],
-  "crew_quote": "\"Blimey, it's roasting at 27°C! Perfect weather for a curry and a bit of sunbathing — you know, when you're not busy with all this fancy AI panic!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! If the weather gets any better, I might just have to swap my curry for a cheeky sunbathe!\""
 }
