@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T15:19:29.217003+00:00",
+  "timestamp": "2026-07-14T15:50:31.311866+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,22 +16,22 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
-      "conditions": "Partly cloudy",
+      "temp": 27.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-14",
-          "max": 28.0,
+          "max": 27.0,
           "min": 12.0
         },
         {
           "date": "2026-07-15",
           "max": 29.0,
-          "min": 15.0
+          "min": 13.0
         },
         {
           "date": "2026-07-16",
-          "max": 29.0,
+          "max": 28.0,
           "min": 13.0
         }
       ]
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 23.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-07-16",
-          "max": 21.0,
+          "max": 22.0,
           "min": 13.0
         }
       ]
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "IBM's mainframe sales get mugged by AI hardware panic",
+    "RISC-V firmware project wants every board booting from the same hymn sheet",
+    "IBM's mainframe sales get mugged by AI hardware panic, stock loses more than a quarter of its value",
     "Sun sets on Vulcan Centaur as NASA moves SunRISE to SpaceX Falcon Heavy",
-    "Engineer shoves Linux peg through Sega 32X-shaped hole",
-    "Musk promises purge after Grok Build caught sending entire repos to the cloud"
+    "Engineer shoves Linux peg through Sega 32X-shaped hole"
   ],
-  "crew_quote": "\"Blimey, it's hot enough to fry a curry on the pavement! If I had a mainframe, I'd be trading it for a fan right now!\""
+  "crew_quote": "\"Blimey, it's roasting at 27°C! Perfect weather for a curry and a bit of sunbathing — you know, when you're not busy with all this fancy AI panic!\""
 }
