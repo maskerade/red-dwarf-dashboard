@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T20:29:40.565622+00:00",
+  "timestamp": "2026-07-14T21:01:28.204137+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-14",
-          "max": 27.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-15",
-          "max": 29.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-16",
-          "max": 28.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-14",
-          "max": 27.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-15",
-          "max": 29.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-16",
-          "max": 29.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 22.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-14",
-          "max": 20.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-15",
-          "max": 22.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-16",
-          "max": 22.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "04:59 AM",
-    "sunset": "09:31 PM",
-    "moon_phase": "New Moon",
-    "moon_illumination": "0",
-    "moonrise": "04:21 AM",
-    "moonset": "10:03 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "If you want Claude to speak nicely to you, try Hindi or Arabic",
@@ -94,5 +36,5 @@
     "DeepMind bigbrain calls for America to set AI standards before it's too late",
     "Welsh Doxbin admin jailed for egging on swatters from behind a screen"
   ],
-  "crew_quote": "\"Here we are, basking in 23 degrees of glorious sunshine – feels just like a perfect day for a curry, doesn't it? I could really go for a nice korma right about now!\""
+  "crew_quote": "\"Well, it’s so hot in here I could cook a curry just by looking at it! What’s next, a state of emergency for making things too steamy?\""
 }
