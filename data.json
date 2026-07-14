@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T16:52:34.774285+00:00",
+  "timestamp": "2026-07-14T17:23:34.098914+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
+      "temp": 26.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft rolls out Windows Search updates and they're... quite good",
     "RISC-V firmware project wants every board booting from the same hymn sheet"
   ],
-  "crew_quote": "\"Blimey, it's hotter than the curry I had last night! If this keeps up, I’ll be sweating like a miner in a sauna!\""
+  "crew_quote": "\"Sunny weather like this makes me think a nice curry would really hit the spot — I might even risk it and add a bit of extra spicy for a change!\""
 }
