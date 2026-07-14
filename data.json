@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T22:03:42.878546+00:00",
+  "timestamp": "2026-07-14T22:34:43.848546+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -47,8 +47,8 @@
         },
         {
           "date": "2026-07-15",
-          "max": 29.0,
-          "min": 12.0
+          "max": 28.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-16",
@@ -94,5 +94,5 @@
     "DeepMind bigbrain calls for America to set AI standards before it's too late",
     "Welsh Doxbin admin jailed for egging on swatters from behind a screen"
   ],
-  "crew_quote": "\"Cor, it's a lovely 19 degrees out there! Perfect weather for a curry, but I'd hate to ruin my fabulous looks by sweating all over my new shirt!\""
+  "crew_quote": "\"I'm telling you, in Llandudno at 20 degrees, the only thing better than a curry is a nice stroll along the beach—preferably with someone who appreciates my fabulousness!\""
 }
