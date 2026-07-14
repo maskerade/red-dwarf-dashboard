@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T09:38:17.549743+00:00",
+  "timestamp": "2026-07-14T10:09:17.482774+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,17 +37,17 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "temp": 24.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-14",
-          "max": 28.0,
-          "min": 11.0
+          "max": 29.0,
+          "min": 12.0
         },
         {
           "date": "2026-07-15",
-          "max": 29.0,
+          "max": 30.0,
           "min": 13.0
         },
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "India's crewed space mission is ready for splashdown, but not launch",
     "How do you solve a problem like Capita?",
     "Ministers arm under-16s social media ban with least surprising study of the year",
-    "Anthropic's extravagant tokenizer complicates AI pricing",
-    "Big Blue thinks small, again, with POWER tower"
+    "Anthropic's extravagant tokenizer complicates AI pricing"
   ],
-  "crew_quote": "\"Well, it's a sizzling 20 degrees in Llandudno, which is perfect weather for me to strut my stuff and catch some rays, baby!\""
+  "crew_quote": "\"Blimey, at 24 degrees and sunny, it's hotter than a curry on a summer's day! Time for a cold lager and a bit of a sunbathe, I reckon!\""
 }
