@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T10:09:17.482774+00:00",
+  "timestamp": "2026-07-14T10:40:17.993737+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Frame: A new X11 server – implemented directly in assembly",
     "India's crewed space mission is ready for splashdown, but not launch",
     "How do you solve a problem like Capita?",
-    "Ministers arm under-16s social media ban with least surprising study of the year",
-    "Anthropic's extravagant tokenizer complicates AI pricing"
+    "Ministers arm under-16s social media ban with least surprising study of the year"
   ],
-  "crew_quote": "\"Blimey, at 24 degrees and sunny, it's hotter than a curry on a summer's day! Time for a cold lager and a bit of a sunbathe, I reckon!\""
+  "crew_quote": "\"You know, with Altrincham hitting a balmy 19 degrees, I reckon we could almost call this a holiday — if only I could find a decent curry around here!\""
 }
