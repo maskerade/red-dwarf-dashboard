@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T06:20:12.957908+00:00",
+  "timestamp": "2026-07-15T06:51:12.488421+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "South Korea to launch universal basic AI chatbot",
     "Australia demands AI companies must produce more energy than they consume, stop ‘theft’ of content",
     "Google Cloud's VMware service loses resilience due to a dud update",
-    "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark",
-    "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs"
+    "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark"
   ],
-  "crew_quote": "\"I don’t know what the fuss is about solar energy—it's so sunny in Llandudno, I could fry a curry in the street! But I might just stick to the microwave, you know?\""
+  "crew_quote": "\"Well, if it’s 15 degrees and smoky, I might just whip up a nice curry to clear the air—nothing like a good vindaloo to brighten up a dreary day, eh?\""
 }
