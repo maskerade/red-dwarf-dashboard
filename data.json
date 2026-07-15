@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T16:41:39.501239+00:00",
+  "timestamp": "2026-07-15T17:12:46.956477+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Linus Torvalds tells AI haters to fork off",
+    "Dark patterns in Windows are steering users to Edge: Mozilla-commissioned report",
     "CISA sounds alarm over trio of exploited SharePoint flaws",
-    "Microsoft cancels Patch Tuesday for some Dell users over surprise shutdowns, overheating devices",
-    "MPs fear Treasury cold feet could sink Whitehall's £1.15B shared services push",
-    "LegacyHive: 'Bone-shattering' zero-day from Microsoft's serial tormentor not the haymaker that was promised"
+    "Microsoft cancels Patch Tuesday for some Dell users over surprise shutdowns, overheating devices"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! If only I could sweat out the flaws like Microsoft needs to, we’d all be a lot cooler!\""
+  "crew_quote": "\"Blimey, it's so sunny out, I might just ditch the curry and go for a pint instead! Nothing like a cold one under a blazing 26 degrees!\""
 }
