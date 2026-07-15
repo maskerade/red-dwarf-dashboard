@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T16:10:36.527597+00:00",
+  "timestamp": "2026-07-15T16:41:39.501239+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -26,13 +26,13 @@
         },
         {
           "date": "2026-07-16",
-          "max": 28.0,
-          "min": 13.0
+          "max": 29.0,
+          "min": 12.0
         },
         {
           "date": "2026-07-17",
           "max": 28.0,
-          "min": 12.0
+          "min": 14.0
         }
       ]
     },
@@ -63,7 +63,7 @@
       "forecast": [
         {
           "date": "2026-07-15",
-          "max": 22.0,
+          "max": 23.0,
           "min": 12.0
         },
         {
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-07-17",
-          "max": 20.0,
-          "min": 13.0
+          "max": 21.0,
+          "min": 14.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "MPs fear Treasury cold feet could sink Whitehall's £1.15B shared services push",
     "LegacyHive: 'Bone-shattering' zero-day from Microsoft's serial tormentor not the haymaker that was promised"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! I reckon we’d fry an egg on the control panel if it wasn’t for all those overheating devices causing mayhem!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! If only I could sweat out the flaws like Microsoft needs to, we’d all be a lot cooler!\""
 }
