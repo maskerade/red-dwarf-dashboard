@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T19:47:51.755049+00:00",
+  "timestamp": "2026-07-15T20:18:53.396772+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "ZTE's AI new calling builds an open and intelligent telecom ecosystem, transforming from basic voice call to an AI-powered service hub",
     "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim",
     "Linus Torvalds tells AI haters to fork off",
-    "Dark patterns in Windows are steering users to Edge: Mozilla-commissioned report"
+    "Dark patterns in Windows are steering users to Edge: Mozilla-commissioned report",
+    "CISA sounds alarm over trio of exploited SharePoint flaws"
   ],
-  "crew_quote": "\"23 degrees and sunny, it's practically a holiday! Let's get a curry going and pretend we’re sipping drinks on some posh beach instead of floating in space.\""
+  "crew_quote": "\"Blimey, with weather like this, I wouldn't even mind giving up my curry for a sunny stroll—well, maybe just a tiny bit of curry.\""
 }
