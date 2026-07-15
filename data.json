@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T23:36:51.746298+00:00",
+  "timestamp": "2026-07-15T00:07:54.397690+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -41,17 +41,17 @@
       "conditions": "Partly cloudy",
       "forecast": [
         {
-          "date": "2026-07-14",
-          "max": 27.0,
-          "min": 12.0
-        },
-        {
           "date": "2026-07-15",
           "max": 28.0,
           "min": 13.0
         },
         {
           "date": "2026-07-16",
+          "max": 29.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-17",
           "max": 29.0,
           "min": 11.0
         }
@@ -94,5 +94,5 @@
     "New York becomes first state to halt datacenter buildouts",
     "DeepMind bigbrain calls for America to set AI standards before it's too late"
   ],
-  "crew_quote": "\"Look at Llandudno, 19 degrees and clear skies – it's a perfect day for a curry! Not that it helps with my power usage... which is still lower than my last exam score!\""
+  "crew_quote": "\"With the weather this clear at 18 degrees, I reckon I could cook up a curry on the deck without it turning into a pile of mush—unless someone decides to throw a patch in the works!\""
 }
