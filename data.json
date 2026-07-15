@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T12:02:07.975874+00:00",
+  "timestamp": "2026-07-15T12:33:27.781617+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,25 +16,83 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 22.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-15",
+          "max": 28.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-16",
+          "max": 28.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-17",
+          "max": 28.0,
+          "min": 12.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 22.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-07-15",
+          "max": 28.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-16",
+          "max": 29.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-17",
+          "max": 29.0,
+          "min": 11.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 24.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-15",
+          "max": 22.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-16",
+          "max": 21.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-17",
+          "max": 20.0,
+          "min": 13.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:00 AM",
+    "sunset": "09:30 PM",
+    "moon_phase": "Waxing Crescent",
+    "moon_illumination": "1",
+    "moonrise": "05:57 AM",
+    "moonset": "10:24 PM"
+  },
   "metrolink": null,
   "headlines": [
+    "AWS sustainability claims don't hold water, lawsuit alleges",
     "EU lets wearables wriggle out of user-replaceable battery rules",
     "A moment of silence, please, for the final release of Debian on x86-32",
-    "EU competition decision hands SAP customers more leverage in contract talks",
-    "Software bloat? This elevator needs an 8GB Core i5"
+    "EU competition decision hands SAP customers more leverage in contract talks"
   ],
-  "crew_quote": "\"Well, at least we don't have to worry about those pesky batteries anymore; I'll stick with my curry-powered life support, thank you very much!\""
+  "crew_quote": "\"Nice weather we've got here, but I'm still waiting for the curry to be officially classified as a food group!\""
 }
