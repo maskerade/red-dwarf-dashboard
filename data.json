@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T22:23:00.914562+00:00",
+  "timestamp": "2026-07-15T22:54:01.848586+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 18.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -26,13 +26,13 @@
         },
         {
           "date": "2026-07-16",
-          "max": 29.0,
+          "max": 28.0,
           "min": 12.0
         },
         {
           "date": "2026-07-17",
           "max": 28.0,
-          "min": 14.0
+          "min": 13.0
         }
       ]
     },
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -69,12 +69,12 @@
         {
           "date": "2026-07-16",
           "max": 21.0,
-          "min": 13.0
+          "min": 12.0
         },
         {
           "date": "2026-07-17",
-          "max": 21.0,
-          "min": 14.0
+          "max": 20.0,
+          "min": 13.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Cadence's AuraStack agent melds AI with HPC to speed PCB, advanced packaging design",
     "Amazon Web Services' most vocal customer now runs EC2",
     "Prominent Haskell defector pilloried by anti-AI purists",
-    "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim",
-    "Linus Torvalds tells AI haters to fork off"
+    "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim"
   ],
-  "crew_quote": "\"With this lovely 20°C weather in Altrincham, I reckon it's the perfect day for a curry — unless, of course, I just end up with another of Rimmer's 'superior' sandwiches!\""
+  "crew_quote": "\"With the weather being this clear and warm, I reckon it's the perfect day for a curry — though I doubt it’ll speed up some fancy AI design like they’re doing at Cadence!\""
 }
