@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T14:06:28.516191+00:00",
+  "timestamp": "2026-07-15T14:37:31.628606+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft cancels Patch Tuesday for some Dell users over surprise shutdowns, overheating devices",
     "MPs fear Treasury cold feet could sink Whitehall's £1.15B shared services push",
     "LegacyHive: 'Bone-shattering' zero-day from Microsoft's serial tormentor not the haymaker that was promised",
-    "AWS sustainability claims don't hold water, lawsuit alleges",
-    "EU lets wearables wriggle out of user-replaceable battery rules"
+    "AWS sustainability claims don't hold water, lawsuit alleges"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry left in the sun! I might just fry an egg on my forehead and call it brunch!\""
+  "crew_quote": "\"With all this sunshine, it's just perfect for a curry picnic! Just don't invite the overheating Dell laptops – they might fry the samosas!\""
 }
