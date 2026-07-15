@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T02:43:00.038978+00:00",
+  "timestamp": "2026-07-15T03:14:03.527588+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 16.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -47,7 +47,7 @@
         },
         {
           "date": "2026-07-16",
-          "max": 29.0,
+          "max": 27.0,
           "min": 11.0
         },
         {
@@ -94,5 +94,5 @@
     "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
     "If you want Claude to speak nicely to you, try Hindi or Arabic"
   ],
-  "crew_quote": "\"Is it just me, or does the weather in Llandudno feel like the perfect excuse for a curry and a nap? Though with that dud update, I'd say we're already in the dark!\""
+  "crew_quote": "\"Well, at least the weather's clear in Llandudno! I mean, if Google Cloud can't even handle their updates, what's the point of worrying about a bit of sunshine?\""
 }
