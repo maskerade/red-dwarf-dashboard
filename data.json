@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T06:51:12.488421+00:00",
+  "timestamp": "2026-07-15T07:22:16.419083+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Smoke",
+      "temp": 17.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "At last, a good reason to buy an AI PC: Reining in runaway token bills",
     "South Korea to launch universal basic AI chatbot",
     "Australia demands AI companies must produce more energy than they consume, stop ‘theft’ of content",
-    "Google Cloud's VMware service loses resilience due to a dud update",
-    "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark"
+    "Google Cloud's VMware service loses resilience due to a dud update"
   ],
-  "crew_quote": "\"Well, if it’s 15 degrees and smoky, I might just whip up a nice curry to clear the air—nothing like a good vindaloo to brighten up a dreary day, eh?\""
+  "crew_quote": "\"Well, it's sunny in Llandudno, but I'm still stuck here with you lot; perfect weather for a nice curry, though! Just don’t let Rimmer touch the recipe!\""
 }
