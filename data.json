@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T13:35:27.781392+00:00",
+  "timestamp": "2026-07-15T14:06:28.516191+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AWS sustainability claims don't hold water, lawsuit alleges",
     "EU lets wearables wriggle out of user-replaceable battery rules"
   ],
-  "crew_quote": "\"Blimey, with it sunny and 26 degrees out there, we could have a curry picnic on the roof — just as long as the Treasury doesn't get cold feet about bringing the beer!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry left in the sun! I might just fry an egg on my forehead and call it brunch!\""
 }
