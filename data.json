@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T00:38:53.990638+00:00",
+  "timestamp": "2026-07-15T01:09:57.448049+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 16.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
     "If you want Claude to speak nicely to you, try Hindi or Arabic"
   ],
-  "crew_quote": "\"The weather's clear and lovely, but with updates like Google Cloud's, it’s a bit like serving curry without the spice — what’s the point, eh?\""
+  "crew_quote": "\"With the weather being all clear and a perfect 19 degrees, I reckon we should all skip the space travel and just lounge around like a bunch of lazy cats—minus the whole feline aspect, of course!\""
 }
