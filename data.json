@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T05:18:09.259980+00:00",
+  "timestamp": "2026-07-15T05:49:10.393143+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Clear ",
+      "conditions": "Smoke",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Mist",
+      "temp": 17.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -94,5 +94,5 @@
     "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark",
     "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs"
   ],
-  "crew_quote": "\"With all this clear weather, I reckon I could whip up a lovely curry, maybe even a nice misty drink to go with it. Who knew Altrincham had such a perfect vibe?\""
+  "crew_quote": "\"You know, in Altrincham it’s a smoking hot 15°C, but I’d still trade it all for a curry and a can of lager—just don’t let the robots steal my takeaway!\""
 }
