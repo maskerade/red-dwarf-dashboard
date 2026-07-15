@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T21:20:57.446474+00:00",
+  "timestamp": "2026-07-15T21:51:58.624372+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -94,5 +94,5 @@
     "Dark patterns in Windows are steering users to Edge: Mozilla-commissioned report",
     "CISA sounds alarm over trio of exploited SharePoint flaws"
   ],
-  "crew_quote": "\"With weather like this, I reckon even a curry could use a bit of fresh air—though I wouldn’t let it get too sunny; it might start thinking it’s got a ticket to the beach!\""
+  "crew_quote": "\"Well, it's a lovely 20 degrees out there, just perfect for a curry! But if only my love life was as clear as the skies over Altrincham!\""
 }
