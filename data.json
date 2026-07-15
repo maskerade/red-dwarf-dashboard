@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T02:11:58.812650+00:00",
+  "timestamp": "2026-07-15T02:43:00.038978+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
     "If you want Claude to speak nicely to you, try Hindi or Arabic"
   ],
-  "crew_quote": "\"Looks like it's a lovely 19 degrees in Llandudno, but here we are, dealing with a dud update while I'm just trying to make a decent curry!\""
+  "crew_quote": "\"Is it just me, or does the weather in Llandudno feel like the perfect excuse for a curry and a nap? Though with that dud update, I'd say we're already in the dark!\""
 }
