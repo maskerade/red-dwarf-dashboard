@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T03:45:07.145454+00:00",
+  "timestamp": "2026-07-15T04:16:05.662169+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,22 +16,22 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-15",
           "max": 29.0,
-          "min": 12.0
+          "min": 13.0
         },
         {
           "date": "2026-07-16",
-          "max": 27.0,
-          "min": 12.0
+          "max": 28.0,
+          "min": 13.0
         },
         {
           "date": "2026-07-17",
-          "max": 28.0,
+          "max": 27.0,
           "min": 13.0
         }
       ]
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 18.0,
-      "conditions": "Clear ",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -94,5 +94,5 @@
     "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
     "If you want Claude to speak nicely to you, try Hindi or Arabic"
   ],
-  "crew_quote": "\"As long as it’s clear in Llandudno, I don’t care if the clouds are plotting a coup in Overseal — I'm off to find a curry that’s as hot as my looks!\""
+  "crew_quote": "\"Ah, lovely weather today, isn’t it? Perfect for a curry and a good moan about Google ruining everything, like they had to do with that update!\""
 }
