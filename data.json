@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T21:51:58.624372+00:00",
+  "timestamp": "2026-07-15T22:23:00.914562+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Amazon Web Services' most vocal customer now runs EC2",
+    "Prominent Haskell defector pilloried by anti-AI purists",
     "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim",
-    "Linus Torvalds tells AI haters to fork off",
-    "Dark patterns in Windows are steering users to Edge: Mozilla-commissioned report",
-    "CISA sounds alarm over trio of exploited SharePoint flaws"
+    "Linus Torvalds tells AI haters to fork off"
   ],
-  "crew_quote": "\"Well, it's a lovely 20 degrees out there, just perfect for a curry! But if only my love life was as clear as the skies over Altrincham!\""
+  "crew_quote": "\"With this lovely 20°C weather in Altrincham, I reckon it's the perfect day for a curry — unless, of course, I just end up with another of Rimmer's 'superior' sandwiches!\""
 }
