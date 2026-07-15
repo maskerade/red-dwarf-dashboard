@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T17:43:46.733380+00:00",
+  "timestamp": "2026-07-15T18:14:48.741396+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 25.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Dark patterns in Windows are steering users to Edge: Mozilla-commissioned report",
     "CISA sounds alarm over trio of exploited SharePoint flaws"
   ],
-  "crew_quote": "\"What a lovely day! I could really go for a curry in this sunny weather—probably best to keep it outside, though, don't want the place getting too steamy!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo on a summer's day! Bet the curry's getting more action than Salesforce this weather!\""
 }
