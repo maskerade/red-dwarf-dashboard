@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T05:49:10.393143+00:00",
+  "timestamp": "2026-07-15T06:20:12.957908+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 15.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -94,5 +94,5 @@
     "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark",
     "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs"
   ],
-  "crew_quote": "\"You know, in Altrincham it’s a smoking hot 15°C, but I’d still trade it all for a curry and a can of lager—just don’t let the robots steal my takeaway!\""
+  "crew_quote": "\"I don’t know what the fuss is about solar energy—it's so sunny in Llandudno, I could fry a curry in the street! But I might just stick to the microwave, you know?\""
 }
