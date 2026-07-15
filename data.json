@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T13:04:26.359582+00:00",
+  "timestamp": "2026-07-15T13:35:27.781392+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Partly cloudy",
+      "temp": 26.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 24.0,
-      "conditions": "Partly cloudy",
+      "temp": 25.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "MPs fear Treasury cold feet could sink Whitehall's £1.15B shared services push",
+    "LegacyHive: 'Bone-shattering' zero-day from Microsoft's serial tormentor not the haymaker that was promised",
     "AWS sustainability claims don't hold water, lawsuit alleges",
-    "EU lets wearables wriggle out of user-replaceable battery rules",
-    "A moment of silence, please, for the final release of Debian on x86-32",
-    "EU competition decision hands SAP customers more leverage in contract talks"
+    "EU lets wearables wriggle out of user-replaceable battery rules"
   ],
-  "crew_quote": "\"With all this lovely weather, I reckon I could fry a curry in the sun, but knowing my luck, the cloud will roll in just as I get the naan out!\""
+  "crew_quote": "\"Blimey, with it sunny and 26 degrees out there, we could have a curry picnic on the roof — just as long as the Treasury doesn't get cold feet about bringing the beer!\""
 }
