@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T01:09:57.448049+00:00",
+  "timestamp": "2026-07-15T01:40:57.852163+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -94,5 +94,5 @@
     "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
     "If you want Claude to speak nicely to you, try Hindi or Arabic"
   ],
-  "crew_quote": "\"With the weather being all clear and a perfect 19 degrees, I reckon we should all skip the space travel and just lounge around like a bunch of lazy cats—minus the whole feline aspect, of course!\""
+  "crew_quote": "\"Looks like it’s 19 degrees and sunny in Llandudno, but I suppose that's just another excuse for me to not go outside and risk ruining my fabulous hair!\""
 }
