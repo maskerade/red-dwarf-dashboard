@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T22:54:01.848586+00:00",
+  "timestamp": "2026-07-15T23:25:03.493699+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,14 +37,9 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-15",
-          "max": 28.0,
-          "min": 13.0
-        },
         {
           "date": "2026-07-16",
           "max": 29.0,
@@ -53,6 +48,11 @@
         {
           "date": "2026-07-17",
           "max": 29.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-18",
+          "max": 26.0,
           "min": 11.0
         }
       ]
@@ -94,5 +94,5 @@
     "Prominent Haskell defector pilloried by anti-AI purists",
     "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim"
   ],
-  "crew_quote": "\"With the weather being this clear and warm, I reckon it's the perfect day for a curry — though I doubt it’ll speed up some fancy AI design like they’re doing at Cadence!\""
+  "crew_quote": "\"With this lovely 18 degrees outside, I could really go for a curry picnic—just me, some samosas, and a sunbeam shining down on my magnificent hair!\""
 }
