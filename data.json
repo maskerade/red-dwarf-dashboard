@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T17:12:46.956477+00:00",
+  "timestamp": "2026-07-15T17:43:46.733380+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim",
     "Linus Torvalds tells AI haters to fork off",
     "Dark patterns in Windows are steering users to Edge: Mozilla-commissioned report",
-    "CISA sounds alarm over trio of exploited SharePoint flaws",
-    "Microsoft cancels Patch Tuesday for some Dell users over surprise shutdowns, overheating devices"
+    "CISA sounds alarm over trio of exploited SharePoint flaws"
   ],
-  "crew_quote": "\"Blimey, it's so sunny out, I might just ditch the curry and go for a pint instead! Nothing like a cold one under a blazing 26 degrees!\""
+  "crew_quote": "\"What a lovely day! I could really go for a curry in this sunny weather—probably best to keep it outside, though, don't want the place getting too steamy!\""
 }
