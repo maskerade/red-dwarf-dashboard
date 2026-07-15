@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T04:16:05.662169+00:00",
+  "timestamp": "2026-07-15T04:47:07.072805+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Australia demands AI companies must produce more energy than they consume, stop ‘theft’ of content",
     "Google Cloud's VMware service loses resilience due to a dud update",
     "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark",
-    "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
-    "If you want Claude to speak nicely to you, try Hindi or Arabic"
+    "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs"
   ],
-  "crew_quote": "\"Ah, lovely weather today, isn’t it? Perfect for a curry and a good moan about Google ruining everything, like they had to do with that update!\""
+  "crew_quote": "\"Blimey, it’s 18°C in Llandudno! Perfect weather for a curry — but I hope the mist doesn’t make it too soggy for my chips!\""
 }
