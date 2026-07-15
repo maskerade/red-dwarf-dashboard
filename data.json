@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T08:24:13.779782+00:00",
+  "timestamp": "2026-07-15T08:55:15.827472+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "OpenMandriva's accused repo wrecker says it wasn't sabotage – it was a message",
     "The Star Wars cantina scene shows we need a new hope for the agentic web",
     "At last, a good reason to buy an AI PC: Reining in runaway token bills",
-    "South Korea to launch universal basic AI chatbot",
-    "Australia demands AI companies must produce more energy than they consume, stop ‘theft’ of content"
+    "South Korea to launch universal basic AI chatbot"
   ],
-  "crew_quote": "\"With this lovely sunny weather, I might just whip up a nice curry; who needs a new hope when you've got a good vindaloo?\""
+  "crew_quote": "\"Partly cloudy and a balmy 18 degrees? Perfect weather for a curry, or just lounging about trying to not feel guilty about the last three seasons of Star Wars!\""
 }
