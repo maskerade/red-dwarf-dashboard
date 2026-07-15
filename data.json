@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T10:59:23.205497+00:00",
+  "timestamp": "2026-07-15T11:30:37.800544+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "EU lets wearables wriggle out of user-replaceable battery rules",
     "A moment of silence, please, for the final release of Debian on x86-32",
     "EU competition decision hands SAP customers more leverage in contract talks",
-    "Software bloat? This elevator needs an 8GB Core i5",
-    "OpenMandriva's accused repo wrecker says it wasn't sabotage – it was a message"
+    "Software bloat? This elevator needs an 8GB Core i5"
   ],
-  "crew_quote": "\"Blimey, 23 degrees and sunny! Perfect weather for a curry, which is the only thing hotter than my good looks!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry left in a spaceship microwave on full blast! Let's just hope those wearables don't short-circuit and start overheating too!\""
 }
