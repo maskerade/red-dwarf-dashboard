@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T00:07:54.397690+00:00",
+  "timestamp": "2026-07-15T00:38:53.990638+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Google Cloud's VMware service loses resilience due to a dud update",
+    "OpenAI hides Codex agent instructions behind encryption, leaving developers in the dark",
     "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
-    "If you want Claude to speak nicely to you, try Hindi or Arabic",
-    "New York becomes first state to halt datacenter buildouts",
-    "DeepMind bigbrain calls for America to set AI standards before it's too late"
+    "If you want Claude to speak nicely to you, try Hindi or Arabic"
   ],
-  "crew_quote": "\"With the weather this clear at 18 degrees, I reckon I could cook up a curry on the deck without it turning into a pile of mush—unless someone decides to throw a patch in the works!\""
+  "crew_quote": "\"The weather's clear and lovely, but with updates like Google Cloud's, it’s a bit like serving curry without the spice — what’s the point, eh?\""
 }
