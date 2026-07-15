@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T15:39:35.802870+00:00",
+  "timestamp": "2026-07-15T16:10:36.527597+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "CISA sounds alarm over trio of exploited SharePoint flaws",
     "Microsoft cancels Patch Tuesday for some Dell users over surprise shutdowns, overheating devices",
     "MPs fear Treasury cold feet could sink Whitehall's £1.15B shared services push",
-    "LegacyHive: 'Bone-shattering' zero-day from Microsoft's serial tormentor not the haymaker that was promised",
-    "AWS sustainability claims don't hold water, lawsuit alleges"
+    "LegacyHive: 'Bone-shattering' zero-day from Microsoft's serial tormentor not the haymaker that was promised"
   ],
-  "crew_quote": "\"26 degrees and sunny, eh? Perfect curry weather, just as long as the only thing overheating is my tandoori oven and not my old Dell!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! I reckon we’d fry an egg on the control panel if it wasn’t for all those overheating devices causing mayhem!\""
 }
