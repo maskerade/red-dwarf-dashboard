@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T08:55:15.827472+00:00",
+  "timestamp": "2026-07-15T09:26:19.746097+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 18.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -47,7 +47,7 @@
         },
         {
           "date": "2026-07-16",
-          "max": 27.0,
+          "max": 29.0,
           "min": 11.0
         },
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Software bloat? This elevator needs an 8GB Core i5",
     "OpenMandriva's accused repo wrecker says it wasn't sabotage – it was a message",
     "The Star Wars cantina scene shows we need a new hope for the agentic web",
-    "At last, a good reason to buy an AI PC: Reining in runaway token bills",
-    "South Korea to launch universal basic AI chatbot"
+    "At last, a good reason to buy an AI PC: Reining in runaway token bills"
   ],
-  "crew_quote": "\"Partly cloudy and a balmy 18 degrees? Perfect weather for a curry, or just lounging about trying to not feel guilty about the last three seasons of Star Wars!\""
+  "crew_quote": "\"Partly cloudy at 18 degrees? Fantastic! Perfect curry weather, just like that time I nearly burned down the ship trying to impress the Cat!\""
 }
