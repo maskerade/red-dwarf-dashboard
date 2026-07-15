@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T09:57:21.561173+00:00",
+  "timestamp": "2026-07-15T10:28:22.804933+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,12 +16,12 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Partly cloudy",
+      "temp": 23.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-15",
-          "max": 29.0,
+          "max": 28.0,
           "min": 13.0
         },
         {
@@ -31,8 +31,8 @@
         },
         {
           "date": "2026-07-17",
-          "max": 27.0,
-          "min": 13.0
+          "max": 28.0,
+          "min": 12.0
         }
       ]
     },
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Partly cloudy",
+      "temp": 23.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-15",
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-07-17",
-          "max": 21.0,
+          "max": 20.0,
           "min": 13.0
         }
       ]
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "EU competition decision hands SAP customers more leverage in contract talks",
     "Software bloat? This elevator needs an 8GB Core i5",
     "OpenMandriva's accused repo wrecker says it wasn't sabotage – it was a message",
-    "The Star Wars cantina scene shows we need a new hope for the agentic web",
-    "At last, a good reason to buy an AI PC: Reining in runaway token bills"
+    "The Star Wars cantina scene shows we need a new hope for the agentic web"
   ],
-  "crew_quote": "\"Oi, mate, with this weather, I could fry an egg on the floor — but I'd still rather have a curry! Who needs sunny beaches when you've got a good takeout?\""
+  "crew_quote": "\"23 degrees and sunny? Blimey, it's almost as hot as my last curry! Just don’t ask Rimmer to fix the elevator; it might take an act of God—or a miracle.\""
 }
