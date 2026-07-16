@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T03:35:04.485344+00:00",
+  "timestamp": "2026-07-16T04:06:23.168482+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,25 +16,83 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 14.0,
+      "conditions": "Clear ",
+      "forecast": [
+        {
+          "date": "2026-07-16",
+          "max": 28.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-17",
+          "max": 27.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-07-18",
+          "max": 21.0,
+          "min": 12.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 14.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-16",
+          "max": 29.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-17",
+          "max": 28.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-18",
+          "max": 21.0,
+          "min": 10.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 16.0,
+      "conditions": "Partly Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-07-16",
+          "max": 22.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-17",
+          "max": 20.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-18",
+          "max": 17.0,
+          "min": 11.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:01 AM",
+    "sunset": "09:29 PM",
+    "moon_phase": "Waxing Crescent",
+    "moon_illumination": "4",
+    "moonrise": "07:33 AM",
+    "moonset": "10:39 PM"
+  },
   "metrolink": null,
   "headlines": [
+    "Cyberattack threatens utterly critical infrastructure in Japan: KFC",
     "Former OpenAI CTO does what Altman won't: releases a frontier AI model that's actually open",
     "Cadence's AuraStack agent melds AI with HPC to speed PCB, advanced packaging design",
-    "Amazon Web Services' most vocal customer now runs EC2",
-    "Prominent Haskell defector pilloried by anti-AI purists"
+    "Amazon Web Services' most vocal customer now runs EC2"
   ],
-  "crew_quote": "\"Blimey, with all this tech news flying about, I can't tell if I’m reading the latest AI breakthrough or just my curry recipe gone wrong!\""
+  "crew_quote": "\"14 degrees and partly cloudy? It's like the weather can’t decide if it wants to be fabulous or just average—kinda like me on a Tuesday!\""
 }
