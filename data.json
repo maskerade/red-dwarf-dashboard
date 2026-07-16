@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T10:49:45.713591+00:00",
+  "timestamp": "2026-07-16T11:20:47.166778+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 23.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-16",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AWS CloudFront outage serves errors instead of websites",
+    "Telegram shortlinks knocked offline over sanctioned VPN connection",
     "How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher",
-    "Law firm insisted on one password to rule them all",
-    "Tech support scam caused massive data breach at Australian airline Qantas",
-    "Even HP resellers thought the price of toner and ink was too high – so HP India facilitated an illegal cartel"
+    "Law firm insisted on one password to rule them all"
   ],
-  "crew_quote": "\"With this glorious 22 degrees in Llandudno, I think it’s the perfect day for a curry! I might even wear my shorts, if that doesn’t blind someone!\""
+  "crew_quote": "\"On a day like today, with the sun beaming down at 24 degrees, it’s a shame I can’t order a curry online—thanks to that silly AWS outage! I bet I’d look fabulous in the sun too!\""
 }
