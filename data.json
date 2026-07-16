@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T05:39:28.848201+00:00",
+  "timestamp": "2026-07-16T06:10:29.325226+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Former OpenAI CTO does what Altman won't: releases a frontier AI model that's actually open",
     "Cadence's AuraStack agent melds AI with HPC to speed PCB, advanced packaging design"
   ],
-  "crew_quote": "\"14 degrees and overcast? Blimey, it’s like being in a pub with no curry smells to keep me company!\""
+  "crew_quote": "\"Blimey, it’s 14°C and overcast outside — perfect weather for a pint and a curry, innit? Just don’t ask me to share my chips, I’m not a charity!\""
 }
