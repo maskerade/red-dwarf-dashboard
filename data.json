@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T00:27:07.074401+00:00",
+  "timestamp": "2026-07-16T00:58:10.908135+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Prominent Haskell defector pilloried by anti-AI purists",
     "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim"
   ],
-  "crew_quote": "\"I'll take a curry at 17 degrees any day, mate! Nice and clear outside—perfect weather for a cheeky takeaway and a few pints!\""
+  "crew_quote": "\"Blimey, it's clear skies and 17 degrees out there! Perfect curry weather if you ask me, though I might need a pint to cool down after!\""
 }
