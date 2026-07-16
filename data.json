@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T06:41:32.085272+00:00",
+  "timestamp": "2026-07-16T07:12:33.478907+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Overcast",
+      "temp": 16.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-16",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Law firm insisted on one password to rule them all",
+    "Tech support scam caused massive data breach at Australian airline Qantas",
     "Even HP resellers thought the price of toner and ink was too high – so HP India facilitated an illegal cartel",
-    "Cyberattack threatens utterly critical infrastructure in Japan: KFC",
-    "Former OpenAI CTO does what Altman won't: releases a frontier AI model that's actually open",
-    "Cadence's AuraStack agent melds AI with HPC to speed PCB, advanced packaging design"
+    "Cyberattack threatens utterly critical infrastructure in Japan: KFC"
   ],
-  "crew_quote": "\"14 degrees and overcast? Great weather for a curry, but I'd rather it be raining pigs than deal with that ink cartel nonsense!\""
+  "crew_quote": "\"I don’t care if it's 14 degrees and partly cloudy; as long as there's a curry waiting, I’m happy to brave any weather, mate!\""
 }
