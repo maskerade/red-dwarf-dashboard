@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T02:00:59.774422+00:00",
+  "timestamp": "2026-07-16T02:32:17.303210+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,19 +16,77 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 15.0,
+      "conditions": "Clear ",
+      "forecast": [
+        {
+          "date": "2026-07-16",
+          "max": 28.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-17",
+          "max": 28.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-18",
+          "max": 24.0,
+          "min": 13.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 15.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-16",
+          "max": 29.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-17",
+          "max": 29.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-18",
+          "max": 26.0,
+          "min": 11.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 16.0,
+      "conditions": "Partly Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-07-16",
+          "max": 21.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-17",
+          "max": 20.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-18",
+          "max": 18.0,
+          "min": 11.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:01 AM",
+    "sunset": "09:29 PM",
+    "moon_phase": "Waxing Crescent",
+    "moon_illumination": "4",
+    "moonrise": "07:33 AM",
+    "moonset": "10:39 PM"
+  },
   "metrolink": null,
   "headlines": [
     "Former OpenAI CTO does what Altman won't: releases a frontier AI model that's actually open",
@@ -36,5 +94,5 @@
     "Amazon Web Services' most vocal customer now runs EC2",
     "Prominent Haskell defector pilloried by anti-AI purists"
   ],
-  "crew_quote": "\"Well, if I can't see the weather or even know the temperature, I might just as well dive into a curry and let my taste buds do the exploring!\""
+  "crew_quote": "\"Ah, what a day! Clear skies and a perfect 15 degrees—ideal for a curry run, if you ask me. Nothing like some spice to make you forget you're on a long-lost spaceship!\""
 }
