@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T12:53:50.240376+00:00",
+  "timestamp": "2026-07-16T13:24:49.256118+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Windows 10 refuses to die, and the security bill is coming due",
     "SpaceX open sources Grok Build in same week company was found beaming users' repos to the cloud"
   ],
-  "crew_quote": "\"Blimey, it's 25°C out! Perfect weather for a curry... and a good excuse to avoid any spiders with their grand plans for a transport takeover!\""
+  "crew_quote": "\"25 degrees and sunny? Blimey, it’s perfect weather for a curry! Just what I need to wash down my last three pints!\""
 }
