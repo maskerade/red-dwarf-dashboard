@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T16:32:03.746714+00:00",
+  "timestamp": "2026-07-16T17:02:51.792547+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "NASA's Artemis III will need three rockets to do the job Apollo did with one",
-    "Airbus migrating 70 critical apps from AWS to France's Scaleway amid digital sovereignty push",
-    "Brit Scattered Spider duo handed tickets to prison over Transport for London attack",
-    "AI power binge delivers best half since 2022 for climate tech venture funding"
+    "AI vendors have found someone to pay their infrastructure bills: You",
+    "Kick your mouse out of the house with this AI-assisted keyboard utility",
+    "C'mon, just copy this text string and paste it into your macOS Terminal – it'll fix your computer, honest",
+    "NASA's Artemis III will need three rockets to do the job Apollo did with one"
   ],
-  "crew_quote": "\"27 degrees and sunny, perfect curry weather! Just remember, don't use the last of the rice, or it might explode like NASA's Artemis with all those rockets!\""
+  "crew_quote": "\"Blimey, with it being a sizzling 27 degrees, I reckon a nice cold curry would hit the spot—perfect for sweating out the heat, innit?\""
 }
