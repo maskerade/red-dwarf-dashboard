@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T06:10:29.325226+00:00",
+  "timestamp": "2026-07-16T06:41:32.085272+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 14.0,
-      "conditions": "Overcast ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-16",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Former OpenAI CTO does what Altman won't: releases a frontier AI model that's actually open",
     "Cadence's AuraStack agent melds AI with HPC to speed PCB, advanced packaging design"
   ],
-  "crew_quote": "\"Blimey, it’s 14°C and overcast outside — perfect weather for a pint and a curry, innit? Just don’t ask me to share my chips, I’m not a charity!\""
+  "crew_quote": "\"14 degrees and overcast? Great weather for a curry, but I'd rather it be raining pigs than deal with that ink cartel nonsense!\""
 }
