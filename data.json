@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T22:12:57.259063+00:00",
+  "timestamp": "2026-07-16T22:43:57.436514+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
+      "temp": 20.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -26,8 +26,8 @@
         },
         {
           "date": "2026-07-17",
-          "max": 28.0,
-          "min": 13.0
+          "max": 27.0,
+          "min": 14.0
         },
         {
           "date": "2026-07-18",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -52,13 +52,13 @@
         },
         {
           "date": "2026-07-18",
-          "max": 26.0,
+          "max": 25.0,
           "min": 10.0
         }
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 16.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -74,7 +74,7 @@
         {
           "date": "2026-07-18",
           "max": 17.0,
-          "min": 12.0
+          "min": 11.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "TSMC's $265B US fab pledge is the outline of a concept of a plan",
     "EU forces Google to share its toys with the other AI and search kids"
   ],
-  "crew_quote": "\"I don't know about you lot, but with this lovely 23°C out there, I'm feeling like a nice curry and a lazy day in the sun—just me, a good pint, and zero responsibilities!\""
+  "crew_quote": "\"Brilliant weather for a curry, isn't it? I mean, when you've got clear skies and a nice 20 degrees, you can't just sit around like a sad Microsoft datacenter!\""
 }
