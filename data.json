@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T04:37:24.980518+00:00",
+  "timestamp": "2026-07-16T05:08:26.640076+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 14.0,
-      "conditions": "Clear ",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-07-16",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-07-16",
@@ -94,5 +94,5 @@
     "Cadence's AuraStack agent melds AI with HPC to speed PCB, advanced packaging design",
     "Amazon Web Services' most vocal customer now runs EC2"
   ],
-  "crew_quote": "\"With all this clear weather, it’s a perfect day for a curry… and maybe a side of KFC, if they manage to pull themselves together after that cyber-attack!\""
+  "crew_quote": "\"Well, while Japan's busy fending off cyberattacks, we could just sit here in this lovely overcast weather and enjoy a nice curry. It’s like a perfect day for a pint, innit?\""
 }
