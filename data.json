@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T14:57:49.938229+00:00",
+  "timestamp": "2026-07-16T15:28:51.893326+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "NASA's Artemis III will need three rockets to do the job Apollo did with one",
+    "Airbus migrating 70 critical apps from AWS to France's Scaleway amid digital sovereignty push",
     "Brit Scattered Spider duo handed tickets to prison over Transport for London attack",
-    "AI power binge delivers best half since 2022 for climate tech venture funding",
-    "Windows 10 refuses to die, and the security bill is coming due",
-    "SpaceX open sources Grok Build in same week company was found beaming users' repos to the cloud"
+    "AI power binge delivers best half since 2022 for climate tech venture funding"
   ],
-  "crew_quote": "\"You know, with it being 27°C and sunny, I reckon a nice curry wouldn’t just be good—it’d be a culinary masterpiece, mate!\""
+  "crew_quote": "\"Blimey, it’s hotter than a curry in a sunbaked oven! Must be a good day for a pint and a game of space chess.\""
 }
