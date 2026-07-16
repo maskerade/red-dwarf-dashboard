@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T17:33:54.888992+00:00",
+  "timestamp": "2026-07-16T18:04:54.136586+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
+      "temp": 28.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 25.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "EU forces Google to share its toys with the other AI and search kids",
     "AI vendors have found someone to pay their infrastructure bills: You",
     "Kick your mouse out of the house with this AI-assisted keyboard utility",
-    "C'mon, just copy this text string and paste it into your macOS Terminal – it'll fix your computer, honest",
-    "NASA's Artemis III will need three rockets to do the job Apollo did with one"
+    "C'mon, just copy this text string and paste it into your macOS Terminal – it'll fix your computer, honest"
   ],
-  "crew_quote": "\"27 degrees and sunny? Perfect weather for a curry, eh? Just as long as we don't end up with that horrid 'AI-assisted' bill — I can barely pay for my last takeaway!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! At least the sunshine's better than that EU nonsense; I can’t even share my curry without a committee!\""
 }
