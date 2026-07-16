@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T09:47:46.527350+00:00",
+  "timestamp": "2026-07-16T10:18:46.844754+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 21.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-16",
@@ -47,13 +47,13 @@
         },
         {
           "date": "2026-07-17",
-          "max": 28.0,
+          "max": 29.0,
           "min": 11.0
         },
         {
           "date": "2026-07-18",
-          "max": 21.0,
-          "min": 10.0
+          "max": 25.0,
+          "min": 11.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "Tech support scam caused massive data breach at Australian airline Qantas",
     "Even HP resellers thought the price of toner and ink was too high – so HP India facilitated an illegal cartel"
   ],
-  "crew_quote": "\"With the sun shining brighter than my last curry night and the weather here hotter than Rimmer's chances of getting a date, I'm feeling positively chipper!\""
+  "crew_quote": "\"Sunny and 21 degrees in Altrincham, eh? Perfect weather for a curry, except I’ll still be indoors trying to teach my Mac to do something useful!\""
 }
