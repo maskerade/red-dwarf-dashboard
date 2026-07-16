@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-15T23:56:04.915207+00:00",
+  "timestamp": "2026-07-16T00:27:07.074401+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-15",
-          "max": 28.0,
-          "min": 13.0
-        },
         {
           "date": "2026-07-16",
           "max": 28.0,
@@ -32,6 +27,11 @@
         {
           "date": "2026-07-17",
           "max": 28.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-18",
+          "max": 24.0,
           "min": 13.0
         }
       ]
@@ -62,11 +62,6 @@
       "conditions": "Clear ",
       "forecast": [
         {
-          "date": "2026-07-15",
-          "max": 23.0,
-          "min": 12.0
-        },
-        {
           "date": "2026-07-16",
           "max": 21.0,
           "min": 12.0
@@ -75,17 +70,22 @@
           "date": "2026-07-17",
           "max": 20.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-07-18",
+          "max": 18.0,
+          "min": 11.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:00 AM",
-    "sunset": "09:30 PM",
+    "sunrise": "05:01 AM",
+    "sunset": "09:29 PM",
     "moon_phase": "Waxing Crescent",
-    "moon_illumination": "1",
-    "moonrise": "05:57 AM",
-    "moonset": "10:24 PM"
+    "moon_illumination": "4",
+    "moonrise": "07:33 AM",
+    "moonset": "10:39 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Prominent Haskell defector pilloried by anti-AI purists",
     "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim"
   ],
-  "crew_quote": "\"It's a lovely 18 degrees out there, but I'd trade it all for a proper curry! You can't beat the comfort of a good vindaloo, even in perfect weather!\""
+  "crew_quote": "\"I'll take a curry at 17 degrees any day, mate! Nice and clear outside—perfect weather for a cheeky takeaway and a few pints!\""
 }
