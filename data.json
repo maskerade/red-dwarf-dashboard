@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T05:08:26.640076+00:00",
+  "timestamp": "2026-07-16T05:39:28.848201+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 14.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-16",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Even HP resellers thought the price of toner and ink was too high – so HP India facilitated an illegal cartel",
     "Cyberattack threatens utterly critical infrastructure in Japan: KFC",
     "Former OpenAI CTO does what Altman won't: releases a frontier AI model that's actually open",
-    "Cadence's AuraStack agent melds AI with HPC to speed PCB, advanced packaging design",
-    "Amazon Web Services' most vocal customer now runs EC2"
+    "Cadence's AuraStack agent melds AI with HPC to speed PCB, advanced packaging design"
   ],
-  "crew_quote": "\"Well, while Japan's busy fending off cyberattacks, we could just sit here in this lovely overcast weather and enjoy a nice curry. It’s like a perfect day for a pint, innit?\""
+  "crew_quote": "\"14 degrees and overcast? Blimey, it’s like being in a pub with no curry smells to keep me company!\""
 }
