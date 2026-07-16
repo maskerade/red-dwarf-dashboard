@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T11:20:47.166778+00:00",
+  "timestamp": "2026-07-16T11:51:47.374117+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher",
     "Law firm insisted on one password to rule them all"
   ],
-  "crew_quote": "\"On a day like today, with the sun beaming down at 24 degrees, it’s a shame I can’t order a curry online—thanks to that silly AWS outage! I bet I’d look fabulous in the sun too!\""
+  "crew_quote": "\"With the sun shining like that, I could really go for a curry on the beach—just as long as the cloud doesn't throw a wobbly and cut off my internet, yeah?\""
 }
