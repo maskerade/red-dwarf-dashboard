@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T07:43:36.449672+00:00",
+  "timestamp": "2026-07-16T08:14:39.601625+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 17.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Overcast ",
+      "temp": 19.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-16",
@@ -94,5 +94,5 @@
     "Even HP resellers thought the price of toner and ink was too high – so HP India facilitated an illegal cartel",
     "Cyberattack threatens utterly critical infrastructure in Japan: KFC"
   ],
-  "crew_quote": "\"Partly cloudy and 14 degrees? Blimey, feels like a proper summer in here! Just don’t forget to lock up your passwords, or you might end up with a curry stain on your data!\""
+  "crew_quote": "\"With a balmy 17 degrees, I reckon it's the perfect weather for a curry, unless you're a computer too busy worrying about passwords to enjoy it!\""
 }
