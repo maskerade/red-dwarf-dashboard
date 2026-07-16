@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T12:22:47.287777+00:00",
+  "timestamp": "2026-07-16T12:53:50.240376+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 24.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 23.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "AWS CloudFront outage serves errors instead of websites",
-    "Telegram shortlinks knocked offline over sanctioned VPN connection",
-    "How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher",
-    "Law firm insisted on one password to rule them all"
+    "Brit Scattered Spider duo handed tickets to prison over Transport for London attack",
+    "AI power binge delivers best half since 2022 for climate tech venture funding",
+    "Windows 10 refuses to die, and the security bill is coming due",
+    "SpaceX open sources Grok Build in same week company was found beaming users' repos to the cloud"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry in Altrincham today! If only we had the AWS CloudFront to deliver some ice cream instead of errors!\""
+  "crew_quote": "\"Blimey, it's 25°C out! Perfect weather for a curry... and a good excuse to avoid any spiders with their grand plans for a transport takeover!\""
 }
