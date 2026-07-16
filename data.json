@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T13:55:52.774077+00:00",
+  "timestamp": "2026-07-16T14:26:51.039172+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Windows 10 refuses to die, and the security bill is coming due",
     "SpaceX open sources Grok Build in same week company was found beaming users' repos to the cloud"
   ],
-  "crew_quote": "\"With the weather this sunny, it's a perfect day for a curry! I mean, what’s better than a nice bit of chicken tikka while basking in 25 degrees of gloriousness?\""
+  "crew_quote": "\"Blimey, it's so hot out there, I could fry a curry on the pavement! Best we stay inside and let the AIs do their thing — they’re better than my cooking anyway!\""
 }
