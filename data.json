@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T11:51:47.374117+00:00",
+  "timestamp": "2026-07-16T12:22:47.287777+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "How to teach an old Intel Mac new tricks with OpenCore Legacy Patcher",
     "Law firm insisted on one password to rule them all"
   ],
-  "crew_quote": "\"With the sun shining like that, I could really go for a curry on the beach—just as long as the cloud doesn't throw a wobbly and cut off my internet, yeah?\""
+  "crew_quote": "\"Blimey, it's hotter than a curry in Altrincham today! If only we had the AWS CloudFront to deliver some ice cream instead of errors!\""
 }
