@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T20:39:56.484089+00:00",
+  "timestamp": "2026-07-16T21:10:56.451128+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
-      "conditions": "Sunny",
+      "temp": 23.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-16",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Sunny",
+      "temp": 21.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-16",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-16",
@@ -94,5 +94,5 @@
     "Kick your mouse out of the house with this AI-assisted keyboard utility",
     "C'mon, just copy this text string and paste it into your macOS Terminal – it'll fix your computer, honest"
   ],
-  "crew_quote": "\"Blimey, it’s hotter out there than a curry on a summer’s day! Let’s hope the sun doesn’t fry my chips—or Rimmer’s brain!”"
+  "crew_quote": "\"23 degrees and clear skies? What are we, a holiday resort? I’d rather be in the curry-scented chaos of a takeaway than this posh picnic!\""
 }
