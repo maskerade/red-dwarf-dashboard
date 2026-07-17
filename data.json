@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T09:36:06.429223+00:00",
+  "timestamp": "2026-07-17T10:07:07.160854+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Ransomware curdles production at Coca-Cola's Fairlife dairy biz",
     "Google fixing Android lock screen bug that lets Gemini send SMS without a PIN",
     "Home Office hands £28M to immigration IT incumbents after procurement challenge",
-    "How Gartner can help turn your AI vision into business reality",
-    "Tech support chap told angry customer to think inside the box – and solved the problem"
+    "How Gartner can help turn your AI vision into business reality"
   ],
   "crew_quote": null
 }
