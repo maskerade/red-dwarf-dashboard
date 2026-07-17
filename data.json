@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T09:05:06.567064+00:00",
+  "timestamp": "2026-07-17T09:36:06.429223+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,50 +16,50 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-17",
           "max": 27.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-07-18",
-          "max": 22.0,
+          "max": 24.0,
           "min": 12.0
         },
         {
           "date": "2026-07-19",
-          "max": 23.0,
+          "max": 24.0,
           "min": 8.0
         }
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-17",
-          "max": 28.0,
+          "max": 29.0,
           "min": 11.0
         },
         {
           "date": "2026-07-18",
-          "max": 25.0,
+          "max": 26.0,
           "min": 10.0
         },
         {
           "date": "2026-07-19",
-          "max": 24.0,
+          "max": 25.0,
           "min": 7.0
         }
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "temp": 21.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-17",
@@ -69,7 +69,7 @@
         {
           "date": "2026-07-18",
           "max": 17.0,
-          "min": 11.0
+          "min": 12.0
         },
         {
           "date": "2026-07-19",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Google fixing Android lock screen bug that lets Gemini send SMS without a PIN",
     "Home Office hands £28M to immigration IT incumbents after procurement challenge",
     "How Gartner can help turn your AI vision into business reality",
-    "Tech support chap told angry customer to think inside the box – and solved the problem",
-    "NTP server that traveled back in time caused massive Aussie mobile outage"
+    "Tech support chap told angry customer to think inside the box – and solved the problem"
   ],
   "crew_quote": null
 }
