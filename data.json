@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T13:44:09.916491+00:00",
+  "timestamp": "2026-07-17T14:15:54.566898+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,83 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 24.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-17",
-          "max": 27.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-18",
-          "max": 24.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-19",
-          "max": 24.0,
-          "min": 8.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 24.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-17",
-          "max": 29.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-18",
-          "max": 26.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-07-19",
-          "max": 25.0,
-          "min": 7.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 22.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-17",
-          "max": 20.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-18",
-          "max": 17.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-19",
-          "max": 18.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:03 AM",
-    "sunset": "09:27 PM",
-    "moon_phase": "Waxing Crescent",
-    "moon_illumination": "9",
-    "moonrise": "09:03 AM",
-    "moonset": "10:51 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "Torvalds challenged the haters to fork Linux. Someone said 'hold my beer'",
     "Microsoft gives admins Exchange Online breathing room",
     "Top EU court clips YouTube's intermediary defense over reviewed content",
-    "Attackers target critical FortiSandbox flaws as CISA issues patch order",
-    "SpaceX Starship Flight Test 13 takes issue with the 'flight' bit"
+    "Attackers target critical FortiSandbox flaws as CISA issues patch order"
   ],
   "crew_quote": null
 }
