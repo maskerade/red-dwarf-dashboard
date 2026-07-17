@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T00:17:00.510162+00:00",
+  "timestamp": "2026-07-17T00:48:00.538520+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Chinese memory ban would cut off RAMpocalypse relief",
+    "OpenAI admits GPT-5.6 occasionally deletes files – but it's an 'honest mistake'",
     "Amsterdam activists throw acid at Microsoft datacenter project",
-    "Researcher poisons open-weight AI model for under $100",
-    "TSMC's $265B US fab pledge is the outline of a concept of a plan",
-    "EU forces Google to share its toys with the other AI and search kids"
+    "Researcher poisons open-weight AI model for under $100"
   ],
-  "crew_quote": "\"Well, while it's a lovely 18 degrees and clear for a change, I’d still prefer a curry to keep my spirits up—who needs the sun when you've got a good vindaloo?\""
+  "crew_quote": "\"Isn't it lovely out? Perfect weather for a nice cold curry – though with my luck, it'll be raining RAMpocalypse relief by dinner!\""
 }
