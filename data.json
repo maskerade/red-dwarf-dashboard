@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T11:09:10.246403+00:00",
+  "timestamp": "2026-07-17T11:40:17.215048+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "SpaceX Starship Flight Test 13 takes issue with the 'flight' bit",
     "Europe's chip ambitions won't break dependence on US cloud and software, says Forrester",
     "Ransomware curdles production at Coca-Cola's Fairlife dairy biz",
-    "Google fixing Android lock screen bug that lets Gemini send SMS without a PIN",
-    "Home Office hands £28M to immigration IT incumbents after procurement challenge"
+    "Google fixing Android lock screen bug that lets Gemini send SMS without a PIN"
   ],
   "crew_quote": null
 }
