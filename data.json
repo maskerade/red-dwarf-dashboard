@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T17:55:15.233875+00:00",
+  "timestamp": "2026-07-17T18:26:15.090158+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Torvalds challenged the haters to fork Linux. Someone said 'hold my beer'",
-    "Microsoft gives admins Exchange Online breathing room",
-    "Top EU court clips YouTube's intermediary defense over reviewed content",
-    "Attackers target critical FortiSandbox flaws as CISA issues patch order"
+    "Mozilla speeds Firefox release schedule to biweekly",
+    "Microsoft cuts OneDrive support for older Windows 10 versions next month",
+    "Billing software error sends billion-dollar AWS estimates",
+    "AI spam filters are getting suckered by old-school text salting"
   ],
   "crew_quote": null
 }
