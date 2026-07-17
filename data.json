@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T04:25:04.581364+00:00",
+  "timestamp": "2026-07-17T04:56:05.605285+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Clear ",
+      "temp": 14.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-17",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 14.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-17",
@@ -94,5 +94,5 @@
     "OpenAI admits GPT-5.6 occasionally deletes files – but it's an 'honest mistake'",
     "Amsterdam activists throw acid at Microsoft datacenter project"
   ],
-  "crew_quote": "\"Given that glorious 16 degrees in Altrincham, I reckon it’s an ideal day for a curry—unless you’re stuck in Llandudno with that mist! Bet they could use a bit of spice.\""
+  "crew_quote": "\"With all this mist, I could really do with a curry to see me through—preferably one that’s not part of an AI security model!\""
 }
