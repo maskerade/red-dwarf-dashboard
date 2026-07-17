@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T12:42:10.940423+00:00",
+  "timestamp": "2026-07-17T13:13:12.853915+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Top EU court clips YouTube's intermediary defense over reviewed content",
+    "Attackers target critical FortiSandbox flaws as CISA issues patch order",
     "SpaceX Starship Flight Test 13 takes issue with the 'flight' bit",
-    "Europe's chip ambitions won't break dependence on US cloud and software, says Forrester",
-    "Ransomware curdles production at Coca-Cola's Fairlife dairy biz",
-    "Google fixing Android lock screen bug that lets Gemini send SMS without a PIN"
+    "Europe's chip ambitions won't break dependence on US cloud and software, says Forrester"
   ],
   "crew_quote": null
 }
