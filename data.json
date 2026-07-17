@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T10:38:08.104107+00:00",
+  "timestamp": "2026-07-17T11:09:10.246403+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Partly cloudy",
+      "temp": 23.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-17",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 20.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 21.0,
-      "conditions": "Sunny",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-17",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Europe's chip ambitions won't break dependence on US cloud and software, says Forrester",
     "Ransomware curdles production at Coca-Cola's Fairlife dairy biz",
     "Google fixing Android lock screen bug that lets Gemini send SMS without a PIN",
-    "Home Office hands £28M to immigration IT incumbents after procurement challenge",
-    "How Gartner can help turn your AI vision into business reality"
+    "Home Office hands £28M to immigration IT incumbents after procurement challenge"
   ],
   "crew_quote": null
 }
