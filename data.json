@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T06:29:07.416860+00:00",
+  "timestamp": "2026-07-17T07:00:55.179075+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,83 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-17",
-          "max": 27.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-07-18",
-          "max": 22.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-19",
-          "max": 23.0,
-          "min": 9.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Partly cloudy",
-      "forecast": [
-        {
-          "date": "2026-07-17",
-          "max": 28.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-18",
-          "max": 25.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-07-19",
-          "max": 24.0,
-          "min": 7.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Mist",
-      "forecast": [
-        {
-          "date": "2026-07-17",
-          "max": 20.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-18",
-          "max": 17.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-19",
-          "max": 18.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:02 AM",
-    "sunset": "09:28 PM",
-    "moon_phase": "Waxing Crescent",
-    "moon_illumination": "9",
-    "moonrise": "09:03 AM",
-    "moonset": "10:51 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "Tech support chap told angry customer to think inside the box – and solved the problem",
     "NTP server that traveled back in time caused massive Aussie mobile outage",
     "South Korea making its own security-centric AI model",
-    "Chinese memory ban would cut off RAMpocalypse relief",
-    "OpenAI admits GPT-5.6 occasionally deletes files – but it's an 'honest mistake'"
+    "Chinese memory ban would cut off RAMpocalypse relief"
   ],
-  "crew_quote": "\"With the weather being partly cloudy and a cool 16°C, I reckon it’s a perfect time for a curry – unless, of course, that time-traveling NTP server decides to rain on our parade!\""
+  "crew_quote": "\"I mean, who needs a proper weather report when you've got a time-traveling server messing with Aussie phones? It's like a curry — a bit spicy and utterly unpredictable!\""
 }
