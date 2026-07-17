@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T13:13:12.853915+00:00",
+  "timestamp": "2026-07-17T13:44:09.916491+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft gives admins Exchange Online breathing room",
     "Top EU court clips YouTube's intermediary defense over reviewed content",
     "Attackers target critical FortiSandbox flaws as CISA issues patch order",
-    "SpaceX Starship Flight Test 13 takes issue with the 'flight' bit",
-    "Europe's chip ambitions won't break dependence on US cloud and software, says Forrester"
+    "SpaceX Starship Flight Test 13 takes issue with the 'flight' bit"
   ],
   "crew_quote": null
 }
