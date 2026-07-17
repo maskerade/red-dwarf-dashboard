@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T08:03:03.970937+00:00",
+  "timestamp": "2026-07-17T08:34:04.735353+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Home Office hands £28M to immigration IT incumbents after procurement challenge",
     "How Gartner can help turn your AI vision into business reality",
     "Tech support chap told angry customer to think inside the box – and solved the problem",
-    "NTP server that traveled back in time caused massive Aussie mobile outage",
-    "South Korea making its own security-centric AI model"
+    "NTP server that traveled back in time caused massive Aussie mobile outage"
   ],
   "crew_quote": null
 }
