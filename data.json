@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T21:32:22.620981+00:00",
+  "timestamp": "2026-07-17T22:03:22.762225+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-17",
@@ -26,7 +26,7 @@
         },
         {
           "date": "2026-07-18",
-          "max": 23.0,
+          "max": 22.0,
           "min": 11.0
         },
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-17",
@@ -47,19 +47,19 @@
         },
         {
           "date": "2026-07-18",
-          "max": 24.0,
+          "max": 23.0,
           "min": 9.0
         },
         {
           "date": "2026-07-19",
           "max": 25.0,
-          "min": 8.0
+          "min": 7.0
         }
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 16.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-07-17",
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-07-19",
-          "max": 18.0,
+          "max": 17.0,
           "min": 11.0
         }
       ]
