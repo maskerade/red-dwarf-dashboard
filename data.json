@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T02:21:01.593848+00:00",
+  "timestamp": "2026-07-17T02:52:03.061655+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "South Korea making its own security-centric AI model",
     "Chinese memory ban would cut off RAMpocalypse relief",
     "OpenAI admits GPT-5.6 occasionally deletes files – but it's an 'honest mistake'",
-    "Amsterdam activists throw acid at Microsoft datacenter project",
-    "Researcher poisons open-weight AI model for under $100"
+    "Amsterdam activists throw acid at Microsoft datacenter project"
   ],
-  "crew_quote": "\"16 degrees and clear in Altrincham? That's lovely! Now if only we could get curry delivered without any memory issues like they have in OpenAI!\""
+  "crew_quote": "\"Ah, nothing like a clear day in Altrincham to make you forget about the RAMpocalypse; I reckon it's the perfect weather for a curry in the sun!\""
 }
