@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T01:19:00.583000+00:00",
+  "timestamp": "2026-07-17T01:50:03.237028+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 16.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Clear ",
+      "temp": 14.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-17",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Clear ",
+      "temp": 15.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-07-17",
@@ -94,5 +94,5 @@
     "Amsterdam activists throw acid at Microsoft datacenter project",
     "Researcher poisons open-weight AI model for under $100"
   ],
-  "crew_quote": "\"With this lovely clear weather, I reckon a nice curry on the beach would be a top-tier plan—better than being stuck inside with all that RAM nonsense!\""
+  "crew_quote": "\"16 degrees and clear, eh? Perfect weather for a curry! Just don’t ask me to share — my last potato fried in the mist! Now that’s a crime against taste!\""
 }
