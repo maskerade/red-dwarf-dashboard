@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T22:54:48.405181+00:00",
+  "timestamp": "2026-07-18T23:26:27.556532+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-18",
-          "max": 21.0,
-          "min": 12.0
-        },
         {
           "date": "2026-07-19",
           "max": 23.0,
@@ -33,18 +28,18 @@
           "date": "2026-07-20",
           "max": 25.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-07-21",
+          "max": 27.0,
+          "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-07-18",
-          "max": 22.0,
-          "min": 10.0
-        },
         {
           "date": "2026-07-19",
           "max": 23.0,
@@ -54,38 +49,26 @@
           "date": "2026-07-20",
           "max": 26.0,
           "min": 8.0
+        },
+        {
+          "date": "2026-07-21",
+          "max": 28.0,
+          "min": 10.0
         }
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-18",
-          "max": 18.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-19",
-          "max": 17.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-20",
-          "max": 17.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
   "astronomy": {
-    "sunrise": "05:04 AM",
-    "sunset": "09:26 PM",
+    "sunrise": "05:05 AM",
+    "sunset": "09:25 PM",
     "moon_phase": "Waxing Crescent",
-    "moon_illumination": "17",
-    "moonrise": "10:28 AM",
-    "moonset": "11:01 PM"
+    "moon_illumination": "26",
+    "moonrise": "11:49 AM",
+    "moonset": "11:10 PM"
   },
   "metrolink": null,
   "headlines": [
