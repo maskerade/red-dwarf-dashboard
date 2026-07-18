@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T15:40:34.709439+00:00",
+  "timestamp": "2026-07-18T16:11:43.857203+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,19 +16,77 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 21.0,
+      "conditions": "Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-07-18",
+          "max": 21.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-19",
+          "max": 23.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-07-20",
+          "max": 25.0,
+          "min": 10.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 21.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-18",
+          "max": 25.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-07-19",
+          "max": 25.0,
+          "min": 7.0
+        },
+        {
+          "date": "2026-07-20",
+          "max": 26.0,
+          "min": 9.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 18.0,
+      "conditions": "Overcast",
+      "forecast": [
+        {
+          "date": "2026-07-18",
+          "max": 17.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-19",
+          "max": 18.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-20",
+          "max": 18.0,
+          "min": 10.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:04 AM",
+    "sunset": "09:26 PM",
+    "moon_phase": "Waxing Crescent",
+    "moon_illumination": "17",
+    "moonrise": "10:28 AM",
+    "moonset": "11:01 PM"
+  },
   "metrolink": null,
   "headlines": [
     "Java was a three-day hotfix away from dying horribly on stage",
