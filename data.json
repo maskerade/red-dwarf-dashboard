@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T13:03:39.593103+00:00",
+  "timestamp": "2026-07-18T13:34:38.999457+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Java was a three-day hotfix away from dying horribly on stage",
     "NextBSD returns to dollop Apple source on FreeBSD",
     "Mozilla speeds Firefox release schedule to biweekly",
-    "Microsoft cuts OneDrive support for older Windows 10 versions next month",
-    "Billing software error sends billion-dollar AWS estimates"
+    "Microsoft cuts OneDrive support for older Windows 10 versions next month"
   ],
   "crew_quote": null
 }
