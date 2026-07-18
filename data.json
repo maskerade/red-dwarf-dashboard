@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-18T07:22:32.558205+00:00",
+  "timestamp": "2026-07-18T07:53:33.613846+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "NextBSD returns to dollop Apple source on FreeBSD",
     "Mozilla speeds Firefox release schedule to biweekly",
     "Microsoft cuts OneDrive support for older Windows 10 versions next month",
-    "Billing software error sends billion-dollar AWS estimates",
-    "AI spam filters are getting suckered by old-school text salting"
+    "Billing software error sends billion-dollar AWS estimates"
   ],
   "crew_quote": null
 }
