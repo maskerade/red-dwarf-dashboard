@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T07:43:02.180535+00:00",
+  "timestamp": "2026-07-19T08:14:00.139869+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Using AI makes people less likely to admit they don't know something",
     "Java was a three-day hotfix away from dying horribly on stage",
     "NextBSD returns to dollop Apple source on FreeBSD",
-    "Mozilla speeds Firefox release schedule to biweekly",
-    "Microsoft cuts OneDrive support for older Windows 10 versions next month"
+    "Mozilla speeds Firefox release schedule to biweekly"
   ],
   "crew_quote": null
 }
