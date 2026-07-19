@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T15:59:08.915642+00:00",
+  "timestamp": "2026-07-19T16:30:29.422260+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -27,11 +27,11 @@
         {
           "date": "2026-07-20",
           "max": 25.0,
-          "min": 11.0
+          "min": 10.0
         },
         {
           "date": "2026-07-21",
-          "max": 27.0,
+          "max": 26.0,
           "min": 11.0
         }
       ]
@@ -48,7 +48,7 @@
         {
           "date": "2026-07-20",
           "max": 26.0,
-          "min": 9.0
+          "min": 8.0
         },
         {
           "date": "2026-07-21",
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-07-21",
-          "max": 19.0,
+          "max": 18.0,
           "min": 11.0
         }
       ]
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Connecting AI agents to outside services explodes the risk radius",
     "Using AI makes people less likely to admit they don't know something",
     "Java was a three-day hotfix away from dying horribly on stage",
-    "NextBSD returns to dollop Apple source on FreeBSD",
-    "Mozilla speeds Firefox release schedule to biweekly"
+    "NextBSD returns to dollop Apple source on FreeBSD"
   ],
   "crew_quote": null
 }
