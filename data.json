@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T09:47:00.789296+00:00",
+  "timestamp": "2026-07-19T10:18:01.713551+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,39 +16,39 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Partly cloudy",
-      "forecast": [
-        {
-          "date": "2026-07-19",
-          "max": 22.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-20",
-          "max": 25.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-21",
-          "max": 26.0,
-          "min": 13.0
-        }
-      ]
-    },
-    "overseal": {
-      "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "temp": 17.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-07-19",
           "max": 23.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-07-20",
+          "max": 25.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-21",
+          "max": 27.0,
+          "min": 11.0
+        }
+      ]
+    },
+    "overseal": {
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-19",
+          "max": 24.0,
           "min": 8.0
         },
         {
           "date": "2026-07-20",
           "max": 26.0,
-          "min": 8.0
+          "min": 9.0
         },
         {
           "date": "2026-07-21",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-07-19",
@@ -81,7 +81,7 @@
   },
   "astronomy": {
     "sunrise": "05:05 AM",
-    "sunset": "09:26 PM",
+    "sunset": "09:25 PM",
     "moon_phase": "Waxing Crescent",
     "moon_illumination": "26",
     "moonrise": "11:49 AM",
