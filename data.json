@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T11:39:28.754404+00:00",
+  "timestamp": "2026-07-20T12:10:30.339031+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Major glitch in Matrix as UK government projects watchdog rates shared services cluster red",
-    "Airbus takes flight from AWS. What happens next is critical",
-    "Auditors tell UK government to do the math before banking on £45B AI savings",
-    "High hardware costs see Red Hat offer a two-server edge rig, no mini-PC required"
+    "Infosec expert: Paidwork users' data pwned after 23M-record database dumped online",
+    "Microsoft rushes out Windows fix for Dell's hot and bothered PCs",
+    "UK's seventh prime minister in a decade says he'll ditch digital ID scheme",
+    "Major glitch in Matrix as UK government projects watchdog rates shared services cluster red"
   ],
   "crew_quote": null
 }
