@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T10:37:23.589203+00:00",
+  "timestamp": "2026-07-20T11:08:24.568890+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
