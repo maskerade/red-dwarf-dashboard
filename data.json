@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T19:55:32.738256+00:00",
+  "timestamp": "2026-07-20T20:26:40.944260+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 20.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-20",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 20.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-20",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Scammers impersonate FBI on social media, prey on crime victims",
     "AWS customer learns the hard way how even the smallest oversight can be mission-critical",
     "Malicious cloud customers can bring down the power grid",
-    "Frontier LLMs couldn't help Hugging Face fight off evil agents",
-    "The Document Foundation says Microsoft's file formats keep users on a short leash"
+    "Frontier LLMs couldn't help Hugging Face fight off evil agents"
   ],
   "crew_quote": null
 }
