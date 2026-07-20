@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T15:47:29.455484+00:00",
+  "timestamp": "2026-07-20T16:18:29.791138+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "The Document Foundation says Microsoft's file formats keep users on a short leash",
     "Microsoft 365 calendars become spy drop boxes in HOLLOWGRAPH campaign",
     "Windows Server Update Services buckle under Microsoft's metadata mountain",
-    "EU's AI labeling rules take effect next month",
-    "Watching the world burn as all the money flows into a multitrillion-dollar Magic 8 Ball"
+    "EU's AI labeling rules take effect next month"
   ],
   "crew_quote": null
 }
