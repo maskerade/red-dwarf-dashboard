@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T00:47:16.946319+00:00",
+  "timestamp": "2026-07-20T01:18:17.108549+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Chinese President Xi Jinping wants emergency response systems to keep AI in check",
     "Connecting AI agents to outside services explodes the risk radius",
     "Using AI makes people less likely to admit they don't know something",
-    "Java was a three-day hotfix away from dying horribly on stage",
-    "NextBSD returns to dollop Apple source on FreeBSD"
+    "Java was a three-day hotfix away from dying horribly on stage"
   ],
   "crew_quote": null
 }
