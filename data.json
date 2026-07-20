@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T14:45:33.566418+00:00",
+  "timestamp": "2026-07-20T15:16:29.930261+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft 365 calendars become spy drop boxes in HOLLOWGRAPH campaign",
     "Windows Server Update Services buckle under Microsoft's metadata mountain",
     "EU's AI labeling rules take effect next month",
-    "Watching the world burn as all the money flows into a multitrillion-dollar Magic 8 Ball",
-    "Infosec expert: Paidwork users' data pwned after 23M-record database dumped online"
+    "Watching the world burn as all the money flows into a multitrillion-dollar Magic 8 Ball"
   ],
   "crew_quote": null
 }
