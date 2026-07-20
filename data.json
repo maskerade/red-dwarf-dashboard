@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T06:28:22.788632+00:00",
+  "timestamp": "2026-07-20T06:59:24.930781+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Comment in code read 'Dear future me, sorry I wrote this'",
     "AI ops tools will create console sprawl and break IT more often: Gartner",
     "Chinese President Xi Jinping wants emergency response systems to keep AI in check",
-    "Connecting AI agents to outside services explodes the risk radius",
-    "Using AI makes people less likely to admit they don't know something"
+    "Connecting AI agents to outside services explodes the risk radius"
   ],
   "crew_quote": null
 }
