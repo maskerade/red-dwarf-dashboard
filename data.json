@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T19:24:39.127183+00:00",
+  "timestamp": "2026-07-20T19:55:32.738256+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "The Document Foundation says Microsoft's file formats keep users on a short leash",
-    "Microsoft 365 calendars become spy drop boxes in HOLLOWGRAPH campaign",
-    "Windows Server Update Services buckle under Microsoft's metadata mountain",
-    "EU's AI labeling rules take effect next month"
+    "AWS customer learns the hard way how even the smallest oversight can be mission-critical",
+    "Malicious cloud customers can bring down the power grid",
+    "Frontier LLMs couldn't help Hugging Face fight off evil agents",
+    "The Document Foundation says Microsoft's file formats keep users on a short leash"
   ],
   "crew_quote": null
 }
