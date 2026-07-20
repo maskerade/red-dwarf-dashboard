@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T07:30:25.979577+00:00",
+  "timestamp": "2026-07-20T08:02:09.658879+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Partly cloudy",
-      "forecast": [
-        {
-          "date": "2026-07-20",
-          "max": 25.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-07-21",
-          "max": 25.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-22",
-          "max": 25.0,
-          "min": 12.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-20",
-          "max": 26.0,
-          "min": 8.0
-        },
-        {
-          "date": "2026-07-21",
-          "max": 26.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-07-22",
-          "max": 24.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-20",
-          "max": 17.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-21",
-          "max": 18.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-22",
-          "max": 18.0,
-          "min": 12.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:07 AM",
-    "sunset": "09:24 PM",
-    "moon_phase": "Waxing Crescent",
-    "moon_illumination": "35",
-    "moonrise": "01:08 PM",
-    "moonset": "11:20 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "High hardware costs see Red Hat offer a two-server edge rig, no mini-PC required",
