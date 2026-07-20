@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T05:57:22.616937+00:00",
+  "timestamp": "2026-07-20T06:28:22.788632+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,29 +16,29 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 12.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-20",
           "max": 25.0,
-          "min": 12.0
+          "min": 10.0
         },
         {
           "date": "2026-07-21",
           "max": 25.0,
-          "min": 14.0
+          "min": 11.0
         },
         {
           "date": "2026-07-22",
-          "max": 24.0,
-          "min": 13.0
+          "max": 25.0,
+          "min": 12.0
         }
       ]
     },
     "overseal": {
-      "temp": 11.0,
-      "conditions": "Clear ",
+      "temp": 12.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-20",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Clear ",
+      "temp": 14.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-20",
@@ -80,7 +80,7 @@
     }
   },
   "astronomy": {
-    "sunrise": "05:06 AM",
+    "sunrise": "05:07 AM",
     "sunset": "09:24 PM",
     "moon_phase": "Waxing Crescent",
     "moon_illumination": "35",
