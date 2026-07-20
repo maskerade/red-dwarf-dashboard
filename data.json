@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T13:43:28.100785+00:00",
+  "timestamp": "2026-07-20T14:14:28.139078+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
-      "conditions": "Sunny",
+      "temp": 24.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-20",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
-      "conditions": "Partly cloudy",
+      "temp": 24.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-20",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "temp": 18.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-20",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Windows Server Update Services buckle under Microsoft's metadata mountain",
     "EU's AI labeling rules take effect next month",
     "Watching the world burn as all the money flows into a multitrillion-dollar Magic 8 Ball",
-    "Infosec expert: Paidwork users' data pwned after 23M-record database dumped online",
-    "Microsoft rushes out Windows fix for Dell's hot and bothered PCs"
+    "Infosec expert: Paidwork users' data pwned after 23M-record database dumped online"
   ],
   "crew_quote": null
 }
