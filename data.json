@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T12:41:26.465602+00:00",
+  "timestamp": "2026-07-20T13:12:26.501510+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Watching the world burn as all the money flows into a multitrillion-dollar Magic 8 Ball",
     "Infosec expert: Paidwork users' data pwned after 23M-record database dumped online",
     "Microsoft rushes out Windows fix for Dell's hot and bothered PCs",
-    "UK's seventh prime minister in a decade says he'll ditch digital ID scheme",
-    "Major glitch in Matrix as UK government projects watchdog rates shared services cluster red"
+    "UK's seventh prime minister in a decade says he'll ditch digital ID scheme"
   ],
   "crew_quote": null
 }
