@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T13:12:26.501510+00:00",
+  "timestamp": "2026-07-20T13:43:28.100785+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "EU's AI labeling rules take effect next month",
     "Watching the world burn as all the money flows into a multitrillion-dollar Magic 8 Ball",
     "Infosec expert: Paidwork users' data pwned after 23M-record database dumped online",
-    "Microsoft rushes out Windows fix for Dell's hot and bothered PCs",
-    "UK's seventh prime minister in a decade says he'll ditch digital ID scheme"
+    "Microsoft rushes out Windows fix for Dell's hot and bothered PCs"
   ],
   "crew_quote": null
 }
