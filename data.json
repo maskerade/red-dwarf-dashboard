@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T22:30:36.298920+00:00",
+  "timestamp": "2026-07-20T23:01:49.996239+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Attackers pummel critical WordPress vuln to create all sorts of mischief",
     "Scammers impersonate FBI on social media, prey on crime victims",
     "AWS customer learns the hard way how even the smallest oversight can be mission-critical",
-    "Malicious cloud customers can bring down the power grid",
-    "Frontier LLMs couldn't help Hugging Face fight off evil agents"
+    "Malicious cloud customers can bring down the power grid"
   ],
   "crew_quote": null
 }
