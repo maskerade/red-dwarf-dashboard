@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T12:59:55.279995+00:00",
+  "timestamp": "2026-07-21T13:30:55.885075+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
-      "conditions": "Partly cloudy",
+      "temp": 23.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-07-21",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Intel fortifies Foundry with an actual customer: Fortinet",
     "LG monitors are using Windows 11 feature to serve adware",
     "UK.gov's tech department gets the chop after two years",
-    "Valve's Steam Frame pushes Arch Linux toward official Arm64 support",
-    "Viking 1 landed on Mars 50 years ago"
+    "Valve's Steam Frame pushes Arch Linux toward official Arm64 support"
   ],
   "crew_quote": null
 }
