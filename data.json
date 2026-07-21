@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T11:26:57.187795+00:00",
+  "timestamp": "2026-07-21T11:57:55.444693+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 21.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-21",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Valve's Steam Frame pushes Arch Linux toward official Arm64 support",
     "Viking 1 landed on Mars 50 years ago",
     "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out",
-    "Some Mullvad VPN customers tunnel for exit after co-founder donates millions to populist party",
-    "Judgment day looms for UK's £8.35B Skynet military satellite comms upgrade"
+    "Some Mullvad VPN customers tunnel for exit after co-founder donates millions to populist party"
   ],
   "crew_quote": null
 }
