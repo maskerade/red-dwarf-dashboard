@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T15:05:41.561149+00:00",
+  "timestamp": "2026-07-21T15:36:59.861282+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,19 +16,77 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 22.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-21",
+          "max": 25.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-22",
+          "max": 25.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-23",
+          "max": 23.0,
+          "min": 13.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 25.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-21",
+          "max": 26.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-07-22",
+          "max": 25.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-07-23",
+          "max": 27.0,
+          "min": 12.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-21",
+          "max": 18.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-22",
+          "max": 17.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-23",
+          "max": 17.0,
+          "min": 12.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:08 AM",
+    "sunset": "09:22 PM",
+    "moon_phase": "First Quarter",
+    "moon_illumination": "45",
+    "moonrise": "02:26 PM",
+    "moonset": "11:32 PM"
+  },
   "metrolink": null,
   "headlines": [
     "Nvidia shows off Vera Rubin platform for tokenmaxxing",
