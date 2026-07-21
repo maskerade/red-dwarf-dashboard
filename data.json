@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T19:15:12.393895+00:00",
+  "timestamp": "2026-07-21T19:46:02.641712+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-21",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Overcast",
+      "temp": 16.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-21",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI's cheatin' heart will make you weep",
+    "US Marines' latest anti-drone toy is an AI turret that uses regular machine guns",
     "Iran says it's struck offline AWS facility in Bahrain ... again",
-    "Oracle faces $100M annual bill to back Wisconsin datacenter power promises",
-    "Kratos phishing-as-a-service kit loses its battle with international law enforcement",
-    "Nvidia shows off Vera Rubin platform for tokenmaxxing"
+    "Oracle faces $100M annual bill to back Wisconsin datacenter power promises"
   ],
   "crew_quote": null
 }
