@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T10:25:19.582893+00:00",
+  "timestamp": "2026-07-21T10:55:53.076688+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 20.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-21",
+          "max": 25.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-22",
+          "max": 25.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-23",
+          "max": 23.0,
+          "min": 13.0
+        }
+      ]
     },
     "overseal": {
       "temp": 19.0,
@@ -64,18 +81,18 @@
   },
   "astronomy": {
     "sunrise": "05:08 AM",
-    "sunset": "09:17 PM",
+    "sunset": "09:22 PM",
     "moon_phase": "First Quarter",
     "moon_illumination": "45",
-    "moonrise": "02:21 PM",
-    "moonset": "11:31 PM"
+    "moonrise": "02:26 PM",
+    "moonset": "11:32 PM"
   },
   "metrolink": null,
   "headlines": [
+    "Viking 1 landed on Mars 50 years ago",
     "Scalding hot AI accelerators have put datacenters in hot water. Two-phase cooling could chill them out",
     "Some Mullvad VPN customers tunnel for exit after co-founder donates millions to populist party",
-    "Judgment day looms for UK's £8.35B Skynet military satellite comms upgrade",
-    "Europe slaps AliExpress with €550 million fine for selling dodgy goods"
+    "Judgment day looms for UK's £8.35B Skynet military satellite comms upgrade"
   ],
   "crew_quote": null
 }
