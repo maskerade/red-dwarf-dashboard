@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T04:12:47.419649+00:00",
+  "timestamp": "2026-07-21T04:43:46.247676+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "OVH reveals semi-secret plan to fix critical Januscape bug with mass reboots – and an Australian crash-test dummy",
     "Attackers pummel critical WordPress vuln to create all sorts of mischief",
     "Scammers impersonate FBI on social media, prey on crime victims",
-    "AWS customer learns the hard way how even the smallest oversight can be mission-critical",
-    "Malicious cloud customers can bring down the power grid"
+    "AWS customer learns the hard way how even the smallest oversight can be mission-critical"
   ],
   "crew_quote": null
 }
