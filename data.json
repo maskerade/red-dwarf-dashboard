@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T18:44:01.160620+00:00",
+  "timestamp": "2026-07-21T19:15:12.393895+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Iran says it's struck offline AWS facility in Bahrain ... again",
     "Oracle faces $100M annual bill to back Wisconsin datacenter power promises",
     "Kratos phishing-as-a-service kit loses its battle with international law enforcement",
-    "Nvidia shows off Vera Rubin platform for tokenmaxxing",
-    "Windows 11 Start menu changes trickle into Beta, movable taskbar still MIA"
+    "Nvidia shows off Vera Rubin platform for tokenmaxxing"
   ],
   "crew_quote": null
 }
