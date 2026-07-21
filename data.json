@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T06:16:47.684032+00:00",
+  "timestamp": "2026-07-21T06:47:49.737612+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "OVH reveals semi-secret plan to fix critical Januscape bug with mass reboots – and an Australian crash-test dummy",
+    "Google Cloud outage shows it’s still hard to understand hyperscalers’ real resilience regimes",
+    "OVH reveals semi-secret plan to fix critical Januscape hypervisor bug with mass reboots – and an Australian crash-test dummy",
     "Attackers pummel critical WordPress vuln to create all sorts of mischief",
-    "Scammers impersonate FBI on social media, prey on crime victims",
-    "AWS customer learns the hard way how even the smallest oversight can be mission-critical"
+    "Scammers impersonate FBI on social media, prey on crime victims"
   ],
   "crew_quote": null
 }
