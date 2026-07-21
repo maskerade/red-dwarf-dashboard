@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T22:21:05.366660+00:00",
+  "timestamp": "2026-07-21T22:52:05.695149+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "temp": 16.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-21",
@@ -26,7 +26,7 @@
         },
         {
           "date": "2026-07-22",
-          "max": 25.0,
+          "max": 24.0,
           "min": 12.0
         },
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 16.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -48,18 +48,18 @@
         {
           "date": "2026-07-22",
           "max": 25.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-07-23",
-          "max": 28.0,
+          "max": 27.0,
           "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Partly cloudy",
+      "temp": 14.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-21",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Cisco's open-weight bug busters take on Google and OpenAI",
+    "AI's cheatin' heart will make you weep",
     "US Marines' latest anti-drone toy is an AI turret that uses regular machine guns",
-    "Iran says it's struck offline AWS facility in Bahrain ... again",
-    "Oracle faces $100M annual bill to back Wisconsin datacenter power promises",
-    "Kratos phishing-as-a-service kit loses its battle with international law enforcement"
+    "Iran says it's struck offline AWS facility in Bahrain ... again"
   ],
   "crew_quote": null
 }
