@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T20:17:03.265808+00:00",
+  "timestamp": "2026-07-21T20:48:04.557324+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "AI's cheatin' heart will make you weep",
     "US Marines' latest anti-drone toy is an AI turret that uses regular machine guns",
     "Iran says it's struck offline AWS facility in Bahrain ... again",
-    "Oracle faces $100M annual bill to back Wisconsin datacenter power promises"
+    "Oracle faces $100M annual bill to back Wisconsin datacenter power promises",
+    "Kratos phishing-as-a-service kit loses its battle with international law enforcement"
   ],
   "crew_quote": null
 }
