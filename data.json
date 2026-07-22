@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T11:50:20.936228+00:00",
+  "timestamp": "2026-07-22T12:21:22.296249+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Greedy ransomware crews return for seconds after victims cough up first extortion payments",
+    "GNOME can look like Windows – and Flashback can do it without extensions",
     "Redmond's reaper cometh: October 2026 set to bury a graveyard of Microsoft products",
-    "Raspberry Pi goes large with 10.1-inch Touch Display 2",
-    "Council worker spared prison after four-day data-snooping spree",
-    "Anyone with a shed, an extension cord, a couple of GPUs and an overdraft is building datacenters. Fujitsu just offloaded five"
+    "Raspberry Pi goes large with 10.1-inch Touch Display 2"
   ],
   "crew_quote": null
 }
