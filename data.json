@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T00:25:05.508651+00:00",
+  "timestamp": "2026-07-22T00:56:05.829738+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "The truth nobody wants to admit: Chinese or not, open models are competitive now",
     "Cisco's open-weight bug busters take on Google and OpenAI",
     "AI's cheatin' heart will make you weep",
-    "US Marines' latest anti-drone toy is an AI turret that uses regular machine guns",
-    "Iran says it's struck offline AWS facility in Bahrain ... again"
+    "US Marines' latest anti-drone toy is an AI turret that uses regular machine guns"
   ],
   "crew_quote": null
 }
