@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T21:09:30.000511+00:00",
+  "timestamp": "2026-07-22T21:40:30.592348+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Fresh off AI layoffs, Block now wants to whack Slack with agent-human collab tool",
-    "Linux kernel team publishes 432 CVEs in two days",
-    "Astronomers spot exomoon candidate that's almost as massive as Jupiter",
-    "Latest Musk merch drop runs entirely on child labor"
+    "Google Cloud is killing it",
+    "Web app turns your old phone into a new smart display",
+    "Sovereign AI is 'nonsense,' says Doctorow",
+    "Fresh off AI layoffs, Block now wants to whack Slack with agent-human collab tool"
   ],
   "crew_quote": null
 }
