@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T19:36:28.445906+00:00",
+  "timestamp": "2026-07-22T20:07:28.367503+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Fresh off AI layoffs, Block now wants to whack Slack with agent-human collab tool",
     "Linux kernel team publishes 432 CVEs in two days",
     "Astronomers spot exomoon candidate that's almost as massive as Jupiter",
-    "Latest Musk merch drop runs entirely on child labor",
-    "Grok muscles into Excel with an AI add-in of its own"
+    "Latest Musk merch drop runs entirely on child labor"
   ],
   "crew_quote": null
 }
