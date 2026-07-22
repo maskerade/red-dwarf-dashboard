@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T01:58:09.627734+00:00",
+  "timestamp": "2026-07-22T02:29:09.118268+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
     "The truth nobody wants to admit: Chinese or not, open models are competitive now",
     "Cisco's open-weight bug busters take on Google and OpenAI",
-    "AI's cheatin' heart will make you weep",
-    "US Marines' latest anti-drone toy is an AI turret that uses regular machine guns"
+    "AI's cheatin' heart will make you weep"
   ],
   "crew_quote": null
 }
