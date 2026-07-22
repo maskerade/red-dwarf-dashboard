@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T12:52:21.126090+00:00",
+  "timestamp": "2026-07-22T13:23:21.832742+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "OpenAI tries the consulting path with 'Presence', charging enterprises boots-on-the-ground prices to deploy agents",
+    "Sneaky Windows stealer targets 300+ apps, gives crims an AI profiler to maximize profits",
     "Ireland stalls €1B Microsoft tender amid digital sovereignty questions",
-    "Greedy ransomware crews return for seconds after victims cough up first extortion payments",
-    "GNOME can look like Windows – and Flashback can do it without extensions",
-    "Redmond's reaper cometh: October 2026 set to bury a graveyard of Microsoft products"
+    "Greedy ransomware crews return for seconds after victims cough up first extortion payments"
   ],
   "crew_quote": null
 }
