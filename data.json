@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T08:44:16.347700+00:00",
+  "timestamp": "2026-07-22T09:15:29.618491+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Raspberry Pi goes large with 10.1-inch Touch Display 2",
+    "Council worker spared prison after four-day data-snooping spree",
     "Anyone with a shed, an extension cord, a couple of GPUs and an overdraft is building datacenters. Fujitsu just offloaded five",
-    "China advances plans for national single-stack IPv6 network, and its own surveillance-friendly version of the protocol",
-    "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
-    "The truth nobody wants to admit: Chinese or not, open models are competitive now"
+    "China advances plans for national single-stack IPv6 network, and its own surveillance-friendly version of the protocol"
   ],
   "crew_quote": null
 }
