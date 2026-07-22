@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T14:56:23.527163+00:00",
+  "timestamp": "2026-07-22T15:27:23.588763+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Latest Musk merch drop runs entirely on child labor",
     "Grok muscles into Excel with an AI add-in of its own",
     "OpenAI tries the consulting path with 'Presence', charging enterprises boots-on-the-ground prices to deploy agents",
-    "Sneaky Windows stealer targets 300+ apps, gives crims an AI profiler to maximize profits",
-    "Ireland stalls €1B Microsoft tender amid digital sovereignty questions"
+    "Sneaky Windows stealer targets 300+ apps, gives crims an AI profiler to maximize profits"
   ],
   "crew_quote": null
 }
