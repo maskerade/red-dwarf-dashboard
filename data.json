@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T17:01:15.220021+00:00",
+  "timestamp": "2026-07-22T17:32:26.249545+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,25 +16,83 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 23.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-22",
+          "max": 23.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-23",
+          "max": 25.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-24",
+          "max": 24.0,
+          "min": 11.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 22.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-22",
+          "max": 24.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-07-23",
+          "max": 26.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-24",
+          "max": 28.0,
+          "min": 11.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 20.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-22",
+          "max": 17.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-23",
+          "max": 18.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-24",
+          "max": 19.0,
+          "min": 11.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:10 AM",
+    "sunset": "09:21 PM",
+    "moon_phase": "Waxing Gibbous",
+    "moon_illumination": "55",
+    "moonrise": "03:44 PM",
+    "moonset": "11:47 PM"
+  },
   "metrolink": null,
   "headlines": [
+    "Linux kernel team publishes 432 CVEs in two days",
+    "Astronomers spot exomoon candidate that's almost as massive as Jupiter",
     "Latest Musk merch drop runs entirely on child labor",
-    "Grok muscles into Excel with an AI add-in of its own",
-    "OpenAI tries the consulting path with 'Presence', charging enterprises boots-on-the-ground prices to deploy agents",
-    "Sneaky Windows stealer targets 300+ apps, gives crims an AI profiler to maximize profits"
+    "Grok muscles into Excel with an AI add-in of its own"
   ],
   "crew_quote": null
 }
