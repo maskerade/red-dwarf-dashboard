@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T02:29:09.118268+00:00",
+  "timestamp": "2026-07-22T03:00:54.919465+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-22",
-          "max": 24.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-23",
-          "max": 25.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-24",
-          "max": 24.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Mist",
-      "forecast": [
-        {
-          "date": "2026-07-22",
-          "max": 25.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-23",
-          "max": 27.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-24",
-          "max": 28.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Overcast",
-      "forecast": [
-        {
-          "date": "2026-07-22",
-          "max": 18.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-23",
-          "max": 18.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-24",
-          "max": 20.0,
-          "min": 12.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:10 AM",
-    "sunset": "09:21 PM",
-    "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "55",
-    "moonrise": "03:44 PM",
-    "moonset": "11:47 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
