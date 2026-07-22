@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T04:03:11.707980+00:00",
+  "timestamp": "2026-07-22T04:34:11.887039+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "China advances plans for national single-stack IPv6 network, and its own surveillance-friendly version of the protocol",
     "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
     "The truth nobody wants to admit: Chinese or not, open models are competitive now",
-    "Cisco's open-weight bug busters take on Google and OpenAI",
-    "AI's cheatin' heart will make you weep"
+    "Cisco's open-weight bug busters take on Google and OpenAI"
   ],
   "crew_quote": null
 }
