@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T13:54:24.659578+00:00",
+  "timestamp": "2026-07-22T14:25:23.654360+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 21.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-22",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Grok muscles into Excel with an AI add-in of its own",
     "OpenAI tries the consulting path with 'Presence', charging enterprises boots-on-the-ground prices to deploy agents",
     "Sneaky Windows stealer targets 300+ apps, gives crims an AI profiler to maximize profits",
-    "Ireland stalls €1B Microsoft tender amid digital sovereignty questions",
-    "Greedy ransomware crews return for seconds after victims cough up first extortion payments"
+    "Ireland stalls €1B Microsoft tender amid digital sovereignty questions"
   ],
   "crew_quote": null
 }
