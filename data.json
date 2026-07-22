@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T09:46:20.233256+00:00",
+  "timestamp": "2026-07-22T10:17:18.391249+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Redmond's reaper cometh: October 2026 set to bury a graveyard of Microsoft products",
     "Raspberry Pi goes large with 10.1-inch Touch Display 2",
     "Council worker spared prison after four-day data-snooping spree",
-    "Anyone with a shed, an extension cord, a couple of GPUs and an overdraft is building datacenters. Fujitsu just offloaded five",
-    "China advances plans for national single-stack IPv6 network, and its own surveillance-friendly version of the protocol"
+    "Anyone with a shed, an extension cord, a couple of GPUs and an overdraft is building datacenters. Fujitsu just offloaded five"
   ],
   "crew_quote": null
 }
