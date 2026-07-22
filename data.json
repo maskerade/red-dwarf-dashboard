@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-22T07:42:16.600644+00:00",
+  "timestamp": "2026-07-22T08:13:19.340688+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-22",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Overcast",
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-22",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Anyone with a shed, an extension cord, a couple of GPUs and an overdraft is building datacenters. Fujitsu just offloaded five",
     "China advances plans for national single-stack IPv6 network, and its own surveillance-friendly version of the protocol",
     "OpenAI admits it was the source of the agent swarm that attacked Hugging Face",
-    "The truth nobody wants to admit: Chinese or not, open models are competitive now",
-    "Cisco's open-weight bug busters take on Google and OpenAI"
+    "The truth nobody wants to admit: Chinese or not, open models are competitive now"
   ],
   "crew_quote": null
 }
