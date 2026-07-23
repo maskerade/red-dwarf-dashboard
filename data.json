@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T03:52:36.533159+00:00",
+  "timestamp": "2026-07-23T04:23:38.048898+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -21,7 +21,7 @@
       "forecast": [
         {
           "date": "2026-07-23",
-          "max": 25.0,
+          "max": 24.0,
           "min": 13.0
         },
         {
@@ -32,12 +32,12 @@
         {
           "date": "2026-07-25",
           "max": 19.0,
-          "min": 14.0
+          "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -52,8 +52,8 @@
         },
         {
           "date": "2026-07-25",
-          "max": 27.0,
-          "min": 13.0
+          "max": 25.0,
+          "min": 12.0
         }
       ]
     },
@@ -63,7 +63,7 @@
       "forecast": [
         {
           "date": "2026-07-23",
-          "max": 18.0,
+          "max": 17.0,
           "min": 12.0
         },
         {
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-07-25",
-          "max": 18.0,
-          "min": 14.0
+          "max": 17.0,
+          "min": 12.0
         }
       ]
     }
@@ -89,7 +89,7 @@
   },
   "metrolink": null,
   "headlines": [
-    "Google is hoarding TPUs to develop Artificial General Intelligence",
+    "Google is hoarding TPUs to chase artificial general intelligence",
     "OpenAI scored an own goal with HuggingFace attack, showing how open Chinese models are winning",
     "Google Cloud is killing it",
     "Web app turns your old phone into a new smart display"
