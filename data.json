@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T15:47:49.506852+00:00",
+  "timestamp": "2026-07-23T16:18:50.868453+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "GitHub slashes public bug bounty payouts as AI report flood buries its security team",
-    "Iran-linked crews are probing more flavors of US industrial kit",
-    "Tesla burns through a billion as Musk bets the farm on chips and bots",
-    "One ChatGPT link could smuggle a rogue AI agent into your company"
+    "Model Context Protocol prepares to break with its stateful past",
+    "Millions of California-bought cars can be hijacked via Bluetooth",
+    "Oracle drops 1,449 security patches like it's the new normal",
+    "GitHub slashes public bug bounty payouts as AI report flood buries its security team"
   ],
   "crew_quote": null
 }
