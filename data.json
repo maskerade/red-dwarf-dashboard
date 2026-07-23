@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T11:08:44.961989+00:00",
+  "timestamp": "2026-07-23T11:39:45.356528+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Firefox 153 contains itself while Thunderbird 153 fixes almost everything",
     "Stats watchdog prescribes stronger caveats for NHS Palantir claims",
     "Amazon's AGI department finds humans are optional",
-    "UK pumps £708 million into its future fighter jet",
-    "Britain isn't considering datacenters' thirst for water in its 'AI superpower' ambitions"
+    "UK pumps £708 million into its future fighter jet"
   ],
   "crew_quote": null
 }
