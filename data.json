@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T09:04:01.888061+00:00",
+  "timestamp": "2026-07-23T09:34:44.574068+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "UK pumps £708 million into its future fighter jet",
     "Britain isn't considering datacenters' thirst for water in its 'AI superpower' ambitions",
     "Talking smack about a doctor got him access to private medical files",
-    "Senior White House official claims China’s K3 model stolen from Anthropic",
-    "Google is hoarding TPUs to chase artificial general intelligence"
+    "Senior White House official claims China’s K3 model stolen from Anthropic"
   ],
   "crew_quote": null
 }
