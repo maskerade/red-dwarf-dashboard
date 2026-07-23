@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T12:41:47.293044+00:00",
+  "timestamp": "2026-07-23T13:12:48.091950+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "One ChatGPT link could smuggle a rogue AI agent into your company",
     "If you get knocked on the head and get all your devices stolen and have amnesia, Google will let you back in with a selfie",
     "Swiss train maker tells ransomware crooks to get off at the next stop",
-    "IBM insists AI didn't kill software deals, just delayed them",
-    "Firefox 153 contains itself while Thunderbird 153 fixes almost everything"
+    "IBM insists AI didn't kill software deals, just delayed them"
   ],
   "crew_quote": null
 }
