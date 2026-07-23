@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T14:45:48.739608+00:00",
+  "timestamp": "2026-07-23T15:16:50.545218+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 23.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 24.0,
-      "conditions": "Cloudy ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-23",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "One ChatGPT link could smuggle a rogue AI agent into your company",
-    "If you get knocked on the head and get all your devices stolen and have amnesia, Google will let you back in with a selfie",
-    "Swiss train maker tells ransomware crooks to get off at the next stop",
-    "IBM insists AI didn't kill software deals, just delayed them"
+    "GitHub slashes public bug bounty payouts as AI report flood buries its security team",
+    "Iran-linked crews are probing more flavors of US industrial kit",
+    "Tesla burns through a billion as Musk bets the farm on chips and bots",
+    "One ChatGPT link could smuggle a rogue AI agent into your company"
   ],
   "crew_quote": null
 }
