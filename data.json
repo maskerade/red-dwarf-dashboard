@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T05:56:40.120043+00:00",
+  "timestamp": "2026-07-23T06:27:40.734696+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Senior White House official claims China’s K3 model stolen from Anthropic",
     "Google is hoarding TPUs to chase artificial general intelligence",
     "OpenAI scored an own goal with HuggingFace attack, showing how open Chinese models are winning",
-    "Google Cloud is killing it",
-    "Web app turns your old phone into a new smart display"
+    "Google Cloud is killing it"
   ],
   "crew_quote": null
 }
