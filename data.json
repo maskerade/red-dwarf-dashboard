@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T22:30:56.512604+00:00",
+  "timestamp": "2026-07-23T23:02:41.028438+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-23",
-          "max": 24.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-24",
-          "max": 23.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-25",
-          "max": 18.0,
-          "min": 12.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-23",
-          "max": 26.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-24",
-          "max": 27.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-25",
-          "max": 24.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-23",
-          "max": 17.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-24",
-          "max": 20.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-25",
-          "max": 17.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:11 AM",
-    "sunset": "09:19 PM",
-    "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "65",
-    "moonrise": "05:00 PM",
-    "moonset": "No moonset"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "AMD and Cerebras join forces against Nvidia’s Groq LPUs",
