@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T00:46:33.185493+00:00",
+  "timestamp": "2026-07-23T01:17:35.391027+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 16.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-23",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 15.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "OpenAI scored an own goal with HuggingFace attack, showing how open Chinese models are winning",
     "Google Cloud is killing it",
     "Web app turns your old phone into a new smart display",
-    "Sovereign AI is 'nonsense,' says Doctorow",
-    "Fresh off AI layoffs, Block now wants to whack Slack with agent-human collab tool"
+    "Sovereign AI is 'nonsense,' says Doctorow"
   ],
   "crew_quote": null
 }
