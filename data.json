@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T17:20:50.803444+00:00",
+  "timestamp": "2026-07-23T17:52:12.021436+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AMD attacks the rack with Helios systems that rival Nvidia's",
     "Year-long Russian attacks infect users as soon as they look at an email",
     "Model Context Protocol prepares to break with its stateful past",
-    "Millions of California-bought cars can be hijacked via Bluetooth",
-    "Oracle drops 1,449 security patches like it's the new normal"
+    "Millions of California-bought cars can be hijacked via Bluetooth"
   ],
   "crew_quote": null
 }
