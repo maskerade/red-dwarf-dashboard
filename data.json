@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T02:19:37.004605+00:00",
+  "timestamp": "2026-07-23T02:50:35.805118+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-23",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 16.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-07-23",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Google is hoarding TPUs to develop Artificial General Intelligence",
     "OpenAI scored an own goal with HuggingFace attack, showing how open Chinese models are winning",
     "Google Cloud is killing it",
-    "Web app turns your old phone into a new smart display",
-    "Sovereign AI is 'nonsense,' says Doctorow"
+    "Web app turns your old phone into a new smart display"
   ],
   "crew_quote": null
 }
