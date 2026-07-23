@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T20:26:58.903330+00:00",
+  "timestamp": "2026-07-23T20:57:54.805510+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Codeberg gives vibe-coded projects the toss, promotes human FLOSS",
     "AMD attacks the rack with Helios systems that rival Nvidia's",
     "Year-long Russian attacks infect users as soon as they look at an email",
-    "Model Context Protocol prepares to break with its stateful past",
-    "Millions of California-bought cars can be hijacked via Bluetooth"
+    "Model Context Protocol prepares to break with its stateful past"
   ],
   "crew_quote": null
 }
