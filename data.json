@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T21:28:54.820339+00:00",
+  "timestamp": "2026-07-23T21:59:55.472746+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AMD and Cerebras join forces against Nvidia’s Groq LPUs",
+    "OpenAI won't let some customers export their chats, but this tool will",
     "Codeberg gives vibe-coded projects the toss, promotes human FLOSS",
-    "AMD attacks the rack with Helios systems that rival Nvidia's",
-    "Year-long Russian attacks infect users as soon as they look at an email",
-    "Model Context Protocol prepares to break with its stateful past"
+    "AMD attacks the rack with Helios systems that rival Nvidia's"
   ],
   "crew_quote": null
 }
