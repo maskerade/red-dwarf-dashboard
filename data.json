@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T06:58:40.094853+00:00",
+  "timestamp": "2026-07-23T07:29:41.121734+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Overcast",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Mist",
+      "temp": 17.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-23",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Overcast",
+      "temp": 16.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-23",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Talking smack about a doctor got him access to private medical files",
     "Senior White House official claims China’s K3 model stolen from Anthropic",
     "Google is hoarding TPUs to chase artificial general intelligence",
-    "OpenAI scored an own goal with HuggingFace attack, showing how open Chinese models are winning",
-    "Google Cloud is killing it"
+    "OpenAI scored an own goal with HuggingFace attack, showing how open Chinese models are winning"
   ],
   "crew_quote": null
 }
