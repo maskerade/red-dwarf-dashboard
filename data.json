@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T08:01:33.165947+00:00",
+  "timestamp": "2026-07-23T08:32:41.898709+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,25 +16,83 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 17.0,
+      "conditions": "Overcast",
+      "forecast": [
+        {
+          "date": "2026-07-23",
+          "max": 24.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-24",
+          "max": 23.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-25",
+          "max": 19.0,
+          "min": 13.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 17.0,
+      "conditions": "Partly Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-07-23",
+          "max": 26.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-24",
+          "max": 27.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-25",
+          "max": 25.0,
+          "min": 12.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 16.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-23",
+          "max": 17.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-24",
+          "max": 19.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-25",
+          "max": 17.0,
+          "min": 12.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:11 AM",
+    "sunset": "09:19 PM",
+    "moon_phase": "Waxing Gibbous",
+    "moon_illumination": "65",
+    "moonrise": "05:00 PM",
+    "moonset": "No moonset"
+  },
   "metrolink": null,
   "headlines": [
+    "Britain isn't considering datacenters' thirst for water in its 'AI superpower' ambitions",
     "Talking smack about a doctor got him access to private medical files",
     "Senior White House official claims China’s K3 model stolen from Anthropic",
-    "Google is hoarding TPUs to chase artificial general intelligence",
-    "OpenAI scored an own goal with HuggingFace attack, showing how open Chinese models are winning"
+    "Google is hoarding TPUs to chase artificial general intelligence"
   ],
   "crew_quote": null
 }
