@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T11:39:45.356528+00:00",
+  "timestamp": "2026-07-23T12:10:45.739027+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 21.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 22.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Swiss train maker tells ransomware crooks to get off at the next stop",
+    "IBM insists AI didn't kill software deals, just delayed them",
     "Firefox 153 contains itself while Thunderbird 153 fixes almost everything",
-    "Stats watchdog prescribes stronger caveats for NHS Palantir claims",
-    "Amazon's AGI department finds humans are optional",
-    "UK pumps £708 million into its future fighter jet"
+    "Stats watchdog prescribes stronger caveats for NHS Palantir claims"
   ],
   "crew_quote": null
 }
