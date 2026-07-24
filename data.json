@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T23:33:57.193119+00:00",
+  "timestamp": "2026-07-24T00:05:42.804268+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,83 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-24",
-          "max": 23.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-25",
-          "max": 21.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-26",
-          "max": 16.0,
-          "min": 12.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-24",
-          "max": 27.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-07-25",
-          "max": 26.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-26",
-          "max": 22.0,
-          "min": 12.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-24",
-          "max": 19.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-25",
-          "max": 17.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-07-26",
-          "max": 16.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:13 AM",
-    "sunset": "09:18 PM",
-    "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "74",
-    "moonrise": "06:12 PM",
-    "moonset": "12:08 AM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "Researchers replace downloaded macOS apps with evil twins, Apple shrugs",
     "AMD and Cerebras join forces against Nvidia’s Groq LPUs",
     "OpenAI won't let some customers export their chats, but this tool will",
-    "Codeberg gives vibe-coded projects the toss, promotes human FLOSS",
-    "AMD attacks the rack with Helios systems that rival Nvidia's"
+    "Codeberg gives vibe-coded projects the toss, promotes human FLOSS"
   ],
   "crew_quote": null
 }
