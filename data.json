@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T16:41:16.293047+00:00",
+  "timestamp": "2026-07-24T17:12:19.728495+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "ChatGPT wants access to your health records so it can be a better not-doctor",
+    "Cambodian Prime Minister Hun Manet met with ZTE to deepen cooperation in digital infrastructure and artificial intelligence (AI)",
     "Flock cameras go up in flames as cops hunt suspected firebugs",
-    "Veterans Affairs signs $1.6B deal for an army of Salesforce AI agents",
-    "SpaceX to try its luck again with Starship Flight 13 after engines and weather say no",
-    "Uncle Sam tells overseas cybercrooks their visas are canceled"
+    "Veterans Affairs signs $1.6B deal for an army of Salesforce AI agents"
   ],
   "crew_quote": null
 }
