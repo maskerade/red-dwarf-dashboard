@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T12:30:54.482379+00:00",
+  "timestamp": "2026-07-24T13:02:56.950749+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -31,10 +31,10 @@
   "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "SpaceX to try its luck again with Starship Flight 13 after engines and weather say no",
     "Uncle Sam tells overseas cybercrooks their visas are canceled",
     "LG kills McAfee pop-up after Windows boss steps in",
-    "EU telcos ask: Huawei going to afford to replace Chinese equipment?",
-    "Fujitsu joins £14.9B UK framework despite public sector bid freeze"
+    "EU telcos ask: Huawei going to afford to replace Chinese equipment?"
   ],
   "crew_quote": null
 }
