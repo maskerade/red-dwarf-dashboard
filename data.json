@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T22:23:22.630546+00:00",
+  "timestamp": "2026-07-24T22:54:21.950809+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
+    "AMD vibe codes its way past the CUDA moat with ROCm.AI",
     "Europol flags 4,340 'horrific' URLs linked to The Com",
-    "Tech leaders issue letter to train Uncle Sam about value of open weight AI",
-    "Dev accidentally commits Copilot binary to FreeBSD ports repo",
-    "ChatGPT wants access to your health records so it can be a better not-doctor"
+    "Tech leaders issue letter to train Uncle Sam about value of open weight AI"
   ],
   "crew_quote": null
 }
