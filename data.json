@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T20:49:27.182727+00:00",
+  "timestamp": "2026-07-24T21:20:20.382674+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Europol flags 4,340 'horrific' URLs linked to The Com",
+    "Tech leaders issue letter to train Uncle Sam about value of open weight AI",
     "Dev accidentally commits Copilot binary to FreeBSD ports repo",
-    "ChatGPT wants access to your health records so it can be a better not-doctor",
-    "Cambodian Prime Minister Hun Manet met with ZTE to deepen cooperation in digital infrastructure and artificial intelligence (AI)",
-    "Flock cameras go up in flames as cops hunt suspected firebugs"
+    "ChatGPT wants access to your health records so it can be a better not-doctor"
   ],
   "crew_quote": null
 }
