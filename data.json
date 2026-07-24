@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T06:18:04.758080+00:00",
+  "timestamp": "2026-07-24T06:49:18.717990+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Overcast",
       "forecast": [
         {
@@ -37,29 +37,12 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-24",
-          "max": 27.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-25",
-          "max": 25.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-26",
-          "max": 21.0,
-          "min": 12.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 11.0,
-      "conditions": "Sunny",
+      "temp": 13.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-24",
@@ -89,10 +72,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Support newbie figured out how to avoid all-nighters, and his colleagues hated him for it",
+    "Intel knows it needs to ‘leapfrog’ ARM and AMD, says CEO Lip-Bu Tan",
     "Microsoft fiber foul-up cut off Azure California for almost five hours",
-    "OpenAI-Hugging Face attack doesn't mean agents are evil – unless you tell them to be",
-    "Researchers replace downloaded macOS apps with evil twins, Apple shrugs",
-    "AMD and Cerebras join forces against Nvidia’s Groq LPUs"
+    "OpenAI-Hugging Face attack doesn't mean agents are evil – unless you tell them to be"
   ],
   "crew_quote": null
 }
