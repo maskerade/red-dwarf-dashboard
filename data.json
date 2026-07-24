@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T01:07:58.907012+00:00",
+  "timestamp": "2026-07-24T01:39:00.094705+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft fiber foul-up cut off Azure California for almost five hours",
+    "OpenAI-Hugging Face attack doesn't mean agents are evil – unless you tell them to be",
     "Researchers replace downloaded macOS apps with evil twins, Apple shrugs",
-    "AMD and Cerebras join forces against Nvidia’s Groq LPUs",
-    "OpenAI won't let some customers export their chats, but this tool will",
-    "Codeberg gives vibe-coded projects the toss, promotes human FLOSS"
+    "AMD and Cerebras join forces against Nvidia’s Groq LPUs"
   ],
   "crew_quote": null
 }
