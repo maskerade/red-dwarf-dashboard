@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T07:11:27.919072+00:00",
+  "timestamp": "2026-07-25T07:42:27.735570+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 17.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-25",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "BOFH: This printer engineer knows every trick in the book",
     "Anthropic debuts Opus 5 at half the price of its Fable sibling",
     "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
-    "AMD vibe codes its way past the CUDA moat with ROCm.AI",
-    "Europol flags 4,340 'horrific' URLs linked to The Com"
+    "AMD vibe codes its way past the CUDA moat with ROCm.AI"
   ],
   "crew_quote": null
 }
