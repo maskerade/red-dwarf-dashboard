@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T12:52:41.407883+00:00",
+  "timestamp": "2026-07-25T13:23:33.572078+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "How AI drove Shopify back to clean code",
     "Anti-AI open source has an enemy in common, but almost nothing else",
     "BOFH: This printer engineer knows every trick in the book",
-    "Anthropic debuts Opus 5 at half the price of its Fable sibling",
-    "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info"
+    "Anthropic debuts Opus 5 at half the price of its Fable sibling"
   ],
   "crew_quote": null
 }
