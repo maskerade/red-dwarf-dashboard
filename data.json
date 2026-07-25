@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T23:56:23.123807+00:00",
+  "timestamp": "2026-07-25T00:27:25.957820+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Anthropic debuts Opus 5 at half the price of its Fable sibling",
     "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
     "AMD vibe codes its way past the CUDA moat with ROCm.AI",
-    "Europol flags 4,340 'horrific' URLs linked to The Com",
-    "Tech leaders issue letter to train Uncle Sam about value of open weight AI"
+    "Europol flags 4,340 'horrific' URLs linked to The Com"
   ],
   "crew_quote": null
 }
