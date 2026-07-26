@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T09:35:58.980599+00:00",
+  "timestamp": "2026-07-26T10:07:52.434178+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Light rain",
-      "forecast": [
-        {
-          "date": "2026-07-26",
-          "max": 18.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-27",
-          "max": 22.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-28",
-          "max": 28.0,
-          "min": 17.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Patchy rain nearby",
-      "forecast": [
-        {
-          "date": "2026-07-26",
-          "max": 21.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-27",
-          "max": 26.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-28",
-          "max": 32.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-26",
-          "max": 16.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-27",
-          "max": 18.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-28",
-          "max": 23.0,
-          "min": 16.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:16 AM",
-    "sunset": "09:15 PM",
-    "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "88",
-    "moonrise": "08:05 PM",
-    "moonset": "01:20 AM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "The last Space Shuttle returned to Earth 15 years ago",
