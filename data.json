@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T16:13:12.770531+00:00",
+  "timestamp": "2026-07-27T16:44:36.488764+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,25 +16,83 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 20.0,
+      "conditions": "Overcast",
+      "forecast": [
+        {
+          "date": "2026-07-27",
+          "max": 21.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-28",
+          "max": 28.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-29",
+          "max": 29.0,
+          "min": 15.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 24.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-27",
+          "max": 25.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-28",
+          "max": 31.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-29",
+          "max": 33.0,
+          "min": 16.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 18.0,
+      "conditions": "Cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-27",
+          "max": 18.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-07-28",
+          "max": 22.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-29",
+          "max": 22.0,
+          "min": 14.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:17 AM",
+    "sunset": "09:13 PM",
+    "moon_phase": "Waxing Gibbous",
+    "moon_illumination": "94",
+    "moonrise": "08:41 PM",
+    "moonset": "02:16 AM"
+  },
   "metrolink": null,
   "headlines": [
+    "Tech giants link hands to praise open AI models after OpenAI - Hugging Face attack",
+    "Cassette simulator rewinds digital audio to a more analog time in hiss-tory",
     "Microsoft Defender for Endpoint leaves some Linux boxes defenseless after update",
-    "Tech sector pours $1T into AI and sends customers the bill",
-    "British Army finds a new eye in the sky after Watchkeeper woes",
-    "OpenAI's Hugging Face debacle makes a great case for open models"
+    "Tech sector pours $1T into AI and sends customers the bill"
   ],
   "crew_quote": null
 }
