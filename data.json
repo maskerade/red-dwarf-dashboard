@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T04:16:19.308670+00:00",
+  "timestamp": "2026-07-27T04:47:19.571455+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Clear",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-27",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Partly cloudy",
+      "temp": 12.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-27",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "SpaceX just about nails Starship test flight 13",
     "Foxconn drops VMware, adopts hyperconverged upstart Arcrfra for workloads including AI",
     "Trump expands voluntary pledge to keep datacenter costs off household power bills",
-    "The last Space Shuttle returned to Earth 15 years ago",
-    "How AI drove Shopify back to clean code"
+    "The last Space Shuttle returned to Earth 15 years ago"
   ],
   "crew_quote": null
 }
