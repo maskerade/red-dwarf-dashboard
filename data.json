@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T18:48:35.330026+00:00",
+  "timestamp": "2026-07-27T19:19:36.171097+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Overcast ",
+      "temp": 19.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-07-27",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
-      "conditions": "Partly cloudy",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-27",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 18.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-07-27",
@@ -91,8 +91,8 @@
   "headlines": [
     "Tech giants link hands to praise open AI models after OpenAI - Hugging Face attack",
     "Cassette simulator rewinds digital audio to a more analog time in hiss-tory",
-    "Microsoft Defender for Endpoint leaves some Linux boxes defenseless after update",
-    "Tech sector pours $1T into AI and sends customers the bill"
+    "AI has changed data architecture, but storage hasn't caught up",
+    "Microsoft Defender for Endpoint leaves some Linux boxes defenseless after update"
   ],
   "crew_quote": null
 }
