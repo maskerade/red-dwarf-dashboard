@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T06:20:21.389591+00:00",
+  "timestamp": "2026-07-27T06:51:21.480739+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-07-27",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Manager showed off his DOS prowess – with a command that wiped data",
     "SpaceX just about nails Starship test flight 13",
     "Foxconn drops VMware, adopts hyperconverged upstart Arcrfra for workloads including AI",
-    "Trump expands voluntary pledge to keep datacenter costs off household power bills",
-    "The last Space Shuttle returned to Earth 15 years ago"
+    "Trump expands voluntary pledge to keep datacenter costs off household power bills"
   ],
   "crew_quote": null
 }
