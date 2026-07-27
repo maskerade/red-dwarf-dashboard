@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T08:55:29.059170+00:00",
+  "timestamp": "2026-07-27T09:26:24.843127+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Cloudy",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-07-27",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "The roller coaster works, but the Six Flags kiosk has gone off the rails",
     "FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash another",
     "Google goes it alone with a new cybercrime crew taxonomy",
-    "Manager showed off his DOS prowess – with a command that wiped data",
-    "SpaceX just about nails Starship test flight 13"
+    "Manager showed off his DOS prowess – with a command that wiped data"
   ],
   "crew_quote": null
 }
