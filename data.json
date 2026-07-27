@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T07:22:22.106462+00:00",
+  "timestamp": "2026-07-27T07:53:23.777574+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-07-27",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 15.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-07-27",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Google goes it alone with a new cybercrime crew taxonomy",
     "Manager showed off his DOS prowess – with a command that wiped data",
     "SpaceX just about nails Starship test flight 13",
-    "Foxconn drops VMware, adopts hyperconverged upstart Arcrfra for workloads including AI",
-    "Trump expands voluntary pledge to keep datacenter costs off household power bills"
+    "Foxconn drops VMware, adopts hyperconverged upstart Arcrfra for workloads including AI"
   ],
   "crew_quote": null
 }
