@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T13:05:29.085260+00:00",
+  "timestamp": "2026-07-27T13:36:29.589020+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Microsoft seeks Supreme Court lifeline in pre-owned license battle",
-    "Digital sovereignty is real in Europe. The UK? Not so much",
-    "The roller coaster works, but the Six Flags kiosk has gone off the rails",
-    "FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash another"
+    "Tech sector pours $1T into AI and sends customers the bill",
+    "British Army finds a new eye in the sky after Watchkeeper woes",
+    "OpenAI's Hugging Face debacle makes a great case for open models",
+    "Microsoft seeks Supreme Court lifeline in pre-owned license battle"
   ],
   "crew_quote": null
 }
