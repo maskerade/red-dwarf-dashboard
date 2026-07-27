@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T08:24:23.044977+00:00",
+  "timestamp": "2026-07-27T08:55:29.059170+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "FOSS smashed one Microsoft monopoly. After 20 years of failure, it's time to smash another",
     "Google goes it alone with a new cybercrime crew taxonomy",
     "Manager showed off his DOS prowess – with a command that wiped data",
-    "SpaceX just about nails Starship test flight 13",
-    "Foxconn drops VMware, adopts hyperconverged upstart Arcrfra for workloads including AI"
+    "SpaceX just about nails Starship test flight 13"
   ],
   "crew_quote": null
 }
