@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-26T23:37:12.414423+00:00",
+  "timestamp": "2026-07-27T00:08:12.562947+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,13 +17,8 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Clear",
+      "conditions": "Cloudy",
       "forecast": [
-        {
-          "date": "2026-07-26",
-          "max": 19.0,
-          "min": 14.0
-        },
         {
           "date": "2026-07-27",
           "max": 21.0,
@@ -33,18 +28,18 @@
           "date": "2026-07-28",
           "max": 29.0,
           "min": 15.0
+        },
+        {
+          "date": "2026-07-29",
+          "max": 31.0,
+          "min": 16.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Partly cloudy",
       "forecast": [
-        {
-          "date": "2026-07-26",
-          "max": 22.0,
-          "min": 15.0
-        },
         {
           "date": "2026-07-27",
           "max": 24.0,
@@ -54,6 +49,11 @@
           "date": "2026-07-28",
           "max": 31.0,
           "min": 15.0
+        },
+        {
+          "date": "2026-07-29",
+          "max": 34.0,
+          "min": 16.0
         }
       ]
     },
@@ -80,12 +80,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "05:16 AM",
-    "sunset": "09:15 PM",
+    "sunrise": "05:17 AM",
+    "sunset": "09:13 PM",
     "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "88",
-    "moonrise": "08:05 PM",
-    "moonset": "01:20 AM"
+    "moon_illumination": "94",
+    "moonrise": "08:41 PM",
+    "moonset": "02:16 AM"
   },
   "metrolink": null,
   "headlines": [
