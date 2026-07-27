@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T01:10:13.836575+00:00",
+  "timestamp": "2026-07-27T01:41:14.164486+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Cloudy",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-27",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Partly cloudy",
+      "temp": 14.0,
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-07-27",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Foxconn drops VMware, adopts hyperconverged upstart Arcrfra for workloads including AI",
     "Trump expands voluntary pledge to keep datacenter costs off household power bills",
     "The last Space Shuttle returned to Earth 15 years ago",
-    "How AI drove Shopify back to clean code",
-    "Anti-AI open source has an enemy in common, but almost nothing else"
+    "How AI drove Shopify back to clean code"
   ],
   "crew_quote": null
 }
