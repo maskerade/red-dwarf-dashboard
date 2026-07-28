@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T19:42:01.658931+00:00",
+  "timestamp": "2026-07-28T20:13:03.274249+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
-      "conditions": "Sunny",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-28",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 28.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 25.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-28",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 18.0,
-      "conditions": "Sunny",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-07-28",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "War machines can run amok with AI in control",
+    "Microsoft and Wiz mind-meld agents catch more than 90% of bugs",
     "AI is storage’s biggest opportunity - and biggest threat",
-    "College prof hides prompt to catch AI cheaters, finds human nature is pretty much as we thought",
-    "DEF CON bans Meta-style 'pervert glasses'",
-    "Britain hopes £7.3M will help electric and hydrogen aircraft take off"
+    "College prof hides prompt to catch AI cheaters, finds human nature is pretty much as we thought"
   ],
   "crew_quote": null
 }
