@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T08:17:49.728268+00:00",
+  "timestamp": "2026-07-28T08:48:52.683269+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Openreach nudges another 112 exchange areas toward full fiber",
     "Cisco close to releasing more AI models, this time for deep networking ops",
     "China fights back in AI spat with claim US AI companies distil Chinese models",
-    "Leading AI models (even Grok) are all a bunch of leftist punks",
-    "Jensen puts his thumb on the scales against open-weights fearmongering"
+    "Leading AI models (even Grok) are all a bunch of leftist punks"
   ],
   "crew_quote": null
 }
