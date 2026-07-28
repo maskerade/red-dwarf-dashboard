@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T10:53:01.368693+00:00",
+  "timestamp": "2026-07-28T11:23:54.459572+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Signals are grim for Jodrell Bank Observatory after UK science funding decision",
+    "Arista patches actively exploited VeloCloud bug as CISA puts admins on the clock",
     "Openreach nudges another 112 exchange areas toward full fiber",
-    "Cisco close to releasing more AI models, this time for deep networking ops",
-    "China fights back in AI spat with claim US AI companies distil Chinese models",
-    "Leading AI models (even Grok) are all a bunch of leftist punks"
+    "Cisco close to releasing more AI models, this time for deep networking ops"
   ],
   "crew_quote": null
 }
