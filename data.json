@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T11:54:52.524387+00:00",
+  "timestamp": "2026-07-28T12:26:02.101714+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 24.0,
-      "conditions": "Partly cloudy",
+      "temp": 26.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-07-28",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 25.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Cloudy ",
+      "temp": 21.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-07-28",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Too many AI agents can get in each other's way",
+    "Hyperscale, hypersensitive: US teacher cuffed for applauding datacenter critics",
     "Signals are grim for Jodrell Bank Observatory after UK science funding decision",
-    "Arista patches actively exploited VeloCloud bug as CISA puts admins on the clock",
-    "Openreach nudges another 112 exchange areas toward full fiber",
-    "Cisco close to releasing more AI models, this time for deep networking ops"
+    "Arista patches actively exploited VeloCloud bug as CISA puts admins on the clock"
   ],
   "crew_quote": null
 }
