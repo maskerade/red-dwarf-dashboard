@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T14:29:59.817625+00:00",
+  "timestamp": "2026-07-28T15:01:47.078817+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,83 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
-      "conditions": "Cloudy",
-      "forecast": [
-        {
-          "date": "2026-07-28",
-          "max": 28.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-29",
-          "max": 30.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 20.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 28.0,
-      "conditions": "Partly cloudy",
-      "forecast": [
-        {
-          "date": "2026-07-28",
-          "max": 30.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-29",
-          "max": 33.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 24.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 22.0,
-      "conditions": "Overcast ",
-      "forecast": [
-        {
-          "date": "2026-07-28",
-          "max": 22.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-29",
-          "max": 23.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 19.0,
-          "min": 12.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:19 AM",
-    "sunset": "09:12 PM",
-    "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "97",
-    "moonrise": "09:07 PM",
-    "moonset": "03:25 AM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
-    "Too many AI agents can get in each other's way",
-    "Hyperscale, hypersensitive: US teacher cuffed for applauding datacenter critics",
-    "Signals are grim for Jodrell Bank Observatory after UK science funding decision",
-    "Arista patches actively exploited VeloCloud bug as CISA puts admins on the clock"
+    "Charity bank pulls online services over security fears",
+    "Deep space dishes dodge devastation from Spanish wildfires",
+    "Hugging Face rebuilt a third of its infrastructure after OpenAI agents ran amok",
+    "Uncle Sam needs you to fight for 6G leadership and security, lest Beijing get there first"
   ],
   "crew_quote": null
 }
