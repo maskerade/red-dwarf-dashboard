@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T22:48:03.871940+00:00",
+  "timestamp": "2026-07-28T23:19:04.517712+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Clear",
       "forecast": [
-        {
-          "date": "2026-07-28",
-          "max": 28.0,
-          "min": 15.0
-        },
         {
           "date": "2026-07-29",
           "max": 28.0,
@@ -33,18 +28,18 @@
           "date": "2026-07-30",
           "max": 20.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-07-31",
+          "max": 22.0,
+          "min": 9.0
         }
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Clear ",
+      "temp": 22.0,
+      "conditions": "Clear",
       "forecast": [
-        {
-          "date": "2026-07-28",
-          "max": 31.0,
-          "min": 15.0
-        },
         {
           "date": "2026-07-29",
           "max": 32.0,
@@ -54,18 +49,18 @@
           "date": "2026-07-30",
           "max": 25.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-07-31",
+          "max": 24.0,
+          "min": 8.0
         }
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Clear",
+      "temp": 16.0,
+      "conditions": "Cloudy ",
       "forecast": [
-        {
-          "date": "2026-07-28",
-          "max": 21.0,
-          "min": 15.0
-        },
         {
           "date": "2026-07-29",
           "max": 22.0,
@@ -75,17 +70,22 @@
           "date": "2026-07-30",
           "max": 17.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-07-31",
+          "max": 19.0,
+          "min": 9.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:19 AM",
-    "sunset": "09:12 PM",
-    "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "97",
-    "moonrise": "09:07 PM",
-    "moonset": "03:25 AM"
+    "sunrise": "05:21 AM",
+    "sunset": "09:10 PM",
+    "moon_phase": "Full Moon",
+    "moon_illumination": "100",
+    "moonrise": "09:25 PM",
+    "moonset": "04:41 AM"
   },
   "metrolink": null,
   "headlines": [
