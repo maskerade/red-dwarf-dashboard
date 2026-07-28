@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T07:15:48.301635+00:00",
+  "timestamp": "2026-07-28T07:46:48.550779+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,65 +16,65 @@
   },
   "locations": {
     "altrincham": {
+      "temp": 19.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-07-28",
+          "max": 28.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-29",
+          "max": 30.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-30",
+          "max": 20.0,
+          "min": 13.0
+        }
+      ]
+    },
+    "overseal": {
+      "temp": 20.0,
+      "conditions": "Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-07-28",
+          "max": 30.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-29",
+          "max": 33.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-07-30",
+          "max": 24.0,
+          "min": 13.0
+        }
+      ]
+    },
+    "llandudno": {
       "temp": 18.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-28",
-          "max": 28.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-29",
-          "max": 28.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 21.0,
-          "min": 11.0
-        }
-      ]
-    },
-    "overseal": {
-      "temp": 18.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-28",
-          "max": 31.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-29",
-          "max": 32.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 25.0,
-          "min": 10.0
-        }
-      ]
-    },
-    "llandudno": {
-      "temp": 17.0,
-      "conditions": "Overcast ",
-      "forecast": [
-        {
-          "date": "2026-07-28",
-          "max": 21.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-07-29",
           "max": 22.0,
           "min": 15.0
         },
         {
+          "date": "2026-07-29",
+          "max": 23.0,
+          "min": 14.0
+        },
+        {
           "date": "2026-07-30",
-          "max": 18.0,
-          "min": 10.0
+          "max": 19.0,
+          "min": 12.0
         }
       ]
     }
