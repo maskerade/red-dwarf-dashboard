@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T16:04:42.615332+00:00",
+  "timestamp": "2026-07-28T16:35:58.435187+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,25 +16,83 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 25.0,
+      "conditions": "Cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-28",
+          "max": 28.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-29",
+          "max": 28.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-30",
+          "max": 19.0,
+          "min": 11.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 27.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-28",
+          "max": 31.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-29",
+          "max": 32.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-30",
+          "max": 24.0,
+          "min": 11.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 19.0,
+      "conditions": "Cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-28",
+          "max": 21.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-29",
+          "max": 22.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-30",
+          "max": 17.0,
+          "min": 11.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:19 AM",
+    "sunset": "09:12 PM",
+    "moon_phase": "Waxing Gibbous",
+    "moon_illumination": "97",
+    "moonrise": "09:07 PM",
+    "moonset": "03:25 AM"
+  },
   "metrolink": null,
   "headlines": [
+    "College prof hides prompt to catch AI cheaters, finds human nature is pretty much as we thought",
+    "DEF CON bans Meta-style 'pervert glasses'",
     "Britain hopes £7.3M will help electric and hydrogen aircraft take off",
-    "AI-found bugs aren't proving any easier to exploit despite the hype",
-    "Bank for charities pulls online services over security fears",
-    "Deep space dishes dodge devastation from Spanish wildfires"
+    "AI-found bugs aren't proving any easier to exploit despite the hype"
   ],
   "crew_quote": null
 }
