@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T12:48:19.200829+00:00",
+  "timestamp": "2026-07-29T13:19:19.944558+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "After rewriting SQLite in Rust, Turso turns its sights on Postgres",
-    "Back of the NetApp: Latest exec signing scores $34M compensation package",
-    "NHS England rapped over inaccurate Palantir patient data disclosure",
-    "AI digs through 3,700 accounts of dreams and waking life, finds method in the madness"
+    "AI storage boom is keeping Seagate's hard drives spinning",
+    "Microsoft faces competition probe over Copilot subscription price hike",
+    "AI insiders ask Uncle Sam to help slow the race they started",
+    "After rewriting SQLite in Rust, Turso turns its sights on Postgres"
   ],
   "crew_quote": null
 }
