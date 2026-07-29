@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T01:54:07.006848+00:00",
+  "timestamp": "2026-07-29T02:25:45.097896+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Partly cloudy",
-      "forecast": [
-        {
-          "date": "2026-07-29",
-          "max": 28.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 20.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-31",
-          "max": 22.0,
-          "min": 9.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-07-29",
-          "max": 32.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 25.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-31",
-          "max": 24.0,
-          "min": 8.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-29",
-          "max": 22.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 17.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-31",
-          "max": 19.0,
-          "min": 9.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:21 AM",
-    "sunset": "09:10 PM",
-    "moon_phase": "Full Moon",
-    "moon_illumination": "100",
-    "moonrise": "09:25 PM",
-    "moonset": "04:41 AM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "A requiem for Optane, Intel's KV Cache killer that could have eased the RAM price crunch",
