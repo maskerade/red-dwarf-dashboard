@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T05:00:57.731909+00:00",
+  "timestamp": "2026-07-29T05:32:11.683976+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,19 +16,77 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 15.0,
+      "conditions": "Partly Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-07-29",
+          "max": 28.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-30",
+          "max": 21.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-31",
+          "max": 22.0,
+          "min": 9.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 15.0,
+      "conditions": "Clear ",
+      "forecast": [
+        {
+          "date": "2026-07-29",
+          "max": 32.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-07-30",
+          "max": 26.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-07-31",
+          "max": 24.0,
+          "min": 9.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
+      "forecast": [
+        {
+          "date": "2026-07-29",
+          "max": 22.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-07-30",
+          "max": 18.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-07-31",
+          "max": 19.0,
+          "min": 10.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:21 AM",
+    "sunset": "09:10 PM",
+    "moon_phase": "Full Moon",
+    "moon_illumination": "100",
+    "moonrise": "09:25 PM",
+    "moonset": "04:41 AM"
+  },
   "metrolink": null,
   "headlines": [
     "America bans imported robots due to supply chain and security risks",
