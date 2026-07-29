@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T13:19:19.944558+00:00",
+  "timestamp": "2026-07-29T13:50:48.977637+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 24.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-29",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 26.0,
-      "conditions": "Partly cloudy",
+      "temp": 29.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-29",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Iran-linked CyberAv3ngers suspected in attacks on Minnesota water systems",
     "AI storage boom is keeping Seagate's hard drives spinning",
     "Microsoft faces competition probe over Copilot subscription price hike",
-    "AI insiders ask Uncle Sam to help slow the race they started",
-    "After rewriting SQLite in Rust, Turso turns its sights on Postgres"
+    "AI insiders ask Uncle Sam to help slow the race they started"
   ],
   "crew_quote": null
 }
