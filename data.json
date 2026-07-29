@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T09:10:15.804806+00:00",
+  "timestamp": "2026-07-29T09:41:17.770209+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI digs through 3,700 accounts of dreams and waking life, finds method in the madness",
     "Burnham's spanner in the works leaves UK government tech scattered across Whitehall",
     "Airbus keeps an A350 flying for 24 hours",
-    "Big Tech demanding deals that smooth out memory prices, says SK Hynix",
-    "America bans imported robots due to supply chain and security risks"
+    "Big Tech demanding deals that smooth out memory prices, says SK Hynix"
   ],
   "crew_quote": null
 }
