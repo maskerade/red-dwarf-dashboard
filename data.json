@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T16:26:26.217473+00:00",
+  "timestamp": "2026-07-29T16:57:24.464057+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 29.0,
+      "temp": 30.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Cloudy",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-29",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Moscow slaps Telegram founder on wanted list, Durov responds with one-finger salute",
     "MinIO pitches persistent memory for agents with work to finish",
     "The VMware deadline that could reshape your IT strategy",
-    "NASA Swift rescue mission spins into trouble during commissioning",
-    "Iran-linked CyberAv3ngers suspected in attacks on Minnesota water systems"
+    "NASA Swift rescue mission spins into trouble during commissioning"
   ],
   "crew_quote": null
 }
