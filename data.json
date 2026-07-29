@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T18:30:46.912056+00:00",
+  "timestamp": "2026-07-29T19:02:09.895838+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -20,62 +20,21 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-29",
-          "max": 31.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 25.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-31",
-          "max": 24.0,
-          "min": 8.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-29",
-          "max": 22.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 17.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-07-31",
-          "max": 18.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:20 AM",
-    "sunset": "09:05 PM",
-    "moon_phase": "Full Moon",
-    "moon_illumination": "100",
-    "moonrise": "09:20 PM",
-    "moonset": "04:41 AM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "Closed models refuse to help researcher swat Linux bug",
     "Word worm crawls into Copilot, spreads chaos",
     "Moscow slaps Telegram founder on wanted list, Durov responds with one-finger salute",
-    "MinIO pitches persistent memory for agents with work to finish",
-    "The VMware deadline that could reshape your IT strategy"
+    "MinIO pitches persistent memory for agents with work to finish"
   ],
   "crew_quote": null
 }
