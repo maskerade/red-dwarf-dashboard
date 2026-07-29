@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T16:57:24.464057+00:00",
+  "timestamp": "2026-07-29T17:28:24.534611+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Word worm crawls into Copilot, spreads chaos",
     "Moscow slaps Telegram founder on wanted list, Durov responds with one-finger salute",
     "MinIO pitches persistent memory for agents with work to finish",
-    "The VMware deadline that could reshape your IT strategy",
-    "NASA Swift rescue mission spins into trouble during commissioning"
+    "The VMware deadline that could reshape your IT strategy"
   ],
   "crew_quote": null
 }
