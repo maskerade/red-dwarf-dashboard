@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T00:52:07.087336+00:00",
+  "timestamp": "2026-07-29T01:23:06.028543+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "A requiem for Optane, Intel's KV Cache killer that could have eased the RAM price crunch",
+    "MCP gets an enterprise makeover",
     "Looks like JFrog's 0-days let OpenAI's models hack Hugging Face",
-    "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives",
-    "War machines can run amok with AI in control",
-    "Microsoft and Wiz mind-meld agents catch more than 90% of bugs"
+    "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives"
   ],
   "crew_quote": null
 }
