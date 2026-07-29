@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T03:27:09.082967+00:00",
+  "timestamp": "2026-07-29T03:58:17.580037+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "America bans imported robots due to supply chain and security risks",
     "A requiem for Optane, Intel's KV Cache killer that could have eased the RAM price crunch",
     "MCP gets an enterprise makeover",
-    "Looks like JFrog's 0-days let OpenAI's models hack Hugging Face",
-    "Perplexity's tokenmaxxing Model Council gives you multiple bot perspectives"
+    "Looks like JFrog's 0-days let OpenAI's models hack Hugging Face"
   ],
   "crew_quote": null
 }
