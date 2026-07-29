@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T07:37:15.232810+00:00",
+  "timestamp": "2026-07-29T08:08:15.420885+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Airbus keeps an A350 flying for 24 hours",
     "Big Tech demanding deals that smooth out memory prices, says SK Hynix",
     "America bans imported robots due to supply chain and security risks",
-    "A requiem for Optane, Intel's KV Cache killer that could have eased the RAM price crunch",
-    "MCP gets an enterprise makeover"
+    "A requiem for Optane, Intel's KV Cache killer that could have eased the RAM price crunch"
   ],
   "crew_quote": null
 }
