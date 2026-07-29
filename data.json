@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T10:12:17.198769+00:00",
+  "timestamp": "2026-07-29T10:43:24.322576+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
-      "conditions": "Partly cloudy",
+      "temp": 22.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-29",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Sunny",
+      "temp": 24.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-29",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 20.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-07-29",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "NHS England rapped over inaccurate Palantir patient data disclosure",
     "AI digs through 3,700 accounts of dreams and waking life, finds method in the madness",
     "Burnham's spanner in the works leaves UK government tech scattered across Whitehall",
-    "Airbus keeps an A350 flying for 24 hours",
-    "Big Tech demanding deals that smooth out memory prices, says SK Hynix"
+    "Airbus keeps an A350 flying for 24 hours"
   ],
   "crew_quote": null
 }
