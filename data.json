@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T10:43:24.322576+00:00",
+  "timestamp": "2026-07-29T11:15:07.252840+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,83 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Overcast",
-      "forecast": [
-        {
-          "date": "2026-07-29",
-          "max": 28.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 20.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-07-31",
-          "max": 23.0,
-          "min": 9.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 24.0,
-      "conditions": "Partly cloudy",
-      "forecast": [
-        {
-          "date": "2026-07-29",
-          "max": 31.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 25.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-31",
-          "max": 26.0,
-          "min": 8.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-29",
-          "max": 22.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-07-30",
-          "max": 18.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-07-31",
-          "max": 19.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:21 AM",
-    "sunset": "09:10 PM",
-    "moon_phase": "Full Moon",
-    "moon_illumination": "100",
-    "moonrise": "09:25 PM",
-    "moonset": "04:41 AM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "Back of the NetApp: Latest exec signing scores $34M compensation package",
     "NHS England rapped over inaccurate Palantir patient data disclosure",
     "AI digs through 3,700 accounts of dreams and waking life, finds method in the madness",
-    "Burnham's spanner in the works leaves UK government tech scattered across Whitehall",
-    "Airbus keeps an A350 flying for 24 hours"
+    "Burnham's spanner in the works leaves UK government tech scattered across Whitehall"
   ],
   "crew_quote": null
 }
