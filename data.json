@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T21:37:27.877834+00:00",
+  "timestamp": "2026-07-29T22:08:28.398249+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "NOAA ditches weather-predicting supercomputers for Google Cloud",
+    "Big vacuum is watching as robo-cleaners put humans behind the wheel",
     "Uncle Sam sees the light, offers GlobalFoundries $300M to pursue silicon photonics while taking 1% stake",
-    "Closed models refuse to help researcher swat Linux bug",
-    "Word worm crawls into Copilot, spreads chaos",
-    "Moscow slaps Telegram founder on wanted list, Durov responds with one-finger salute"
+    "Closed models refuse to help researcher swat Linux bug"
   ],
   "crew_quote": null
 }
