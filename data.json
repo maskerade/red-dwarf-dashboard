@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T08:08:15.420885+00:00",
+  "timestamp": "2026-07-29T08:39:14.225332+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Burnham's spanner in the works leaves UK government tech scattered across Whitehall",
     "Airbus keeps an A350 flying for 24 hours",
     "Big Tech demanding deals that smooth out memory prices, says SK Hynix",
-    "America bans imported robots due to supply chain and security risks",
-    "A requiem for Optane, Intel's KV Cache killer that could have eased the RAM price crunch"
+    "America bans imported robots due to supply chain and security risks"
   ],
   "crew_quote": null
 }
