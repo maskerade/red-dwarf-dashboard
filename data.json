@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T15:48:48.747874+00:00",
+  "timestamp": "2026-07-30T16:19:49.733774+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 21.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-30",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
-      "conditions": "Sunny",
+      "temp": 23.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-07-30",
@@ -53,18 +53,18 @@
         {
           "date": "2026-08-01",
           "max": 24.0,
-          "min": 8.0
+          "min": 9.0
         }
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-30",
           "max": 17.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-07-31",
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-08-01",
-          "max": 18.0,
+          "max": 17.0,
           "min": 10.0
         }
       ]
@@ -90,9 +90,9 @@
   "metrolink": null,
   "headlines": [
     "Jailed Flock vandal wipes out three cameras, racks up thousands in damages",
-    "5 things to consider BEFORE your VMware ELA expiration date",
     "Americans give all-day school phone bans a ringing endorsement",
-    "From individual achievement to partner impact"
+    "From individual achievement to partner impact",
+    "Samsung warns memory crunch will last through 2028 as profit rises 19-fold"
   ],
   "crew_quote": null
 }
