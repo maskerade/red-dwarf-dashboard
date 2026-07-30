@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T17:53:01.700411+00:00",
+  "timestamp": "2026-07-30T18:23:50.336661+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Open source project fools AI scrapers with poisoned font",
     "Jailed Flock vandal wipes out three cameras, racks up thousands in damages",
     "Americans give all-day school phone bans a ringing endorsement",
-    "From individual achievement to partner impact",
-    "Samsung warns memory crunch will last through 2028 as profit rises 19-fold"
+    "From individual achievement to partner impact"
   ],
   "crew_quote": null
 }
