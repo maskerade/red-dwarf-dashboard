@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T08:29:30.192408+00:00",
+  "timestamp": "2026-07-30T09:01:27.084323+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -31,10 +31,10 @@
   "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "Brighton gig screen goes One Step Beyond with an update pop-up",
     "Headteacher had the most guessable username-password combo you could imagine",
     "Excuses like 'AI did it' don't exist in the eyes of the law",
-    "Veeam adds support for six more hypervisors in case you are up for a new one",
-    "Curiosity rover spots field of giant honeycomb on Mars – but no giant space bees"
+    "Veeam adds support for six more hypervisors in case you are up for a new one"
   ],
   "crew_quote": null
 }
