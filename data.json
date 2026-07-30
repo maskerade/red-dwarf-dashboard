@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T02:47:36.359919+00:00",
+  "timestamp": "2026-07-30T03:18:33.978073+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Qualcomm won’t be a big datacenter player anytime soon",
+    "Cisco 'retires' its Azure Local offering rather than catch up to Microsoft’s changed hardware requirements",
     "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
-    "NOAA ditches weather-predicting supercomputers for Google Cloud",
-    "Big vacuum is watching as robo-cleaners put humans behind the wheel",
-    "Uncle Sam sees the light, offers GlobalFoundries $300M to pursue silicon photonics while taking 1% stake"
+    "NOAA ditches weather-predicting supercomputers for Google Cloud"
   ],
   "crew_quote": null
 }
