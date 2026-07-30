@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T01:45:35.783162+00:00",
+  "timestamp": "2026-07-30T02:16:32.873401+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Overcast",
+      "temp": 17.0,
+      "conditions": "Moderate rain",
       "forecast": [
         {
           "date": "2026-07-30",
