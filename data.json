@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T04:51:36.793875+00:00",
+  "timestamp": "2026-07-30T05:22:36.848733+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 17.0,
-      "conditions": "Clear",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-30",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Mist",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-07-30",
