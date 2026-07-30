@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T20:27:53.776951+00:00",
+  "timestamp": "2026-07-30T20:58:52.947495+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 14.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -27,18 +27,18 @@
         {
           "date": "2026-07-31",
           "max": 20.0,
-          "min": 9.0
+          "min": 10.0
         },
         {
           "date": "2026-08-01",
-          "max": 21.0,
-          "min": 9.0
+          "max": 20.0,
+          "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Clear",
       "forecast": [
         {
           "date": "2026-07-30",
@@ -47,7 +47,7 @@
         },
         {
           "date": "2026-07-31",
-          "max": 24.0,
+          "max": 23.0,
           "min": 8.0
         },
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 12.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Open source project fools AI scrapers with poisoned font",
-    "Jailed Flock vandal wipes out three cameras, racks up thousands in damages",
-    "Americans give all-day school phone bans a ringing endorsement",
-    "From individual achievement to partner impact"
+    "LinkedIn realizes its users have been bathing in AI slop, offers a shower",
+    "Oracle adds Google Gemini to the agent menu",
+    "GPUs could explode to multiple TB with new storage-inspired memory tech",
+    "Open source project fools AI scrapers with poisoned font"
   ],
   "crew_quote": null
 }
