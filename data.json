@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T00:12:30.507027+00:00",
+  "timestamp": "2026-07-30T00:43:31.725153+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "temp": 18.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-07-30",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 17.0,
       "conditions": "Clear",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Light rain",
+      "conditions": "Clear",
       "forecast": [
         {
           "date": "2026-07-30",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
     "NOAA ditches weather-predicting supercomputers for Google Cloud",
     "Big vacuum is watching as robo-cleaners put humans behind the wheel",
-    "Uncle Sam sees the light, offers GlobalFoundries $300M to pursue silicon photonics while taking 1% stake",
-    "Closed models refuse to help researcher swat Linux bug"
+    "Uncle Sam sees the light, offers GlobalFoundries $300M to pursue silicon photonics while taking 1% stake"
   ],
   "crew_quote": null
 }
