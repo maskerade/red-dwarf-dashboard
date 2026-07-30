@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T06:55:39.199082+00:00",
+  "timestamp": "2026-07-30T07:26:46.839532+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Headteacher had the most guessable username-password combo you could imagine",
     "Excuses like 'AI did it' don't exist in the eyes of the law",
     "Veeam adds support for six more hypervisors in case you are up for a new one",
-    "Curiosity rover spots field of giant honeycomb on Mars – but no giant space bees",
-    "Qualcomm won’t be a big datacenter player anytime soon"
+    "Curiosity rover spots field of giant honeycomb on Mars – but no giant space bees"
   ],
   "crew_quote": null
 }
