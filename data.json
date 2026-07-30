@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T06:24:37.694195+00:00",
+  "timestamp": "2026-07-30T06:55:39.199082+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 16.0,
-      "conditions": "Overcast",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-07-30",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-30",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Excuses like 'AI did it' don't exist in the eyes of the law",
+    "Veeam adds support for six more hypervisors in case you are up for a new one",
     "Curiosity rover spots field of giant honeycomb on Mars – but no giant space bees",
-    "Qualcomm won’t be a big datacenter player anytime soon",
-    "Cisco 'retires' its Azure Local offering rather than catch up to Microsoft’s changed hardware requirements",
-    "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest"
+    "Qualcomm won’t be a big datacenter player anytime soon"
   ],
   "crew_quote": null
 }
