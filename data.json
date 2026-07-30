@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T13:12:47.459499+00:00",
+  "timestamp": "2026-07-30T13:43:45.592812+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Amazon links four poisoned npm packages to one North Korean crew",
     "Microsoft makes Copilot harder to miss in Classic Outlook",
     "Hims & Hers accused of sharing health secrets and hiding the cancel button",
-    "MariaDB again faces questions over Galera's open source future",
-    "Russian spies take their half-click email attack from Zimbra to Outlook"
+    "MariaDB again faces questions over Galera's open source future"
   ],
   "crew_quote": null
 }
