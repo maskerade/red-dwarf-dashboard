@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T05:22:36.848733+00:00",
+  "timestamp": "2026-07-30T05:53:36.694360+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Curiosity rover spots field of giant honeycomb on Mars – but no giant space bees",
     "Qualcomm won’t be a big datacenter player anytime soon",
     "Cisco 'retires' its Azure Local offering rather than catch up to Microsoft’s changed hardware requirements",
-    "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest",
-    "NOAA ditches weather-predicting supercomputers for Google Cloud"
+    "Microsoft's cloud brings rain of revenue but modest M365 AI revenue harvest"
   ],
   "crew_quote": null
 }
