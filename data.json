@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T14:46:47.949703+00:00",
+  "timestamp": "2026-07-30T15:17:47.763528+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Amazon links four poisoned npm packages to one North Korean crew",
-    "Microsoft makes Copilot harder to miss in Classic Outlook",
-    "Hims & Hers accused of sharing health secrets and hiding the cancel button",
-    "MariaDB again faces questions over Galera's open source future"
+    "5 Things to Consider BEFORE Your VMware ELA Expiration Date",
+    "Americans give all-day school phone bans a ringing endorsement",
+    "From individual achievement to partner impact",
+    "Samsung warns memory crunch will last through 2028 as profit rises 19-fold"
   ],
   "crew_quote": null
 }
