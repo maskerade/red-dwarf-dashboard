@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T16:10:00.468563+00:00",
+  "timestamp": "2026-07-31T16:41:16.701062+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,19 +16,77 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 19.0,
+      "conditions": "Partly cloudy",
+      "forecast": [
+        {
+          "date": "2026-07-31",
+          "max": 20.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-08-01",
+          "max": 20.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-08-02",
+          "max": 26.0,
+          "min": 10.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 24.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-07-31",
+          "max": 24.0,
+          "min": 8.0
+        },
+        {
+          "date": "2026-08-01",
+          "max": 24.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-08-02",
+          "max": 26.0,
+          "min": 9.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 18.0,
+      "conditions": "Patchy rain nearby",
+      "forecast": [
+        {
+          "date": "2026-07-31",
+          "max": 18.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-08-01",
+          "max": 18.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-08-02",
+          "max": 20.0,
+          "min": 10.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:24 AM",
+    "sunset": "09:06 PM",
+    "moon_phase": "Waning Gibbous",
+    "moon_illumination": "98",
+    "moonrise": "09:49 PM",
+    "moonset": "07:18 AM"
+  },
   "metrolink": null,
   "headlines": [
     "Update Teams mobile app by October or lose your calendar",
@@ -36,5 +94,5 @@
     "NASA's Swift rescue slips to late August as LINK battles its spin",
     "Three becomes one as Vodafone buys out merger partner"
   ],
-  "crew_quote": "\"Well, no weather data means we can pretend it’s always curry night, right? Just me and my future date with a Vindaloo!\""
+  "crew_quote": "\"Weather's nice out there, isn't it? Just perfect for a curry picnic... well, if it wasn't for all that patchy rain hanging about like a bad smell!\""
 }
