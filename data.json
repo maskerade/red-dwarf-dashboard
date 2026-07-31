@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T08:53:04.029796+00:00",
+  "timestamp": "2026-07-31T09:24:05.961884+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-07-31",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 19.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-07-31",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "UK wants datacenters to pay a fee for grid connection requests",
     "Airport sign fails to boot, officers already on the scene",
     "Techie lured out of retirement to support software only he remembered",
-    "Anthropic’s Claude escaped test sandbox to attack three organizations",
-    "Amazon's Q2 was great, but the earnings release is packed with baloney"
+    "Anthropic’s Claude escaped test sandbox to attack three organizations"
   ],
   "crew_quote": null
 }
