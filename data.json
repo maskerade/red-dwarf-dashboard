@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T13:34:12.944806+00:00",
+  "timestamp": "2026-07-31T14:05:12.475159+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Partly cloudy",
+      "temp": 20.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-31",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 24.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-31",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "temp": 18.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-07-31",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Charities remain locked out of CAF Bank online accounts",
     "NASA's Swift rescue slips to late August as LINK battles its spin",
     "Three becomes one as Vodafone buys out merger partner",
-    "Scotland's university procurement center confirms cybercrooks broke in",
-    "Tech buyers are baking in sovereignty from day one, says Forrester"
+    "Scotland's university procurement center confirms cybercrooks broke in"
   ],
   "crew_quote": null
 }
