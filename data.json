@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T06:18:04.392033+00:00",
+  "timestamp": "2026-07-31T06:49:01.327821+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Techie lured out of retirement to support software only he remembered",
     "Anthropic’s Claude escaped test sandbox to attack three organizations",
     "Amazon's Q2 was great, but the earnings release is packed with baloney",
-    "LinkedIn realizes its users have been bathing in AI slop, offers a shower",
-    "Oracle adds Google Gemini to the agent menu"
+    "LinkedIn realizes its users have been bathing in AI slop, offers a shower"
   ],
   "crew_quote": null
 }
