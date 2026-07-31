@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T18:14:17.424289+00:00",
+  "timestamp": "2026-07-31T18:45:16.641747+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,27 +17,27 @@
   "locations": {
     "altrincham": {
       "temp": 19.0,
-      "conditions": "Partly cloudy",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-31",
           "max": 20.0,
-          "min": 9.0
+          "min": 11.0
         },
         {
           "date": "2026-08-01",
           "max": 20.0,
-          "min": 10.0
+          "min": 12.0
         },
         {
           "date": "2026-08-02",
           "max": 26.0,
-          "min": 10.0
+          "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-07-31",
@@ -80,8 +80,8 @@
     }
   },
   "astronomy": {
-    "sunrise": "05:24 AM",
-    "sunset": "09:06 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "09:07 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "98",
     "moonrise": "09:49 PM",
@@ -94,5 +94,5 @@
     "Anthropic and OpenAI are competing to see whose agents can go rogue harder",
     "Update Teams mobile app by October or lose your calendar"
   ],
-  "crew_quote": "\"Right now, it’s 22 degrees and sunny—perfect weather for a curry! Just a shame our security's about as tight as a cat’s trousers!\""
+  "crew_quote": "\"19 degrees and sunny? I mean, what a perfect day for a curry! Too bad the only thing I’m cooking is my own survival.\""
 }
