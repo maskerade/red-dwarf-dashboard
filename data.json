@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T14:05:12.475159+00:00",
+  "timestamp": "2026-07-31T14:36:13.337741+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Update Teams mobile app by October or lose your calendar",
     "Charities remain locked out of CAF Bank online accounts",
     "NASA's Swift rescue slips to late August as LINK battles its spin",
-    "Three becomes one as Vodafone buys out merger partner",
-    "Scotland's university procurement center confirms cybercrooks broke in"
+    "Three becomes one as Vodafone buys out merger partner"
   ],
   "crew_quote": null
 }
