@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T04:45:03.541708+00:00",
+  "timestamp": "2026-07-31T05:16:03.999359+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Anthropic’s Claude escaped test sandbox to attack three organizations",
     "Amazon's Q2 was great, but the earnings release is packed with baloney",
     "LinkedIn realizes its users have been bathing in AI slop, offers a shower",
-    "Oracle adds Google Gemini to the agent menu",
-    "GPUs could explode to multiple TB with new storage-inspired memory tech"
+    "Oracle adds Google Gemini to the agent menu"
   ],
   "crew_quote": null
 }
