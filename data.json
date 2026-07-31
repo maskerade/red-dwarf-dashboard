@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T11:59:09.032391+00:00",
+  "timestamp": "2026-07-31T12:30:53.750054+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,83 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-07-31",
-          "max": 21.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-01",
-          "max": 20.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-02",
-          "max": 26.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-07-31",
-          "max": 24.0,
-          "min": 8.0
-        },
-        {
-          "date": "2026-08-01",
-          "max": 23.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-02",
-          "max": 26.0,
-          "min": 9.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
-      "forecast": [
-        {
-          "date": "2026-07-31",
-          "max": 18.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-08-01",
-          "max": 17.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-08-02",
-          "max": 19.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:24 AM",
-    "sunset": "09:06 PM",
-    "moon_phase": "Waning Gibbous",
-    "moon_illumination": "98",
-    "moonrise": "09:49 PM",
-    "moonset": "07:18 AM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "Three becomes one as Vodafone buys out merger partner",
     "Scotland's university procurement center confirms cybercrooks broke in",
     "Tech buyers are baking in sovereignty from day one, says Forrester",
-    "UK wants datacenters to pay a fee for grid connection requests",
-    "Airport sign fails to boot, officers already on the scene"
+    "UK wants datacenters to pay a fee for grid connection requests"
   ],
   "crew_quote": null
 }
