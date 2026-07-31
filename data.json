@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T12:30:53.750054+00:00",
+  "timestamp": "2026-07-31T13:02:56.767278+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -31,10 +31,10 @@
   "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "NASA's Swift rescue slips to late August as LINK battles its spin",
     "Three becomes one as Vodafone buys out merger partner",
     "Scotland's university procurement center confirms cybercrooks broke in",
-    "Tech buyers are baking in sovereignty from day one, says Forrester",
-    "UK wants datacenters to pay a fee for grid connection requests"
+    "Tech buyers are baking in sovereignty from day one, says Forrester"
   ],
   "crew_quote": null
 }
