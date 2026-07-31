@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T01:39:00.318091+00:00",
+  "timestamp": "2026-07-31T02:09:59.900619+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Amazon's Q2 was great, but the earnings release is packed with baloney",
     "LinkedIn realizes its users have been bathing in AI slop, offers a shower",
     "Oracle adds Google Gemini to the agent menu",
-    "GPUs could explode to multiple TB with new storage-inspired memory tech",
-    "Open source project fools AI scrapers with poisoned font"
+    "GPUs could explode to multiple TB with new storage-inspired memory tech"
   ],
   "crew_quote": null
 }
