@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T08:22:06.622124+00:00",
+  "timestamp": "2026-07-31T08:53:04.029796+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Airport sign fails to boot, officers already on the scene",
     "Techie lured out of retirement to support software only he remembered",
     "Anthropic’s Claude escaped test sandbox to attack three organizations",
-    "Amazon's Q2 was great, but the earnings release is packed with baloney",
-    "LinkedIn realizes its users have been bathing in AI slop, offers a shower"
+    "Amazon's Q2 was great, but the earnings release is packed with baloney"
   ],
   "crew_quote": null
 }
