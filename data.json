@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T11:28:16.623893+00:00",
+  "timestamp": "2026-07-31T11:59:09.032391+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Scotland's university procurement center confirms cybercrooks broke in",
     "Tech buyers are baking in sovereignty from day one, says Forrester",
     "UK wants datacenters to pay a fee for grid connection requests",
-    "Airport sign fails to boot, officers already on the scene",
-    "Techie lured out of retirement to support software only he remembered"
+    "Airport sign fails to boot, officers already on the scene"
   ],
   "crew_quote": null
 }
