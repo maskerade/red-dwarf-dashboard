@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T17:12:15.788809+00:00",
+  "timestamp": "2026-07-31T17:43:15.027069+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Update Teams mobile app by October or lose your calendar",
-    "Charities remain locked out of CAF Bank online accounts",
-    "NASA's Swift rescue slips to late August as LINK battles its spin",
-    "Three becomes one as Vodafone buys out merger partner"
+    "The most famous brand in physical security got pwned by ShinyHunters",
+    "US bank places trust in ransomware crew that promised to delete its data",
+    "Anthropic and OpenAI are competing to see whose agents can go rogue harder",
+    "Update Teams mobile app by October or lose your calendar"
   ],
-  "crew_quote": "\"Nice weather today, but if I don't update that Teams app, I might forget the curry night and that would just be tragic, wouldn't it?\""
+  "crew_quote": "\"Oi, it's a lovely 22 degrees out, might be time for a barbecue! Just need to work out how to grill a curry — never quite got the hang of it!\""
 }
