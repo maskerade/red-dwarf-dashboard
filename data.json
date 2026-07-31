@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T16:41:16.701062+00:00",
+  "timestamp": "2026-07-31T17:12:15.788809+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-31",
@@ -94,5 +94,5 @@
     "NASA's Swift rescue slips to late August as LINK battles its spin",
     "Three becomes one as Vodafone buys out merger partner"
   ],
-  "crew_quote": "\"Weather's nice out there, isn't it? Just perfect for a curry picnic... well, if it wasn't for all that patchy rain hanging about like a bad smell!\""
+  "crew_quote": "\"Nice weather today, but if I don't update that Teams app, I might forget the curry night and that would just be tragic, wouldn't it?\""
 }
