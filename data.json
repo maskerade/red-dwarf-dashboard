@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T19:47:17.749680+00:00",
+  "timestamp": "2026-07-31T20:18:18.549186+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,29 +16,29 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 14.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-31",
           "max": 20.0,
-          "min": 11.0
+          "min": 9.0
         },
         {
           "date": "2026-08-01",
           "max": 20.0,
-          "min": 12.0
+          "min": 10.0
         },
         {
           "date": "2026-08-02",
           "max": 26.0,
-          "min": 11.0
+          "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Clear",
       "forecast": [
         {
           "date": "2026-07-31",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 13.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-07-31",
@@ -80,8 +80,8 @@
     }
   },
   "astronomy": {
-    "sunrise": "05:23 AM",
-    "sunset": "09:07 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "09:06 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "98",
     "moonrise": "09:49 PM",
@@ -94,5 +94,5 @@
     "Anthropic and OpenAI are competing to see whose agents can go rogue harder",
     "Update Teams mobile app by October or lose your calendar"
   ],
-  "crew_quote": "\"Well, isn't it just typical? Even a sunny day can't hide the fact that the world's getting pwned like a hapless droid in a curry shop!\""
+  "crew_quote": "\"I'm not saying the weather's perfect, but when it’s 18 degrees and clear, even a curry can’t ruin the mood—unless it’s that horrible one from the vending machine!\""
 }
