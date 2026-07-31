@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T19:16:16.980490+00:00",
+  "timestamp": "2026-07-31T19:47:17.749680+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Anthropic and OpenAI are competing to see whose agents can go rogue harder",
     "Update Teams mobile app by October or lose your calendar"
   ],
-  "crew_quote": "\"Sunny in Altrincham, eh? If I were a weather system, I’d be strutting around like the Cat, but instead, I’m just here, stuck in space with you lot!\""
+  "crew_quote": "\"Well, isn't it just typical? Even a sunny day can't hide the fact that the world's getting pwned like a hapless droid in a curry shop!\""
 }
