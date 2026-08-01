@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T04:36:27.542342+00:00",
+  "timestamp": "2026-08-01T05:07:27.127052+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "US bank places trust in ransomware crew that promised to delete its data",
     "Anthropic and OpenAI are competing to see whose agents can go rogue harder"
   ],
-  "crew_quote": "\"13 degrees and clear skies, eh? Perfect weather for a curry and a good old binge-watch—just imagine, sunshine and spicy food!\""
+  "crew_quote": "\"With a clear sky and a cozy 13°C, it's the perfect day to enjoy a curry… or just stare at the wall and wonder how long before this ship gets pwned like that security brand!\""
 }
