@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T14:25:38.715288+00:00",
+  "timestamp": "2026-08-01T14:56:39.260410+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,28 +16,28 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-08-01",
-          "max": 20.0,
+          "max": 21.0,
           "min": 10.0
         },
         {
           "date": "2026-08-02",
-          "max": 26.0,
+          "max": 25.0,
           "min": 10.0
         },
         {
           "date": "2026-08-03",
-          "max": 30.0,
+          "max": 27.0,
           "min": 15.0
         }
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -52,13 +52,13 @@
         },
         {
           "date": "2026-08-03",
-          "max": 31.0,
-          "min": 12.0
+          "max": 29.0,
+          "min": 13.0
         }
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -68,12 +68,12 @@
         },
         {
           "date": "2026-08-02",
-          "max": 20.0,
-          "min": 11.0
+          "max": 19.0,
+          "min": 10.0
         },
         {
           "date": "2026-08-03",
-          "max": 25.0,
+          "max": 23.0,
           "min": 13.0
         }
       ]
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"Blimey, it's warmer than a vindaloo in here! Wonder if I can trade a bag of chips for one of those fancy Nvidia CPUs?\""
+  "crew_quote": "\"With all this sunny weather, I reckon a curry’s just what I need to fuel my genius—who cares if it’s cloudy in Altrincham, right?\""
 }
