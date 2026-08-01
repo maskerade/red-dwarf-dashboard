@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T06:40:29.452663+00:00",
+  "timestamp": "2026-08-01T07:11:30.099439+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Sunny",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -26,18 +26,18 @@
         },
         {
           "date": "2026-08-02",
-          "max": 25.0,
+          "max": 26.0,
           "min": 10.0
         },
         {
           "date": "2026-08-03",
-          "max": 27.0,
+          "max": 30.0,
           "min": 15.0
         }
       ]
     },
     "overseal": {
-      "temp": 12.0,
+      "temp": 14.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Sunny",
+      "temp": 13.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer",
     "The most famous brand in physical security got pwned by ShinyHunters",
-    "US bank places trust in ransomware crew that promised to delete its data",
-    "Anthropic and OpenAI are competing to see whose agents can go rogue harder"
+    "US bank places trust in ransomware crew that promised to delete its data"
   ],
-  "crew_quote": "\"Oi, it’s 12 degrees and sunny — perfect weather for a curry! Let’s not waste a second; I’m craving a balti like there’s no tomorrow!\""
+  "crew_quote": "\"Ah, sunny in Overseal! Just like my latest curry experiment—perfectly hot and messy, much like my love life!\""
 }
