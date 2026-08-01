@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T18:03:42.342216+00:00",
+  "timestamp": "2026-08-01T18:34:41.253863+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"19 degrees in Altrincham? Perfect curry-eating weather, just enough to feel like you're sweating, but not enough to make you regret the extra naan!\""
+  "crew_quote": "\"Ah, 19 degrees and partly cloudy—perfect weather for a curry, but all I’ve got is this blasted Windows error. It’s like my entire life is stuck in the bagging area!\""
 }
