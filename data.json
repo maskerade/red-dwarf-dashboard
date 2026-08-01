@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T15:58:38.690219+00:00",
+  "timestamp": "2026-08-01T16:29:40.837918+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Cloudy",
+      "temp": 20.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 23.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 18.0,
-      "conditions": "Sunny",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"Look at that, 23 degrees in Overseal! Just the perfect weather for a curry on the beach, if only I didn’t have to deal with that blinking Windows error first!\""
+  "crew_quote": "\"With it being 24 degrees and sunny, I reckon I could whip up a right nice curry, but knowing my luck, it’ll still end up like that Windows error – a complete mess!\""
 }
