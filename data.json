@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T11:50:35.787910+00:00",
+  "timestamp": "2026-08-01T12:21:35.552380+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"19 degrees and partly cloudy? Perfect weather for a curry, as long as the bagging area's not full of Windows errors! Right, let's get cooking!\""
+  "crew_quote": "\"Did you see the weather? It's a balmy 19 degrees! Perfect for a nice curry... or just lounging around pretending to be a human being on holiday!\""
 }
