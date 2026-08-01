@@ -2623,9 +2623,6 @@
   // ── June 24 inits ──────────────────────────────────────────
   setupMissionTimer();
 
-  // ── June 29 inits ──────────────────────────────────────────
-  setupRimmerCitations();
-
   // ── Deck entertainment widgets ─────────────────────────────
   setupAwardCabinet();
   setupBoredomIndex();
@@ -2940,6 +2937,8 @@
       renderDeepThought(data);
       renderTidinessMatrix(data);
       renderBrewCalculator(data);
+      renderEfficiencyCrossref(data);
+      renderTempSpreadWidget(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
@@ -3755,6 +3754,8 @@
     setInterval(showCitation, 30000);
   }
 
+  setupRimmerCitations();
+
   // ── 48. Lister's 'Is It Curry O'Clock?' Indicator ──────────────
   function renderCurryClock(data) {
     const verdictEl = $('curry-verdict');
@@ -3959,6 +3960,9 @@
       setupProcessorLoad();
       setupAutoDestruct();
       setupJuryCountdown();
+      setupPipelineChronometer();
+      setupOutfitArchive();
+      setupProbabilityEngine();
 
       const REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minutes
       let countdownMs = REFRESH_INTERVAL;
@@ -4829,5 +4833,297 @@
 
     render();
     setInterval(render, 15000);
+  }
+
+  // ── 71. Rimmer's Efficiency Cross-Reference Panel ─────────────
+  function renderEfficiencyCrossref(data) {
+    const hour = new Date().getHours();
+
+    function setGrade(id, grade, metric, gradeCls) {
+      const gEl = $(id);
+      const mEl = $(id + '-metric');
+      if (gEl) { gEl.textContent = grade; gEl.className = 'crossref-grade' + (gradeCls ? ' ' + gradeCls : ''); }
+      if (mEl) mEl.textContent = metric;
+    }
+
+    setGrade('crossref-rimmer', 'A+', 'Baseline: flawless (self-assessed)', 'grade-a');
+
+    let listerGrade, listerMetric;
+    if ((hour >= 11 && hour <= 14) || (hour >= 17 && hour <= 22)) { listerGrade = 'D-'; listerMetric = 'Curry tally: excessive'; }
+    else if (hour >= 22 || hour <= 6) { listerGrade = 'F'; listerMetric = 'Found asleep in the curry cupboard'; }
+    else { listerGrade = 'C'; listerMetric = 'Barely functional'; }
+    setGrade('crossref-lister', listerGrade, listerMetric);
+
+    let catGrade, catMetric;
+    if (hour >= 6 && hour <= 9) { catGrade = 'B'; catMetric = 'Mirror time: optimal'; }
+    else if (hour >= 12 && hour <= 15) { catGrade = 'C'; catMetric = 'Nap frequency: excessive'; }
+    else { catGrade = 'C-'; catMetric = 'Grooming over productivity'; }
+    setGrade('crossref-cat', catGrade, catMetric);
+
+    setGrade('crossref-kryten', 'B+', 'Admits to dust: unacceptable (by own standards)');
+
+    const verdictEl = $('crossref-verdict');
+    if (verdictEl) verdictEl.textContent = "Verdict: Nobody meets Rimmer's standards. Obviously.";
+  }
+
+  // ── 72. Lister's Three-Location Temperature Spread ───────────
+  function renderTempSpreadWidget(data) {
+    const barsEl = $('spread-bars');
+    const verdictEl = $('spread-verdict');
+    if (!barsEl || !verdictEl) return;
+
+    const locs = data.locations || {};
+    const labels = { altrincham: 'Altrincham', overseal: 'Overseal', llandudno: 'Llandudno' };
+    const entries = [];
+    Object.keys(labels).forEach(function(key) {
+      const loc = locs[key];
+      const temp = loc ? Number(loc.temp) : NaN;
+      if (!isNaN(temp)) entries.push({ name: labels[key], temp: temp });
+    });
+    if (entries.length < 2) return;
+
+    let maxTemp = -Infinity;
+    let minTemp = Infinity;
+    entries.forEach(function(e) {
+      if (e.temp > maxTemp) maxTemp = e.temp;
+      if (e.temp < minTemp) minTemp = e.temp;
+    });
+
+    barsEl.innerHTML = entries.map(function(e) {
+      const width = Math.max(4, Math.min(100, (maxTemp > 0 ? e.temp / maxTemp : 1) * 80));
+      let color = 'var(--amber)';
+      if (e.temp === maxTemp) color = '#ff4444';
+      else if (e.temp === minTemp) color = '#4488ff';
+      return '<div class="spread-bar-row">' +
+        '<span class="spread-bar-label">' + e.name + '</span>' +
+        '<div class="spread-bar-track"><div class="spread-bar-fill" style="width:' + width + '%;background:' + color + '"></div></div>' +
+        '<span class="spread-bar-temp">' + e.temp.toFixed(0) + '°C</span>' +
+        '</div>';
+    }).join('');
+
+    const best = entries.slice().sort(function(a, b) { return b.temp - a.temp; })[0];
+    const worst = entries.slice().sort(function(a, b) { return a.temp - b.temp; })[0];
+    verdictEl.textContent = 'Best fry-up spot today: ' + best.name + ' at ' + best.temp.toFixed(0) + '°C. ' + worst.name + ' is a solid ' + worst.temp.toFixed(0) + '°C — bring a coat.';
+  }
+
+  // ── 73. Kryten's Data Pipeline Chronometer ───────────────────
+  function setupPipelineChronometer() {
+    const STORAGE_KEY = 'reddwarf_pipeline_runs';
+    const MINUTE = 60 * 1000;
+
+    function fmtTime(ts) {
+      const d = new Date(ts);
+      return String(d.getHours()).padStart(2, '0') + ':' + String(d.getMinutes()).padStart(2, '0');
+    }
+
+    function makeRun(ts) {
+      const rand = Math.random();
+      let status = 'ok';
+      if (rand < 0.1) status = 'error';
+      else if (rand < 0.25) status = 'warning';
+      const durations = ['1.8s', '2.1s', '2.4s', '3.2s', '1.9s', '2.6s'];
+      return {
+        time: fmtTime(ts),
+        ts: ts,
+        duration: durations[Math.floor(Math.random() * durations.length)],
+        status: status,
+        desc: 'HA + weather + headlines'
+      };
+    }
+
+    let runs = [];
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) runs = JSON.parse(raw);
+    } catch (_) {
+      runs = [];
+    }
+    if (!Array.isArray(runs)) runs = [];
+
+    if (runs.length === 0) {
+      const now = Date.now();
+      for (let i = 6; i >= 1; i--) {
+        runs.push(makeRun(now - i * 30 * MINUTE));
+      }
+    }
+
+    const lastTs = runs.length ? runs[runs.length - 1].ts : 0;
+    if (Date.now() - lastTs > 5 * MINUTE) {
+      runs.push(makeRun(Date.now()));
+    }
+    if (runs.length > 10) {
+      runs = runs.slice(-10);
+    }
+
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(runs));
+
+    function render() {
+      const wrap = $('pipeline-runs');
+      const statusEl = $('pipeline-status');
+      if (!wrap) return;
+
+      wrap.innerHTML = runs.map(function(run) {
+        const dotCls = run.status === 'ok' ? 'pipeline-dot-green' : run.status === 'warning' ? 'pipeline-dot-amber' : 'pipeline-dot-red';
+        return '<div class="pipeline-run">' +
+          '<span class="pipeline-dot ' + dotCls + '"></span>' +
+          '<span class="pipeline-time">' + run.time + '</span>' +
+          '<span class="pipeline-duration">' + run.duration + '</span>' +
+          '<span class="pipeline-desc">' + run.desc + '</span>' +
+          '</div>';
+      }).join('');
+
+      if (statusEl && runs.length) {
+        const lastErr = runs.slice().reverse().find(function(r) { return r.status === 'error'; });
+        if (lastErr) {
+          statusEl.textContent = 'Pipeline warning — last collect errored at ' + lastErr.time;
+        } else {
+          const last = runs[runs.length - 1];
+          statusEl.textContent = 'Pipeline nominal — last collect: ' + last.time + ' (' + last.duration + ')';
+        }
+      }
+    }
+
+    render();
+  }
+
+  // ── 74. Cat's Outfit Archive ─────────────────────────────────
+  function setupOutfitArchive() {
+    const INDEX_KEY = 'reddwarf_outfit_index';
+    const FAV_KEY = 'reddwarf_outfit_favs';
+    const STREAK_KEY = 'reddwarf_outfit_streak';
+    const VISIT_KEY = 'reddwarf_outfit_lastvisit';
+
+    const outfits = [
+      { emoji: '🕶️', name: 'Silver Lamé Number', comment: 'Daring. Dazzling. Debilitating to lesser beings.' },
+      { emoji: '👔', name: 'All-Leather Everything', comment: 'The cows died for this. Honour them.' },
+      { emoji: '🧥', name: 'Space Duster', comment: 'Long. Flowing. Intergalactically stylish.' },
+      { emoji: '👕', name: 'Crimson Command Silk', comment: 'Red is the colour of victory. And lipstick.' },
+      { emoji: '🦺', name: 'Neon Maintenance Vest', comment: 'Safety first. Fashion second. Both achieved.' },
+      { emoji: '👗', name: 'Holographic Dreamscape', comment: 'I call it "Technicolor Yawn for the Rich".' },
+      { emoji: '🧶', name: 'Knit One, Pearl One Special', comment: 'Kryten made it. I wore it. I made it famous.' },
+      { emoji: '👖', name: 'Zero-Gravity Trousers', comment: 'They float. So do I. It is a whole vibe.' },
+      { emoji: '🎩', name: 'Captain\'s Formal Hat', comment: 'Found it in the captain\'s quarters. He is not using it.' },
+      { emoji: '🧤', name: 'Thermal Insulated Glamour Gloves', comment: 'Warm hands, cold heart. The Cat way.' },
+      { emoji: '🥋', name: 'Kimono of Quiet Desperation', comment: 'Eastern philosophy meets Western ego.' },
+      { emoji: '👑', name: 'Self-Appointed Crown', comment: 'If you have to ask, you cannot afford it.' },
+      { emoji: '🧣', name: 'Plasma Scarf of Destiny', comment: 'Scarf. Prophecy. Legend. In that order.' },
+      { emoji: '🎽', name: 'Retro Fitness Jumpsuit', comment: 'I do not exercise. I accessorise exercise.' },
+      { emoji: '🧵', name: 'Patchwork of Past Lovers', comment: 'Each patch tells a story. Most end badly.' },
+      { emoji: '👘', name: 'Silk Robe of Supreme Indifference', comment: 'I care deeply about looking like I do not care.' },
+      { emoji: '🎒', name: 'Utility Belt of Vanity', comment: 'Every pouch contains a mirror. Obviously.' },
+      { emoji: '🧢', name: 'Reverse Baseball Cap of Authority', comment: 'Backwards = I am in charge. Do not question it.' },
+      { emoji: '👞', name: 'Python Skin Boots', comment: 'Snakes gave their lives. They should be honoured.' },
+      { emoji: '💎', name: 'Full Crystal Ensemble', comment: 'If it sparkles, it belongs on me.' }
+    ];
+
+    const emojiEl = $('outfit-emoji');
+    const nameEl = $('outfit-name');
+    const commentEl = $('outfit-comment');
+    const favBtn = $('outfit-fav-btn');
+    const favCountEl = $('outfit-fav-count');
+    const nextBtn = $('outfit-next-btn');
+    const streakEl = $('outfit-streak');
+    if (!emojiEl || !nameEl || !commentEl || !streakEl) return;
+
+    const dayNum = Math.floor(Date.now() / 86400000);
+
+    let streak = parseInt(localStorage.getItem(STREAK_KEY) || '0', 10) || 0;
+    const lastVisit = parseInt(localStorage.getItem(VISIT_KEY) || '-1', 10) || -1;
+    if (lastVisit === dayNum - 1) {
+      streak += 1;
+    } else if (lastVisit !== dayNum) {
+      streak = 1;
+    }
+    localStorage.setItem(STREAK_KEY, String(streak));
+    localStorage.setItem(VISIT_KEY, String(dayNum));
+    streakEl.textContent = 'Streak: ' + streak + ' day' + (streak === 1 ? '' : 's');
+
+    let index = parseInt(localStorage.getItem(INDEX_KEY) || 'NaN', 10);
+    if (isNaN(index)) index = dayNum % outfits.length;
+    index = ((index % outfits.length) + outfits.length) % outfits.length;
+
+    function render() {
+      const o = outfits[index];
+      emojiEl.textContent = o.emoji;
+      nameEl.textContent = o.name;
+      commentEl.textContent = o.comment;
+      if (favCountEl) favCountEl.textContent = localStorage.getItem(FAV_KEY) || '0';
+    }
+
+    if (nextBtn) {
+      nextBtn.addEventListener('click', function() {
+        index = (index + 1) % outfits.length;
+        localStorage.setItem(INDEX_KEY, String(index));
+        render();
+      });
+    }
+
+    if (favBtn) {
+      favBtn.addEventListener('click', function() {
+        const count = (parseInt(localStorage.getItem(FAV_KEY) || '0', 10) || 0) + 1;
+        localStorage.setItem(FAV_KEY, String(count));
+        if (favCountEl) favCountEl.textContent = String(count);
+      });
+    }
+
+    render();
+  }
+
+  // ── 75. Holly's 'What Are the Chances?' Probability Engine ───
+  function setupProbabilityEngine() {
+    const events = [
+      'Rimmer receiving a sincere compliment',
+      'Lister voluntarily cleaning his bunk',
+      'Kryten forgetting to offer tea',
+      'Cat admitting someone else looks good',
+      'Holly caring about anything',
+      'Finding a clean spoon in Lister\'s bunk',
+      'Rimmer passing a real exam',
+      'The ship not needing repairs for 24 hours',
+      'Cat wearing the same outfit twice',
+      'Lister choosing salad over curry',
+      'Kryten criticising a guest',
+      'Holly logging off voluntarily',
+      'Rimmer saying "you were right"',
+      'The toaster making anything except toast',
+      'Lister reading a book that is not a menu',
+      'Cat giving fashion advice for free',
+      'The vending machine having what you asked for',
+      'Rimmer being humble about his swimming certificate',
+      'Lister finding money down the back of the sofa',
+      'Holly finishing a sentence without being interrupted'
+    ];
+    const seeds = [
+      'Seeded by: current air pressure',
+      'Seeded by: Rimmer\'s ego measurements',
+      'Seeded by: the phase of the moon',
+      'Seeded by: Lister\'s last meal time',
+      'Seeded by: Kryten\'s buffer status',
+      'Seeded by: intergalactic cosmic rays'
+    ];
+
+    const eventEl = $('probability-event');
+    const valueEl = $('probability-value');
+    const seedEl = $('probability-seed');
+    if (!eventEl || !valueEl || !seedEl) return;
+
+    function render() {
+      const now = Date.now();
+      const data = window.__dashboardData || {};
+      const pressure = data.house && data.house.pressure != null ? Number(data.house.pressure) : NaN;
+      const eventIdx = Math.floor(now / 30000) % events.length;
+      const seed = !isNaN(pressure) ? pressure * 1000 + now : now;
+
+      eventEl.textContent = events[eventIdx];
+
+      const raw = Math.abs(Math.sin(seed) * 10000) % 100;
+      const prob = Math.max(0.00001, raw / 1000);
+      valueEl.textContent = prob.toFixed(5) + '%';
+
+      seedEl.textContent = seeds[Math.floor(now / 60000) % seeds.length];
+    }
+
+    render();
+    setInterval(render, 30000);
   }
   })();
