@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T19:05:43.499527+00:00",
+  "timestamp": "2026-08-01T19:36:42.979724+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Partly cloudy",
+      "temp": 17.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"I'm just saying, in this lovely weather, it’s perfect for a curry — but let's avoid the unexpected items, like my Windows activation error!\""
+  "crew_quote": "\"With all this lovely sunshine, I bet the only thing missing from Lister's curry is a sunbeam to fry the naan on!\""
 }
