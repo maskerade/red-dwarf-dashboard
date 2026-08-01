@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T05:07:27.127052+00:00",
+  "timestamp": "2026-08-01T05:38:28.063272+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Clear",
+      "temp": 12.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 12.0,
-      "conditions": "Clear",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 12.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -94,5 +94,5 @@
     "US bank places trust in ransomware crew that promised to delete its data",
     "Anthropic and OpenAI are competing to see whose agents can go rogue harder"
   ],
-  "crew_quote": "\"With a clear sky and a cozy 13°C, it's the perfect day to enjoy a curry… or just stare at the wall and wonder how long before this ship gets pwned like that security brand!\""
+  "crew_quote": "\"With weather like this, I could have sworn we were in Llandudno—just me, a curry, and my bright future... not being pwned by some shiny hacker!\""
 }
