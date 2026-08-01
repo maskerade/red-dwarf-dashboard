@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T03:34:26.074397+00:00",
+  "timestamp": "2026-08-01T04:05:26.183897+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 11.0,
+      "temp": 12.0,
       "conditions": "Clear",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 10.0,
-      "conditions": "Clear ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -94,5 +94,5 @@
     "US bank places trust in ransomware crew that promised to delete its data",
     "Anthropic and OpenAI are competing to see whose agents can go rogue harder"
   ],
-  "crew_quote": "\"With weather like this, I could really go for a nice curry and a pint — perfect for a clear day, unless it's all some kind of holographic trick, eh?\""
+  "crew_quote": "\"Ah, it’s a lovely clear day out there, just perfect for a curry-fuelled expedition—unless you’re in Llandudno, where it’s all rain and misery, like my love life!\""
 }
