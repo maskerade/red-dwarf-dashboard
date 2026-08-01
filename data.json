@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T08:44:32.346883+00:00",
+  "timestamp": "2026-08-01T09:15:32.106870+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer",
-    "The most famous brand in physical security got pwned by ShinyHunters",
-    "US bank places trust in ransomware crew that promised to delete its data"
+    "The most famous brand in physical security got pwned by ShinyHunters"
   ],
-  "crew_quote": "\"With all this patchy rain nearby, I reckon we should've brought our umbrellas instead of a curry, but knowing our luck, they'd probably turn inside out!\""
+  "crew_quote": "\"Looks like Altrincham’s got patchy rain—perfect weather to stay in and whip up a curry! Just me and my takeaway, while the clouds do their thing.\""
 }
