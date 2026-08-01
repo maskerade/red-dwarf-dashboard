@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T08:13:33.491070+00:00",
+  "timestamp": "2026-08-01T08:44:32.346883+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -52,28 +52,28 @@
         },
         {
           "date": "2026-08-03",
-          "max": 29.0,
+          "max": 31.0,
           "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-01",
-          "max": 17.0,
+          "max": 18.0,
           "min": 10.0
         },
         {
           "date": "2026-08-02",
-          "max": 19.0,
-          "min": 10.0
+          "max": 20.0,
+          "min": 11.0
         },
         {
           "date": "2026-08-03",
-          "max": 22.0,
+          "max": 25.0,
           "min": 13.0
         }
       ]
@@ -94,5 +94,5 @@
     "The most famous brand in physical security got pwned by ShinyHunters",
     "US bank places trust in ransomware crew that promised to delete its data"
   ],
-  "crew_quote": "\"With all this patchy rain around, I reckon we should just abandon ship and live in a curry house instead. At least the temperature's just right for a good biryani!\""
+  "crew_quote": "\"With all this patchy rain nearby, I reckon we should've brought our umbrellas instead of a curry, but knowing our luck, they'd probably turn inside out!\""
 }
