@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T13:54:37.357933+00:00",
+  "timestamp": "2026-08-01T14:25:38.715288+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo outside! Anyone fancy a curry to celebrate this sunny miracle, or shall we just fry an egg on the ship's dashboard?\""
+  "crew_quote": "\"Blimey, it's warmer than a vindaloo in here! Wonder if I can trade a bag of chips for one of those fancy Nvidia CPUs?\""
 }
