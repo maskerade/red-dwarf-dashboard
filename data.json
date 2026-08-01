@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T15:27:40.908877+00:00",
+  "timestamp": "2026-08-01T15:58:38.690219+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"Oi, with this weather, we could really do with a nice, spicy curry and a cold lager, not another bloomin' Windows error! What’s next, a rogue toaster attacking the ship?\""
+  "crew_quote": "\"Look at that, 23 degrees in Overseal! Just the perfect weather for a curry on the beach, if only I didn’t have to deal with that blinking Windows error first!\""
 }
