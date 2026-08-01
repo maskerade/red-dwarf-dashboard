@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T22:11:45.152778+00:00",
+  "timestamp": "2026-08-01T22:42:45.143645+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 12.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Clear",
+      "temp": 11.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-01",
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"With it being a lovely 17 degrees in Overseal, I could really go for a curry on the beach—preferably with a side of Nvidia's shiny new tech to spice it up!\""
+  "crew_quote": "\"Oi, it's so nice outside in Llandudno, I might just have a curry on the beach — which is brilliant, until you realize the sand gets in your peshwari!\""
 }
