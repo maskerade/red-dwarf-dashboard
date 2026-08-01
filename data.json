@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T17:32:41.045693+00:00",
+  "timestamp": "2026-08-01T18:03:42.342216+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Partly cloudy",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"20 degrees and partly cloudy? That's perfect curry weather! Just don't expect me to share my last naan—it's as precious as the last can of lager!\""
+  "crew_quote": "\"19 degrees in Altrincham? Perfect curry-eating weather, just enough to feel like you're sweating, but not enough to make you regret the extra naan!\""
 }
