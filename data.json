@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T08:33:02.893146+00:00",
+  "timestamp": "2026-08-02T09:04:44.218094+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-08-02",
-          "max": 25.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-08-03",
-          "max": 27.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-08-04",
-          "max": 27.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-08-02",
-          "max": 26.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-03",
-          "max": 29.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-08-04",
-          "max": 30.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-08-02",
-          "max": 19.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-08-03",
-          "max": 23.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-08-04",
-          "max": 23.0,
-          "min": 13.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:27 AM",
-    "sunset": "09:03 PM",
-    "moon_phase": "Waning Gibbous",
-    "moon_illumination": "89",
-    "moonrise": "10:07 PM",
-    "moonset": "09:55 AM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "Meet the 'internet radical' who helped Microsoft get email and AT&T get online",
@@ -94,5 +36,5 @@
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
     "Enterprise cloud infrastructure uptake shows no sign of slowing"
   ],
-  "crew_quote": "\"Sunny days and a power crisis? Blimey, I might as well have a curry in the park—though I’d probably end up with an unexpected item in my bagging area!\""
+  "crew_quote": "\"We're running on zero power and somehow I've still got a Windows Activation error? I should've just grabbed a curry and gone home!\""
 }
