@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T06:59:03.113142+00:00",
+  "timestamp": "2026-08-02T07:29:56.064492+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Meet the 'internet radical' who helped Microsoft get email and AT&T get online",
     "Unexpected item in the bagging area as Windows Activation error pops up at check-in",
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
-    "Enterprise cloud infrastructure uptake shows no sign of slowing",
-    "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
+    "Enterprise cloud infrastructure uptake shows no sign of slowing"
   ],
-  "crew_quote": "\"Well, it’s a lovely 13°C out there, perfect for a stroll, unless you’ve got a Windows Activation error, then you might as well stay inside and order a curry!\""
+  "crew_quote": "\"Partly cloudy at 13 degrees? Perfect curry weather, just need to crank the heat a bit in the fridge and we’re golden, mate!\""
 }
