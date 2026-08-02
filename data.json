@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T12:41:56.795325+00:00",
+  "timestamp": "2026-08-02T13:13:00.716021+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,19 +16,77 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 24.0,
+      "conditions": "Partly Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-08-02",
+          "max": 25.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-08-03",
+          "max": 27.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-08-04",
+          "max": 27.0,
+          "min": 14.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 24.0,
+      "conditions": "Partly Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-08-02",
+          "max": 26.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-08-03",
+          "max": 29.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-08-04",
+          "max": 30.0,
+          "min": 14.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 19.0,
+      "conditions": "Partly Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-08-02",
+          "max": 19.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-08-03",
+          "max": 23.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-08-04",
+          "max": 23.0,
+          "min": 13.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "05:27 AM",
+    "sunset": "09:03 PM",
+    "moon_phase": "Waning Gibbous",
+    "moon_illumination": "89",
+    "moonrise": "10:07 PM",
+    "moonset": "09:55 AM"
+  },
   "metrolink": null,
   "headlines": [
     "Meet the 'internet radical' who helped Microsoft get email and AT&T get online",
@@ -36,5 +94,5 @@
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
     "Enterprise cloud infrastructure uptake shows no sign of slowing"
   ],
-  "crew_quote": "\"Blimey, with no power and no weather, it's like we've reached a state of pure bliss — just me, a curry, and a never-ending game of 'guess the error message!'\""
+  "crew_quote": "\"With this kind of weather, I reckon it’s the perfect day for a curry — just don’t forget to activate those taste buds properly!\""
 }
