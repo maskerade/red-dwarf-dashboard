@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T10:06:57.868956+00:00",
+  "timestamp": "2026-08-02T10:38:11.741234+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
     "Enterprise cloud infrastructure uptake shows no sign of slowing"
   ],
-  "crew_quote": "\"I say, a lovely 18 degrees! Perfect for a pint and a curry, just as long as we don’t end up with an unexpected item in the bagging area!\""
+  "crew_quote": "\"Well, at least the weather's nice and partly cloudy — perfect for enjoying a curry and pretending this ship isn't a floating tin can!\""
 }
