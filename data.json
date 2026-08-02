@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T04:55:05.895425+00:00",
+  "timestamp": "2026-08-02T05:25:53.611679+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 10.0,
+      "conditions": "Partly Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-08-02",
+          "max": 25.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-08-03",
+          "max": 28.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-08-04",
+          "max": 27.0,
+          "min": 15.0
+        }
+      ]
     },
     "overseal": {
       "temp": 9.0,
@@ -64,11 +81,11 @@
   },
   "astronomy": {
     "sunrise": "05:27 AM",
-    "sunset": "08:58 PM",
+    "sunset": "09:03 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "89",
-    "moonrise": "10:05 PM",
-    "moonset": "09:52 AM"
+    "moonrise": "10:07 PM",
+    "moonset": "09:55 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -77,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"10 degrees and partly cloudy? Might as well be a tropical paradise! Just needs a curry and I’m set for a day of blissful lounging—unless, of course, I get zapped by that Windows error!\""
+  "crew_quote": "\"Blimey, it's 10°C and partly cloudy — perfect curry weather! Just don’t let any Nvidia errors ruin my meal prep, yeah?\""
 }
