@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T06:27:55.458335+00:00",
+  "timestamp": "2026-08-02T06:59:03.113142+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"With the weather being a balmy 13 degrees and partly cloudy, I reckon it’s perfect to enjoy a curry and a pint—unless, of course, we get stuck fixing that blasted Windows error!\""
+  "crew_quote": "\"Well, it’s a lovely 13°C out there, perfect for a stroll, unless you’ve got a Windows Activation error, then you might as well stay inside and order a curry!\""
 }
