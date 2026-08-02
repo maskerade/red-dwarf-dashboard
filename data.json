@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T05:56:53.937175+00:00",
+  "timestamp": "2026-08-02T06:27:55.458335+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
+      "temp": 13.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 9.0,
-      "conditions": "Clear ",
+      "temp": 12.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-02",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
+      "temp": 12.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"Did you see the weather? Perfect curry-eating temperature! Just the right excuse to whip up a tikka masala while the ship won't blow up!\""
+  "crew_quote": "\"With the weather being a balmy 13 degrees and partly cloudy, I reckon it’s perfect to enjoy a curry and a pint—unless, of course, we get stuck fixing that blasted Windows error!\""
 }
