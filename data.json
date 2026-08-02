@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T02:19:49.879307+00:00",
+  "timestamp": "2026-08-02T02:50:50.165566+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"With the weather this clear and mild, I could almost forget about that pesky Windows error—almost! Fancy a curry while we try to fix it, mate?\""
+  "crew_quote": "\"Well, with it all clear and 10 degrees, at least the weather’s better than that Windows Activation error — I'd rather face a curry than a tech meltdown!\""
 }
