@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T10:38:11.741234+00:00",
+  "timestamp": "2026-08-02T11:08:58.701940+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 22.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 22.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 19.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
     "Enterprise cloud infrastructure uptake shows no sign of slowing"
   ],
-  "crew_quote": "\"Well, at least the weather's nice and partly cloudy — perfect for enjoying a curry and pretending this ship isn't a floating tin can!\""
+  "crew_quote": "\"Blimey, with it being 22 degrees and partially cloudy, I could really go for a curry outdoors — just hope I don’t end up as an unexpected item on the menu!\""
 }
