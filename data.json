@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T05:25:53.611679+00:00",
+  "timestamp": "2026-08-02T05:56:53.937175+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"Blimey, it's 10°C and partly cloudy — perfect curry weather! Just don’t let any Nvidia errors ruin my meal prep, yeah?\""
+  "crew_quote": "\"Did you see the weather? Perfect curry-eating temperature! Just the right excuse to whip up a tikka masala while the ship won't blow up!\""
 }
