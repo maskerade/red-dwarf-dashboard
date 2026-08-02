@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T14:15:02.020996+00:00",
+  "timestamp": "2026-08-02T14:46:02.335033+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -26,55 +26,55 @@
         },
         {
           "date": "2026-08-03",
-          "max": 27.0,
-          "min": 15.0
+          "max": 29.0,
+          "min": 16.0
         },
         {
           "date": "2026-08-04",
-          "max": 27.0,
-          "min": 14.0
+          "max": 26.0,
+          "min": 15.0
         }
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 25.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-02",
-          "max": 26.0,
+          "max": 25.0,
           "min": 9.0
         },
         {
           "date": "2026-08-03",
-          "max": 29.0,
+          "max": 30.0,
           "min": 13.0
         },
         {
           "date": "2026-08-04",
-          "max": 30.0,
+          "max": 29.0,
           "min": 14.0
         }
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-02",
-          "max": 19.0,
+          "max": 20.0,
           "min": 10.0
         },
         {
           "date": "2026-08-03",
-          "max": 23.0,
-          "min": 13.0
+          "max": 25.0,
+          "min": 14.0
         },
         {
           "date": "2026-08-04",
-          "max": 23.0,
-          "min": 13.0
+          "max": 22.0,
+          "min": 15.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
     "Enterprise cloud infrastructure uptake shows no sign of slowing"
   ],
-  "crew_quote": "\"24 degrees and partly cloudy? That's perfect weather for a nice curry on the go, as long as the bagging area doesn’t throw in an unexpected item — like that blasted Activation error!\""
+  "crew_quote": "\"Ah, perfect weather for a curry, isn't it? Just remember to keep the windows open; we don't want the place smelling like a stale spaceship!\""
 }
