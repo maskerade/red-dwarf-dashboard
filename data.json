@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T19:56:08.073271+00:00",
+  "timestamp": "2026-08-02T20:27:08.128481+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
     "Enterprise cloud infrastructure uptake shows no sign of slowing"
   ],
-  "crew_quote": "\"You know it's so nice outside, I might just sit out in the sun with a curry and a can of lager — just me, the warm weather, and absolutely no existential dread!\""
+  "crew_quote": "\"Ah, a sunny day like this is perfect for a curry, but not too spicy—wouldn't want to sweat more than Rimmer trying to fix a Windows error!\""
 }
