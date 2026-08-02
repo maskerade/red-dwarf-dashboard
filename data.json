@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T02:50:50.165566+00:00",
+  "timestamp": "2026-08-02T03:21:51.688079+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 10.0,
-      "conditions": "Clear",
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-02",
@@ -27,7 +27,7 @@
         {
           "date": "2026-08-03",
           "max": 28.0,
-          "min": 16.0
+          "min": 15.0
         },
         {
           "date": "2026-08-04",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 9.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 13.0,
+      "conditions": "Clear",
       "forecast": [
         {
           "date": "2026-08-02",
@@ -47,18 +47,18 @@
         },
         {
           "date": "2026-08-03",
-          "max": 30.0,
-          "min": 14.0
+          "max": 29.0,
+          "min": 13.0
         },
         {
           "date": "2026-08-04",
-          "max": 30.0,
+          "max": 29.0,
           "min": 14.0
         }
       ]
     },
     "llandudno": {
-      "temp": 10.0,
+      "temp": 11.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-08-03",
-          "max": 25.0,
-          "min": 13.0
+          "max": 24.0,
+          "min": 14.0
         },
         {
           "date": "2026-08-04",
           "max": 23.0,
-          "min": 14.0
+          "min": 15.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Enterprise cloud infrastructure uptake shows no sign of slowing",
     "Dev who gave HashiCorp its name returns with a faster terminal multiplexer"
   ],
-  "crew_quote": "\"Well, with it all clear and 10 degrees, at least the weather’s better than that Windows Activation error — I'd rather face a curry than a tech meltdown!\""
+  "crew_quote": "\"So, it’s clear skies and temperatures more suited for a picnic than space travel—any one fancy a curry while we wait for the universe to sort itself out?\""
 }
