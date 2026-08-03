@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T03:10:15.262429+00:00",
+  "timestamp": "2026-08-03T03:41:16.255047+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Meta straps on a ‘Kick Me’ sign by mistakenly taking down video by India’s prime minister",
     "Meet the 'internet radical' who helped Microsoft get email and AT&T get online",
     "Unexpected item in the bagging area as Windows Activation error pops up at check-in",
-    "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
-    "Enterprise cloud infrastructure uptake shows no sign of slowing"
+    "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it"
   ],
-  "crew_quote": "\"16 degrees and partly cloudy? Blimey, that's practically tropical! I might just take a break from my curry binge and actually step outside for a change!\""
+  "crew_quote": "\"16 degrees and partly cloudy? Perfect curry-eating weather, if you ask me! Just need to avoid the 'kick me' signs, eh?\""
 }
