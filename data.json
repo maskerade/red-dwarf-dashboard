@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T16:36:29.722556+00:00",
+  "timestamp": "2026-08-03T17:07:30.171597+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 30.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 27.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 30.0,
-      "conditions": "Sunny",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 23.0,
-      "conditions": "Sunny",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Russian spies turn public Wi-Fi into malware delivery systems",
     "MediaTek lines up $5B war chest for AI datacenter push",
     "Police National Legal Database confirms data theft after dark web leak",
-    "NASA boss balks at billion-dollar estimate for recycled Moon rover",
-    "Water system cyberattacks spread to Georgia, Michigan amid US-Iran conflict"
+    "NASA boss balks at billion-dollar estimate for recycled Moon rover"
   ],
-  "crew_quote": "\"Blimey, if it gets any hotter, I’ll need a curry-flavored ice bath just to survive! Who's up for a takeaway?\""
+  "crew_quote": "\"Blimey, at 30 degrees I thought I was melting like a dodgy curry left out in the sun! And what's with the Wi-Fi turning nasty? Can't a bloke stream his favorite shows in peace?\""
 }
