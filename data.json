@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T02:39:14.741579+00:00",
+  "timestamp": "2026-08-03T03:10:15.262429+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,28 +16,28 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-03",
-          "max": 29.0,
+          "max": 30.0,
           "min": 16.0
         },
         {
           "date": "2026-08-04",
           "max": 28.0,
-          "min": 15.0
+          "min": 16.0
         },
         {
           "date": "2026-08-05",
-          "max": 19.0,
-          "min": 13.0
+          "max": 21.0,
+          "min": 15.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -48,33 +48,33 @@
         {
           "date": "2026-08-04",
           "max": 29.0,
-          "min": 14.0
+          "min": 15.0
         },
         {
           "date": "2026-08-05",
           "max": 22.0,
-          "min": 14.0
+          "min": 15.0
         }
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-03",
           "max": 25.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-08-04",
-          "max": 23.0,
+          "max": 22.0,
           "min": 14.0
         },
         {
           "date": "2026-08-05",
-          "max": 17.0,
-          "min": 14.0
+          "max": 19.0,
+          "min": 15.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
     "Enterprise cloud infrastructure uptake shows no sign of slowing"
   ],
-  "crew_quote": "\"Right, so it's 17 degrees and partly cloudy? Perfect weather for a curry binge! I could really go for a vindaloo right now, maybe with a side of, I dunno, 'not being in space'!\""
+  "crew_quote": "\"16 degrees and partly cloudy? Blimey, that's practically tropical! I might just take a break from my curry binge and actually step outside for a change!\""
 }
