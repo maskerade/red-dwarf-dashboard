@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T07:18:19.755691+00:00",
+  "timestamp": "2026-08-03T07:49:20.548249+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,28 +16,28 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-03",
-          "max": 30.0,
-          "min": 16.0
+          "max": 29.0,
+          "min": 17.0
         },
         {
           "date": "2026-08-04",
-          "max": 28.0,
-          "min": 16.0
+          "max": 27.0,
+          "min": 15.0
         },
         {
           "date": "2026-08-05",
-          "max": 21.0,
-          "min": 15.0
+          "max": 20.0,
+          "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -48,23 +48,23 @@
         {
           "date": "2026-08-04",
           "max": 29.0,
-          "min": 15.0
+          "min": 14.0
         },
         {
           "date": "2026-08-05",
-          "max": 22.0,
-          "min": 15.0
+          "max": 23.0,
+          "min": 14.0
         }
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 17.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-03",
-          "max": 25.0,
-          "min": 13.0
+          "max": 24.0,
+          "min": 14.0
         },
         {
           "date": "2026-08-04",
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-08-05",
-          "max": 19.0,
-          "min": 15.0
+          "max": 17.0,
+          "min": 14.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Microsoft says 8GB of RAM should be enough for anyone running Windows 11",
     "Meta straps on a ‘Kick Me’ sign by mistakenly taking down video by India’s prime minister"
   ],
-  "crew_quote": "\"Ah, 17 degrees in Altrincham? That's perfect curry weather! Just don’t let the IT boss near it; he’ll probably try to fry it with his open root session!\""
+  "crew_quote": "\"What a lovely day for a curry, though I can't decide if the real crime is that IT boss leaving sessions open or all this sunshine distracting me from my beauty routine!\""
 }
