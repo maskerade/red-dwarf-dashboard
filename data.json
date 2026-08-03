@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T18:09:31.649741+00:00",
+  "timestamp": "2026-08-03T18:40:31.853996+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 30.0,
-      "conditions": "Cloudy ",
+      "temp": 26.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Patchy light drizzle",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -94,5 +94,5 @@
     "Police National Legal Database confirms data theft after dark web leak",
     "NASA boss balks at billion-dollar estimate for recycled Moon rover"
   ],
-  "crew_quote": "\"Twenty-seven degrees in Altrincham! Perfect curry weather, but with all those Russian spies lurking about, I'll just stick to a takeaway. Can't trust a Wi-Fi that serves malware with my vindaloo!\""
+  "crew_quote": "\"Looks like Altrincham's got it made with a sunny 25°C, but I'd still trade it for a curry and a good pint any day—nothing beats that!\""
 }
