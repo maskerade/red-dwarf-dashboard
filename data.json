@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T02:08:14.214160+00:00",
+  "timestamp": "2026-08-03T02:39:14.741579+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
     "Enterprise cloud infrastructure uptake shows no sign of slowing"
   ],
-  "crew_quote": "\"Looks like it’s partly cloudy out there, which is brilliant, really. I mean, that’s just the weather being a bit indecisive, like me deciding on a curry!”"
+  "crew_quote": "\"Right, so it's 17 degrees and partly cloudy? Perfect weather for a curry binge! I could really go for a vindaloo right now, maybe with a side of, I dunno, 'not being in space'!\""
 }
