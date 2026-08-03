@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T15:03:28.035321+00:00",
+  "timestamp": "2026-08-03T15:34:28.369077+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,12 +16,12 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 28.0,
-      "conditions": "Sunny",
+      "temp": 30.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-03",
-          "max": 29.0,
+          "max": 30.0,
           "min": 17.0
         },
         {
@@ -32,38 +32,38 @@
         {
           "date": "2026-08-05",
           "max": 20.0,
-          "min": 13.0
+          "min": 14.0
         }
       ]
     },
     "overseal": {
-      "temp": 28.0,
+      "temp": 30.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-03",
-          "max": 30.0,
+          "max": 31.0,
           "min": 13.0
         },
         {
           "date": "2026-08-04",
-          "max": 29.0,
-          "min": 14.0
+          "max": 30.0,
+          "min": 15.0
         },
         {
           "date": "2026-08-05",
-          "max": 23.0,
+          "max": 21.0,
           "min": 14.0
         }
       ]
     },
     "llandudno": {
-      "temp": 24.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 23.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-03",
-          "max": 24.0,
+          "max": 25.0,
           "min": 14.0
         },
         {
@@ -94,5 +94,5 @@
     "NASA boss balks at billion-dollar estimate for recycled Moon rover",
     "Water system cyberattacks spread to Georgia, Michigan amid US-Iran conflict"
   ],
-  "crew_quote": "\"Blimey, with it this warm, I could fry an egg on my head! Just hope the AI datacenters don’t start plotting against my curry plans.\""
+  "crew_quote": "\"30 degrees and partly cloudy? Smashing! Perfect weather for a nice curry, unless you’re a police database with a leak, then it’s just a total meltdown!\""
 }
