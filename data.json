@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T06:16:18.652343+00:00",
+  "timestamp": "2026-08-03T06:47:19.510263+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "IT boss left root session open for bring-your-kid-to-work day",
+    "Microsoft says 8GB of RAM should be enough for anyone running Windows 11",
     "Meta straps on a ‘Kick Me’ sign by mistakenly taking down video by India’s prime minister",
-    "Meet the 'internet radical' who helped Microsoft get email and AT&T get online",
-    "Unexpected item in the bagging area as Windows Activation error pops up at check-in",
-    "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it"
+    "Meet the 'internet radical' who helped Microsoft get email and AT&T get online"
   ],
-  "crew_quote": "\"Sunny weather and a ‘Kick Me’ sign? Sounds like my kind of day! Just need a curry and I’d be living the dream, mate!\""
+  "crew_quote": "\"I'm telling you, with this sunny weather, it's practically begging for a curry picnic! Who needs a computer when you've got 17 degrees of perfection?\""
 }
