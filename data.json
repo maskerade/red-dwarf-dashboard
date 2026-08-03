@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T22:17:35.836570+00:00",
+  "timestamp": "2026-08-03T22:48:36.022231+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Google dev kit spurs first-ever agent-on-agent violence",
     "AI slop pollutes the CVE pipeline with fake vulns",
     "Russian spies turn public Wi-Fi into malware delivery systems",
-    "MediaTek lines up $5B war chest for AI datacenter push",
-    "Police National Legal Database confirms data theft after dark web leak"
+    "MediaTek lines up $5B war chest for AI datacenter push"
   ],
-  "crew_quote": "\"With the weather being 20 degrees and partly cloudy, I reckon a nice curry would really spice up the day—unless the Russian spies are delivering malware with it!\""
+  "crew_quote": "\"20 degrees and partly cloudy? Perfect weather for a nice curry! Just don’t ask me to step outside for it, I’ve got a reputation to maintain.\""
 }
