@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T05:45:18.451811+00:00",
+  "timestamp": "2026-08-03T06:16:18.652343+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 17.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Clear ",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Unexpected item in the bagging area as Windows Activation error pops up at check-in",
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it"
   ],
-  "crew_quote": "\"With weather like this, I'm almost tempted to go outside, but then again, I’ve got a curry waiting for me. Priorities!\""
+  "crew_quote": "\"Sunny weather and a ‘Kick Me’ sign? Sounds like my kind of day! Just need a curry and I’d be living the dream, mate!\""
 }
