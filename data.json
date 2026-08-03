@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T13:30:26.281210+00:00",
+  "timestamp": "2026-08-03T14:01:26.892979+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
+      "temp": 28.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 28.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 24.0,
-      "conditions": "Sunny",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Water system cyberattacks spread to Georgia, Michigan amid US-Iran conflict",
     "Google Earth's AI makeover survives one trip around the Sun",
     "The AI bubble is already popping; we just don't know it yet",
-    "UK government investment arm cops to 40-hour leak of officials' contact details",
-    "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft"
+    "UK government investment arm cops to 40-hour leak of officials' contact details"
   ],
-  "crew_quote": "\"With temperatures hotter than my last curry, I reckon it's time to sunbathe in the garden—just hope the AI doesn't forget I exist while I’m working on my tan!\""
+  "crew_quote": "\"With temperatures soaring like a curry in a microwave, I reckon if the sun keeps this up, we'll be able to fry an egg on the dashboard!\""
 }
