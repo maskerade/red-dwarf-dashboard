@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T01:06:14.036329+00:00",
+  "timestamp": "2026-08-03T01:37:13.881322+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 17.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 16.0,
-      "conditions": "Clear",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -94,5 +94,5 @@
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
     "Enterprise cloud infrastructure uptake shows no sign of slowing"
   ],
-  "crew_quote": "\"Well, it’s a clear day outside, makes me want to whip up a nice curry and stare at the clouds—until I realize they're just what I’d look like after a few pints!\""
+  "crew_quote": "\"Ah, it’s a lovely 17 degrees out there! Perfect weather for a curry... and a nice long nap in the sunshine, if I can avoid that blasted Windows Activation error!\""
 }
