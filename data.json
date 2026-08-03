@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T12:28:25.420514+00:00",
+  "timestamp": "2026-08-03T12:59:25.776089+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Google Earth's AI makeover survives one trip around the Sun",
     "The AI bubble is already popping; we just don't know it yet",
     "UK government investment arm cops to 40-hour leak of officials' contact details",
-    "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
-    "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK"
+    "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft"
   ],
-  "crew_quote": "\"Can't believe it’s 27 degrees out there—perfect weather for a curry! Just don't ask Rimmer for the recipe; the only thing he’s seasoned is his ego!\""
+  "crew_quote": "\"Blimey, it’s so sunny out! I might just whip up a curry, sit by the window, and watch the world think it's smarter than Google Earth. What a laugh!\""
 }
