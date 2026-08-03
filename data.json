@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T10:24:23.449391+00:00",
+  "timestamp": "2026-08-03T10:55:23.862563+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
     "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
     "Claude Code is revolutionizing digital archaeology. Enterprise better dig it",
-    "AI is 'both the weapon and the target' in latest wave of cyberattacks",
-    "IT boss left root session open for bring-your-kid-to-work day"
+    "AI is 'both the weapon and the target' in latest wave of cyberattacks"
   ],
-  "crew_quote": "\"22 degrees and sunny? Perfect weather for a nice curry! Just don’t let Rimmer near the cooking—his idea of spice is asking for extra salt!\""
+  "crew_quote": "\"Beautiful day outside! Just like my last curry — hot, sunny, and just a bit too much for Rimmer to handle!\""
 }
