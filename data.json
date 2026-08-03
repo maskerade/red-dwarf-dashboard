@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T04:12:16.461868+00:00",
+  "timestamp": "2026-08-03T04:43:17.199309+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 13.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 13.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Unexpected item in the bagging area as Windows Activation error pops up at check-in",
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it"
   ],
-  "crew_quote": "\"Ah, it's a lovely 16°C out there, perfect curry weather! Just don’t forget to keep an eye out for any rogue video takedowns while you’re at it!\""
+  "crew_quote": "\"You know, in Altrincham it's a lovely 16 degrees; perfect weather for a nice curry… if only I had a bloody chef to cook it!\""
 }
