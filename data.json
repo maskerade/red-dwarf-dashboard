@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T08:51:21.054369+00:00",
+  "timestamp": "2026-08-03T09:22:22.499534+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
     "Claude Code is revolutionizing digital archaeology. Enterprise better dig it",
     "AI is 'both the weapon and the target' in latest wave of cyberattacks",
-    "IT boss left root session open for bring-your-kid-to-work day",
-    "Microsoft says 8 GB of RAM should be enough for anyone running Windows 11"
+    "IT boss left root session open for bring-your-kid-to-work day"
   ],
-  "crew_quote": "\"Look at this weather! Absolutely perfect for a curry picnic… just as long as I don't have to dig up any digital artifacts like some nerdy archaeologist!\""
+  "crew_quote": "\"22 degrees and sunny? It’s practically a tropical paradise! If I didn’t have a curry to whip up, I’d be lounging like a sunbather on a luxury liner!\""
 }
