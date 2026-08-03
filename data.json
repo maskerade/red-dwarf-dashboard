@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T23:33:11.828270+00:00",
+  "timestamp": "2026-08-03T00:04:12.467915+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-08-02",
-          "max": 24.0,
-          "min": 10.0
-        },
         {
           "date": "2026-08-03",
           "max": 29.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-04",
           "max": 28.0,
           "min": 15.0
+        },
+        {
+          "date": "2026-08-05",
+          "max": 19.0,
+          "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 16.0,
+      "conditions": "Clear",
       "forecast": [
-        {
-          "date": "2026-08-02",
-          "max": 25.0,
-          "min": 9.0
-        },
         {
           "date": "2026-08-03",
           "max": 30.0,
@@ -54,18 +49,18 @@
           "date": "2026-08-04",
           "max": 29.0,
           "min": 14.0
+        },
+        {
+          "date": "2026-08-05",
+          "max": 22.0,
+          "min": 14.0
         }
       ]
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
-        {
-          "date": "2026-08-02",
-          "max": 20.0,
-          "min": 10.0
-        },
         {
           "date": "2026-08-03",
           "max": 25.0,
@@ -75,17 +70,22 @@
           "date": "2026-08-04",
           "max": 23.0,
           "min": 14.0
+        },
+        {
+          "date": "2026-08-05",
+          "max": 17.0,
+          "min": 14.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:27 AM",
-    "sunset": "09:03 PM",
+    "sunrise": "05:29 AM",
+    "sunset": "09:01 PM",
     "moon_phase": "Waning Gibbous",
-    "moon_illumination": "89",
-    "moonrise": "10:07 PM",
-    "moonset": "09:55 AM"
+    "moon_illumination": "81",
+    "moonrise": "10:17 PM",
+    "moonset": "11:14 AM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it",
     "Enterprise cloud infrastructure uptake shows no sign of slowing"
   ],
-  "crew_quote": "\"With the weather all clear and a lovely 18°C, I reckon a curry's on the menu tonight, mate — perfect weather to spice things up a bit!\""
+  "crew_quote": "\"With the weather this nice, I should be out sunbathing instead of filling in paperwork—unless that unexpected item in the bagging area is a curry, then I’m definitely busy!\""
 }
