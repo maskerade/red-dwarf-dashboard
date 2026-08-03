@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T03:41:16.255047+00:00",
+  "timestamp": "2026-08-03T04:12:16.461868+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Unexpected item in the bagging area as Windows Activation error pops up at check-in",
     "A deep dive into Nvidia's Vera CPU and the Olympus cores that power it"
   ],
-  "crew_quote": "\"16 degrees and partly cloudy? Perfect curry-eating weather, if you ask me! Just need to avoid the 'kick me' signs, eh?\""
+  "crew_quote": "\"Ah, it's a lovely 16°C out there, perfect curry weather! Just don’t forget to keep an eye out for any rogue video takedowns while you’re at it!\""
 }
