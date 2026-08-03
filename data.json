@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T10:55:23.862563+00:00",
+  "timestamp": "2026-08-03T11:26:24.212641+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "UK government investment arm cops to 40-hour leak of officials' contact details",
     "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
     "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
-    "Claude Code is revolutionizing digital archaeology. Enterprise better dig it",
-    "AI is 'both the weapon and the target' in latest wave of cyberattacks"
+    "Claude Code is revolutionizing digital archaeology. Enterprise better dig it"
   ],
-  "crew_quote": "\"Beautiful day outside! Just like my last curry — hot, sunny, and just a bit too much for Rimmer to handle!\""
+  "crew_quote": "\"Blimey, with it being 25 degrees and sunny, I can almost smell a curry cooking in the air—though I reckon it'd be too hot to eat out here!\""
 }
