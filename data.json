@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T19:42:32.814424+00:00",
+  "timestamp": "2026-08-03T20:13:33.480900+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
-      "conditions": "Sunny",
+      "temp": 22.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 26.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 22.0,
+      "conditions": "Clear",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Patchy light drizzle",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -94,5 +94,5 @@
     "MediaTek lines up $5B war chest for AI datacenter push",
     "Police National Legal Database confirms data theft after dark web leak"
   ],
-  "crew_quote": "\"Ah, lovely sunny weather, just perfect for a nice curry — though I wouldn't trust any public Wi-Fi for a delivery, what with those Russian spies lurking about!\""
+  "crew_quote": "\"Well, while it's a balmy 22 degrees in Altrincham, I wouldn't trust the weather as much as I trust that dodgy curry from the vending machine—still gives me nightmares!\""
 }
