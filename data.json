@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T11:57:24.757686+00:00",
+  "timestamp": "2026-08-03T12:28:25.420514+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Sunny",
+      "temp": 28.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-03",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
     "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK"
   ],
-  "crew_quote": "\"Blimey, it's so sunny out, even the curry's sweating! I reckon we could fry an egg on the hull — just as long as it doesn't end up like that AI bubble!\""
+  "crew_quote": "\"Can't believe it’s 27 degrees out there—perfect weather for a curry! Just don't ask Rimmer for the recipe; the only thing he’s seasoned is his ego!\""
 }
