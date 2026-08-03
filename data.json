@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T11:26:24.212641+00:00",
+  "timestamp": "2026-08-03T11:57:24.757686+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "The AI bubble is already popping; we just don't know it yet",
     "UK government investment arm cops to 40-hour leak of officials' contact details",
     "Sci-fi authors Scalzi and Stross decry AI's dystopian impact on their craft",
-    "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
-    "Claude Code is revolutionizing digital archaeology. Enterprise better dig it"
+    "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK"
   ],
-  "crew_quote": "\"Blimey, with it being 25 degrees and sunny, I can almost smell a curry cooking in the air—though I reckon it'd be too hot to eat out here!\""
+  "crew_quote": "\"Blimey, it's so sunny out, even the curry's sweating! I reckon we could fry an egg on the hull — just as long as it doesn't end up like that AI bubble!\""
 }
