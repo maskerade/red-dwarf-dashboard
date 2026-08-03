@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-03T08:20:20.627920+00:00",
+  "timestamp": "2026-08-03T08:51:21.054369+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Claude Code is revolutionizing digital archaeology. Enterprise better dig it",
     "AI is 'both the weapon and the target' in latest wave of cyberattacks",
     "IT boss left root session open for bring-your-kid-to-work day",
-    "Microsoft says 8 GB of RAM should be enough for anyone running Windows 11",
-    "Meta straps on a ‘Kick Me’ sign by mistakenly taking down video by India’s prime minister"
+    "Microsoft says 8 GB of RAM should be enough for anyone running Windows 11"
   ],
-  "crew_quote": "\"Twenty degrees and sunny? That’s practically tropical! I might even treat myself to a curry today, if I can find one that’s not been hacked by AI!\""
+  "crew_quote": "\"Look at this weather! Absolutely perfect for a curry picnic… just as long as I don't have to dig up any digital artifacts like some nerdy archaeologist!\""
 }
