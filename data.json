@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T17:24:56.264503+00:00",
+  "timestamp": "2026-08-04T17:55:56.320252+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 26.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 25.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 26.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 27.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -94,5 +94,5 @@
     "Feds get 3 days to patch N-able God mode flaw under active exploit",
     "NVMe polishes its specs, brings virtualization to locally attached SSDs"
   ],
-  "crew_quote": "\"With the weather a toasty 26°C, I reckon a nice curry would be perfect, but I can't help but think the weather's got better AI than that script kiddie!\""
+  "crew_quote": "\"Is it just me, or is the weather out there more mixed than my last curry? I mean, one minute it’s sizzling at 27°C, and the next, it’s patchy rain — what’s that all about?\""
 }
