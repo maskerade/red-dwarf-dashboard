@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T16:53:55.855111+00:00",
+  "timestamp": "2026-08-04T17:24:56.264503+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Bypassing AI guardrails is so easy a script kiddie can do it",
+    "This one time, at Hacker Summer Camp …",
     "Feds get 3 days to patch N-able God mode flaw under active exploit",
-    "NVMe polishes its specs, brings virtualization to locally attached SSDs",
-    "AI helps Microsoft bug hunters chase a record $20M payday",
-    "Cloud giants pour nearly $600B into capex as AI demand surges"
+    "NVMe polishes its specs, brings virtualization to locally attached SSDs"
   ],
-  "crew_quote": "\"With it being 26 degrees and partly cloudy, I’d say it’s the perfect weather for a nice cold curry… if I could just remember where I put the takeout menu!\""
+  "crew_quote": "\"With the weather a toasty 26°C, I reckon a nice curry would be perfect, but I can't help but think the weather's got better AI than that script kiddie!\""
 }
