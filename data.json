@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T09:39:47.891317+00:00",
+  "timestamp": "2026-08-04T10:10:48.553195+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 26.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Mist",
+      "temp": 18.0,
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -94,5 +94,5 @@
     "Cloudflare has mostly ditched third party security tools, suggests not trying that at home",
     "China claims global chip leadership thanks to new legal definition of 'integrated circuits'"
   ],
-  "crew_quote": "\"With it all cloudy and misty out there, I reckon it's the perfect day for a curry! At least it’ll hide my terrible cooking from the judgmental weather.\""
+  "crew_quote": "\"Well, at least it’s warmer than the last curry I had; can’t believe I’m missing out on the sunshine just because I’m stuck in a rusty old ship!\""
 }
