@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T02:25:40.259195+00:00",
+  "timestamp": "2026-08-04T02:56:40.977759+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "China claims global chip leadership thanks to new legal definition of 'integrated circuits'",
     "China turns up the heat with open model blitz as US model makers panic",
     "Google dev kit spurs first-ever agent-on-agent violence",
-    "AI slop pollutes the CVE pipeline with fake vulns",
-    "Russian spies turn public Wi-Fi into malware delivery systems"
+    "AI slop pollutes the CVE pipeline with fake vulns"
   ],
-  "crew_quote": "\"With the weather this nice, it’s a shame I can’t fry up a curry in a patch of rain; I’d really be living the dream then!\""
+  "crew_quote": "\"When it's 17 degrees and partly cloudy, all I want is a curry and some time off—too bad our ship's got more patches than the weather!\""
 }
