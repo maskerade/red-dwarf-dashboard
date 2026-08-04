@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T05:00:43.081714+00:00",
+  "timestamp": "2026-08-04T05:31:43.706989+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Clear",
+      "temp": 18.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -94,5 +94,5 @@
     "China turns up the heat with open model blitz as US model makers panic",
     "Google dev kit spurs first-ever agent-on-agent violence"
   ],
-  "crew_quote": "\"With this patchy rain, it’s the perfect day for a curry, just like in Llandudno. Nothing pairs better than a bit of drizzle and a good vindaloo!\""
+  "crew_quote": "\"With all this light rain in Llandudno, I’m just glad we’re not eating a curry in a soggy tent — that would be just dreadful, wouldn’t it?\""
 }
