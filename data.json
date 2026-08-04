@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T08:06:46.187686+00:00",
+  "timestamp": "2026-08-04T08:37:46.633967+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,12 +16,12 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 21.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-04",
-          "max": 27.0,
+          "max": 28.0,
           "min": 16.0
         },
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Sunny",
+      "temp": 22.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": 17.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -94,5 +94,5 @@
     "Cloudflare has mostly ditched third party security tools, suggests not trying that at home",
     "China claims global chip leadership thanks to new legal definition of 'integrated circuits'"
   ],
-  "crew_quote": "\"Oi, it's 20 degrees out there and patchy rain! Perfect day for a pint and a curry — just think of the lovely soggy naan!\""
+  "crew_quote": "\"21 degrees and cloudy? Sounds perfect for a curry, provided we don't end up stuck in a misty Llandudno waiting for some dodgy Cybertruck to pick us up!\""
 }
