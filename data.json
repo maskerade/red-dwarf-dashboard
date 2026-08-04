@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T04:29:42.845605+00:00",
+  "timestamp": "2026-08-04T05:00:43.081714+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Cloudflare has mostly ditched third party security tools, suggests not trying that at home",
     "China claims global chip leadership thanks to new legal definition of 'integrated circuits'",
     "China turns up the heat with open model blitz as US model makers panic",
-    "Google dev kit spurs first-ever agent-on-agent violence",
-    "AI slop pollutes the CVE pipeline with fake vulns"
+    "Google dev kit spurs first-ever agent-on-agent violence"
   ],
-  "crew_quote": "\"Well, with all this patchy rain, I reckon my curry's got a better chance of making it to the table than anyone's chance of staying dry!\""
+  "crew_quote": "\"With this patchy rain, it’s the perfect day for a curry, just like in Llandudno. Nothing pairs better than a bit of drizzle and a good vindaloo!\""
 }
