@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T11:12:49.582748+00:00",
+  "timestamp": "2026-08-04T11:43:50.426251+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
-      "conditions": "Cloudy ",
+      "temp": 25.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 26.0,
-      "conditions": "Cloudy ",
+      "temp": 27.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Light drizzle",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "CAF Bank reopens online service but warns of further outages",
     "UK mulls making employers ask before installing bossware",
     "NASA puts astronauts’ lives in the hands of Tesla’s flaky Cybertruck",
-    "Cloudflare has mostly ditched third party security tools, suggests not trying that at home",
-    "China claims global chip leadership thanks to new legal definition of 'integrated circuits'"
+    "Cloudflare has mostly ditched third party security tools, suggests not trying that at home"
   ],
-  "crew_quote": "\"With all this drizzle, I reckon even the Cybertruck would struggle to look cool. But hey, at least it's a good day for a curry indoors!\""
+  "crew_quote": "\"Oi, it’s 25 degrees out there, perfect for a curry in the sun! Just don’t let the rain follow us like Rimmer follows a pointlessly tedious rule!\""
 }
