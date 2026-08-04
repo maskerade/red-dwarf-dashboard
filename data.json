@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T07:04:45.028386+00:00",
+  "timestamp": "2026-08-04T07:35:45.625483+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "UK mulls making employers ask before installing bossware",
+    "NASA puts astronauts’ lives in the hands of Tesla’s flaky Cybertruck",
     "Cloudflare has mostly ditched third party security tools, suggests not trying that at home",
-    "China claims global chip leadership thanks to new legal definition of 'integrated circuits'",
-    "China turns up the heat with open model blitz as US model makers panic",
-    "Google dev kit spurs first-ever agent-on-agent violence"
+    "China claims global chip leadership thanks to new legal definition of 'integrated circuits'"
   ],
-  "crew_quote": "\"With all this patchy rain and overcast skies, I reckon it's about time we cracked open a curry, eh? Nothing like a dodgy takeaway to brighten up a gloomy day!\""
+  "crew_quote": "\"Ah, it's a lovely 20 degrees outside, just perfect for a nice curry — though with this bossware nonsense, I might have to sneak my vindaloo in like a proper criminal!\""
 }
