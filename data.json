@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T01:54:39.573949+00:00",
+  "timestamp": "2026-08-04T02:25:40.259195+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,12 +16,12 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-04",
-          "max": 28.0,
+          "max": 27.0,
           "min": 16.0
         },
         {
@@ -31,14 +31,14 @@
         },
         {
           "date": "2026-08-06",
-          "max": 18.0,
+          "max": 19.0,
           "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -58,17 +58,17 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-04",
-          "max": 22.0,
+          "max": 23.0,
           "min": 14.0
         },
         {
           "date": "2026-08-05",
-          "max": 18.0,
+          "max": 17.0,
           "min": 13.0
         },
         {
@@ -94,5 +94,5 @@
     "AI slop pollutes the CVE pipeline with fake vulns",
     "Russian spies turn public Wi-Fi into malware delivery systems"
   ],
-  "crew_quote": "\"Weather's a bit patchy, innit? Sounds like a perfect day for a curry, as long as I don't have to share it with Rimmer's latest fiasco!\""
+  "crew_quote": "\"With the weather this nice, it’s a shame I can’t fry up a curry in a patch of rain; I’d really be living the dream then!\""
 }
