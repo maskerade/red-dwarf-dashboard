@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T03:27:41.486827+00:00",
+  "timestamp": "2026-08-04T03:58:42.467196+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Clear",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -48,7 +48,7 @@
         {
           "date": "2026-08-05",
           "max": 21.0,
-          "min": 13.0
+          "min": 14.0
         },
         {
           "date": "2026-08-06",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Google dev kit spurs first-ever agent-on-agent violence",
     "AI slop pollutes the CVE pipeline with fake vulns"
   ],
-  "crew_quote": "\"Oi, with this patchy rain near Llandudno, I hope the curry's not gonna turn into a soggy mess! I'd rather have a storm in me gut than on me plate!\""
+  "crew_quote": "\"16 degrees and patchy rain, eh? Sounds like the perfect day for a curry — just what I need to spice up this dreary life aboard the ship!\""
 }
