@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T18:57:57.288767+00:00",
+  "timestamp": "2026-08-04T19:28:58.712810+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 23.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 27.0,
+      "temp": 25.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
+      "temp": 19.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Feds get 3 days to patch N-able God mode flaw under active exploit",
     "NVMe polishes its specs, brings virtualization to locally attached SSDs"
   ],
-  "crew_quote": "\"With temperatures soaring like my charisma, I say we need to cool off with a curry — but maybe not in Altrincham, unless you fancy a spot of rain!\""
+  "crew_quote": "\"23°C and patchy rain? That’s just the universe’s way of saying, 'How about a nice curry while we wait for the sun to show up?'\""
 }
