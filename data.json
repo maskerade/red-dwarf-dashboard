@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T20:30:58.992045+00:00",
+  "timestamp": "2026-08-04T21:02:00.318458+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
+      "temp": 21.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 22.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -52,14 +52,14 @@
         },
         {
           "date": "2026-08-06",
-          "max": 20.0,
+          "max": 21.0,
           "min": 10.0
         }
       ]
     },
     "llandudno": {
-      "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 17.0,
+      "conditions": "Clear",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -94,5 +94,5 @@
     "Feds get 3 days to patch N-able God mode flaw under active exploit",
     "NVMe polishes its specs, brings virtualization to locally attached SSDs"
   ],
-  "crew_quote": "\"Ah, look at the weather! Perfect curry conditions, just a sprinkle of patchy rain to keep it interesting—like my love life!\""
+  "crew_quote": "\"Looks like it’s a bit clear in Overseal—perfect weather for a curry run, but I hope no one’s bypassing the guardrails on the way, eh?\""
 }
