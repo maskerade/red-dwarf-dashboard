@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T12:45:51.073372+00:00",
+  "timestamp": "2026-08-04T13:16:51.940943+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 25.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 27.0,
+      "temp": 29.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 20.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Cloud giants pour nearly $600B into capex as AI demand surges",
     "Tennessee congressional hopeful accused of shooting license plate cameras",
     "CAF Bank reopens online service but warns of further outages",
-    "UK mulls making employers ask before installing bossware",
-    "NASA puts astronauts’ lives in the hands of Tesla’s flaky Cybertruck"
+    "UK mulls making employers ask before installing bossware"
   ],
-  "crew_quote": "\"Well, it's 27°C in Overseal, so I reckon my curry's about to reach new heights of culinary brilliance—just like my confidence! Now, where's my frying pan?\""
+  "crew_quote": "\"Did you see that? Just like the weather in Altrincham, I’m feeling 25 degrees of fantastic! Now, where's my curry? I could use a bit of spice to match this vibe!\""
 }
