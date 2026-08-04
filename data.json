@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T22:04:01.191953+00:00",
+  "timestamp": "2026-08-04T22:35:01.824117+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
+      "temp": 17.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 19.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Clear",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-04",
@@ -94,5 +94,5 @@
     "Next.js 16.3 aims to reduce dreaded FATAL ERROR messages",
     "Bypassing AI guardrails is so easy a script kiddie can do it"
   ],
-  "crew_quote": "\"Looks like it's a clear day out there, a perfect time for a curry picnic—oh wait, is that rain sneaking in? Typical!\""
+  "crew_quote": "\"Honestly, with the weather being as patchy as a dodgy curry, I reckon we should just stay inside and let the machines do the thinking. Who needs rain when you've got chips?\""
 }
