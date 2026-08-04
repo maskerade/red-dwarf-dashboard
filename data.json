@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T21:02:00.318458+00:00",
+  "timestamp": "2026-08-04T21:33:00.887778+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Bypassing AI guardrails is so easy a script kiddie can do it",
-    "This one time, at Hacker Summer Camp …",
-    "Feds get 3 days to patch N-able God mode flaw under active exploit",
-    "NVMe polishes its specs, brings virtualization to locally attached SSDs"
+    "Dev proves LLMs will run on anything – even a $10 microcontroller",
+    "OpenAI wants teachers and profs to foist their work off on ChatGPT",
+    "Next.js 16.3 aims to reduce dreaded FATAL ERROR messages",
+    "Bypassing AI guardrails is so easy a script kiddie can do it"
   ],
-  "crew_quote": "\"Looks like it’s a bit clear in Overseal—perfect weather for a curry run, but I hope no one’s bypassing the guardrails on the way, eh?\""
+  "crew_quote": "\"Feels like a right heatwave today, doesn’t it? I reckon I could do with a curry to celebrate, but then again, that would just add to my 'natural humidity'!\""
 }
