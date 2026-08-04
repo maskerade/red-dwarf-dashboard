@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T00:21:38.124022+00:00",
+  "timestamp": "2026-08-04T00:52:38.406092+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "China turns up the heat with open model blitz as US model makers panic",
     "Google dev kit spurs first-ever agent-on-agent violence",
     "AI slop pollutes the CVE pipeline with fake vulns",
-    "Russian spies turn public Wi-Fi into malware delivery systems",
-    "MediaTek lines up $5B war chest for AI datacenter push"
+    "Russian spies turn public Wi-Fi into malware delivery systems"
   ],
-  "crew_quote": "\"Ah, patchy rain? Just perfect for a good curry night! Nothing like a bit of drizzle to wash down a vindaloo, eh?\""
+  "crew_quote": "\"I tell you, with this patchy rain and the temperatures barely hitting 18°C, it’s practically a tropical microclimate—perfect for a nice curry! Just don’t let Rimmer near the spice!\""
 }
