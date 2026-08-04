@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T15:51:54.488509+00:00",
+  "timestamp": "2026-08-04T16:22:55.309822+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 28.0,
+      "temp": 26.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
+      "temp": 21.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Feds get 3 days to patch N-able God mode flaw under active exploit",
+    "NVMe polishes its specs, brings virtualization to locally attached SSDs",
     "AI helps Microsoft bug hunters chase a record $20M payday",
-    "Cloud giants pour nearly $600B into capex as AI demand surges",
-    "Tennessee congressional hopeful accused of shooting license plate cameras",
-    "CAF Bank reopens online service but warns of further outages"
+    "Cloud giants pour nearly $600B into capex as AI demand surges"
   ],
-  "crew_quote": "\"With it being 28 degrees and patchy rain, I reckon I could use a good curry to balance it out, but I’ll have to eat it indoors — don’t want to ruin my fabulous vibe, you know!\""
+  "crew_quote": "\"With the weather being a sizzling 26 degrees, I reckon it’s time for a good curry! Just not the patchy rain assuming it’s actually going to fall.\""
 }
