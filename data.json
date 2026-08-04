@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T12:14:51.124239+00:00",
+  "timestamp": "2026-08-04T12:45:51.073372+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Tennessee congressional hopeful accused of shooting license plate cameras",
     "CAF Bank reopens online service but warns of further outages",
     "UK mulls making employers ask before installing bossware",
-    "NASA puts astronauts’ lives in the hands of Tesla’s flaky Cybertruck",
-    "Cloudflare has mostly ditched third party security tools, suggests not trying that at home"
+    "NASA puts astronauts’ lives in the hands of Tesla’s flaky Cybertruck"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry in a sauna! I bet the only thing patchier than the weather is Rimmer's hair.\""
+  "crew_quote": "\"Well, it's 27°C in Overseal, so I reckon my curry's about to reach new heights of culinary brilliance—just like my confidence! Now, where's my frying pan?\""
 }
