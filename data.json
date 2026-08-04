@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T14:49:53.701500+00:00",
+  "timestamp": "2026-08-04T15:20:53.890398+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI helps Microsoft bug hunters chase a record $20M payday",
     "Cloud giants pour nearly $600B into capex as AI demand surges",
     "Tennessee congressional hopeful accused of shooting license plate cameras",
-    "CAF Bank reopens online service but warns of further outages",
-    "UK mulls making employers ask before installing bossware"
+    "CAF Bank reopens online service but warns of further outages"
   ],
-  "crew_quote": "\"Feeling a bit like Altrincham today, aren't we? Hot and partly cloudy, just the way I like my curry—spicy and a little unpredictable!\""
+  "crew_quote": "\"Oi, it's a balmy 26°C out there! Perfect weather for a curry — just add a bit of patchy rain to spice things up!\""
 }
