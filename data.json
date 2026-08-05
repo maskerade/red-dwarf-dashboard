@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T14:05:17.920362+00:00",
+  "timestamp": "2026-08-05T14:36:18.339770+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "SpaceX revenue rockets while AI spending burns billions",
     "London cops handed victim's new address and number to her stalker, watchdog says",
     "Cloud startup Volta claims $10B AI lab deal for Norway bit barn",
-    "Voyager 2 cheats the power budget for another year",
-    "UK charities count the cost of Beacon CRM cyberattack"
+    "Voyager 2 cheats the power budget for another year"
   ],
-  "crew_quote": "\"Oi, it’s only 18 degrees and it’s raining! Perfect weather for a curry, not that I’d ever waste my time on a rainy day like this!\""
+  "crew_quote": "\"With today's weather, it’s perfect for lounging indoors — just like my face, best appreciated from a distance while I contemplate a nice curry!\""
 }
