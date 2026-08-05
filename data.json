@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T17:42:21.976828+00:00",
+  "timestamp": "2026-08-05T18:13:22.141410+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Microsoft tells engineers to curb their token-burning enthusiasm",
     "Operationalize AI at scale with HPE and NVIDIA"
   ],
-  "crew_quote": "\"With all this patchy rain around, it's a good day for a lovely curry—though I should probably avoid the floating datacenter, I can't swim!\""
+  "crew_quote": "\"Weather's a bit patchy, innit? But if it means more time for curry and avoiding a floating datacenter, I’m all in!\""
 }
