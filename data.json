@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T05:49:09.251359+00:00",
+  "timestamp": "2026-08-05T06:20:09.937560+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Overcast ",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -94,5 +94,5 @@
     "Dev proves LLMs will run on anything – even a $10 microcontroller",
     "OpenAI wants teachers and profs to foist their work off on ChatGPT"
   ],
-  "crew_quote": "\"Ah, perfect weather for a curry, innit? Just a bit of patchy rain to keep the chips soggy – my kind of day!\""
+  "crew_quote": "\"With all this patchy rain, it’s a good day for a curry indoors—unless you’re trying to impress me with your lack of umbrellas!\""
 }
