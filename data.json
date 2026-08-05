@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T13:34:17.514179+00:00",
+  "timestamp": "2026-08-05T14:05:17.920362+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 18.0,
-      "conditions": "Light drizzle",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 20.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -94,5 +94,5 @@
     "Voyager 2 cheats the power budget for another year",
     "UK charities count the cost of Beacon CRM cyberattack"
   ],
-  "crew_quote": "\"Light drizzle in Altrincham? Terrible! I was hoping to have my brilliant new curry outside, but it looks like I’ll just have to eat it in here. Again.\""
+  "crew_quote": "\"Oi, it’s only 18 degrees and it’s raining! Perfect weather for a curry, not that I’d ever waste my time on a rainy day like this!\""
 }
