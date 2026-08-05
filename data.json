@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T19:46:24.016757+00:00",
+  "timestamp": "2026-08-05T20:17:24.802555+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 13.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft tells engineers to curb their token-burning enthusiasm",
     "Operationalize AI at scale with HPE and NVIDIA"
   ],
-  "crew_quote": "\"Blimey, with patchy rain popping up everywhere, I reckon we should just set up a floating curry stand and let the weather come to us!\""
+  "crew_quote": "\"With all this patchy rain, I'm definitely staying in and making a nice curry. I mean, who wants to deal with weather when you can have a proper meal, right?\""
 }
