@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T17:11:21.416885+00:00",
+  "timestamp": "2026-08-05T17:42:21.976828+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "IBM's agentic AI platform is under active attack - patch now",
     "Samsung and Mousterian move ahead with floating datacenter for Texas",
     "Microsoft tells engineers to curb their token-burning enthusiasm",
-    "Operationalize AI at scale with HPE and NVIDIA",
-    "SpaceX revenue rockets while AI spending burns billions"
+    "Operationalize AI at scale with HPE and NVIDIA"
   ],
-  "crew_quote": "\"Looks like the weather is about as cheerful as Rimmer's personality—cloudy with a chance of pointless arguments. Fancy a curry, though? That'll brighten it up!\""
+  "crew_quote": "\"With all this patchy rain around, it's a good day for a lovely curry—though I should probably avoid the floating datacenter, I can't swim!\""
 }
