@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T07:22:10.872030+00:00",
+  "timestamp": "2026-08-05T07:53:11.004976+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -21,8 +21,8 @@
       "forecast": [
         {
           "date": "2026-08-05",
-          "max": 19.0,
-          "min": 12.0
+          "max": 18.0,
+          "min": 13.0
         },
         {
           "date": "2026-08-06",
@@ -31,7 +31,7 @@
         },
         {
           "date": "2026-08-07",
-          "max": 23.0,
+          "max": 21.0,
           "min": 9.0
         }
       ]
@@ -42,13 +42,13 @@
       "forecast": [
         {
           "date": "2026-08-05",
-          "max": 22.0,
+          "max": 20.0,
           "min": 13.0
         },
         {
           "date": "2026-08-06",
           "max": 21.0,
-          "min": 10.0
+          "min": 9.0
         },
         {
           "date": "2026-08-07",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 13.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -69,11 +69,11 @@
         {
           "date": "2026-08-06",
           "max": 17.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-08-07",
-          "max": 20.0,
+          "max": 19.0,
           "min": 10.0
         }
       ]
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "New Boeing finally gets going, 15 years after debut",
+    "Adding an API to networking hardware doesn’t solve management challenges",
     "AI researchers let models off the leash – then watched as they tried to add malware to a FOSS project",
-    "AMD's results spotlight risks of putting all your AI eggs in too few baskets",
-    "Dev proves LLMs will run on anything – even a $10 microcontroller",
-    "OpenAI wants teachers and profs to foist their work off on ChatGPT"
+    "AMD's results spotlight risks of putting all your AI eggs in too few baskets"
   ],
-  "crew_quote": "\"Oi, with all this patchy rain, it’s just like when I went to that curry house—never knew if I was getting a spicy surprise or just soggy naan!\""
+  "crew_quote": "\"With all this patchy rain, I think I’ll need a curry to cheer me up—nothing like a good tikka masala to fix a gloomy Llandudno day!\""
 }
