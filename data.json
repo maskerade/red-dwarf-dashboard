@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T21:19:25.629106+00:00",
+  "timestamp": "2026-08-05T21:50:26.102556+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,13 +37,13 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-05",
           "max": 22.0,
-          "min": 13.0
+          "min": 14.0
         },
         {
           "date": "2026-08-06",
@@ -63,7 +63,7 @@
       "forecast": [
         {
           "date": "2026-08-05",
-          "max": 16.0,
+          "max": 17.0,
           "min": 13.0
         },
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Prompt injection isn't the bug, AI agent frameworks are",
+    "Time Magazine has a separate version of its website with ads only AI can see",
     "Elon pledges to give Nvidia a virtual monopoly over the stars",
-    "IBM's agentic AI platform is under active attack - patch now",
-    "Samsung and Mousterian move ahead with floating datacenter for Texas",
-    "Microsoft tells engineers to curb their token-burning enthusiasm"
+    "IBM's agentic AI platform is under active attack - patch now"
   ],
-  "crew_quote": "\"Looks like it's patchy rain nearby, but I don’t mind, as long as it doesn’t ruin my curry night! Who needs a sunny day when you've got a good Vindaloo?\""
+  "crew_quote": "\"Well, with all this patchy rain, I was hoping for a nice, warm curry to cheer me up, but it seems like even the weather's got a sense of humor today!\""
 }
