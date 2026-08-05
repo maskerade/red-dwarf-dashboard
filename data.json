@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T08:55:12.364060+00:00",
+  "timestamp": "2026-08-05T09:26:12.957447+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 19.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Light rain shower",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Double trouble for Microsoft as pre-owned software licenses claims converge",
     "New Boeing finally gets going, 15 years after debut",
     "Adding an API to networking hardware doesn’t solve management challenges",
-    "AI researchers let models off the leash – then watched as they tried to add malware to a FOSS project",
-    "AMD's results spotlight risks of putting all your AI eggs in too few baskets"
+    "AI researchers let models off the leash – then watched as they tried to add malware to a FOSS project"
   ],
-  "crew_quote": "\"Looks like the weather's as confused as a cat in a dog show—patchy rain everywhere! Makes me wish I had a curry to cheer me up, but I've only got a soggy biscuit.\""
+  "crew_quote": "\"With all that patchy rain outside, it’s like the weather is as confused as a Computer trying to read Microsoft’s licensing terms!\""
 }
