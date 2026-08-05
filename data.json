@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T01:10:04.573393+00:00",
+  "timestamp": "2026-08-05T01:41:04.971791+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Clear ",
+      "temp": 18.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -94,5 +94,5 @@
     "Next.js 16.3 aims to reduce dreaded FATAL ERROR messages",
     "Bypassing AI guardrails is so easy a script kiddie can do it"
   ],
-  "crew_quote": "\"When it's 16 degrees and patchy rain, I say it’s the perfect weather for a curry! Just hope the rain doesn’t ruin my takeout!\""
+  "crew_quote": "\"With the weather in Altrincham all patchy rain and 15°C, I’d say it’s a perfect day for a nice curry... or maybe just a curry-flavored rain cloud!\""
 }
