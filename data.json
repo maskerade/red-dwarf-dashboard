@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T10:28:13.764951+00:00",
+  "timestamp": "2026-08-05T10:59:14.537688+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 18.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "New Boeing finally gets going, 15 years after debut",
     "Adding an API to networking hardware doesn’t solve management challenges"
   ],
-  "crew_quote": "\"Oi, with this weather, I'm starting to think the curry I've got stashed is gonna be the only warm thing around here, unless the rain's got a backup plan!\""
+  "crew_quote": "\"Well, it’s cloudy here, but at least it’s warmer than a curry left in the fridge too long! Just don’t lean too close, or you might get splattered by a rain cloud.\""
 }
