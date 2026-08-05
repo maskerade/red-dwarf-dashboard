@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T13:03:16.677752+00:00",
+  "timestamp": "2026-08-05T13:34:17.514179+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Keeping yesterday's computers ticking takes more than nostalgia",
-    "Double trouble for Microsoft as pre-owned software license claims converge",
-    "New Boeing finally gets going, 15 years after debut",
-    "Adding an API to networking hardware doesn’t solve management challenges"
+    "London cops handed victim's new address and number to her stalker, watchdog says",
+    "Cloud startup Volta claims $10B AI lab deal for Norway bit barn",
+    "Voyager 2 cheats the power budget for another year",
+    "UK charities count the cost of Beacon CRM cyberattack"
   ],
-  "crew_quote": "\"Weather's a bit dreary, isn't it? I mean, what's the point of being 18 degrees when you could be in a curry house with a proper heat?\""
+  "crew_quote": "\"Light drizzle in Altrincham? Terrible! I was hoping to have my brilliant new curry outside, but it looks like I’ll just have to eat it in here. Again.\""
 }
