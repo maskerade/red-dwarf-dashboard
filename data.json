@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T20:17:24.802555+00:00",
+  "timestamp": "2026-08-05T20:48:25.094421+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Elon pledges to give Nvidia a virtual monopoly over the stars",
     "IBM's agentic AI platform is under active attack - patch now",
     "Samsung and Mousterian move ahead with floating datacenter for Texas",
-    "Microsoft tells engineers to curb their token-burning enthusiasm",
-    "Operationalize AI at scale with HPE and NVIDIA"
+    "Microsoft tells engineers to curb their token-burning enthusiasm"
   ],
-  "crew_quote": "\"With all this patchy rain, I'm definitely staying in and making a nice curry. I mean, who wants to deal with weather when you can have a proper meal, right?\""
+  "crew_quote": "\"Looks like it's patchy rain nearby, but honestly, all I care about is whether there's a good curry in the fridge — that and avoiding whatever Elon’s planning for our futures!\""
 }
