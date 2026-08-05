@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T01:41:04.971791+00:00",
+  "timestamp": "2026-08-05T02:12:05.119709+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI researchers let models off the leash – then watched as they tried to add malware to a FOSS project",
+    "AMD's results spotlight risks of putting all your AI eggs in too few baskets",
     "Dev proves LLMs will run on anything – even a $10 microcontroller",
-    "OpenAI wants teachers and profs to foist their work off on ChatGPT",
-    "Next.js 16.3 aims to reduce dreaded FATAL ERROR messages",
-    "Bypassing AI guardrails is so easy a script kiddie can do it"
+    "OpenAI wants teachers and profs to foist their work off on ChatGPT"
   ],
-  "crew_quote": "\"With the weather in Altrincham all patchy rain and 15°C, I’d say it’s a perfect day for a nice curry... or maybe just a curry-flavored rain cloud!\""
+  "crew_quote": "\"Oi, even the weather's got patchy rain, much like my love life! At least it's a balmy 15 degrees for a cheeky curry later!\""
 }
