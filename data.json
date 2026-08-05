@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T15:38:20.207592+00:00",
+  "timestamp": "2026-08-05T16:09:20.213378+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Samsung and Mousterian move ahead with floating datacenter for Texas",
+    "Microsoft tells engineers to curb their token-burning enthusiasm",
     "Operationalize AI at scale with HPE and NVIDIA",
-    "SpaceX revenue rockets while AI spending burns billions",
-    "London cops handed victim's new address and number to her stalker, watchdog says",
-    "Cloud startup Volta claims $10B AI lab deal for Norway bit barn"
+    "SpaceX revenue rockets while AI spending burns billions"
   ],
-  "crew_quote": "\"Oi, with it being 19 degrees and patchy rain, I reckon it's a perfect day for a curry — unless the curry's got more mood swings than the weather!\""
+  "crew_quote": "\"With all this light rain and patchy drizzle, I've got a perfect excuse to stay in and whip up a mean curry—nothing like a warm meal while listening to the weather play its tricks!\""
 }
