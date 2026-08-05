@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T15:07:18.904875+00:00",
+  "timestamp": "2026-08-05T15:38:20.207592+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,39 +16,39 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-05",
-          "max": 18.0,
+          "max": 19.0,
           "min": 13.0
         },
         {
           "date": "2026-08-06",
-          "max": 18.0,
+          "max": 19.0,
           "min": 11.0
         },
         {
           "date": "2026-08-07",
-          "max": 21.0,
+          "max": 23.0,
           "min": 9.0
         }
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Overcast ",
+      "temp": 22.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-05",
-          "max": 20.0,
+          "max": 22.0,
           "min": 13.0
         },
         {
           "date": "2026-08-06",
           "max": 21.0,
-          "min": 9.0
+          "min": 10.0
         },
         {
           "date": "2026-08-07",
@@ -69,7 +69,7 @@
         {
           "date": "2026-08-06",
           "max": 17.0,
-          "min": 11.0
+          "min": 10.0
         },
         {
           "date": "2026-08-07",
@@ -94,5 +94,5 @@
     "London cops handed victim's new address and number to her stalker, watchdog says",
     "Cloud startup Volta claims $10B AI lab deal for Norway bit barn"
   ],
-  "crew_quote": "\"Looks like it's patchy rain, but I'd take that over AI spending burning a hole in my pocket any day! Now, where's me curry?\""
+  "crew_quote": "\"Oi, with it being 19 degrees and patchy rain, I reckon it's a perfect day for a curry — unless the curry's got more mood swings than the weather!\""
 }
