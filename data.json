@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T00:39:03.826540+00:00",
+  "timestamp": "2026-08-05T01:10:04.573393+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Next.js 16.3 aims to reduce dreaded FATAL ERROR messages",
     "Bypassing AI guardrails is so easy a script kiddie can do it"
   ],
-  "crew_quote": "\"Oi, with 16 degrees and patchy rain, it's the perfect weather to stay in, have a curry, and let the microcontrollers do the thinking for us. Who needs brains when you've got beans?\""
+  "crew_quote": "\"When it's 16 degrees and patchy rain, I say it’s the perfect weather for a curry! Just hope the rain doesn’t ruin my takeout!\""
 }
