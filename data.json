@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T23:37:02.318219+00:00",
+  "timestamp": "2026-08-05T00:08:02.916626+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-08-04",
-          "max": 27.0,
-          "min": 16.0
-        },
         {
           "date": "2026-08-05",
           "max": 19.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-06",
           "max": 18.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-08-07",
+          "max": 23.0,
+          "min": 9.0
         }
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 16.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-08-04",
-          "max": 28.0,
-          "min": 15.0
-        },
         {
           "date": "2026-08-05",
           "max": 20.0,
@@ -54,18 +49,18 @@
           "date": "2026-08-06",
           "max": 21.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-08-07",
+          "max": 25.0,
+          "min": 8.0
         }
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-08-04",
-          "max": 22.0,
-          "min": 14.0
-        },
         {
           "date": "2026-08-05",
           "max": 16.0,
@@ -75,17 +70,22 @@
           "date": "2026-08-06",
           "max": 17.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-08-07",
+          "max": 20.0,
+          "min": 10.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:30 AM",
-    "sunset": "08:59 PM",
+    "sunrise": "05:32 AM",
+    "sunset": "08:57 PM",
     "moon_phase": "Waning Gibbous",
-    "moon_illumination": "72",
-    "moonrise": "10:28 PM",
-    "moonset": "12:37 PM"
+    "moon_illumination": "62",
+    "moonrise": "10:44 PM",
+    "moonset": "02:03 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Next.js 16.3 aims to reduce dreaded FATAL ERROR messages",
     "Bypassing AI guardrails is so easy a script kiddie can do it"
   ],
-  "crew_quote": "\"17 degrees and patchy rain? Sounds like the perfect setting for a curry night—just don’t forget to keep the windows shut, or we’ll be cooking with a side of soggy!\""
+  "crew_quote": "\"Well, if it’s 16°C and patchy rain, I guess it’s a perfect day for a nice curry—just don’t leave it out or it'll get as soggy as my love life!\""
 }
