@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T09:57:13.456013+00:00",
+  "timestamp": "2026-08-05T10:28:13.764951+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Double trouble for Microsoft as pre-owned software licenses claims converge",
+    "Keeping yesterday's computers ticking takes more than nostalgia",
+    "Double trouble for Microsoft as pre-owned software license claims converge",
     "New Boeing finally gets going, 15 years after debut",
-    "Adding an API to networking hardware doesn’t solve management challenges",
-    "AI researchers let models off the leash – then watched as they tried to add malware to a FOSS project"
+    "Adding an API to networking hardware doesn’t solve management challenges"
   ],
-  "crew_quote": "\"With all this patchy rain, I don't see why we can't just turn the ship into a curry house—nothing says 'cheer up' like a spicy vindaloo while waiting for the weather to clear!\""
+  "crew_quote": "\"Oi, with this weather, I'm starting to think the curry I've got stashed is gonna be the only warm thing around here, unless the rain's got a backup plan!\""
 }
