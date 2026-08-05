@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T18:13:22.141410+00:00",
+  "timestamp": "2026-08-05T18:44:23.027324+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Cloudy ",
+      "temp": 19.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Cloudy",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -94,5 +94,5 @@
     "Microsoft tells engineers to curb their token-burning enthusiasm",
     "Operationalize AI at scale with HPE and NVIDIA"
   ],
-  "crew_quote": "\"Weather's a bit patchy, innit? But if it means more time for curry and avoiding a floating datacenter, I’m all in!\""
+  "crew_quote": "\"Honestly, if the weather gets any drearier, I’m gonna have to start using curry for warmth. At least it’s a bit warmer than those rain-soaked scenes in Altrincham!\""
 }
