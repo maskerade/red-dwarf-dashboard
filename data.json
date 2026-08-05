@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T16:40:20.943896+00:00",
+  "timestamp": "2026-08-05T17:11:21.416885+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 20.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Light rain shower",
+      "temp": 18.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-08-05",
@@ -94,5 +94,5 @@
     "Operationalize AI at scale with HPE and NVIDIA",
     "SpaceX revenue rockets while AI spending burns billions"
   ],
-  "crew_quote": "\"Patchy rain, eh? Just like my last curry attempt—half of it was nice and smooth, the other half could've drowned a rat!\""
+  "crew_quote": "\"Looks like the weather is about as cheerful as Rimmer's personality—cloudy with a chance of pointless arguments. Fancy a curry, though? That'll brighten it up!\""
 }
