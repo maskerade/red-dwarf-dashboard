@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T12:49:42.122593+00:00",
+  "timestamp": "2026-08-06T13:20:42.434155+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 19.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Sunny",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 17.0,
-      "conditions": "Cloudy",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Blue Origin blames New Glenn fireball on engine oxygen valve",
+    "European firms afraid of US tech kill switch but haven't made an escape plan",
     "IT department put sticky notes on the laptops to help employees log in",
-    "Windows 10 LTSC 2021 has five months before security updates cost extra",
-    "Meta latest to tell world its AI agent wandered out of test pen",
-    "News Corp labels some AI companies 'crass kleptomaniacs'"
+    "Windows 10 LTSC 2021 has five months before security updates cost extra"
   ],
-  "crew_quote": "\"It's a lovely 19 degrees in Overseal, but I reckon I could sweat off a few pounds just trying to log in to this blinking laptop—where's me curry to cool me down?\""
+  "crew_quote": "\"It’s like the weather's confused, one minute it’s 19 degrees and patchy rain, the next it’s practically a heatwave—perfect for a curry, as long as it doesn’t rain on my takeaway!\""
 }
