@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T08:10:37.236430+00:00",
+  "timestamp": "2026-08-06T08:41:37.824164+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -26,7 +26,7 @@
         },
         {
           "date": "2026-08-07",
-          "max": 22.0,
+          "max": 23.0,
           "min": 9.0
         },
         {
@@ -37,13 +37,13 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-06",
           "max": 21.0,
-          "min": 10.0
+          "min": 9.0
         },
         {
           "date": "2026-08-07",
@@ -52,13 +52,13 @@
         },
         {
           "date": "2026-08-08",
-          "max": 28.0,
+          "max": 29.0,
           "min": 10.0
         }
       ]
     },
     "llandudno": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "OpenAI reveals its rogue agent swarm went a little bit Borg ahead of Hugging Face hack",
-    "Meta wants to get inside your terminal with its new coding agent",
-    "An off-grid AI sounds like a great survival assistant, but is better left to roleplaying the zombie apocalypse",
-    "Prompt injection isn't the bug, AI agent frameworks are"
+    "Azure CTO pastes Doom into Paint one frame at a time",
+    "HPE extends validity of quoted hardware prices, possibly for months",
+    "Chinese router vendor denies its firmware contains backdoors – but pauses downloads to fix security issues anyway",
+    "Proxmox ports itself to Arm with help from Nvidia and Supermicro"
   ],
-  "crew_quote": "\"Ah, patchy rain everywhere—just like that curry I made last week. One minute it’s a feast, the next it's a soggy disaster!\""
+  "crew_quote": "\"Well, at least the weather matches my brain today—patchy and a bit drizzly, like my last attempt at a curry!\""
 }
