@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T20:34:50.064262+00:00",
+  "timestamp": "2026-08-06T21:05:50.798391+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 13.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 12.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 11.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon",
+    "AI struggles to patch vulns without adult supervision",
     "Latest GitHub outage squeezes Actions, Pages to death",
-    "Uncle Sam aims to help nuclear energy find its sea legs",
-    "Humans in the loop miss a third of dangerous AI coding agent requests",
-    "Next step for LINK spacecraft – a software update that won't make things worse. Are you listening, Microsoft?"
+    "Uncle Sam aims to help nuclear energy find its sea legs"
   ],
-  "crew_quote": "\"Suns out, temperatures up! Now that's a perfect day for a curry; just hope the GitHub outage doesn't stop my latest recipe from being a total disaster!\""
+  "crew_quote": "\"Blimey, it's hotter than my last curry at 13 degrees, and that's saying something! Just goes to show, even the weather knows how to keep it clear and cool!\""
 }
