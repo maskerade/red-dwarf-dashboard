@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T01:58:30.386196+00:00",
+  "timestamp": "2026-08-06T02:29:31.039684+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
+      "temp": 13.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -26,7 +26,7 @@
         },
         {
           "date": "2026-08-07",
-          "max": 23.0,
+          "max": 22.0,
           "min": 9.0
         },
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Clear ",
+      "temp": 11.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -52,8 +52,8 @@
         },
         {
           "date": "2026-08-08",
-          "max": 29.0,
-          "min": 9.0
+          "max": 28.0,
+          "min": 10.0
         }
       ]
     },
@@ -94,5 +94,5 @@
     "Elon pledges to give Nvidia a virtual monopoly over the stars",
     "IBM's agentic AI platform is under active attack - patch now"
   ],
-  "crew_quote": "\"You know, with this patchy rain, it's a wonder I don’t look like a soggy curry! Just my luck to be fabulous and wet at 12 degrees.\""
+  "crew_quote": "\"When it’s 13 degrees and raining in Altrincham, I say let’s crank up the heat and order a curry! Nothing like a good Rogan Josh to keep the damp away!\""
 }
