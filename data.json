@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T18:30:47.898698+00:00",
+  "timestamp": "2026-08-06T19:01:48.299959+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Latest GitHub outage squeezes Actions, Pages to death",
+    "Uncle Sam aims to help nuclear energy find its sea legs",
     "Humans in the loop miss a third of dangerous AI coding agent requests",
-    "Next step for LINK spacecraft – a software update that won't make things worse. Are you listening, Microsoft?",
-    "Platform Engineering 2.0: your platform was built for a different era. AI just exposed it",
-    "Microsoft excludes Domain Exclusion from MS 365 Copilot  – days after rolling it out"
+    "Next step for LINK spacecraft – a software update that won't make things worse. Are you listening, Microsoft?"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry left in a sunbaked spaceship! And with those AI snafus, it's a good thing we're not relying on them for the takeaway!\""
+  "crew_quote": "\"With the weather being so warm in Overseal, I reckon we should all just relax and have a curry—nothing like a bit of spice to brighten up a cloudy day, eh?\""
 }
