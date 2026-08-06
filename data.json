@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T22:07:51.976354+00:00",
+  "timestamp": "2026-08-06T22:38:52.741387+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
+      "temp": 10.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Latest GitHub outage squeezes Actions, Pages to death",
     "Uncle Sam aims to help nuclear energy find its sea legs"
   ],
-  "crew_quote": "\"With temperatures swinging between 11 and 13 degrees, I reckon it’s the perfect weather for a curry — nice and clear, just like my strategy for winning at poker!\""
+  "crew_quote": "\"You know, with this lovely clear weather, I could really go for a curry on the beach—but then again, I’d probably just end up in a fight with the seagulls over my chips!\""
 }
