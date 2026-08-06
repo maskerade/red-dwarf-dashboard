@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T03:31:31.926001+00:00",
+  "timestamp": "2026-08-06T04:02:32.898626+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 11.0,
+      "temp": 10.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Prompt injection isn't the bug, AI agent frameworks are",
-    "Time Magazine has a separate version of its website with ads only AI can see",
-    "Elon pledges to give Nvidia a virtual monopoly over the stars",
-    "IBM's agentic AI platform is under active attack - patch now"
+    "OpenAI reveals its rogue agent swarm went a little bit Borg ahead of Hugging Face hack",
+    "Meta wants to get inside your terminal with its new coding agent",
+    "An off-grid AI sounds like a great survival assistant, but is better left to roleplaying the zombie apocalypse",
+    "Prompt injection isn't the bug, AI agent frameworks are"
   ],
-  "crew_quote": "\"13 degrees and patchy rain nearby? Sounds like the perfect weather for a curry and a good nap — just don’t get too close to the windows, or you'll end up looking like a soggy samosa!\""
+  "crew_quote": "\"Looks like it's perfect weather for a nice curry and a good old moan about the patchy rain—good thing I'm not made of sugar, or I'd melt!\""
 }
