@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T11:16:40.465583+00:00",
+  "timestamp": "2026-08-06T11:47:40.911061+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Partly cloudy",
+      "temp": 19.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -94,5 +94,5 @@
     "News Corp labels some AI companies 'crass kleptomaniacs'",
     "Azure CTO pastes Doom into Paint one frame at a time"
   ],
-  "crew_quote": "\"With all this patchy rain around, it’s a perfect day for curry! Can’t let a bit of drizzle stop us from enjoying a proper meal, right?\""
+  "crew_quote": "\"Honestly, with the weather like this, I should be lounging outside, but here I am stuck with a Windows update. It’s like being offered a sunny day and getting a soggy curry instead!\""
 }
