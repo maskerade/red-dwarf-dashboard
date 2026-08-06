@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T17:28:46.831477+00:00",
+  "timestamp": "2026-08-06T17:59:48.039222+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 20.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Platform Engineering 2.0: your platform was built for a different era. AI just exposed it",
     "Microsoft excludes Domain Exclusion from MS 365 Copilot  – days after rolling it out"
   ],
-  "crew_quote": "\"Well, with the weather doing its best to look like today’s a sunny day in Llandudno, I reckon we ought to celebrate by cooking a curry! Nothing like a bit of spice in a lovely 19°C!\""
+  "crew_quote": "\"Ah, 18 degrees and cloudy? Perfect weather for a nice curry and a good moan about computers doing a better job than we ever could!\""
 }
