@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T14:22:43.980565+00:00",
+  "timestamp": "2026-08-06T14:53:43.959957+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,12 +17,12 @@
   "locations": {
     "altrincham": {
       "temp": 19.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-06",
           "max": 19.0,
-          "min": 11.0
+          "min": 12.0
         },
         {
           "date": "2026-08-07",
@@ -31,18 +31,18 @@
         },
         {
           "date": "2026-08-08",
-          "max": 27.0,
+          "max": 28.0,
           "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 22.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-06",
-          "max": 21.0,
+          "max": 22.0,
           "min": 9.0
         },
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -74,7 +74,7 @@
         {
           "date": "2026-08-08",
           "max": 22.0,
-          "min": 11.0
+          "min": 10.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft excludes Domain Exclusion from MS 365 Copilot  – days after rolling it out",
     "Snowflake extortionist admits 165-victim cloud crime spree – and squeezing one target twice",
     "Blue Origin blames New Glenn fireball on engine oxygen valve",
-    "European firms afraid of US tech kill switch but haven't made an escape plan",
-    "IT department put sticky notes on the laptops to help employees log in"
+    "European firms afraid of US tech kill switch but haven't made an escape plan"
   ],
-  "crew_quote": "\"Ah, a bit of patchy rain and a temp that’s a bit on the chilly side — perfect curry weather, I reckon! Just as long as I don’t have to deal with any cloud crime sprees.\""
+  "crew_quote": "\"With this patchy rain nearby, I reckon we’re as likely to see the sun as Rimmer is to achieve anything remotely impressive today!\""
 }
