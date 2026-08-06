@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T10:45:39.598842+00:00",
+  "timestamp": "2026-08-06T11:16:40.465583+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Windows 10 LTSC 2021 has five months before security updates cost extra",
+    "Meta latest to tell world its AI agent wandered out of test pen",
     "News Corp labels some AI companies 'crass kleptomaniacs'",
-    "Azure CTO pastes Doom into Paint one frame at a time",
-    "HPE extends validity of quoted hardware prices, possibly for months",
-    "Chinese router vendor denies its firmware contains backdoors – but pauses downloads to fix security issues anyway"
+    "Azure CTO pastes Doom into Paint one frame at a time"
   ],
-  "crew_quote": "\"I'm telling you, the weather's about as patchy as my last curry. One minute it’s raining, next minute it’s just me being fabulous!\""
+  "crew_quote": "\"With all this patchy rain around, it’s a perfect day for curry! Can’t let a bit of drizzle stop us from enjoying a proper meal, right?\""
 }
