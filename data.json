@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T09:43:38.561447+00:00",
+  "timestamp": "2026-08-06T10:14:39.440596+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Overcast ",
+      "temp": 17.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Chinese router vendor denies its firmware contains backdoors – but pauses downloads to fix security issues anyway",
     "Proxmox ports itself to Arm with help from Nvidia and Supermicro"
   ],
-  "crew_quote": "\"With all this patchy rain and overcast skies, I reckon it'd be a perfect day for a curry — nothing goes better with gloom than a good vindaloo, eh?\""
+  "crew_quote": "\"With all this patchy rain, I'm starting to think the weather's trying to steal my thunder… or maybe just my curry night!\""
 }
