@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T09:12:38.444761+00:00",
+  "timestamp": "2026-08-06T09:43:38.561447+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Chinese router vendor denies its firmware contains backdoors – but pauses downloads to fix security issues anyway",
     "Proxmox ports itself to Arm with help from Nvidia and Supermicro"
   ],
-  "crew_quote": "\"What’s the weather like? I can’t tell if it’s patchy rain or just the sky crying for help, like my last curry experience!\""
+  "crew_quote": "\"With all this patchy rain and overcast skies, I reckon it'd be a perfect day for a curry — nothing goes better with gloom than a good vindaloo, eh?\""
 }
