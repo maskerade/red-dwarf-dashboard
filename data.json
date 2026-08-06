@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T07:08:36.227866+00:00",
+  "timestamp": "2026-08-06T07:39:36.880523+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "An off-grid AI sounds like a great survival assistant, but is better left to roleplaying the zombie apocalypse",
     "Prompt injection isn't the bug, AI agent frameworks are"
   ],
-  "crew_quote": "\"Looks like it's patchy rain everywhere; might as well stay in and whip up a curry, eh? Nothing like a bit of spice to brighten a dreary day!\""
+  "crew_quote": "\"What's with this patchy rain, then? It’s like the weather can't decide if it wants to be miserable or just a bit dreary — like listening to Rimmer discuss his achievements!\""
 }
