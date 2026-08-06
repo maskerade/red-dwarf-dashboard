@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T14:53:43.959957+00:00",
+  "timestamp": "2026-08-06T15:24:45.355852+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Next step for LINK spacecraft – a software update that won't make things worse. Are you listening, Microsoft?",
+    "Platform Engineering 2.0: your platform was built for a different era. AI just exposed it",
     "Microsoft excludes Domain Exclusion from MS 365 Copilot  – days after rolling it out",
-    "Snowflake extortionist admits 165-victim cloud crime spree – and squeezing one target twice",
-    "Blue Origin blames New Glenn fireball on engine oxygen valve",
-    "European firms afraid of US tech kill switch but haven't made an escape plan"
+    "Snowflake extortionist admits 165-victim cloud crime spree – and squeezing one target twice"
   ],
-  "crew_quote": "\"With this patchy rain nearby, I reckon we’re as likely to see the sun as Rimmer is to achieve anything remotely impressive today!\""
+  "crew_quote": "\"19 degrees in Altrincham? That's practically a heatwave for a bunch of space skivvies like us! I might just have to break out the curry and sunbathe by the reactor!\""
 }
