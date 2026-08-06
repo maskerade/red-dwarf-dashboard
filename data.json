@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T15:55:45.132213+00:00",
+  "timestamp": "2026-08-06T16:26:45.805861+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 21.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -94,5 +94,5 @@
     "Microsoft excludes Domain Exclusion from MS 365 Copilot  – days after rolling it out",
     "Snowflake extortionist admits 165-victim cloud crime spree – and squeezing one target twice"
   ],
-  "crew_quote": "\"Weather's so sunny, I might just ditch the curry and have a cold lager instead—unless it starts raining, then it’s back to the comfort of my ship!\""
+  "crew_quote": "\"With weather this nice, I reckon I could whip up a lovely curry; as long as the LINK update doesn’t fry the ship, that is! Cheers to a sunny day!\""
 }
