@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T06:37:35.264610+00:00",
+  "timestamp": "2026-08-06T07:08:36.227866+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 13.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-06",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 13.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "An off-grid AI sounds like a great survival assistant, but is better left to roleplaying the zombie apocalypse",
     "Prompt injection isn't the bug, AI agent frameworks are"
   ],
-  "crew_quote": "\"Look at this weather, it's about as patchy as my love life! At least I can still cook a decent curry in here — rain or shine!\""
+  "crew_quote": "\"Looks like it's patchy rain everywhere; might as well stay in and whip up a curry, eh? Nothing like a bit of spice to brighten a dreary day!\""
 }
