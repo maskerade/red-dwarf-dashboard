@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T10:14:39.440596+00:00",
+  "timestamp": "2026-08-06T10:45:39.598842+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "News Corp labels some AI companies 'crass kleptomaniacs'",
     "Azure CTO pastes Doom into Paint one frame at a time",
     "HPE extends validity of quoted hardware prices, possibly for months",
-    "Chinese router vendor denies its firmware contains backdoors – but pauses downloads to fix security issues anyway",
-    "Proxmox ports itself to Arm with help from Nvidia and Supermicro"
+    "Chinese router vendor denies its firmware contains backdoors – but pauses downloads to fix security issues anyway"
   ],
-  "crew_quote": "\"With all this patchy rain, I'm starting to think the weather's trying to steal my thunder… or maybe just my curry night!\""
+  "crew_quote": "\"I'm telling you, the weather's about as patchy as my last curry. One minute it’s raining, next minute it’s just me being fabulous!\""
 }
