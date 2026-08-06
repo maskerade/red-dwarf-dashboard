@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T16:57:46.187761+00:00",
+  "timestamp": "2026-08-06T17:28:46.831477+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Humans in the loop miss a third of dangerous AI coding agent requests",
     "Next step for LINK spacecraft – a software update that won't make things worse. Are you listening, Microsoft?",
     "Platform Engineering 2.0: your platform was built for a different era. AI just exposed it",
-    "Microsoft excludes Domain Exclusion from MS 365 Copilot  – days after rolling it out",
-    "Snowflake extortionist admits 165-victim cloud crime spree – and squeezing one target twice"
+    "Microsoft excludes Domain Exclusion from MS 365 Copilot  – days after rolling it out"
   ],
-  "crew_quote": "\"Ah, lovely weather today, innit? Perfect for a pint and a curry—especially when the most exciting thing happening is a software update that might not ruin everything!\""
+  "crew_quote": "\"Well, with the weather doing its best to look like today’s a sunny day in Llandudno, I reckon we ought to celebrate by cooking a curry! Nothing like a bit of spice in a lovely 19°C!\""
 }
