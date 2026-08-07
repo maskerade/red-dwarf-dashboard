@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T08:59:03.811832+00:00",
+  "timestamp": "2026-08-07T09:30:05.789211+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-07",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Cop who used police system to snoop for info on crook pals sentenced for Computer Misuse Act offenses",
     "Sysadmin summoned to explain italics – to a user with at least two degrees",
     "China launches mysterious probe into security of Palo Alto Networks' products",
-    "‘Humans will be a rounding error on the internet’ says Cloudflare exec",
-    "How the famed USENIX Security conf is managing a flood of papers in the AI era"
+    "‘Humans will be a rounding error on the internet’ says Cloudflare exec"
   ],
-  "crew_quote": "\"Sunny weather, eh? Perfect for a curry day! I can almost smell the vindaloo cooking away while we drift about in this gloriously atmospheric nothingness!\""
+  "crew_quote": "\"A sunny 17 degrees? Perfect weather for a bit of outdoor curry! Just don't let Rimmer near any of the cooking tools; he might misuse them like that naughty cop!\""
 }
