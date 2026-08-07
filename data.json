@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T14:09:08.948432+00:00",
+  "timestamp": "2026-08-07T14:40:10.109395+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs",
+    "Scot NHS trust probes access to medical records of 9-year-old girl after man arrested on suspicion of murder",
     "Microsoft tosses Teams Live chat into its feature graveyard",
-    "Attacker phished way into US defense supplier's Microsoft 365 account",
-    "Intrusion at US healthcare software provider puts 3.8M people's data at risk",
-    "'Asimov was right' about rules for robots, says ex-US Cyber Director"
+    "Attacker phished way into US defense supplier's Microsoft 365 account"
   ],
-  "crew_quote": "\"Ah, lovely weather for a curry, isn't it? Just wish the only thing getting phished today was my dinner, not some poor blokes' Microsoft account!\""
+  "crew_quote": "\"Listen, mate, it’s 22 degrees and partly cloudy out there, perfect curry weather! I’ll take a sizzling vindaloo over all this tech nonsense any day!\""
 }
