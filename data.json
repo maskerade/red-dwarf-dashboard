@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T12:05:06.957895+00:00",
+  "timestamp": "2026-08-07T12:36:07.445321+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Cloudy ",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-07",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Sunny",
+      "temp": 22.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-07",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 19.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-07",
@@ -94,5 +94,5 @@
     "'Asimov was right' about rules for robots, says ex-US Cyber Director",
     "Cop who used police system to snoop for info on crook pals sentenced for Computer Misuse Act offenses"
   ],
-  "crew_quote": "\"They say it’s sunny in Overseal, but I’d rather risk a bit of patchy rain than deal with someone phishing their way into a military account. Typical, innit?\""
+  "crew_quote": "\"Why worry about 3.8 million people having their data compromised when it’s a lovely 21°C out? I’d rather be enjoying a nice curry than fretting over some tech geek's mistake!\""
 }
