@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T10:01:04.555927+00:00",
+  "timestamp": "2026-08-07T10:32:04.849936+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "'Asimov was right' about rules for robots, says ex-US Cyber Director",
     "Cop who used police system to snoop for info on crook pals sentenced for Computer Misuse Act offenses",
     "Sysadmin summoned to explain italics – to a user with at least two degrees",
-    "China launches mysterious probe into security of Palo Alto Networks' products",
-    "‘Humans will be a rounding error on the internet’ says Cloudflare exec"
+    "China launches mysterious probe into security of Palo Alto Networks' products"
   ],
-  "crew_quote": "\"Oi, it's 17 degrees and sunny! Perfect weather for a curry, but knowing my luck, it'll rain just as I step outside. Typical!\""
+  "crew_quote": "\"A sunny day like this makes me wanna whip up a curry and get some chips — it's 17 degrees, not too hot for a feast, eh?\""
 }
