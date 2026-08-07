@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T23:40:53.667633+00:00",
+  "timestamp": "2026-08-07T00:11:53.764592+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
+      "temp": 10.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-08-06",
-          "max": 19.0,
-          "min": 12.0
-        },
         {
           "date": "2026-08-07",
           "max": 23.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-08",
           "max": 28.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-08-09",
+          "max": 27.0,
+          "min": 12.0
         }
       ]
     },
     "overseal": {
-      "temp": 11.0,
-      "conditions": "Clear ",
+      "temp": 10.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
-        {
-          "date": "2026-08-06",
-          "max": 22.0,
-          "min": 9.0
-        },
         {
           "date": "2026-08-07",
           "max": 25.0,
@@ -54,6 +49,11 @@
           "date": "2026-08-08",
           "max": 29.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-08-09",
+          "max": 31.0,
+          "min": 13.0
         }
       ]
     },
@@ -61,11 +61,6 @@
       "temp": 10.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-08-06",
-          "max": 17.0,
-          "min": 10.0
-        },
         {
           "date": "2026-08-07",
           "max": 19.0,
@@ -75,17 +70,22 @@
           "date": "2026-08-08",
           "max": 22.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-08-09",
+          "max": 22.0,
+          "min": 12.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:34 AM",
-    "sunset": "08:55 PM",
-    "moon_phase": "Last Quarter",
-    "moon_illumination": "51",
-    "moonrise": "11:06 PM",
-    "moonset": "03:34 PM"
+    "sunrise": "05:35 AM",
+    "sunset": "08:53 PM",
+    "moon_phase": "Waning Crescent",
+    "moon_illumination": "40",
+    "moonrise": "11:41 PM",
+    "moonset": "05:03 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Latest GitHub outage squeezes Actions, Pages to death",
     "Uncle Sam aims to help nuclear energy find its sea legs"
   ],
-  "crew_quote": "\"With weather like this, it's a perfect day for a nice curry—though I suspect the AI chip startup might get a bit jealous of my cooking skills, right?\""
+  "crew_quote": "\"10 degrees and clear skies? That’s perfect weather for a curry run! Maybe I’ll grab one before the AI chips start making me feel inferior again.\""
 }
