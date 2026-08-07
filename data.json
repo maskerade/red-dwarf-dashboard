@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T15:11:10.471860+00:00",
+  "timestamp": "2026-08-07T15:42:10.658084+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,28 +16,28 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 23.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-07",
-          "max": 22.0,
+          "max": 23.0,
           "min": 9.0
         },
         {
           "date": "2026-08-08",
-          "max": 28.0,
-          "min": 10.0
+          "max": 26.0,
+          "min": 11.0
         },
         {
           "date": "2026-08-09",
           "max": 25.0,
-          "min": 11.0
+          "min": 12.0
         }
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -47,12 +47,12 @@
         },
         {
           "date": "2026-08-08",
-          "max": 28.0,
+          "max": 27.0,
           "min": 10.0
         },
         {
           "date": "2026-08-09",
-          "max": 30.0,
+          "max": 29.0,
           "min": 13.0
         }
       ]
@@ -74,7 +74,7 @@
         {
           "date": "2026-08-09",
           "max": 21.0,
-          "min": 11.0
+          "min": 12.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs",
     "Scot NHS trust probes access to medical records of 9-year-old girl after man arrested on suspicion of murder"
   ],
-  "crew_quote": "\"Weather's looking alright with a sunny 24°C, but I’d still rather be in a curry house than thinking about that God mode fiasco—talk about a right mess!\""
+  "crew_quote": "\"Oi, with the sun blazing at 25°C, I reckon it's the perfect day for a curry. Just don't make it too hot—unlike that N-able mess!\""
 }
