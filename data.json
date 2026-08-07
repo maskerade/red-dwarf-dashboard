@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T05:52:59.899267+00:00",
+  "timestamp": "2026-08-07T06:24:00.750773+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 9.0,
-      "conditions": "Clear ",
+      "temp": 11.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-07",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
+      "temp": 11.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
+      "temp": 12.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "How the famed USENIX Security conf is managing a flood of papers in the AI era",
     "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon"
   ],
-  "crew_quote": "\"With it being a balmy 11 degrees, I reckon it's the perfect weather for a curry! Just don’t ask me to share — I’m not in the mood for rounding errors on my plate!\""
+  "crew_quote": "\"With it being 11 degrees and partly cloudy, I reckon it’s a perfect day for a curry — unless the patchy rain decides to join the party, of course!\""
 }
