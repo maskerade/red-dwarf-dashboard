@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T10:32:04.849936+00:00",
+  "timestamp": "2026-08-07T11:03:05.923598+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-07",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-07",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Intrusion at US healthcare software provider puts 3.8M people's data at risk",
     "'Asimov was right' about rules for robots, says ex-US Cyber Director",
     "Cop who used police system to snoop for info on crook pals sentenced for Computer Misuse Act offenses",
-    "Sysadmin summoned to explain italics – to a user with at least two degrees",
-    "China launches mysterious probe into security of Palo Alto Networks' products"
+    "Sysadmin summoned to explain italics – to a user with at least two degrees"
   ],
-  "crew_quote": "\"A sunny day like this makes me wanna whip up a curry and get some chips — it's 17 degrees, not too hot for a feast, eh?\""
+  "crew_quote": "\"Well, it's a lovely 20 degrees in Overseal, but I bet I could figure out a way to cook a curry that'd make even the patchy rain jealous!\""
 }
