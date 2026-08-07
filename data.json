@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T05:21:59.749615+00:00",
+  "timestamp": "2026-08-07T05:52:59.899267+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "How the famed USENIX Security conf is managing a flood of papers in the AI era",
     "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon"
   ],
-  "crew_quote": "\"Ah, it's a lovely day outside—perfect for wandering about and finding a nice curry shop, or just sitting back and letting the world forget about its security probes!\""
+  "crew_quote": "\"With it being a balmy 11 degrees, I reckon it's the perfect weather for a curry! Just don’t ask me to share — I’m not in the mood for rounding errors on my plate!\""
 }
