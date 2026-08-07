@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T12:36:07.445321+00:00",
+  "timestamp": "2026-08-07T13:07:07.794478+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft tosses Teams Live chat into its feature graveyard",
     "Attacker phished way into US defense supplier's Microsoft 365 account",
     "Intrusion at US healthcare software provider puts 3.8M people's data at risk",
-    "'Asimov was right' about rules for robots, says ex-US Cyber Director",
-    "Cop who used police system to snoop for info on crook pals sentenced for Computer Misuse Act offenses"
+    "'Asimov was right' about rules for robots, says ex-US Cyber Director"
   ],
-  "crew_quote": "\"Why worry about 3.8 million people having their data compromised when it’s a lovely 21°C out? I’d rather be enjoying a nice curry than fretting over some tech geek's mistake!\""
+  "crew_quote": "\"21°C and partly cloudy? Perfect curry weather if you ask me! Just don't ask Rimmer to help cook, or we'll all end up with a burnt disaster!\""
 }
