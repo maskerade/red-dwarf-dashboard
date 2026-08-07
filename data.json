@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T13:38:08.181680+00:00",
+  "timestamp": "2026-08-07T14:09:08.948432+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
+      "temp": 22.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 24.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-07",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-07",
@@ -94,5 +94,5 @@
     "Intrusion at US healthcare software provider puts 3.8M people's data at risk",
     "'Asimov was right' about rules for robots, says ex-US Cyber Director"
   ],
-  "crew_quote": "\"With this lovely 21 degrees, it's the perfect weather for a curry, but let's hope Microsoft doesn’t start charging us for taking a nice chat about it!\""
+  "crew_quote": "\"Ah, lovely weather for a curry, isn't it? Just wish the only thing getting phished today was my dinner, not some poor blokes' Microsoft account!\""
 }
