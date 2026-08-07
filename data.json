@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T14:40:10.109395+00:00",
+  "timestamp": "2026-08-07T15:11:10.471860+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "N-able God mode flaw: Vendor confirms attackers reached customer networks as second hotfix lands",
+    "ShinyHunters called cancer diagnostics biz and tricked staffers into giving them access. Now they've dumped 10.9M email addresses",
     "MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs",
-    "Scot NHS trust probes access to medical records of 9-year-old girl after man arrested on suspicion of murder",
-    "Microsoft tosses Teams Live chat into its feature graveyard",
-    "Attacker phished way into US defense supplier's Microsoft 365 account"
+    "Scot NHS trust probes access to medical records of 9-year-old girl after man arrested on suspicion of murder"
   ],
-  "crew_quote": "\"Listen, mate, it’s 22 degrees and partly cloudy out there, perfect curry weather! I’ll take a sizzling vindaloo over all this tech nonsense any day!\""
+  "crew_quote": "\"Weather's looking alright with a sunny 24°C, but I’d still rather be in a curry house than thinking about that God mode fiasco—talk about a right mess!\""
 }
