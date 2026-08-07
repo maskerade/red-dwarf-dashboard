@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T07:26:01.732092+00:00",
+  "timestamp": "2026-08-07T07:57:02.295418+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,28 +16,28 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 13.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-07",
-          "max": 23.0,
+          "max": 22.0,
           "min": 9.0
         },
         {
           "date": "2026-08-08",
-          "max": 27.0,
+          "max": 28.0,
           "min": 10.0
         },
         {
           "date": "2026-08-09",
-          "max": 23.0,
-          "min": 12.0
+          "max": 25.0,
+          "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 11.0,
+      "temp": 14.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -47,19 +47,19 @@
         },
         {
           "date": "2026-08-08",
-          "max": 27.0,
+          "max": 28.0,
           "min": 10.0
         },
         {
           "date": "2026-08-09",
-          "max": 28.0,
+          "max": 30.0,
           "min": 13.0
         }
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-07",
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-08-08",
-          "max": 21.0,
+          "max": 22.0,
           "min": 10.0
         },
         {
           "date": "2026-08-09",
-          "max": 20.0,
-          "min": 12.0
+          "max": 21.0,
+          "min": 11.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "‘Humans will be a rounding error on the internet’ says Cloudflare exec",
     "How the famed USENIX Security conf is managing a flood of papers in the AI era"
   ],
-  "crew_quote": "\"Ah, it's a lovely 11 degrees out there — perfect curry weather! Just don’t spill any on the ship's controls; I wouldn’t want to end up swapping the ship with a takeaway menu!\""
+  "crew_quote": "\"Honestly, with weather this nice, I might just fling myself on a beach and let the sun melt my troubles away—just don’t forget the curry for lunch, right?\""
 }
