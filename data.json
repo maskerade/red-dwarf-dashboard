@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T01:13:55.037172+00:00",
+  "timestamp": "2026-08-07T01:44:55.749371+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 9.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-07",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "How the famed USENIX Security conf is managing a flood of papers in the AI era",
     "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon",
     "AI struggles to patch vulns without adult supervision",
-    "Latest GitHub outage squeezes Actions, Pages to death",
-    "Uncle Sam aims to help nuclear energy find its sea legs"
+    "Latest GitHub outage squeezes Actions, Pages to death"
   ],
-  "crew_quote": "\"Is it just me, or does it feel a bit like the weather's been taking pointers from a computer chip? Clear skies and no power usage—might as well be serving curry in a black hole!\""
+  "crew_quote": "\"With this lovely clear weather, I could really go for a curry on the beach—though knowing my luck, I'd probably end up in an AI paper flood instead!\""
 }
