@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T06:24:00.750773+00:00",
+  "timestamp": "2026-08-07T06:55:01.346293+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Sysadmin summoned to explain italics – to a user with at least two degrees",
     "China launches mysterious probe into security of Palo Alto Networks' products",
     "‘Humans will be a rounding error on the internet’ says Cloudflare exec",
-    "How the famed USENIX Security conf is managing a flood of papers in the AI era",
-    "AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon"
+    "How the famed USENIX Security conf is managing a flood of papers in the AI era"
   ],
-  "crew_quote": "\"With it being 11 degrees and partly cloudy, I reckon it’s a perfect day for a curry — unless the patchy rain decides to join the party, of course!\""
+  "crew_quote": "\"Cor, it's 11 degrees and patchy rain—perfect weather for a curry, if you ask me! Nothing like a good curry to brighten up a cloudy day, eh?\""
 }
