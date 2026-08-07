@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T11:03:05.923598+00:00",
+  "timestamp": "2026-08-07T11:34:06.291203+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Attacker phished way into US defense supplier's Microsoft 365 account",
     "Intrusion at US healthcare software provider puts 3.8M people's data at risk",
     "'Asimov was right' about rules for robots, says ex-US Cyber Director",
-    "Cop who used police system to snoop for info on crook pals sentenced for Computer Misuse Act offenses",
-    "Sysadmin summoned to explain italics – to a user with at least two degrees"
+    "Cop who used police system to snoop for info on crook pals sentenced for Computer Misuse Act offenses"
   ],
-  "crew_quote": "\"Well, it's a lovely 20 degrees in Overseal, but I bet I could figure out a way to cook a curry that'd make even the patchy rain jealous!\""
+  "crew_quote": "\"You know, with temperatures hovering around a lovely 20 degrees, it's the perfect day for a curry. Just not one of those patchy rain-enhanced ones. Ugh.\""
 }
