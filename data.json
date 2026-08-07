@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T22:56:18.235442+00:00",
+  "timestamp": "2026-08-07T23:27:19.259469+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 12.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-08-07",
-          "max": 22.0,
-          "min": 9.0
-        },
         {
           "date": "2026-08-08",
           "max": 26.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-09",
           "max": 23.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-08-10",
+          "max": 22.0,
+          "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Clear",
+      "temp": 12.0,
+      "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-08-07",
-          "max": 24.0,
-          "min": 8.0
-        },
         {
           "date": "2026-08-08",
           "max": 27.0,
@@ -54,18 +49,18 @@
           "date": "2026-08-09",
           "max": 27.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-08-10",
+          "max": 24.0,
+          "min": 13.0
         }
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 10.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-08-07",
-          "max": 19.0,
-          "min": 10.0
-        },
         {
           "date": "2026-08-08",
           "max": 21.0,
@@ -75,17 +70,22 @@
           "date": "2026-08-09",
           "max": 20.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-08-10",
+          "max": 17.0,
+          "min": 11.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:35 AM",
-    "sunset": "08:53 PM",
+    "sunrise": "05:37 AM",
+    "sunset": "08:51 PM",
     "moon_phase": "Waning Crescent",
-    "moon_illumination": "40",
-    "moonrise": "11:41 PM",
-    "moonset": "05:03 PM"
+    "moon_illumination": "29",
+    "moonrise": "No moonrise",
+    "moonset": "06:22 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Ransomware attacks spike as world distracted by AI",
     "Brit boffins boast of beating barriers to building fusion power"
   ],
-  "crew_quote": "\"Clear skies, 14 degrees, and I'm still stuck on this ship! A nice curry could definitely brighten up my day, but no, it's just me and a soggy space rat.\""
+  "crew_quote": "\"Clear skies and a lovely 12 degrees? Perfect weather for a curry! Just don't ask me to fix the water system; I can barely fix my hair!\""
 }
