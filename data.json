@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T22:11:42.523935+00:00",
+  "timestamp": "2026-08-08T22:42:43.239776+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
     "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks"
   ],
-  "crew_quote": "\"Clear skies and a lovely 17 degrees, just perfect for a curry picnic! Unless of course, the South Koreans spot us first, then we might need to rethink our outdoor dining plans!\""
+  "crew_quote": "\"They're making security the default? Brilliant! Now if only they could make curry the default on this ship, things would really be looking up at a toasty 16 degrees!\""
 }
