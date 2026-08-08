@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T09:16:28.830637+00:00",
+  "timestamp": "2026-08-08T09:47:29.751675+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "South Korean satellite spots SpaceX lunar impact",
     "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
     "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks",
-    "AI titans to tidy agent frontier with plugin prescription",
-    "Ransomware attacks spike as world distracted by AI"
+    "AI titans to tidy agent frontier with plugin prescription"
   ],
-  "crew_quote": "\"With this lovely weather, I could really go for a curry on the beach—just me, the sun, and a plate of vindaloo sizzling away, mate!\""
+  "crew_quote": "\"Sunny weather like this makes me wanna grab a curry and take a nap—just not in the middle of a SpaceX impact zone, eh?\""
 }
