@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T02:02:21.536038+00:00",
+  "timestamp": "2026-08-08T02:33:21.960666+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Clear ",
+      "temp": 14.0,
+      "conditions": "Clear",
       "forecast": [
         {
           "date": "2026-08-08",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
     "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks",
     "AI titans to tidy agent frontier with plugin prescription",
-    "Ransomware attacks spike as world distracted by AI",
-    "Brit boffins boast of beating barriers to building fusion power"
+    "Ransomware attacks spike as world distracted by AI"
   ],
-  "crew_quote": "\"You know, if the weather's nice enough for a curry, I might just finally get some sunshine in my life, instead of the usual gloom of space!\""
+  "crew_quote": "\"Well, I suppose at least the weather’s clear for a change—might even get out and find a good curry, if the power doesn’t go out again!\""
 }
