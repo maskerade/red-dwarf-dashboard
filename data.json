@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T14:26:34.595997+00:00",
+  "timestamp": "2026-08-08T14:57:35.546504+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 26.0,
+      "temp": 27.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -32,7 +32,7 @@
         {
           "date": "2026-08-10",
           "max": 23.0,
-          "min": 13.0
+          "min": 11.0
         }
       ]
     },
@@ -42,7 +42,7 @@
       "forecast": [
         {
           "date": "2026-08-08",
-          "max": 27.0,
+          "max": 28.0,
           "min": 10.0
         },
         {
@@ -63,7 +63,7 @@
       "forecast": [
         {
           "date": "2026-08-08",
-          "max": 21.0,
+          "max": 22.0,
           "min": 10.0
         },
         {
@@ -74,7 +74,7 @@
         {
           "date": "2026-08-10",
           "max": 18.0,
-          "min": 12.0
+          "min": 11.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
     "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks"
   ],
-  "crew_quote": "\"26 degrees and partly cloudy? Blimey, it’s hotter in here than a curry on a bad day! Not that I’m complaining, mind you — just leave the cooling unit alone!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! I reckon we could fry an egg on that bit of the ship that always falls off.\""
 }
