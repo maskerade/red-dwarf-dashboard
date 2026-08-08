@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T15:59:36.450959+00:00",
+  "timestamp": "2026-08-08T16:30:36.677437+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 26.0,
+      "temp": 28.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
-      "conditions": "Sunny",
+      "temp": 22.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-08",
@@ -94,5 +94,5 @@
     "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
     "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry left out in the sun! Let's hope the only thing crashing today is that SpaceX rocket, not my dreams of a pint!\""
+  "crew_quote": "\"Did you see the weather? It's a balmy 27 degrees! Perfect curry-eating weather, if only we had a proper takeaway on this ship!\""
 }
