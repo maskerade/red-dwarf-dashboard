@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T05:08:24.751576+00:00",
+  "timestamp": "2026-08-08T05:39:25.677816+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 11.0,
-      "conditions": "Clear ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-08",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 10.0,
-      "conditions": "Clear ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-08",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 10.0,
-      "conditions": "Clear ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-08",
@@ -94,5 +94,5 @@
     "AI titans to tidy agent frontier with plugin prescription",
     "Ransomware attacks spike as world distracted by AI"
   ],
-  "crew_quote": "\"Eleven degrees and clear skies? Briliant! Just enough chill to enjoy a curry without sweating all over it—now that’s what I call a perfect day!\""
+  "crew_quote": "\"With temperatures at a balmy 11 degrees, I’m tempted to crack open a cold curry and sit outside, unless the internet decides to implode again, of course!\""
 }
