@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T19:05:39.565815+00:00",
+  "timestamp": "2026-08-08T19:36:40.287596+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 21.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 26.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 24.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-08",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 17.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-08",
@@ -94,5 +94,5 @@
     "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
     "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks"
   ],
-  "crew_quote": "\"Did you see that weather? Twenty-five degrees! Perfect for a curry in the sun, but I suppose I’ll have to settle for another bowl of space noodles. Cheers, universe!\""
+  "crew_quote": "\"Look at that weather! I could really go for a curry after this beautiful day—nothing like a bit of sunshine to spice up the ol’ appetite!\""
 }
