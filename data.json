@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T12:53:32.889788+00:00",
+  "timestamp": "2026-08-08T13:24:33.702317+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
-      "conditions": "Sunny",
+      "temp": 26.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-08",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Sunny",
+      "temp": 26.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-08",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
     "South Korean satellite spots SpaceX lunar impact",
     "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
-    "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks",
-    "AI titans to tidy agent frontier with plugin prescription"
+    "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks"
   ],
-  "crew_quote": "\"Did you see that lovely 25°C weather outside? Makes me think a nice curry would really hit the spot, as long as we don't let Rimmer near the cooking!\""
+  "crew_quote": "\"26 degrees and partly cloudy? Brilliant! Perfect weather for a nice curry and a bit of a snooze — just as long as I don't wake up to find the ship's lost in space again!\""
 }
