@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T20:38:41.003118+00:00",
+  "timestamp": "2026-08-08T21:09:41.222994+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 17.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-08",
@@ -26,40 +26,40 @@
         },
         {
           "date": "2026-08-09",
-          "max": 23.0,
-          "min": 12.0
+          "max": 25.0,
+          "min": 13.0
         },
         {
           "date": "2026-08-10",
-          "max": 23.0,
+          "max": 21.0,
           "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 24.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-08",
-          "max": 28.0,
+          "max": 27.0,
           "min": 10.0
         },
         {
           "date": "2026-08-09",
           "max": 28.0,
-          "min": 13.0
+          "min": 14.0
         },
         {
           "date": "2026-08-10",
-          "max": 26.0,
-          "min": 13.0
+          "max": 24.0,
+          "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 13.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-08",
@@ -69,12 +69,12 @@
         {
           "date": "2026-08-09",
           "max": 21.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-08-10",
-          "max": 18.0,
-          "min": 11.0
+          "max": 16.0,
+          "min": 10.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
     "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks"
   ],
-  "crew_quote": "\"Bit nippy at 17°C in Llandudno—perfect curry weather, if you ask me! Just needs a bit of spice to heat things up, right?\""
+  "crew_quote": "\"Oi, with it being a lovely 19 degrees outside, this is the perfect day for a curry, not that I expect the others to appreciate my culinary genius!\""
 }
