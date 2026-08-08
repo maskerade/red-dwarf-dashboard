@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T17:32:37.996507+00:00",
+  "timestamp": "2026-08-08T18:03:38.664593+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
+      "temp": 25.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 28.0,
+      "temp": 26.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
+      "temp": 20.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
     "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks"
   ],
-  "crew_quote": "\"Blimey, 27 degrees and partly cloudy? Perfect weather for a curry on the beach, as long as I don’t spill any on me vest!\""
+  "crew_quote": "\"Feels like a curry night, but with this weather, I'm thinking a nice cold lager would go down a treat — maybe even while watching some blasted satellite crash on the moon!\""
 }
