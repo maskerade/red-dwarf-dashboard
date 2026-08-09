@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T16:48:04.476829+00:00",
+  "timestamp": "2026-08-09T17:19:04.664413+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 22.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 29.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
+      "temp": 20.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
     "South Korean satellite spots SpaceX lunar impact"
   ],
-  "crew_quote": "\"Blimey, it's 29 degrees in Overseal! And here I am sweating like a curry in a microwave, while you lot are worrying about ransomware instead of cooling down!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in Overseal! Just goes to show, even the sun's got its priorities straight—it's after the IT blokes, not the CEOs!\""
 }
