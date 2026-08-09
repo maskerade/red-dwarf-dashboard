@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T01:17:46.109524+00:00",
+  "timestamp": "2026-08-09T01:48:46.625441+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
     "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks"
   ],
-  "crew_quote": "\"With it being 15 degrees and clear, it’s a perfect day for a refreshing stroll… or a curry. I mean, priorities, right?\""
+  "crew_quote": "\"Looks like it's 14 degrees in Altrincham, perfect curry weather! Just don’t ask me to cook it, I can barely boil water without calling for backup!\""
 }
