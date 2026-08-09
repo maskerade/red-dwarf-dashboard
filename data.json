@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T23:00:15.917145+00:00",
+  "timestamp": "2026-08-09T23:31:11.485316+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Clear",
+      "temp": 15.0,
+      "conditions": "Cloudy ",
       "forecast": [
-        {
-          "date": "2026-08-09",
-          "max": 26.0,
-          "min": 12.0
-        },
         {
           "date": "2026-08-10",
           "max": 22.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-11",
           "max": 29.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-08-12",
+          "max": 33.0,
+          "min": 14.0
         }
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 14.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
-        {
-          "date": "2026-08-09",
-          "max": 28.0,
-          "min": 13.0
-        },
         {
           "date": "2026-08-10",
           "max": 25.0,
@@ -54,18 +49,18 @@
           "date": "2026-08-11",
           "max": 30.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-08-12",
+          "max": 34.0,
+          "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Light drizzle",
+      "temp": 13.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
-        {
-          "date": "2026-08-09",
-          "max": 21.0,
-          "min": 11.0
-        },
         {
           "date": "2026-08-10",
           "max": 17.0,
@@ -75,17 +70,22 @@
           "date": "2026-08-11",
           "max": 24.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-08-12",
+          "max": 25.0,
+          "min": 15.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:39 AM",
-    "sunset": "08:49 PM",
+    "sunrise": "05:41 AM",
+    "sunset": "08:47 PM",
     "moon_phase": "Waning Crescent",
-    "moon_illumination": "19",
-    "moonrise": "12:34 AM",
-    "moonset": "07:22 PM"
+    "moon_illumination": "10",
+    "moonrise": "01:50 AM",
+    "moonset": "08:01 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
     "South Korean satellite spots SpaceX lunar impact"
   ],
-  "crew_quote": "\"Well, at least it's brilliant weather for a little stroll, unlike that drizzly mess in Llandudno. Fancy a curry, then? Can't eat it if I don't get my steps in!\""
+  "crew_quote": "\"With this cloudy weather in Altrincham, I reckon a nice curry could really brighten up the day—after all, there's nothing like spicy food to warm you up when it's all grey outside!\""
 }
