@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T02:50:47.699379+00:00",
+  "timestamp": "2026-08-09T03:21:48.252096+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,13 +16,13 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-09",
           "max": 25.0,
-          "min": 13.0
+          "min": 12.0
         },
         {
           "date": "2026-08-10",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 14.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-09",
@@ -48,7 +48,7 @@
         {
           "date": "2026-08-10",
           "max": 24.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-08-11",
@@ -69,7 +69,7 @@
         {
           "date": "2026-08-10",
           "max": 16.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-08-11",
@@ -94,5 +94,5 @@
     "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
     "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks"
   ],
-  "crew_quote": "\"The weather's not too shabby for a change; I might just whip up a curry and let the clear skies distract me from the fact that we're still stuck in deep space!\""
+  "crew_quote": "\"With the weather being a balmy 13 degrees, I reckon it’s the perfect day for a curry, maybe even two—just to really feel the heat, you know!\""
 }
