@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T15:15:02.451145+00:00",
+  "timestamp": "2026-08-09T15:46:03.195846+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,18 +16,18 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 23.0,
+      "temp": 25.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-09",
-          "max": 23.0,
+          "max": 26.0,
           "min": 12.0
         },
         {
           "date": "2026-08-10",
-          "max": 23.0,
-          "min": 13.0
+          "max": 22.0,
+          "min": 12.0
         },
         {
           "date": "2026-08-11",
@@ -37,18 +37,18 @@
       ]
     },
     "overseal": {
-      "temp": 27.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 29.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-09",
-          "max": 27.0,
+          "max": 29.0,
           "min": 13.0
         },
         {
           "date": "2026-08-10",
-          "max": 25.0,
-          "min": 13.0
+          "max": 24.0,
+          "min": 12.0
         },
         {
           "date": "2026-08-11",
@@ -58,22 +58,22 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Cloudy ",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-09",
-          "max": 20.0,
+          "max": 21.0,
           "min": 11.0
         },
         {
           "date": "2026-08-10",
-          "max": 17.0,
+          "max": 16.0,
           "min": 11.0
         },
         {
           "date": "2026-08-11",
-          "max": 24.0,
+          "max": 25.0,
           "min": 11.0
         }
       ]
@@ -94,5 +94,5 @@
     "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
     "South Korean satellite spots SpaceX lunar impact"
   ],
-  "crew_quote": "\"With it being 23°C in Altrincham, I might just set up my curry shack outside and let the whole galaxy enjoy the aroma of my culinary genius—until the cloud rolls in, that is!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in Overseal! At this rate, I'm gonna need a cold lager and a nice curry to cool off!\""
 }
