@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T19:54:07.366773+00:00",
+  "timestamp": "2026-08-09T20:25:08.326600+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-09",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-09",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-08-09",
@@ -68,12 +68,12 @@
         },
         {
           "date": "2026-08-10",
-          "max": 16.0,
+          "max": 17.0,
           "min": 11.0
         },
         {
           "date": "2026-08-11",
-          "max": 25.0,
+          "max": 24.0,
           "min": 11.0
         }
       ]
@@ -94,5 +94,5 @@
     "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
     "South Korean satellite spots SpaceX lunar impact"
   ],
-  "crew_quote": "\"With the weather this nice, I could really go for a curry and just sunbathe—though I bet my luck, it’ll start raining any minute now!\""
+  "crew_quote": "\"Look at the weather! It’s overcast in Altrincham—perfect curry-eating weather while pondering if IT managers are the new target for ransomware. Bloody drizzles!\""
 }
