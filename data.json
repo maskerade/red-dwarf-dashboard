@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-09T09:02:56.354062+00:00",
+  "timestamp": "2026-08-09T09:33:56.704182+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 22.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 19.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-09",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
     "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
     "South Korean satellite spots SpaceX lunar impact",
-    "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
-    "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks"
+    "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash"
   ],
-  "crew_quote": "\"Sunny weather and a lunar impact? Things are looking up, but don’t let it distract you from the real danger — where's my curry?\""
+  "crew_quote": "\"Blimey, it’s a lovely 20 degrees out; perfect curry weather! Just don’t expect me to share my best recipe with any of you lot!\""
 }
