@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T04:10:16.211507+00:00",
+  "timestamp": "2026-08-10T04:41:16.756806+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
     "South Korean satellite spots SpaceX lunar impact"
   ],
-  "crew_quote": "\"Looks like it’s a perfect day for a curry, mate! Just don’t forget to keep an eye out for those ransomware blokes; they’re sneakier than a cat in a tuxedo!\""
+  "crew_quote": "\"Well, it's a lovely 13 degrees out, perfect curry weather — just don’t leave the IT manager in charge of the ingredients, or we might end up with ransomware and a dodgy korma!\""
 }
