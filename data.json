@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T20:42:34.003447+00:00",
+  "timestamp": "2026-08-10T21:13:34.468386+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 14.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-10",
@@ -37,12 +37,12 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Sunny",
+      "temp": 14.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-10",
-          "max": 25.0,
+          "max": 24.0,
           "min": 13.0
         },
         {
@@ -52,19 +52,19 @@
         },
         {
           "date": "2026-08-12",
-          "max": 34.0,
+          "max": 35.0,
           "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Sunny",
+      "temp": 11.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-10",
           "max": 16.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-08-11",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "DEF CON hackers add new muscle to water utility protection",
+    "The Future is for Billionaires, the rest will get open weight AI models, maybe",
     "Zuck rekindles open weights Llama drama with Muse Glimmer",
-    "North Korean spies are running local LLMs to cause AI mischief",
-    "Gym rat asks AI agent to book him a class, it hacks a waitlist API to bump him up the list",
-    "LexisNexis pulls three services offline after suspicious server activity"
+    "North Korean spies are running local LLMs to cause AI mischief"
   ],
-  "crew_quote": "\"Look at that! 20 degrees and sunny in Overseal! Perfect weather for a nice curry, or I could just stare at my reflection—either way, I'm looking fabulous!\""
+  "crew_quote": "\"You know, with the weather this nice, we should’ve taken a trip to Llandudno — but then again, who needs the beach when I've got my own fabulousness to bask in?\""
 }
