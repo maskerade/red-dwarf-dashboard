@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T02:06:14.128730+00:00",
+  "timestamp": "2026-08-10T02:37:14.890471+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Clear ",
+      "temp": 14.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-10",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Clear ",
+      "temp": 11.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-10",
@@ -94,5 +94,5 @@
     "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
     "South Korean satellite spots SpaceX lunar impact"
   ],
-  "crew_quote": "\"You know it’s a lovely day when the weather's clear, but I’d still prefer to be inside with a curry and a pint, instead of worrying about IT managers and their ransomware drama!\""
+  "crew_quote": "\"Blimey, I’d say the weather’s as confused as a cat in a dog show—14 degrees and still no curry in sight! Where's the justice?\""
 }
