@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T05:12:17.550091+00:00",
+  "timestamp": "2026-08-10T05:43:17.818736+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Clear ",
+      "temp": 12.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-10",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
     "South Korean satellite spots SpaceX lunar impact"
   ],
-  "crew_quote": "\"At 13 degrees, it’s perfect curry weather, but let’s not forget the real tragedy: those poor IT managers, eating their lunches while dodging ransomware like it’s a bad curry!\""
+  "crew_quote": "\"Well, it’s a lovely day for a curry, innit? I mean, who cares if it’s only 12 degrees and partly cloudy? Just throw in some spice and forget the weather!\""
 }
