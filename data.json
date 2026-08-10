@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T16:03:29.180503+00:00",
+  "timestamp": "2026-08-10T16:34:29.533380+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-10",
@@ -26,13 +26,13 @@
         },
         {
           "date": "2026-08-11",
-          "max": 30.0,
+          "max": 29.0,
           "min": 12.0
         },
         {
           "date": "2026-08-12",
           "max": 34.0,
-          "min": 15.0
+          "min": 14.0
         }
       ]
     },
@@ -47,29 +47,29 @@
         },
         {
           "date": "2026-08-11",
-          "max": 30.0,
-          "min": 11.0
+          "max": 29.0,
+          "min": 12.0
         },
         {
           "date": "2026-08-12",
           "max": 34.0,
-          "min": 13.0
+          "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 16.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-10",
-          "max": 17.0,
-          "min": 11.0
+          "max": 16.0,
+          "min": 10.0
         },
         {
           "date": "2026-08-11",
-          "max": 25.0,
-          "min": 11.0
+          "max": 24.0,
+          "min": 10.0
         },
         {
           "date": "2026-08-12",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "London still dominates Britain's datacenter map, but the regions are powering up",
-    "Smart glasses are only smart if we train them to be good. Then they'll be fantastic",
-    "Demoralized developer's desperate hack came back to haunt him on LinkedIn",
-    "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal"
+    "LexisNexis pulls three services offline after suspicious server activity",
+    "As datacenters expand, so does public opposition to them",
+    "Attackers pick Levi's pockets in social engineering attack",
+    "Wetherspoons bars smart glasses from filming customers"
   ],
-  "crew_quote": "\"Blimey! With Llandudno at 17 degrees, it's almost freezing for a proper curry! But I suppose that's what you get when you're not in the sunny spots like Overseal!\""
+  "crew_quote": "\"Honestly, in this sun, I could fry a curry on the dashboard! Just keep an eye on the servers, I wouldn't want our dinner turning into a data disaster!\""
 }
