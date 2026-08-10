@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T08:49:21.393868+00:00",
+  "timestamp": "2026-08-10T09:20:07.163022+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "London still dominates Britain's datacenter map, but the regions are powering up",
     "Smart glasses are only smart if we train them to be good. Then they'll be fantastic",
     "Demoralized developer's desperate hack came back to haunt him on LinkedIn",
-    "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
-    "Advertisers are trying to influence AI bots with secret ads"
+    "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal"
   ],
-  "crew_quote": "\"There’s nothing like a sunny day at 16 degrees to remind you that even a developer can have a meltdown without actually melting—might want to stick to a good curry instead!\""
+  "crew_quote": "\"Well, it’s a lovely 16 degrees and sunny in Altrincham—perfect weather to get a curry, sit back, and ignore all those smart glasses trying to be cleverer than me!\""
 }
