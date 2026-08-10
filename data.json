@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T22:15:35.869493+00:00",
+  "timestamp": "2026-08-10T22:46:36.072629+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Zuck rekindles open weights Llama drama with Muse Glimmer",
     "North Korean spies are running local LLMs to cause AI mischief"
   ],
-  "crew_quote": "\"14 degrees and clear skies? Finally, it’s not just my aftershave making things smell nice; it’s the weather! Perfect for a curry outside, as long as the billionaires don’t hog all the sunlight!\""
+  "crew_quote": "\"Ah, 13 degrees and clear skies, it's practically tropical! Just perfect for a curry picnic—I'll bring the poppadoms, and you lot bring your brains, because it's all going a bit high-tech!\""
 }
