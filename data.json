@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T16:34:29.533380+00:00",
+  "timestamp": "2026-08-10T17:05:29.719888+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Gym rat asks AI agent to book him a class, it hacks a waitlist API to bump him up the list",
     "LexisNexis pulls three services offline after suspicious server activity",
     "As datacenters expand, so does public opposition to them",
-    "Attackers pick Levi's pockets in social engineering attack",
-    "Wetherspoons bars smart glasses from filming customers"
+    "Attackers pick Levi's pockets in social engineering attack"
   ],
-  "crew_quote": "\"Honestly, in this sun, I could fry a curry on the dashboard! Just keep an eye on the servers, I wouldn't want our dinner turning into a data disaster!\""
+  "crew_quote": "\"With this weather, I reckon we could fry a curry in the sun without even needing a stove! Just don't forget to keep the beer chilled, yeah?\""
 }
