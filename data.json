@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T17:36:30.830098+00:00",
+  "timestamp": "2026-08-10T18:07:31.153834+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 19.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-10",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-10",
@@ -94,5 +94,5 @@
     "As datacenters expand, so does public opposition to them",
     "Attackers pick Levi's pockets in social engineering attack"
   ],
-  "crew_quote": "\"Blimey, with it 21 degrees out and partly cloudy, it’s perfect curry weather! Let’s just hope the gym rat doesn’t bump me from the takeout queue!\""
+  "crew_quote": "\"19 degrees and sunny? Perfect weather for a curry — I’d say it’s a great day for a takeaway, unless the gym rat hacks the delivery API!\""
 }
