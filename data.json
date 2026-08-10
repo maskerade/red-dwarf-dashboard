@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T20:11:33.207957+00:00",
+  "timestamp": "2026-08-10T20:42:34.003447+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Zuck rekindles open weights Llama drama with Muse Glimmer",
     "North Korean spies are running local LLMs to cause AI mischief",
     "Gym rat asks AI agent to book him a class, it hacks a waitlist API to bump him up the list",
-    "LexisNexis pulls three services offline after suspicious server activity",
-    "As datacenters expand, so does public opposition to them"
+    "LexisNexis pulls three services offline after suspicious server activity"
   ],
-  "crew_quote": "\"Ah, lovely weather outside! Just the right temperature for a curry, as long as I don't have to share with a gym rat trying to hack the waitlist!\""
+  "crew_quote": "\"Look at that! 20 degrees and sunny in Overseal! Perfect weather for a nice curry, or I could just stare at my reflection—either way, I'm looking fabulous!\""
 }
