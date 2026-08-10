@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T06:14:18.529336+00:00",
+  "timestamp": "2026-08-10T06:45:18.572285+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "I've gone from writing about SD-WAN to depending on it",
-    "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
-    "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
-    "South Korean satellite spots SpaceX lunar impact"
+    "Demoralized developer's desperate hack came back to haunt him on LinkedIn",
+    "Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal",
+    "Advertisers are trying to influence AI bots with secret ads",
+    "NEC tests parking tech that only starts charging once you exit your car"
   ],
-  "crew_quote": "\"You know, with weather like this, I could really go for a curry on the beach. But knowing my luck, the only thing that’ll be sunny is my face when the Ransomware gangs come calling!\""
+  "crew_quote": "\"Ah, lovely weather for a curry, isn't it? Twelve degrees in Altrincham and I'm still stuck scraping the bottom of the fridge!\""
 }
