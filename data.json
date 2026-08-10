@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T06:45:18.572285+00:00",
+  "timestamp": "2026-08-10T07:16:19.263152+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-10",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
+      "temp": 15.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
+      "temp": 14.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Advertisers are trying to influence AI bots with secret ads",
     "NEC tests parking tech that only starts charging once you exit your car"
   ],
-  "crew_quote": "\"Ah, lovely weather for a curry, isn't it? Twelve degrees in Altrincham and I'm still stuck scraping the bottom of the fridge!\""
+  "crew_quote": "\"You know, with this lovely 15 degrees and sunshine, I reckon we could all use a curry picnic on the deck — just don't go asking Rimmer to bring anything, he’d probably serve us a hologram!\""
 }
