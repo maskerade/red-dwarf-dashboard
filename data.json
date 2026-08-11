@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T14:16:52.553509+00:00",
+  "timestamp": "2026-08-11T14:47:53.054645+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure",
     "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands",
     "Deepfake hiccup unmasks suspected digital certificate fraudster",
-    "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub",
-    "Building up the US power grid won't be wasted, even if the AI bubble bursts"
+    "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a Vindaloo out there! At least the weather’s good for a little sunbathing — as long as it doesn’t fry the curry!\""
+  "crew_quote": "\"Blimey, it’s so hot I could fry a curry on the dashboard—just as long as we don’t have any cyberattack mess ruining my takeaway order!\""
 }
