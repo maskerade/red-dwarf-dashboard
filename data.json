@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T18:24:57.635028+00:00",
+  "timestamp": "2026-08-11T18:55:58.042773+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,28 +16,28 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 27.0,
+      "temp": 26.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-11",
           "max": 29.0,
-          "min": 13.0
+          "min": 12.0
         },
         {
           "date": "2026-08-12",
           "max": 33.0,
-          "min": 16.0
+          "min": 14.0
         },
         {
           "date": "2026-08-13",
-          "max": 35.0,
-          "min": 20.0
+          "max": 36.0,
+          "min": 19.0
         }
       ]
     },
     "overseal": {
-      "temp": 27.0,
+      "temp": 26.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -81,11 +81,11 @@
   },
   "astronomy": {
     "sunrise": "05:42 AM",
-    "sunset": "08:46 PM",
+    "sunset": "08:45 PM",
     "moon_phase": "Waning Crescent",
     "moon_illumination": "4",
-    "moonrise": "03:21 AM",
-    "moonset": "08:27 PM"
+    "moonrise": "03:22 AM",
+    "moonset": "08:26 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure",
     "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands"
   ],
-  "crew_quote": "\"Blimey, with weather like this, I could fry a curry on the pavement—just need a few less wars and a bit more sun to really spice things up!\""
+  "crew_quote": "\"Blimey, it's so hot outside I could fry a curry on the pavement! Just don't ask me to do the washing up after — not even in 26 degrees of sunny bliss!\""
 }
