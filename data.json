@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T15:49:54.278898+00:00",
+  "timestamp": "2026-08-11T16:20:55.007664+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Intel upsizes stock sale to $20B with spending plans still fuzzy",
     "Two wars and a World Cup lead to epic DDoS attacks on publishers",
     "Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure",
-    "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands",
-    "Deepfake hiccup unmasks suspected digital certificate fraudster"
+    "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! Just hope the world doesn’t end before I get to enjoy a proper curry on a sunny day like this.\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! If only my curry was as spicy as this weather—I'd be the king of Altrincham!\""
 }
