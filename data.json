@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T01:21:38.629481+00:00",
+  "timestamp": "2026-08-11T01:52:39.337115+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
+      "temp": 11.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Zuck rekindles open weights Llama drama with Muse Glimmer",
     "North Korean spies are running local LLMs to cause AI mischief"
   ],
-  "crew_quote": "\"Clear skies and a balmy 12 degrees? Perfect weather for a curry — especially if I can eat it while the billionaires worry about those hackers!\""
+  "crew_quote": "\"12 degrees and clear skies? Perfect weather for a curry and a cold one, mate! Just don’t let any billionaire try to muscle in on my takeaway!\""
 }
