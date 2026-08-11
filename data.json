@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T06:00:45.042914+00:00",
+  "timestamp": "2026-08-11T06:31:44.179832+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Clear ",
+      "temp": 14.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-11",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 14.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-08-11",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
-      "conditions": "Clear ",
+      "temp": 12.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-11",
@@ -94,5 +94,5 @@
     "Zuck rekindles open weights Llama drama with Muse Glimmer",
     "North Korean spies are running local LLMs to cause AI mischief"
   ],
-  "crew_quote": "\"Well, it's a lovely twelve degrees out, but I’d trade all the clear skies for a decent curry any day – that’s what really warms the heart, not this fancy weather!\""
+  "crew_quote": "\"14 degrees and sunny? That's the perfect temperature for a curry on the beach, mate! Just watch out for the billionaires trying to steal all the chips!\""
 }
