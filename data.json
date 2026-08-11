@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T10:08:48.346386+00:00",
+  "timestamp": "2026-08-11T10:39:48.459012+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Building up the US power grid won't be wasted, even if the AI bubble bursts",
     "Malicious SIMs can shut down phones, steal files, and drag 5G back to 2G",
     "Why hybrid clouds break and what to do about it",
-    "OVH Cloud warns of 87% price hikes to help it cover RAMpocalypse costs",
-    "Japan kind-of completes its sovereign satnav constellation"
+    "OVH Cloud warns of 87% price hikes to help it cover RAMpocalypse costs"
   ],
-  "crew_quote": "\"21 degrees and sunny? Blimey, that’s practically a holiday! Now, where's my curry and a nice cold lager to celebrate?\""
+  "crew_quote": "\"21 degrees and sunny? Perfect weather for a curry, but knowing my luck, it'll either rain or some malicious SIM will ruin my phone just as I'm ordering!\""
 }
