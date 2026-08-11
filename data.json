@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T15:18:53.607511+00:00",
+  "timestamp": "2026-08-11T15:49:54.278898+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 28.0,
+      "temp": 29.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 28.0,
+      "temp": 29.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -53,7 +53,7 @@
         {
           "date": "2026-08-13",
           "max": 38.0,
-          "min": 17.0
+          "min": 18.0
         }
       ]
     },
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-08-12",
-          "max": 25.0,
+          "max": 26.0,
           "min": 15.0
         },
         {
           "date": "2026-08-13",
-          "max": 25.0,
-          "min": 17.0
+          "max": 24.0,
+          "min": 16.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Two wars and a World Cup lead to epic DDoS attacks on publishers",
     "Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure",
     "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands",
-    "Deepfake hiccup unmasks suspected digital certificate fraudster",
-    "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub"
+    "Deepfake hiccup unmasks suspected digital certificate fraudster"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! I reckon the Rimmers of the world are sweating bullets just thinking about their precious data getting hacked!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! Just hope the world doesn’t end before I get to enjoy a proper curry on a sunny day like this.\""
 }
