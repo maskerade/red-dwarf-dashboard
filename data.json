@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T07:33:45.716976+00:00",
+  "timestamp": "2026-08-11T08:04:46.095536+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 19.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -31,14 +31,14 @@
         },
         {
           "date": "2026-08-13",
-          "max": 32.0,
-          "min": 18.0
+          "max": 36.0,
+          "min": 19.0
         }
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Partly cloudy",
+      "temp": 19.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-11",
@@ -52,29 +52,29 @@
         },
         {
           "date": "2026-08-13",
-          "max": 37.0,
-          "min": 18.0
+          "max": 38.0,
+          "min": 17.0
         }
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 19.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-11",
           "max": 24.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-08-12",
-          "max": 26.0,
+          "max": 25.0,
           "min": 15.0
         },
         {
           "date": "2026-08-13",
           "max": 25.0,
-          "min": 16.0
+          "min": 17.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "DEF CON hackers add new muscle to water utility protection",
-    "The future is for billionaires – the rest of us will get open weight AI models, maybe",
-    "Zuck rekindles open weights Llama drama with Muse Glimmer",
-    "North Korean spies are running local LLMs to cause AI mischief"
+    "Why hybrid clouds break and what to do about it",
+    "OVH Cloud warns of 87% price hikes to help it cover RAMpocalypse costs",
+    "Japan kind-of completes its sovereign satnav constellation",
+    "Alibaba Cloud is using AI to help it use less AI"
   ],
-  "crew_quote": "\"Ah, sunny weather in Altrincham, perfect for a nice curry outside, unless you’re a billionaire – then it’s just another day of pretending to care about the rest of us!\""
+  "crew_quote": "\"19 degrees and sunny? You know what that means — perfect weather for a curry! Just don’t spill it on my best shirt this time, alright?\""
 }
