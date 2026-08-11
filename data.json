@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T11:10:49.298251+00:00",
+  "timestamp": "2026-08-11T11:41:49.795936+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub",
     "Building up the US power grid won't be wasted, even if the AI bubble bursts",
     "Malicious SIMs can shut down phones, steal files, and drag 5G back to 2G",
-    "Why hybrid clouds break and what to do about it",
-    "OVH Cloud warns of 87% price hikes to help it cover RAMpocalypse costs"
+    "Why hybrid clouds break and what to do about it"
   ],
-  "crew_quote": "\"Blimey, it's hotter than the curry I had last night, and that's saying something! I could fry an egg on the dashboard!\""
+  "crew_quote": "\"Ah, nothing like a sunny 25 degrees to remind me of how much I prefer the heat over building power grids — though a nice curry would really complete the picture!\""
 }
