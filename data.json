@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T13:45:51.921727+00:00",
+  "timestamp": "2026-08-11T14:16:52.553509+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 26.0,
+      "temp": 28.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 26.0,
+      "temp": 28.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Mozilla revokes Firefox signing key after unencrypted copy lands in GitHub",
     "Building up the US power grid won't be wasted, even if the AI bubble bursts"
   ],
-  "crew_quote": "\"Blimey, with temperatures hitting 26 degrees, we might as well be on holiday! Just as long as we don’t end up in a curry disaster like last time!\""
+  "crew_quote": "\"Blimey, it’s hotter than a Vindaloo out there! At least the weather’s good for a little sunbathing — as long as it doesn’t fry the curry!\""
 }
