@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T03:44:06.962491+00:00",
+  "timestamp": "2026-08-12T04:15:07.314425+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Intel upsizes stock sale to $20B with spending plans still fuzzy",
-    "Two wars and a World Cup lead to epic DDoS attacks on publishers",
-    "Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure",
-    "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands"
+    "India’s central bank wants AI to approve loans that humans would reject",
+    "Modular's Mojo programming language hits 1.0 milestone",
+    "Signal adds an extra layer of security to make sure you're actually chatting with the right person",
+    "421 bugs in Microsoft's Patch Tuesday release, and the Norks have already attacked one"
   ],
-  "crew_quote": "\"With temperatures hitting a breezy 18 degrees, it's the perfect day for a curry outside! Just as long as we don't get bombarded by any DDoS attacks on our lunch plans!\""
+  "crew_quote": "\"You know, with it being 18 degrees and clear out, I reckon a nice curry would go down a treat. But don’t worry, I’ll leave the cooking to someone who can actually manage it!\""
 }
