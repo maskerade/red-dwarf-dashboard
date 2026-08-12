@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T12:00:17.851478+00:00",
+  "timestamp": "2026-08-12T12:31:16.230976+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 26.0,
+      "temp": 30.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 27.0,
+      "temp": 31.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 24.0,
+      "temp": 26.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "How Voyager engineers found two more years in a 50-year-old power budget",
+    "Brit rail cops bring live facial recognition to the London Underground",
     "Big Cloud is poised to corner the market for enterprise hardware",
-    "We don't serve pies, but we do like a Pi",
-    "UK puts £14B cloud framework in place with SMEs promised a bigger slice",
-    "Nailed it: Toolstation gives its store IT an ASUS NUC refurb"
+    "We don't serve pies, but we do like a Pi"
   ],
-  "crew_quote": "\"It's so sunny out there, I could fry a curry on the pavement! Bet the Big Cloud lot wouldn’t mind a bit of heat—it’s the only thing they haven't cornered yet!\""
+  "crew_quote": "\"It's so hot out there, I'm sweating like a vindaloo at a curry competition! If it gets any warmer, I might just start melting into some kind of beef curry paste!\""
 }
