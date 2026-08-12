@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T05:48:09.144888+00:00",
+  "timestamp": "2026-08-12T06:19:09.848580+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Clear",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-12",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Clear",
+      "temp": 14.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-12",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Clear",
+      "temp": 18.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-12",
@@ -94,5 +94,5 @@
     "Signal adds an extra layer of security to make sure you're actually chatting with the right person",
     "421 bugs in Microsoft's Patch Tuesday release, and the Norks have already attacked one"
   ],
-  "crew_quote": "\"Lovely clear skies today, almost as clear as that AI's logic in approving loans - which is a bit worrying considering I can barely approve my own curry!\""
+  "crew_quote": "\"Oi, it's a lovely 15 degrees out there! Perfect weather for a curry and a bit of a sunbathe; I can't think of anything better than that, apart from maybe a pint!\""
 }
