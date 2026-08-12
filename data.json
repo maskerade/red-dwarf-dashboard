@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T21:49:26.798867+00:00",
+  "timestamp": "2026-08-12T22:20:26.519684+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Smooth-talking fraudsters clone contactless cards, authorize payments in just 13 minutes",
-    "Sovereign AI overcomes compliance challenges and feeds innovation in public sector and other regulated industries, say HPE and NVIDIA",
-    "Uber Freight keeps on trucking after extortion crew breaks in",
-    "Exposed: Woeful security at UK criminal records office that led to sensitive data leak"
+    "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
+    "Tailscale says deeply buried 16-year-old SQLite bug caused last year's outages",
+    "Node.js creator liberates Durable Objects from Cloudflare",
+    "Spectre rears its ugly head again as researchers show some RISC-V chips are susceptible"
   ],
-  "crew_quote": "\"Blimey, it’s warmer than a curry on a summer’s day! Must be all that cloud covering trying to keep up with my dazzling personality!\""
+  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! If those AI agents attack my curry, I’m going to be seriously miffed!\""
 }
