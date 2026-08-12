@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T06:19:09.848580+00:00",
+  "timestamp": "2026-08-12T06:50:09.906755+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Signal adds an extra layer of security to make sure you're actually chatting with the right person",
     "421 bugs in Microsoft's Patch Tuesday release, and the Norks have already attacked one"
   ],
-  "crew_quote": "\"Oi, it's a lovely 15 degrees out there! Perfect weather for a curry and a bit of a sunbathe; I can't think of anything better than that, apart from maybe a pint!\""
+  "crew_quote": "\"15 degrees and sunny? Perfect weather for a curry picnic! Just me, a sizzling Tikka, and a nice cold lager, that's the real programming language I want!\""
 }
