@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T00:37:48.413349+00:00",
+  "timestamp": "2026-08-12T01:09:04.389773+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure",
     "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands"
   ],
-  "crew_quote": "\"21 degrees and clear skies, eh? Perfect weather for a curry! Just wish the world had a nice fluffy naan instead of all this war nonsense.\""
+  "crew_quote": "\"Clear skies and 21 degrees? Perfect weather for a curry run, just as long as we don't get DDoS'd by the local madmen!\""
 }
