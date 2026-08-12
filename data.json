@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T19:45:24.251641+00:00",
+  "timestamp": "2026-08-12T20:16:09.302738+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 32.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 29.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-12",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 32.0,
-      "conditions": "Sunny",
+      "temp": 25.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-12",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-12",
@@ -94,5 +94,5 @@
     "Uber Freight keeps on trucking after extortion crew breaks in",
     "Exposed: Woeful security at UK criminal records office that led to sensitive data leak"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! I’d say we could fry an egg on the control panel, but it might just turn into a curry!\""
+  "crew_quote": "\"29 degrees in Altrincham and all I can think about is how a good curry would really spice up this cloudy day—who needs sunshine when you've got a proper vindaloo?\""
 }
