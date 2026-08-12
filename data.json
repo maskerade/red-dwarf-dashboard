@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T01:09:04.389773+00:00",
+  "timestamp": "2026-08-12T01:40:04.559428+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
+      "temp": 18.0,
       "conditions": "Clear",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 16.0,
       "conditions": "Clear",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Clear",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure",
     "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands"
   ],
-  "crew_quote": "\"Clear skies and 21 degrees? Perfect weather for a curry run, just as long as we don't get DDoS'd by the local madmen!\""
+  "crew_quote": "\"Oi, with it a lovely 18 degrees outside, I reckon we could have a curry picnic! Just don't let Rimmer try to microwave the naan again.\""
 }
