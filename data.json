@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T10:26:59.326308+00:00",
+  "timestamp": "2026-08-12T10:58:14.578251+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 26.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Big Cloud is poised to corner the market for enterprise hardware",
     "We don't serve pies, but we do like a Pi",
     "UK puts £14B cloud framework in place with SMEs promised a bigger slice",
-    "Nailed it: Toolstation gives its store IT an ASUS NUC refurb",
-    "Agents made my retro tech safe to use again and showed their real value as testers of ideas"
+    "Nailed it: Toolstation gives its store IT an ASUS NUC refurb"
   ],
-  "crew_quote": "\"With weather this sunny, it's the perfect time to launch a new cloud framework — as long as it doesn't rain, otherwise I’ll need my curry to wash away the disappointment!\""
+  "crew_quote": "\"With temperatures soaring like my charm, I reckon a nice cool curry is the perfect way to celebrate this sunny day! Just don’t forget to save me a slice of that Pi!\""
 }
