@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T08:54:12.228963+00:00",
+  "timestamp": "2026-08-12T09:25:12.914117+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "UK puts £14B cloud framework in place with SMEs promised a bigger slice",
     "Nailed it: Toolstation gives its store IT an ASUS NUC refurb",
     "Agents made my retro tech safe to use again and showed their real value as testers of ideas",
-    "Zuck’s Chinese agentic prey escapes, will resume standalone ops",
-    "India’s central bank wants AI to approve loans that humans would reject"
+    "Zuck’s Chinese agentic prey escapes, will resume standalone ops"
   ],
-  "crew_quote": "\"It's a lovely 22 degrees in Llandudno—perfect weather for a curry! Just wish I had a nice cold one to wash it down; blooming space food just doesn't cut it!\""
+  "crew_quote": "\"Blimey, it's a gorgeous 22 degrees out there, perfect for a curry and a pint! Just don't ask me to fix the fridge, it's as broken as my last relationship!\""
 }
