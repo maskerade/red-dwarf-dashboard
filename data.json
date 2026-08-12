@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T13:33:17.681380+00:00",
+  "timestamp": "2026-08-12T14:04:17.827173+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 30.0,
+      "temp": 32.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 31.0,
+      "temp": 33.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Exposed: Woeful security at UK criminal records office that led to sensitive data leak",
     "Akira ransomware scum blocked victim's security tools – and broke their own encryptor",
     "How Voyager engineers found two more years in a 50-year-old power budget",
-    "Brit rail cops bring live facial recognition to the London Underground",
-    "Big Cloud is poised to corner the market for enterprise hardware"
+    "Brit rail cops bring live facial recognition to the London Underground"
   ],
-  "crew_quote": "\"Blimey, with it being 31 degrees in Overseal, I reckon we should just ditch the ship and go for a curry on the beach!\""
+  "crew_quote": "\"Blimey, it’s hotter than a curry left in the sun! What’s next, the ship’s gonna start melting like that dodgy security at the records office?\""
 }
