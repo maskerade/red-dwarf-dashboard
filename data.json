@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T02:42:05.666750+00:00",
+  "timestamp": "2026-08-12T03:13:06.697495+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Clear",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Feds warn Gunra ransomware is exploiting known bugs to hit critical infrastructure",
     "Cyberattack on logistics giant CEVA delivers customer data into the wrong hands"
   ],
-  "crew_quote": "\"Ah, lovely weather today! Perfect for a pint and a curry, if only we could find somewhere that doesn't involve two wars and a World Cup ruining the mood.\""
+  "crew_quote": "\"With the weather being a lovely 18 degrees in Altrincham, it's the perfect day for a curry; bet the DDoS attacks would stop if everyone just got a decent curry in 'em!\""
 }
