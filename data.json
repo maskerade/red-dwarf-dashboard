@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T09:56:13.754070+00:00",
+  "timestamp": "2026-08-12T10:26:59.326308+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "We don't serve pies, but we do like a Pi",
     "UK puts £14B cloud framework in place with SMEs promised a bigger slice",
     "Nailed it: Toolstation gives its store IT an ASUS NUC refurb",
-    "Agents made my retro tech safe to use again and showed their real value as testers of ideas",
-    "Zuck’s Chinese agentic prey escapes, will resume standalone ops"
+    "Agents made my retro tech safe to use again and showed their real value as testers of ideas"
   ],
-  "crew_quote": "\"Oi, it's a blistering 22 degrees outside! Perfect weather for a curry, unless you're the one who's stuck managing the cloud framework. Good luck with that, mate!\""
+  "crew_quote": "\"With weather this sunny, it's the perfect time to launch a new cloud framework — as long as it doesn't rain, otherwise I’ll need my curry to wash away the disappointment!\""
 }
