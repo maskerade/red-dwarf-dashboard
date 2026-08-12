@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T18:12:22.619127+00:00",
+  "timestamp": "2026-08-12T18:43:22.991289+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 33.0,
-      "conditions": "Sunny",
+      "temp": 32.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-12",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 33.0,
+      "temp": 32.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 23.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Uber Freight keeps on trucking after extortion crew breaks in",
     "Exposed: Woeful security at UK criminal records office that led to sensitive data leak"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! Must be all that fraud going around—people cooking the books like they're cooking my dinner!\""
+  "crew_quote": "\"Blimey, 32 degrees! It’s so hot, I could fry a curry on the dashboard! Just watch out for those smooth-talking fraudsters—can’t trust their sizzling charm!\""
 }
