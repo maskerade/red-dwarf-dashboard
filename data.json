@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T07:52:11.466924+00:00",
+  "timestamp": "2026-08-12T08:23:11.621562+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "India’s central bank wants AI to approve loans that humans would reject",
-    "Modular's Mojo programming language hits 1.0 milestone",
-    "Signal adds an extra layer of security to make sure you're actually chatting with the right person",
-    "421 bugs in Microsoft's Patch Tuesday release, and the Norks have already attacked one"
+    "Nailed it: Toolstation gives its store IT an ASUS NUC refurb",
+    "Agents made my retro tech safe to use again and showed their real value as testers of ideas",
+    "Zuck’s Chinese agentic prey escapes, will resume standalone ops",
+    "India’s central bank wants AI to approve loans that humans would reject"
   ],
-  "crew_quote": "\"Twenty degrees and sunny, it's practically tropical! I think I might just have a curry picnic on the deck – nothing like a good vindaloo to spice up a lovely day!\""
+  "crew_quote": "\"Ah, sunny days like this make me want to whip up a curry and get a tan, but instead, I've just got this lovely old refurb to admire!\""
 }
