@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T23:22:28.049561+00:00",
+  "timestamp": "2026-08-12T23:53:28.134453+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Node.js creator liberates Durable Objects from Cloudflare",
     "Spectre rears its ugly head again as researchers show some RISC-V chips are susceptible"
   ],
-  "crew_quote": "\"With weather like this, I could almost forget our ship's a glorified tin can—though a lovely curry under the clear skies would definitely help!\""
+  "crew_quote": "\"Blimey, 24 degrees in Altrincham! If it gets any warmer, my curry's gonna start sweating before I even eat it!\""
 }
