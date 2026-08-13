@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T15:54:45.209058+00:00",
+  "timestamp": "2026-08-13T16:25:46.106502+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,23 +16,23 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 35.0,
+      "temp": 31.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-13",
-          "max": 35.0,
+          "max": 36.0,
           "min": 19.0
         },
         {
           "date": "2026-08-14",
-          "max": 24.0,
+          "max": 27.0,
           "min": 16.0
         },
         {
           "date": "2026-08-15",
           "max": 21.0,
-          "min": 14.0
+          "min": 12.0
         }
       ]
     },
@@ -42,12 +42,12 @@
       "forecast": [
         {
           "date": "2026-08-13",
-          "max": 37.0,
+          "max": 36.0,
           "min": 17.0
         },
         {
           "date": "2026-08-14",
-          "max": 29.0,
+          "max": 31.0,
           "min": 16.0
         },
         {
@@ -59,22 +59,22 @@
     },
     "llandudno": {
       "temp": 25.0,
-      "conditions": "Sunny",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-13",
-          "max": 25.0,
+          "max": 26.0,
           "min": 16.0
         },
         {
           "date": "2026-08-14",
-          "max": 19.0,
-          "min": 15.0
+          "max": 21.0,
+          "min": 14.0
         },
         {
           "date": "2026-08-15",
           "max": 16.0,
-          "min": 14.0
+          "min": 11.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "The backup Microsoft never promised you",
     "Mystery attacker spent a year raiding Salesforce and ServiceNow portals"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry left in the sun for a week! At this rate, I might just start cooking my own meals on the dashboard!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in Altrincham! Maybe we should just set the ship to 'Dawn of Time' and chill out for a bit!\""
 }
