@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T08:09:36.759429+00:00",
+  "timestamp": "2026-08-13T08:40:37.676501+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,71 +16,71 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 24.0,
+      "temp": 26.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-13",
-          "max": 36.0,
-          "min": 20.0
+          "max": 34.0,
+          "min": 21.0
         },
         {
           "date": "2026-08-14",
-          "max": 26.0,
+          "max": 25.0,
           "min": 16.0
         },
         {
           "date": "2026-08-15",
-          "max": 22.0,
-          "min": 12.0
+          "max": 21.0,
+          "min": 14.0
         }
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 26.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-13",
-          "max": 36.0,
-          "min": 18.0
+          "max": 37.0,
+          "min": 17.0
         },
         {
           "date": "2026-08-14",
-          "max": 30.0,
+          "max": 29.0,
           "min": 16.0
         },
         {
           "date": "2026-08-15",
-          "max": 26.0,
+          "max": 24.0,
           "min": 13.0
         }
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-13",
-          "max": 26.0,
+          "max": 25.0,
           "min": 16.0
         },
         {
           "date": "2026-08-14",
-          "max": 20.0,
-          "min": 14.0
+          "max": 19.0,
+          "min": 15.0
         },
         {
           "date": "2026-08-15",
           "max": 16.0,
-          "min": 12.0
+          "min": 14.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:46 AM",
+    "sunrise": "05:45 AM",
     "sunset": "08:41 PM",
     "moon_phase": "Waxing Crescent",
     "moon_illumination": "0",
@@ -94,5 +94,5 @@
     "Tencent says it could make instant profits on $53bn hardware splurge by renting it for AI workloads",
     "Chinese Loongson processors have leaky caches, researchers find"
   ],
-  "crew_quote": "\"Can you believe it? A lovely sunny day at 24 degrees, and here I am stuck in a ship pretending to be important while you lot get to bask in the glory of the great outdoors!\""
+  "crew_quote": "\"Sunny days like this make me want to sit back with a curry and a pint, but knowing my passwords are floating around in a public Doc is like serving up a vindaloo on a first date!\""
 }
