@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T22:06:51.924817+00:00",
+  "timestamp": "2026-08-13T22:37:52.670361+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
+      "temp": 20.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
+      "temp": 21.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 16.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "The backup Microsoft never promised you",
     "Mystery attacker spent a year raiding Salesforce and ServiceNow portals"
   ],
-  "crew_quote": "\"At 21 degrees, Altrincham's looking positively tropical! I could really go for a curry right now, maybe topped with a sprinkle of that clear blue sky!\""
+  "crew_quote": "\"Would you look at that? Twenty degrees and partly cloudy! Perfect weather for a curry, if only I could remember how to cook one without blowing something up!\""
 }
