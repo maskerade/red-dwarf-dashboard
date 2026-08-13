@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T20:33:50.659459+00:00",
+  "timestamp": "2026-08-13T21:04:54.401251+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
-      "conditions": "Sunny",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-13",
@@ -26,19 +26,19 @@
         },
         {
           "date": "2026-08-14",
-          "max": 27.0,
+          "max": 26.0,
           "min": 16.0
         },
         {
           "date": "2026-08-15",
           "max": 21.0,
-          "min": 12.0
+          "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 27.0,
-      "conditions": "Sunny",
+      "temp": 25.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-13",
@@ -47,7 +47,7 @@
         },
         {
           "date": "2026-08-14",
-          "max": 31.0,
+          "max": 30.0,
           "min": 16.0
         },
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-13",
@@ -94,5 +94,5 @@
     "The backup Microsoft never promised you",
     "Mystery attacker spent a year raiding Salesforce and ServiceNow portals"
   ],
-  "crew_quote": "\"With it being 25 degrees out, I'm feeling hot enough to fry a curry without a stove—if only I could find a JCB that could dig a really good takeaway!\""
+  "crew_quote": "\"Well, with it being a balmy 25°C and clear skies, I reckon it’s the perfect day for a curry picnic! Just don’t let that JCB outpace my lunch, yeah?\""
 }
