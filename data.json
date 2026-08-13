@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T17:27:46.978166+00:00",
+  "timestamp": "2026-08-13T17:58:48.237335+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 31.0,
+      "temp": 29.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 25.0,
+      "temp": 23.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "The backup Microsoft never promised you",
     "Mystery attacker spent a year raiding Salesforce and ServiceNow portals"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! I reckon that JCB could dig a hole to the sun at 406 mph, but I’d just rather curry and chill, mate!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo at a karaoke night in Overseal! I reckon even the JCBs are sweating in this heat!\""
 }
