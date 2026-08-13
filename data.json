@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T12:17:41.551342+00:00",
+  "timestamp": "2026-08-13T12:48:42.204423+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Ryanair adds Google Cloud to its dual-cloud flight plan",
     "AWS key exposed in JavaScript may have lit way to Beacon's charity data",
     "Twitch feeds your streams to Amazon's AI unless you tell it to stop",
-    "Everything is better with pickles... except Windows",
-    "Passwords stored in public Google Doc then showed up in search results"
+    "Everything is better with pickles... except Windows"
   ],
-  "crew_quote": "\"32 degrees in Altrincham? Blimey, it's hotter than a vindaloo curry on a Sunday! Perfect weather for lounging about and doing absolutely nothing!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry left on the engine for a week! At this rate, we’ll be needing a fan to cool off down in the bunk room!\""
 }
