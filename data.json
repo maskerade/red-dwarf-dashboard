@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T06:05:34.933896+00:00",
+  "timestamp": "2026-08-13T06:36:34.940959+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Tailscale says deeply buried 16-year-old SQLite bug caused last year's outages",
     "Node.js creator liberates Durable Objects from Cloudflare"
   ],
-  "crew_quote": "\"With the weather being so nice at 20 degrees, I think I’ll pop outside for a bit of sun—might even find a nice curry shop while I’m at it!\""
+  "crew_quote": "\"20 degrees and sunny? Perfect weather for a pint and a curry, but knowing my luck, the only thing that’ll cook today is my brain thinking about that rent-a-GPU nonsense!\""
 }
