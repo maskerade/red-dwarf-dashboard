@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T03:30:32.243439+00:00",
+  "timestamp": "2026-08-13T04:01:32.867070+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -21,28 +21,28 @@
       "forecast": [
         {
           "date": "2026-08-13",
-          "max": 36.0,
-          "min": 20.0
+          "max": 35.0,
+          "min": 21.0
         },
         {
           "date": "2026-08-14",
           "max": 25.0,
-          "min": 15.0
+          "min": 16.0
         },
         {
           "date": "2026-08-15",
-          "max": 21.0,
-          "min": 13.0
+          "max": 22.0,
+          "min": 14.0
         }
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-13",
-          "max": 37.0,
+          "max": 36.0,
           "min": 18.0
         },
         {
@@ -52,8 +52,8 @@
         },
         {
           "date": "2026-08-15",
-          "max": 25.0,
-          "min": 12.0
+          "max": 26.0,
+          "min": 13.0
         }
       ]
     },
@@ -63,7 +63,7 @@
       "forecast": [
         {
           "date": "2026-08-13",
-          "max": 25.0,
+          "max": 26.0,
           "min": 16.0
         },
         {
@@ -80,7 +80,7 @@
     }
   },
   "astronomy": {
-    "sunrise": "05:46 AM",
+    "sunrise": "05:45 AM",
     "sunset": "08:41 PM",
     "moon_phase": "Waxing Crescent",
     "moon_illumination": "0",
@@ -94,5 +94,5 @@
     "Tailscale says deeply buried 16-year-old SQLite bug caused last year's outages",
     "Node.js creator liberates Durable Objects from Cloudflare"
   ],
-  "crew_quote": "\"Blimey, with it being 22 degrees out there, I could go for a nice curry in the sun — if only my luck with women was as good as the weather!\""
+  "crew_quote": "\"With weather this nice, I'd say it's prime curry-eating time! Just me, a takeaway, and the universe feeling like a soufflé—light and fluffy!\""
 }
