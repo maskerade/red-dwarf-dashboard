@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T09:42:38.628383+00:00",
+  "timestamp": "2026-08-13T10:13:39.230445+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,17 +16,17 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 26.0,
+      "temp": 31.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-13",
-          "max": 34.0,
-          "min": 21.0
+          "max": 35.0,
+          "min": 19.0
         },
         {
           "date": "2026-08-14",
-          "max": 25.0,
+          "max": 24.0,
           "min": 16.0
         },
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 26.0,
+      "temp": 31.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -80,7 +80,7 @@
     }
   },
   "astronomy": {
-    "sunrise": "05:45 AM",
+    "sunrise": "05:46 AM",
     "sunset": "08:41 PM",
     "moon_phase": "Waxing Crescent",
     "moon_illumination": "0",
@@ -94,5 +94,5 @@
     "Cisco thinks Mythos means instant death for unsupported networking kit",
     "Tencent says it could make instant profits on $53B hardware splurge by renting it for AI workloads"
   ],
-  "crew_quote": "\"26 degrees and sunny, eh? Just perfect for a curry picnic — but don't get any bright ideas about pickles on it, or I’ll have to disown you!\""
+  "crew_quote": "\"It's so hot, even the pickles are sweating! At this rate, I might as well just make a curry with them!\""
 }
