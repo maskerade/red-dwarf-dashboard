@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T15:23:44.496999+00:00",
+  "timestamp": "2026-08-13T15:54:45.209058+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "This JCB doesn't dig – it does 406 mph",
+    "Trump wants to grant private cyber firms a license to hack back",
     "The backup Microsoft never promised you",
-    "Mystery attacker spent a year raiding Salesforce and ServiceNow portals",
-    "Ryanair adds Google to its dual-cloud flight plan",
-    "AWS key exposed in JavaScript may have lit way to Beacon's charity data"
+    "Mystery attacker spent a year raiding Salesforce and ServiceNow portals"
   ],
-  "crew_quote": "\"Blimey, with it hitting 36°C in Overseal, I could fry an egg on my head! Not that I would, because that would ruin my hair—gotta look fabulous, you know!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry left in the sun for a week! At this rate, I might just start cooking my own meals on the dashboard!\""
 }
