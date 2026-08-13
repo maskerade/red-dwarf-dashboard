@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T11:15:40.642850+00:00",
+  "timestamp": "2026-08-13T11:46:40.729065+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 31.0,
+      "temp": 32.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 31.0,
+      "temp": 33.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 24.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AWS key exposed in JavaScript may have lit way to Beacon's charity data",
     "Twitch feeds your streams to Amazon's AI unless you tell it to stop",
     "Everything is better with pickles... except Windows",
-    "Passwords stored in public Google Doc then showed up in search results",
-    "Cisco thinks Mythos means instant death for unsupported networking kit"
+    "Passwords stored in public Google Doc then showed up in search results"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a vindaloo in here! I could fry an egg on my forehead, but hey, at least I’m not having to watch Windows update itself!\""
+  "crew_quote": "\"What’s it like out there? I can’t even sweat in this heat! I reckon I’d be better off curled up with a curry in the fridge than facing this zero-kilowatt oven!\""
 }
