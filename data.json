@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T19:00:34.792299+00:00",
+  "timestamp": "2026-08-13T19:31:49.310296+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 29.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 36.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 23.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 20.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-13",
@@ -94,5 +94,5 @@
     "The backup Microsoft never promised you",
     "Mystery attacker spent a year raiding Salesforce and ServiceNow portals"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in Overseal! Let's just hope that JCB can dig us a hole to jump in – if it’s doing 406 mph, I’d settle for a nice shady spot!\""
+  "crew_quote": "\"Blimey, 27 degrees in Overseal? That's practically a heatwave! Think I’ll whip up a curry and celebrate with a cold lager—if we can find a fridge that actually works!\""
 }
