@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T06:36:34.940959+00:00",
+  "timestamp": "2026-08-13T07:07:35.842354+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Rent-a-GPU outfit Nebius promises rapid 1 GW powerup plan isn't nebulous",
-    "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
-    "Tailscale says deeply buried 16-year-old SQLite bug caused last year's outages",
-    "Node.js creator liberates Durable Objects from Cloudflare"
+    "Passwords stored in public Google Doc then showed up in search results",
+    "Cisco thinks Mythos means instant death for unsupported networking kit",
+    "Tencent says it could make instant profits on $53bn hardware splurge by renting it for AI workloads",
+    "Chinese Loongson processors have leaky caches, researchers find"
   ],
-  "crew_quote": "\"20 degrees and sunny? Perfect weather for a pint and a curry, but knowing my luck, the only thing that’ll cook today is my brain thinking about that rent-a-GPU nonsense!\""
+  "crew_quote": "\"Oh, look at that! It's a lovely 24 degrees, perfect weather for a curry picnic — as long as we don't forget our passwords in a Google Doc, that’d really ruin the vibe!\""
 }
