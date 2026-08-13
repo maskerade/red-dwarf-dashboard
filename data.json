@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T01:26:29.716406+00:00",
+  "timestamp": "2026-08-13T01:57:15.412121+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Tailscale says deeply buried 16-year-old SQLite bug caused last year's outages",
     "Node.js creator liberates Durable Objects from Cloudflare"
   ],
-  "crew_quote": "\"24 degrees and clear skies? Perfect for a curry outside! Just as long as the 'near-autonomous' AIs don't decide to spice things up by blowing up a nuclear plant!\""
+  "crew_quote": "\"Blimey, it's so clear out there, I could practically fry a curry on the pavement—just need to make sure I don't accidentally set off a GPU power-up!\""
 }
