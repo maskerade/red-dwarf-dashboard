@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T23:53:28.134453+00:00",
+  "timestamp": "2026-08-13T00:24:29.116008+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Rent-a-GPU outfit Nebius promises rapid 1 GW powerup plan isn't nebulous",
     "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
     "Tailscale says deeply buried 16-year-old SQLite bug caused last year's outages",
-    "Node.js creator liberates Durable Objects from Cloudflare",
-    "Spectre rears its ugly head again as researchers show some RISC-V chips are susceptible"
+    "Node.js creator liberates Durable Objects from Cloudflare"
   ],
-  "crew_quote": "\"Blimey, 24 degrees in Altrincham! If it gets any warmer, my curry's gonna start sweating before I even eat it!\""
+  "crew_quote": "\"Clear skies and a toasty 24 degrees? Perfect weather for a curry binge! Just don’t expect me to share my samosas, alright?\""
 }
