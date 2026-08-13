@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T14:52:44.221701+00:00",
+  "timestamp": "2026-08-13T15:23:44.496999+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "The backup Microsoft never promised you",
+    "Mystery attacker spent a year raiding Salesforce and ServiceNow portals",
     "Ryanair adds Google to its dual-cloud flight plan",
-    "AWS key exposed in JavaScript may have lit way to Beacon's charity data",
-    "Twitch feeds your streams to Amazon's AI unless you tell it to stop",
-    "Everything is better with pickles... except Windows"
+    "AWS key exposed in JavaScript may have lit way to Beacon's charity data"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in Altrincham! Might as well fry an egg on the console while we wait for the next flight to nowhere.\""
+  "crew_quote": "\"Blimey, with it hitting 36°C in Overseal, I could fry an egg on my head! Not that I would, because that would ruin my hair—gotta look fabulous, you know!\""
 }
