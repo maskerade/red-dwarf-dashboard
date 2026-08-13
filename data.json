@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T10:13:39.230445+00:00",
+  "timestamp": "2026-08-13T10:44:39.568778+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Twitch feeds your streams to Amazon's AI unless you tell it to stop",
     "Everything is better with pickles... except Windows",
     "Passwords stored in public Google Doc then showed up in search results",
-    "Cisco thinks Mythos means instant death for unsupported networking kit",
-    "Tencent says it could make instant profits on $53B hardware splurge by renting it for AI workloads"
+    "Cisco thinks Mythos means instant death for unsupported networking kit"
   ],
-  "crew_quote": "\"It's so hot, even the pickles are sweating! At this rate, I might as well just make a curry with them!\""
+  "crew_quote": "\"Blimey, it’s hotter than a curry on a Sunday morning! I’d suggest we eat pickles to cool down, but I reckon the only thing that’d make this day better is a pint!\""
 }
