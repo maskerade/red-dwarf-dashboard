@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T09:11:38.255401+00:00",
+  "timestamp": "2026-08-13T09:42:38.628383+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Everything is better with pickles... except Windows",
     "Passwords stored in public Google Doc then showed up in search results",
     "Cisco thinks Mythos means instant death for unsupported networking kit",
-    "Tencent says it could make instant profits on $53bn hardware splurge by renting it for AI workloads",
-    "Chinese Loongson processors have leaky caches, researchers find"
+    "Tencent says it could make instant profits on $53B hardware splurge by renting it for AI workloads"
   ],
-  "crew_quote": "\"26 degrees and sunny? Finally, a weather report that isn’t as depressing as my last performance review—now if only I could find a curry shop that’s open!\""
+  "crew_quote": "\"26 degrees and sunny, eh? Just perfect for a curry picnic — but don't get any bright ideas about pickles on it, or I’ll have to disown you!\""
 }
