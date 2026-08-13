@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T12:48:42.204423+00:00",
+  "timestamp": "2026-08-13T13:19:27.671124+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 32.0,
+      "temp": 35.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 33.0,
+      "temp": 36.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Ryanair adds Google Cloud to its dual-cloud flight plan",
+    "Ryanair adds Google to its dual-cloud flight plan",
     "AWS key exposed in JavaScript may have lit way to Beacon's charity data",
     "Twitch feeds your streams to Amazon's AI unless you tell it to stop",
     "Everything is better with pickles... except Windows"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a curry left on the engine for a week! At this rate, we’ll be needing a fan to cool off down in the bunk room!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in here! Who knew being stranded in space could be less fun than a Ryanair flight in a heatwave?\""
 }
