@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T04:01:32.867070+00:00",
+  "timestamp": "2026-08-13T04:32:33.000914+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Tailscale says deeply buried 16-year-old SQLite bug caused last year's outages",
     "Node.js creator liberates Durable Objects from Cloudflare"
   ],
-  "crew_quote": "\"With weather this nice, I'd say it's prime curry-eating time! Just me, a takeaway, and the universe feeling like a soufflé—light and fluffy!\""
+  "crew_quote": "\"What a lovely 22 degrees! Perfect weather for a curry, just as long as it doesn't get too 'nebulous' with the spice!\""
 }
