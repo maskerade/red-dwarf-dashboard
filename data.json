@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T12:35:07.115596+00:00",
+  "timestamp": "2026-08-14T13:06:07.644882+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Autonomous AI attacks pose 'clear and present danger' to critical infrastructure",
     "Less than a year on, Microsoft tells Mico to pipe down",
     "TalkTalk Business and ARO to borg into UK tech services giant",
-    "Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach",
-    "BOFH: How our Covid ransomware protocol's Y2K blockchain lowered uptime"
+    "Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach"
   ],
-  "crew_quote": "\"Right, if it gets any hotter than 30 degrees, I’m going to melt faster than a curry left in the sun! And patchy rain? Ugh, that’s just bad planning by the weather!\""
+  "crew_quote": "\"Blimey, it’s hotter than a curry left in a sunbeam today! If that AI goes rogue, I hope it doesn't come after my takeaway!\""
 }
