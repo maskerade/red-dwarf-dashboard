@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T13:37:08.123513+00:00",
+  "timestamp": "2026-08-14T14:08:08.375904+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 30.0,
-      "conditions": "Sunny",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Virgin Galactic flights stay grounded while ticket prices head for the Moon",
     "Autonomous AI attacks pose 'clear and present danger' to critical infrastructure",
     "Less than a year on, Microsoft tells Mico to pipe down",
-    "TalkTalk Business and ARO to borg into UK tech services giant",
-    "Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach"
+    "TalkTalk Business and ARO to borg into UK tech services giant"
   ],
-  "crew_quote": "\"Blimey, it's warmer than a curry left out on the dashboard! Just don't let the AIs near the takeout; I’m not sharing my vindaloo with a rogue toaster!\""
+  "crew_quote": "\"Thirty degrees in Overseal? I’d rather be stuck in a curry coma than out in that heat, mate—at least the only thing attacking me would be the spices!\""
 }
