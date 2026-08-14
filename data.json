@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T02:45:56.971610+00:00",
+  "timestamp": "2026-08-14T03:16:57.666142+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Cloudy ",
+      "temp": 18.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "The backup Microsoft never promised you",
     "Mystery attacker spent a year raiding Salesforce and ServiceNow portals"
   ],
-  "crew_quote": "\"Even a cloudy 19 degrees in Altrincham is better than being stuck in a JCB that can’t dig! Still, I'd rather have a curry and a pint than a ridiculous speed machine!\""
+  "crew_quote": "\"Did you see that JCB? At 406 mph, it'll dig your curry out before you've even ordered it!\""
 }
