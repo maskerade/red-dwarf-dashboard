@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T05:20:59.412821+00:00",
+  "timestamp": "2026-08-14T05:51:59.637732+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "This JCB doesn't dig – it does 406 mph",
-    "Trump wants to grant private cyber firms a license to hack back",
-    "The backup Microsoft never promised you",
-    "Mystery attacker spent a year raiding Salesforce and ServiceNow portals"
+    "New Zealand says China tried using space investments to spy on local affairs",
+    "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging",
+    "Give Google the boot by building your own search engine",
+    "Microsoft's dueling Copilot apps have combined into a single entity"
   ],
-  "crew_quote": "\"I tell you, with the weather this nice, it’s a perfect day for a curry — and maybe a quick spin in that JCB that goes 406 mph! Talk about fast food!\""
+  "crew_quote": "\"Well, at least it’s clear skies out there—unlike my future career prospects! Maybe I should invest in curry-flavored clear skies instead!\""
 }
