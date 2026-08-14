@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T18:16:12.658958+00:00",
+  "timestamp": "2026-08-14T18:47:15.996844+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Overcast ",
+      "temp": 21.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 28.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 25.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -94,5 +94,5 @@
     "French tax authority admits data heist after crook touts 2M records",
     "Virgin Galactic flights stay grounded while ticket prices head for the Moon"
   ],
-  "crew_quote": "\"Well, it's a balmy 28°C in Overseal, but with my luck, I’ll probably end up in Llandudno, dodging rain and dreams of a warm curry.\""
+  "crew_quote": "\"Blimey, it’s like a sunny day in Overseal! If only I had a curry right now, it’d be the perfect combo—sunshine and spice!\""
 }
