@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T19:49:14.954259+00:00",
+  "timestamp": "2026-08-14T20:20:14.817702+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
+      "temp": 18.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
-      "conditions": "Sunny",
+      "temp": 20.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Cloudy ",
+      "temp": 15.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -94,5 +94,5 @@
     "French tax authority admits data heist after crook touts 2M records",
     "Virgin Galactic flights stay grounded while ticket prices head for the Moon"
   ],
-  "crew_quote": "\"Blimey, it’s 25 degrees in Overseal! Perfect weather for a curry on the beach, or at least a curry in a dodgy cafe while dreaming of the beach!\""
+  "crew_quote": "\"With the weather a perfect 18°C, I reckon it’s the ideal day for a curry — if I can just convince the boys to leave the ship and not fry it in a heatwave!\""
 }
