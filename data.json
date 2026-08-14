@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T07:25:01.756554+00:00",
+  "timestamp": "2026-08-14T07:56:02.495782+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 20.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -26,40 +26,40 @@
         },
         {
           "date": "2026-08-15",
-          "max": 21.0,
+          "max": 22.0,
           "min": 13.0
         },
         {
           "date": "2026-08-16",
-          "max": 19.0,
-          "min": 10.0
+          "max": 21.0,
+          "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-14",
           "max": 30.0,
-          "min": 16.0
+          "min": 17.0
         },
         {
           "date": "2026-08-15",
-          "max": 24.0,
-          "min": 13.0
+          "max": 25.0,
+          "min": 14.0
         },
         {
           "date": "2026-08-16",
-          "max": 21.0,
-          "min": 9.0
+          "max": 24.0,
+          "min": 11.0
         }
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -69,11 +69,11 @@
         {
           "date": "2026-08-15",
           "max": 16.0,
-          "min": 11.0
+          "min": 12.0
         },
         {
           "date": "2026-08-16",
-          "max": 16.0,
+          "max": 17.0,
           "min": 11.0
         }
       ]
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Claude Code returns blank thinking blocks, but reasoning still costs you",
     "Five years after quitting a job, developer’s former boss asked for rapid tech support",
     "New Zealand says China tried using space investments to spy on local affairs",
-    "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging",
-    "Give Google the boot by building your own search engine"
+    "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging"
   ],
-  "crew_quote": "\"I guess it’s patchy rain in Altrincham, but who cares? I’ve got a curry waiting, and trust me, it’s sunny in my stomach, mate!\""
+  "crew_quote": "\"Blimey, it's warmer than a curry in a sauna today! Even the weather’s trying to impress me—look at those perfect sunshine stats!\""
 }
