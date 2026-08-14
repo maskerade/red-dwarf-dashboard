@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T21:22:16.307128+00:00",
+  "timestamp": "2026-08-14T21:53:17.163349+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,65 +16,65 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-14",
           "max": 26.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-08-15",
-          "max": 22.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-08-16",
-          "max": 21.0,
-          "min": 11.0
-        }
-      ]
-    },
-    "overseal": {
-      "temp": 20.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-08-14",
-          "max": 30.0,
           "min": 17.0
         },
         {
           "date": "2026-08-15",
-          "max": 25.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-08-16",
-          "max": 24.0,
-          "min": 11.0
-        }
-      ]
-    },
-    "llandudno": {
-      "temp": 15.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-08-14",
-          "max": 21.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-08-15",
-          "max": 16.0,
+          "max": 22.0,
           "min": 12.0
         },
         {
           "date": "2026-08-16",
-          "max": 17.0,
+          "max": 22.0,
+          "min": 12.0
+        }
+      ]
+    },
+    "overseal": {
+      "temp": 17.0,
+      "conditions": "Patchy light rain in area with thunder",
+      "forecast": [
+        {
+          "date": "2026-08-14",
+          "max": 30.0,
+          "min": 16.0
+        },
+        {
+          "date": "2026-08-15",
+          "max": 25.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-08-16",
+          "max": 23.0,
+          "min": 12.0
+        }
+      ]
+    },
+    "llandudno": {
+      "temp": 14.0,
+      "conditions": "Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-08-14",
+          "max": 21.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-08-15",
+          "max": 16.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-08-16",
+          "max": 19.0,
+          "min": 12.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "French tax authority admits data heist after crook touts 2M records",
     "Virgin Galactic flights stay grounded while ticket prices head for the Moon"
   ],
-  "crew_quote": "\"With the weather at a pleasant 18 degrees, I reckon we should celebrate with a curry! Nothing like a bit of spice to distract from the fact Trump thinks steam's a good idea!\""
+  "crew_quote": "\"Looks like it's a perfect day for a cuppa and a cheeky curry, unless you're in Overseal—then it's just a patchy rain and thunder party, innit?\""
 }
