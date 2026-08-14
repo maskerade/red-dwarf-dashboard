@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T11:33:05.777793+00:00",
+  "timestamp": "2026-08-14T12:04:06.408615+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "TalkTalk Business and ARO to borg into UK tech services giant",
     "Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach",
     "BOFH: How our Covid ransomware protocol's Y2K blockchain lowered uptime",
-    "Scottish prosecutors cast eye over leaky supplier after staff data exposed",
-    "Claude Code returns blank thinking blocks, but reasoning still costs you"
+    "Scottish prosecutors cast eye over leaky supplier after staff data exposed"
   ],
-  "crew_quote": "\"Oi, it’s 27 degrees out there! Perfect weather for a curry, but with my luck, I’d probably end up in the patchy rain instead!\""
+  "crew_quote": "\"Blimey, it's 27 degrees and sunny in Overseal! You'd think the universe would cut me some slack and deliver a curry to the sun instead of my stomach!\""
 }
