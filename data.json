@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T10:31:04.562057+00:00",
+  "timestamp": "2026-08-14T11:02:05.263530+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 24.0,
-      "conditions": "Sunny",
+      "temp": 25.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 25.0,
+      "temp": 27.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach",
     "BOFH: How our Covid ransomware protocol's Y2K blockchain lowered uptime",
     "Scottish prosecutors cast eye over leaky supplier after staff data exposed",
-    "Claude Code returns blank thinking blocks, but reasoning still costs you",
-    "Five years after quitting a job, developer’s former boss asked for rapid tech support"
+    "Claude Code returns blank thinking blocks, but reasoning still costs you"
   ],
-  "crew_quote": "\"24 degrees and sunny? That's just the kind of weather that makes you want to whip up a curry and chill out, not fix some dodgy data leaks!\""
+  "crew_quote": "\"Why bother with the weather when there's a crisis in crypto? I mean, who needs privacy when you can flaunt a sunny 27 degrees in Overseal!\""
 }
