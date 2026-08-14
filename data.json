@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T22:55:17.956455+00:00",
+  "timestamp": "2026-08-14T23:26:18.783431+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 15.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
-        {
-          "date": "2026-08-14",
-          "max": 26.0,
-          "min": 17.0
-        },
         {
           "date": "2026-08-15",
           "max": 22.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-16",
           "max": 22.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-08-17",
+          "max": 20.0,
+          "min": 15.0
         }
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Patchy light rain in area with thunder",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-08-14",
-          "max": 30.0,
-          "min": 16.0
-        },
         {
           "date": "2026-08-15",
           "max": 25.0,
@@ -54,18 +49,18 @@
           "date": "2026-08-16",
           "max": 23.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-08-17",
+          "max": 22.0,
+          "min": 14.0
         }
       ]
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Cloudy ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-08-14",
-          "max": 21.0,
-          "min": 13.0
-        },
         {
           "date": "2026-08-15",
           "max": 16.0,
@@ -75,17 +70,22 @@
           "date": "2026-08-16",
           "max": 19.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-08-17",
+          "max": 18.0,
+          "min": 14.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:47 AM",
-    "sunset": "08:39 PM",
+    "sunrise": "05:49 AM",
+    "sunset": "08:37 PM",
     "moon_phase": "Waxing Crescent",
-    "moon_illumination": "2",
-    "moonrise": "07:59 AM",
-    "moonset": "09:08 PM"
+    "moon_illumination": "7",
+    "moonrise": "09:24 AM",
+    "moonset": "09:17 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "French tax authority admits data heist after crook touts 2M records",
     "Virgin Galactic flights stay grounded while ticket prices head for the Moon"
   ],
-  "crew_quote": "\"Well, at least it’s not like we’re under a thunderstorm in Overseal while I’m trying to eat my curry—just a bit of patchy rain, which is practically a sunny day for us!\""
+  "crew_quote": "\"Well, at least the weather's not as patchy as my love life—15 degrees and a bit of rain, just like my last curry night!\""
 }
