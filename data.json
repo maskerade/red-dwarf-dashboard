@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T17:14:12.184285+00:00",
+  "timestamp": "2026-08-14T17:45:12.745415+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Russian missile uses Nvidia AI chip to help target Ukraine",
+    "Trump sends the US Navy back to the steam age",
     "French tax authority admits data heist after crook touts 2M records",
-    "Virgin Galactic flights stay grounded while ticket prices head for the Moon",
-    "Autonomous AI attacks pose 'clear and present danger' to critical infrastructure",
-    "Less than a year on, Microsoft tells Mico to pipe down"
+    "Virgin Galactic flights stay grounded while ticket prices head for the Moon"
   ],
-  "crew_quote": "\"With the weather like this, I reckon we should fire up the curry and enjoy the overcast vibes—better than being on a grounded flight to the Moon, eh?\""
+  "crew_quote": "\"Blimey, if it’s overcast and a balmy 22°C in Altrincham, I might just get away with wearing my best curry-stained shirt without breaking a sweat!\""
 }
