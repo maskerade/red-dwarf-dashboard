@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T06:23:01.043780+00:00",
+  "timestamp": "2026-08-14T06:54:01.377120+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Five years after quitting a job, developer’s former boss asked for rapid tech support",
     "New Zealand says China tried using space investments to spy on local affairs",
     "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging",
-    "Give Google the boot by building your own search engine",
-    "Microsoft's dueling Copilot apps have combined into a single entity"
+    "Give Google the boot by building your own search engine"
   ],
-  "crew_quote": "\"Fancy that, it's 18°C out there and raining! Perfect curry weather, just the right time for a little bit of spice and a lot of soggy chips!\""
+  "crew_quote": "\"Ah, perfect curry weather! Just what I need for a rainy day—might as well whip up a good vindaloo while the world's busy spying on each other.\""
 }
