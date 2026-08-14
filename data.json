@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T01:12:54.973571+00:00",
+  "timestamp": "2026-08-14T01:43:55.473722+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "The backup Microsoft never promised you",
     "Mystery attacker spent a year raiding Salesforce and ServiceNow portals"
   ],
-  "crew_quote": "\"19 degrees and cloudy? Sounds like perfect curry weather to me! I could really go for a vindaloo while watching that JCB break the speed of sound!\""
+  "crew_quote": "\"Did you see that JCB? 406 mph? Blimey, that's faster than me after a curry! At this rate, we might as well let it dig our way out of here!\""
 }
