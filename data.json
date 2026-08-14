@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T23:39:53.302316+00:00",
+  "timestamp": "2026-08-14T00:10:54.164463+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 19.0,
+      "conditions": "Cloudy ",
       "forecast": [
-        {
-          "date": "2026-08-13",
-          "max": 36.0,
-          "min": 19.0
-        },
         {
           "date": "2026-08-14",
           "max": 26.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-15",
           "max": 21.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-08-16",
+          "max": 19.0,
+          "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 19.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-08-13",
-          "max": 36.0,
-          "min": 17.0
-        },
         {
           "date": "2026-08-14",
           "max": 30.0,
@@ -54,6 +49,11 @@
           "date": "2026-08-15",
           "max": 24.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-08-16",
+          "max": 21.0,
+          "min": 9.0
         }
       ]
     },
@@ -61,11 +61,6 @@
       "temp": 16.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-08-13",
-          "max": 26.0,
-          "min": 16.0
-        },
         {
           "date": "2026-08-14",
           "max": 21.0,
@@ -75,17 +70,22 @@
           "date": "2026-08-15",
           "max": 16.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-08-16",
+          "max": 16.0,
+          "min": 11.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:46 AM",
-    "sunset": "08:41 PM",
+    "sunrise": "05:47 AM",
+    "sunset": "08:39 PM",
     "moon_phase": "Waxing Crescent",
-    "moon_illumination": "0",
-    "moonrise": "06:30 AM",
-    "moonset": "08:57 PM"
+    "moon_illumination": "2",
+    "moonrise": "07:59 AM",
+    "moonset": "09:08 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "The backup Microsoft never promised you",
     "Mystery attacker spent a year raiding Salesforce and ServiceNow portals"
   ],
-  "crew_quote": "\"Did you see that? A JCB that goes 406 mph! Blimey, if it can dig a decent curry out of the ground, I’m buying one!\""
+  "crew_quote": "\"406 mph? Blimey! At that speed, even my hair would struggle to keep up—let's just hope it can dig a proper curry while it's at it!\""
 }
