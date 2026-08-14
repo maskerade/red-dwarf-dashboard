@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T04:18:58.379750+00:00",
+  "timestamp": "2026-08-14T04:49:58.955524+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 17.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -94,5 +94,5 @@
     "The backup Microsoft never promised you",
     "Mystery attacker spent a year raiding Salesforce and ServiceNow portals"
   ],
-  "crew_quote": "\"With all this clear weather, it’s the perfect day for a curry—especially if we can get that JCB to dig up some spicy ingredients at 406 mph!\""
+  "crew_quote": "\"With the weather so clear and a delightful 17°C, it's the perfect day for a curry – especially if it’s as hot as that JCB going 406 mph!\""
 }
