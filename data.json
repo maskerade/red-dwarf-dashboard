@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T16:12:10.560384+00:00",
+  "timestamp": "2026-08-14T16:42:56.223357+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Autonomous AI attacks pose 'clear and present danger' to critical infrastructure",
     "Less than a year on, Microsoft tells Mico to pipe down"
   ],
-  "crew_quote": "\"With it being 30°C and partly cloudy, I reckon it’s a great day for a curry! Just don’t expect me to share any of my samosas, alright?\""
+  "crew_quote": "\"Well, at least it’s hotter than a curry in Overseal, so if we run out of power, we can just cook dinner on the dashboard, right?\""
 }
