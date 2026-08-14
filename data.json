@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T08:58:03.067947+00:00",
+  "timestamp": "2026-08-14T09:29:03.915435+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 24.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 25.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 21.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -94,5 +94,5 @@
     "Five years after quitting a job, developer’s former boss asked for rapid tech support",
     "New Zealand says China tried using space investments to spy on local affairs"
   ],
-  "crew_quote": "\"Sunny days like this make me feel alive! Just wish the only leaks in my life were the ones in the weather report, not the staff data.\""
+  "crew_quote": "\"Twenty-five degrees, sunny—perfect weather for a curry! Just remember, if it starts raining, I’ll need an umbrella to shield my very delicate hair!\""
 }
