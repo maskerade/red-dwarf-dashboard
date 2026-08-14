@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T05:51:59.637732+00:00",
+  "timestamp": "2026-08-14T06:23:01.043780+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Clear ",
+      "temp": 18.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Clear ",
+      "temp": 18.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Clear ",
+      "temp": 16.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-14",
@@ -94,5 +94,5 @@
     "Give Google the boot by building your own search engine",
     "Microsoft's dueling Copilot apps have combined into a single entity"
   ],
-  "crew_quote": "\"Well, at least it’s clear skies out there—unlike my future career prospects! Maybe I should invest in curry-flavored clear skies instead!\""
+  "crew_quote": "\"Fancy that, it's 18°C out there and raining! Perfect curry weather, just the right time for a little bit of spice and a lot of soggy chips!\""
 }
