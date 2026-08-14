@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T08:27:03.023903+00:00",
+  "timestamp": "2026-08-14T08:58:03.067947+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Scottish prosecutors cast eye over leaky supplier after staff data exposed",
     "Claude Code returns blank thinking blocks, but reasoning still costs you",
     "Five years after quitting a job, developer’s former boss asked for rapid tech support",
-    "New Zealand says China tried using space investments to spy on local affairs",
-    "OpenAI ditches Recall-style screenshot surveillance for friendly keylogging"
+    "New Zealand says China tried using space investments to spy on local affairs"
   ],
-  "crew_quote": "\"20 degrees and sunny? Perfect weather for a curry! Let's just hope that Claude Code doesn’t try to make it too technical, or my stomach might implode!\""
+  "crew_quote": "\"Sunny days like this make me feel alive! Just wish the only leaks in my life were the ones in the weather report, not the staff data.\""
 }
