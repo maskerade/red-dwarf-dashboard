@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T12:04:06.408615+00:00",
+  "timestamp": "2026-08-14T12:35:07.115596+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 25.0,
+      "temp": 26.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 27.0,
+      "temp": 30.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
+      "temp": 19.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Less than a year on, Microsoft tells Mico to pipe down",
     "TalkTalk Business and ARO to borg into UK tech services giant",
     "Crypto wallet maker Trezor confirms 13,000 customers' details exposed in logistics breach",
-    "BOFH: How our Covid ransomware protocol's Y2K blockchain lowered uptime",
-    "Scottish prosecutors cast eye over leaky supplier after staff data exposed"
+    "BOFH: How our Covid ransomware protocol's Y2K blockchain lowered uptime"
   ],
-  "crew_quote": "\"Blimey, it's 27 degrees and sunny in Overseal! You'd think the universe would cut me some slack and deliver a curry to the sun instead of my stomach!\""
+  "crew_quote": "\"Right, if it gets any hotter than 30 degrees, I’m going to melt faster than a curry left in the sun! And patchy rain? Ugh, that’s just bad planning by the weather!\""
 }
