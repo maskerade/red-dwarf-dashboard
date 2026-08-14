@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-14T10:00:26.428532+00:00",
+  "timestamp": "2026-08-14T10:31:04.562057+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Claude Code returns blank thinking blocks, but reasoning still costs you",
     "Five years after quitting a job, developer’s former boss asked for rapid tech support"
   ],
-  "crew_quote": "\"You know, if it's sunny in Altrincham, we should definitely be out there instead of stuck on this tin can—maybe even grab a curry and enjoy the nice weather!\""
+  "crew_quote": "\"24 degrees and sunny? That's just the kind of weather that makes you want to whip up a curry and chill out, not fix some dodgy data leaks!\""
 }
