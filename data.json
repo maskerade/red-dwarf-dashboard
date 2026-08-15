@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T15:58:35.536978+00:00",
+  "timestamp": "2026-08-15T16:29:36.630702+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 23.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-15",
@@ -94,5 +94,5 @@
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"With a lovely 21 degrees in Altrincham, I reckon it's the perfect weather for a curry, as long as it doesn’t try to escape into the npm wormhole first!\""
+  "crew_quote": "\"With weather like this, I might just trade me curry for a sunbed! What do you reckon, a bit of sunbathing would do wonders for me complexion, right?\""
 }
