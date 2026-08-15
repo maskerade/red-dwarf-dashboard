@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T20:37:40.039225+00:00",
+  "timestamp": "2026-08-15T21:08:40.284106+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 13.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-15",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 13.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-15",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Sunny",
+      "temp": 11.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-15",
@@ -94,5 +94,5 @@
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"Oi, with weather like this, I could go for a curry on the beach—sunshine and a pint, that’s the life! Just keep the ChainDrop worms away from me chips, yeah?\""
+  "crew_quote": "\"You know, with clear skies and a balmy 13 degrees, I could really go for a curry — it’s the perfect weather for a bit of spice, innit?\""
 }
