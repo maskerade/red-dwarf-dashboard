@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T06:40:26.080423+00:00",
+  "timestamp": "2026-08-15T07:11:26.477930+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 16.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Cloudy ",
+      "temp": 16.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-15",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack",
     "Russian missile uses Nvidia AI chip to help target Ukraine"
   ],
-  "crew_quote": "\"You know, it’s 13 degrees out, and I’m feeling a bit patchy myself—like a curry that’s only half made! Let’s hope the rain doesn’t spoil my lunch plans!\""
+  "crew_quote": "\"Well, with this patchy rain and all, I reckon it’s a perfect day for a nice curry – just like the weather forecast, it’s a bit unpredictable but always satisfying!\""
 }
