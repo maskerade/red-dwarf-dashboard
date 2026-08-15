@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T14:25:34.219109+00:00",
+  "timestamp": "2026-08-15T14:56:34.665487+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,18 +16,18 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-15",
           "max": 21.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-08-16",
           "max": 22.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-08-17",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 24.0,
-      "conditions": "Overcast ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-15",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-15",
@@ -94,5 +94,5 @@
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"With the weather being 20 degrees in Altrincham, I reckon it's the perfect day for a curry. Just don't tell Rimmer; he might try to class it up with a fancy dessert!\""
+  "crew_quote": "\"Oi, with this kind of weather, I reckon we should be having a curry and a pint outside instead of worrying about dodgy space worms and oversized Lego!\""
 }
