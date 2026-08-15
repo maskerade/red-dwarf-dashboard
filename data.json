@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T10:17:29.966682+00:00",
+  "timestamp": "2026-08-15T10:48:30.583034+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "ChainDrop worm crawls into npm supply chain, evades standard defenses",
     "Lego's supersized Hubble deserves a little more shine",
     "Anthropic says text watermarking scheme relies on inconsequential words",
-    "DeepSeek's innovative harness treats everything as a plug-in",
-    "1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack"
+    "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"With weather like this, I should be sunbathing instead of fixing the ship! Fancy a curry picnic on the hull, or is that too much like work?\""
+  "crew_quote": "\"Ah, a lovely sunny day! Perfect weather for a curry — not that I'd share it with a rotten chain-eating worm like that ChainDrop thing!\""
 }
