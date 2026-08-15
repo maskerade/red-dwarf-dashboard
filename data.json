@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T00:59:19.764523+00:00",
+  "timestamp": "2026-08-15T01:30:20.656403+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Russian missile uses Nvidia AI chip to help target Ukraine",
-    "Trump sends the US Navy back to the steam age",
-    "French tax authority admits data heist after crook touts 2M records",
-    "Virgin Galactic flights stay grounded while ticket prices head for the Moon"
+    "Anthropic says text watermarking scheme relies on inconsequential words",
+    "DeepSeek's innovative harness treats everything as a plug-in",
+    "1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack",
+    "Russian missile uses Nvidia AI chip to help target Ukraine"
   ],
-  "crew_quote": "\"With all this patchy rain nearby, I reckon the only thing missing from my perfect day is a curry inside while watching the world turn into a soggy mess!\""
+  "crew_quote": "\"With 15 degrees and patchy rain, it’s the perfect weather for a curry — or for finding out if I can still wash my hair in the shower without getting soaked!\""
 }
