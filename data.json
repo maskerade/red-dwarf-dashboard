@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T19:04:38.655173+00:00",
+  "timestamp": "2026-08-15T19:35:24.282387+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 13.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"With this lovely sunny weather, I reckon a curry in the park would be perfect, just like a Lego model of the Hubble that actually gets some recognition for once!\""
+  "crew_quote": "\"16 degrees and sunny? That's practically tropical! I reckon I could get a curry on the go and still get a tan, if only I could find a sun and a place that isn't filled with space debris!\""
 }
