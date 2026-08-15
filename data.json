@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T15:27:35.299754+00:00",
+  "timestamp": "2026-08-15T15:58:35.536978+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"Ah, mate, with the sun shining and only a light breeze, it’s the perfect weather to eat a curry outside—just not too close to that ChainDrop worm, eh?\""
+  "crew_quote": "\"With a lovely 21 degrees in Altrincham, I reckon it's the perfect weather for a curry, as long as it doesn’t try to escape into the npm wormhole first!\""
 }
