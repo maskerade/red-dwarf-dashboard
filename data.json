@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T08:13:12.662126+00:00",
+  "timestamp": "2026-08-15T08:44:28.522097+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,49 +16,49 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 18.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-15",
-          "max": 22.0,
+          "max": 21.0,
           "min": 13.0
         },
         {
           "date": "2026-08-16",
-          "max": 19.0,
-          "min": 12.0
+          "max": 22.0,
+          "min": 11.0
         },
         {
           "date": "2026-08-17",
-          "max": 22.0,
+          "max": 18.0,
           "min": 15.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 19.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-15",
-          "max": 26.0,
-          "min": 13.0
+          "max": 24.0,
+          "min": 12.0
         },
         {
           "date": "2026-08-16",
           "max": 22.0,
-          "min": 12.0
+          "min": 10.0
         },
         {
           "date": "2026-08-17",
-          "max": 23.0,
-          "min": 15.0
+          "max": 21.0,
+          "min": 13.0
         }
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-08-16",
-          "max": 18.0,
-          "min": 12.0
+          "max": 19.0,
+          "min": 11.0
         },
         {
           "date": "2026-08-17",
           "max": 18.0,
-          "min": 14.0
+          "min": 15.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Lego's supersized Hubble deserves a little more shine",
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in",
-    "1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack",
-    "Russian missile uses Nvidia AI chip to help target Ukraine"
+    "1.6M RingCentral accounts' data dumped after ShinyHunters extortion attack"
   ],
-  "crew_quote": "\"Looks like the weather's almost as confused as I am—sunny in one place and patchy rain in another! Just like my cooking: always a surprise, especially when I add curry!\""
+  "crew_quote": "\"Oi, it's a nice 19 degrees in Overseal, perfect for a curry run! Just need to dodge that patchy rain like it’s an ex-girlfriend.\""
 }
