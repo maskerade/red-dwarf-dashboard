@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T11:19:30.763676+00:00",
+  "timestamp": "2026-08-15T11:50:31.806773+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 23.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-15",
@@ -94,5 +94,5 @@
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"I can’t believe it’s sunny in Altrincham while we’re stuck on this hunk of junk! I’d trade a curry for a bit of that right now, no questions asked!\""
+  "crew_quote": "\"Did you see that? It's 21 degrees in Altrincham! Perfect curry weather—just need to avoid any worms in the supply chain. Nothing ruins a good vindaloo like a tech glitch!\""
 }
