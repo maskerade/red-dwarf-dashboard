@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T22:10:41.889178+00:00",
+  "timestamp": "2026-08-15T22:41:42.234633+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"Blimey, it’s 13 degrees out there and clear as the day I found the last curry in me fridge—absolutely perfect for an adventure! Or a nap. Maybe both.\""
+  "crew_quote": "\"Well, if the weather in Altrincham's 13 degrees, I reckon that's the perfect temperature for a curry — not too hot, not too cold, just like me!\""
 }
