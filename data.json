@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T09:01:52.330421+00:00",
+  "timestamp": "2026-08-16T09:32:53.239533+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-16",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Cloudy ",
+      "temp": 16.0,
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-08-16",
@@ -94,5 +94,5 @@
     "Lego's supersized Hubble deserves a little more shine",
     "Anthropic says text watermarking scheme relies on inconsequential words"
   ],
-  "crew_quote": "\"Cor, it's so cloudy out there, I'm starting to think even the sun's given up on us — I might just have to make a curry to cheer up the weather!\""
+  "crew_quote": "\"Looks like it's patchy rain nearby, but honestly, I'd take a drizzle over the soggy mess I left in the microwave after last night's curry!\""
 }
