@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T21:26:17.461855+00:00",
+  "timestamp": "2026-08-16T21:57:16.106857+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,65 +16,65 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Cloudy ",
+      "temp": -4.0,
+      "conditions": "Blizzard",
       "forecast": [
         {
           "date": "2026-08-16",
-          "max": 22.0,
-          "min": 11.0
+          "max": 20.0,
+          "min": -4.0
         },
         {
           "date": "2026-08-17",
-          "max": 18.0,
-          "min": 15.0
+          "max": -4.0,
+          "min": -5.0
         },
         {
           "date": "2026-08-18",
-          "max": 18.0,
-          "min": 15.0
+          "max": -2.0,
+          "min": -4.0
         }
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "temp": -3.0,
+      "conditions": "Blizzard",
       "forecast": [
         {
           "date": "2026-08-16",
           "max": 22.0,
-          "min": 10.0
+          "min": -4.0
         },
         {
           "date": "2026-08-17",
-          "max": 21.0,
-          "min": 13.0
+          "max": -3.0,
+          "min": -4.0
         },
         {
           "date": "2026-08-18",
-          "max": 24.0,
-          "min": 14.0
+          "max": -2.0,
+          "min": -4.0
         }
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": -4.0,
+      "conditions": "Blizzard",
       "forecast": [
         {
           "date": "2026-08-16",
           "max": 19.0,
-          "min": 11.0
+          "min": -4.0
         },
         {
           "date": "2026-08-17",
-          "max": 18.0,
-          "min": 15.0
+          "max": -3.0,
+          "min": -4.0
         },
         {
           "date": "2026-08-18",
-          "max": 18.0,
-          "min": 14.0
+          "max": -2.0,
+          "min": -4.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "ChainDrop worm crawls into npm supply chain, evades standard defenses",
     "Lego's supersized Hubble deserves a little more shine"
   ],
-  "crew_quote": "\"Oi, with it being cloudy and a perfect 17 degrees, I'm thinkin' it's a great day for a curry — just me, a takeaway, and a bit of dog-walking excitement from the news!\""
+  "crew_quote": "\"Blizzard conditions outside? Perfect weather for a curry! Now, if only I could find some way to heat it up without freezing my fingers off!\""
 }
