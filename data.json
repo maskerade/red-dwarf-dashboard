@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T01:16:30.581691+00:00",
+  "timestamp": "2026-08-16T01:47:45.030987+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
+      "temp": 12.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"Brilliant weather for a cheeky curry, but with all this tech trouble, I just hope my takeaway isn’t brought to you by a rogue worm from npm!\""
+  "crew_quote": "\"Oi! It’s a lovely clear day outside, just the sort of weather to enjoy a curry. I’ll even risk it and stick my head out of the airlock!\""
 }
