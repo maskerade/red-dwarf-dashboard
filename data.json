@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T16:47:00.341817+00:00",
+  "timestamp": "2026-08-16T17:18:01.187647+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,13 +16,13 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Cloudy ",
+      "temp": 20.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-16",
           "max": 22.0,
-          "min": 11.0
+          "min": 12.0
         },
         {
           "date": "2026-08-17",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 22.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 16.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-16",
@@ -80,7 +80,7 @@
     }
   },
   "astronomy": {
-    "sunrise": "05:51 AM",
+    "sunrise": "05:50 AM",
     "sunset": "08:35 PM",
     "moon_phase": "Waxing Crescent",
     "moon_illumination": "13",
@@ -94,5 +94,5 @@
     "ChainDrop worm crawls into npm supply chain, evades standard defenses",
     "Lego's supersized Hubble deserves a little more shine"
   ],
-  "crew_quote": "\"22 degrees and cloudy? Perfect weather for a pint and a curry, or perhaps just a pint... I'm not fussy, as long as it's not served by a malfunctioning dog AI!\""
+  "crew_quote": "\"Oi, with it being 20 degrees and overcast, I reckon it's the perfect weather for a nice curry and a good mooch. Who's up for a takeaway?\""
 }
