@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T19:53:14.658141+00:00",
+  "timestamp": "2026-08-16T20:24:17.122545+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 19.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "ChainDrop worm crawls into npm supply chain, evades standard defenses",
     "Lego's supersized Hubble deserves a little more shine"
   ],
-  "crew_quote": "\"Weather’s looking a bit cloudy, isn't it? Perfect for a nice curry and some old films — you can't beat a good binge when it's 18 degrees outside!\""
+  "crew_quote": "\"You know, with it being 17°C and cloudy, I reckon I’d feel better dodging a cyberattack while eating a curry than walking a dog in this weather!\""
 }
