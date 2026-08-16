@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T10:34:54.069043+00:00",
+  "timestamp": "2026-08-16T11:05:55.121743+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 19.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-16",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Light drizzle",
+      "temp": 18.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-16",
@@ -94,5 +94,5 @@
     "ChainDrop worm crawls into npm supply chain, evades standard defenses",
     "Lego's supersized Hubble deserves a little more shine"
   ],
-  "crew_quote": "\"With all this patchy rain, I reckon my curry's going to turn into a soup! Who knew the weather could be as indecisive as a cat in a pet shop!\""
+  "crew_quote": "\"16 degrees and cloudy? Perfect curry weather, but I guess I’ll just have to settle for a kebab while the world’s busy stopping cyber-attacks. Priorities, right?\""
 }
