@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T22:59:19.669930+00:00",
+  "timestamp": "2026-08-16T23:30:21.440071+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -20,11 +20,6 @@
       "conditions": "Blizzard",
       "forecast": [
         {
-          "date": "2026-08-16",
-          "max": 20.0,
-          "min": -4.0
-        },
-        {
           "date": "2026-08-17",
           "max": -4.0,
           "min": -5.0
@@ -33,18 +28,18 @@
           "date": "2026-08-18",
           "max": -2.0,
           "min": -4.0
+        },
+        {
+          "date": "2026-08-19",
+          "max": -1.0,
+          "min": -2.0
         }
       ]
     },
     "overseal": {
-      "temp": -3.0,
+      "temp": -4.0,
       "conditions": "Blizzard",
       "forecast": [
-        {
-          "date": "2026-08-16",
-          "max": 22.0,
-          "min": -4.0
-        },
         {
           "date": "2026-08-17",
           "max": -3.0,
@@ -54,6 +49,11 @@
           "date": "2026-08-18",
           "max": -2.0,
           "min": -4.0
+        },
+        {
+          "date": "2026-08-19",
+          "max": -1.0,
+          "min": -2.0
         }
       ]
     },
@@ -62,11 +62,6 @@
       "conditions": "Blizzard",
       "forecast": [
         {
-          "date": "2026-08-16",
-          "max": 19.0,
-          "min": -4.0
-        },
-        {
           "date": "2026-08-17",
           "max": -3.0,
           "min": -4.0
@@ -75,17 +70,22 @@
           "date": "2026-08-18",
           "max": -2.0,
           "min": -4.0
+        },
+        {
+          "date": "2026-08-19",
+          "max": -0.0,
+          "min": -1.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:51 AM",
-    "sunset": "08:35 PM",
+    "sunrise": "05:53 AM",
+    "sunset": "08:33 PM",
     "moon_phase": "Waxing Crescent",
-    "moon_illumination": "13",
-    "moonrise": "10:45 AM",
-    "moonset": "09:27 PM"
+    "moon_illumination": "21",
+    "moonrise": "12:05 PM",
+    "moonset": "09:38 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "ChainDrop worm crawls into npm supply chain, evades standard defenses",
     "Lego's supersized Hubble deserves a little more shine"
   ],
-  "crew_quote": "\"Blizzard outside? Brilliant! Perfect weather for a curry. I’ll whip one up while dodging cyberattacks—talk about multitasking!\""
+  "crew_quote": "\"Blimey, it’s colder than a curry left out in the frost! If I wanted to freeze, I’d go for a swim in the soup tank, not stand around in a blizzard!\""
 }
