@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T04:53:48.503686+00:00",
+  "timestamp": "2026-08-16T05:24:48.374321+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"Eleven degrees and partly cloudy? It’s perfect curry weather! I might just whip up a vindaloo and pretend I'm in a tropical paradise!\""
+  "crew_quote": "\"With the weather at a crisp 11°C, I think it's the perfect day for a curry! Just not one of your dodgy ones, Dave.\""
 }
