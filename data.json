@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T15:13:59.460798+00:00",
+  "timestamp": "2026-08-16T15:44:59.531635+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 22.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-16",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
+      "temp": 21.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "ChainDrop worm crawls into npm supply chain, evades standard defenses",
     "Lego's supersized Hubble deserves a little more shine"
   ],
-  "crew_quote": "\"You know, at 20 degrees and partly cloudy, I could really go for a nice curry. Perfect weather for it, as long as the dog's not monitoring my cooking skills!\""
+  "crew_quote": "\"Well, with it a cloudy 22 degrees, it’s the perfect weather for a curry binge! Just don’t let the dog catch your leftovers; it’ll get ruff out there!\""
 }
