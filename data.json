@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T05:55:49.019790+00:00",
+  "timestamp": "2026-08-16T06:26:49.846276+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
+      "temp": 13.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 11.0,
-      "conditions": "Clear ",
+      "temp": 13.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-16",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Cloudy ",
+      "temp": 13.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-16",
@@ -94,5 +94,5 @@
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"Ah, the weather's a perfect 11 degrees! Just the right temperature for a good curry, or maybe a Lego model of a spaceship — as long as it’s not a wormy one!\""
+  "crew_quote": "\"Blimey, with the weather in Altrincham a balmy 13 degrees, I might actually risk it and wear a T-shirt instead of my trusty curry-stained jumper!\""
 }
