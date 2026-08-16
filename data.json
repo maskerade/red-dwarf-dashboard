@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T02:49:45.870561+00:00",
+  "timestamp": "2026-08-16T03:20:46.749441+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 12.0,
-      "conditions": "Clear ",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-16",
@@ -94,5 +94,5 @@
     "Anthropic says text watermarking scheme relies on inconsequential words",
     "DeepSeek's innovative harness treats everything as a plug-in"
   ],
-  "crew_quote": "\"Clear skies and a temperature that says 'A bit chilly, but not chilly enough for a curry,' that's the real miracle today!\""
+  "crew_quote": "\"With all this clear weather, I might just take a lovely stroll—but I’ll need a curry first; nothing like a good balti to keep the chill away, right?\""
 }
