@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T18:19:46.989932+00:00",
+  "timestamp": "2026-08-16T18:51:17.107034+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,13 +16,13 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Overcast ",
+      "temp": 18.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-16",
           "max": 22.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-08-17",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -80,7 +80,7 @@
     }
   },
   "astronomy": {
-    "sunrise": "05:50 AM",
+    "sunrise": "05:51 AM",
     "sunset": "08:35 PM",
     "moon_phase": "Waxing Crescent",
     "moon_illumination": "13",
@@ -94,5 +94,5 @@
     "ChainDrop worm crawls into npm supply chain, evades standard defenses",
     "Lego's supersized Hubble deserves a little more shine"
   ],
-  "crew_quote": "\"Blimey, it’s 20 degrees and overcast! Perfect weather for a nice curry in me lap while I watch a dog save the world from cyberattacks. Now that's what I call multitasking!\""
+  "crew_quote": "\"Is it just me, or is the weather today just as cloudy as my future? I mean, even a curry couldn't spice this up!\""
 }
