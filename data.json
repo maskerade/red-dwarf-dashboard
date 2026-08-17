@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T04:40:25.653329+00:00",
+  "timestamp": "2026-08-17T05:11:24.051244+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive",
+    "Chinese AI company Zhipu claims its new is a better bug-finder than Anthropic, OpenAI",
     "Stopping a cyberattack while walking your dog - defensive AI security CEO says it's not ruff to do",
-    "The what, why, and how of pull requests and source comments",
-    "ChainDrop worm crawls into npm supply chain, evades standard defenses",
-    "Lego's supersized Hubble deserves a little more shine"
+    "The what, why, and how of pull requests and source comments"
   ],
-  "crew_quote": "\"Blizzard outside, freezing temperatures—perfect weather for a curry! Just me and my dodgy heating... oh, and my dog, but let's not get into that cyber nonsense.\""
+  "crew_quote": "\"Right, so while it's minus five outside and blizzarding, I say we just stay in, have a curry, and let the AI do its thing—after all, it sounds like it's got more problems than us!\""
 }
