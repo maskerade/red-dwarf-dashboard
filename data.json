@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T12:56:33.872982+00:00",
+  "timestamp": "2026-08-17T13:27:36.166886+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": -4.0,
+      "temp": -3.0,
       "conditions": "Blowing snow",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Part didn't fit so techie got out his screwdriver. Then something flew off the motherboard",
     "Linux 7.2 debuts, Linus Torvalds says ‘new normal’ means he had to do it now ... or never?"
   ],
-  "crew_quote": "\"It's so cold outside, I thought I'd found a new planet! But no, just Altrincham again. Time for a curry to warm up, eh?\""
+  "crew_quote": "\"Blowing snow and a blizzard outside? Perfect weather for a nice curry and some virtual holiday in one of those strange new worlds. Let's hope they serve better than last time!\""
 }
