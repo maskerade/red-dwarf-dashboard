@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T22:45:45.872059+00:00",
+  "timestamp": "2026-08-17T23:16:42.327059+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Almost nobody pays attention to web standards anymore",
     "Payments giant Stripe is about to drop over $7 billion to become a gateway to AI token sales",
     "Siemens and Reinhausen turn up the voltage for hungry AI racks",
-    "An AI broke Snowflake's code. Then another AI agent exploited it",
     "Mozilla adds ad blocking to Firefox for iOS"
   ],
-  "crew_quote": "\"Lovely weather for a cuppa, innit? Just a shame the only thing patchier than that rain is my love life!\""
+  "crew_quote": "\"Well, it’s patchy rain all around—just like my last attempt at making a decent curry. At least the weather's consistent, unlike Stripe's idea of standards!\""
 }
