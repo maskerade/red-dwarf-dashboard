@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T22:14:42.511995+00:00",
+  "timestamp": "2026-08-17T22:45:45.872059+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,17 +17,17 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-17",
-          "max": 21.0,
-          "min": -5.0
+          "max": 20.0,
+          "min": 14.0
         },
         {
           "date": "2026-08-18",
           "max": 18.0,
-          "min": 15.0
+          "min": 14.0
         },
         {
           "date": "2026-08-19",
@@ -37,13 +37,13 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-17",
-          "max": 24.0,
-          "min": -4.0
+          "max": 23.0,
+          "min": 15.0
         },
         {
           "date": "2026-08-18",
@@ -58,13 +58,13 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Light rain shower",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-17",
-          "max": 18.0,
-          "min": -4.0
+          "max": 20.0,
+          "min": 14.0
         },
         {
           "date": "2026-08-18",
@@ -94,5 +94,5 @@
     "An AI broke Snowflake's code. Then another AI agent exploited it",
     "Mozilla adds ad blocking to Firefox for iOS"
   ],
-  "crew_quote": "\"Well, I’d say the weather's about as exciting as my last attempt to fix a toaster—overcast with a chance of toast! I might just celebrate by making a curry instead.\""
+  "crew_quote": "\"Lovely weather for a cuppa, innit? Just a shame the only thing patchier than that rain is my love life!\""
 }
