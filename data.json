@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T16:02:34.046214+00:00",
+  "timestamp": "2026-08-17T16:33:37.208569+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,65 +16,65 @@
   },
   "locations": {
     "altrincham": {
-      "temp": -4.0,
-      "conditions": "Blowing snow",
+      "temp": 17.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-17",
-          "max": -3.0,
+          "max": 21.0,
           "min": -5.0
         },
         {
           "date": "2026-08-18",
-          "max": -2.0,
-          "min": -4.0
+          "max": 18.0,
+          "min": 15.0
         },
         {
           "date": "2026-08-19",
-          "max": -1.0,
-          "min": -2.0
+          "max": 21.0,
+          "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": -3.0,
-      "conditions": "Blizzard",
+      "temp": 20.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-17",
-          "max": -3.0,
+          "max": 24.0,
           "min": -4.0
         },
         {
           "date": "2026-08-18",
-          "max": -2.0,
-          "min": -3.0
+          "max": 21.0,
+          "min": 15.0
         },
         {
           "date": "2026-08-19",
-          "max": -1.0,
-          "min": -2.0
+          "max": 22.0,
+          "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": -3.0,
-      "conditions": "Blowing snow",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-17",
-          "max": -3.0,
+          "max": 18.0,
           "min": -4.0
         },
         {
           "date": "2026-08-18",
-          "max": -2.0,
-          "min": -3.0
+          "max": 17.0,
+          "min": 14.0
         },
         {
           "date": "2026-08-19",
-          "max": -1.0,
-          "min": -2.0
+          "max": 18.0,
+          "min": 11.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Part didn't fit so techie got out his screwdriver. Then something flew off the motherboard",
     "Linux 7.2 debuts, Linus Torvalds says ‘new normal’ means he had to do it now ... or never?"
   ],
-  "crew_quote": "\"You know, it’s so cold out there, I’m half expecting my curry to freeze solid before I even get a chance to eat it!\""
+  "crew_quote": "\"With this miserable weather, I could really go for a nice curry to warm me up, but knowing my luck, it'll rain right on my takeaway. Typical!\""
 }
