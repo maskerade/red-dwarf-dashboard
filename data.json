@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T06:13:26.534489+00:00",
+  "timestamp": "2026-08-17T06:44:24.441371+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Part didn't fit so techie got out his screwdriver. Then something flew off the motherboard",
+    "Linux 7.2 debuts, Linus Torvalds says ‘new normal’ means he had to do it now ... or never?",
     "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive",
-    "Chinese AI company Zhipu claims its new is a better bug-finder than Anthropic, OpenAI",
-    "Stopping a cyberattack while walking your dog - defensive AI security CEO says it's not ruff to do",
-    "The what, why, and how of pull requests and source comments"
+    "Chinese AI company Zhipu claims its new is a better bug-finder than Anthropic, OpenAI"
   ],
-  "crew_quote": "\"Blizzard outside, eh? Makes you appreciate the warmth of a nice curry, not like that dreadful Microsoft drama—where's the AI that can just fix the weather?\""
+  "crew_quote": "\"Blizzards, eh? Perfect weather for a nice curry and a good old fashioned malfunction! Just like my life—always something flying off the motherboard!\""
 }
