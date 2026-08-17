@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T03:38:27.589401+00:00",
+  "timestamp": "2026-08-17T04:09:08.087912+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": -4.0,
+      "temp": -5.0,
       "conditions": "Blizzard",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "ChainDrop worm crawls into npm supply chain, evades standard defenses",
     "Lego's supersized Hubble deserves a little more shine"
   ],
-  "crew_quote": "\"I don't care if it's a blizzard outside, as long as I've got a nice curry to warm me up. A man can't live on frozen vegetables alone, you know!\""
+  "crew_quote": "\"Blizzard outside, eh? Good job I’ve got this thick hair to keep me warm — unlike some people I know who look like a frozen chicken in a freezer!\""
 }
