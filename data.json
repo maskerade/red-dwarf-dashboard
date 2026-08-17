@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T07:15:33.399507+00:00",
+  "timestamp": "2026-08-17T07:46:31.033429+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Black Hat and DEF CON are AI conferences now, too",
     "Part didn't fit so techie got out his screwdriver. Then something flew off the motherboard",
     "Linux 7.2 debuts, Linus Torvalds says ‘new normal’ means he had to do it now ... or never?",
-    "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive",
-    "Chinese AI company Zhipu claims its new is a better bug-finder than Anthropic, OpenAI"
+    "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive"
   ],
-  "crew_quote": "\"You know it’s a blizzard when even the curry’s shivering in the fridge! I’d say we’re officially snowed in, but at least I’ve got my stash of emergency beer.\""
+  "crew_quote": "\"Blizzard outside, eh? Perfect weather for a nice hot curry! Can't feel my toes, but at least they won’t be cold when I stuff ‘em with nan bread!\""
 }
