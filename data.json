@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T08:17:29.193942+00:00",
+  "timestamp": "2026-08-17T08:48:31.127481+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -21,8 +21,8 @@
       "forecast": [
         {
           "date": "2026-08-17",
-          "max": -4.0,
-          "min": -4.0
+          "max": -3.0,
+          "min": -5.0
         },
         {
           "date": "2026-08-18",
@@ -48,7 +48,7 @@
         {
           "date": "2026-08-18",
           "max": -2.0,
-          "min": -4.0
+          "min": -3.0
         },
         {
           "date": "2026-08-19",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": -4.0,
-      "conditions": "Blizzard",
+      "conditions": "Blowing snow",
       "forecast": [
         {
           "date": "2026-08-17",
@@ -69,11 +69,11 @@
         {
           "date": "2026-08-18",
           "max": -2.0,
-          "min": -4.0
+          "min": -3.0
         },
         {
           "date": "2026-08-19",
-          "max": -0.0,
+          "max": -1.0,
           "min": -2.0
         }
       ]
@@ -94,5 +94,5 @@
     "Linux 7.2 debuts, Linus Torvalds says ‘new normal’ means he had to do it now ... or never?",
     "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive"
   ],
-  "crew_quote": "\"You know, if it gets any colder, I'll trade my curry for a cup of snow! At least it’s more exciting than watching some techie lose a part to his screwdriver!\""
+  "crew_quote": "\"I tell you, if this weather gets any worse, I'll need a curry to warm me up and a shovel just to find my feet in this blizzard!\""
 }
