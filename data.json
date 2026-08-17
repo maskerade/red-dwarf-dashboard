@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T16:33:37.208569+00:00",
+  "timestamp": "2026-08-17T17:04:34.918104+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Code fixers have fired up the AI warp drive. Strange new worlds await",
-    "Black Hat and DEF CON are AI conferences now, too",
-    "Part didn't fit so techie got out his screwdriver. Then something flew off the motherboard",
-    "Linux 7.2 debuts, Linus Torvalds says ‘new normal’ means he had to do it now ... or never?"
+    "An AI broke Snowflake's code. Then another AI agent exploited it",
+    "Mozilla adds ad blocking to Firefox for iOS",
+    "GitHub has Issues as repo downloads hit 50% error rate",
+    "$1K laser mosquito zapper promises precision strikes as backers itch for answers"
   ],
-  "crew_quote": "\"With this miserable weather, I could really go for a nice curry to warm me up, but knowing my luck, it'll rain right on my takeaway. Typical!\""
+  "crew_quote": "\"With all this patchy rain, I reckon it's a perfect day for a curry — as long as the weather doesn’t steal my thunder and turn it into a full-blown monsoon!\""
 }
