@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T14:29:37.132809+00:00",
+  "timestamp": "2026-08-17T15:00:37.959085+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": -4.0,
+      "temp": -3.0,
       "conditions": "Blizzard",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Part didn't fit so techie got out his screwdriver. Then something flew off the motherboard",
     "Linux 7.2 debuts, Linus Torvalds says ‘new normal’ means he had to do it now ... or never?"
   ],
-  "crew_quote": "\"Blimey, it's so cold outside even the snow's trying to stay indoors—perfect curry weather if you ask me!\""
+  "crew_quote": "\"Blowing snow and sub-zero temperatures? Sounds like the perfect weather for a nice curry! Just toss in some extra spice and it’ll warm the soul!\""
 }
