@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T11:23:28.978461+00:00",
+  "timestamp": "2026-08-17T11:54:34.483480+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": -4.0,
-      "conditions": "Blizzard",
+      "conditions": "Blowing snow",
       "forecast": [
         {
           "date": "2026-08-17",
@@ -94,5 +94,5 @@
     "Part didn't fit so techie got out his screwdriver. Then something flew off the motherboard",
     "Linux 7.2 debuts, Linus Torvalds says ‘new normal’ means he had to do it now ... or never?"
   ],
-  "crew_quote": "\"You know it's so cold outside, I thought the blizzard was just my fridge trying to get me to eat more curry!\""
+  "crew_quote": "\"Blimey, it’s colder than a penguin's backside out there! Bet even the curry's freezing in the fridge—come on, let's fire up that AI warp drive and find some heat!\""
 }
