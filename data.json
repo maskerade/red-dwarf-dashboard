@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T05:11:24.051244+00:00",
+  "timestamp": "2026-08-17T05:42:30.482376+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,13 +16,13 @@
   },
   "locations": {
     "altrincham": {
-      "temp": -5.0,
+      "temp": -4.0,
       "conditions": "Blizzard",
       "forecast": [
         {
           "date": "2026-08-17",
           "max": -4.0,
-          "min": -5.0
+          "min": -4.0
         },
         {
           "date": "2026-08-18",
@@ -74,7 +74,7 @@
         {
           "date": "2026-08-19",
           "max": -0.0,
-          "min": -1.0
+          "min": -2.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Stopping a cyberattack while walking your dog - defensive AI security CEO says it's not ruff to do",
     "The what, why, and how of pull requests and source comments"
   ],
-  "crew_quote": "\"Right, so while it's minus five outside and blizzarding, I say we just stay in, have a curry, and let the AI do its thing—after all, it sounds like it's got more problems than us!\""
+  "crew_quote": "\"Blimey, it's colder than a penguin's backside out there! I reckon a nice hot curry would melt the snow and get us through this blizzard.\""
 }
