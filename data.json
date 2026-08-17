@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T08:48:31.127481+00:00",
+  "timestamp": "2026-08-17T09:19:28.173340+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Code fixers have fired up the AI warp drive. Strange new worlds await",
     "Black Hat and DEF CON are AI conferences now, too",
     "Part didn't fit so techie got out his screwdriver. Then something flew off the motherboard",
-    "Linux 7.2 debuts, Linus Torvalds says ‘new normal’ means he had to do it now ... or never?",
-    "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive"
+    "Linux 7.2 debuts, Linus Torvalds says ‘new normal’ means he had to do it now ... or never?"
   ],
-  "crew_quote": "\"I tell you, if this weather gets any worse, I'll need a curry to warm me up and a shovel just to find my feet in this blizzard!\""
+  "crew_quote": "\"Blizzards, eh? At least we're not stuck in a curry shop — it's too cold for even a vindaloo to save us now!\""
 }
