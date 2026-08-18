@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T09:38:25.459205+00:00",
+  "timestamp": "2026-08-18T10:10:27.473451+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -31,10 +31,10 @@
   "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "UK puts Google AI on the flight path to fewer contrails",
     "AI models get convenient amnesia about source material as they grow, MIT boffins find",
     "UK's tech talent pipeline shrinks as overseas worker visa applications fall 7%",
-    "Google buys crashed airline Spirit’s data at auction, because AI",
-    "Microsoft MVP creates site to remind you of all the brands Redmond replaced"
+    "Google buys crashed airline Spirit’s data at auction, because AI"
   ],
-  "crew_quote": "\"Right, so while we're all stuck in this climate-less void, I guess the only thing left to do is whip up a curry so good it makes even the ship's AI forget its source material!\""
+  "crew_quote": "\"AI's got amnesia? Sounds like me after a curry night! Still, as long as it keeps the contrails down, I’m all for it, mate!\""
 }
