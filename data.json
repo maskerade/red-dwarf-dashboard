@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T11:44:00.875763+00:00",
+  "timestamp": "2026-08-18T12:14:59.156667+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Government Teams users face another ******* month of filtered captions",
     "Passport out-of-control at French airport",
     "Sponsor gives KDE Plasma 6.6 the LTS treatment",
-    "UK puts Google AI on the flight path to fewer contrails",
-    "AI models get convenient amnesia about source material as they grow, MIT boffins find"
+    "UK puts Google AI on the flight path to fewer contrails"
   ],
-  "crew_quote": "\"Well, if it’s patchy rain in Llandudno, I reckon the best plan is to stay in, whip up a curry, and let the universe sort itself out—like a passport at a French airport!\""
+  "crew_quote": "\"Honestly, with all this patchy rain, it's like the weather's trying to give me a wet sock party—better whip up some curry to perk things up!\""
 }
