@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T21:33:06.370664+00:00",
+  "timestamp": "2026-08-18T22:04:13.799232+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Expired credit cards revived by researchers to make unauthorized payments",
+    "Meta and Google mobile apps gorge on user data: Study",
     "CISA gives feds 3 days to fix actively exploited Ray RCE bug",
-    "Apple plugs image-processing hole ripe for spyware abuse",
-    "Tim King, AmigaDOS royalty, dies aged 70",
-    "Microsoft finally fixing File Explorer and the Context Menu"
+    "Apple plugs image-processing hole ripe for spyware abuse"
   ],
-  "crew_quote": "\"Oh great, patchy rain again? I was just about to perfect my curry recipe, but now I'll have to add a splash of misery to it!\""
+  "crew_quote": "\"Looks like it’s another typical day in the universe—patchy rain and expired credit cards! I mean, if only my curry could bring them back to life, eh?\""
 }
