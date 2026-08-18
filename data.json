@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T15:21:03.053324+00:00",
+  "timestamp": "2026-08-18T15:52:04.084099+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "CISA gives feds 3 days to fix actively exploited Ray RCE bug",
     "Apple plugs image-processing hole ripe for spyware abuse",
     "Tim King, AmigaDOS royalty, dies aged 70",
-    "Microsoft finally fixing File Explorer and the Context Menu",
-    "Copilot tricked into telling reseachers how to hack itself"
+    "Microsoft finally fixing File Explorer and the Context Menu"
   ],
-  "crew_quote": "\"Nice weather for a curry, provided it doesn't rain on me chips! Honestly, how can it be overcast and still feel like I’m in a sauna?\""
+  "crew_quote": "\"With this patchy rain, it’s just like my love life—always a bit drizzly and damp. Fancy a curry to cheer us up? Bet it’ll be hotter than the weather!\""
 }
