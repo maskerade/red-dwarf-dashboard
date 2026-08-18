@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T02:53:36.223578+00:00",
+  "timestamp": "2026-08-18T03:24:49.581004+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 17.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -26,23 +26,23 @@
         },
         {
           "date": "2026-08-19",
-          "max": 21.0,
+          "max": 20.0,
           "min": 11.0
         },
         {
           "date": "2026-08-20",
-          "max": 14.0,
-          "min": 10.0
+          "max": 16.0,
+          "min": 12.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Light rain",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-18",
-          "max": 21.0,
+          "max": 20.0,
           "min": 15.0
         },
         {
@@ -59,22 +59,22 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Light rain shower",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-18",
-          "max": 17.0,
-          "min": 14.0
+          "max": 18.0,
+          "min": 13.0
         },
         {
           "date": "2026-08-19",
           "max": 18.0,
-          "min": 11.0
+          "min": 12.0
         },
         {
           "date": "2026-08-20",
-          "max": 15.0,
-          "min": 10.0
+          "max": 17.0,
+          "min": 9.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Siemens and Reinhausen turn up the voltage for hungry AI racks",
     "Mozilla adds ad blocking to Firefox for iOS"
   ],
-  "crew_quote": "\"Looks like it's a bit rainy out, but as long as I've got my curry, I don't care if it pours like a bloody monsoon!\""
+  "crew_quote": "\"Not that I’m complaining, but if it’s 17 degrees and raining everywhere, how do I explain my fabulous hair? Must be the humidity, darling!\""
 }
