@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T19:29:08.366459+00:00",
+  "timestamp": "2026-08-18T20:00:11.993132+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,13 +37,13 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-18",
           "max": 21.0,
-          "min": 14.0
+          "min": 16.0
         },
         {
           "date": "2026-08-19",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Tim King, AmigaDOS royalty, dies aged 70",
     "Microsoft finally fixing File Explorer and the Context Menu"
   ],
-  "crew_quote": "\"Fancy that, it’s overcast in three places and I can’t even smell a decent curry! What’s a bloke gotta do to catch a break in this weather?\""
+  "crew_quote": "\"Blimey, it’s as overcast as a bad curry night! I’d kill for a proper sunny day, not this gloomy nonsense—unless it means getting more chips, then I’m all in!\""
 }
