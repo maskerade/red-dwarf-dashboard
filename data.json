@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T01:20:44.526271+00:00",
+  "timestamp": "2026-08-18T01:51:47.037602+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 14.0,
-      "conditions": "Light rain shower",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-18",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-08-18",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Siemens and Reinhausen turn up the voltage for hungry AI racks",
     "Mozilla adds ad blocking to Firefox for iOS"
   ],
-  "crew_quote": "\"Ah, a lovely 14 degrees and drizzly! Perfect weather for a nice curry... or, you know, just sitting around waiting for the universe to sort itself out.\""
+  "crew_quote": "\"With the weather in Llandudno a balmy 16 degrees, I might just consider trading in my curry for a nice, rainy stroll — just as soon as I can find my umbrella!\""
 }
