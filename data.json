@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T11:12:55.507749+00:00",
+  "timestamp": "2026-08-18T11:44:00.875763+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Passport out-of-control at French airport",
     "Sponsor gives KDE Plasma 6.6 the LTS treatment",
     "UK puts Google AI on the flight path to fewer contrails",
-    "AI models get convenient amnesia about source material as they grow, MIT boffins find",
-    "UK's tech talent pipeline shrinks as overseas worker visa applications fall 7%"
+    "AI models get convenient amnesia about source material as they grow, MIT boffins find"
   ],
-  "crew_quote": "\"Oh, look at the weather! It's not quite cold enough for a curry, but just warm enough to contemplate existential dread over a pint. Cheers, rain!\""
+  "crew_quote": "\"Well, if it’s patchy rain in Llandudno, I reckon the best plan is to stay in, whip up a curry, and let the universe sort itself out—like a passport at a French airport!\""
 }
