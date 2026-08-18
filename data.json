@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T13:16:57.866391+00:00",
+  "timestamp": "2026-08-18T13:48:00.369194+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft finally fixing File Explorer and the Context Menu",
     "Copilot tricked into telling reseachers how to hack itself",
     "Government Teams users face another ******* month of filtered captions",
-    "Passport out-of-control at French airport",
-    "Sponsor gives KDE Plasma 6.6 the LTS treatment"
+    "Passport out-of-control at French airport"
   ],
-  "crew_quote": "\"Ah, weather's about as inspiring as a soggy curry left out in the rain! Fancy a pint instead?\""
+  "crew_quote": "\"Ah, patchy rain and overcast skies—just like my last relationship! Bet a nice curry would cheer anyone up on a day like this.\""
 }
