@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T05:59:52.736694+00:00",
+  "timestamp": "2026-08-18T06:30:54.343040+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Almost nobody pays attention to web standards anymore",
     "Payments giant Stripe is about to drop over $7 billion to become a gateway to AI token sales"
   ],
-  "crew_quote": "\"Patchy rain nearby? Brilliant! Just what I need for my curry night—nothing like a bit of drizzle to make the spice really come alive!\""
+  "crew_quote": "\"With all this patchy rain about, I might just make the first ever curry that doubles as a weather report—spicy with a chance of soggy!\""
 }
