@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T05:28:48.902790+00:00",
+  "timestamp": "2026-08-18T05:59:52.736694+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft MVP creates site to remind you of all the brands Redmond replaced",
+    "Xen Project gets serious about safety in push to possibly partition robot brains",
     "Almost nobody pays attention to web standards anymore",
-    "Payments giant Stripe is about to drop over $7 billion to become a gateway to AI token sales",
-    "Siemens and Reinhausen turn up the voltage for hungry AI racks",
-    "Mozilla adds ad blocking to Firefox for iOS"
+    "Payments giant Stripe is about to drop over $7 billion to become a gateway to AI token sales"
   ],
-  "crew_quote": "\"With all this patchy rain, I think I'll just stay inside and enjoy a nice curry. I mean, who wants to go out in weather that makes you look like a soggy chip?\""
+  "crew_quote": "\"Patchy rain nearby? Brilliant! Just what I need for my curry night—nothing like a bit of drizzle to make the spice really come alive!\""
 }
