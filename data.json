@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T22:35:08.605465+00:00",
+  "timestamp": "2026-08-18T23:06:10.963867+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,13 +17,8 @@
   "locations": {
     "altrincham": {
       "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Light rain shower",
       "forecast": [
-        {
-          "date": "2026-08-18",
-          "max": 19.0,
-          "min": 13.0
-        },
         {
           "date": "2026-08-19",
           "max": 18.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-20",
           "max": 17.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-08-21",
+          "max": 18.0,
+          "min": 8.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-08-18",
-          "max": 21.0,
-          "min": 16.0
-        },
         {
           "date": "2026-08-19",
           "max": 21.0,
@@ -54,18 +49,18 @@
           "date": "2026-08-20",
           "max": 20.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-08-21",
+          "max": 19.0,
+          "min": 9.0
         }
       ]
     },
     "llandudno": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Light rain shower",
       "forecast": [
-        {
-          "date": "2026-08-18",
-          "max": 18.0,
-          "min": 13.0
-        },
         {
           "date": "2026-08-19",
           "max": 18.0,
@@ -75,17 +70,22 @@
           "date": "2026-08-20",
           "max": 16.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-08-21",
+          "max": 17.0,
+          "min": 9.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:54 AM",
-    "sunset": "08:30 PM",
+    "sunrise": "05:56 AM",
+    "sunset": "08:28 PM",
     "moon_phase": "Waxing Crescent",
-    "moon_illumination": "30",
-    "moonrise": "01:25 PM",
-    "moonset": "09:52 PM"
+    "moon_illumination": "39",
+    "moonrise": "02:43 PM",
+    "moonset": "10:10 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "CISA gives feds 3 days to fix actively exploited Ray RCE bug",
     "Apple plugs image-processing hole ripe for spyware abuse"
   ],
-  "crew_quote": "\"With all this patchy rain, I think I’ll just stay inside and perfect my curry recipe; it’s the perfect weather for a warm, spicy feast—who needs sunshine anyway?\""
+  "crew_quote": "\"You know, with all this rain and expired cards, I could really go for a curry—assuming it’s not been revived from some dodgy leftovers!\""
 }
