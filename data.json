@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T23:47:46.799675+00:00",
+  "timestamp": "2026-08-18T00:18:46.542351+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 14.0,
+      "conditions": "Light rain shower",
       "forecast": [
-        {
-          "date": "2026-08-17",
-          "max": 20.0,
-          "min": 14.0
-        },
         {
           "date": "2026-08-18",
           "max": 18.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-19",
           "max": 21.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-08-20",
+          "max": 14.0,
+          "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-08-17",
-          "max": 23.0,
-          "min": 15.0
-        },
         {
           "date": "2026-08-18",
           "max": 21.0,
@@ -54,18 +49,18 @@
           "date": "2026-08-19",
           "max": 22.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-08-20",
+          "max": 19.0,
+          "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Light rain shower",
       "forecast": [
-        {
-          "date": "2026-08-17",
-          "max": 20.0,
-          "min": 14.0
-        },
         {
           "date": "2026-08-18",
           "max": 17.0,
@@ -75,17 +70,22 @@
           "date": "2026-08-19",
           "max": 18.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-08-20",
+          "max": 15.0,
+          "min": 10.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:53 AM",
-    "sunset": "08:33 PM",
+    "sunrise": "05:54 AM",
+    "sunset": "08:30 PM",
     "moon_phase": "Waxing Crescent",
-    "moon_illumination": "21",
-    "moonrise": "12:05 PM",
-    "moonset": "09:38 PM"
+    "moon_illumination": "30",
+    "moonrise": "01:25 PM",
+    "moonset": "09:52 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Siemens and Reinhausen turn up the voltage for hungry AI racks",
     "Mozilla adds ad blocking to Firefox for iOS"
   ],
-  "crew_quote": "\"Oi, it's patchy rain everywhere! Just like my love life—always a bit damp and disappointing. Fancy a curry to cheer us up?\""
+  "crew_quote": "\"Well, at least the weather is as miserable as my love life—light rain in Altrincham is just perfect for a curry binge!\""
 }
