@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T21:02:05.707027+00:00",
+  "timestamp": "2026-08-18T21:33:06.370664+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-18",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Overcast ",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-18",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 13.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-18",
@@ -94,5 +94,5 @@
     "Tim King, AmigaDOS royalty, dies aged 70",
     "Microsoft finally fixing File Explorer and the Context Menu"
   ],
-  "crew_quote": "\"Y'know, with all this overcast weather, I'd say it's the perfect day for a nice curry—just don’t let it rain on my parade or I’ll start looking like a soggy naan!\""
+  "crew_quote": "\"Oh great, patchy rain again? I was just about to perfect my curry recipe, but now I'll have to add a splash of misery to it!\""
 }
