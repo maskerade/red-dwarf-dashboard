@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T14:50:04.819729+00:00",
+  "timestamp": "2026-08-18T15:21:03.053324+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,59 +16,59 @@
   },
   "locations": {
     "altrincham": {
+      "temp": 18.0,
+      "conditions": "Patchy rain nearby",
+      "forecast": [
+        {
+          "date": "2026-08-18",
+          "max": 19.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-08-19",
+          "max": 18.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-08-20",
+          "max": 17.0,
+          "min": 10.0
+        }
+      ]
+    },
+    "overseal": {
+      "temp": 21.0,
+      "conditions": "Overcast ",
+      "forecast": [
+        {
+          "date": "2026-08-18",
+          "max": 21.0,
+          "min": 14.0
+        },
+        {
+          "date": "2026-08-19",
+          "max": 21.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-08-20",
+          "max": 20.0,
+          "min": 13.0
+        }
+      ]
+    },
+    "llandudno": {
       "temp": 17.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-18",
           "max": 18.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-08-19",
-          "max": 18.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-20",
-          "max": 18.0,
-          "min": 11.0
-        }
-      ]
-    },
-    "overseal": {
-      "temp": 19.0,
-      "conditions": "Overcast ",
-      "forecast": [
-        {
-          "date": "2026-08-18",
-          "max": 20.0,
-          "min": 16.0
-        },
-        {
-          "date": "2026-08-19",
-          "max": 21.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-08-20",
-          "max": 18.0,
-          "min": 11.0
-        }
-      ]
-    },
-    "llandudno": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
-      "forecast": [
-        {
-          "date": "2026-08-18",
-          "max": 17.0,
           "min": 13.0
         },
         {
           "date": "2026-08-19",
-          "max": 15.0,
+          "max": 18.0,
           "min": 11.0
         },
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Apple plugs image-processing hole ripe for spyware abuse",
     "Tim King, AmigaDOS royalty, dies aged 70",
     "Microsoft finally fixing File Explorer and the Context Menu",
-    "Copilot tricked into telling reseachers how to hack itself",
-    "Government Teams users face another ******* month of filtered captions"
+    "Copilot tricked into telling reseachers how to hack itself"
   ],
-  "crew_quote": "\"Weather's a bit moody today, innit? Just like my hair—patchy rain could ruin my look, but at least the curry's still on the menu, right?\""
+  "crew_quote": "\"Nice weather for a curry, provided it doesn't rain on me chips! Honestly, how can it be overcast and still feel like I’m in a sauna?\""
 }
