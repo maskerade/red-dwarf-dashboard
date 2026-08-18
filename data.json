@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T12:46:00.356053+00:00",
+  "timestamp": "2026-08-18T13:16:57.866391+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Copilot tricked into telling reseachers how to hack itself",
     "Government Teams users face another ******* month of filtered captions",
     "Passport out-of-control at French airport",
-    "Sponsor gives KDE Plasma 6.6 the LTS treatment",
-    "UK puts Google AI on the flight path to fewer contrails"
+    "Sponsor gives KDE Plasma 6.6 the LTS treatment"
   ],
-  "crew_quote": "\"Oh great, patchy rain nearby! Just what I need—nature's way of telling me I should've packed extra curry for the damp drive!\""
+  "crew_quote": "\"Ah, weather's about as inspiring as a soggy curry left out in the rain! Fancy a pint instead?\""
 }
