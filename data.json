@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T03:14:16.777902+00:00",
+  "timestamp": "2026-08-19T03:45:16.236064+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -21,7 +21,7 @@
       "forecast": [
         {
           "date": "2026-08-19",
-          "max": 18.0,
+          "max": 19.0,
           "min": 12.0
         },
         {
@@ -47,8 +47,8 @@
         },
         {
           "date": "2026-08-20",
-          "max": 20.0,
-          "min": 13.0
+          "max": 21.0,
+          "min": 12.0
         },
         {
           "date": "2026-08-21",
@@ -59,21 +59,21 @@
     },
     "llandudno": {
       "temp": 12.0,
-      "conditions": "Light rain shower",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-08-19",
-          "max": 18.0,
-          "min": 11.0
+          "max": 19.0,
+          "min": 10.0
         },
         {
           "date": "2026-08-20",
-          "max": 16.0,
+          "max": 15.0,
           "min": 10.0
         },
         {
           "date": "2026-08-21",
-          "max": 17.0,
+          "max": 16.0,
           "min": 9.0
         }
       ]
@@ -94,5 +94,5 @@
     "Expired credit cards revived by researchers to make unauthorized payments",
     "Meta and Google mobile apps gorge on user data: Study"
   ],
-  "crew_quote": "\"Light rain outside and not a single curry in sight—it's like the universe is conspiring to ruin my evening!\""
+  "crew_quote": "\"Looks like it's another day for a cozy curry while we listen to the rain doing its best impression of a total downpour. Who knew a light shower could feel so heavy!\""
 }
