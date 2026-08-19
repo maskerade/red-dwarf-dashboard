@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T14:05:24.088407+00:00",
+  "timestamp": "2026-08-19T14:36:26.725706+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "ISS spacewalkers discover there's no such thing as a quick antenna job",
     "Comcast gives its Wi-Fi motion detector a security makeover",
     "Postgres pioneer credits Oracle with helping his database take over the world",
-    "GitHub blames 8-hour outage on autoscaling fail and VS Code retry storm",
-    "Scotland's AI Growth Zone gets a wee £300M power-up"
+    "GitHub blames 8-hour outage on autoscaling fail and VS Code retry storm"
   ],
-  "crew_quote": "\"Looks like it’s patchy rain nearby, which is perfect timing for a curry—nothing like a bit of drizzle to get those spices dancing, eh?\""
+  "crew_quote": "\"With this lovely 18 degrees and patchy rain, it's the perfect weather for a curry! Just as long as it doesn't get too wet outside, I don't fancy swimming home.\""
 }
