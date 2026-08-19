@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T11:30:11.101504+00:00",
+  "timestamp": "2026-08-19T12:01:24.314441+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "GitHub blames 8-hour outage on autoscaling fail and VS Code retry storm",
     "Scotland's AI Growth Zone gets a wee £300M power-up",
     "SAP consultant job ads overshoot final offers by up to 12%, recruiter claims",
-    "Raspberry Pi gets jiggy with batch CM5 provisioning",
-    "UK taxman discovers low code doesn't mean low cost with £657M awards"
+    "Raspberry Pi gets jiggy with batch CM5 provisioning"
   ],
-  "crew_quote": "\"Great! It's perfect curry weather, and look at that, it’s patchy rain in Llandudno—just the way I like my curries, nice and moist!\""
+  "crew_quote": "\"Looks like it’s patchy rain everywhere—perfect weather for a curry and a good old fashioned moan about GitHub's latest meltdown! Pass the naan!\""
 }
