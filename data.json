@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T15:07:30.616510+00:00",
+  "timestamp": "2026-08-19T15:38:25.884545+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Postgres pioneer credits Oracle with helping his database take over the world",
     "GitHub blames 8-hour outage on autoscaling fail and VS Code retry storm"
   ],
-  "crew_quote": "\"I'm not saying it's raining in Altrincham, but if it gets any wetter, I might just have to dip my curry in it!\""
+  "crew_quote": "\"With weather like this, I reckon it's the perfect day for a nice curry and a good old moan about the patchy rain, rather than floating around in space like some sodding astronaut.\""
 }
