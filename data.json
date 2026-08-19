@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T07:53:18.738462+00:00",
+  "timestamp": "2026-08-19T08:24:15.048074+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,55 +16,55 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Overcast ",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-19",
           "max": 19.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-08-20",
-          "max": 17.0,
-          "min": 10.0
+          "max": 18.0,
+          "min": 11.0
         },
         {
           "date": "2026-08-21",
           "max": 18.0,
-          "min": 8.0
+          "min": 9.0
         }
       ]
     },
     "overseal": {
-      "temp": 13.0,
+      "temp": 15.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-19",
-          "max": 21.0,
+          "max": 20.0,
           "min": 13.0
         },
         {
           "date": "2026-08-20",
-          "max": 21.0,
+          "max": 20.0,
           "min": 12.0
         },
         {
           "date": "2026-08-21",
           "max": 19.0,
-          "min": 9.0
+          "min": 11.0
         }
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Fog",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-19",
-          "max": 19.0,
-          "min": 10.0
+          "max": 18.0,
+          "min": 11.0
         },
         {
           "date": "2026-08-20",
@@ -94,5 +94,5 @@
     "Australian hotel chain leaks guests’ PII after breach at third-party database operator",
     "Cerebras CS-4 rack systems juice chips for every last drop of AI performance"
   ],
-  "crew_quote": "\"Oi, look at that fog in Llandudno! It’s like a curry that’s been left in the fridge too long—mysterious and slightly unsettling, but still a bit tempting.\""
+  "crew_quote": "\"Just like the weather in Altrincham, my chances of getting a decent curry today are patchy at best—looks like I’ll need to rain-check that takeaway!\""
 }
