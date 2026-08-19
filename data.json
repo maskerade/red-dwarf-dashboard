@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T06:20:17.603179+00:00",
+  "timestamp": "2026-08-19T06:51:20.138933+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Light rain shower",
+      "temp": 13.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Light rain shower",
+      "temp": 13.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Light rain shower",
+      "temp": 12.0,
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -94,5 +94,5 @@
     "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
     "OpenAI's overhead will rise 20 percent for some workloads as it hardens security"
   ],
-  "crew_quote": "\"With weather like this, I’ll take the rain over a soggy curry any day—at least it’s not my pod that’s leaking PII!\""
+  "crew_quote": "\"Well, at least it's a lovely day for a proper curry, even if the view's foggier than Rimmer's intelligence!\""
 }
