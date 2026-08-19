@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T18:44:28.443091+00:00",
+  "timestamp": "2026-08-19T19:15:30.917337+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,12 +16,12 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-19",
-          "max": 19.0,
+          "max": 18.0,
           "min": 11.0
         },
         {
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -68,7 +68,7 @@
         },
         {
           "date": "2026-08-20",
-          "max": 15.0,
+          "max": 14.0,
           "min": 10.0
         },
         {
@@ -94,5 +94,5 @@
     "More than half of Americans now view AI negatively",
     "ISS spacewalkers discover there's no such thing as a quick antenna job"
   ],
-  "crew_quote": "\"With weather like this, I could really go for a nice curry on the beach—perfectly sunny at Llandudno! But knowing my luck, it’ll probably rain curry.\""
+  "crew_quote": "\"Sunny in Overseal? Might as well be a heatwave in deep space — I hope someone’s got a curry on the go, or it’s just another dull day in this tin can!\""
 }
