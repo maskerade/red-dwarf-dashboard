@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T01:41:15.453703+00:00",
+  "timestamp": "2026-08-19T02:12:13.552793+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -94,5 +94,5 @@
     "Expired credit cards revived by researchers to make unauthorized payments",
     "Meta and Google mobile apps gorge on user data: Study"
   ],
-  "crew_quote": "\"Looks like it's raining everywhere, but don’t worry, I’ve got a plan: we'll just add a bit of curry to the mix and turn those showers into a spicy downpour!\""
+  "crew_quote": "\"Great, just what we need—light rain and a temperature that's a proper curry's throw away from freezing. But at least the chips are working overtime, eh?\""
 }
