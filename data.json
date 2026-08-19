@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T09:26:15.272000+00:00",
+  "timestamp": "2026-08-19T09:57:23.278903+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Raspberry Pi gets jiggy with batch CM5 provisioning",
     "UK taxman discovers low code doesn't mean low cost with £657M awards",
     "NASA estimates the size of the hole SpaceX made in the moon",
-    "Baidu says Chinese buyers want local AI chips due to ‘supply chain’ issues",
-    "Australian hotel chain leaks guests’ PII after breach at third-party database operator"
+    "Baidu says Chinese buyers want local AI chips due to ‘supply chain’ issues"
   ],
-  "crew_quote": "\"It's patchy rain in Altrincham, but don't worry, lads! I mean, what's a little drizzle when you've got a curry waiting for you, eh?\""
+  "crew_quote": "\"Looks like it's a good day for a curry, unless you fancy dodging a bit of patchy rain like a catwalk model—I've got the style, you know!\""
 }
