@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T23:37:11.729387+00:00",
+  "timestamp": "2026-08-19T00:08:09.437989+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Cerebras CS-4 rack systems juice their dinner-plate-sized AI chips for every last drop of AI perf",
+    "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
     "Expired credit cards revived by researchers to make unauthorized payments",
-    "Meta and Google mobile apps gorge on user data: Study",
-    "CISA gives feds 3 days to fix actively exploited Ray RCE bug",
-    "Apple plugs image-processing hole ripe for spyware abuse"
+    "Meta and Google mobile apps gorge on user data: Study"
   ],
-  "crew_quote": "\"Ah, nothing like a light rain shower to remind you that the universe is as miserable as a curry without the spices! I mean, we might as well be floating in a big puddle.\""
+  "crew_quote": "\"Oi, with this rain and 14 degrees, I reckon even my curry’s gonna need a raincoat! Who knew a shower could be so chilly?\""
 }
