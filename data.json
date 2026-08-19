@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T05:49:05.342019+00:00",
+  "timestamp": "2026-08-19T06:20:17.603179+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Baidu says Chinese buyers want local AI chips due to ‘supply chain’ issues",
+    "Australian hotel chain leaks guests’ PII after breach at third-party database operator",
     "Cerebras CS-4 rack systems juice chips for every last drop of AI performance",
-    "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
-    "Expired credit cards revived by researchers to make unauthorized payments",
-    "Meta and Google mobile apps gorge on user data: Study"
+    "OpenAI's overhead will rise 20 percent for some workloads as it hardens security"
   ],
-  "crew_quote": "\"Weather's a right downer, innit? Makes you just want to curl up with a curry and binge on a documentary about AI — they might be smarter, but they can't make a decent vindaloo!\""
+  "crew_quote": "\"With weather like this, I’ll take the rain over a soggy curry any day—at least it’s not my pod that’s leaking PII!\""
 }
