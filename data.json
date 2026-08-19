@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T10:59:23.954331+00:00",
+  "timestamp": "2026-08-19T11:30:11.101504+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Scotland's AI Growth Zone gets a wee £300M power-up",
     "SAP consultant job ads overshoot final offers by up to 12%, recruiter claims",
     "Raspberry Pi gets jiggy with batch CM5 provisioning",
-    "UK taxman discovers low code doesn't mean low cost with £657M awards",
-    "NASA estimates the size of the hole SpaceX made in the moon"
+    "UK taxman discovers low code doesn't mean low cost with £657M awards"
   ],
-  "crew_quote": "\"14 degrees and patchy rain? Sounds like Altrincham's got all the charm of a used sock, but at least it’s not Lister trying to cook curry in here!\""
+  "crew_quote": "\"Great! It's perfect curry weather, and look at that, it’s patchy rain in Llandudno—just the way I like my curries, nice and moist!\""
 }
