@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T09:57:23.278903+00:00",
+  "timestamp": "2026-08-19T10:28:19.514259+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "SAP consultant job ads overshoot final offers by up to 12%, recruiter claims",
     "Raspberry Pi gets jiggy with batch CM5 provisioning",
     "UK taxman discovers low code doesn't mean low cost with £657M awards",
-    "NASA estimates the size of the hole SpaceX made in the moon",
-    "Baidu says Chinese buyers want local AI chips due to ‘supply chain’ issues"
+    "NASA estimates the size of the hole SpaceX made in the moon"
   ],
-  "crew_quote": "\"Looks like it's a good day for a curry, unless you fancy dodging a bit of patchy rain like a catwalk model—I've got the style, you know!\""
+  "crew_quote": "\"Well, it's a lovely 17 degrees, perfect for a curry, but I guess I'll have to dodge the rain first. Just my luck, innit?\""
 }
