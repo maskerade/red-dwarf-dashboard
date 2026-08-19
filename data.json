@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T04:47:14.201558+00:00",
+  "timestamp": "2026-08-19T05:18:15.340423+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Mist",
+      "temp": 13.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -94,5 +94,5 @@
     "Expired credit cards revived by researchers to make unauthorized payments",
     "Meta and Google mobile apps gorge on user data: Study"
   ],
-  "crew_quote": "\"With this weather, I reckon the only thing getting a workout today is my hairdo—who wants to look fabulous in a light rain shower, anyway?\""
+  "crew_quote": "\"Ah, perfect weather for a good curry, isn't it? Nothing like a light rain shower to really bring out the flavors, especially with a side of chips—no, not those chips!\""
 }
