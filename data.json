@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T21:50:29.013571+00:00",
+  "timestamp": "2026-08-19T22:21:32.828959+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 12.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 13.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 12.0,
+      "conditions": "Thundery outbreaks in nearby",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -94,5 +94,5 @@
     "More than half of Americans now view AI negatively",
     "ISS spacewalkers discover there's no such thing as a quick antenna job"
   ],
-  "crew_quote": "\"At least it’s a nice day for a walk, but honestly, I'd rather be savouring a curry than strolling through these overcast skies in Altrincham again!\""
+  "crew_quote": "\"Weather's a bit like my love life—12 degrees and cloudy! I’d rather have a warm curry and a clear forecast, but who am I kidding?\""
 }
