@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T20:17:30.597703+00:00",
+  "timestamp": "2026-08-19T20:48:34.802366+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 14.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 16.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-19",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "More than half of Americans now view AI negatively",
     "ISS spacewalkers discover there's no such thing as a quick antenna job"
   ],
-  "crew_quote": "\"With the weather so patchy, I might just stay in and enjoy a curry while watching my epic plans for Halloween go up in smoke, don’t you think?\""
+  "crew_quote": "\"All this overcast weather makes me feel like a curry’s just waiting to be created — perfect for a night in watching those Halloween horrors, yes!\""
 }
