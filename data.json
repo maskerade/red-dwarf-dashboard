@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T22:39:05.534945+00:00",
+  "timestamp": "2026-08-20T23:10:04.868189+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Overcast ",
+      "temp": 11.0,
+      "conditions": "Cloudy ",
       "forecast": [
-        {
-          "date": "2026-08-20",
-          "max": 17.0,
-          "min": 11.0
-        },
         {
           "date": "2026-08-21",
           "max": 18.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-22",
           "max": 19.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-08-23",
+          "max": 21.0,
+          "min": 9.0
         }
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Overcast ",
+      "temp": 10.0,
+      "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-08-20",
-          "max": 20.0,
-          "min": 12.0
-        },
         {
           "date": "2026-08-21",
           "max": 19.0,
@@ -54,18 +49,18 @@
           "date": "2026-08-22",
           "max": 20.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-08-23",
+          "max": 22.0,
+          "min": 10.0
         }
       ]
     },
     "llandudno": {
-      "temp": 10.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 9.0,
+      "conditions": "Light rain shower",
       "forecast": [
-        {
-          "date": "2026-08-20",
-          "max": 14.0,
-          "min": 10.0
-        },
         {
           "date": "2026-08-21",
           "max": 17.0,
@@ -75,24 +70,29 @@
           "date": "2026-08-22",
           "max": 16.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-08-23",
+          "max": 18.0,
+          "min": 9.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "05:58 AM",
-    "sunset": "08:26 PM",
-    "moon_phase": "First Quarter",
-    "moon_illumination": "49",
-    "moonrise": "03:58 PM",
-    "moonset": "10:36 PM"
+    "sunrise": "05:59 AM",
+    "sunset": "08:24 PM",
+    "moon_phase": "Waxing Gibbous",
+    "moon_illumination": "58",
+    "moonrise": "05:06 PM",
+    "moonset": "11:14 PM"
   },
   "metrolink": null,
   "headlines": [
+    "Go updates may delight diehard gophers but displease AI overlords",
     "OpenAI chases Anthropic's biz customers with zero data retention pledge",
     "Waymo has designed a robocar chip to stay ahead of Tesla",
-    "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline",
-    "Microsoft gives Task Manager another task: Watching AI workloads"
+    "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline"
   ],
-  "crew_quote": "\"Oh great, another overcast day! Just what I needed to spice up my curry — nothing like the gloomy weather to make a bloke feel absolutely brilliant!\""
+  "crew_quote": "\"Oi, it's not too cold outside for a curry, is it? I just need to find a place that serves it without a side of cloudy doom!\""
 }
