@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T20:35:03.875532+00:00",
+  "timestamp": "2026-08-20T21:05:59.935393+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Microsoft gives Task Manager another task: Watching AI workloads",
-    "US claims 15 of the world's top 20 hyperscale datacenter locations",
-    "Researcher tricks Apple’s Find My into sharing location data with Linux",
-    "Slack Code taps into collective vibe, puts AI agents into the group chat"
+    "OpenAI chases Anthropic's biz customers with zero data retention pledge",
+    "Waymo has designed a robocar chip to stay ahead of Tesla",
+    "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline",
+    "Microsoft gives Task Manager another task: Watching AI workloads"
   ],
-  "crew_quote": "\"Looks like it's patchy rain outside, but I bet it'll clear up just in time for a curry! Rain or shine, the only real question is, do I get chips with it?\""
+  "crew_quote": "\"With this weather, I reckon a good curry could cheer us up — maybe it’ll even help me forget about the light rain ruining my hair!\""
 }
