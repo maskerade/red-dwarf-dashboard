@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T00:56:41.773011+00:00",
+  "timestamp": "2026-08-20T01:27:37.880504+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Cloudy ",
+      "temp": 13.0,
+      "conditions": "Thundery outbreaks in nearby",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 12.0,
-      "conditions": "Thundery outbreaks in nearby",
+      "conditions": "Patchy light rain in area with thunder",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -94,5 +94,5 @@
     "Google pits Marvell against Broadcom as it chases AI crown",
     "Dev taps Claude Code to craft custom printer driver for macOS"
   ],
-  "crew_quote": "\"Well, look at that! Thundery outbreaks nearby and a lovely 13 degrees—perfect weather for a cold curry, don’t you think? Just gotta dodge the lightning!\""
+  "crew_quote": "\"Blimey, what's that weather like? It's so thundery outside, I nearly dropped my curry! You think the storm's trying to hack my taste buds?\""
 }
