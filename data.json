@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T16:57:53.437167+00:00",
+  "timestamp": "2026-08-20T17:28:56.323898+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Ransomware crook poses as recovery firm to steal payments from fellow extortionists",
-    "NetBSD 11 lands with RISC-V support and lightning-fast VM boots",
-    "£37M SAP overhaul could extend Capgemini's run with UK tax collector to 28 years",
-    "Grok chat duped into swallowing injected instructions"
+    "Microsoft gives Task Manager another task: Watching AI workloads",
+    "US claims 15 of the world's top 20 hyperscale datacenter locations",
+    "Researcher tricks Apple’s Find My into sharing location data with Linux",
+    "Slack Code taps into collective vibe, puts AI agents into the group chat"
   ],
-  "crew_quote": "\"Looks like it's 15 degrees and raining everywhere, just like my chances of finding a decent curry today—absolutely miserable!\""
+  "crew_quote": "\"Ah, patchy rain nearby again! Just like my love life—always damp and never quite comes together, but at least it’s a perfect excuse for a curry night!\""
 }
