@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T11:47:49.076808+00:00",
+  "timestamp": "2026-08-20T12:18:36.581730+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -21,24 +21,24 @@
       "forecast": [
         {
           "date": "2026-08-20",
-          "max": 15.0,
+          "max": 17.0,
           "min": 12.0
         },
         {
           "date": "2026-08-21",
           "max": 18.0,
-          "min": 10.0
+          "min": 9.0
         },
         {
           "date": "2026-08-22",
-          "max": 20.0,
-          "min": 11.0
+          "max": 19.0,
+          "min": 9.0
         }
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 20.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -80,12 +80,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "05:57 AM",
+    "sunrise": "05:58 AM",
     "sunset": "08:26 PM",
     "moon_phase": "First Quarter",
     "moon_illumination": "49",
-    "moonrise": "03:59 PM",
-    "moonset": "10:35 PM"
+    "moonrise": "03:58 PM",
+    "moonset": "10:36 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Software development and tech services in the cross-hairs as AI marches on",
     "No lift for Swift as NASA abandons orbital rescue"
   ],
-  "crew_quote": "\"You know it's a bit wet outside, but who cares? I’ve got my curry and a good game on the telly, and that’s all a man needs, even if the weather’s as patchy as Rimmer’s hair!\""
+  "crew_quote": "\"Ah, 14 degrees and a bit of rain, just perfect for a curry night! I mean, who doesn't love a warm, cozy meal when the weather's trying to rain on your parade?\""
 }
