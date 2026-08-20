@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T14:53:52.927139+00:00",
+  "timestamp": "2026-08-20T15:24:51.098847+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 12.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -94,5 +94,5 @@
     "£37M SAP overhaul could extend Capgemini's run with UK tax collector to 28 years",
     "Grok chat duped into swallowing injected instructions"
   ],
-  "crew_quote": "\"With weather like this, it’s perfect for a nice curry and a bit of a laugh. Who needs sunshine when you've got rain to keep you company?\""
+  "crew_quote": "\"Ah, light rain showers everywhere, just like my love life — damp and thoroughly unexciting! Time for a curry to spice things up!\""
 }
