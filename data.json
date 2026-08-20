@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T04:02:40.767047+00:00",
+  "timestamp": "2026-08-20T04:33:43.460488+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Mist",
+      "temp": 13.0,
+      "conditions": "Thundery outbreaks in nearby",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -94,5 +94,5 @@
     "Google pits Marvell against Broadcom as it chases AI crown",
     "Dev taps Claude Code to craft custom printer driver for macOS"
   ],
-  "crew_quote": "\"With this mist rolling in, I reckon it's the perfect weather for a nice curry, as long as the AI hackers don’t decide to take out the microwave first!\""
+  "crew_quote": "\"What’s this? Thunder and mist outside? Sounds perfect for a curry night in, as long as the AI doesn’t decide to hack my takeaway order, eh?\""
 }
