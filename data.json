@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T02:29:39.388078+00:00",
+  "timestamp": "2026-08-20T03:00:39.264952+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Thundery outbreaks in nearby",
+      "temp": 12.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Patchy light rain in area with thunder",
+      "temp": 11.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -94,5 +94,5 @@
     "Google pits Marvell against Broadcom as it chases AI crown",
     "Dev taps Claude Code to craft custom printer driver for macOS"
   ],
-  "crew_quote": "\"Thundery outbreaks? Brilliant! Nothing like a bit of atmospheric drama to spice up a quiet day of curry and procrastination, eh?\""
+  "crew_quote": "\"Looks like it's misty out, and I'm feeling a bit thunderous myself—just like the curry I had last night! Now that’s the real storm we need to worry about!\""
 }
