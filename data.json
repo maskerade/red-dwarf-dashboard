@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T12:18:36.581730+00:00",
+  "timestamp": "2026-08-20T12:49:54.759926+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "French tax authority says break-in exposed data of 600K, including some private messages",
     "OpenAI glitch locks out vetted cyber researchers – and some can't get back in",
     "Microsoft probes reports of games taking exception to Windows 11's August update",
-    "Software development and tech services in the cross-hairs as AI marches on",
-    "No lift for Swift as NASA abandons orbital rescue"
+    "Software development and tech services in the cross-hairs as AI marches on"
   ],
-  "crew_quote": "\"Ah, 14 degrees and a bit of rain, just perfect for a curry night! I mean, who doesn't love a warm, cozy meal when the weather's trying to rain on your parade?\""
+  "crew_quote": "\"The weather's doing its usual thing, isn't it? Light rain everywhere, just like my love life – damp and uninspiring!\""
 }
