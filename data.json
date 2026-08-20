@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T14:22:56.411384+00:00",
+  "timestamp": "2026-08-20T14:53:52.927139+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Ransomware crook poses as recovery firm to steal payments from fellow extortionists",
     "NetBSD 11 lands with RISC-V support and lightning-fast VM boots",
     "£37M SAP overhaul could extend Capgemini's run with UK tax collector to 28 years",
-    "Grok chat duped into swallowing injected instructions",
-    "French tax authority says break-in exposed data of 600K, including some private messages"
+    "Grok chat duped into swallowing injected instructions"
   ],
-  "crew_quote": "\"With this weather, I might have to swap my curry for a nice hot soup — it’s definitely looking like a day for indoor coziness, not strutting about in the rain!\""
+  "crew_quote": "\"With weather like this, it’s perfect for a nice curry and a bit of a laugh. Who needs sunshine when you've got rain to keep you company?\""
 }
