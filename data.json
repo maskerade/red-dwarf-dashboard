@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T07:08:42.972369+00:00",
+  "timestamp": "2026-08-20T07:39:49.345189+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Thundery outbreaks in nearby",
+      "temp": 14.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -48,18 +48,18 @@
         {
           "date": "2026-08-21",
           "max": 19.0,
-          "min": 11.0
+          "min": 9.0
         },
         {
           "date": "2026-08-22",
-          "max": 19.0,
-          "min": 10.0
+          "max": 21.0,
+          "min": 11.0
         }
       ]
     },
     "llandudno": {
-      "temp": 11.0,
-      "conditions": "Sunny",
+      "temp": 13.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -94,5 +94,5 @@
     "IBM says super-chill boxes that connect through 'cryogenic tunnels' will get quantum computers scaling",
     "Microsoft ends one of the last ways to buy VMware without big bundles"
   ],
-  "crew_quote": "\"Blimey, it’s 13 degrees and thundery outside! Perfect weather for a curry and a spot of dodging lightning, eh?\""
+  "crew_quote": "\"Looks like it’s a bit overcast outside—perfect weather for a nice curry binge while the rest of the universe worries about rockets!\""
 }
