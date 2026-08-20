@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T12:49:54.759926+00:00",
+  "timestamp": "2026-08-20T13:20:48.243423+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Grok chat duped into swallowing injected instructions",
     "French tax authority says break-in exposed data of 600K, including some private messages",
     "OpenAI glitch locks out vetted cyber researchers – and some can't get back in",
-    "Microsoft probes reports of games taking exception to Windows 11's August update",
-    "Software development and tech services in the cross-hairs as AI marches on"
+    "Microsoft probes reports of games taking exception to Windows 11's August update"
   ],
-  "crew_quote": "\"The weather's doing its usual thing, isn't it? Light rain everywhere, just like my love life – damp and uninspiring!\""
+  "crew_quote": "\"Looks like it's a lovely day for a light rain shower, which is just perfect for my usual curry cravings — nothing like a good curry to brighten up a dull weather day!\""
 }
