@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T21:05:59.935393+00:00",
+  "timestamp": "2026-08-20T21:36:59.542634+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,23 +16,23 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 12.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-20",
-          "max": 15.0,
-          "min": 12.0
+          "max": 17.0,
+          "min": 11.0
         },
         {
           "date": "2026-08-21",
-          "max": 17.0,
-          "min": 10.0
+          "max": 18.0,
+          "min": 9.0
         },
         {
           "date": "2026-08-22",
           "max": 19.0,
-          "min": 11.0
+          "min": 9.0
         }
       ]
     },
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Light rain shower",
+      "temp": 10.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -80,12 +80,12 @@
     }
   },
   "astronomy": {
-    "sunrise": "05:57 AM",
+    "sunrise": "05:58 AM",
     "sunset": "08:26 PM",
     "moon_phase": "First Quarter",
     "moon_illumination": "49",
-    "moonrise": "03:59 PM",
-    "moonset": "10:35 PM"
+    "moonrise": "03:58 PM",
+    "moonset": "10:36 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline",
     "Microsoft gives Task Manager another task: Watching AI workloads"
   ],
-  "crew_quote": "\"With this weather, I reckon a good curry could cheer us up — maybe it’ll even help me forget about the light rain ruining my hair!\""
+  "crew_quote": "\"With this weather, it's a perfect day for a curry and a nice lie down — but let's face it, all I’m getting is a soggy sandwich in the vending machine!\""
 }
