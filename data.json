@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T17:59:52.990795+00:00",
+  "timestamp": "2026-08-20T18:30:57.332736+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 13.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 13.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Researcher tricks Apple’s Find My into sharing location data with Linux",
     "Slack Code taps into collective vibe, puts AI agents into the group chat"
   ],
-  "crew_quote": "\"Weather's a bit patchy, innit? Not unlike my cooking skills; just like the rain, I tend to leave a bit of a mess behind!\""
+  "crew_quote": "\"Ah, Altrincham's sunny weather! If only I could bottle it up and pour it over a curry — now that’d be a proper meal for a proper day!\""
 }
