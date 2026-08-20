@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T11:16:50.335785+00:00",
+  "timestamp": "2026-08-20T11:47:49.076808+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "OpenAI glitch locks out vetted cyber researchers – and some can't get back in",
     "Microsoft probes reports of games taking exception to Windows 11's August update",
     "Software development and tech services in the cross-hairs as AI marches on",
-    "No lift for Swift as NASA abandons orbital rescue",
-    "SparkyLinux 8.4 rekindles support for 32-bit PCs"
+    "No lift for Swift as NASA abandons orbital rescue"
   ],
-  "crew_quote": "\"Oi, with this weather, I might as well be sat in a puddle with my curry! I mean, who ordered this light rain anyway?!\""
+  "crew_quote": "\"You know it's a bit wet outside, but who cares? I’ve got my curry and a good game on the telly, and that’s all a man needs, even if the weather’s as patchy as Rimmer’s hair!\""
 }
