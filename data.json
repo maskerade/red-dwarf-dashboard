@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T08:41:51.886684+00:00",
+  "timestamp": "2026-08-20T09:12:46.581187+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 16.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "SparkyLinux 8.4 rekindles support for 32-bit PCs",
     "AI agent suggested installing a malware package. Engineer almost took its advice",
     "China marches towards re-usable rockets with successful first-stage landing",
-    "IBM says super-chill boxes that connect through 'cryogenic tunnels' will get quantum computers scaling",
-    "Microsoft ends one of the last ways to buy VMware without big bundles"
+    "IBM says super-chill boxes that connect through 'cryogenic tunnels' will get quantum computers scaling"
   ],
-  "crew_quote": "\"Ah, perfect weather for a nice curry, isn't it? Nothing like a bit of light rain to wash down a vindaloo – just hope the spaceship's not as damp as Llandudno!\""
+  "crew_quote": "\"Can you believe it? Light rain in Llandudno! Perfect weather for a curry and a good old moan about 32-bit PCs. Not that I'd ever install a malware package, of course!\""
 }
