@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T10:14:44.609456+00:00",
+  "timestamp": "2026-08-20T10:45:45.548340+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,29 +16,29 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 14.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-20",
-          "max": 17.0,
+          "max": 15.0,
           "min": 12.0
         },
         {
           "date": "2026-08-21",
           "max": 18.0,
-          "min": 9.0
+          "min": 10.0
         },
         {
           "date": "2026-08-22",
-          "max": 19.0,
-          "min": 9.0
+          "max": 20.0,
+          "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Cloudy ",
+      "temp": 18.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -80,19 +80,19 @@
     }
   },
   "astronomy": {
-    "sunrise": "05:58 AM",
+    "sunrise": "05:57 AM",
     "sunset": "08:26 PM",
     "moon_phase": "First Quarter",
     "moon_illumination": "49",
-    "moonrise": "03:58 PM",
-    "moonset": "10:36 PM"
+    "moonrise": "03:59 PM",
+    "moonset": "10:35 PM"
   },
   "metrolink": null,
   "headlines": [
+    "Software development and tech services in the cross-hairs as AI marches on",
+    "No lift for Swift as NASA abandons orbital rescue",
     "SparkyLinux 8.4 rekindles support for 32-bit PCs",
-    "AI agent suggested installing a malware package. Engineer almost took its advice",
-    "China marches towards re-usable rockets with successful first-stage landing",
-    "IBM says super-chill boxes that connect through 'cryogenic tunnels' will get quantum computers scaling"
+    "AI agent suggested installing a malware package. Engineer almost took its advice"
   ],
-  "crew_quote": "\"Oi, with all this patchy rain, I reckon we could do with a good curry to warm us up – just as long as the AI doesn’t suggest a dodgy recipe!\""
+  "crew_quote": "\"Why’s it always raining when I want to go for a curry? It’s like the universe knows I need a bit of spice in my life and decides to drench me instead!\""
 }
