@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T13:20:48.243423+00:00",
+  "timestamp": "2026-08-20T13:51:57.086095+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,12 +17,12 @@
   "locations": {
     "altrincham": {
       "temp": 14.0,
-      "conditions": "Light rain shower",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-20",
           "max": 17.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-08-21",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 17.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 13.0,
-      "conditions": "Light rain shower",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-20",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "NetBSD 11 lands with RISC-V support and lightning-fast VM boots",
+    "£37M SAP overhaul could extend Capgemini's run with UK tax collector to 28 years",
     "Grok chat duped into swallowing injected instructions",
-    "French tax authority says break-in exposed data of 600K, including some private messages",
-    "OpenAI glitch locks out vetted cyber researchers – and some can't get back in",
-    "Microsoft probes reports of games taking exception to Windows 11's August update"
+    "French tax authority says break-in exposed data of 600K, including some private messages"
   ],
-  "crew_quote": "\"Looks like it's a lovely day for a light rain shower, which is just perfect for my usual curry cravings — nothing like a good curry to brighten up a dull weather day!\""
+  "crew_quote": "\"Looks like it’s raining everywhere except on me — typical! Just what I need, a light shower to ruin my perfectly coiffed hair!\""
 }
