@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T17:15:16.684164+00:00",
+  "timestamp": "2026-08-21T17:46:18.743832+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 16.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Light rain shower",
+      "temp": 17.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -94,5 +94,5 @@
     "SickKids children’s hospital bandages up careers website after intruder breaks in",
     "Hackers poison popular Rust crates to steal developers' credentials"
   ],
-  "crew_quote": "\"It's so overcast outside, it looks like the universe forgot to switch the light on! I reckon a good curry will brighten up the day, though.\""
+  "crew_quote": "\"Oi, it’s 16°C and patchy rain — perfect curry weather! Just don't blame me if the humidity makes the naan soggy!\""
 }
