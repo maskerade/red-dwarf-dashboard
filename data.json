@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T15:42:16.929465+00:00",
+  "timestamp": "2026-08-21T16:13:19.773650+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Overcast ",
+      "temp": 18.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Sunny",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "SickKids children’s hospital bandages up careers website after intruder breaks in",
     "Hackers poison popular Rust crates to steal developers' credentials",
     "AMD grabs more CPU share while pricier PCs punish desktop demand",
-    "'We let you down': GitHub pledges to scale up before developers give up",
-    "$10K phishing kit claims it can plant rogue passkeys for persistent access to pwned accounts"
+    "'We let you down': GitHub pledges to scale up before developers give up"
   ],
-  "crew_quote": "\"Well, it’s 19 degrees today; perfect weather for a nice curry! Just don’t blame me if ‘patchy rain’ turns my balti into a soggy mess!\""
+  "crew_quote": "\"Well, it’s just typical, isn’t it? You wait for a light rain shower and suddenly everyone at the SickKids hospital is more worried about hackers than their bandages!\""
 }
