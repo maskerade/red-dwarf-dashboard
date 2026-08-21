@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T11:03:16.190428+00:00",
+  "timestamp": "2026-08-21T11:34:14.637387+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -94,5 +94,5 @@
     "EE invites mobile users to live life in the 5G Fast Lane – for a price",
     "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it"
   ],
-  "crew_quote": "\"With the weather being all over the place, I reckon we should just embrace the light rain and have a curry indoors – it’s the only forecast that makes any sense!\""
+  "crew_quote": "\"Well, if Wi-Fi 7's compatibility issues were a weather report, they'd be the light rain shower in Llandudno—just damp enough to ruin your day!\""
 }
