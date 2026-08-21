@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T06:24:10.400930+00:00",
+  "timestamp": "2026-08-21T06:55:08.527491+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,44 +16,44 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 9.0,
+      "temp": 10.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-21",
-          "max": 19.0,
+          "max": 18.0,
           "min": 9.0
         },
         {
           "date": "2026-08-22",
-          "max": 19.0,
-          "min": 10.0
+          "max": 18.0,
+          "min": 9.0
         },
         {
           "date": "2026-08-23",
-          "max": 21.0,
-          "min": 9.0
+          "max": 19.0,
+          "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 9.0,
-      "conditions": "Sunny",
+      "temp": 10.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-21",
-          "max": 19.0,
+          "max": 18.0,
           "min": 9.0
         },
         {
           "date": "2026-08-22",
-          "max": 19.0,
+          "max": 20.0,
           "min": 10.0
         },
         {
           "date": "2026-08-23",
           "max": 22.0,
-          "min": 9.0
+          "min": 10.0
         }
       ]
     },
@@ -74,7 +74,7 @@
         {
           "date": "2026-08-23",
           "max": 18.0,
-          "min": 9.0
+          "min": 10.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it",
     "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5.",
     "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins",
-    "Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation",
-    "Russian snoops add OAuth abuse to targeted phishing campaigns"
+    "Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation"
   ],
-  "crew_quote": "\"Oi, with this weather, I could really go for a curry while debating if these Cisco bugs are more Olympic-worthy than my last haircut!\""
+  "crew_quote": "\"Honestly, with it being 10 degrees and drizzly, I’d rather be floating in a curry sauce than dealing with all the rubbish code crashing around us!\""
 }
