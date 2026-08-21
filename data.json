@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T03:18:06.652483+00:00",
+  "timestamp": "2026-08-21T03:49:09.193175+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Overcast ",
+      "temp": 10.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 11.0,
-      "conditions": "Cloudy ",
+      "temp": 10.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -94,5 +94,5 @@
     "Waymo has designed a robocar chip to stay ahead of Tesla",
     "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline"
   ],
-  "crew_quote": "\"11 degrees and overcast? Blimey, it’s like the entire universe decided to settle into a soggy curry night without the curry!\""
+  "crew_quote": "\"10 degrees and cloudy? Sounds like the perfect excuse to stay in and make a curry, unless it's raining — then it's definitely a 'no pants' day!\""
 }
