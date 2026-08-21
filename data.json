@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T16:13:19.773650+00:00",
+  "timestamp": "2026-08-21T16:44:18.746288+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it",
+    "Musk fumbles the timetable for first Starship catch",
     "SickKids children’s hospital bandages up careers website after intruder breaks in",
-    "Hackers poison popular Rust crates to steal developers' credentials",
-    "AMD grabs more CPU share while pricier PCs punish desktop demand",
-    "'We let you down': GitHub pledges to scale up before developers give up"
+    "Hackers poison popular Rust crates to steal developers' credentials"
   ],
-  "crew_quote": "\"Well, it’s just typical, isn’t it? You wait for a light rain shower and suddenly everyone at the SickKids hospital is more worried about hackers than their bandages!\""
+  "crew_quote": "\"Looks like it's 16 degrees and overcast, perfect weather for a nice curry—I'll take a pint too, just to keep the skies cheerful!\""
 }
