@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T18:48:24.881700+00:00",
+  "timestamp": "2026-08-21T19:19:22.235995+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 14.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Cloudy ",
+      "temp": 15.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Cloudy ",
+      "temp": 12.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -94,5 +94,5 @@
     "SickKids children’s hospital bandages up careers website after intruder breaks in",
     "Hackers poison popular Rust crates to steal developers' credentials"
   ],
-  "crew_quote": "\"When it’s 16 degrees and patchy rain outside, I think my curry’s got a better chance of surviving than our chances of getting anywhere near that Starship!\""
+  "crew_quote": "\"14 degrees and partly cloudy? Brilliant! Just the right temp for a curry, but not too hot for the new Starship—Musk could really use a good takeaway to get his act together!\""
 }
