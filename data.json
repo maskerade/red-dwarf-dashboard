@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T07:57:16.276274+00:00",
+  "timestamp": "2026-08-21T08:28:06.234463+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
+      "temp": 13.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 13.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
+      "temp": 12.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Debian is 33, Haiku is 25, and neither is standing still",
     "EE invites mobile users to live life in the 5G Fast Lane – for a price",
     "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it",
-    "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5.",
-    "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins"
+    "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5."
   ],
-  "crew_quote": "\"Well, it's ten degrees and cloudy, which is just perfect for a curry night — no need to worry about the light rain shower ruining my plans for a proper takeaway!\""
+  "crew_quote": "\"Ah, typical British weather! One minute it’s cloudy in Altrincham, the next it’s sunny in Overseal—at this rate, I’ll need a curry just to warm up!\""
 }
