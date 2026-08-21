@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T04:51:05.992522+00:00",
+  "timestamp": "2026-08-21T05:22:05.167716+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
+      "temp": 9.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 9.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -94,5 +94,5 @@
     "Waymo has designed a robocar chip to stay ahead of Tesla",
     "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline"
   ],
-  "crew_quote": "\"Honestly, it’s ten degrees and cloudy everywhere! Even the weather’s too lazy to commit to rain or shine. Must be something in the curry!\""
+  "crew_quote": "\"Well, if it's light rain in Llandudno, I suppose even the weather's got a better chance of exciting news than I do!\""
 }
