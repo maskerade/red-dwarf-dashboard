@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T14:40:21.049008+00:00",
+  "timestamp": "2026-08-21T15:11:21.090129+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Wi-Fi 7's WPA3 protections come with a compatibility catch",
-    "Debian is 33, Haiku is 25, and neither is standing still",
-    "EE invites mobile users to live life in the 5G Fast Lane – for a price",
-    "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it"
+    "Hackers poison popular Rust crates to steal developers' credentials",
+    "AMD grabs more CPU share while pricier PCs punish desktop demand",
+    "'We let you down': GitHub pledges to scale up before developers give up",
+    "$10K phishing kit claims it can plant rogue passkeys for persistent access to pwned accounts"
   ],
-  "crew_quote": "\"With the weather being all over the place, it's like the universe is playing a game of curry roulette—one minute it's sunny, the next it's patchy rain. Just my luck!\""
+  "crew_quote": "\"With the weather being all patchy and overcast, it’s perfect curry-eating weather! Let’s crank the heat up and pretend we’re back on Earth, just with less chance of getting hacked!\""
 }
