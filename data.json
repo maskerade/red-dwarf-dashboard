@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T14:09:04.904957+00:00",
+  "timestamp": "2026-08-21T14:40:21.049008+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 19.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -94,5 +94,5 @@
     "EE invites mobile users to live life in the 5G Fast Lane – for a price",
     "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it"
   ],
-  "crew_quote": "\"Well, at least the weather's as patchy as my Wi-Fi — I knew I should've brought more curry to drown my sorrows!\""
+  "crew_quote": "\"With the weather being all over the place, it's like the universe is playing a game of curry roulette—one minute it's sunny, the next it's patchy rain. Just my luck!\""
 }
