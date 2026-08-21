@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T08:28:06.234463+00:00",
+  "timestamp": "2026-08-21T08:59:13.401692+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it",
     "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5."
   ],
-  "crew_quote": "\"Ah, typical British weather! One minute it’s cloudy in Altrincham, the next it’s sunny in Overseal—at this rate, I’ll need a curry just to warm up!\""
+  "crew_quote": "\"With the weather like this, I could really go for a pint and a curry—preferably somewhere sunny, not stuck in soggy Llandudno!\""
 }
