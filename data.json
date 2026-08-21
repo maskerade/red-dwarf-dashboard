@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T07:26:07.993610+00:00",
+  "timestamp": "2026-08-21T07:57:16.276274+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "EE invites mobile users to live life in the 5G Fast Lane – for a price",
     "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it",
     "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5.",
-    "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins",
-    "Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation"
+    "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins"
   ],
-  "crew_quote": "\"Honestly, with the weather like this, I could really go for a nice hot curry to warm me up — but instead, here I am, stuck in a bumbling spaceship with a bunch of robots!\""
+  "crew_quote": "\"Well, it's ten degrees and cloudy, which is just perfect for a curry night — no need to worry about the light rain shower ruining my plans for a proper takeaway!\""
 }
