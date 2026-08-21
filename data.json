@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T20:21:26.483793+00:00",
+  "timestamp": "2026-08-21T20:52:11.885373+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,83 +16,25 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-08-21",
-          "max": 18.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-22",
-          "max": 18.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-23",
-          "max": 19.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-08-21",
-          "max": 19.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-22",
-          "max": 20.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-08-23",
-          "max": 22.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-08-21",
-          "max": 16.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-22",
-          "max": 16.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-23",
-          "max": 18.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "05:59 AM",
-    "sunset": "08:24 PM",
-    "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "58",
-    "moonrise": "05:06 PM",
-    "moonset": "11:14 PM"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
+    "AI companies are burning books, advocates complain to FTC",
     "Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it",
     "Musk fumbles the timetable for first Starship catch",
-    "SickKids children’s hospital bandages up careers website after intruder breaks in",
-    "Hackers poison popular Rust crates to steal developers' credentials"
+    "SickKids children’s hospital bandages up careers website after intruder breaks in"
   ],
-  "crew_quote": "\"Blimey, if the weather's this nice at 14°C, I might just spend the day frying up a curry instead of repairing the ship! Well, as long as Rimmer doesn't mess it up, of course!\""
+  "crew_quote": "\"I mean, the indoor temperature is so low, it’s practically asking for a curry to warm it up! But hey, at least the power usage can’t get any worse—oh wait!\""
 }
