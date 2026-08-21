@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T09:30:10.821173+00:00",
+  "timestamp": "2026-08-21T10:01:09.600468+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Cloudy ",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
+      "temp": 16.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 13.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "EE invites mobile users to live life in the 5G Fast Lane – for a price",
     "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it"
   ],
-  "crew_quote": "\"Looks like I’m stuck with the light rain shower in Llandudno—perfect weather for a curry binge in my PJs. But hey, at least it's better than Rimmer's personality!\""
+  "crew_quote": "\"Well, if it’s overcast in Altrincham, I guess we’ll have to eat our curry indoors and contemplate the wonders of Wi-Fi 7, whatever that is!\""
 }
