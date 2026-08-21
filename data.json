@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T12:36:17.970008+00:00",
+  "timestamp": "2026-08-21T13:07:19.118900+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Overcast ",
+      "temp": 18.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -37,12 +37,12 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-21",
-          "max": 18.0,
+          "max": 19.0,
           "min": 9.0
         },
         {
@@ -58,12 +58,12 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Light rain shower",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-21",
-          "max": 17.0,
+          "max": 16.0,
           "min": 9.0
         },
         {
@@ -94,5 +94,5 @@
     "EE invites mobile users to live life in the 5G Fast Lane – for a price",
     "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it"
   ],
-  "crew_quote": "\"With the weather in Altrincham, I could really go for a curry and just pretend it's summer while we wait for Wi-Fi 7 to stop being such a pain!\""
+  "crew_quote": "\"What's the weather like? Oh, just a bit of patchy rain and 18 degrees – perfect curry-eating weather, if you ask me!\""
 }
