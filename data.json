@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T08:59:13.401692+00:00",
+  "timestamp": "2026-08-21T09:30:10.821173+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Wi-Fi 7's WPA3 protections come with a compatibility catch",
     "Debian is 33, Haiku is 25, and neither is standing still",
     "EE invites mobile users to live life in the 5G Fast Lane – for a price",
-    "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it",
-    "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5."
+    "Developer given Mission:Impossible - fixing rubbish code that could crash a city - simply chose not to accept it"
   ],
-  "crew_quote": "\"With the weather like this, I could really go for a pint and a curry—preferably somewhere sunny, not stuck in soggy Llandudno!\""
+  "crew_quote": "\"Looks like I’m stuck with the light rain shower in Llandudno—perfect weather for a curry binge in my PJs. But hey, at least it's better than Rimmer's personality!\""
 }
