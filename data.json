@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T05:53:07.076413+00:00",
+  "timestamp": "2026-08-21T06:24:10.400930+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Go updates may delight diehard gophers but displease AI overlords",
-    "OpenAI chases Anthropic's biz customers with zero data retention pledge",
-    "Waymo has designed a robocar chip to stay ahead of Tesla",
-    "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline"
+    "Cisco bug severity warning reads like Olympic gymnastics scores: 10, 10, 9.9, 9.6, and 7.5.",
+    "Alibaba Cloud plans to use fewer Western chips, to boost its already huge AI margins",
+    "Supermicro fired staff after probe into $2.5 billion GPUs-to-China smuggling operation",
+    "Russian snoops add OAuth abuse to targeted phishing campaigns"
   ],
-  "crew_quote": "\"Blimey, it’s 9 degrees and cloudy in Altrincham — perfect weather for a curry and a good moan about the state of the universe, innit?\""
+  "crew_quote": "\"Oi, with this weather, I could really go for a curry while debating if these Cisco bugs are more Olympic-worthy than my last haircut!\""
 }
