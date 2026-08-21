@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T01:45:05.708934+00:00",
+  "timestamp": "2026-08-21T02:16:05.629237+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,17 +17,17 @@
   "locations": {
     "altrincham": {
       "temp": 11.0,
-      "conditions": "Cloudy ",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-21",
-          "max": 18.0,
+          "max": 19.0,
           "min": 9.0
         },
         {
           "date": "2026-08-22",
           "max": 19.0,
-          "min": 9.0
+          "min": 10.0
         },
         {
           "date": "2026-08-23",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
-      "conditions": "Clear ",
+      "temp": 11.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-21",
@@ -47,18 +47,18 @@
         },
         {
           "date": "2026-08-22",
-          "max": 20.0,
-          "min": 9.0
+          "max": 19.0,
+          "min": 10.0
         },
         {
           "date": "2026-08-23",
           "max": 22.0,
-          "min": 10.0
+          "min": 9.0
         }
       ]
     },
     "llandudno": {
-      "temp": 9.0,
+      "temp": 10.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -69,7 +69,7 @@
         {
           "date": "2026-08-22",
           "max": 16.0,
-          "min": 10.0
+          "min": 9.0
         },
         {
           "date": "2026-08-23",
@@ -94,5 +94,5 @@
     "Waymo has designed a robocar chip to stay ahead of Tesla",
     "US Bank investigates LockBit's claims as ransomware crims set pay-or-leak deadline"
   ],
-  "crew_quote": "\"Ah, perfect curry weather, innit? Just a bit cloudy and damp—ideal for a nice warm vindaloo while we contemplate the impending robot takeover!\""
+  "crew_quote": "\"Blimey, it's so gloomy outside, even the clouds have given up on being cheerful! I could really use a curry to brighten my spirits, if only it wasn't so light and drizzly!\""
 }
