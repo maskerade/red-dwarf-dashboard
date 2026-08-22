@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T08:14:39.332484+00:00",
+  "timestamp": "2026-08-22T08:45:36.005149+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Casio decides it's about time the simple digital watch got a little smarter",
     "AWS Security makes an inscrutable choice",
     "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble",
-    "Salesforce partners not seeing meaningful revenue from Agentforce AI platform, report says",
-    "AI companies are burning books, advocates complain to FTC"
+    "Salesforce partners not seeing meaningful revenue from Agentforce AI platform, report says"
   ],
-  "crew_quote": "\"13 degrees and patchy rain? Sounds like the perfect day for a curry! Just don’t blame me if the weather ruins the takeaway!\""
+  "crew_quote": "\"13 degrees and patchy rain? Sounds like a perfect day for a curry! Just me, a warm plate, and pretending the weather's not dampening my spirit.\""
 }
