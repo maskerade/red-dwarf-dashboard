@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T22:11:50.440015+00:00",
+  "timestamp": "2026-08-22T22:42:46.998253+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,46 +37,12 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-08-22",
-          "max": 20.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-23",
-          "max": 22.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-24",
-          "max": 23.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 10.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-08-22",
-          "max": 16.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-23",
-          "max": 18.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-24",
-          "max": 22.0,
-          "min": 9.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
   "astronomy": {
@@ -94,5 +60,5 @@
     "Skylab completists, clear some shelf space for 26 DVDs",
     "Casio decides it's about time the simple digital watch got a little smarter"
   ],
-  "crew_quote": "\"Oi, what’s the point of a clear sky if you can’t fry a curry under it? It’s like having a spaceship with no warp drive—just pointless!\""
+  "crew_quote": "\"Ah, just like the weather outside—11 degrees and clear—perfect for a nice curry! As long as it doesn't involve any AI trying to fry my brain!\""
 }
