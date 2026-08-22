@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T12:53:41.863209+00:00",
+  "timestamp": "2026-08-22T13:24:45.106747+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI slop is good for business if you know what you're doing",
     "Skylab completists, clear some shelf space for 26 DVDs",
     "Casio decides it's about time the simple digital watch got a little smarter",
-    "AWS Security makes an inscrutable choice",
-    "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble"
+    "AWS Security makes an inscrutable choice"
   ],
-  "crew_quote": "\"With the weather like this, I might just have to start a curry, but I suppose patchy rain is better than being stuck in a tin can with Rimmer and his digital watch obsession!\""
+  "crew_quote": "\"With the weather in Altrincham all patchy rain and a bit of sunshine, it's the perfect backdrop for a curry. Just don’t forget to turn the power on before you cook it!\""
 }
