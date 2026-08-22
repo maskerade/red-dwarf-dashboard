@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T21:09:49.677454+00:00",
+  "timestamp": "2026-08-22T21:40:50.322128+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Skylab completists, clear some shelf space for 26 DVDs",
     "Casio decides it's about time the simple digital watch got a little smarter"
   ],
-  "crew_quote": "\"Oi, it's a lovely clear day out there, perfect for a nice curry! Just don't let any AI try and steal me chips while I'm at it, right?\""
+  "crew_quote": "\"Weather's nice and clear, just like my plan to get a curry! Just don't let an AI steal the last poppadom, alright?\""
 }
