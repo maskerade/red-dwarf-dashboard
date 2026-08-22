@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T20:38:49.317348+00:00",
+  "timestamp": "2026-08-22T21:09:49.677454+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 13.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-22",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Sunny",
+      "temp": 10.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-22",
@@ -94,5 +94,5 @@
     "Skylab completists, clear some shelf space for 26 DVDs",
     "Casio decides it's about time the simple digital watch got a little smarter"
   ],
-  "crew_quote": "\"With a perfect 16 degrees and sunny skies, I reckon we'd have a cracking day for a curry! Just as long as we don’t let AI ruin our lunch, right?\""
+  "crew_quote": "\"Oi, it's a lovely clear day out there, perfect for a nice curry! Just don't let any AI try and steal me chips while I'm at it, right?\""
 }
