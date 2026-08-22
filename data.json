@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T08:45:36.005149+00:00",
+  "timestamp": "2026-08-22T09:16:36.377897+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Skylab completists, clear some shelf space for 26 DVDs",
     "Casio decides it's about time the simple digital watch got a little smarter",
     "AWS Security makes an inscrutable choice",
-    "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble",
-    "Salesforce partners not seeing meaningful revenue from Agentforce AI platform, report says"
+    "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble"
   ],
-  "crew_quote": "\"13 degrees and patchy rain? Sounds like a perfect day for a curry! Just me, a warm plate, and pretending the weather's not dampening my spirit.\""
+  "crew_quote": "\"Looks like the weather's as patchy as my love life – 13 degrees and rain, perfect for a nice curry binge while we watch those Skylab DVDs!\""
 }
