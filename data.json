@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T17:01:50.279189+00:00",
+  "timestamp": "2026-08-22T17:32:44.045812+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Skylab completists, clear some shelf space for 26 DVDs",
     "Casio decides it's about time the simple digital watch got a little smarter"
   ],
-  "crew_quote": "\"Oi, if I wanted a patchy rain to ruin my sunny day, I'd’ve just ordered a curry and set it outside for the weather to have a go at it!\""
+  "crew_quote": "\"Patchy rain nearby? Perfect! It’s like nature’s way of saying, 'Hey, why don’t you whip up a curry and binge-watch some space dramas, eh?'\""
 }
