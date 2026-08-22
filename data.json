@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T13:55:38.687216+00:00",
+  "timestamp": "2026-08-22T14:26:40.926734+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -21,7 +21,7 @@
       "forecast": [
         {
           "date": "2026-08-22",
-          "max": 19.0,
+          "max": 18.0,
           "min": 9.0
         },
         {
@@ -37,12 +37,12 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 20.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-22",
-          "max": 19.0,
+          "max": 20.0,
           "min": 9.0
         },
         {
@@ -69,7 +69,7 @@
         {
           "date": "2026-08-23",
           "max": 18.0,
-          "min": 8.0
+          "min": 9.0
         },
         {
           "date": "2026-08-24",
@@ -94,5 +94,5 @@
     "Casio decides it's about time the simple digital watch got a little smarter",
     "AWS Security makes an inscrutable choice"
   ],
-  "crew_quote": "\"Oi, with this patchy rain, I reckon we should just stay indoors and whip up a curry instead! Who needs sunshine when you've got a good vindaloo?\""
+  "crew_quote": "\"With all this patchy rain around, I might as well just curry some chips and celebrate the sunny weather in Llandudno – it’s like a tropical holiday for the taste buds!\""
 }
