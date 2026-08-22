@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T07:43:36.466434+00:00",
+  "timestamp": "2026-08-22T08:14:39.332484+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 13.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-22",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 11.0,
+      "temp": 13.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 13.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Salesforce partners not seeing meaningful revenue from Agentforce AI platform, report says",
     "AI companies are burning books, advocates complain to FTC"
   ],
-  "crew_quote": "\"Well, at 10 degrees, it’s probably too chilly for a proper curry, but you know what? I’ll just add a bit more heat and pretend we're in Llandudno!\""
+  "crew_quote": "\"13 degrees and patchy rain? Sounds like the perfect day for a curry! Just don’t blame me if the weather ruins the takeaway!\""
 }
