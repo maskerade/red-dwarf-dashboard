@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T18:34:48.769690+00:00",
+  "timestamp": "2026-08-22T19:05:35.735321+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
-      "forecast": [
-        {
-          "date": "2026-08-22",
-          "max": 18.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-23",
-          "max": 21.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-24",
-          "max": 23.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Overcast ",
-      "forecast": [
-        {
-          "date": "2026-08-22",
-          "max": 20.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-23",
-          "max": 22.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-24",
-          "max": 23.0,
-          "min": 11.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-08-22",
-          "max": 16.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-23",
-          "max": 18.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-24",
-          "max": 22.0,
-          "min": 9.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "06:01 AM",
-    "sunset": "08:22 PM",
-    "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "68",
-    "moonrise": "06:01 PM",
-    "moonset": "No moonset"
-  },
+  "astronomy": {},
   "metrolink": null,
   "headlines": [
     "If you're not using AI to attack your own systems, your adversaries will",
@@ -94,5 +36,5 @@
     "Skylab completists, clear some shelf space for 26 DVDs",
     "Casio decides it's about time the simple digital watch got a little smarter"
   ],
-  "crew_quote": "\"Seventeen degrees and patchy rain? Sounds like a perfect day for a curry, but then again, I suppose that’s if the AI doesn't decide to attack my appetite first!\""
+  "crew_quote": "\"You know, with everything so quiet and the power usage so low, I reckon even the curry's decided to take a day off!\""
 }
