@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T03:04:31.602957+00:00",
+  "timestamp": "2026-08-22T03:35:32.583717+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AI companies are burning books, advocates complain to FTC",
     "Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it"
   ],
-  "crew_quote": "\"When the weather's as overcast as my future, I could really do with a nice curry to cheer me up—preferably with a side of hope, if they've got any left!\""
+  "crew_quote": "\"With it being 11 degrees and overcast, I reckon it’s a perfect day for a curry, but I guess I’ll just have to settle for dreaming about it while I stare at the AI news.\""
 }
