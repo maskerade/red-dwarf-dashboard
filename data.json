@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T01:31:29.479941+00:00",
+  "timestamp": "2026-08-22T02:02:27.880182+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,13 +16,13 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 12.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-22",
           "max": 18.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-08-23",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 11.0,
+      "temp": 10.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AI companies are burning books, advocates complain to FTC",
     "Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it"
   ],
-  "crew_quote": "\"With this mist in Llandudno, I could really do with a curry to warm me up — that’ll sort out the damp and give me a nice glow, don’t you think?\""
+  "crew_quote": "\"Looking out at 12°C and overcast from my lovely ship, I can’t help but wonder if our power usage is as low as my chances of getting a good curry today!\""
 }
