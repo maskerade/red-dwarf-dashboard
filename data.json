@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T06:10:34.605328+00:00",
+  "timestamp": "2026-08-22T06:41:33.025210+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,17 +16,17 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Overcast ",
+      "temp": 10.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-22",
-          "max": 18.0,
-          "min": 11.0
+          "max": 19.0,
+          "min": 9.0
         },
         {
           "date": "2026-08-23",
-          "max": 19.0,
+          "max": 21.0,
           "min": 9.0
         },
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 9.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 11.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-22",
@@ -48,17 +48,17 @@
         {
           "date": "2026-08-23",
           "max": 22.0,
-          "min": 10.0
+          "min": 9.0
         },
         {
           "date": "2026-08-24",
-          "max": 24.0,
+          "max": 23.0,
           "min": 11.0
         }
       ]
     },
     "llandudno": {
-      "temp": 11.0,
+      "temp": 12.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -69,11 +69,11 @@
         {
           "date": "2026-08-23",
           "max": 18.0,
-          "min": 9.0
+          "min": 8.0
         },
         {
           "date": "2026-08-24",
-          "max": 23.0,
+          "max": 22.0,
           "min": 9.0
         }
       ]
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AWS Security makes an inscrutable choice",
     "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble",
     "Salesforce partners not seeing meaningful revenue from Agentforce AI platform, report says",
-    "AI companies are burning books, advocates complain to FTC",
-    "Homeland security cybercops say patch TrueConf (Russia's Zoom) if you're using it"
+    "AI companies are burning books, advocates complain to FTC"
   ],
-  "crew_quote": "\"Weather’s looking a bit grim, but that’s just typical—like trying to find a decent curry in space! At least it’s warmer than Rimmer’s love life.\""
+  "crew_quote": "\"Weather's a right mess, isn't it? I mean, nothing says 'gorgeous day' like patchy rain and overcast skies—might as well grab a curry and binge-watch some rubbish!\""
 }
