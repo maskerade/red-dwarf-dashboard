@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T10:49:40.885499+00:00",
+  "timestamp": "2026-08-22T11:20:40.678403+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-22",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AWS Security makes an inscrutable choice",
     "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble"
   ],
-  "crew_quote": "\"Ah, lovely weather for a curry, isn’t it? Just enough drizzle to make you appreciate the warmth of a good vindaloo!\""
+  "crew_quote": "\"Looks like it's patchy rain everywhere, but if it keeps the curry delivery boys busy, I say let it pour!\""
 }
