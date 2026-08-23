@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T15:15:06.692523+00:00",
+  "timestamp": "2026-08-23T15:46:14.153553+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "If you're not using AI to attack your own systems, your adversaries will",
     "AI slop is good for business if you know what you're doing"
   ],
-  "crew_quote": "\"Blimey, it’s so sunny out there, I could fry an egg on the dashboard! Just don’t ask me to put it on a curry, that’s a culinary crime!\""
+  "crew_quote": "\"Sunny weather and no power bills? Blimey, it’s like finding a rare module in a dusty old shelf — just makes me wanna celebrate with a curry!\""
 }
