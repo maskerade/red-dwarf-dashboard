@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T23:44:43.955094+00:00",
+  "timestamp": "2026-08-23T00:15:53.665040+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,19 +16,77 @@
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 10.0,
+      "conditions": "Clear ",
+      "forecast": [
+        {
+          "date": "2026-08-23",
+          "max": 21.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-08-24",
+          "max": 23.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-08-25",
+          "max": 22.0,
+          "min": 13.0
+        }
+      ]
     },
     "overseal": {
-      "temp": null,
-      "conditions": null
+      "temp": 11.0,
+      "conditions": "Clear ",
+      "forecast": [
+        {
+          "date": "2026-08-23",
+          "max": 22.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-08-24",
+          "max": 23.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-08-25",
+          "max": 24.0,
+          "min": 13.0
+        }
+      ]
     },
     "llandudno": {
-      "temp": null,
-      "conditions": null
+      "temp": 9.0,
+      "conditions": "Partly Cloudy ",
+      "forecast": [
+        {
+          "date": "2026-08-23",
+          "max": 18.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-08-24",
+          "max": 22.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-08-25",
+          "max": 21.0,
+          "min": 9.0
+        }
+      ]
     }
   },
-  "astronomy": {},
+  "astronomy": {
+    "sunrise": "06:03 AM",
+    "sunset": "08:19 PM",
+    "moon_phase": "Waxing Gibbous",
+    "moon_illumination": "76",
+    "moonrise": "06:42 PM",
+    "moonset": "12:05 AM"
+  },
   "metrolink": null,
   "headlines": [
     "If you're not using AI to attack your own systems, your adversaries will",
@@ -36,5 +94,5 @@
     "Skylab completists, clear some shelf space for 26 DVDs",
     "Casio decides it's about time the simple digital watch got a little smarter"
   ],
-  "crew_quote": "\"Well, I can't tell if it's too hot or too cold in here, but at least I’ve got my curry to keep me warm and my AI to keep me entertained! Glorious!\""
+  "crew_quote": "\"Clear skies and 10 degrees? Brilliant! You lot should be out getting a curry instead of worrying about AI slop — now that’s what I call real business!\""
 }
