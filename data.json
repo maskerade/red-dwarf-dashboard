@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T09:03:05.043122+00:00",
+  "timestamp": "2026-08-23T09:34:03.255551+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 15.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
+      "temp": 16.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Skylab completists, clear some shelf space for 26 DVDs",
     "Casio decides it's about time the simple digital watch got a little smarter"
   ],
-  "crew_quote": "\"With the weather this nice, I might just lay out on deck with a curry and let the sun fry my brain—it's not like it could get any less intelligent!\""
+  "crew_quote": "\"15 degrees and sunny? Finally, the universe is aligning with my desire for a nice curry on the beach. Just remember, if a tin of beans starts chatting, we might be in trouble!\""
 }
