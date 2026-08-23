@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T04:24:00.063723+00:00",
+  "timestamp": "2026-08-23T04:54:58.026376+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
-      "conditions": "Cloudy ",
+      "temp": 12.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-23",
@@ -94,5 +94,5 @@
     "Skylab completists, clear some shelf space for 26 DVDs",
     "Casio decides it's about time the simple digital watch got a little smarter"
   ],
-  "crew_quote": "\"With it being a balmy 11°C in Llandudno, I reckon a nice curry is the perfect antidote to this robotic AI nonsense—nothing like a good vindaloo to spice up our troubles!\""
+  "crew_quote": "\"With it being 9 degrees out and clear, I reckon it’s the perfect weather to pop out for a curry — or take the chance to leave the ship and never come back!\""
 }
