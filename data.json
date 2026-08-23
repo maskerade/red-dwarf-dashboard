@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T21:27:17.755845+00:00",
+  "timestamp": "2026-08-23T21:58:17.635022+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "If you're not using AI to attack your own systems, your adversaries will",
     "AI slop is good for business if you know what you're doing"
   ],
-  "crew_quote": "\"14 degrees and clear skies? That's almost perfect curry-eating weather—better grab my best takeaway menu before the ultra-rare Microsoft nostalgia hits!\""
+  "crew_quote": "\"Blimey, 14 degrees and clear! Perfect curry weather, but I’d still prefer a nice, warm pint instead of this fancy computer talk about Cursor and Git.\""
 }
