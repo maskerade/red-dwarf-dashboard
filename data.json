@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T13:42:04.965919+00:00",
+  "timestamp": "2026-08-23T14:13:05.175640+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,12 +58,12 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-23",
-          "max": 18.0,
+          "max": 17.0,
           "min": 8.0
         },
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "How Cursor beat Git's scalability shortcomings",
     "An ultra-rare piece of Microsoft history could be hiding on your shelf",
     "If you're not using AI to attack your own systems, your adversaries will",
-    "AI slop is good for business if you know what you're doing",
-    "Skylab completists, clear some shelf space for 26 DVDs"
+    "AI slop is good for business if you know what you're doing"
   ],
-  "crew_quote": "\"Oi, with this weather, I could be lounging in Llandudno, sipping a pint and dreaming of a curry, instead of stuck here with a bunch of AI-nagging nerds!\""
+  "crew_quote": "\"Ah, sunny weather and a cool breeze — perfect for a curry on the beach! Just don’t expect me to share any; I've got a reputation to maintain!\""
 }
