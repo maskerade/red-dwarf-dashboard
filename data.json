@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T15:01:35.265636+00:00",
+  "timestamp": "2026-08-24T15:32:34.656787+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Emperor Penguin Linus Torvalds banishes a bug – with a bot",
     "Tesla to recall almost three million vehicles over hidden door handles",
     "Oracle Exadata Database@AWS offers advantages, but trade-offs remain",
-    "ShinyHunters and ReliaQuest trade blows over claimed breach",
-    "Chipmakers laughing all the way to the vault as memory prices go stratospheric"
+    "ShinyHunters and ReliaQuest trade blows over claimed breach"
   ],
-  "crew_quote": "\"Honestly, with all this sun, I could cook a curry on the dashboard—and who knew Tesla had hidden door handles? Just like my last date!\""
+  "crew_quote": "\"Sunny weather in Altrincham, right? Perfect for a pint and a curry — just don't let that Emperor Penguin get any ideas about our dinner plans!\""
 }
