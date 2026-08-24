@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T13:28:30.714408+00:00",
+  "timestamp": "2026-08-24T13:59:33.783964+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Chipmakers laughing all the way to the vault as memory prices go stratospheric",
     "I picked Task Manager 'to see how ready AI is for primetime… or if it would just degrade to slop' – OG dev talks to The Reg",
     "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
-    "US datacenters tripled their water footprint in 10 years",
-    "$1T investment giant Apollo breached after social engineering attack"
+    "US datacenters tripled their water footprint in 10 years"
   ],
-  "crew_quote": "\"I don't know what's more glorious, this sunny day or the fact that the AI's still got a bit of personality left—it's a miracle considering most of us are just looking for our next curry!\""
+  "crew_quote": "\"Oi, with it being 21 degrees and sunny, I reckon it's the perfect weather for a curry. Bet even the chipmakers are sweating over prices like that!\""
 }
