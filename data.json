@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T12:57:36.191096+00:00",
+  "timestamp": "2026-08-24T13:28:30.714408+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "I picked Task Manager 'to see how ready AI is for primetime… or if it would just degrade to slop' – OG dev talks to The Reg",
     "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
     "US datacenters tripled their water footprint in 10 years",
-    "$1T investment giant Apollo breached after social engineering attack",
-    "AI vendors are turning to custom hardware as Microsoft winds back the clock on Windows"
+    "$1T investment giant Apollo breached after social engineering attack"
   ],
-  "crew_quote": "\"Blimey, it's hotter than a vindaloo in Altrincham! Just my luck to be stuck on this rust bucket while the sun's shining.\""
+  "crew_quote": "\"I don't know what's more glorious, this sunny day or the fact that the AI's still got a bit of personality left—it's a miracle considering most of us are just looking for our next curry!\""
 }
