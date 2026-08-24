@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-24T22:15:19.136954+00:00",
+  "timestamp": "2026-08-24T22:46:17.708918+00:00",
   "house": {
     "indoor_temp": 22.2,
-    "indoor_humidity": 50.0,
-    "outdoor_temp": 15.9,
-    "outdoor_humidity": 80.0,
-    "wind_speed": 0.7,
-    "wind_direction": 340.0,
+    "indoor_humidity": 51.0,
+    "outdoor_temp": 15.8,
+    "outdoor_humidity": 81.0,
+    "wind_speed": 2.5,
+    "wind_direction": 343.0,
     "pressure": 1020.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 483.0,
+    "power_usage": 429.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -36,5 +36,5 @@
     "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
     "Iran-linked cyberattack shut down a UK power plant"
   ],
-  "crew_quote": "\"You know, with all this talk of old Macs making a comeback, I might just start charging for my take on curry—I've always said it’s a classic!\""
+  "crew_quote": "\"Ah, 22.2°C feels just right for a curry, but if I had a few of those old Macs, I could be sitting on a fortune instead of this curry-scented spaceship!\""
 }
