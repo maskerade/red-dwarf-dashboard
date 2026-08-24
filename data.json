@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T06:14:27.341161+00:00",
+  "timestamp": "2026-08-24T06:45:26.197927+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Clear ",
+      "temp": 12.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-24",
@@ -26,28 +26,7 @@
         },
         {
           "date": "2026-08-25",
-          "max": 23.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-08-26",
-          "max": 22.0,
-          "min": 16.0
-        }
-      ]
-    },
-    "overseal": {
-      "temp": 11.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-08-24",
-          "max": 22.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-08-25",
-          "max": 25.0,
+          "max": 24.0,
           "min": 12.0
         },
         {
@@ -57,9 +36,30 @@
         }
       ]
     },
+    "overseal": {
+      "temp": 11.0,
+      "conditions": "Sunny",
+      "forecast": [
+        {
+          "date": "2026-08-24",
+          "max": 22.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-08-25",
+          "max": 24.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-08-26",
+          "max": 24.0,
+          "min": 15.0
+        }
+      ]
+    },
     "llandudno": {
-      "temp": 9.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 10.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-24",
@@ -68,12 +68,12 @@
         },
         {
           "date": "2026-08-25",
-          "max": 23.0,
+          "max": 24.0,
           "min": 9.0
         },
         {
           "date": "2026-08-26",
-          "max": 21.0,
+          "max": 22.0,
           "min": 14.0
         }
       ]
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Batch file automated a clean-up job, then fouled itself by deleting the wrong directory",
     "AI-driven upgrade of communications energy storage empowers a new energy ecosystem for multiple industries",
     "Ancient ‘Who owns Linux?’ case now has one foot very deep in the grave",
-    "How Cursor beat Git's scalability shortcomings",
-    "An ultra-rare piece of Microsoft history could be hiding on your shelf"
+    "How Cursor beat Git's scalability shortcomings"
   ],
-  "crew_quote": "\"Eugh, it's chilly out there! Good job I’ve got me curry to warm me up, or I'd be as miserable as a Linux user in a courtroom!\""
+  "crew_quote": "\"12 degrees and sunny? That's practically tropical! Perfect weather for a curry, not that anyone would notice between all this chaotic tech mayhem!\""
 }
