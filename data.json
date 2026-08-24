@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-24T21:13:17.174676+00:00",
+  "timestamp": "2026-08-24T21:44:16.978374+00:00",
   "house": {
     "indoor_temp": 22.1,
-    "indoor_humidity": 49.0,
-    "outdoor_temp": 15.6,
+    "indoor_humidity": 50.0,
+    "outdoor_temp": 15.9,
     "outdoor_humidity": 79.0,
-    "wind_speed": 4.0,
-    "wind_direction": 339.0,
-    "pressure": 1020.1,
+    "wind_speed": 1.1,
+    "wind_direction": 341.0,
+    "pressure": 1020.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 404.0,
+    "power_usage": 413.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -36,5 +36,5 @@
     "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
     "Iran-linked cyberattack shut down a UK power plant"
   ],
-  "crew_quote": "\"Oi, if I had a tenner for every old Mac we could link to one of those Borg things, I could buy a curry and still have enough left over for a pint!\""
+  "crew_quote": "\"Well, if I had an old Mac for every time I felt this comfy at 22 degrees, I’d have enough cash for a lifetime supply of curry!\""
 }
