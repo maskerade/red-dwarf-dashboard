@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T09:20:24.564230+00:00",
+  "timestamp": "2026-08-24T09:51:31.246495+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Canonical backs quest to translate mountains of C into safe Rust with AI",
     "Software should work, and talking about it needn't be boring",
     "China calls off ambitious ice-hunting moonshot a day before flight",
-    "Batch file automated a clean-up job, then fouled itself by deleting the wrong directory",
-    "AI-driven upgrade of communications energy storage empowers a new energy ecosystem for multiple industries"
+    "Batch file automated a clean-up job, then fouled itself by deleting the wrong directory"
   ],
-  "crew_quote": "\"Can you believe it? Sunny weather in Llandudno and I’m stuck inside with you lot instead of soaking up the rays and planning my next curry feast!\""
+  "crew_quote": "\"17 degrees and sunny? It’s practically a holiday! Let’s celebrate with a curry—after all, even the weather wants to join in on the fun!\""
 }
