@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T11:55:35.417520+00:00",
+  "timestamp": "2026-08-24T12:26:28.042290+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "US datacenters tripled their water footprint in 10 years",
     "$1T investment giant Apollo breached after social engineering attack",
     "AI vendors are turning to custom hardware as Microsoft winds back the clock on Windows",
-    "Security vets rally around $4 paper password books for sale in Australia",
-    "Canonical backs quest to translate mountains of C into safe Rust with AI"
+    "Security vets rally around $4 paper password books for sale in Australia"
   ],
-  "crew_quote": "\"Blimey, with the weather this nice, I reckon I could get a barbecue going! Just need to find a way to cook a curry on the spaceship — that’s the real challenge!\""
+  "crew_quote": "\"Sunny weather and everyone's talking about water footprints? If I were a datacenter, I'd be worried about my hydration levels, but I’m more concerned about my next curry!\""
 }
