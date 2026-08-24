@@ -1,44 +1,44 @@
 {
-  "timestamp": "2026-08-24T17:05:34.091580+00:00",
+  "timestamp": "2026-08-24T17:36:27.160662+00:00",
   "house": {
-    "indoor_temp": null,
-    "indoor_humidity": null,
-    "outdoor_temp": null,
-    "outdoor_humidity": null,
-    "wind_speed": null,
-    "wind_direction": null,
-    "pressure": null,
-    "rain_today": null,
-    "uv_index": null,
-    "power_usage": null,
-    "gas_consumption": null,
-    "heating_active": null
+    "indoor_temp": 22.2,
+    "indoor_humidity": 48.0,
+    "outdoor_temp": 19.5,
+    "outdoor_humidity": 59.0,
+    "wind_speed": 1.4,
+    "wind_direction": 347.0,
+    "pressure": 1020.3,
+    "rain_today": 0.0,
+    "uv_index": 0.0,
+    "power_usage": 446.0,
+    "gas_consumption": 124.247028492917,
+    "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-24",
           "max": 22.0,
-          "min": 11.0
+          "min": 12.0
         },
         {
           "date": "2026-08-25",
           "max": 23.0,
-          "min": 12.0
+          "min": 13.0
         },
         {
           "date": "2026-08-26",
-          "max": 23.0,
-          "min": 16.0
+          "max": 22.0,
+          "min": 15.0
         }
       ]
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 20.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-24",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 20.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-24",
@@ -84,15 +84,15 @@
     "sunset": "08:17 PM",
     "moon_phase": "Waxing Gibbous",
     "moon_illumination": "84",
-    "moonrise": "07:11 PM",
-    "moonset": "01:10 AM"
+    "moonrise": "07:12 PM",
+    "moonset": "01:09 AM"
   },
-  "metrolink": null,
+  "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
-    "Users mash LinkedIn's AI slop button 1M+ times in 3 weeks",
-    "Emperor Penguin Linus Torvalds banishes a bug – with a bot",
-    "What Nvidia's first Groq 3 LPU benchmarks do and don't tell us about its $20B gamble",
-    "Tesla to recall almost three million vehicles over hidden door handles"
+    "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
+    "Iran-linked cyberattack shut down a UK power plant",
+    "Logitech hit by sueball over tariff refunds",
+    "Users mash LinkedIn's AI slop button 1M+ times in 3 weeks"
   ],
-  "crew_quote": "\"Ah, it's a lovely day outside—perfect for a curry and some lounging, just like my last LinkedIn mishap where I accidentally connected with a penguin!\""
+  "crew_quote": "\"Twenty degrees and sunny, just like my perfect day for a curry. But knowing my luck, it’ll probably end up like that YouTuber's backyard project—full of smoke and regret!\""
 }
