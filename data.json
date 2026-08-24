@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T14:30:36.614011+00:00",
+  "timestamp": "2026-08-24T15:01:35.265636+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Tesla to recall almost three million vehicles over hidden door handles",
     "Oracle Exadata Database@AWS offers advantages, but trade-offs remain",
     "ShinyHunters and ReliaQuest trade blows over claimed breach",
-    "Chipmakers laughing all the way to the vault as memory prices go stratospheric",
-    "I picked Task Manager 'to see how ready AI is for primetime… or if it would just degrade to slop' – OG dev talks to The Reg"
+    "Chipmakers laughing all the way to the vault as memory prices go stratospheric"
   ],
-  "crew_quote": "\"Is it just me, or is it too sunny outside? I mean, after all this time in space, I was hoping for more cloud cover to really set the mood for a good curry!\""
+  "crew_quote": "\"Honestly, with all this sun, I could cook a curry on the dashboard—and who knew Tesla had hidden door handles? Just like my last date!\""
 }
