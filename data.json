@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T03:08:21.253044+00:00",
+  "timestamp": "2026-08-24T03:39:22.732267+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 12.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-24",
@@ -94,5 +94,5 @@
     "How Cursor beat Git's scalability shortcomings",
     "An ultra-rare piece of Microsoft history could be hiding on your shelf"
   ],
-  "crew_quote": "\"With the weather so clear and a comfy 12 degrees, I could really go for a curry — or maybe a nice chat with my favourite AI about energy storage! Blimey, who knew tech could be so sexy?\""
+  "crew_quote": "\"With all this clear weather and a chilly 12°C in Altrincham, I could really go for a pint and a nice curry to warm me up—preferably after I finish my 20th round of Space Invaders!\""
 }
