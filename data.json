@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T09:51:31.246495+00:00",
+  "timestamp": "2026-08-24T10:22:34.210772+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Security vets rally around $4 paper password books for sale in Australia",
     "Canonical backs quest to translate mountains of C into safe Rust with AI",
     "Software should work, and talking about it needn't be boring",
-    "China calls off ambitious ice-hunting moonshot a day before flight",
-    "Batch file automated a clean-up job, then fouled itself by deleting the wrong directory"
+    "China calls off ambitious ice-hunting moonshot a day before flight"
   ],
-  "crew_quote": "\"17 degrees and sunny? It’s practically a holiday! Let’s celebrate with a curry—after all, even the weather wants to join in on the fun!\""
+  "crew_quote": "\"17 degrees and sunny? Perfect weather for a curry, and if I spill some, it’ll be just like my last three dates — a beautiful mess!\""
 }
