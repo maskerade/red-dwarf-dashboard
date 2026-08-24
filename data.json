@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T08:18:29.072927+00:00",
+  "timestamp": "2026-08-24T08:49:30.654347+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Software should work, and talking about it needn't be boring",
+    "China calls off ambitious ice-hunting moonshot a day before flight",
     "Batch file automated a clean-up job, then fouled itself by deleting the wrong directory",
-    "AI-driven upgrade of communications energy storage empowers a new energy ecosystem for multiple industries",
-    "Ancient ‘Who owns Linux?’ case now has one foot very deep in the grave",
-    "How Cursor beat Git's scalability shortcomings"
+    "AI-driven upgrade of communications energy storage empowers a new energy ecosystem for multiple industries"
   ],
-  "crew_quote": "\"With all this sunny weather, it’s a perfect day for a curry! Just make sure you don’t delete the recipe like that daft computer did.\""
+  "crew_quote": "\"Sunny days in space are like a good curry, you can never have too much of a good thing—unless it’s China backing out of a moonshot, then it’s just a total bummer!\""
 }
