@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T00:02:19.086915+00:00",
+  "timestamp": "2026-08-24T00:33:14.685266+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 9.0,
-      "conditions": "Mist",
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-24",
@@ -94,5 +94,5 @@
     "How Cursor beat Git's scalability shortcomings",
     "An ultra-rare piece of Microsoft history could be hiding on your shelf"
   ],
-  "crew_quote": "\"Well, at least it's clearer than my last relationship, which had more mist than Llandudno and twice the humidity!\""
+  "crew_quote": "\"I'm feeling rather chipper about this clear weather, but let's not forget it's just the weather — unlike that ancient Linux case, it won't rot our brains!\""
 }
