@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-24T20:11:15.313175+00:00",
+  "timestamp": "2026-08-24T20:42:14.897576+00:00",
   "house": {
     "indoor_temp": 22.1,
-    "indoor_humidity": 48.0,
-    "outdoor_temp": 16.8,
-    "outdoor_humidity": 72.0,
-    "wind_speed": 4.0,
-    "wind_direction": 339.0,
-    "pressure": 1020.1,
+    "indoor_humidity": 49.0,
+    "outdoor_temp": 16.1,
+    "outdoor_humidity": 76.0,
+    "wind_speed": 4.3,
+    "wind_direction": 329.0,
+    "pressure": 1020.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 497.0,
+    "power_usage": 604.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -36,5 +36,5 @@
     "Logitech hit by sueball over tariff refunds",
     "Users mash LinkedIn's AI slop button 1M+ times in 3 weeks"
   ],
-  "crew_quote": "\"You know, if I can make a curry that’s as hot as that cyberattack on the power plant, I’ll be a culinary genius! Just gotta keep it sizzling at this perfect 22.1 degrees.\""
+  "crew_quote": "\"Blimey, 22.1°C is perfect for brewing up a curry, but I reckon we should keep an eye on those cyberattacks—don't want our fridge shutting down and ruining me takeaway!\""
 }
