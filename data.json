@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T13:59:33.783964+00:00",
+  "timestamp": "2026-08-24T14:30:36.614011+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -26,7 +26,7 @@
         },
         {
           "date": "2026-08-25",
-          "max": 24.0,
+          "max": 23.0,
           "min": 12.0
         },
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
-      "conditions": "Sunny",
+      "temp": 22.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-24",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 21.0,
-      "conditions": "Sunny",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-24",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Oracle Exadata Database@AWS offers advantages, but trade-offs remain",
+    "ShinyHunters and ReliaQuest trade blows over claimed breach",
     "Chipmakers laughing all the way to the vault as memory prices go stratospheric",
-    "I picked Task Manager 'to see how ready AI is for primetime… or if it would just degrade to slop' – OG dev talks to The Reg",
-    "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
-    "US datacenters tripled their water footprint in 10 years"
+    "I picked Task Manager 'to see how ready AI is for primetime… or if it would just degrade to slop' – OG dev talks to The Reg"
   ],
-  "crew_quote": "\"Oi, with it being 21 degrees and sunny, I reckon it's the perfect weather for a curry. Bet even the chipmakers are sweating over prices like that!\""
+  "crew_quote": "\"Is it just me, or is it too sunny outside? I mean, after all this time in space, I was hoping for more cloud cover to really set the mood for a good curry!\""
 }
