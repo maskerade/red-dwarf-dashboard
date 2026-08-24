@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T16:03:35.090793+00:00",
+  "timestamp": "2026-08-24T16:34:35.883484+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Users mash LinkedIn's AI slop button 1M+ times in 3 weeks",
     "Emperor Penguin Linus Torvalds banishes a bug – with a bot",
-    "Tesla to recall almost three million vehicles over hidden door handles",
-    "Oracle Exadata Database@AWS offers advantages, but trade-offs remain",
-    "ShinyHunters and ReliaQuest trade blows over claimed breach"
+    "What Nvidia's first Groq 3 LPU benchmarks do and don't tell us about its $20B gamble",
+    "Tesla to recall almost three million vehicles over hidden door handles"
   ],
-  "crew_quote": "\"22 degrees and sunny? Perfect weather for a curry and a session of pondering what on earth that penguin's doing with a computer!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry on a double dose of chili powder! I might just need to take my shirt off and get some sun while I figure out how to fix that LinkedIn AI slop!\""
 }
