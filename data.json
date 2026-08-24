@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T10:53:30.812135+00:00",
+  "timestamp": "2026-08-24T11:24:33.254136+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AI vendors are turning to custom hardware as Microsoft winds back the clock on Windows",
     "Security vets rally around $4 paper password books for sale in Australia",
     "Canonical backs quest to translate mountains of C into safe Rust with AI",
-    "Software should work, and talking about it needn't be boring",
-    "China calls off ambitious ice-hunting moonshot a day before flight"
+    "Software should work, and talking about it needn't be boring"
   ],
-  "crew_quote": "\"Well, with 17 degrees and sunny skies, it feels like the perfect day for a curry, doesn’t it? As long as I don't accidentally burn it again!\""
+  "crew_quote": "\"With weather like this, it's a crying shame I can't fry a curry on the pavement! But hey, at least it’s not raining while we figure out this whole AI custom hardware thing!\""
 }
