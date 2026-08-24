@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T04:41:22.530508+00:00",
+  "timestamp": "2026-08-24T05:12:19.493606+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Cloudy ",
+      "temp": 11.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-24",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 9.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-24",
@@ -94,5 +94,5 @@
     "How Cursor beat Git's scalability shortcomings",
     "An ultra-rare piece of Microsoft history could be hiding on your shelf"
   ],
-  "crew_quote": "\"12 degrees and clear skies? Perfect for a curry run! Just don’t ask me to power up the spaceship's fridge afterwards; it’s killing the planet!\""
+  "crew_quote": "\"With weather like this, I’d say the ideal plan is a curry and a good snooze—because who wants to waste a clear day when you can stare at the ceiling instead?\""
 }
