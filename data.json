@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T12:26:28.042290+00:00",
+  "timestamp": "2026-08-24T12:57:36.191096+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "AliExpress accused of fingerprinting shoppers with silent audio trick that also muted a dev's headphones",
     "US datacenters tripled their water footprint in 10 years",
     "$1T investment giant Apollo breached after social engineering attack",
-    "AI vendors are turning to custom hardware as Microsoft winds back the clock on Windows",
-    "Security vets rally around $4 paper password books for sale in Australia"
+    "AI vendors are turning to custom hardware as Microsoft winds back the clock on Windows"
   ],
-  "crew_quote": "\"Sunny weather and everyone's talking about water footprints? If I were a datacenter, I'd be worried about my hydration levels, but I’m more concerned about my next curry!\""
+  "crew_quote": "\"Blimey, it's hotter than a vindaloo in Altrincham! Just my luck to be stuck on this rust bucket while the sun's shining.\""
 }
