@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-24T18:38:22.669724+00:00",
+  "timestamp": "2026-08-24T19:09:16.633814+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 21.9,
     "indoor_humidity": 48.0,
-    "outdoor_temp": 18.4,
+    "outdoor_temp": 18.1,
     "outdoor_humidity": 65.0,
-    "wind_speed": 4.7,
-    "wind_direction": 337.0,
-    "pressure": 1020.3,
+    "wind_speed": 3.6,
+    "wind_direction": 336.0,
+    "pressure": 1020.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 317.0,
@@ -16,77 +16,19 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-08-24",
-          "max": 22.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-08-25",
-          "max": 23.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-08-26",
-          "max": 22.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Overcast ",
-      "forecast": [
-        {
-          "date": "2026-08-24",
-          "max": 22.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-08-25",
-          "max": 24.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-08-26",
-          "max": 24.0,
-          "min": 15.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-08-24",
-          "max": 21.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-25",
-          "max": 24.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-08-26",
-          "max": 22.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "06:04 AM",
-    "sunset": "08:17 PM",
-    "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "84",
-    "moonrise": "07:12 PM",
-    "moonset": "01:09 AM"
-  },
+  "astronomy": {},
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
     "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
@@ -94,5 +36,5 @@
     "Logitech hit by sueball over tariff refunds",
     "Users mash LinkedIn's AI slop button 1M+ times in 3 weeks"
   ],
-  "crew_quote": "\"Blimey, with this weather and a proper curry, who needs a power plant? Just give me a sunny Llandudno beach and I’m sorted!\""
+  "crew_quote": "\"21.9 degrees? Perfect temperature for a curry night! Just don’t let a YouTuber turn it into a DIY LED lighting disaster – I need my curry ambiance, not a disco!\""
 }
