@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-25T02:54:31.358671+00:00",
+  "timestamp": "2026-08-25T03:25:31.511883+00:00",
   "house": {
-    "indoor_temp": 21.9,
+    "indoor_temp": 21.8,
     "indoor_humidity": 51.0,
-    "outdoor_temp": 14.1,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 12.8,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
     "wind_direction": 340.0,
-    "pressure": 1019.0,
+    "pressure": 1019.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 258.0,
+    "power_usage": 247.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 12.0,
-      "conditions": "Overcast ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-25",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
-      "conditions": "Overcast ",
+      "temp": 9.0,
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-08-25",
@@ -94,5 +94,5 @@
     "You don't want this Sleepwalker backdoor on your Windows machine",
     "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks"
   ],
-  "crew_quote": "\"Right, so it’s 12 degrees outside and I’m here sweating at 21.9, do they have a curry checklist for overcast days?\""
+  "crew_quote": "\"Right, so it’s 12 degrees out and partly cloudy—perfect weather for a curry and some good old-fashioned fog avoidance! Let’s just stay indoors, yeah?\""
 }
