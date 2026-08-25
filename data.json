@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-08-25T18:24:48.907647+00:00",
+  "timestamp": "2026-08-25T18:55:52.946367+00:00",
   "house": {
     "indoor_temp": 22.1,
-    "indoor_humidity": 53.0,
-    "outdoor_temp": 20.0,
-    "outdoor_humidity": 65.0,
-    "wind_speed": 3.6,
-    "wind_direction": 322.0,
+    "indoor_humidity": 52.0,
+    "outdoor_temp": 19.3,
+    "outdoor_humidity": 67.0,
+    "wind_speed": 5.4,
+    "wind_direction": 301.0,
     "pressure": 1015.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 22.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 20.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-25",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-08-25",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft warns that transitioning Excel workbooks to new Exchange connectors might not be smooth sailing",
     "Slop factory bans Russians for using slop factory to create slop"
   ],
-  "crew_quote": "\"With this lovely 22°C weather, it’s the perfect day for a curry! Too bad the indoor humidity is still higher than my chances of passing the Starfleet exam!\""
+  "crew_quote": "\"20 degrees and overcast? That's basically a curry-and-chill kind of day, just without the curry—unless I can get my hands on some! Now that’s a proper cosmic joke!\""
 }
