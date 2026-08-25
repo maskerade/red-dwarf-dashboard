@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-25T11:10:43.467167+00:00",
+  "timestamp": "2026-08-25T11:41:44.774816+00:00",
   "house": {
-    "indoor_temp": 21.8,
+    "indoor_temp": 21.9,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 18.4,
-    "outdoor_humidity": 76.0,
+    "outdoor_temp": 19.4,
+    "outdoor_humidity": 68.0,
     "wind_speed": 2.2,
-    "wind_direction": 337.0,
-    "pressure": 1017.5,
+    "wind_direction": 332.0,
+    "pressure": 1017.2,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 480.0,
+    "uv_index": 1.0,
+    "power_usage": 325.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "HMRC dangles £500M carrot for National Insurance system revamp",
     "What is virtualization modernization?"
   ],
-  "crew_quote": "\"Twenty degrees and overcast, I’d say that’s perfect curry weather, but I reckon it’s just a ruse to keep us from getting blasted by alien rain in Llandudno!\""
+  "crew_quote": "\"Blimey, it's overcast and a bit too nippy for my taste—who needs a jet-powered drone when I’ve got a curry to lift my spirits?\""
 }
