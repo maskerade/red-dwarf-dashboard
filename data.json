@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-25T09:37:41.505135+00:00",
+  "timestamp": "2026-08-25T10:08:47.328925+00:00",
   "house": {
     "indoor_temp": 21.6,
-    "indoor_humidity": 52.0,
-    "outdoor_temp": 17.5,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 3.6,
-    "wind_direction": 331.0,
+    "indoor_humidity": 53.0,
+    "outdoor_temp": 18.3,
+    "outdoor_humidity": 77.0,
+    "wind_speed": 3.2,
+    "wind_direction": 336.0,
     "pressure": 1017.9,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 564.0,
+    "uv_index": 1.0,
+    "power_usage": 390.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
+    "Ukraine unveils native jet-powered drone interceptor",
     "Crooks push Mac malware through fake OpenAI Codex ads",
     "HMRC dangles £500M carrot for National Insurance system revamp",
-    "What is virtualization modernization?",
-    "Australia’s record industry won’t chart tunes recorded in the key of AI"
+    "What is virtualization modernization?"
   ],
-  "crew_quote": "\"With the weather being so overcast and a chilly 16 degrees, I reckon I’ll whip up a nice curry to warm us up—nothing like a bit of spice to brighten a dull day!\""
+  "crew_quote": "\"With all this overcast weather, it's the perfect excuse to stay indoors and whip up a curry — the humidity just adds to the spice, don’t you think?\""
 }
