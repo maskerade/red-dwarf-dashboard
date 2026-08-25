@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-25T19:26:51.995463+00:00",
+  "timestamp": "2026-08-25T19:57:52.605000+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 22.1,
     "indoor_humidity": 52.0,
-    "outdoor_temp": 18.5,
-    "outdoor_humidity": 72.0,
-    "wind_speed": 2.5,
-    "wind_direction": 342.0,
-    "pressure": 1016.0,
+    "outdoor_temp": 18.1,
+    "outdoor_humidity": 75.0,
+    "wind_speed": 1.8,
+    "wind_direction": 345.0,
+    "pressure": 1016.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 3071.0,
+    "power_usage": 502.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Microsoft warns that transitioning Excel workbooks to new Exchange connectors might not be smooth sailing",
     "Slop factory bans Russians for using slop factory to create slop"
   ],
-  "crew_quote": "\"The weather's a bit overcast today—perfect for a nice kip and a curry! Just imagine the aroma wafting through the air, like a fragrant cloud of heaven!\""
+  "crew_quote": "\"Ooh, look at that lovely 20 degrees outside! Perfect weather for a bit of a stroll… or a curry. Preferably both, if I can manage it!\""
 }
