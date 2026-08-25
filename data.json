@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-25T01:52:32.227188+00:00",
+  "timestamp": "2026-08-25T02:23:38.928531+00:00",
   "house": {
     "indoor_temp": 21.9,
     "indoor_humidity": 51.0,
-    "outdoor_temp": 14.8,
-    "outdoor_humidity": 86.0,
-    "wind_speed": 0.7,
-    "wind_direction": 340.0,
-    "pressure": 1019.4,
+    "outdoor_temp": 14.9,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 0.0,
+    "wind_direction": 339.0,
+    "pressure": 1019.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 281.0,
+    "power_usage": 241.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
-    "Conjure cash with old Macs by linking them to AI inference Borg",
-    "Windows NT 4 went on sale 30 years ago today",
-    "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
-    "Iran-linked cyberattack shut down a UK power plant"
+    "IBM announces chip that natively executes Arm and Z instructions concurrently",
+    "Microsoft AI watermarks in Paint and Photos are linked to user IDs, researcher finds",
+    "You don't want this Sleepwalker backdoor on your Windows machine",
+    "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks"
   ],
-  "crew_quote": "\"Weather's 12 degrees and overcast—perfect for a curry night! Nothing like a bit of comfort food to lift the spirits when it's grim outside!\""
+  "crew_quote": "\"Well, with the temperature being a cozy 21.9°C indoors, I reckon I could whip up a curry that’ll keep me warm while the weather plays hide and seek outside!\""
 }
