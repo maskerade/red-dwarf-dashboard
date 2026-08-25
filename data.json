@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-25T20:28:56.785651+00:00",
+  "timestamp": "2026-08-25T21:00:02.638232+00:00",
   "house": {
-    "indoor_temp": 22.1,
-    "indoor_humidity": 54.0,
-    "outdoor_temp": 17.7,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 0.7,
-    "wind_direction": 338.0,
-    "pressure": 1016.3,
+    "indoor_temp": 22.2,
+    "indoor_humidity": 53.0,
+    "outdoor_temp": 17.3,
+    "outdoor_humidity": 81.0,
+    "wind_speed": 4.3,
+    "wind_direction": 2.0,
+    "pressure": 1016.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 505.0,
+    "power_usage": 519.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "07:31 PM",
     "moonset": "02:24 AM"
   },
-  "metrolink": "Due to an earlier power fault we are experiencing a minor delay on the Altrincham and Airport line. Metrolink apologises for any inconvenience caused.",
+  "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
     "EPA to drop requirement for public notice of polluting datacenters",
     "You could've applied all 1,449 Oracle patches and still been hit by this attack",
     "Microsoft warns that transitioning Excel workbooks to new Exchange connectors might not be smooth sailing",
     "Slop factory bans Russians for using slop factory to create slop"
   ],
-  "crew_quote": "\"When it’s 16 degrees and overcast outside, I reckon it’s a perfect day for a curry, mate — nothing like some spicy comfort to brighten up a dull sky!\""
+  "crew_quote": "\"Well, I suppose at least it's warm enough to cook a proper curry inside while the weather outside is as gloomy as Rimmer's last promotion.\""
 }
