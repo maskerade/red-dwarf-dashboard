@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-08-25T23:03:49.062413+00:00",
+  "timestamp": "2026-08-25T23:34:54.994996+00:00",
   "house": {
-    "indoor_temp": 22.4,
+    "indoor_temp": 22.3,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 16.7,
-    "outdoor_humidity": 85.0,
-    "wind_speed": 1.1,
-    "wind_direction": 321.0,
-    "pressure": 1016.6,
+    "outdoor_temp": 16.6,
+    "outdoor_humidity": 86.0,
+    "wind_speed": 0.0,
+    "wind_direction": 332.0,
+    "pressure": 1016.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 486.0,
+    "power_usage": 342.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Cloudy ",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-08-25",
-          "max": 23.0,
-          "min": 12.0
-        },
         {
           "date": "2026-08-26",
           "max": 24.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-27",
           "max": 21.0,
           "min": 15.0
+        },
+        {
+          "date": "2026-08-28",
+          "max": 19.0,
+          "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Cloudy ",
+      "temp": 14.0,
+      "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-08-25",
-          "max": 24.0,
-          "min": 12.0
-        },
         {
           "date": "2026-08-26",
           "max": 25.0,
@@ -54,18 +49,18 @@
           "date": "2026-08-27",
           "max": 24.0,
           "min": 16.0
+        },
+        {
+          "date": "2026-08-28",
+          "max": 24.0,
+          "min": 14.0
         }
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Light drizzle",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-08-25",
-          "max": 23.0,
-          "min": 8.0
-        },
         {
           "date": "2026-08-26",
           "max": 22.0,
@@ -75,24 +70,29 @@
           "date": "2026-08-27",
           "max": 20.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-08-28",
+          "max": 17.0,
+          "min": 12.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "06:06 AM",
-    "sunset": "08:15 PM",
+    "sunrise": "06:08 AM",
+    "sunset": "08:12 PM",
     "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "90",
-    "moonrise": "07:31 PM",
-    "moonset": "02:24 AM"
+    "moon_illumination": "95",
+    "moonrise": "07:46 PM",
+    "moonset": "03:43 AM"
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
+    "Intel's 256-core Xeon 7 CPUs are a Diamond in the rough",
     "Apple defies memory shortage with new Mac minis",
     "Claude and Cowork now share what they know about you",
-    "McKinsey says enterprise AI is finally 'on the road to ROI'",
-    "EPA to drop requirement for public notice of polluting datacenters"
+    "McKinsey says enterprise AI is finally 'on the road to ROI'"
   ],
-  "crew_quote": "\"You know, if it keeps drizzling like this, my hair's gonna need a curry-flavored rescue mission—make sure it's a tikka masala for maximum flair!\""
+  "crew_quote": "\"15 degrees and overcast? That's the perfect weather for a cheeky curry and a moody film marathon! Just don’t ask me to share my chips!\""
 }
