@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-25T15:18:46.879799+00:00",
+  "timestamp": "2026-08-25T15:49:48.069970+00:00",
   "house": {
     "indoor_temp": 22.1,
-    "indoor_humidity": 53.0,
+    "indoor_humidity": 52.0,
     "outdoor_temp": 22.6,
     "outdoor_humidity": 57.0,
-    "wind_speed": 4.0,
-    "wind_direction": 336.0,
-    "pressure": 1015.7,
+    "wind_speed": 6.5,
+    "wind_direction": 325.0,
+    "pressure": 1015.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 365.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 23.0,
-      "conditions": "Cloudy ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-25",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 24.0,
-      "conditions": "Sunny",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-25",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 22.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 20.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-25",
@@ -94,5 +94,5 @@
     "Windows XP was released to manufacturing a quarter of a century ago",
     "SiFive pushes development server to take RISC-V into the datacenter"
   ],
-  "crew_quote": "\"Did you hear about that Jalapeño chip? Sounds like it'll be more powerful than my last attempt at making a curry—now that was a proper disaster!\""
+  "crew_quote": "\"Did you hear about that chip? Honestly, I could create a better inference beast with the curry leftovers in the fridge—it's got more bite than that weather in Llandudno!\""
 }
