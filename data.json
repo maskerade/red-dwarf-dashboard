@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-25T06:31:37.883061+00:00",
+  "timestamp": "2026-08-25T07:02:35.555522+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 51.0,
-    "outdoor_temp": 14.0,
-    "outdoor_humidity": 91.0,
+    "outdoor_temp": 14.9,
+    "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
     "wind_direction": 340.0,
-    "pressure": 1018.3,
+    "pressure": 1018.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 236.0,
@@ -94,5 +94,5 @@
     "You don't want this Sleepwalker backdoor on your Windows machine",
     "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks"
   ],
-  "crew_quote": "\"Ah, it’s so cloudy outside, it looks like someone spilled a massive curry all over the sky—let’s just hope they didn’t forget the naan!\""
+  "crew_quote": "\"With this fog wrapping around Llandudno, I’d say it’s prime curry weather — perfect for a cozy night in... unless you’re trying to find the right takeout, then good luck, mate!\""
 }
