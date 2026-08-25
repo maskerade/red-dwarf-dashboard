@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-25T14:16:45.755880+00:00",
+  "timestamp": "2026-08-25T14:47:46.950307+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 22.1,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 21.8,
-    "outdoor_humidity": 59.0,
-    "wind_speed": 5.0,
-    "wind_direction": 334.0,
-    "pressure": 1016.3,
+    "outdoor_temp": 22.0,
+    "outdoor_humidity": 58.0,
+    "wind_speed": 2.2,
+    "wind_direction": 332.0,
+    "pressure": 1016.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 472.0,
+    "power_usage": 488.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "07:31 PM",
     "moonset": "02:24 AM"
   },
-  "metrolink": "Due to a fault at Sale the Altrncham line is now suspended. Tickets accepted on bus 11 15 23 25 245 248 249 250 255 256 263 281 285 286 370 371",
+  "metrolink": "Due to an earlier power fault we have severe delays on the Altrincham line. Tickets accepted on bus 11 15 23 25 245 248 249 250 255 256 263 281 285 286 370 371",
   "headlines": [
+    "US convicts ex-Philips engineer for exposing X-ray secrets to competitor",
     "OpenAI's upcoming Jalapeño chip looks like it'll be an inference beast",
     "Windows XP was released to manufacturing a quarter of a century ago",
-    "SiFive pushes development server to take RISC-V into the datacenter",
-    "Microsoft breaks WPF printing with .NET update"
+    "SiFive pushes development server to take RISC-V into the datacenter"
   ],
-  "crew_quote": "\"Blimey, 23 degrees and cloudy! Perfect curry weather, but I reckon the real star today is that Jalapeño chip; it’s gonna be spicier than my last vindaloo!\""
+  "crew_quote": "\"Well, fancy that! Here we are, stuck on a ship, and it’s sunny in Overseal—just the right weather for a curry and a pint if I had any, but I’ve only got space rations!\""
 }
