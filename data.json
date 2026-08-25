@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-25T01:21:32.489108+00:00",
+  "timestamp": "2026-08-25T01:52:32.227188+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 21.9,
     "indoor_humidity": 51.0,
-    "outdoor_temp": 13.8,
-    "outdoor_humidity": 90.0,
-    "wind_speed": 0.0,
+    "outdoor_temp": 14.8,
+    "outdoor_humidity": 86.0,
+    "wind_speed": 0.7,
     "wind_direction": 340.0,
-    "pressure": 1019.6,
+    "pressure": 1019.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 261.0,
+    "power_usage": 281.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Clear ",
+      "temp": 12.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-25",
@@ -26,13 +26,13 @@
         },
         {
           "date": "2026-08-26",
-          "max": 23.0,
-          "min": 16.0
+          "max": 21.0,
+          "min": 15.0
         },
         {
           "date": "2026-08-27",
-          "max": 20.0,
-          "min": 14.0
+          "max": 18.0,
+          "min": 15.0
         }
       ]
     },
@@ -42,7 +42,7 @@
       "forecast": [
         {
           "date": "2026-08-25",
-          "max": 24.0,
+          "max": 25.0,
           "min": 12.0
         },
         {
@@ -52,29 +52,29 @@
         },
         {
           "date": "2026-08-27",
-          "max": 22.0,
+          "max": 19.0,
           "min": 15.0
         }
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-25",
-          "max": 24.0,
+          "max": 23.0,
           "min": 9.0
         },
         {
           "date": "2026-08-26",
           "max": 22.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-08-27",
-          "max": 19.0,
-          "min": 13.0
+          "max": 18.0,
+          "min": 14.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
     "Iran-linked cyberattack shut down a UK power plant"
   ],
-  "crew_quote": "\"Ah, 13°C and clear! Perfect weather for a curry run, but only if the old Macs don't start conjuring cash for a new wardrobe first!\""
+  "crew_quote": "\"Weather's 12 degrees and overcast—perfect for a curry night! Nothing like a bit of comfort food to lift the spirits when it's grim outside!\""
 }
