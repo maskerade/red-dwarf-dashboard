@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-25T00:50:31.313698+00:00",
+  "timestamp": "2026-08-25T01:21:32.489108+00:00",
   "house": {
-    "indoor_temp": 22.1,
+    "indoor_temp": 22.0,
     "indoor_humidity": 51.0,
-    "outdoor_temp": 13.9,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 13.8,
+    "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
     "wind_direction": 340.0,
-    "pressure": 1019.7,
+    "pressure": 1019.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 236.0,
+    "power_usage": 261.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
     "Iran-linked cyberattack shut down a UK power plant"
   ],
-  "crew_quote": "\"With this lovely 13 degrees outside, I reckon it's the perfect day for a curry—unless you fancy a dreary old cloud like in Llandudno, of course!\""
+  "crew_quote": "\"Ah, 13°C and clear! Perfect weather for a curry run, but only if the old Macs don't start conjuring cash for a new wardrobe first!\""
 }
