@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-25T17:53:48.715380+00:00",
+  "timestamp": "2026-08-25T18:24:48.907647+00:00",
   "house": {
     "indoor_temp": 22.1,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 20.6,
-    "outdoor_humidity": 61.0,
-    "wind_speed": 5.0,
-    "wind_direction": 336.0,
-    "pressure": 1015.8,
+    "outdoor_temp": 20.0,
+    "outdoor_humidity": 65.0,
+    "wind_speed": 3.6,
+    "wind_direction": 322.0,
+    "pressure": 1015.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 474.0,
+    "power_usage": 340.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Microsoft warns that transitioning Excel workbooks to new Exchange connectors might not be smooth sailing",
     "Slop factory bans Russians for using slop factory to create slop"
   ],
-  "crew_quote": "\"With the weather this good, I reckon I could cook a curry outside without setting the entire ship on fire—just imagine the lovely aromas wafting through the air!\""
+  "crew_quote": "\"With this lovely 22°C weather, it’s the perfect day for a curry! Too bad the indoor humidity is still higher than my chances of passing the Starfleet exam!\""
 }
