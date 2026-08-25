@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-25T02:23:38.928531+00:00",
+  "timestamp": "2026-08-25T02:54:31.358671+00:00",
   "house": {
     "indoor_temp": 21.9,
     "indoor_humidity": 51.0,
-    "outdoor_temp": 14.9,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 14.1,
+    "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
-    "wind_direction": 339.0,
-    "pressure": 1019.1,
+    "wind_direction": 340.0,
+    "pressure": 1019.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 241.0,
+    "power_usage": 258.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "You don't want this Sleepwalker backdoor on your Windows machine",
     "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks"
   ],
-  "crew_quote": "\"Well, with the temperature being a cozy 21.9°C indoors, I reckon I could whip up a curry that’ll keep me warm while the weather plays hide and seek outside!\""
+  "crew_quote": "\"Right, so it’s 12 degrees outside and I’m here sweating at 21.9, do they have a curry checklist for overcast days?\""
 }
