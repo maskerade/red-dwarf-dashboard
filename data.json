@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-25T04:58:36.623061+00:00",
+  "timestamp": "2026-08-25T05:29:35.335419+00:00",
   "house": {
     "indoor_temp": 21.7,
     "indoor_humidity": 51.0,
-    "outdoor_temp": 11.6,
+    "outdoor_temp": 12.4,
     "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
     "wind_direction": 340.0,
-    "pressure": 1018.6,
+    "pressure": 1018.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 238.0,
@@ -94,5 +94,5 @@
     "You don't want this Sleepwalker backdoor on your Windows machine",
     "Browser fingerprint tool shows how easy you are to track using the latest sneaky tricks"
   ],
-  "crew_quote": "\"Fancy a curry, guys? It’s 21.7°C indoors and feels like a right tropical paradise compared to that fog in Llandudno. Let’s spice things up!\""
+  "crew_quote": "\"Weather's as cloudy as my last three brain cells, but at least it's warmer indoors—time to whip up a curry and celebrate my genius!\""
 }
