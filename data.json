@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-08-25T19:57:52.605000+00:00",
+  "timestamp": "2026-08-25T20:28:56.785651+00:00",
   "house": {
     "indoor_temp": 22.1,
-    "indoor_humidity": 52.0,
-    "outdoor_temp": 18.1,
-    "outdoor_humidity": 75.0,
-    "wind_speed": 1.8,
-    "wind_direction": 345.0,
-    "pressure": 1016.1,
+    "indoor_humidity": 54.0,
+    "outdoor_temp": 17.7,
+    "outdoor_humidity": 79.0,
+    "wind_speed": 0.7,
+    "wind_direction": 338.0,
+    "pressure": 1016.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 502.0,
+    "power_usage": 505.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 16.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -26,7 +26,7 @@
         },
         {
           "date": "2026-08-26",
-          "max": 25.0,
+          "max": 24.0,
           "min": 15.0
         },
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Cloudy ",
+      "temp": 16.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-25",
@@ -58,17 +58,17 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
+      "temp": 18.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-25",
-          "max": 22.0,
+          "max": 23.0,
           "min": 8.0
         },
         {
           "date": "2026-08-26",
-          "max": 21.0,
+          "max": 22.0,
           "min": 13.0
         },
         {
@@ -94,5 +94,5 @@
     "Microsoft warns that transitioning Excel workbooks to new Exchange connectors might not be smooth sailing",
     "Slop factory bans Russians for using slop factory to create slop"
   ],
-  "crew_quote": "\"Ooh, look at that lovely 20 degrees outside! Perfect weather for a bit of a stroll… or a curry. Preferably both, if I can manage it!\""
+  "crew_quote": "\"When it’s 16 degrees and overcast outside, I reckon it’s a perfect day for a curry, mate — nothing like some spicy comfort to brighten up a dull sky!\""
 }
