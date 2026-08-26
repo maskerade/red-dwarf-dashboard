@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T17:09:14.761968+00:00",
+  "timestamp": "2026-08-26T17:40:15.781240+00:00",
   "house": {
     "indoor_temp": 22.6,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 21.5,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 0.4,
-    "wind_direction": 332.0,
-    "pressure": 1014.1,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 21.8,
+    "outdoor_humidity": 77.0,
+    "wind_speed": 0.0,
+    "wind_direction": 336.0,
+    "pressure": 1014.2,
     "rain_today": 2.1,
     "uv_index": 0.0,
-    "power_usage": 396.0,
+    "power_usage": 432.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Carhartt data breach affects 12.9M, half of what ShinyHunters claimed",
     "CIOs are on notice – vSphere 8 times out in October 2027"
   ],
-  "crew_quote": "\"Looks like it’s raining everywhere, but don’t worry, I can always make a lovely warm curry to cheer us up — it’s the perfect weather for a cozy night in!\""
+  "crew_quote": "\"With all this light rain and thunder, it’s the perfect excuse to stay indoors, crack open a curry, and let the power usage skyrocket while I watch the clouds do their drama!\""
 }
