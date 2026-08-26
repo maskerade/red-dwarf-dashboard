@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T05:16:04.057521+00:00",
+  "timestamp": "2026-08-26T05:47:03.235547+00:00",
   "house": {
     "indoor_temp": 21.9,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 16.8,
-    "outdoor_humidity": 89.0,
-    "wind_speed": 1.1,
-    "wind_direction": 334.0,
+    "outdoor_temp": 16.6,
+    "outdoor_humidity": 92.0,
+    "wind_speed": 0.0,
+    "wind_direction": 338.0,
     "pressure": 1015.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 269.0,
+    "power_usage": 255.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 15.0,
-      "conditions": "Mist",
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-26",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 13.0,
-      "conditions": "Light rain shower",
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-08-26",
@@ -94,5 +94,5 @@
     "Apple defies memory shortage with new Mac minis",
     "Claude and Cowork now share what they know about you"
   ],
-  "crew_quote": "\"Blimey, with this mist and rain, I might as well be having a curry in a wet cardboard box! At least it's warmer inside than a spaceship’s airlock!\""
+  "crew_quote": "\"Looks like it’s a proper rainy day out there, but at least in here, we’ve got the perfect conditions for a curry — a cool 21.9 degrees of bliss!\""
 }
