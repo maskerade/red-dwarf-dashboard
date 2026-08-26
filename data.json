@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T01:39:03.429005+00:00",
+  "timestamp": "2026-08-26T02:10:00.724802+00:00",
   "house": {
-    "indoor_temp": 22.1,
+    "indoor_temp": 22.0,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 15.9,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 16.5,
+    "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 335.0,
-    "pressure": 1016.2,
+    "wind_direction": 338.0,
+    "pressure": 1016.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 255.0,
+    "power_usage": 261.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Apple defies memory shortage with new Mac minis",
     "Claude and Cowork now share what they know about you"
   ],
-  "crew_quote": "\"Well, it's 15 degrees and overcast, perfect weather for a nice curry! Nothing like a bit of spice to brighten up a dreary day, eh?\""
+  "crew_quote": "\"Blimey, it's cloudier than a space-fog in a curry house! At least inside we’re warmer than my last date with a microwave dinner.\""
 }
