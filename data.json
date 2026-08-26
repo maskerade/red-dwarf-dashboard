@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T19:44:15.943853+00:00",
+  "timestamp": "2026-08-26T20:15:14.577069+00:00",
   "house": {
     "indoor_temp": 22.7,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 20.9,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 20.7,
     "outdoor_humidity": 79.0,
-    "wind_speed": 1.8,
-    "wind_direction": 327.0,
-    "pressure": 1014.8,
+    "wind_speed": 1.4,
+    "wind_direction": 339.0,
+    "pressure": 1015.0,
     "rain_today": 2.1,
     "uv_index": 0.0,
-    "power_usage": 514.0,
+    "power_usage": 528.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "MNT follows up its open hardware portables with a desktop case",
     "Meta's proposed $18B settlement in teen harm case throws YouTube and TikTok under the bus, too"
   ],
-  "crew_quote": "\"Ah, nothing like a bit of patchy rain to remind me of my marriage to humidity—it's like a curry that's lost all its spice!\""
+  "crew_quote": "\"Looks like it’s a perfect day for a nice curry, as long as the rain doesn't come crashing down like those cyberattacks! Just my luck, eh?\""
 }
