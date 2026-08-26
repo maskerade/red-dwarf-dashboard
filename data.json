@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T00:36:54.354596+00:00",
+  "timestamp": "2026-08-26T01:07:57.426533+00:00",
   "house": {
     "indoor_temp": 22.2,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 16.7,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 16.5,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
-    "wind_direction": 166.0,
+    "wind_direction": 341.0,
     "pressure": 1016.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 303.0,
+    "power_usage": 244.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
+    "Now Perplexity is trying to get into the local AI action",
     "Intel's 256-core Xeon 7 CPUs are a Diamond in the rough",
     "Apple defies memory shortage with new Mac minis",
-    "Claude and Cowork now share what they know about you",
-    "McKinsey says enterprise AI is finally 'on the road to ROI'"
+    "Claude and Cowork now share what they know about you"
   ],
-  "crew_quote": "\"15 degrees and overcast? Brilliant! Just the right weather to enjoy a curry while dreaming of 256-core CPUs—nothing like a bit of tech to spice up the dreariness!\""
+  "crew_quote": "\"Overcast weather, 15 degrees? Sounds like perfect curry-making conditions to me—I'll whip up a tikka masala while the computers sort out their diamond CPUs!\""
 }
