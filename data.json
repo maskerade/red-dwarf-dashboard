@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T06:18:06.015315+00:00",
+  "timestamp": "2026-08-26T06:49:03.808525+00:00",
   "house": {
     "indoor_temp": 21.9,
-    "indoor_humidity": 54.0,
-    "outdoor_temp": 16.3,
-    "outdoor_humidity": 94.0,
-    "wind_speed": 0.0,
+    "indoor_humidity": 55.0,
+    "outdoor_temp": 17.0,
+    "outdoor_humidity": 92.0,
+    "wind_speed": 0.4,
     "wind_direction": 338.0,
-    "pressure": 1015.6,
+    "pressure": 1015.7,
     "rain_today": 0.3,
     "uv_index": 0.0,
-    "power_usage": 244.0,
+    "power_usage": 278.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: Monday 17th until Saturday 29th August no trams will operate between Rochdale and Oldham Mumps a bus replacement service will be in operation. See TFGM.com for all service info",
   "headlines": [
+    "India’s crewed space program will fly this year, after missing 2022 and 2025 targets",
+    "Self-hosted email is in steep decline, Microsoft and Google are taking over",
     "Now Perplexity is trying to get into the local AI action",
-    "Intel's 256-core Xeon 7 CPUs are a Diamond in the rough",
-    "Apple defies memory shortage with new Mac minis",
-    "Claude and Cowork now share what they know about you"
+    "Intel's 256-core Xeon 7 CPUs are a Diamond in the rough"
   ],
-  "crew_quote": "\"Ah, the weather’s just like my love life—damp and foggy! But at least I’ve got the curry to keep me warm, even if it’s a bit humid in here.\""
+  "crew_quote": "\"You know, with all this light rain and fog, I think I’ll just stay indoors today — perfect curry weather if you ask me! I should've bought a tent for my takeaways.\""
 }
