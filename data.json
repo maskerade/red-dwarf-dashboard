@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-25T23:34:54.994996+00:00",
+  "timestamp": "2026-08-26T00:05:52.926806+00:00",
   "house": {
     "indoor_temp": 22.3,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 16.6,
-    "outdoor_humidity": 86.0,
+    "outdoor_temp": 16.8,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 332.0,
-    "pressure": 1016.7,
+    "wind_direction": 172.0,
+    "pressure": 1016.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 342.0,
+    "power_usage": 334.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Claude and Cowork now share what they know about you",
     "McKinsey says enterprise AI is finally 'on the road to ROI'"
   ],
-  "crew_quote": "\"15 degrees and overcast? That's the perfect weather for a cheeky curry and a moody film marathon! Just don’t ask me to share my chips!\""
+  "crew_quote": "\"With this grey weather, I reckon we could all use a bit of a spice-up, like a curry with a side of those new Mac minis — now that's what I call comfort food!\""
 }
