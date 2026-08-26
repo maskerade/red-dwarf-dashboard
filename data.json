@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T07:20:08.182555+00:00",
+  "timestamp": "2026-08-26T07:50:58.583386+00:00",
   "house": {
     "indoor_temp": 21.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 17.5,
+    "outdoor_temp": 17.8,
     "outdoor_humidity": 90.0,
-    "wind_speed": 2.2,
-    "wind_direction": 336.0,
-    "pressure": 1015.8,
+    "wind_speed": 3.2,
+    "wind_direction": 332.0,
+    "pressure": 1016.1,
     "rain_today": 0.3,
     "uv_index": 0.0,
-    "power_usage": 247.0,
+    "power_usage": 258.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Now Perplexity is trying to get into the local AI action",
     "Intel's 256-core Xeon 7 CPUs are a Diamond in the rough"
   ],
-  "crew_quote": "\"Ah, perfect weather for a curry, isn't it? A bit of drizzle just adds to the charm — just like my hair on a good day!\""
+  "crew_quote": "\"With 16 degrees outside and patchy rain, it’s the perfect weather for a curry and a good old sit-in! You know, if the drizzling doesn't turn into a monsoon!\""
 }
