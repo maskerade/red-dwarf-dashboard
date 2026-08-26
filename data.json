@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T01:07:57.426533+00:00",
+  "timestamp": "2026-08-26T01:39:03.429005+00:00",
   "house": {
-    "indoor_temp": 22.2,
+    "indoor_temp": 22.1,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 16.5,
-    "outdoor_humidity": 86.0,
+    "outdoor_temp": 15.9,
+    "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
-    "wind_direction": 341.0,
-    "pressure": 1016.4,
+    "wind_direction": 335.0,
+    "pressure": 1016.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 244.0,
+    "power_usage": 255.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Apple defies memory shortage with new Mac minis",
     "Claude and Cowork now share what they know about you"
   ],
-  "crew_quote": "\"Overcast weather, 15 degrees? Sounds like perfect curry-making conditions to me—I'll whip up a tikka masala while the computers sort out their diamond CPUs!\""
+  "crew_quote": "\"Well, it's 15 degrees and overcast, perfect weather for a nice curry! Nothing like a bit of spice to brighten up a dreary day, eh?\""
 }
