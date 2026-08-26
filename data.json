@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T21:48:18.828862+00:00",
+  "timestamp": "2026-08-26T22:19:20.255338+00:00",
   "house": {
-    "indoor_temp": 22.8,
+    "indoor_temp": 22.9,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 19.1,
-    "outdoor_humidity": 83.0,
-    "wind_speed": 0.4,
-    "wind_direction": 340.0,
+    "outdoor_temp": 18.5,
+    "outdoor_humidity": 86.0,
+    "wind_speed": 0.0,
+    "wind_direction": 332.0,
     "pressure": 1014.9,
     "rain_today": 2.1,
     "uv_index": 0.0,
-    "power_usage": 514.0,
+    "power_usage": 598.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "GitHub Actions was down yet again",
     "MNT follows up its open hardware portables with a desktop case"
   ],
-  "crew_quote": "\"With all this mist and overcast, I could really use a curry to brighten up the atmosphere—it's not exactly a sunny day for strutting my stuff, is it?\""
+  "crew_quote": "\"Well, at least it's not as humid as that curry I had last night! And if it gets any mistier, we might need to rename Llandudno to 'Foggydon'!\""
 }
