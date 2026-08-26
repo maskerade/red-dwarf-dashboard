@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T09:24:12.277452+00:00",
+  "timestamp": "2026-08-26T09:55:06.842021+00:00",
   "house": {
     "indoor_temp": 21.9,
-    "indoor_humidity": 55.0,
-    "outdoor_temp": 17.2,
-    "outdoor_humidity": 97.0,
+    "indoor_humidity": 56.0,
+    "outdoor_temp": 17.4,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 328.0,
-    "pressure": 1016.6,
-    "rain_today": 1.1,
+    "wind_direction": 329.0,
+    "pressure": 1016.4,
+    "rain_today": 1.6,
     "uv_index": 0.0,
-    "power_usage": 497.0,
+    "power_usage": 483.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "07:46 PM",
     "moonset": "03:43 AM"
   },
-  "metrolink": "Due to an earlier points fault at Crumpsall we are experiencing a delay on the Bury-Piccadilly and Bury-Altrincham services. We apologise for any inconvenience this may cause",
+  "metrolink": "Due to an earlier points fault we are experiencing a minor delay on the Bury-Piccadilly Bury-Altrincham and Crumpsall-Trafford Centre services. We apologise for any inconvenience this may cause",
   "headlines": [
     "Debian polls its developers on whether to burn the bots, tame the bots, or let 'em loose",
     "Sopra Steria's £370M Capita spat heads for 2028 courtroom showdown",
     "India’s crewed space program will fly this year, after missing 2022 and 2025 targets",
     "Self-hosted email is in steep decline, Microsoft and Google are taking over"
   ],
-  "crew_quote": "\"Well, with the weather being a delightful 16 degrees and a bit of drizzle, it’s the perfect excuse to whip up a curry and pretend we're not marooned in a tin can!\""
+  "crew_quote": "\"With this light drizzle, I reckon it's a perfect day for a curry, but not too spicy, or I'll be sweating more than the power bill!\""
 }
