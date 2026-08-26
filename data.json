@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T02:10:00.724802+00:00",
+  "timestamp": "2026-08-26T02:41:00.249420+00:00",
   "house": {
     "indoor_temp": 22.0,
     "indoor_humidity": 54.0,
@@ -10,7 +10,7 @@
     "pressure": 1016.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 261.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -42,7 +42,7 @@
       "forecast": [
         {
           "date": "2026-08-26",
-          "max": 25.0,
+          "max": 24.0,
           "min": 14.0
         },
         {
@@ -58,12 +58,12 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-26",
-          "max": 22.0,
+          "max": 23.0,
           "min": 13.0
         },
         {
@@ -94,5 +94,5 @@
     "Apple defies memory shortage with new Mac minis",
     "Claude and Cowork now share what they know about you"
   ],
-  "crew_quote": "\"Blimey, it's cloudier than a space-fog in a curry house! At least inside we’re warmer than my last date with a microwave dinner.\""
+  "crew_quote": "\"Looks like it's 15 degrees and overcast everywhere, which is about as cheerful as my last curry — should we hold a weather parade or just sit around feeling miserable?\""
 }
