@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T13:32:10.973832+00:00",
+  "timestamp": "2026-08-26T14:03:09.651920+00:00",
   "house": {
     "indoor_temp": 22.5,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 24.1,
-    "outdoor_humidity": 71.0,
-    "wind_speed": 3.6,
-    "wind_direction": 319.0,
-    "pressure": 1015.2,
-    "rain_today": 1.8,
-    "uv_index": 1.0,
-    "power_usage": 275.0,
+    "outdoor_temp": 22.4,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 0.7,
+    "wind_direction": 347.0,
+    "pressure": 1015.1,
+    "rain_today": 2.1,
+    "uv_index": 0.0,
+    "power_usage": 359.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "UK supermarket scales go 404 on shoppers",
     "Debian polls its developers on whether to burn the bots, tame the bots, or let 'em loose"
   ],
-  "crew_quote": "\"Well, it’s a lovely 23 degrees and raining lightly, just perfect for a nice curry – if only we had some, instead of this soggy spaceship!\""
+  "crew_quote": "\"Ah, nothing like a light rain shower to remind you that even in space, the weather's rubbish! But at least it's not a curry, eh? Now that would be a disaster!\""
 }
