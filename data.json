@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T20:15:14.577069+00:00",
+  "timestamp": "2026-08-26T20:46:15.740007+00:00",
   "house": {
-    "indoor_temp": 22.7,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 20.7,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 1.4,
-    "wind_direction": 339.0,
-    "pressure": 1015.0,
+    "indoor_temp": 22.9,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 19.9,
+    "outdoor_humidity": 81.0,
+    "wind_speed": 4.3,
+    "wind_direction": 340.0,
+    "pressure": 1014.9,
     "rain_today": 2.1,
     "uv_index": 0.0,
-    "power_usage": 528.0,
+    "power_usage": 511.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: Monday 17th until Saturday 29th August no trams will operate between Rochdale and Oldham Mumps a bus replacement service will be in operation. See TFGM.com for all service info",
   "headlines": [
+    "Flock shock rocks cop cam vendor as protests mount",
     "More than 100 water systems were hit in July cyberattacks",
     "GitHub Actions was down yet again",
-    "MNT follows up its open hardware portables with a desktop case",
-    "Meta's proposed $18B settlement in teen harm case throws YouTube and TikTok under the bus, too"
+    "MNT follows up its open hardware portables with a desktop case"
   ],
-  "crew_quote": "\"Looks like it’s a perfect day for a nice curry, as long as the rain doesn't come crashing down like those cyberattacks! Just my luck, eh?\""
+  "crew_quote": "\"With all this patchy rain and cyber chaos, I might just have to whip up a nice curry to cheer us up—nothing like a bit of spice to brighten a damp day!\""
 }
