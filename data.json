@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T21:17:20.752934+00:00",
+  "timestamp": "2026-08-26T21:48:18.828862+00:00",
   "house": {
     "indoor_temp": 22.8,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 19.4,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 1.4,
-    "wind_direction": 349.0,
-    "pressure": 1014.6,
+    "outdoor_temp": 19.1,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 0.4,
+    "wind_direction": 340.0,
+    "pressure": 1014.9,
     "rain_today": 2.1,
     "uv_index": 0.0,
-    "power_usage": 519.0,
+    "power_usage": 514.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "GitHub Actions was down yet again",
     "MNT follows up its open hardware portables with a desktop case"
   ],
-  "crew_quote": "\"Blimey, it's a bit misty and overcast out there, ain't it? Perfect weather for a good curry — I can just see myself diving into a chicken tikka while it pours!\""
+  "crew_quote": "\"With all this mist and overcast, I could really use a curry to brighten up the atmosphere—it's not exactly a sunny day for strutting my stuff, is it?\""
 }
