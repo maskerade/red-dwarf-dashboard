@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-26T04:14:01.499669+00:00",
+  "timestamp": "2026-08-26T04:45:02.847148+00:00",
   "house": {
     "indoor_temp": 21.9,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 16.6,
-    "outdoor_humidity": 89.0,
-    "wind_speed": 0.7,
+    "outdoor_temp": 16.5,
+    "outdoor_humidity": 90.0,
+    "wind_speed": 0.0,
     "wind_direction": 334.0,
     "pressure": 1015.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 252.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Apple defies memory shortage with new Mac minis",
     "Claude and Cowork now share what they know about you"
   ],
-  "crew_quote": "\"With this weather, I could really go for a curry to warm me up, but the way it's raining, I might just end up with a wet soggy samosa instead!\""
+  "crew_quote": "\"I'd say it's the perfect weather for a good curry, but with all this mist, I'm more likely to trip over a tree branch than find my way to the takeaway!\""
 }
