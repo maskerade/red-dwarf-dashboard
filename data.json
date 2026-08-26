@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-26T17:40:15.781240+00:00",
+  "timestamp": "2026-08-26T18:11:13.282481+00:00",
   "house": {
     "indoor_temp": 22.6,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 21.8,
-    "outdoor_humidity": 77.0,
+    "outdoor_temp": 21.5,
+    "outdoor_humidity": 80.0,
     "wind_speed": 0.0,
-    "wind_direction": 336.0,
-    "pressure": 1014.2,
+    "wind_direction": 329.0,
+    "pressure": 1014.4,
     "rain_today": 2.1,
     "uv_index": 0.0,
-    "power_usage": 432.0,
+    "power_usage": 449.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 21.0,
-      "conditions": "Light rain shower",
+      "temp": 22.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-26",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 24.0,
+      "temp": 22.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 20.0,
-      "conditions": "Patchy light rain in area with thunder",
+      "temp": 19.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-26",
@@ -94,5 +94,5 @@
     "Carhartt data breach affects 12.9M, half of what ShinyHunters claimed",
     "CIOs are on notice – vSphere 8 times out in October 2027"
   ],
-  "crew_quote": "\"With all this light rain and thunder, it’s the perfect excuse to stay indoors, crack open a curry, and let the power usage skyrocket while I watch the clouds do their drama!\""
+  "crew_quote": "\"Blimey, it’s 22 degrees and sunny in Altrincham; perfect weather for a cold pint and curry! Just don’t ask Rimmer to make the curry; it’ll probably end up looking like a cyberattack.\""
 }
