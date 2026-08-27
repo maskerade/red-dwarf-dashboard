@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-27T14:51:36.039830+00:00",
+  "timestamp": "2026-08-27T15:22:39.365238+00:00",
   "house": {
     "indoor_temp": 22.6,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 19.0,
+    "outdoor_temp": 19.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 326.0,
-    "pressure": 1010.4,
+    "pressure": 1009.9,
     "rain_today": 17.2,
-    "uv_index": 0.0,
-    "power_usage": 368.0,
+    "uv_index": 1.0,
+    "power_usage": 351.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
-    "Microsoft slaps a fresh coat of AI paint on the Microsoft 365 Roadmap",
-    "Nuisance-call blocker fined £190k for being a nuisance caller",
-    "Want to lead Whitehall's AI strategy? AI experience is not essential",
-    "AROS, the FOSS recreation of AmigaOS, comes to Raspberry Pi"
+    "Schrödinger's backup: not actually recovered until you try to restore IT",
+    "Nitter might be no more, but Twitter is back (sort of)",
+    "Salesforce boasts: 50% of bookings were from 'customers refilling the tank... they consume Flex Credits, they want more'",
+    "Cybercrooks jet off with Manchester Airports Group customer data"
   ],
-  "crew_quote": "\"Looks like it's raining cats and dogs outside! Let's hope there's a curry waiting in the fridge to cheer us up — just like the weather, I need my spice!\""
+  "crew_quote": "\"Looks like it's 17 degrees and pouring outside, perfect weather for a curry and a good old-fashioned moan about Twitter pretending it's alive again!\""
 }
