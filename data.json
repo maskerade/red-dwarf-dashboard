@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-08-27T23:07:44.476613+00:00",
+  "timestamp": "2026-08-27T23:38:40.167737+00:00",
   "house": {
-    "indoor_temp": 22.9,
+    "indoor_temp": 22.8,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 16.7,
+    "outdoor_temp": 16.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 334.0,
-    "pressure": 1008.2,
-    "rain_today": 0.0,
+    "pressure": 1007.9,
+    "rain_today": 0.3,
     "uv_index": 0.0,
-    "power_usage": 466.0,
+    "power_usage": 384.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-08-27",
-          "max": 18.0,
-          "min": 16.0
-        },
         {
           "date": "2026-08-28",
           "max": 18.0,
@@ -33,18 +28,18 @@
           "date": "2026-08-29",
           "max": 17.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-08-30",
+          "max": 20.0,
+          "min": 12.0
         }
       ]
     },
     "overseal": {
       "temp": 16.0,
-      "conditions": "Light rain shower",
+      "conditions": "Mist",
       "forecast": [
-        {
-          "date": "2026-08-27",
-          "max": 19.0,
-          "min": 15.0
-        },
         {
           "date": "2026-08-28",
           "max": 19.0,
@@ -53,19 +48,19 @@
         {
           "date": "2026-08-29",
           "max": 17.0,
+          "min": 13.0
+        },
+        {
+          "date": "2026-08-30",
+          "max": 21.0,
           "min": 13.0
         }
       ]
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Mist",
+      "conditions": "Fog",
       "forecast": [
-        {
-          "date": "2026-08-27",
-          "max": 18.0,
-          "min": 14.0
-        },
         {
           "date": "2026-08-28",
           "max": 17.0,
@@ -75,17 +70,22 @@
           "date": "2026-08-29",
           "max": 19.0,
           "min": 14.0
+        },
+        {
+          "date": "2026-08-30",
+          "max": 19.0,
+          "min": 11.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "06:10 AM",
-    "sunset": "08:10 PM",
-    "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "99",
-    "moonrise": "07:57 PM",
-    "moonset": "05:02 AM"
+    "sunrise": "06:11 AM",
+    "sunset": "08:08 PM",
+    "moon_phase": "Full Moon",
+    "moon_illumination": "100",
+    "moonrise": "08:07 PM",
+    "moonset": "06:21 AM"
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
@@ -94,5 +94,5 @@
     "AI girlfriend review site's secrets were exposed to the world for three weeks",
     "Google forces Android apps to use memory more wisely as RAMpocalypse rages"
   ],
-  "crew_quote": "\"Looks like it’s a bit gloomy outside, perfect curry weather! I’ll whip up a spicy one to cheer us up while the cyborg cockroaches save the day!\""
+  "crew_quote": "\"With all this fog outside, I reckon our best chance of survival is those cyborg cockroaches – they’ll definitely find the curry faster than we could!\""
 }
