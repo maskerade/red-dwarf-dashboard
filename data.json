@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-27T19:30:43.179189+00:00",
+  "timestamp": "2026-08-27T20:01:44.003613+00:00",
   "house": {
     "indoor_temp": 22.6,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 18.0,
+    "indoor_humidity": 65.0,
+    "outdoor_temp": 17.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 333.0,
-    "pressure": 1009.7,
+    "wind_direction": 334.0,
+    "pressure": 1009.3,
     "rain_today": 19.8,
     "uv_index": 0.0,
-    "power_usage": 2939.0,
+    "power_usage": 472.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Nitter might be no more, but Twitter is back (sort of)",
     "Salesforce boasts: 50% of bookings were from 'customers refilling the tank... they consume Flex Credits, they want more'"
   ],
-  "crew_quote": "\"Ah, brilliant! It's just like being in a curry bath with a light shower; perfect for a bit of extra flavour on me chips!\""
+  "crew_quote": "\"Light rain in Altrincham? Brilliant! That's just the weather's way of saying, 'Fancy a curry, mate? Just don't forget your umbrella — or you'll be soaked and soggy like last week's leftovers!'\""
 }
