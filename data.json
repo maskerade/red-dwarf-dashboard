@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-27T00:23:25.457364+00:00",
+  "timestamp": "2026-08-27T00:54:23.974666+00:00",
   "house": {
     "indoor_temp": 22.8,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 17.6,
-    "outdoor_humidity": 90.0,
+    "outdoor_temp": 17.2,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 323.0,
-    "pressure": 1014.6,
+    "wind_direction": 325.0,
+    "pressure": 1014.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 297.0,
+    "power_usage": 292.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Flock shock rocks cop cam vendor as protests mount",
     "More than 100 water systems were hit in July cyberattacks"
   ],
-  "crew_quote": "\"Even with the weather being as dreary as a Rimmer lecture, I’d still choose it over Meta’s new chip—I'd rather have curry than ads any day!\""
+  "crew_quote": "\"Looks like the weather’s gone all gloomy—perfect for a curry night! Nothing like a bit of rain to spice up the old taste buds, eh?\""
 }
