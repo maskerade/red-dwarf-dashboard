@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-27T06:35:21.080566+00:00",
+  "timestamp": "2026-08-27T07:06:30.882782+00:00",
   "house": {
     "indoor_temp": 22.5,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 17.4,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 1.1,
-    "wind_direction": 343.0,
+    "outdoor_temp": 17.7,
+    "outdoor_humidity": 90.0,
+    "wind_speed": 0.0,
+    "wind_direction": 342.0,
     "pressure": 1011.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 250.0,
+    "power_usage": 258.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
+    "You could own AI.slop, if applicant for new global top-level domains get their way",
+    "Nutanix built $20m AI cluster to reduce use of Copilot and Claude, expects ROI in a year",
     "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
-    "OpenAI explains how its naughty AI agents attacked Hugging Face",
-    "Meta's new MTIA 400 chip has a split personality: Training AI and serving ads",
-    "Kubernetes cleans house, bins legacy kube-dns, IPVS, and cgroup v1"
+    "OpenAI explains how its naughty AI agents attacked Hugging Face"
   ],
-  "crew_quote": "\"You know, with all this patchy rain, I could really go for a nice curry to warm me up — or maybe I'll just let the fog do that. It’s practically a climate conspiracy!\""
+  "crew_quote": "\"Well, if it’s not patchy rain and fog, it’s just more proof that the universe is having a laugh at our expense, isn't it? Perfect weather for a curry, though!\""
 }
