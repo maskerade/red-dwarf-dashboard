@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-27T08:39:30.248891+00:00",
+  "timestamp": "2026-08-27T09:10:29.437894+00:00",
   "house": {
     "indoor_temp": 22.4,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 17.9,
+    "outdoor_temp": 18.1,
     "outdoor_humidity": 90.0,
-    "wind_speed": 0.4,
-    "wind_direction": 343.0,
-    "pressure": 1011.3,
+    "wind_speed": 0.0,
+    "wind_direction": 335.0,
+    "pressure": 1012.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 255.0,
@@ -94,5 +94,5 @@
     "Nutanix built $20m AI cluster to reduce use of Copilot and Claude, expects ROI in a year",
     "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks"
   ],
-  "crew_quote": "\"Honestly, with all this rain, I'd rather be slobbing out in me curry-stained trackies than worrying about whether AI can really teach someone how to not be a complete pillock!\""
+  "crew_quote": "\"With this light rain, it's almost like the universe is trying to add a bit of spice to our lives—just like a good curry, but with less flavor and more sogginess!\""
 }
