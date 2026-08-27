@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-08-27T09:10:29.437894+00:00",
+  "timestamp": "2026-08-27T09:41:34.754891+00:00",
   "house": {
-    "indoor_temp": 22.4,
+    "indoor_temp": 22.3,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 18.1,
-    "outdoor_humidity": 90.0,
+    "outdoor_temp": 17.5,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 335.0,
-    "pressure": 1012.5,
-    "rain_today": 0.0,
+    "wind_direction": 345.0,
+    "pressure": 1012.4,
+    "rain_today": 6.1,
     "uv_index": 0.0,
-    "power_usage": 255.0,
+    "power_usage": 340.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
+    "Check out the width of that Debian display",
     "AI use among UK teachers doubles, but working hours still don't come down",
     "You could own AI.slop, if applicant for new global top-level domains get their way",
-    "Nutanix built $20m AI cluster to reduce use of Copilot and Claude, expects ROI in a year",
-    "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks"
+    "Nutanix built $20m AI cluster to reduce use of Copilot and Claude, expects ROI in a year"
   ],
-  "crew_quote": "\"With this light rain, it's almost like the universe is trying to add a bit of spice to our lives—just like a good curry, but with less flavor and more sogginess!\""
+  "crew_quote": "\"Well, it’s a perfect day for a curry, isn’t it? Just me, a light rain shower, and the thought of that 340 kWh powering my glorious feast!\""
 }
