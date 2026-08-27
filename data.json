@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-08-27T18:28:40.520164+00:00",
+  "timestamp": "2026-08-27T18:59:41.816628+00:00",
   "house": {
     "indoor_temp": 22.6,
-    "indoor_humidity": 65.0,
-    "outdoor_temp": 18.8,
+    "indoor_humidity": 66.0,
+    "outdoor_temp": 18.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 323.0,
+    "wind_direction": 333.0,
     "pressure": 1008.8,
-    "rain_today": 17.2,
+    "rain_today": 19.3,
     "uv_index": 0.0,
-    "power_usage": 376.0,
+    "power_usage": 508.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 18.0,
-      "conditions": "Overcast ",
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-27",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Nitter might be no more, but Twitter is back (sort of)",
     "Salesforce boasts: 50% of bookings were from 'customers refilling the tank... they consume Flex Credits, they want more'"
   ],
-  "crew_quote": "\"Blimey, it's raining again! If I wanted this weather, I'd have stayed in my mum's curry-scented flat—at least the humidity would've been good for my hair!\""
+  "crew_quote": "\"You know, with this light rain shower, I could really go for a curry. Just hope the power doesn’t go out—can't let a ransomware gang ruin my meal, mate!\""
 }
