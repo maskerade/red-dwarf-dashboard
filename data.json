@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-27T11:14:34.810796+00:00",
+  "timestamp": "2026-08-27T11:45:35.401420+00:00",
   "house": {
     "indoor_temp": 22.5,
-    "indoor_humidity": 59.0,
+    "indoor_humidity": 60.0,
     "outdoor_temp": 17.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 340.0,
-    "pressure": 1011.6,
-    "rain_today": 10.9,
+    "wind_direction": 331.0,
+    "pressure": 1011.3,
+    "rain_today": 11.7,
     "uv_index": 0.0,
-    "power_usage": 432.0,
+    "power_usage": 399.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
+    "Microsoft slaps a fresh coat of AI paint on the Microsoft 365 Roadmap",
     "Nuisance-call blocker fined £190k for being a nuisance caller",
     "Want to lead Whitehall's AI strategy? AI experience is not essential",
-    "AROS, the FOSS recreation of AmigaOS, comes to Raspberry Pi",
-    "Check out the width of that Debian display"
+    "AROS, the FOSS recreation of AmigaOS, comes to Raspberry Pi"
   ],
-  "crew_quote": "\"I don’t mind the rain, but if I wanted 17 degrees and mist, I’d just open the fridge while waiting for a curry delivery!\""
+  "crew_quote": "\"Blimey, it's like someone spilled curry on the weather forecast—17 degrees and drizzly! Even the mist looks like it's trying to throw on a designer coat!\""
 }
