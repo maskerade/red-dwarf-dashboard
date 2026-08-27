@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-27T04:00:27.353934+00:00",
+  "timestamp": "2026-08-27T04:31:24.012529+00:00",
   "house": {
     "indoor_temp": 22.6,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 17.2,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 4.0,
-    "wind_direction": 333.0,
-    "pressure": 1013.7,
+    "outdoor_temp": 16.2,
+    "outdoor_humidity": 93.0,
+    "wind_speed": 0.0,
+    "wind_direction": 336.0,
+    "pressure": 1013.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 255.0,
+    "power_usage": 258.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: Monday 17th until Saturday 29th August no trams will operate between Rochdale and Oldham Mumps a bus replacement service will be in operation. See TFGM.com for all service info",
   "headlines": [
+    "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
+    "OpenAI explains how its naughty AI agents attacked Hugging Face",
     "Meta's new MTIA 400 chip has a split personality: Training AI and serving ads",
-    "Kubernetes cleans house, bins legacy kube-dns, IPVS, and cgroup v1",
-    "Flock shock rocks cop cam vendor as protests mount",
-    "More than 100 water systems were hit in July cyberattacks"
+    "Kubernetes cleans house, bins legacy kube-dns, IPVS, and cgroup v1"
   ],
-  "crew_quote": "\"Blimey, it's so foggy out there, I could use my last curry to navigate! But hey, at least it's warmer indoors than I am at work!\""
+  "crew_quote": "\"What's the weather like outside? Overcast and a bit misty? Sounds like the perfect day for a curry—if only I could find a place that delivers to a spaceship!\""
 }
