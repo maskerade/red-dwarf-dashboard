@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-27T21:03:45.577317+00:00",
+  "timestamp": "2026-08-27T21:34:43.024891+00:00",
   "house": {
     "indoor_temp": 22.8,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 17.4,
+    "outdoor_temp": 17.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 333.0,
-    "pressure": 1009.4,
+    "wind_direction": 334.0,
+    "pressure": 1009.0,
     "rain_today": 21.3,
     "uv_index": 0.0,
-    "power_usage": 460.0,
+    "power_usage": 455.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI girlfriend review site's secrets were exposed to the world for three weeks",
     "Google forces Android apps to use memory more wisely as RAMpocalypse rages"
   ],
-  "crew_quote": "\"Blimey, with this weather, I might as well shower in curry sauce and go out as a walking takeaway—perfect for all this patchy rain!\""
+  "crew_quote": "\"Ah, the weather's a bit dreary today, isn't it? Perfect for a curry and a good old-fashioned mope about how cyborg cockroaches are the future, not us!\""
 }
