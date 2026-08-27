@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-27T02:58:26.318369+00:00",
+  "timestamp": "2026-08-27T03:29:26.978238+00:00",
   "house": {
     "indoor_temp": 22.6,
     "indoor_humidity": 58.0,
     "outdoor_temp": 15.9,
-    "outdoor_humidity": 95.0,
-    "wind_speed": 0.0,
+    "outdoor_humidity": 97.0,
+    "wind_speed": 1.4,
     "wind_direction": 327.0,
-    "pressure": 1014.0,
+    "pressure": 1013.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 255.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": 15.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-08-27",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Light rain shower",
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-08-27",
@@ -94,5 +94,5 @@
     "Flock shock rocks cop cam vendor as protests mount",
     "More than 100 water systems were hit in July cyberattacks"
   ],
-  "crew_quote": "\"I tell you, with all this overcast weather, it's like even the clouds are too moody to come out and play — bet they'd rather be binge-watching ads from that Meta chip!\""
+  "crew_quote": "\"Oi, it’s like a curry in here — all warm and steamy at 22.6°C, but outside it’s as foggy as a bad night in a disco! Time for a rub-a-dub in me favourite chair!\""
 }
