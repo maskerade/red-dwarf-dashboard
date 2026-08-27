@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-27T17:57:42.901194+00:00",
+  "timestamp": "2026-08-27T18:28:40.520164+00:00",
   "house": {
-    "indoor_temp": 22.5,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 19.1,
+    "indoor_temp": 22.6,
+    "indoor_humidity": 65.0,
+    "outdoor_temp": 18.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 323.0,
-    "pressure": 1009.0,
+    "pressure": 1008.8,
     "rain_today": 17.2,
     "uv_index": 0.0,
-    "power_usage": 396.0,
+    "power_usage": 376.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Nitter might be no more, but Twitter is back (sort of)",
     "Salesforce boasts: 50% of bookings were from 'customers refilling the tank... they consume Flex Credits, they want more'"
   ],
-  "crew_quote": "\"Looks like it's 18 degrees and drizzly everywhere! A perfect day for a curry and a good moan about the state of the universe, innit?\""
+  "crew_quote": "\"Blimey, it's raining again! If I wanted this weather, I'd have stayed in my mum's curry-scented flat—at least the humidity would've been good for my hair!\""
 }
