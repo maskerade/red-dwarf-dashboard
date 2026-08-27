@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-27T07:06:30.882782+00:00",
+  "timestamp": "2026-08-27T07:37:24.727814+00:00",
   "house": {
     "indoor_temp": 22.5,
     "indoor_humidity": 58.0,
     "outdoor_temp": 17.7,
     "outdoor_humidity": 90.0,
-    "wind_speed": 0.0,
-    "wind_direction": 342.0,
+    "wind_speed": 0.4,
+    "wind_direction": 359.0,
     "pressure": 1011.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 258.0,
+    "power_usage": 266.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "FBI seizes hacking tools it says China used to attack NASA, DOE, US Senate and other critical networks",
     "OpenAI explains how its naughty AI agents attacked Hugging Face"
   ],
-  "crew_quote": "\"Well, if it’s not patchy rain and fog, it’s just more proof that the universe is having a laugh at our expense, isn't it? Perfect weather for a curry, though!\""
+  "crew_quote": "\"Oi, with all this patchy rain, I might just invent a new curry called 'Drowned Chicken' — it’ll be a hit once I find the foggy flavor of Llandudno!\""
 }
