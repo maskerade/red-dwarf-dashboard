@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-28T00:40:46.355836+00:00",
+  "timestamp": "2026-08-28T01:11:45.593259+00:00",
   "house": {
-    "indoor_temp": 22.7,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 16.2,
+    "indoor_temp": 22.6,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 16.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 334.0,
-    "pressure": 1007.4,
+    "pressure": 1007.1,
     "rain_today": 0.3,
     "uv_index": 0.0,
-    "power_usage": 309.0,
+    "power_usage": 252.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Overcast ",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-08-28",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 16.0,
-      "conditions": "Mist",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-28",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Fog",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "AI girlfriend review site's secrets were exposed to the world for three weeks",
     "Google forces Android apps to use memory more wisely as RAMpocalypse rages"
   ],
-  "crew_quote": "\"With all this fog and mist, I reckon the best chance of finding anything is to send in those cyborg cockroaches — they can deliver my curry right to me!\""
+  "crew_quote": "\"With this weather, I might as well be a cyborg cockroach delivering curry — you know, just to add a bit of spice to the foggy gloom!\""
 }
