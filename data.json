@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-28T09:27:54.813733+00:00",
+  "timestamp": "2026-08-28T09:58:54.179518+00:00",
   "house": {
     "indoor_temp": 22.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 18.5,
-    "outdoor_humidity": 93.0,
+    "outdoor_temp": 19.3,
+    "outdoor_humidity": 91.0,
     "wind_speed": 0.0,
-    "wind_direction": 331.0,
-    "pressure": 1005.3,
+    "wind_direction": 336.0,
+    "pressure": 1005.0,
     "rain_today": 0.3,
-    "uv_index": 1.0,
-    "power_usage": 474.0,
+    "uv_index": 0.0,
+    "power_usage": 637.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Exec couldn’t identify a photocopier, which made for a fax-inating tech support call",
     "Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood"
   ],
-  "crew_quote": "\"Looks like it's colder outside than a curry that’s lost its spice — overcast and patchy rain! Just my luck, eh?\""
+  "crew_quote": "\"Cor, with it being 16 degrees and overcast, I reckon I could really fancy a curry today. Probably the only thing hotter than this ship's power usage!\""
 }
