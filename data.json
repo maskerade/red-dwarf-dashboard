@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-28T11:31:55.087794+00:00",
+  "timestamp": "2026-08-28T12:03:01.150427+00:00",
   "house": {
-    "indoor_temp": 22.5,
+    "indoor_temp": 22.6,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 17.7,
+    "outdoor_temp": 17.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 7.0,
-    "pressure": 1005.0,
-    "rain_today": 6.1,
-    "uv_index": 1.0,
-    "power_usage": 432.0,
+    "wind_direction": 6.0,
+    "pressure": 1005.4,
+    "rain_today": 6.4,
+    "uv_index": 0.0,
+    "power_usage": 356.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Overcast ",
+      "temp": 19.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-28",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Overcast ",
+      "temp": 20.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-28",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft's virtual intern Teams Facilitator will be late for the meeting",
     "Unsafe at any speed: AI optimists are turning cautious as safety concerns mount"
   ],
-  "crew_quote": "\"Looks like it's 22.5 degrees in here, and I can't decide if that's too hot or just perfect for a curry—either way, I'm livin' the dream!\""
+  "crew_quote": "\"With weather like this, I don't know whether to put the kettle on or dance in the rain—though I might need a curry to steady me for either!\""
 }
