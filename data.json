@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-28T19:17:10.935346+00:00",
+  "timestamp": "2026-08-28T19:48:07.489361+00:00",
   "house": {
     "indoor_temp": 22.4,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 16.8,
-    "outdoor_humidity": 95.0,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 16.1,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
     "wind_direction": 38.0,
-    "pressure": 1006.8,
+    "pressure": 1006.6,
     "rain_today": 6.4,
     "uv_index": 0.0,
-    "power_usage": 2958.0,
+    "power_usage": 494.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-08-28",
@@ -27,7 +27,7 @@
         {
           "date": "2026-08-29",
           "max": 16.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-08-30",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 15.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -69,7 +69,7 @@
         {
           "date": "2026-08-29",
           "max": 16.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-08-30",
@@ -94,5 +94,5 @@
     "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
     "Keepers of Noble Numbats to be offered a Resolute Racoon: Ubuntu 26.04.1 is coming"
   ],
-  "crew_quote": "\"Oi, with all this patchy rain, we might as well make a curry and just risk the humidity – I mean, who doesn't love a bit of soggy naan, right?\""
+  "crew_quote": "\"Fabulous weather, isn't it? I mean, if you're into mist and patchy rain, which seems a bit pedestrian – now if it were sunny like Llandudno, that would be a whole different story!\""
 }
