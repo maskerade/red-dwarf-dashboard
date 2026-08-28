@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-28T05:50:51.787751+00:00",
+  "timestamp": "2026-08-28T06:21:52.617380+00:00",
   "house": {
-    "indoor_temp": 22.4,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 15.5,
+    "indoor_temp": 22.3,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 15.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 333.0,
-    "pressure": 1006.0,
+    "wind_direction": 334.0,
+    "pressure": 1005.9,
     "rain_today": 0.3,
     "uv_index": 0.0,
-    "power_usage": 266.0,
+    "power_usage": 255.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "CRPx0 hacking service for dummies claims victim count more than quintupled",
     "Cyborg cockroaches may soon deliver life-saving drugs to disaster victims"
   ],
-  "crew_quote": "\"Ah, typical weather, ain't it? One minute it's a light rain shower, the next I'm sweating like a curry in a sauna—22.4°C, thank you very much!\""
+  "crew_quote": "\"At least in here it's a toasty 22.3°C—perfect for enjoying a curry while the weather outside is a miserable 14°C and raining, just like my life!\""
 }
