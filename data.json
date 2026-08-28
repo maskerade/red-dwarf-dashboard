@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-28T13:04:58.238763+00:00",
+  "timestamp": "2026-08-28T13:36:02.262964+00:00",
   "house": {
     "indoor_temp": 22.6,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 17.7,
-    "outdoor_humidity": 97.0,
-    "wind_speed": 1.1,
-    "wind_direction": 11.0,
-    "pressure": 1005.8,
+    "outdoor_temp": 17.5,
+    "outdoor_humidity": 96.0,
+    "wind_speed": 0.7,
+    "wind_direction": 22.0,
+    "pressure": 1005.9,
     "rain_today": 6.4,
     "uv_index": 0.0,
-    "power_usage": 407.0,
+    "power_usage": 331.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 18.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-28",
@@ -94,5 +94,5 @@
     "Microsoft preps this year's Windows 11 feature tweaks: 26H2 hits Release Preview",
     "CISA: Most exploited vulnerabilities should have been eradicated decades ago"
   ],
-  "crew_quote": "\"Ah, patchy rain nearby and a warm 22.6°C indoors! Just like my last curry—hot on the outside, with a right soggy surprise in the middle!\""
+  "crew_quote": "\"Ah, it’s like the weather’s trying to rain on my parade, but at least it’s warmer inside than my last curry disaster!\""
 }
