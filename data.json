@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-28T08:56:53.733852+00:00",
+  "timestamp": "2026-08-28T09:27:54.813733+00:00",
   "house": {
-    "indoor_temp": 22.3,
+    "indoor_temp": 22.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 17.9,
-    "outdoor_humidity": 98.0,
+    "outdoor_temp": 18.5,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
-    "wind_direction": 337.0,
-    "pressure": 1005.1,
+    "wind_direction": 331.0,
+    "pressure": 1005.3,
     "rain_today": 0.3,
-    "uv_index": 0.0,
-    "power_usage": 289.0,
+    "uv_index": 1.0,
+    "power_usage": 474.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "08:07 PM",
     "moonset": "06:21 AM"
   },
-  "metrolink": "Due to a tram fault at Cornbrook we are experiencing a delay to services on the Trafford Park Eccles Altrincham and Airport lines. We apologise for any inconvenience this may cause",
+  "metrolink": "Due to an earlier tram fault we are experiencing a delay to services on the Altrincham line. Tickets accepted on 11 15 23 25 245 248 249 250 255 256 263 281 285 286 370 371",
   "headlines": [
+    "Big Tech market power will cause UK to lose AI race, think tank warns",
     "BOFH: Schrödinger's petty cash puts us in a very awkward superposition",
     "Exec couldn’t identify a photocopier, which made for a fax-inating tech support call",
-    "Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood",
-    "Australian cops cuff alleged TeamPCP masterminds"
+    "Print management outfit PaperCut is under 0-day attack, and it’s drawing customers’ blood"
   ],
-  "crew_quote": "\"With the weather as dull as my sense of fashion today, I think I’ll just stay in and whip up a spicy curry to brighten things up—no one’s got time for patchy rain!\""
+  "crew_quote": "\"Looks like it's colder outside than a curry that’s lost its spice — overcast and patchy rain! Just my luck, eh?\""
 }
