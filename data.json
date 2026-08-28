@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-28T03:46:50.925013+00:00",
+  "timestamp": "2026-08-28T04:17:47.042219+00:00",
   "house": {
-    "indoor_temp": 22.5,
+    "indoor_temp": 22.4,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.1,
+    "outdoor_temp": 16.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 333.0,
-    "pressure": 1006.7,
+    "pressure": 1006.3,
     "rain_today": 0.3,
     "uv_index": 0.0,
-    "power_usage": 281.0,
+    "power_usage": 247.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Mist",
+      "temp": 13.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-28",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Fog",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "CRPx0 hacking service for dummies claims victim count more than quintupled",
     "Cyborg cockroaches may soon deliver life-saving drugs to disaster victims"
   ],
-  "crew_quote": "\"With all this mist, it's like being in a curry fog! Just my luck, I fancy a vindaloo and can't even see my hand in front of my face!\""
+  "crew_quote": "\"With the weather like this, I reckon it's the perfect day for a nice curry, some foggy ambiance, and a bit of lounging about — just like a lazy day on a spaceship!\""
 }
