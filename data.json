@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-28T17:44:08.206078+00:00",
+  "timestamp": "2026-08-28T18:15:07.769951+00:00",
   "house": {
-    "indoor_temp": 22.5,
+    "indoor_temp": 22.4,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 18.1,
-    "outdoor_humidity": 89.0,
-    "wind_speed": 0.4,
-    "wind_direction": 31.0,
-    "pressure": 1006.2,
+    "outdoor_temp": 17.6,
+    "outdoor_humidity": 93.0,
+    "wind_speed": 0.0,
+    "wind_direction": 32.0,
+    "pressure": 1006.4,
     "rain_today": 6.4,
     "uv_index": 0.0,
-    "power_usage": 384.0,
+    "power_usage": 368.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Light rain shower",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-28",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-28",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Mist",
+      "temp": 17.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-28",
@@ -94,5 +94,5 @@
     "US government snitch-finder pleads guilty to leaking state secrets to foreign spies",
     "Keepers of Noble Numbats to be offered a Resolute Racoon: Ubuntu 26.04.1 is coming"
   ],
-  "crew_quote": "\"Well, at least it's not as gloomy as Llandudno, but I reckon I'd still prefer curry over this weather any day!\""
+  "crew_quote": "\"Oi, the weather's patchy and the humidity's all over the shop! Let’s stay indoors with a curry and avoid the rain—until they sort out the energy crisis, of course!\""
 }
