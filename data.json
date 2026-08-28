@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-28T15:09:01.046735+00:00",
+  "timestamp": "2026-08-28T15:40:00.345000+00:00",
   "house": {
-    "indoor_temp": 22.5,
+    "indoor_temp": 22.6,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 18.0,
+    "outdoor_temp": 18.1,
     "outdoor_humidity": 90.0,
-    "wind_speed": 0.0,
-    "wind_direction": 37.0,
-    "pressure": 1006.1,
+    "wind_speed": 0.7,
+    "wind_direction": 25.0,
+    "pressure": 1005.9,
     "rain_today": 6.4,
-    "uv_index": 0.0,
-    "power_usage": 345.0,
+    "uv_index": 1.0,
+    "power_usage": 435.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it",
     "Datacenters face direct hit from China rare earth curbs, as clock runs out on escalated licensing chokeoff"
   ],
-  "crew_quote": "\"Blimey, it’s like the rain’s trying to outdo my curry vapors in here! You’d think we were in a damp old spaceship!\""
+  "crew_quote": "\"Light rain showers in Altrincham? Perfect curry weather! Just don't get it on my leather jacket, or I'll have to have a word with that showerhead!\""
 }
