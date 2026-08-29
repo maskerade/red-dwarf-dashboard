@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-29T07:41:21.236947+00:00",
+  "timestamp": "2026-08-29T08:12:16.599635+00:00",
   "house": {
     "indoor_temp": 21.9,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 16.3,
+    "outdoor_temp": 16.4,
     "outdoor_humidity": 95.0,
-    "wind_speed": 0.0,
-    "wind_direction": 165.0,
-    "pressure": 1005.9,
+    "wind_speed": 2.5,
+    "wind_direction": 208.0,
+    "pressure": 1005.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 255.0,
+    "power_usage": 278.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Mist",
+      "temp": 16.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-29",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Mist",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-29",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Mist",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-29",
@@ -94,5 +94,5 @@
     "German-Japanese researchers invent electricity-free tech that could cool datacenters",
     "AWS Route 53 DNS service reimagined...as a file system?"
   ],
-  "crew_quote": "\"It's like a curry fog out there—misting up my chances of seeing if they've really got that Xbox furniture! I mean, who needs to sit on a sofa made of virtual wood?\""
+  "crew_quote": "\"Rain's patchy, huh? Good thing I've got me curry in here to keep things spicy, unlike this overcast weather outside!\""
 }
