@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-29T01:29:12.057142+00:00",
+  "timestamp": "2026-08-29T02:00:13.313614+00:00",
   "house": {
     "indoor_temp": 22.3,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.8,
+    "outdoor_temp": 14.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 43.0,
-    "pressure": 1007.1,
+    "wind_direction": 88.0,
+    "pressure": 1006.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 264.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -37,12 +37,12 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-08-29",
-          "max": 16.0,
+          "max": 17.0,
           "min": 14.0
         },
         {
@@ -94,5 +94,5 @@
     "AWS Route 53 DNS service reimagined...as a file system?",
     "LibreOffice 26.8 is out – local first, and with no AI"
   ],
-  "crew_quote": "\"Blimey, it’s foggy in Llandudno! I mean, even my curry smells better than that thick mist!\""
+  "crew_quote": "\"Weather's about as exciting as a three-hour lecture on the history of lint, but at least it’s foggy enough to look good while I’m eating my curry!\""
 }
