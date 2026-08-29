@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-29T00:27:17.045953+00:00",
+  "timestamp": "2026-08-29T00:58:09.354712+00:00",
   "house": {
-    "indoor_temp": 22.5,
+    "indoor_temp": 22.4,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 14.2,
+    "outdoor_temp": 14.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 43.0,
-    "pressure": 1007.2,
+    "pressure": 1006.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 297.0,
+    "power_usage": 281.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AWS Route 53 DNS service reimagined...as a file system?",
     "LibreOffice 26.8 is out – local first, and with no AI"
   ],
-  "crew_quote": "\"Looks like it’s 14 degrees in Altrincham, but honestly, I’d prefer something less foggy and a bit more curry flavored, you know? Mmm, curry...\""
+  "crew_quote": "\"Blimey, it’s misty outside! Feels like the fog's trying to steal my curry smell – like I need any help being fabulous, right?\""
 }
