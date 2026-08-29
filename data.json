@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-29T12:20:23.420397+00:00",
+  "timestamp": "2026-08-29T12:51:27.938716+00:00",
   "house": {
     "indoor_temp": 22.2,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 17.2,
-    "outdoor_humidity": 95.0,
-    "wind_speed": 0.0,
+    "outdoor_temp": 17.5,
+    "outdoor_humidity": 93.0,
+    "wind_speed": 1.1,
     "wind_direction": 200.0,
-    "pressure": 1004.6,
-    "rain_today": 1.2,
+    "pressure": 1004.4,
+    "rain_today": 1.5,
     "uv_index": 1.0,
-    "power_usage": 587.0,
+    "power_usage": 491.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Light rain shower",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-29",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-29",
@@ -94,5 +94,5 @@
     "Researcher shows how Claude Code can be tricked simply by asking it to summarize a website",
     "German-Japanese researchers invent electricity-free tech that could cool datacenters"
   ],
-  "crew_quote": "\"Ah, lovely weather for a curry, isn't it? Just enough rain to keep the chips nice and soggy while I dream of Xbox furniture that won't fall apart when I sit down!\""
+  "crew_quote": "\"With this weather, I could really go for a nice curry indoors; I’d take the drizzle over the space-time continuum any day!\""
 }
