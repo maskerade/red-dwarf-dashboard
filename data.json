@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-29T08:12:16.599635+00:00",
+  "timestamp": "2026-08-29T08:43:21.247763+00:00",
   "house": {
-    "indoor_temp": 21.9,
+    "indoor_temp": 22.0,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 16.4,
+    "outdoor_temp": 16.5,
     "outdoor_humidity": 95.0,
-    "wind_speed": 2.5,
-    "wind_direction": 208.0,
-    "pressure": 1005.7,
+    "wind_speed": 0.0,
+    "wind_direction": 154.0,
+    "pressure": 1005.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 278.0,
+    "power_usage": 297.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "German-Japanese researchers invent electricity-free tech that could cool datacenters",
     "AWS Route 53 DNS service reimagined...as a file system?"
   ],
-  "crew_quote": "\"Rain's patchy, huh? Good thing I've got me curry in here to keep things spicy, unlike this overcast weather outside!\""
+  "crew_quote": "\"With the weather being patchy and me stuck in here, I reckon even the rain doesn’t want to come out—too busy resuming its job as IKEA furniture! I'll take a curry instead.\""
 }
