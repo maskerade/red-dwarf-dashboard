@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-29T20:05:32.779068+00:00",
+  "timestamp": "2026-08-29T20:36:37.532449+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 22.1,
     "indoor_humidity": 62.0,
     "outdoor_temp": 15.9,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 118.0,
-    "pressure": 1005.0,
+    "pressure": 1005.3,
     "rain_today": 1.5,
     "uv_index": 0.0,
-    "power_usage": 677.0,
+    "power_usage": 663.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -64,7 +64,7 @@
         {
           "date": "2026-08-29",
           "max": 17.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-08-30",
@@ -94,5 +94,5 @@
     "Xbox respawns IKEA furniture with gaming range",
     "Researcher shows how Claude Code can be tricked simply by asking it to summarize a website"
   ],
-  "crew_quote": "\"Ah, fog and mist, just perfect for a romantic curry night! If only the weather could deliver my takeaway too, we’d be living in the future!\""
+  "crew_quote": "\"Ah, the weather's just like my love life: a bit foggy with no sign of warmth, but at least the curry's still sizzling at a perfect 22.1 degrees!\""
 }
