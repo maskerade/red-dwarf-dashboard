@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-29T15:57:30.907759+00:00",
+  "timestamp": "2026-08-29T16:28:28.638576+00:00",
   "house": {
-    "indoor_temp": 22.1,
+    "indoor_temp": 22.0,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 16.9,
-    "outdoor_humidity": 92.0,
-    "wind_speed": 0.4,
-    "wind_direction": 208.0,
-    "pressure": 1003.7,
+    "outdoor_temp": 16.6,
+    "outdoor_humidity": 93.0,
+    "wind_speed": 0.0,
+    "wind_direction": 207.0,
+    "pressure": 1003.6,
     "rain_today": 1.5,
     "uv_index": 0.0,
-    "power_usage": 857.0,
+    "power_usage": 502.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Xbox respawns IKEA furniture with gaming range",
     "Researcher shows how Claude Code can be tricked simply by asking it to summarize a website"
   ],
-  "crew_quote": "\"Ah, nothing like a light rain shower to remind me I left my curry in the fridge—hopefully it hasn’t turned into a lovely little science experiment!\""
+  "crew_quote": "\"Great! It’s 14 degrees and raining in three places—perfect weather for a curry, mate! Nothing like a good vindaloo to warm you up... if only we had some!\""
 }
