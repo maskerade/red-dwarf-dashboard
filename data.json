@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-30T13:08:39.355944+00:00",
+  "timestamp": "2026-08-30T13:47:35.920069+00:00",
   "house": {
     "indoor_temp": 22.6,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.9,
-    "outdoor_humidity": 96.0,
-    "wind_speed": 1.4,
-    "wind_direction": 218.0,
-    "pressure": 1008.2,
-    "rain_today": 6.1,
-    "uv_index": 0.0,
-    "power_usage": 612.0,
+    "outdoor_temp": 17.3,
+    "outdoor_humidity": 95.0,
+    "wind_speed": 0.4,
+    "wind_direction": 211.0,
+    "pressure": 1008.1,
+    "rain_today": 6.3,
+    "uv_index": 1.0,
+    "power_usage": 553.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -37,12 +37,12 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-30",
-          "max": 21.0,
+          "max": 22.0,
           "min": 13.0
         },
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-08-30",
@@ -94,5 +94,5 @@
     "Startup bags $7M to build drone-interceptor-in-a-backpack systems",
     "Xbox respawns IKEA furniture with gaming range"
   ],
-  "crew_quote": "\"19 degrees and a light drizzle? Perfect curry weather! Just don’t blame me if I start a rain dance, alright?\""
+  "crew_quote": "\"Looks like it’s raining again, but don’t worry, mate, it’s just the universe trying to cool down all this hot air about private messages!\""
 }
