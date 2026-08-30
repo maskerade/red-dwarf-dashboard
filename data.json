@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-30T10:33:50.361847+00:00",
+  "timestamp": "2026-08-30T11:04:53.155604+00:00",
   "house": {
-    "indoor_temp": 22.1,
+    "indoor_temp": 22.3,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 19.4,
-    "outdoor_humidity": 83.0,
+    "outdoor_temp": 20.0,
+    "outdoor_humidity": 80.0,
     "wind_speed": 1.8,
-    "wind_direction": 140.0,
-    "pressure": 1009.0,
+    "wind_direction": 138.0,
+    "pressure": 1008.6,
     "rain_today": 5.3,
     "uv_index": 1.0,
-    "power_usage": 514.0,
+    "power_usage": 584.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Startup bags $7M to build drone-interceptor-in-a-backpack systems",
     "Xbox respawns IKEA furniture with gaming range"
   ],
-  "crew_quote": "\"Weather's about as patchy as my last haircut! At least inside, I'm keeping it a toasty 22.1°C — perfect for a curry binge, mate!\""
+  "crew_quote": "\"You know, with this patchy rain and humidity, I could really go for a nice curry—just me and a massive, steaming bowl of spice to brighten up the dreary British weather!\""
 }
