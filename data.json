@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-30T21:32:42.395064+00:00",
+  "timestamp": "2026-08-30T22:10:08.857506+00:00",
   "house": {
-    "indoor_temp": 22.7,
+    "indoor_temp": 22.6,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 14.8,
+    "outdoor_temp": 14.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 177.0,
-    "pressure": 1005.5,
-    "rain_today": 13.4,
+    "wind_direction": 151.0,
+    "pressure": 1005.2,
+    "rain_today": 16.5,
     "uv_index": 0.0,
-    "power_usage": 505.0,
+    "power_usage": 494.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AWS mumbles about its cost-busting networking tech when it should be shouting",
     "Startup bags $7M to build drone-interceptor-in-a-backpack systems"
   ],
-  "crew_quote": "\"With this fabulous weather, it’s perfect curry-making conditions! Just don’t ask me to share my secret recipe or I’ll just have to get misty-eyed over it!\""
+  "crew_quote": "\"With weather like this, it's perfect curry-eating conditions—nice and cozy at 22.6°C, unlike that dreary mist in Llandudno!\""
 }
