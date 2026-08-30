@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-30T10:02:48.932204+00:00",
+  "timestamp": "2026-08-30T10:33:50.361847+00:00",
   "house": {
-    "indoor_temp": 21.9,
+    "indoor_temp": 22.1,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 19.1,
-    "outdoor_humidity": 87.0,
-    "wind_speed": 0.0,
-    "wind_direction": 186.0,
+    "outdoor_temp": 19.4,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 1.8,
+    "wind_direction": 140.0,
     "pressure": 1009.0,
     "rain_today": 5.3,
-    "uv_index": 0.0,
-    "power_usage": 497.0,
+    "uv_index": 1.0,
+    "power_usage": 514.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-30",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-30",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-30",
@@ -94,5 +94,5 @@
     "Startup bags $7M to build drone-interceptor-in-a-backpack systems",
     "Xbox respawns IKEA furniture with gaming range"
   ],
-  "crew_quote": "\"With this sunny weather, I could really go for a nice curry, maybe even with extra spice to heat things up—unlike that mumbly AWS trying to keep things private, eh?\""
+  "crew_quote": "\"Weather's about as patchy as my last haircut! At least inside, I'm keeping it a toasty 22.1°C — perfect for a curry binge, mate!\""
 }
