@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-30T08:29:45.629806+00:00",
+  "timestamp": "2026-08-30T09:00:52.041804+00:00",
   "house": {
     "indoor_temp": 21.8,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.5,
+    "outdoor_temp": 17.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 148.0,
-    "pressure": 1009.2,
+    "wind_direction": 174.0,
+    "pressure": 1009.3,
     "rain_today": 5.3,
     "uv_index": 1.0,
-    "power_usage": 306.0,
+    "power_usage": 266.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Mist",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-08-30",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Mist",
+      "temp": 16.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-08-30",
@@ -89,10 +89,10 @@
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
+    "Turns out Brits would quite like their private messages to stay private",
     "AWS mumbles about its cost-busting networking tech when it should be shouting",
     "Startup bags $7M to build drone-interceptor-in-a-backpack systems",
-    "Xbox respawns IKEA furniture with gaming range",
-    "Researcher shows how Claude Code can be tricked simply by asking it to summarize a website"
+    "Xbox respawns IKEA furniture with gaming range"
   ],
-  "crew_quote": "\"With it being a sticky 21.8°C inside and misty outside, I reckon a nice curry would warm me up and clear the air—just like a good drone-interceptor does for those startup types!\""
+  "crew_quote": "\"Did you notice, in this fabulous 15°C sunshine, I’ve created the perfect environment for a curry? Nothing like a bit of heat to make the day spicy, eh?\""
 }
