@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-30T20:30:41.716812+00:00",
+  "timestamp": "2026-08-30T21:01:41.945227+00:00",
   "house": {
     "indoor_temp": 22.6,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 15.1,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 15.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 179.0,
-    "pressure": 1005.6,
+    "wind_direction": 203.0,
+    "pressure": 1005.5,
     "rain_today": 11.2,
     "uv_index": 0.0,
-    "power_usage": 713.0,
+    "power_usage": 494.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
+    "Debian votes to let contributors code with AI",
     "Turns out Brits would quite like their private messages to stay private",
     "AWS mumbles about its cost-busting networking tech when it should be shouting",
-    "Startup bags $7M to build drone-interceptor-in-a-backpack systems",
-    "Xbox respawns IKEA furniture with gaming range"
+    "Startup bags $7M to build drone-interceptor-in-a-backpack systems"
   ],
-  "crew_quote": "\"Blimey, it’s 14 degrees and drizzling outside—perfect weather for a curry, don’t you think? I reckon even the rain’s trying to spice things up!\""
+  "crew_quote": "\"Oi, even the weather’s as confused as me love life—14 degrees and light rain? Sounds like the perfect night for a curry and a good ol' binge on the telly!\""
 }
