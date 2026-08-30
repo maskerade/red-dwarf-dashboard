@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-30T17:24:39.180869+00:00",
+  "timestamp": "2026-08-30T17:55:39.780301+00:00",
   "house": {
     "indoor_temp": 22.6,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 16.3,
-    "outdoor_humidity": 97.0,
+    "outdoor_temp": 16.5,
+    "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 198.0,
+    "wind_direction": 169.0,
     "pressure": 1006.0,
-    "rain_today": 10.1,
+    "rain_today": 10.4,
     "uv_index": 0.0,
-    "power_usage": 632.0,
+    "power_usage": 674.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Startup bags $7M to build drone-interceptor-in-a-backpack systems",
     "Xbox respawns IKEA furniture with gaming range"
   ],
-  "crew_quote": "\"Who knew the weather could be so miserable? I'm just glad my curry's hot enough to chase away the chills—unlike that patchy rain outside!\""
+  "crew_quote": "\"Looks like it's another damp day for a curry, but I suppose it just adds a bit of flavor to the rain, eh? Just like my love life!\""
 }
