@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-08-30T22:41:08.985730+00:00",
+  "timestamp": "2026-08-30T23:12:08.808799+00:00",
   "house": {
     "indoor_temp": 22.6,
     "indoor_humidity": 63.0,
     "outdoor_temp": 14.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 152.0,
-    "pressure": 1004.9,
-    "rain_today": 17.0,
+    "wind_direction": 191.0,
+    "pressure": 1004.8,
+    "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 449.0,
+    "power_usage": 508.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Overcast ",
+      "temp": 12.0,
+      "conditions": "Fog",
       "forecast": [
-        {
-          "date": "2026-08-30",
-          "max": 19.0,
-          "min": 12.0
-        },
         {
           "date": "2026-08-31",
           "max": 16.0,
@@ -33,18 +28,18 @@
           "date": "2026-09-01",
           "max": 20.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-09-02",
+          "max": 19.0,
+          "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 13.0,
+      "conditions": "Light rain shower",
       "forecast": [
-        {
-          "date": "2026-08-30",
-          "max": 22.0,
-          "min": 13.0
-        },
         {
           "date": "2026-08-31",
           "max": 19.0,
@@ -54,6 +49,11 @@
           "date": "2026-09-01",
           "max": 21.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-09-02",
+          "max": 19.0,
+          "min": 13.0
         }
       ]
     },
@@ -61,11 +61,6 @@
       "temp": 12.0,
       "conditions": "Mist",
       "forecast": [
-        {
-          "date": "2026-08-30",
-          "max": 19.0,
-          "min": 12.0
-        },
         {
           "date": "2026-08-31",
           "max": 15.0,
@@ -75,17 +70,22 @@
           "date": "2026-09-01",
           "max": 19.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-09-02",
+          "max": 21.0,
+          "min": 13.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "06:15 AM",
-    "sunset": "08:03 PM",
+    "sunrise": "06:16 AM",
+    "sunset": "08:01 PM",
     "moon_phase": "Waning Gibbous",
-    "moon_illumination": "96",
-    "moonrise": "08:26 PM",
-    "moonset": "09:01 AM"
+    "moon_illumination": "91",
+    "moonrise": "08:37 PM",
+    "moonset": "10:24 AM"
   },
   "metrolink": "Live from Wythenshawe Park concerts take place on Fri 28th Sat 29th and Sun 30th August. Services will be busier than usual please allow extra time for travel. Visit TfGM.com for more information.",
   "headlines": [
@@ -94,5 +94,5 @@
     "AWS mumbles about its cost-busting networking tech when it should be shouting",
     "Startup bags $7M to build drone-interceptor-in-a-backpack systems"
   ],
-  "crew_quote": "\"With all this mist around, I'm thinking a nice curry is just what we need to warm us up—at least it’ll distract me from the weather, which is as exciting as watching paint dry!\""
+  "crew_quote": "\"Oi, it’s so foggy out that if it wasn’t for the smell of curry on me, I’d have thought I’d lost me way back to 12°C!\""
 }
