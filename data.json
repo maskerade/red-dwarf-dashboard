@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-31T01:18:39.079952+00:00",
+  "timestamp": "2026-08-31T01:49:39.963330+00:00",
   "house": {
     "indoor_temp": 22.2,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 13.7,
+    "outdoor_temp": 13.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 191.0,
     "pressure": 1005.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 275.0,
+    "power_usage": 255.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AWS mumbles about its cost-busting networking tech when it should be shouting",
     "Startup bags $7M to build drone-interceptor-in-a-backpack systems"
   ],
-  "crew_quote": "\"You know, with this weather, I could really do with a nice, steaming curry to brighten up the fog and drizzle. Spice up the dampness, right?\""
+  "crew_quote": "\"Oi, with this fog and drizzle outside, I’m thinking we should order a curry and have a proper indoor party — it’ll be warmer than the weather, at least!\""
 }
