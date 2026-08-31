@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-31T00:16:39.464815+00:00",
+  "timestamp": "2026-08-31T00:47:38.938076+00:00",
   "house": {
-    "indoor_temp": 22.4,
+    "indoor_temp": 22.3,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 13.6,
+    "outdoor_temp": 13.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 191.0,
-    "pressure": 1004.8,
+    "pressure": 1005.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 283.0,
+    "power_usage": 266.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AWS mumbles about its cost-busting networking tech when it should be shouting",
     "Startup bags $7M to build drone-interceptor-in-a-backpack systems"
   ],
-  "crew_quote": "\"With all this fog and rain, I'm starting to think Altrincham's turned into a curry-scented soup – foggy, warm, and just a bit spicy, like a good night out!”"
+  "crew_quote": "\"Oi, at least it’s warmer in here than that dreary fog outside! I’d rather be sweating over a curry than bogged down by all this moisture!\""
 }
