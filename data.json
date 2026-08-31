@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-31T07:47:35.548318+00:00",
+  "timestamp": "2026-08-31T08:18:35.868282+00:00",
   "house": {
     "indoor_temp": 21.7,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 16.9,
-    "outdoor_humidity": 99.0,
+    "outdoor_temp": 16.4,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 208.0,
-    "pressure": 1009.1,
+    "pressure": 1009.6,
     "rain_today": 0.0,
-    "uv_index": 2.0,
-    "power_usage": 272.0,
+    "uv_index": 0.0,
+    "power_usage": 292.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up",
     "Debian votes to let contributors code with AI"
   ],
-  "crew_quote": "\"Just my luck, the weather's as confused as me — one minute it's sunny in Overseal, the next I'm dodging light rain in Llandudno. Makes me think I should've packed more curry!\""
+  "crew_quote": "\"Alright, lads, it’s 13 degrees out there, so I reckon we could open a curry house — 'Altrincham Curry Shack' has a nice ring to it, don't you think?\""
 }
