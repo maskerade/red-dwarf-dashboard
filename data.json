@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-31T13:31:19.401930+00:00",
+  "timestamp": "2026-08-31T14:02:19.452989+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 21.9,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 18.2,
-    "outdoor_humidity": 85.0,
-    "wind_speed": 3.6,
-    "wind_direction": 124.0,
-    "pressure": 1015.2,
+    "outdoor_temp": 17.6,
+    "outdoor_humidity": 86.0,
+    "wind_speed": 4.0,
+    "wind_direction": 126.0,
+    "pressure": 1015.3,
     "rain_today": 2.8,
-    "uv_index": 0.0,
-    "power_usage": 258.0,
+    "uv_index": 1.0,
+    "power_usage": 365.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "The balkanization of virtualization will de-throne VMware, which doesn't mind a bit",
     "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up"
   ],
-  "crew_quote": "\"With patchy rain hovering around like a bad curry smell, it’s definitely not the weather for a picnic, but at least our indoor temp is perfect for a nice cup of tea, innit?\""
+  "crew_quote": "\"Well, it's a bit damp outside, but nothing a good curry can't fix! I mean, who needs a sunny day when you've got a hot plate of vindaloo?\""
 }
