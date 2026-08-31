@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-08-31T16:10:41.412032+00:00",
+  "timestamp": "2026-08-31T16:41:42.191726+00:00",
   "house": {
-    "indoor_temp": 22.0,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 16.6,
-    "outdoor_humidity": 83.0,
-    "wind_speed": 2.9,
-    "wind_direction": 145.0,
-    "pressure": 1017.0,
+    "indoor_temp": 21.9,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 16.7,
+    "outdoor_humidity": 84.0,
+    "wind_speed": 0.7,
+    "wind_direction": 138.0,
+    "pressure": 1017.2,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 460.0,
+    "power_usage": 401.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-31",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-08-31",
@@ -94,5 +94,5 @@
     "The balkanization of virtualization will de-throne VMware, which doesn't mind a bit",
     "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up"
   ],
-  "crew_quote": "\"So, it’s patchy rain everywhere and we’re sitting in here at a balmy 22 degrees. Just my luck, I’ll need a curry with a side of weather forecasting!\""
+  "crew_quote": "\"Blimey, it’s overcast outside and I’ve only got room temperature curry to cheer me up! Who’s brilliant idea was it to invent weather, anyway?\""
 }
