@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-31T02:20:40.344923+00:00",
+  "timestamp": "2026-08-31T03:03:52.616423+00:00",
   "house": {
-    "indoor_temp": 22.1,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 13.5,
+    "indoor_temp": 22.0,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 13.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 191.0,
-    "pressure": 1005.6,
+    "wind_direction": 208.0,
+    "pressure": 1005.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 278.0,
+    "power_usage": 281.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AWS mumbles about its cost-busting networking tech when it should be shouting",
     "Startup bags $7M to build drone-interceptor-in-a-backpack systems"
   ],
-  "crew_quote": "\"When it’s misty outside and the rain’s got a right go at it, I reckon I’d better make a curry or I’ll just get more miserable than a robot with a broken espresso machine!\""
+  "crew_quote": "\"With the weather being as dismal as my chances at a promotion, I think I’ll just stay inside, crank up the heat to a nice 22 degrees, and dream about curry!\""
 }
