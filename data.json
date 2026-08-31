@@ -1,64 +1,22 @@
 {
-  "timestamp": "2026-08-31T08:18:35.868282+00:00",
+  "timestamp": "2026-08-31T08:49:36.314198+00:00",
   "house": {
     "indoor_temp": 21.7,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 16.4,
+    "outdoor_temp": 16.8,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 208.0,
-    "pressure": 1009.6,
+    "wind_direction": 207.0,
+    "pressure": 1010.0,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 292.0,
+    "uv_index": 1.0,
+    "power_usage": 272.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Overcast ",
-      "forecast": [
-        {
-          "date": "2026-08-31",
-          "max": 16.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-09-01",
-          "max": 20.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-09-02",
-          "max": 19.0,
-          "min": 13.0
-        }
-      ]
-    },
-    "overseal": {
-      "temp": 13.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-08-31",
-          "max": 19.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-09-01",
-          "max": 21.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-09-02",
-          "max": 20.0,
-          "min": 14.0
-        }
-      ]
-    },
-    "llandudno": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -69,11 +27,53 @@
         {
           "date": "2026-09-01",
           "max": 19.0,
-          "min": 9.0
+          "min": 10.0
         },
         {
           "date": "2026-09-02",
-          "max": 21.0,
+          "max": 20.0,
+          "min": 13.0
+        }
+      ]
+    },
+    "overseal": {
+      "temp": 15.0,
+      "conditions": "Overcast ",
+      "forecast": [
+        {
+          "date": "2026-08-31",
+          "max": 17.0,
+          "min": 12.0
+        },
+        {
+          "date": "2026-09-01",
+          "max": 20.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-09-02",
+          "max": 20.0,
+          "min": 14.0
+        }
+      ]
+    },
+    "llandudno": {
+      "temp": 12.0,
+      "conditions": "Light rain shower",
+      "forecast": [
+        {
+          "date": "2026-08-31",
+          "max": 15.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-09-01",
+          "max": 19.0,
+          "min": 10.0
+        },
+        {
+          "date": "2026-09-02",
+          "max": 20.0,
           "min": 13.0
         }
       ]
@@ -94,5 +94,5 @@
     "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up",
     "Debian votes to let contributors code with AI"
   ],
-  "crew_quote": "\"Alright, lads, it’s 13 degrees out there, so I reckon we could open a curry house — 'Altrincham Curry Shack' has a nice ring to it, don't you think?\""
+  "crew_quote": "\"Looks like it's a bit drizzly out there while we’re cozied up at a balmy 21.7°C — perfect weather for a curry and some proper telly, eh?\""
 }
