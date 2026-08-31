@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-31T20:49:45.586392+00:00",
+  "timestamp": "2026-08-31T21:20:46.306886+00:00",
   "house": {
     "indoor_temp": 22.0,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 14.4,
-    "outdoor_humidity": 89.0,
+    "outdoor_temp": 14.0,
+    "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
     "wind_direction": 140.0,
-    "pressure": 1019.4,
+    "pressure": 1019.7,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 472.0,
+    "power_usage": 626.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -26,13 +26,13 @@
         },
         {
           "date": "2026-09-01",
-          "max": 19.0,
+          "max": 20.0,
           "min": 10.0
         },
         {
           "date": "2026-09-02",
-          "max": 20.0,
-          "min": 13.0
+          "max": 19.0,
+          "min": 12.0
         }
       ]
     },
@@ -42,18 +42,18 @@
       "forecast": [
         {
           "date": "2026-08-31",
-          "max": 18.0,
+          "max": 19.0,
           "min": 12.0
         },
         {
           "date": "2026-09-01",
-          "max": 20.0,
+          "max": 21.0,
           "min": 11.0
         },
         {
           "date": "2026-09-02",
-          "max": 20.0,
-          "min": 14.0
+          "max": 19.0,
+          "min": 13.0
         }
       ]
     },
@@ -64,16 +64,16 @@
         {
           "date": "2026-08-31",
           "max": 16.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-09-01",
           "max": 19.0,
-          "min": 10.0
+          "min": 9.0
         },
         {
           "date": "2026-09-02",
-          "max": 20.0,
+          "max": 19.0,
           "min": 13.0
         }
       ]
@@ -94,5 +94,5 @@
     "Attack hides malware in PNGs and drops custom reverse tunnel on victims' machines",
     "Broadcom pledges to lock down open source Python, Java libraries"
   ],
-  "crew_quote": "\"Ah, it’s a perfect day for a curry with this lovely indoor climate, but outside? It's just as grey and miserable as Rimmer's personality!\""
+  "crew_quote": "\"13 degrees and overcast? Brilliant! Just like my love life — dreary with a hint of warmth, but at least I’ve got a curry waiting for me!\""
 }
