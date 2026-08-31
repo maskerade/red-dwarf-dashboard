@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-31T05:43:33.335180+00:00",
+  "timestamp": "2026-08-31T06:14:33.523218+00:00",
   "house": {
     "indoor_temp": 21.8,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 12.6,
+    "outdoor_temp": 12.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 210.0,
-    "pressure": 1007.6,
+    "wind_direction": 209.0,
+    "pressure": 1008.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 261.0,
@@ -94,5 +94,5 @@
     "AWS mumbles about its cost-busting networking tech when it should be shouting",
     "Startup bags $7M to build drone-interceptor-in-a-backpack systems"
   ],
-  "crew_quote": "\"Hey, with all this fog, I could really use a curry to warm me up, but first, can we make sure my private messages don’t go swirling off like that mist?\""
+  "crew_quote": "\"Ah, it’s a perfect day for a lovely curry — just me and my thoughts, while outside it’s all fog and mist. Let’s hope the AI coding doesn’t lead to more weather disasters!\""
 }
