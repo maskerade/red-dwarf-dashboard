@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-31T22:53:48.052093+00:00",
+  "timestamp": "2026-08-31T23:24:48.045198+00:00",
   "house": {
-    "indoor_temp": 22.0,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 13.2,
-    "outdoor_humidity": 93.0,
+    "indoor_temp": 21.9,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 12.5,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
     "wind_direction": 140.0,
-    "pressure": 1019.9,
-    "rain_today": 2.8,
+    "pressure": 1020.1,
+    "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 494.0,
+    "power_usage": 334.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Attack hides malware in PNGs and drops custom reverse tunnel on victims' machines",
     "Broadcom pledges to lock down open source Python, Java libraries"
   ],
-  "crew_quote": "\"Oi, with the weather as patchy as our luck, I reckon I’ll just stay in, crank the heating to 22, and whip up a nice curry. Can’t be getting wet out there!\""
+  "crew_quote": "\"Ah, patchy rain and overcast skies—just like my love life, really. But at least indoors it's 21.9°C, perfect for a curry and a good old moan!\""
 }
