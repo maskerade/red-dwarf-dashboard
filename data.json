@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-31T19:47:44.882865+00:00",
+  "timestamp": "2026-08-31T20:18:44.945037+00:00",
   "house": {
     "indoor_temp": 22.0,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 14.7,
-    "outdoor_humidity": 88.0,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 14.6,
+    "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 157.0,
-    "pressure": 1019.0,
+    "wind_direction": 140.0,
+    "pressure": 1019.4,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 458.0,
+    "power_usage": 469.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "The balkanization of virtualization will de-throne VMware, which doesn't mind a bit",
     "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up"
   ],
-  "crew_quote": "\"With this weather, I could really go for a hot curry — I mean, why not spice up the overcast and damp? It’s not like the sun’s doing us any favors!\""
+  "crew_quote": "\"With the weather being as dreary as a day-old curry, I'm starting to wonder if the ship's just as overcast as that lot back on Earth!\""
 }
