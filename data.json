@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-31T12:29:18.513756+00:00",
+  "timestamp": "2026-08-31T13:00:22.313655+00:00",
   "house": {
-    "indoor_temp": 22.0,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 17.6,
-    "outdoor_humidity": 90.0,
-    "wind_speed": 1.8,
-    "wind_direction": 141.0,
-    "pressure": 1014.0,
+    "indoor_temp": 22.1,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 18.1,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 2.2,
+    "wind_direction": 145.0,
+    "pressure": 1014.3,
     "rain_today": 2.8,
-    "uv_index": 1.0,
-    "power_usage": 342.0,
+    "uv_index": 0.0,
+    "power_usage": 306.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 6th September no trams will operate on the Altrincham line until approx 11:00am. A bus replacement service will be in place. See TFGM.com for all service info.",
   "headlines": [
+    "From watches to passwords on paper, everything that's old is new again",
     "Energy biz SSE smacked around in court by a guy and AI",
     "The balkanization of virtualization will de-throne VMware, which doesn't mind a bit",
-    "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up",
-    "Debian votes to let contributors code with AI"
+    "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up"
   ],
-  "crew_quote": "\"Ah, a spot of light rain and a cozy 22 degrees indoors—perfect curry weather! Just keep the power on, or we'll be bathing in our own sweat while cooking!\""
+  "crew_quote": "\"I'd say it's a balmy 14°C outside, but with this rain, it feels more like a curry's gone cold and forgotten in the back of the fridge!\""
 }
