@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-31T14:38:33.522200+00:00",
+  "timestamp": "2026-08-31T15:08:40.656360+00:00",
   "house": {
-    "indoor_temp": null,
-    "indoor_humidity": null,
-    "outdoor_temp": null,
-    "outdoor_humidity": null,
-    "wind_speed": null,
-    "wind_direction": null,
-    "pressure": 1015.9,
-    "rain_today": null,
-    "uv_index": 1.0,
-    "power_usage": 514.0,
+    "indoor_temp": 22.0,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 17.8,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 1.1,
+    "wind_direction": 139.0,
+    "pressure": 1016.4,
+    "rain_today": 2.8,
+    "uv_index": 0.0,
+    "power_usage": 427.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -21,7 +21,7 @@
       "forecast": [
         {
           "date": "2026-08-31",
-          "max": 15.0,
+          "max": 16.0,
           "min": 11.0
         },
         {
@@ -37,12 +37,12 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-31",
-          "max": 17.0,
+          "max": 18.0,
           "min": 12.0
         },
         {
@@ -58,12 +58,12 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-31",
-          "max": 15.0,
+          "max": 16.0,
           "min": 10.0
         },
         {
@@ -94,5 +94,5 @@
     "The balkanization of virtualization will de-throne VMware, which doesn't mind a bit",
     "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up"
   ],
-  "crew_quote": "\"With patchy rain everywhere, it’s the perfect weather for a nice curry — just don’t ask me to cook it, I’m still recovering from the last one!\""
+  "crew_quote": "\"Ah, patchy rain nearby, just like my love life—always wet and never quite what I hoped for! I reckon a good curry would brighten this gloomy weather, wouldn't it?\""
 }
