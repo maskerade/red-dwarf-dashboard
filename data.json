@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-08-31T13:00:22.313655+00:00",
+  "timestamp": "2026-08-31T13:31:19.401930+00:00",
   "house": {
-    "indoor_temp": 22.1,
+    "indoor_temp": 22.0,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 18.1,
-    "outdoor_humidity": 88.0,
-    "wind_speed": 2.2,
-    "wind_direction": 145.0,
-    "pressure": 1014.3,
+    "outdoor_temp": 18.2,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 3.6,
+    "wind_direction": 124.0,
+    "pressure": 1015.2,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 306.0,
+    "power_usage": 258.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Light rain shower",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-08-31",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "The balkanization of virtualization will de-throne VMware, which doesn't mind a bit",
     "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up"
   ],
-  "crew_quote": "\"I'd say it's a balmy 14°C outside, but with this rain, it feels more like a curry's gone cold and forgotten in the back of the fridge!\""
+  "crew_quote": "\"With patchy rain hovering around like a bad curry smell, it’s definitely not the weather for a picnic, but at least our indoor temp is perfect for a nice cup of tea, innit?\""
 }
