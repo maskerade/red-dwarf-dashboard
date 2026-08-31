@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-08-31T10:22:38.901266+00:00",
+  "timestamp": "2026-08-31T10:53:40.058628+00:00",
   "house": {
-    "indoor_temp": 21.9,
-    "indoor_humidity": 61.0,
+    "indoor_temp": 22.0,
+    "indoor_humidity": 62.0,
     "outdoor_temp": 17.0,
     "outdoor_humidity": 99.0,
-    "wind_speed": 4.3,
-    "wind_direction": 158.0,
-    "pressure": 1011.8,
+    "wind_speed": 1.8,
+    "wind_direction": 149.0,
+    "pressure": 1012.2,
     "rain_today": 2.8,
-    "uv_index": 0.0,
-    "power_usage": 550.0,
+    "uv_index": 1.0,
+    "power_usage": 1590.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Who, me? Techie with three months' experience was sent in as the Cisco expert and proceeded to blow everything up",
     "Debian votes to let contributors code with AI"
   ],
-  "crew_quote": "\"I could really go for a curry right now — perfect weather for it! But with this light rain, it’s like the universe is saying, ‘Stay indoors and enjoy the warmth!’\""
+  "crew_quote": "\"Looks like it’s colder outside than my last curry hangover, but at least in here we can pretend it’s a tropical paradise—complete with patchy rain atmosphere!\""
 }
