@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-01T06:07:54.728031+00:00",
+  "timestamp": "2026-09-01T06:38:55.041140+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.1,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 10.1,
-    "outdoor_humidity": 99.0,
+    "outdoor_temp": 12.1,
+    "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 102.0,
-    "pressure": 1020.5,
+    "wind_direction": 100.0,
+    "pressure": 1020.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 281.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 10.0,
-      "conditions": "Overcast ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-01",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 11.0,
-      "conditions": "Clear ",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-01",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 9.0,
-      "conditions": "Mist",
+      "temp": 10.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-01",
@@ -94,5 +94,5 @@
     "Healthcare cyberattacks hit pacemakers and millions of patient records",
     "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD"
   ],
-  "crew_quote": "\"Ah, perfect curry weather! I love how it’s a bit misty out — just means I’ll have to use more garlic to keep the zombies away!\""
+  "crew_quote": "\"Blimey, with the weather being all over the place, I reckon a good curry could heat things up—especially if it's as cold as a computer’s heart!\""
 }
