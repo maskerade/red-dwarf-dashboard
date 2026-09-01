@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-01T00:57:49.626442+00:00",
+  "timestamp": "2026-09-01T01:28:50.597514+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 11.7,
+    "outdoor_temp": 11.6,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 140.0,
-    "pressure": 1020.1,
+    "wind_direction": 139.0,
+    "pressure": 1020.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 292.0,
+    "power_usage": 272.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Attack hides malware in PNGs and drops custom reverse tunnel on victims' machines",
     "Broadcom pledges to lock down open source Python, Java libraries"
   ],
-  "crew_quote": "\"Ah, lovely weather for a curry! Just patchy rain and a brisk 12°C—perfect for a cozy night in with a dodgy takeaway and not a care in the universe!\""
+  "crew_quote": "\"With all this patchy rain, I might as well just fry a curry and pretend I'm in a nice, warm Indian monsoon rather than this damp, miserable excuse for weather!\""
 }
