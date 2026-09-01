@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-01T02:30:51.131264+00:00",
+  "timestamp": "2026-09-01T03:01:51.659231+00:00",
   "house": {
     "indoor_temp": 21.5,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 11.0,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 10.8,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 113.0,
+    "wind_direction": 112.0,
     "pressure": 1020.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 266.0,
+    "power_usage": 354.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Healthcare cyberattacks hit pacemakers and millions of patient records",
     "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD"
   ],
-  "crew_quote": "\"Clear skies and a cozy 21.5°C indoors? It's almost good enough to make me forget about that dodgy curry I had last week!\""
+  "crew_quote": "\"Blimey, with the indoor temps like this, I could boil a curry and still crack open a cold one—perfect conditions for a proper sit-down!\""
 }
