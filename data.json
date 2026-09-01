@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-01T07:40:56.575551+00:00",
+  "timestamp": "2026-09-01T08:11:56.725119+00:00",
   "house": {
     "indoor_temp": 21.1,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 16.4,
-    "outdoor_humidity": 81.0,
+    "outdoor_temp": 16.9,
+    "outdoor_humidity": 80.0,
     "wind_speed": 0.0,
-    "wind_direction": 96.0,
-    "pressure": 1020.9,
+    "wind_direction": 99.0,
+    "pressure": 1021.0,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 278.0,
+    "power_usage": 281.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 14.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-01",
@@ -26,19 +26,19 @@
         },
         {
           "date": "2026-09-02",
-          "max": 19.0,
-          "min": 12.0
+          "max": 18.0,
+          "min": 13.0
         },
         {
           "date": "2026-09-03",
-          "max": 21.0,
-          "min": 15.0
+          "max": 20.0,
+          "min": 14.0
         }
       ]
     },
     "overseal": {
-      "temp": 11.0,
-      "conditions": "Overcast ",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-01",
@@ -47,7 +47,7 @@
         },
         {
           "date": "2026-09-02",
-          "max": 19.0,
+          "max": 18.0,
           "min": 13.0
         },
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-01",
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-09-02",
-          "max": 19.0,
+          "max": 20.0,
           "min": 13.0
         },
         {
           "date": "2026-09-03",
-          "max": 21.0,
-          "min": 16.0
+          "max": 20.0,
+          "min": 14.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Nvidia is building an IP licensing empire on the back of NVLink",
     "Healthcare cyberattacks hit pacemakers and millions of patient records"
   ],
-  "crew_quote": "\"Ah, the weather's as sunny as my future with curry; at least inside it's a toasty 21.1°C – perfect for a good old-fashioned binge-watch!\""
+  "crew_quote": "\"With all this overcast weather, I think we should celebrate with a nice curry — nothing like a bit of spice to brighten up a dull day!\""
 }
