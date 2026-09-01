@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-01T09:13:57.854209+00:00",
+  "timestamp": "2026-09-01T09:44:59.351420+00:00",
   "house": {
-    "indoor_temp": 21.4,
+    "indoor_temp": 21.7,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 16.6,
+    "outdoor_temp": 17.4,
     "outdoor_humidity": 80.0,
     "wind_speed": 0.0,
     "wind_direction": 109.0,
-    "pressure": 1020.8,
+    "pressure": 1020.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 491.0,
+    "power_usage": 536.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 16.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-01",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 6th September no trams will operate on the Altrincham line until approx 11:00am. A bus replacement service will be in place. See TFGM.com for all service info.",
   "headlines": [
+    "Next bus to Altrincham delayed by Windows Defender",
     "The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten",
     "If hardware price squeezes make you sad, VMware says it will all end in tiers",
-    "AI adoption at work is broad but shallow",
-    "Nvidia is building an IP licensing empire on the back of NVLink"
+    "AI adoption at work is broad but shallow"
   ],
-  "crew_quote": "\"Well, isn’t it just lovely? The weather’s as confused as a cat in a dog show, and I can't believe I’m stuck inside when it's sunny out—pass me a curry, I’m not going outside!\""
+  "crew_quote": "\"Ah, perfect weather for a curry, but with all this power usage, we'll be lucky if the next bus to Altrincham doesn't short-circuit before it even gets here!\""
 }
