@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-01T10:46:59.749982+00:00",
+  "timestamp": "2026-09-01T11:17:59.762708+00:00",
   "house": {
-    "indoor_temp": 22.2,
+    "indoor_temp": 22.3,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 19.2,
-    "outdoor_humidity": 70.0,
-    "wind_speed": 0.0,
-    "wind_direction": 111.0,
-    "pressure": 1020.2,
+    "outdoor_temp": 19.7,
+    "outdoor_humidity": 69.0,
+    "wind_speed": 0.7,
+    "wind_direction": 115.0,
+    "pressure": 1020.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 547.0,
+    "power_usage": 488.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-01",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 19.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Sunny",
+      "temp": 19.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-01",
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 6th September no trams will operate on the Altrincham line until approx 11:00am. A bus replacement service will be in place. See TFGM.com for all service info.",
   "headlines": [
+    "Windows 11 misses the pointer while Defender cries wolf",
     "Insider: Red Hat is capping devs' bot budgets",
     "AWS: DuckDB will provide 'connective tissue' across the data estate",
-    "Next bus to Altrincham delayed by Windows Defender",
-    "The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten"
+    "Next bus to Altrincham delayed by Windows Defender"
   ],
-  "crew_quote": "\"With this lovely 16 degrees outside, I reckon I could really fancy a curry while lounging in the sun—assuming I can keep Rimmer from chatting about his precious budget cuts!\""
+  "crew_quote": "\"Looks like the weather's as confused as a cat in a dog show—it's sunny here but just a smidge of rain nearby. Now, where's my curry and a pint?\""
 }
