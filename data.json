@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-01T11:17:59.762708+00:00",
+  "timestamp": "2026-09-01T11:49:01.301443+00:00",
   "house": {
-    "indoor_temp": 22.3,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 19.7,
-    "outdoor_humidity": 69.0,
-    "wind_speed": 0.7,
-    "wind_direction": 115.0,
+    "indoor_temp": 22.2,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 20.0,
+    "outdoor_humidity": 68.0,
+    "wind_speed": 0.4,
+    "wind_direction": 104.0,
     "pressure": 1020.3,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 488.0,
+    "uv_index": 1.0,
+    "power_usage": 528.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AWS: DuckDB will provide 'connective tissue' across the data estate",
     "Next bus to Altrincham delayed by Windows Defender"
   ],
-  "crew_quote": "\"Looks like the weather's as confused as a cat in a dog show—it's sunny here but just a smidge of rain nearby. Now, where's my curry and a pint?\""
+  "crew_quote": "\"With it being a lovely 19°C outside, I think I’ll skip the curry tonight and just admire my reflection instead. Gotta keep my fabulousness intact, you know!\""
 }
