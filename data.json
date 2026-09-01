@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-01T15:26:04.031127+00:00",
+  "timestamp": "2026-09-01T15:57:05.280640+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 22.1,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 20.2,
-    "outdoor_humidity": 68.0,
-    "wind_speed": 0.4,
-    "wind_direction": 109.0,
-    "pressure": 1019.7,
+    "outdoor_temp": 19.9,
+    "outdoor_humidity": 67.0,
+    "wind_speed": 0.0,
+    "wind_direction": 112.0,
+    "pressure": 1020.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 455.0,
+    "power_usage": 441.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -26,12 +26,12 @@
         },
         {
           "date": "2026-09-02",
-          "max": 18.0,
+          "max": 17.0,
           "min": 13.0
         },
         {
           "date": "2026-09-03",
-          "max": 20.0,
+          "max": 21.0,
           "min": 14.0
         }
       ]
@@ -94,5 +94,5 @@
     "The Gentlemen come calling as Nutex confirms sensitive data theft",
     "33-hour BGP hijack of Softaculous traffic prompts security scramble"
   ],
-  "crew_quote": "\"With that weather, I reckon a nice curry would do the trick, but at least we won't have to worry about the humidity ruining my hair!\""
+  "crew_quote": "\"Weather's more confused than Rimmer on a good day—19 degrees and light rain? Might as well set the curry to boil; that's how I like my evenings!\""
 }
