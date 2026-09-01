@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-01T14:24:03.014842+00:00",
+  "timestamp": "2026-09-01T14:55:03.579609+00:00",
   "house": {
-    "indoor_temp": 21.8,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 19.1,
-    "outdoor_humidity": 79.0,
+    "indoor_temp": 22.0,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 19.9,
+    "outdoor_humidity": 74.0,
     "wind_speed": 0.0,
-    "wind_direction": 124.0,
-    "pressure": 1020.1,
+    "wind_direction": 115.0,
+    "pressure": 1019.9,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 531.0,
+    "uv_index": 0.0,
+    "power_usage": 449.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "The Gentlemen come calling as Nutex confirms sensitive data theft",
     "33-hour BGP hijack of Softaculous traffic prompts security scramble"
   ],
-  "crew_quote": "\"With this weather, I might as well keep my curry dreams alive indoors at a cozy 21.8°C, since it’s not like I can count on the skies to deliver anything but gloom!\""
+  "crew_quote": "\"Looks like Altrincham's got that lovely 18°C drizzle, perfect for a curry night—nothing like a bit of rain to really bring out the flavor!\""
 }
