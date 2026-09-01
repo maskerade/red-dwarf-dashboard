@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-01T17:30:07.978094+00:00",
+  "timestamp": "2026-09-01T18:01:07.249188+00:00",
   "house": {
     "indoor_temp": 21.9,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 18.8,
+    "outdoor_temp": 18.5,
     "outdoor_humidity": 73.0,
     "wind_speed": 0.0,
-    "wind_direction": 109.0,
+    "wind_direction": 118.0,
     "pressure": 1019.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 452.0,
+    "power_usage": 382.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Microsoft and AWS build the multicloud bridge they said customers barely needed",
     "ESA's Cluster quartet prepares for its final Tango"
   ],
-  "crew_quote": "\"Oi, with the weather like this, I could do with a curry and a bit of that '90s nostalgia—not that I'd ever waste time on an old OS instead of a good beer!\""
+  "crew_quote": "\"I'm feeling a bit overcast today, but that’s just the muggy air. Fancy a curry? Nothing like a bit of spice to brighten the mood, even if the weather’s a bit patchy!\""
 }
