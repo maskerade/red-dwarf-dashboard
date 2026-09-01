@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-01T04:34:52.927441+00:00",
+  "timestamp": "2026-09-01T05:05:53.713330+00:00",
   "house": {
     "indoor_temp": 21.3,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 10.2,
-    "outdoor_humidity": 98.0,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 10.0,
+    "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 107.0,
-    "pressure": 1020.2,
+    "pressure": 1020.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 264.0,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 10.0,
-      "conditions": "Clear ",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-01",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 9.0,
-      "conditions": "Clear ",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-09-01",
@@ -94,5 +94,5 @@
     "Healthcare cyberattacks hit pacemakers and millions of patient records",
     "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD"
   ],
-  "crew_quote": "\"Well, why bother with the outside world when we can keep the ship at a toasty 21.3°C? It's perfect for a curry, and who cares about AI when I've got my chips!\""
+  "crew_quote": "\"With mist in Llandudno and a cozy 21.3°C inside, I say we forget about the world and whip up a curry! Perfect weather for lounging around, not for working with those AI things!\""
 }
