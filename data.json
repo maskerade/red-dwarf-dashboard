@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-01T09:44:59.351420+00:00",
+  "timestamp": "2026-09-01T10:15:58.440194+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 22.0,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 17.4,
-    "outdoor_humidity": 80.0,
+    "outdoor_temp": 18.8,
+    "outdoor_humidity": 74.0,
     "wind_speed": 0.0,
-    "wind_direction": 109.0,
-    "pressure": 1020.7,
+    "wind_direction": 176.0,
+    "pressure": 1020.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 536.0,
+    "power_usage": 547.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 6th September no trams will operate on the Altrincham line until approx 11:00am. A bus replacement service will be in place. See TFGM.com for all service info.",
   "headlines": [
+    "AWS: DuckDB will provide 'connective tissue' across the data estate",
     "Next bus to Altrincham delayed by Windows Defender",
     "The teen Bill Gates has answers to the AI-pocalypse the 70-year-old Gates has forgotten",
-    "If hardware price squeezes make you sad, VMware says it will all end in tiers",
-    "AI adoption at work is broad but shallow"
+    "If hardware price squeezes make you sad, VMware says it will all end in tiers"
   ],
-  "crew_quote": "\"Ah, perfect weather for a curry, but with all this power usage, we'll be lucky if the next bus to Altrincham doesn't short-circuit before it even gets here!\""
+  "crew_quote": "\"With all this lovely sun, I could go for a curry right now—just me, my favorite takeaway, and the anticipation of the Next bus to Altrincham being delayed by some daft software!\""
 }
