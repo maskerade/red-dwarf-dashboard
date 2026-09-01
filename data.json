@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-01T05:36:54.085161+00:00",
+  "timestamp": "2026-09-01T06:07:54.728031+00:00",
   "house": {
     "indoor_temp": 21.2,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 9.9,
+    "outdoor_temp": 10.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 106.0,
-    "pressure": 1020.4,
+    "wind_direction": 102.0,
+    "pressure": 1020.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 292.0,
+    "power_usage": 272.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Healthcare cyberattacks hit pacemakers and millions of patient records",
     "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD"
   ],
-  "crew_quote": "\"Well, at least inside it’s warmer than the 10°C in Altrincham. If only we could find a curry that could improve the weather—now that would be proper science!\""
+  "crew_quote": "\"Ah, perfect curry weather! I love how it’s a bit misty out — just means I’ll have to use more garlic to keep the zombies away!\""
 }
