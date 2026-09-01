@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-01T11:49:01.301443+00:00",
+  "timestamp": "2026-09-01T12:20:01.888619+00:00",
   "house": {
-    "indoor_temp": 22.2,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 20.0,
-    "outdoor_humidity": 68.0,
-    "wind_speed": 0.4,
-    "wind_direction": 104.0,
-    "pressure": 1020.3,
+    "indoor_temp": 21.9,
+    "indoor_humidity": 56.0,
+    "outdoor_temp": 20.4,
+    "outdoor_humidity": 69.0,
+    "wind_speed": 0.0,
+    "wind_direction": 113.0,
+    "pressure": 1020.2,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 528.0,
+    "power_usage": 399.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 6th September no trams will operate on the Altrincham line until approx 11:00am. A bus replacement service will be in place. See TFGM.com for all service info.",
   "headlines": [
+    "33-hour BGP hijack of Softaculous traffic prompts security scramble",
     "Windows 11 misses the pointer while Defender cries wolf",
     "Insider: Red Hat is capping devs' bot budgets",
-    "AWS: DuckDB will provide 'connective tissue' across the data estate",
-    "Next bus to Altrincham delayed by Windows Defender"
+    "AWS: DuckDB will provide 'connective tissue' across the data estate"
   ],
-  "crew_quote": "\"With it being a lovely 19°C outside, I think I’ll skip the curry tonight and just admire my reflection instead. Gotta keep my fabulousness intact, you know!\""
+  "crew_quote": "\"With the weather like this, I’d say it’s a perfect day for a spicy curry, unless of course, the computer decides to crash like Windows 11 at the last minute!\""
 }
