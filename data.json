@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-01T19:34:08.080160+00:00",
+  "timestamp": "2026-09-01T20:05:07.991414+00:00",
   "house": {
     "indoor_temp": 21.8,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 16.7,
-    "outdoor_humidity": 82.0,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 16.5,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 202.0,
+    "wind_direction": 195.0,
     "pressure": 1020.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 539.0,
+    "power_usage": 531.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Microsoft and AWS build the multicloud bridge they said customers barely needed",
     "ESA's Cluster quartet prepares for its final Tango"
   ],
-  "crew_quote": "\"Well, it's about as exciting as a soggy jacket potato outside, but at least it’s warm enough in here for a good curry – I’m thinking chicken vindaloo tonight!\""
+  "crew_quote": "\"With this overcast weather, I reckon the best way to spice up 17°C is with a proper curry — what do you think, Kryten? Or should we just reminisce about those glorious '90s games?\""
 }
