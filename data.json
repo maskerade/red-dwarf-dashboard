@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-02T01:46:14.132324+00:00",
+  "timestamp": "2026-09-02T02:17:14.529370+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.6,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 13.4,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 128.0,
-    "pressure": 1019.8,
+    "wind_direction": 156.0,
+    "pressure": 1019.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 272.0,
@@ -94,5 +94,5 @@
     "Firefox helps iPhone users bypass ads on web sites while making money showing its own ads",
     "Anthropic pledges to try harder to keep models under control, asks partners to chip in"
   ],
-  "crew_quote": "\"Foggy out there, isn't it? Just like my chances of getting a decent curry with Rimmer always trying to spoil my orders with his ridiculous ideas!\""
+  "crew_quote": "\"With all this fog and mist outside, I’d say it’s a perfect day for some hot curry! Just as long as no one steals my METR key while I'm at it!\""
 }
