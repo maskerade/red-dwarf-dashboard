@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-02T22:57:35.258680+00:00",
+  "timestamp": "2026-09-02T23:28:35.570630+00:00",
   "house": {
     "indoor_temp": 21.8,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 16.8,
+    "outdoor_temp": 16.9,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 293.0,
-    "pressure": 1014.5,
-    "rain_today": 1.8,
+    "wind_direction": 61.0,
+    "pressure": 1014.6,
+    "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 477.0,
+    "power_usage": 404.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 6th September no trams will operate on the Altrincham line until approx 11:00am. A bus replacement service will be in place. See TFGM.com for all service info.",
   "headlines": [
-    "SonicWall's SMA1000 boxes under active attack again",
-    "Microsoft will stop finishing your sentences in Word and Outlook",
-    "NASA's Swift shortens orbital lifetime for the sake of science",
-    "Firefox and Thunderbird hit the fortnightly release treadmill"
+    "Zuck's Muse to Spark joy with open weights release 'soon'",
+    "VMware swings its focus back to low-end server virt, promises vSphere Standard upgrade",
+    "Claude Mythos only model to complete full cyber kill chain, experts say",
+    "Microsoft devs rejoice: Union types coming to C# in November"
   ],
-  "crew_quote": "\"16 degrees and overcast, eh? Sounds like the perfect weather for a nice curry — maybe with a side of fog to really spice things up!\""
+  "crew_quote": "\"Fancy a curry, just as long as we can cook it indoors with this humidity! I mean, who wants to deal with fog when you can have a proper spice explosion, eh?\""
 }
