@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-02T20:53:33.214966+00:00",
+  "timestamp": "2026-09-02T21:24:33.499272+00:00",
   "house": {
     "indoor_temp": 21.7,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 17.5,
-    "outdoor_humidity": 96.0,
+    "outdoor_temp": 17.1,
+    "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 272.0,
-    "pressure": 1014.5,
+    "wind_direction": 80.0,
+    "pressure": 1014.9,
     "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 567.0,
+    "power_usage": 547.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-02",
@@ -27,18 +27,18 @@
         {
           "date": "2026-09-03",
           "max": 22.0,
-          "min": 16.0
+          "min": 14.0
         },
         {
           "date": "2026-09-04",
-          "max": 19.0,
+          "max": 18.0,
           "min": 13.0
         }
       ]
     },
     "overseal": {
       "temp": 17.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-02",
@@ -52,14 +52,14 @@
         },
         {
           "date": "2026-09-04",
-          "max": 20.0,
-          "min": 12.0
+          "max": 19.0,
+          "min": 13.0
         }
       ]
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Fog",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-02",
@@ -69,11 +69,11 @@
         {
           "date": "2026-09-03",
           "max": 20.0,
-          "min": 16.0
+          "min": 14.0
         },
         {
           "date": "2026-09-04",
-          "max": 18.0,
+          "max": 17.0,
           "min": 12.0
         }
       ]
@@ -94,5 +94,5 @@
     "NASA's Swift shortens orbital lifetime for the sake of science",
     "Firefox and Thunderbird hit the fortnightly release treadmill"
   ],
-  "crew_quote": "\"Oi, it's 21.7°C in here and nearly perfect for a curry! Let’s make it a cozy night instead of worrying about SonicWall getting mugged again!\""
+  "crew_quote": "\"With all this patchy rain, it's a perfect day for a curry, isn’t it? Just remember, lads, if the weather's dull, the food's gotta be spicy!\""
 }
