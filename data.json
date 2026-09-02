@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-02T13:39:26.042362+00:00",
+  "timestamp": "2026-09-02T14:10:26.082445+00:00",
   "house": {
-    "indoor_temp": 21.8,
+    "indoor_temp": 21.7,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 17.8,
-    "outdoor_humidity": 93.0,
-    "wind_speed": 5.4,
-    "wind_direction": 275.0,
-    "pressure": 1015.7,
+    "outdoor_temp": 18.0,
+    "outdoor_humidity": 92.0,
+    "wind_speed": 0.0,
+    "wind_direction": 49.0,
+    "pressure": 1015.5,
     "rain_today": 1.5,
-    "uv_index": 1.0,
-    "power_usage": 359.0,
+    "uv_index": 0.0,
+    "power_usage": 314.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 6th September no trams will operate on the Altrincham line until approx 11:00am. A bus replacement service will be in place. See TFGM.com for all service info.",
   "headlines": [
+    "Offshoots of cancelled TrueNAS Core upgrade to FreeBSD 15",
     "Anthropic hires architect of UK AI policy as MPs warn of 'clear conflict of interest'",
     "Next-gen AI networks may hinge on the telephone switchboard's return",
-    "Microsoft update disarms Outlook and Teams on Arm PCs",
-    "A cloud engineer walked into a bar and – no joke – ended up having to migrate a datacenter"
+    "Microsoft update disarms Outlook and Teams on Arm PCs"
   ],
-  "crew_quote": "\"With rain dancing nearby and the indoor chill at 21.8°C, I reckon it's a perfect day for a curry — just don't let the Cat see it; it'll be a fashion disaster!\""
+  "crew_quote": "\"It’s a perfect day for a curry, under this lovely 21.7°C—just keep the rain away! I’m not keen on soggy nutters.\""
 }
