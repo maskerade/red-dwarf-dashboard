@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-02T21:55:33.815688+00:00",
+  "timestamp": "2026-09-02T22:26:34.234236+00:00",
   "house": {
     "indoor_temp": 21.8,
     "indoor_humidity": 63.0,
     "outdoor_temp": 17.2,
     "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 80.0,
-    "pressure": 1014.8,
+    "wind_direction": 82.0,
+    "pressure": 1014.4,
     "rain_today": 1.8,
     "uv_index": 0.0,
     "power_usage": 455.0,
@@ -94,5 +94,5 @@
     "NASA's Swift shortens orbital lifetime for the sake of science",
     "Firefox and Thunderbird hit the fortnightly release treadmill"
   ],
-  "crew_quote": "\"Well, it’s 16 degrees out there and overcast—perfect weather for a nice, hot curry! Can't believe it’s going to rain too; I’ll need a brolly for my takeaway!\""
+  "crew_quote": "\"Oi, I don't care if it's 21.8°C inside, I've got to endure the patchy rain outside — how's a bloke supposed to enjoy his curry with weather like this?\""
 }
