@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-02T19:20:31.553901+00:00",
+  "timestamp": "2026-09-02T19:51:32.124553+00:00",
   "house": {
-    "indoor_temp": 21.6,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 18.0,
-    "outdoor_humidity": 95.0,
+    "indoor_temp": 21.7,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 17.9,
+    "outdoor_humidity": 94.0,
     "wind_speed": 0.0,
-    "wind_direction": 74.0,
-    "pressure": 1014.4,
+    "wind_direction": 180.0,
+    "pressure": 1014.5,
     "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 3144.0,
+    "power_usage": 567.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-02",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 16.0,
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-09-02",
@@ -94,5 +94,5 @@
     "NASA's Swift shortens orbital lifetime for the sake of science",
     "Firefox and Thunderbird hit the fortnightly release treadmill"
   ],
-  "crew_quote": "\"Looks like it's 21.6 degrees in here, which is great, but if it gets any hotter, I might just have to whip up a curry to cool down; that's just basic science, that is!\""
+  "crew_quote": "\"Oh, just your typical British day—patchy rain and fog! If it gets too humid in here, I might start sweating out all the curry I had for breakfast!\""
 }
