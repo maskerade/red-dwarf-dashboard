@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-02T04:21:17.091657+00:00",
+  "timestamp": "2026-09-02T04:52:16.846664+00:00",
   "house": {
     "indoor_temp": 21.4,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.6,
+    "outdoor_temp": 13.7,
     "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
     "wind_direction": 152.0,
-    "pressure": 1018.8,
+    "pressure": 1018.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 309.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Anthropic promises zero data retention – but customers must check it worked",
     "Another Artifactory CVE under attack by AI agents or humans"
   ],
-  "crew_quote": "\"With this mist, it’s like someone’s turned the universe’s fog machine on! Now if only I could find a curry that doesn’t get lost in it too.\""
+  "crew_quote": "\"Well, with all this fog, it’s a good thing I’m not planning on stepping outside. It’s not like I could find a decent curry in this miserable weather anyway!\""
 }
