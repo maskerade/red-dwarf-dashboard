@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-02T03:50:16.741106+00:00",
+  "timestamp": "2026-09-02T04:21:17.091657+00:00",
   "house": {
     "indoor_temp": 21.4,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.4,
+    "outdoor_temp": 13.6,
     "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 153.0,
-    "pressure": 1019.0,
+    "wind_direction": 152.0,
+    "pressure": 1018.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 289.0,
+    "power_usage": 309.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Mist",
       "forecast": [
         {
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 13.0,
-      "conditions": "Clear ",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-02",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 13.0,
       "conditions": "Fog",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Anthropic promises zero data retention – but customers must check it worked",
     "Another Artifactory CVE under attack by AI agents or humans"
   ],
-  "crew_quote": "\"Ah, the weather's as confusing as the last time I tried to cook a curry — misty in Altrincham and clear in Overseal! Must be the universe's way of telling me to order takeout instead!\""
+  "crew_quote": "\"With this mist, it’s like someone’s turned the universe’s fog machine on! Now if only I could find a curry that doesn’t get lost in it too.\""
 }
