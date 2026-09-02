@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-02T15:43:28.256958+00:00",
+  "timestamp": "2026-09-02T16:14:28.806470+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.6,
     "indoor_humidity": 61.0,
     "outdoor_temp": 18.3,
-    "outdoor_humidity": 95.0,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 286.0,
-    "pressure": 1014.7,
+    "wind_direction": 83.0,
+    "pressure": 1014.4,
     "rain_today": 1.5,
     "uv_index": 0.0,
-    "power_usage": 309.0,
+    "power_usage": 314.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Firefox and Thunderbird hit the fortnightly release treadmill",
     "Legacy Lenovo login opens 5,000 Dropbox accounts to attackers"
   ],
-  "crew_quote": "\"With this patchy rain and overcast skies, it’s just perfect curry weather, innit? Just what I need to fuel my genius and plot world domination—starting with seconds!\""
+  "crew_quote": "\"Blimey, it's a right muggy day! At least it’s warmer indoors, but I could still do with a nice curry to spice things up — maybe a bit of rain will help with the flavors!\""
 }
