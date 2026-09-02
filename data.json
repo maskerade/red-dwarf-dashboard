@@ -1,43 +1,43 @@
 {
-  "timestamp": "2026-09-02T06:56:19.408843+00:00",
+  "timestamp": "2026-09-02T07:27:19.686725+00:00",
   "house": {
     "indoor_temp": 21.3,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 14.3,
-    "outdoor_humidity": 97.0,
+    "outdoor_temp": 14.6,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 164.0,
+    "wind_direction": 178.0,
     "pressure": 1019.1,
-    "rain_today": 0.0,
+    "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 306.0,
+    "power_usage": 297.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Mist",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-02",
           "max": 17.0,
-          "min": 11.0
+          "min": 13.0
         },
         {
           "date": "2026-09-03",
-          "max": 21.0,
-          "min": 14.0
+          "max": 22.0,
+          "min": 16.0
         },
         {
           "date": "2026-09-04",
-          "max": 16.0,
+          "max": 19.0,
           "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -52,7 +52,7 @@
         },
         {
           "date": "2026-09-04",
-          "max": 18.0,
+          "max": 20.0,
           "min": 12.0
         }
       ]
@@ -63,17 +63,17 @@
       "forecast": [
         {
           "date": "2026-09-02",
-          "max": 19.0,
+          "max": 18.0,
           "min": 12.0
         },
         {
           "date": "2026-09-03",
-          "max": 21.0,
-          "min": 15.0
+          "max": 20.0,
+          "min": 16.0
         },
         {
           "date": "2026-09-04",
-          "max": 17.0,
+          "max": 18.0,
           "min": 12.0
         }
       ]
@@ -94,5 +94,5 @@
     "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes",
     "Anthropic promises zero data retention – but customers must check it worked"
   ],
-  "crew_quote": "\"With this weather, I might as well be a curry in an overcast microwave—steamy, but not quite sizzling!\""
+  "crew_quote": "\"Ah, another drizzly day—perfect weather for a curry, don’t you think? Just me, a pint, and a takeaway while I contemplate this blasted ship’s power usage!\""
 }
