@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-02T18:49:31.527873+00:00",
+  "timestamp": "2026-09-02T19:20:31.553901+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 18.1,
-    "outdoor_humidity": 97.0,
+    "outdoor_temp": 18.0,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 129.0,
-    "pressure": 1014.2,
+    "wind_direction": 74.0,
+    "pressure": 1014.4,
     "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 491.0,
+    "power_usage": 3144.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "NASA's Swift shortens orbital lifetime for the sake of science",
     "Firefox and Thunderbird hit the fortnightly release treadmill"
   ],
-  "crew_quote": "\"With the weather looking like a right muddle, I reckon I’ll stay indoors, whip up a curry, and avoid getting damp for once. Who needs patchy rain when you've got a lovely hot meal?\""
+  "crew_quote": "\"Looks like it's 21.6 degrees in here, which is great, but if it gets any hotter, I might just have to whip up a curry to cool down; that's just basic science, that is!\""
 }
