@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-02T08:29:20.794419+00:00",
+  "timestamp": "2026-09-02T09:00:28.470416+00:00",
   "house": {
     "indoor_temp": 21.2,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 14.9,
+    "outdoor_temp": 15.0,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 195.0,
-    "pressure": 1019.1,
-    "rain_today": 0.5,
+    "wind_direction": 166.0,
+    "pressure": 1018.8,
+    "rain_today": 0.8,
     "uv_index": 0.0,
-    "power_usage": 292.0,
+    "power_usage": 325.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 13.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-09-02",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-02",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Mist",
+      "temp": 14.0,
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-09-02",
@@ -94,5 +94,5 @@
     "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes",
     "Anthropic promises zero data retention – but customers must check it worked"
   ],
-  "crew_quote": "\"Blimey, with the indoor temp at 21.2°C, I reckon I could cook a proper curry while standing under the patchy rain—just have to dodge the drizzle, eh?\""
+  "crew_quote": "\"Ah, light rain, warm indoors, just the perfect conditions for a nice curry and a good old-fashioned moan about the state of interstellar tech. Three years? Pathetic!\""
 }
