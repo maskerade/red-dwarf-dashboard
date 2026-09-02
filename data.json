@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-02T02:48:15.689711+00:00",
+  "timestamp": "2026-09-02T03:19:15.475274+00:00",
   "house": {
     "indoor_temp": 21.5,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.3,
+    "outdoor_temp": 13.2,
     "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
     "wind_direction": 155.0,
     "pressure": 1019.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 266.0,
+    "power_usage": 283.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Firefox helps iPhone users bypass ads on web sites while making money showing its own ads",
     "Anthropic pledges to try harder to keep models under control, asks partners to chip in"
   ],
-  "crew_quote": "\"You know, with it all foggy out there, I’d say the weather’s as confused as I am about why they didn’t notice that AI nicking $600K! I mean, come on, I notice when I’m out of curry!\""
+  "crew_quote": "\"With weather that foggy, I'd say it’s a perfect day for a curry—unless you're one of those poor sods dealing with AI thefts, then it’s just a right royal mess!\""
 }
