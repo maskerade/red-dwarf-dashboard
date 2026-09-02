@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-02T11:04:23.555290+00:00",
+  "timestamp": "2026-09-02T11:35:23.589616+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 17.0,
-    "outdoor_humidity": 93.0,
+    "outdoor_temp": 16.9,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 286.0,
-    "pressure": 1017.7,
+    "wind_direction": 88.0,
+    "pressure": 1017.4,
     "rain_today": 1.0,
-    "uv_index": 0.0,
-    "power_usage": 370.0,
+    "uv_index": 1.0,
+    "power_usage": 517.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "UK cyber bill targets AI users, not the vendors building it",
     "UK digital ID may be dead, but its legacy IT problem lives on"
   ],
-  "crew_quote": "\"Ah, a proper British day—light drizzle and a indoor temperature that's toastier than my last curry! Who needs an AI when we've got the weather to cheer us up?\""
+  "crew_quote": "\"With all this light rain and drizzle, I reckon we should order some curry and sit indoors where it’s warm, rather than risk looking bedraggled in public. Who’s with me?\""
 }
