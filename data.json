@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-03T02:03:38.429542+00:00",
+  "timestamp": "2026-09-03T02:34:38.319931+00:00",
   "house": {
     "indoor_temp": 21.5,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.9,
+    "outdoor_temp": 17.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 34.0,
-    "pressure": 1014.4,
+    "wind_direction": 347.0,
+    "pressure": 1014.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 283.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Claude Mythos only model to complete full cyber kill chain, experts say",
     "Microsoft devs rejoice: Union types coming to C# in November"
   ],
-  "crew_quote": "\"With this weather, I'd say it's the perfect day for a nice curry—just as long as we can find a way to convince the rain to serve it up too!\""
+  "crew_quote": "\"With the weather like this, I could really do with a curry to perk me up—maybe I’ll even take a shower in it, if the rain keeps up!\""
 }
