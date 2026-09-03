@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-03T19:37:55.264171+00:00",
+  "timestamp": "2026-09-03T20:08:55.269042+00:00",
   "house": {
-    "indoor_temp": 21.9,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 17.9,
+    "indoor_temp": 21.8,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 17.8,
     "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 267.0,
+    "wind_direction": 247.0,
     "pressure": 1014.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 615.0,
+    "power_usage": 452.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Drowning in CVEs and thirsty for answers? Try CTEM",
     "Salesforce blames its Claude addiction for denting profit margin guidance"
   ],
-  "crew_quote": "\"Look at the weather map! It’s like someone’s spilled a curry all over Altrincham—patchy rain, but at least the indoor temp’s a cozy 21.9°C for my chill day in!\""
+  "crew_quote": "\"With this dodgy weather, it's a perfect day for a curry; just don’t ask me to mix it with that posh new Dragonfly app, or I might just end up with a curry-flavored audio file!\""
 }
