@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-03T07:44:43.886757+00:00",
+  "timestamp": "2026-09-03T08:15:44.201975+00:00",
   "house": {
     "indoor_temp": 21.3,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.6,
-    "outdoor_humidity": 92.0,
+    "outdoor_temp": 17.2,
+    "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
-    "wind_direction": 338.0,
-    "pressure": 1016.2,
+    "wind_direction": 335.0,
+    "pressure": 1016.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 443.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -31,19 +31,19 @@
         },
         {
           "date": "2026-09-05",
-          "max": 19.0,
-          "min": 11.0
+          "max": 17.0,
+          "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 17.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-03",
-          "max": 23.0,
-          "min": 16.0
+          "max": 24.0,
+          "min": 15.0
         },
         {
           "date": "2026-09-04",
@@ -52,13 +52,13 @@
         },
         {
           "date": "2026-09-05",
-          "max": 20.0,
-          "min": 11.0
+          "max": 19.0,
+          "min": 10.0
         }
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-09-05",
-          "max": 19.0,
-          "min": 10.0
+          "max": 18.0,
+          "min": 9.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 6th September no trams will operate on the Altrincham line until approx 11:00am. A bus replacement service will be in place. See TFGM.com for all service info.",
   "headlines": [
+    "Your VMware renewal invoice ate your AI budget – what now?",
     "Terminated employee cost company hundreds of thousands of dollars because nobody revoked access",
     "To keep the AI hacking genie bottled up, try one-way networks",
-    "Zuck's Muse to Spark joy with open weights release 'soon'",
-    "VMware swings its focus back to low-end server virt, promises vSphere Standard upgrade"
+    "Zuck's Muse to Spark joy with open weights release 'soon'"
   ],
-  "crew_quote": "\"What's the weather like? Oh, just another day of patchy rain and overcast skies. Perfect for a nice curry and some snoozing — I mean, who wants to go out in this?\""
+  "crew_quote": "\"Looks like the weather's as confused as my bank account after that VMware invoice—I've never seen patchy rain make me feel so overcast!\""
 }
