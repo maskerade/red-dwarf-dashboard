@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-03T04:38:40.756015+00:00",
+  "timestamp": "2026-09-03T05:09:41.081402+00:00",
   "house": {
     "indoor_temp": 21.4,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.1,
-    "outdoor_humidity": 99.0,
+    "outdoor_temp": 16.7,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 339.0,
+    "wind_direction": 343.0,
     "pressure": 1014.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 281.0,
+    "power_usage": 295.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-03",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-03",
@@ -94,5 +94,5 @@
     "Claude Mythos only model to complete full cyber kill chain, experts say",
     "Microsoft devs rejoice: Union types coming to C# in November"
   ],
-  "crew_quote": "\"Looks like it's patchy rain everywhere, but hey, at least in here it’s a cozy 21.4°C — perfect for whipping up a curry and not worrying about the damp!\""
+  "crew_quote": "\"With all this patchy rain, it's the perfect day to whip up a curry and binge-watch some cosmic disasters—just another Tuesday in my perfectly average life!\""
 }
