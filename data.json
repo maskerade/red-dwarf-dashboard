@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-09-03T23:14:57.984890+00:00",
+  "timestamp": "2026-09-03T23:45:58.336743+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 21.9,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 15.7,
+    "outdoor_temp": 15.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 253.0,
-    "pressure": 1012.3,
-    "rain_today": 1.0,
+    "wind_direction": 278.0,
+    "pressure": 1010.9,
+    "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 356.0,
+    "power_usage": 410.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Moderate rain",
       "forecast": [
-        {
-          "date": "2026-09-03",
-          "max": 22.0,
-          "min": 14.0
-        },
         {
           "date": "2026-09-04",
           "max": 17.0,
@@ -33,6 +28,11 @@
           "date": "2026-09-05",
           "max": 18.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-09-06",
+          "max": 23.0,
+          "min": 12.0
         }
       ]
     },
@@ -40,11 +40,6 @@
       "temp": 17.0,
       "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-09-03",
-          "max": 24.0,
-          "min": 15.0
-        },
         {
           "date": "2026-09-04",
           "max": 19.0,
@@ -54,18 +49,18 @@
           "date": "2026-09-05",
           "max": 20.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-09-06",
+          "max": 25.0,
+          "min": 13.0
         }
       ]
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Light rain",
+      "conditions": "Light rain shower",
       "forecast": [
-        {
-          "date": "2026-09-03",
-          "max": 20.0,
-          "min": 14.0
-        },
         {
           "date": "2026-09-04",
           "max": 17.0,
@@ -75,17 +70,22 @@
           "date": "2026-09-05",
           "max": 18.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-09-06",
+          "max": 22.0,
+          "min": 10.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "06:22 AM",
-    "sunset": "07:54 PM",
-    "moon_phase": "Waning Gibbous",
-    "moon_illumination": "65",
-    "moonrise": "09:41 PM",
-    "moonset": "02:48 PM"
+    "sunrise": "06:23 AM",
+    "sunset": "07:52 PM",
+    "moon_phase": "Last Quarter",
+    "moon_illumination": "54",
+    "moonrise": "10:26 PM",
+    "moonset": "04:10 PM"
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 6th September no trams will operate on the Altrincham line until approx 11:00am. A bus replacement service will be in place. See TFGM.com for all service info.",
   "headlines": [
@@ -94,5 +94,5 @@
     "True AI-pocalypse as ChatGPT, Claude, and Grok all go down at once",
     "Prolific Microsoft 0-day hunter drops CrowdStrike Falcon exploit PoC"
   ],
-  "crew_quote": "\"15 degrees and moderate rain? Perfect curry weather! Now, if only I could find a way to keep me chips crispy in this humidity.\""
+  "crew_quote": "\"Hey, with the weather like this, it's a perfect day for a curry! Just make sure it’s not too hot, or I might end up sweating like a burst radiator!\""
 }
