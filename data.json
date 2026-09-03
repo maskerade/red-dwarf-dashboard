@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-09-03T04:07:40.458332+00:00",
+  "timestamp": "2026-09-03T04:38:40.756015+00:00",
   "house": {
     "indoor_temp": 21.4,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.0,
+    "outdoor_temp": 16.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 329.0,
+    "wind_direction": 339.0,
     "pressure": 1014.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
@@ -94,5 +94,5 @@
     "Claude Mythos only model to complete full cyber kill chain, experts say",
     "Microsoft devs rejoice: Union types coming to C# in November"
   ],
-  "crew_quote": "\"Oi, it's patchy rain outside, so perfect curry weather! Just don’t get any on my new jacket, it’s a one-off and I’m not ready for the fashion catastrophe!\""
+  "crew_quote": "\"Looks like it's patchy rain everywhere, but hey, at least in here it’s a cozy 21.4°C — perfect for whipping up a curry and not worrying about the damp!\""
 }
