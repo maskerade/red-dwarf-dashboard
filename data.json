@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-03T00:30:36.488368+00:00",
+  "timestamp": "2026-09-03T01:01:37.762783+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 62.0,
     "outdoor_temp": 16.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 278.0,
-    "pressure": 1013.9,
+    "wind_direction": 202.0,
+    "pressure": 1014.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 292.0,
@@ -94,5 +94,5 @@
     "Claude Mythos only model to complete full cyber kill chain, experts say",
     "Microsoft devs rejoice: Union types coming to C# in November"
   ],
-  "crew_quote": "\"With this patchy rain, it's like the weather's trying to give Altrincham a lovely little curry bath—just the way I like it!\""
+  "crew_quote": "\"Honestly, with this weather, it’s practically a perfect day for a curry—light rain, 21.6 degrees inside? Just the right environment for a good nosh and a bit of telly!\""
 }
