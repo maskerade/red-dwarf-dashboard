@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-03T11:21:47.185953+00:00",
+  "timestamp": "2026-09-03T11:52:48.159975+00:00",
   "house": {
-    "indoor_temp": 21.8,
+    "indoor_temp": 21.9,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 21.1,
+    "outdoor_temp": 21.3,
     "outdoor_humidity": 74.0,
-    "wind_speed": 0.0,
-    "wind_direction": 121.0,
-    "pressure": 1016.6,
+    "wind_speed": 0.4,
+    "wind_direction": 106.0,
+    "pressure": 1016.4,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 345.0,
+    "power_usage": 435.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Spurs boots VMware, cites 85% licensing saving",
     "UK's Online Safety Act has made 'absolutely no difference,' kids say"
   ],
-  "crew_quote": "\"At least it’s warmer indoors than that miserable weather outside! I’d rather bask in the warmth than worry about some Windows update turning my desktop into a morose goth!\""
+  "crew_quote": "\"Ah, perfect weather for a curry, isn't it? Just a bit of patchy rain to spice things up—like a Windows update gone rogue!\""
 }
