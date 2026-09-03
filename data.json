@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-03T07:13:42.903604+00:00",
+  "timestamp": "2026-09-03T07:44:43.886757+00:00",
   "house": {
     "indoor_temp": 21.3,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.7,
-    "outdoor_humidity": 91.0,
+    "outdoor_temp": 16.6,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 341.0,
-    "pressure": 1015.9,
+    "wind_direction": 338.0,
+    "pressure": 1016.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 278.0,
+    "power_usage": 443.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Zuck's Muse to Spark joy with open weights release 'soon'",
     "VMware swings its focus back to low-end server virt, promises vSphere Standard upgrade"
   ],
-  "crew_quote": "\"Looks like it's patchy rain nearby, so let's just stay in and focus on perfecting that curry recipe—definitely a better use of energy than thinking about terminated employees!\""
+  "crew_quote": "\"What's the weather like? Oh, just another day of patchy rain and overcast skies. Perfect for a nice curry and some snoozing — I mean, who wants to go out in this?\""
 }
