@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-04T08:33:06.078153+00:00",
+  "timestamp": "2026-09-04T09:04:06.701548+00:00",
   "house": {
     "indoor_temp": 21.5,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 13.9,
+    "outdoor_temp": 14.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 96.0,
-    "pressure": 1011.7,
+    "wind_direction": 116.0,
+    "pressure": 1012.2,
     "rain_today": 17.8,
-    "uv_index": 0.0,
-    "power_usage": 269.0,
+    "uv_index": 1.0,
+    "power_usage": 306.0,
     "gas_consumption": 124.347024241667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 14.0,
-      "conditions": "Light rain shower",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-04",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 15.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-04",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 14.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "On Call: User who handled life-or-death situations struggled with the SHIFT key",
     "Google engineer unplugged every fiber they could see and – surprise! – took down a chunk of the G-Cloud"
   ],
-  "crew_quote": "\"It’s a bit drizzly out there, innit? Perfect weather for a pint and a curry, but not if you’re a laser looking to stop some drones without running out of ammo!\""
+  "crew_quote": "\"Listen, if the weather's anything like my curry last night—spot on with a hint of rain—I'd take a cheeky eSIM over a laser any day, mate!\""
 }
