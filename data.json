@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-04T14:45:11.524271+00:00",
+  "timestamp": "2026-09-04T15:16:12.252410+00:00",
   "house": {
-    "indoor_temp": 22.1,
+    "indoor_temp": 22.0,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 17.9,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 4.7,
-    "wind_direction": 149.0,
-    "pressure": 1014.9,
+    "outdoor_temp": 17.2,
+    "outdoor_humidity": 78.0,
+    "wind_speed": 1.4,
+    "wind_direction": 90.0,
+    "pressure": 1015.3,
     "rain_today": 17.8,
-    "uv_index": 1.0,
-    "power_usage": 401.0,
+    "uv_index": 0.0,
+    "power_usage": 483.0,
     "gas_consumption": 124.347024241667,
     "heating_active": false
   },
@@ -21,13 +21,13 @@
       "forecast": [
         {
           "date": "2026-09-04",
-          "max": 17.0,
+          "max": 18.0,
           "min": 13.0
         },
         {
           "date": "2026-09-05",
           "max": 18.0,
-          "min": 10.0
+          "min": 12.0
         },
         {
           "date": "2026-09-06",
@@ -37,13 +37,13 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-04",
           "max": 19.0,
-          "min": 13.0
+          "min": 14.0
         },
         {
           "date": "2026-09-05",
@@ -52,8 +52,8 @@
         },
         {
           "date": "2026-09-06",
-          "max": 24.0,
-          "min": 13.0
+          "max": 25.0,
+          "min": 12.0
         }
       ]
     },
@@ -69,11 +69,11 @@
         {
           "date": "2026-09-05",
           "max": 18.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-09-06",
-          "max": 23.0,
+          "max": 22.0,
           "min": 11.0
         }
       ]
@@ -94,5 +94,5 @@
     "JavaScript installer pnpm recast in Rust because ECMAScript can't keep up",
     "Cloud snail-mail service Docmail enters third day stuck in the outbox"
   ],
-  "crew_quote": "\"With this weather, I might as well put on a coat; it’s not like I’m going to be getting a curry takeaway anytime soon with all this overcast muck!\""
+  "crew_quote": "\"Looks like it's a perfect day for a curry and some dodgy email updates; at least the weather's as dreary as my prospects!\""
 }
