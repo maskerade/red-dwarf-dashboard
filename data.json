@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-04T03:23:01.989727+00:00",
+  "timestamp": "2026-09-04T03:54:01.756143+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.6,
     "indoor_humidity": 62.0,
     "outdoor_temp": 15.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 80.0,
-    "pressure": 1009.3,
+    "wind_direction": 160.0,
+    "pressure": 1009.4,
     "rain_today": 15.5,
     "uv_index": 0.0,
-    "power_usage": 261.0,
+    "power_usage": 269.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "True AI-pocalypse as ChatGPT, Claude, and Grok all go down at once",
     "Prolific Microsoft 0-day hunter drops CrowdStrike Falcon exploit PoC"
   ],
-  "crew_quote": "\"Look, it's raining in Altrincham and foggy in Llandudno — perfect weather for a nice curry and a good old moan about the universe!\""
+  "crew_quote": "\"Right, it's raining in Altrincham and the weather's all foggy, so if anyone's getting a curry, make sure it's got enough spice to light up this dreary day!\""
 }
