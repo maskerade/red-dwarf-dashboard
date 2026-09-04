@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-04T20:26:16.711879+00:00",
+  "timestamp": "2026-09-04T20:57:16.727711+00:00",
   "house": {
-    "indoor_temp": 21.6,
-    "indoor_humidity": 59.0,
+    "indoor_temp": 21.8,
+    "indoor_humidity": 60.0,
     "outdoor_temp": 15.7,
-    "outdoor_humidity": 82.0,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 88.0,
+    "wind_direction": 102.0,
     "pressure": 1017.9,
     "rain_today": 17.8,
     "uv_index": 0.0,
-    "power_usage": 491.0,
+    "power_usage": 562.0,
     "gas_consumption": 124.347024241667,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Canonical shuttering some of its legacy chat channels",
     "Microsoft to bounce mail from outdated Exchange servers"
   ],
-  "crew_quote": "\"With the indoor temperature at a balmy 21.6°C, I reckon it's a perfect day for a curry while we wait for the rain to bring us down to Earth—literally!\""
+  "crew_quote": "\"With the weather being a perfect 15 degrees, I reckon it's a splendid day for a curry — just as long as we keep it indoors, or we might get sprinkled on!\""
 }
