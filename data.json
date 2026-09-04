@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-09-04T04:25:02.666657+00:00",
+  "timestamp": "2026-09-04T04:56:02.666447+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 62.0,
     "outdoor_temp": 15.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 160.0,
-    "pressure": 1009.2,
-    "rain_today": 15.5,
+    "wind_direction": 165.0,
+    "pressure": 1009.6,
+    "rain_today": 15.7,
     "uv_index": 0.0,
     "power_usage": 278.0,
     "gas_consumption": 124.247028492917,
@@ -94,5 +94,5 @@
     "OpenAI commits $1B in AI credits to frontline cyber defenders",
     "OpenAI throws Astra into the top-tier model ring"
   ],
-  "crew_quote": "\"Well, with all this rain, I reckon we could plant a few trees ourselves — though I’d prefer we just plant a curry in my belly instead!\""
+  "crew_quote": "\"Ah, lovely weather for a light rain, isn't it? Just like my love life—damp and a bit dreary, but hey, at least I've got a curry to warm my soul!\""
 }
