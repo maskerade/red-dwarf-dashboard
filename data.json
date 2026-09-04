@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-04T08:02:06.040598+00:00",
+  "timestamp": "2026-09-04T08:33:06.078153+00:00",
   "house": {
-    "indoor_temp": 21.6,
+    "indoor_temp": 21.5,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 12.9,
+    "outdoor_temp": 13.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 101.0,
-    "pressure": 1011.6,
+    "wind_direction": 96.0,
+    "pressure": 1011.7,
     "rain_today": 17.8,
     "uv_index": 0.0,
-    "power_usage": 295.0,
+    "power_usage": 269.0,
     "gas_consumption": 124.347024241667,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 6th September no trams will operate on the Altrincham line until approx 11:00am. A bus replacement service will be in place. See TFGM.com for all service info.",
   "headlines": [
+    "UK military wants lasers to stop drone swarms without running out of ammo",
     "Best eSIM for travel 2026: which one offers the best value for money?",
     "On Call: User who handled life-or-death situations struggled with the SHIFT key",
-    "Google engineer unplugged every fiber they could see and – surprise! – took down a chunk of the G-Cloud",
-    "The search company that plants trees just launched a Linux browser to help Europe battle big tech"
+    "Google engineer unplugged every fiber they could see and – surprise! – took down a chunk of the G-Cloud"
   ],
-  "crew_quote": "\"Honestly, with this weather, you might as well go for a curry. It's got that perfect blend of spice to combat all this light rain!\""
+  "crew_quote": "\"It’s a bit drizzly out there, innit? Perfect weather for a pint and a curry, but not if you’re a laser looking to stop some drones without running out of ammo!\""
 }
