@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-04T11:39:08.904940+00:00",
+  "timestamp": "2026-09-04T12:10:09.645585+00:00",
   "house": {
-    "indoor_temp": 21.9,
+    "indoor_temp": 21.8,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 16.9,
-    "outdoor_humidity": 78.0,
-    "wind_speed": 2.9,
-    "wind_direction": 103.0,
-    "pressure": 1013.7,
+    "outdoor_temp": 16.6,
+    "outdoor_humidity": 80.0,
+    "wind_speed": 1.1,
+    "wind_direction": 106.0,
+    "pressure": 1013.9,
     "rain_today": 17.8,
     "uv_index": 0.0,
-    "power_usage": 348.0,
+    "power_usage": 275.0,
     "gas_consumption": 124.347024241667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 18.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-04",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "US law firm accuses UK AI software firm of unwanted contract renewal when it tried to leave",
     "UK military wants lasers to stop drone swarms without running out of ammo"
   ],
-  "crew_quote": "\"With the weather like this, I think we’d all be better off in a nice warm curry instead of staring at the overcast sky. Who's up for a takeaway?\""
+  "crew_quote": "\"I'm telling you, with this weather, we should be cooking a nice curry indoors instead of worrying about self-driving cars! At least then we can blame the heat for the smell!\""
 }
