@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-04T17:51:14.372117+00:00",
+  "timestamp": "2026-09-04T18:22:14.771998+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.8,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 17.2,
-    "outdoor_humidity": 73.0,
-    "wind_speed": 0.7,
-    "wind_direction": 94.0,
-    "pressure": 1015.6,
+    "outdoor_temp": 16.7,
+    "outdoor_humidity": 76.0,
+    "wind_speed": 0.0,
+    "wind_direction": 112.0,
+    "pressure": 1016.1,
     "rain_today": 17.8,
     "uv_index": 0.0,
-    "power_usage": 449.0,
+    "power_usage": 517.0,
     "gas_consumption": 124.347024241667,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-04",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Overcast ",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-04",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Canonical shuttering some of its legacy chat channels",
     "Microsoft to bounce mail from outdated Exchange servers"
   ],
-  "crew_quote": "\"Well, at least it's not raining curry today, mate! Just overcast and a comfy 21.7°C—perfect for a bit of a snooze!\""
+  "crew_quote": "\"With the weather like this, I'm starting to think the patchy rain's just the universe's way of telling me I need a good curry to warm up!\""
 }
