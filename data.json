@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-04T13:43:11.175807+00:00",
+  "timestamp": "2026-09-04T14:14:11.345694+00:00",
   "house": {
     "indoor_temp": 22.0,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 17.3,
-    "outdoor_humidity": 77.0,
-    "wind_speed": 0.4,
-    "wind_direction": 99.0,
-    "pressure": 1014.8,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 18.0,
+    "outdoor_humidity": 75.0,
+    "wind_speed": 1.1,
+    "wind_direction": 95.0,
+    "pressure": 1014.7,
     "rain_today": 17.8,
     "uv_index": 1.0,
-    "power_usage": 396.0,
+    "power_usage": 393.0,
     "gas_consumption": 124.347024241667,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Wayve and Uber steal a march on Waymo with paid self-driving London rides",
     "Enjoy the Windows 10 Update Experience at London's O2"
   ],
-  "crew_quote": "\"Well, it’s a lovely 22 degrees inside, but with this overcast weather, I’d say it’s the perfect day for a curry. Nothing like a bit of spice to brighten the gloomy clouds!\""
+  "crew_quote": "\"Well, it’s a bit overcast out there, but not as gloomy as my last career assessment — at least the weather's consistent, unlike my success rate!\""
 }
