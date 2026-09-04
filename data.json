@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-04T04:56:02.666447+00:00",
+  "timestamp": "2026-09-04T05:27:03.426651+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 62.0,
     "outdoor_temp": 15.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 165.0,
-    "pressure": 1009.6,
+    "wind_direction": 158.0,
+    "pressure": 1009.9,
     "rain_today": 15.7,
     "uv_index": 0.0,
-    "power_usage": 278.0,
+    "power_usage": 295.0,
     "gas_consumption": 124.247028492917,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI commits $1B in AI credits to frontline cyber defenders",
     "OpenAI throws Astra into the top-tier model ring"
   ],
-  "crew_quote": "\"Ah, lovely weather for a light rain, isn't it? Just like my love life—damp and a bit dreary, but hey, at least I've got a curry to warm my soul!\""
+  "crew_quote": "\"Looks like it's a bit damp out there — good job I’ve got my stylish raincoat! Not like the weather can spoil my fabulousness!\""
 }
