@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-04T19:55:16.173126+00:00",
+  "timestamp": "2026-09-04T20:26:16.711879+00:00",
   "house": {
-    "indoor_temp": 21.7,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 15.8,
-    "outdoor_humidity": 81.0,
-    "wind_speed": 0.7,
-    "wind_direction": 229.0,
-    "pressure": 1017.4,
+    "indoor_temp": 21.6,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 15.7,
+    "outdoor_humidity": 82.0,
+    "wind_speed": 0.0,
+    "wind_direction": 88.0,
+    "pressure": 1017.9,
     "rain_today": 17.8,
     "uv_index": 0.0,
-    "power_usage": 449.0,
+    "power_usage": 491.0,
     "gas_consumption": 124.347024241667,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Canonical shuttering some of its legacy chat channels",
     "Microsoft to bounce mail from outdated Exchange servers"
   ],
-  "crew_quote": "\"Ah, lovely weather for a nice curry, innit? Nothing like a bit of patchy rain to remind you not to leave your takeaway outside!\""
+  "crew_quote": "\"With the indoor temperature at a balmy 21.6°C, I reckon it's a perfect day for a curry while we wait for the rain to bring us down to Earth—literally!\""
 }
