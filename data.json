@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-05T18:39:37.675687+00:00",
+  "timestamp": "2026-09-05T19:10:37.981925+00:00",
   "house": {
-    "indoor_temp": 21.5,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 14.8,
-    "outdoor_humidity": 84.0,
+    "indoor_temp": 21.3,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 14.4,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
     "wind_direction": 121.0,
     "pressure": 1026.3,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 573.0,
+    "power_usage": 750.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 14.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Cloudy ",
+      "temp": 16.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-05",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": 13.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-09-05",
@@ -94,5 +94,5 @@
     "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
     "ASCII smuggling isn't just an AI security risk"
   ],
-  "crew_quote": "\"With this lovely overcast weather, I could really go for a curry, as long as I don't spill it on my best shirt—unlike that BepiColumbo, which always looks crisp and clean!\""
+  "crew_quote": "\"Great, now we've got robots shopping for us while we sweat in here at 21.3°C! Just what I need—more machines doing my bidding while I dream about a curry!\""
 }
