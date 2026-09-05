@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-05T16:35:35.151109+00:00",
+  "timestamp": "2026-09-05T17:06:36.129026+00:00",
   "house": {
     "indoor_temp": 21.5,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 17.5,
-    "outdoor_humidity": 74.0,
+    "outdoor_temp": 16.9,
+    "outdoor_humidity": 76.0,
     "wind_speed": 0.0,
-    "wind_direction": 116.0,
-    "pressure": 1026.2,
+    "wind_direction": 101.0,
+    "pressure": 1026.0,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 269.0,
+    "power_usage": 438.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
     "ASCII smuggling isn't just an AI security risk"
   ],
-  "crew_quote": "\"With the indoor temp at a balmy 21.5°C, it's almost like we're on a proper holiday — just need a curry and a pint for the full experience!\""
+  "crew_quote": "\"Twenty degrees and overcast? Might as well be on the set of a boring soap opera. Pass me a curry, it's the only excitement I can count on!\""
 }
