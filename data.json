@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-05T06:15:25.471327+00:00",
+  "timestamp": "2026-09-05T06:46:25.916090+00:00",
   "house": {
-    "indoor_temp": 21.5,
+    "indoor_temp": 21.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 13.4,
-    "outdoor_humidity": 93.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 163.0,
-    "pressure": 1022.4,
+    "wind_direction": 162.0,
+    "pressure": 1022.8,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 275.0,
+    "power_usage": 255.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Saturday 5th September until 14:00 no trams will operate between Rochdale Town Centre & Freehold. A replacement bus service will be in place. See TFGM.com for more info.",
   "headlines": [
+    "BepiColombo sheds its ride and starts the final glide to Mercury",
     "Anthropic lays groundwork for bots that shop for you",
     "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
-    "ASCII smuggling isn't just an AI security risk",
-    "Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident"
+    "ASCII smuggling isn't just an AI security risk"
   ],
-  "crew_quote": "\"With the weather being all patchy rain and a balmy indoor temperature of 21.5°C, it’s the perfect day for a curry—just hope it doesn’t rain on my takeaway!\""
+  "crew_quote": "\"Ah, patchy rain and overcast skies—just like my last date! But at least the curry in here’s a solid 21.4°C, so I’d say we’re winning, mates!\""
 }
