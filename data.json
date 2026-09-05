@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-05T14:00:33.046727+00:00",
+  "timestamp": "2026-09-05T14:31:33.452264+00:00",
   "house": {
-    "indoor_temp": 21.6,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 18.1,
-    "outdoor_humidity": 70.0,
-    "wind_speed": 0.4,
-    "wind_direction": 136.0,
-    "pressure": 1025.7,
+    "indoor_temp": 21.7,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 18.0,
+    "outdoor_humidity": 72.0,
+    "wind_speed": 0.0,
+    "wind_direction": 104.0,
+    "pressure": 1026.1,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 404.0,
+    "power_usage": 370.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 18.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-09-05",
-          "max": 19.0,
+          "max": 18.0,
           "min": 12.0
         },
         {
@@ -37,18 +37,18 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-05",
-          "max": 21.0,
+          "max": 20.0,
           "min": 11.0
         },
         {
           "date": "2026-09-06",
-          "max": 23.0,
-          "min": 15.0
+          "max": 25.0,
+          "min": 13.0
         },
         {
           "date": "2026-09-07",
@@ -63,13 +63,13 @@
       "forecast": [
         {
           "date": "2026-09-05",
-          "max": 18.0,
+          "max": 17.0,
           "min": 11.0
         },
         {
           "date": "2026-09-06",
           "max": 22.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-09-07",
@@ -94,5 +94,5 @@
     "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
     "ASCII smuggling isn't just an AI security risk"
   ],
-  "crew_quote": "\"With all this patchy rain, it's a perfect day to slouch around and contemplate the mysteries of life—like why I can't find a decent curry delivery in this blasted spaceship!\""
+  "crew_quote": "\"With the weather a sunny 20°C, I could really go for a cold curry and a brilliant nap—just like my favorite planet, Mercury, only a bit more atmospheric!\""
 }
