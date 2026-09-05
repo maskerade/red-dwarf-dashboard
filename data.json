@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-05T01:05:20.656158+00:00",
+  "timestamp": "2026-09-05T01:36:21.079596+00:00",
   "house": {
-    "indoor_temp": 21.6,
+    "indoor_temp": 21.5,
     "indoor_humidity": 59.0,
     "outdoor_temp": 13.8,
-    "outdoor_humidity": 94.0,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
-    "wind_direction": 170.0,
-    "pressure": 1019.4,
+    "wind_direction": 147.0,
+    "pressure": 1019.8,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 261.0,
     "gas_consumption": 124.347024241667,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "ASCII smuggling isn't just an AI security risk",
     "Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident"
   ],
-  "crew_quote": "\"With all this patchy rain and 13 degrees, it feels like the perfect day for a nice curry! Just don't forget the extra naan, or I'll be forced to reconsider our friendship.\""
+  "crew_quote": "\"With all this patchy rain outside, I reckon we should just stay in and whip up a nice curry, eh? That’s the only storm I want to deal with today!\""
 }
