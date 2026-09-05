@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-05T07:48:27.404091+00:00",
+  "timestamp": "2026-09-05T08:19:27.466474+00:00",
   "house": {
-    "indoor_temp": 21.4,
+    "indoor_temp": 21.3,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 17.5,
-    "outdoor_humidity": 82.0,
+    "outdoor_temp": 15.5,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
     "wind_direction": 161.0,
-    "pressure": 1023.6,
+    "pressure": 1023.9,
     "rain_today": 0.2,
-    "uv_index": 1.0,
-    "power_usage": 261.0,
+    "uv_index": 0.0,
+    "power_usage": 295.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
+      "temp": 13.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-05",
-          "max": 18.0,
+          "max": 19.0,
           "min": 12.0
         },
         {
@@ -32,34 +32,34 @@
         {
           "date": "2026-09-07",
           "max": 18.0,
-          "min": 12.0
+          "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 11.0,
+      "temp": 14.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-05",
-          "max": 20.0,
+          "max": 21.0,
           "min": 11.0
         },
         {
           "date": "2026-09-06",
-          "max": 25.0,
-          "min": 13.0
+          "max": 23.0,
+          "min": 15.0
         },
         {
           "date": "2026-09-07",
-          "max": 19.0,
-          "min": 14.0
+          "max": 20.0,
+          "min": 15.0
         }
       ]
     },
     "llandudno": {
-      "temp": 11.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 13.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-05",
@@ -69,7 +69,7 @@
         {
           "date": "2026-09-06",
           "max": 22.0,
-          "min": 11.0
+          "min": 12.0
         },
         {
           "date": "2026-09-07",
@@ -94,5 +94,5 @@
     "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
     "ASCII smuggling isn't just an AI security risk"
   ],
-  "crew_quote": "\"Ah, lovely weather for a jaunt to Mercury, isn't it? Just like a patchy rain shower in Altrincham, only with a bit more fiery death!\""
+  "crew_quote": "\"It's 13 degrees and drizzling outside, but at least in here, we've got a comfortable 21.3—just think of it as a curry climate control!\""
 }
