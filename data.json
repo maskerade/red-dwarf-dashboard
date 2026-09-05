@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-09-05T05:13:24.530291+00:00",
+  "timestamp": "2026-09-05T05:44:24.931019+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.4,
     "indoor_humidity": 59.0,
     "outdoor_temp": 13.4,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 0.0,
-    "wind_direction": 170.0,
-    "pressure": 1021.5,
+    "outdoor_humidity": 92.0,
+    "wind_speed": 0.4,
+    "wind_direction": 167.0,
+    "pressure": 1022.1,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 266.0,
-    "gas_consumption": 124.347024241667,
+    "power_usage": 264.0,
+    "gas_consumption": 124.44701585875,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "ASCII smuggling isn't just an AI security risk",
     "Rogue OpenAI agents used dead German web site to communicate in May, months before Hugging Face incident"
   ],
-  "crew_quote": "\"With this rain, it’s perfect curry weather! If I can’t have my vindaloo, I’ll just have to settle for a patchy day of staring at the overcast sky.\""
+  "crew_quote": "\"Blimey, it's raining patchy everywhere! Perfect weather for a nice curry while the bots do my shopping—just as long as they don’t pick up any of that weird stuff, eh?\""
 }
