@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-06T14:17:56.991499+00:00",
+  "timestamp": "2026-09-06T14:48:57.970504+00:00",
   "house": {
     "indoor_temp": 22.2,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 21.6,
+    "outdoor_temp": 22.1,
     "outdoor_humidity": 67.0,
-    "wind_speed": 3.6,
-    "wind_direction": 131.0,
-    "pressure": 1019.1,
+    "wind_speed": 1.1,
+    "wind_direction": 153.0,
+    "pressure": 1018.5,
     "rain_today": 2.0,
     "uv_index": 1.0,
-    "power_usage": 553.0,
+    "power_usage": 547.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "BepiColombo sheds its ride and starts the final glide to Mercury",
     "Anthropic lays groundwork for bots that shop for you"
   ],
-  "crew_quote": "\"Oi, with the sun blasting like this, I could really go for a curry on the beach — just me, a cold lager, and the weather pretending it’s in the tropics. Pure bliss!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry in here! With the weather like this, I might just have to take my chances and start a rain dance!\""
 }
