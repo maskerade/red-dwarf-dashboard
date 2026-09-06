@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-06T09:07:52.012829+00:00",
+  "timestamp": "2026-09-06T09:38:52.603038+00:00",
   "house": {
-    "indoor_temp": 21.8,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 14.3,
-    "outdoor_humidity": 94.0,
+    "indoor_temp": 21.7,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 14.5,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 194.0,
-    "pressure": 1022.5,
-    "rain_today": 0.5,
+    "wind_direction": 166.0,
+    "pressure": 1022.2,
+    "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 556.0,
+    "power_usage": 618.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "BepiColombo sheds its ride and starts the final glide to Mercury",
     "Anthropic lays groundwork for bots that shop for you"
   ],
-  "crew_quote": "\"I'd rather be getting drenched in light rain than stuck in here with that curry smell, but at least it's warmer inside than my love life!\""
+  "crew_quote": "\"Looks like it’s 14°C and a bit of rain outside, just the right weather for a ruby curry to warm the cockles! Or is that the weather conditions for the next moon mission?\""
 }
