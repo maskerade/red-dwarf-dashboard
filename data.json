@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-06T06:32:49.339748+00:00",
+  "timestamp": "2026-09-06T07:03:50.083751+00:00",
   "house": {
     "indoor_temp": 21.7,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 14.3,
-    "outdoor_humidity": 86.0,
+    "outdoor_temp": 14.7,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 158.0,
+    "wind_direction": 170.0,
     "pressure": 1022.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 514.0,
+    "power_usage": 502.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Anthropic lays groundwork for bots that shop for you",
     "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets"
   ],
-  "crew_quote": "\"Honestly, with a temperature of 13°C and all this drizzle, I think I’ll stick to my curry indoors—who needs a weather app when you have common sense?\""
+  "crew_quote": "\"Honestly, with the weather in Altrincham, I should just stay indoors, binge on curry, and let the universe find its own way to Mercury without me!\""
 }
