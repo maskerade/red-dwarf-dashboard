@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-05T23:49:43.026018+00:00",
+  "timestamp": "2026-09-06T00:20:43.300482+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 21.9,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 11.8,
+    "outdoor_temp": 12.0,
     "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 121.0,
-    "pressure": 1026.3,
+    "wind_direction": 138.0,
+    "pressure": 1026.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 570.0,
+    "power_usage": 491.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AMD's Threadripper Halo is a local-AI workstation for researchers with deep pockets",
     "ASCII smuggling isn't just an AI security risk"
   ],
-  "crew_quote": "\"What's the point of being overcast in Altrincham when you could be cruising towards Mercury? I mean, I can't even get a decent curry in this weather!\""
+  "crew_quote": "\"Looks like it's as gloomy as my last relationship out there, but at least inside it’s toasty enough for a proper curry! Who's up for a Tikka Masala?\""
 }
