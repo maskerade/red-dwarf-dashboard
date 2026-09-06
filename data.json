@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-06T19:59:02.660796+00:00",
+  "timestamp": "2026-09-06T20:30:04.865905+00:00",
   "house": {
-    "indoor_temp": 22.0,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 18.0,
-    "outdoor_humidity": 87.0,
+    "indoor_temp": 22.1,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 18.3,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 185.0,
-    "pressure": 1016.3,
+    "wind_direction": 184.0,
+    "pressure": 1016.0,
     "rain_today": 2.0,
     "uv_index": 0.0,
-    "power_usage": 469.0,
+    "power_usage": 601.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "BepiColombo sheds its ride and starts the final glide to Mercury",
     "Anthropic lays groundwork for bots that shop for you"
   ],
-  "crew_quote": "\"Looks like it's 22 degrees inside, but I still feel colder than a Time Lord's heart on a leap second! Pass me that curry, will ya?\""
+  "crew_quote": "\"Blimey, it’s overcast and humid; feels like the inside of a curry house after a rave. Who knew the weather could be as dreary as Rimmer's ego?\""
 }
