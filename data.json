@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-06T23:05:05.794776+00:00",
+  "timestamp": "2026-09-06T23:36:06.126300+00:00",
   "house": {
     "indoor_temp": 22.3,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 17.9,
-    "outdoor_humidity": 84.0,
+    "outdoor_temp": 17.4,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 197.0,
-    "pressure": 1015.6,
+    "wind_direction": 182.0,
+    "pressure": 1015.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 486.0,
+    "power_usage": 435.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "BepiColombo sheds its ride and starts the final glide to Mercury",
     "Anthropic lays groundwork for bots that shop for you"
   ],
-  "crew_quote": "\"Right, so the weather's patchy rain and fog, and here I am, sweating like a curry in a sauna! Can't I just get a nice pint in peace?\""
+  "crew_quote": "\"Weather's looking a bit off today, innit? One minute it's patchy rain, next it's fog—just like my love life, always a bit cloudy!\""
 }
