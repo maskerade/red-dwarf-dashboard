@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-06T08:36:51.392580+00:00",
+  "timestamp": "2026-09-06T09:07:52.012829+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.8,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 14.5,
-    "outdoor_humidity": 91.0,
+    "outdoor_temp": 14.3,
+    "outdoor_humidity": 94.0,
     "wind_speed": 0.0,
-    "wind_direction": 174.0,
-    "pressure": 1022.6,
+    "wind_direction": 194.0,
+    "pressure": 1022.5,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 522.0,
+    "power_usage": 556.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 14.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-09-06",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 14.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-06",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Moderate rain",
+      "temp": 14.0,
+      "conditions": "Patchy light rain",
       "forecast": [
         {
           "date": "2026-09-06",
@@ -94,5 +94,5 @@
     "BepiColombo sheds its ride and starts the final glide to Mercury",
     "Anthropic lays groundwork for bots that shop for you"
   ],
-  "crew_quote": "\"Oi, don’t worry about the rain outside—I've got a curry cooking in here that'll make it feel like a tropical holiday! Well, if tropical holidays were slightly overcast and a bit damp.\""
+  "crew_quote": "\"I'd rather be getting drenched in light rain than stuck in here with that curry smell, but at least it's warmer inside than my love life!\""
 }
