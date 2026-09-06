@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-06T18:57:01.253118+00:00",
+  "timestamp": "2026-09-06T19:28:01.892367+00:00",
   "house": {
     "indoor_temp": 22.1,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 19.7,
-    "outdoor_humidity": 79.0,
+    "outdoor_temp": 18.7,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 210.0,
-    "pressure": 1016.2,
+    "wind_direction": 185.0,
+    "pressure": 1016.3,
     "rain_today": 2.0,
     "uv_index": 0.0,
-    "power_usage": 531.0,
+    "power_usage": 626.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "BepiColombo sheds its ride and starts the final glide to Mercury",
     "Anthropic lays groundwork for bots that shop for you"
   ],
-  "crew_quote": "\"Honestly, with the kind of weather we're having, I thought I'd need a curry to warm me up, but here I am, just drenched and waiting for Time Lords to sort out the leap seconds!\""
+  "crew_quote": "\"Looks like it's raining in Altrincham, perfect weather for a nice curry and a good old binge-watch while we wait for the Time Lords to sort out their seconds!\""
 }
