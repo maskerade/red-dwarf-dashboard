@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-06T11:42:54.856686+00:00",
+  "timestamp": "2026-09-06T12:13:55.255814+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 22.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 18.5,
-    "outdoor_humidity": 84.0,
-    "wind_speed": 2.5,
-    "wind_direction": 195.0,
-    "pressure": 1020.5,
-    "rain_today": 1.8,
-    "uv_index": 1.0,
-    "power_usage": 595.0,
+    "outdoor_temp": 19.4,
+    "outdoor_humidity": 77.0,
+    "wind_speed": 0.4,
+    "wind_direction": 200.0,
+    "pressure": 1020.3,
+    "rain_today": 2.0,
+    "uv_index": 0.0,
+    "power_usage": 533.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 20.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-06",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 22.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-06",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Sunny",
+      "temp": 22.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-06",
@@ -94,5 +94,5 @@
     "BepiColombo sheds its ride and starts the final glide to Mercury",
     "Anthropic lays groundwork for bots that shop for you"
   ],
-  "crew_quote": "\"With the weather being this patchy, it’s a perfect day for a curry, as long as I don’t have to go out in the rain — I’m not a Time Lord, you know!\""
+  "crew_quote": "\"Well, at least the weather's nice, but can you believe it? Time Lords kicking leap seconds into the next millennium while we're stuck here in a patchy rain of bureaucracy!\""
 }
