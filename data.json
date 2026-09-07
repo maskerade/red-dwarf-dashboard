@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-07T07:21:14.790873+00:00",
+  "timestamp": "2026-09-07T07:52:15.565629+00:00",
   "house": {
     "indoor_temp": 21.8,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 14.9,
+    "outdoor_temp": 15.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 164.0,
-    "pressure": 1016.6,
+    "wind_direction": 165.0,
+    "pressure": 1016.7,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 269.0,
+    "power_usage": 297.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Jensen's purchase of a new toy could reshape the entire AI industry",
     "Might as well blame AI for this giant Linux release candidate, says Linus Torvalds"
   ],
-  "crew_quote": "\"With the weather being all over the place, it’d be a perfect day for a curry, unless you want a rain shower in your tikka masala — now that would be a bit of a drizzler!\""
+  "crew_quote": "\"Bit nippy outside, innit? I’d say it’s curry time! Nothing like a good balti to warm you up when the weather’s deciding whether to rain or just be generally miserable.\""
 }
