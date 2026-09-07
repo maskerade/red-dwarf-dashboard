@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-07T01:09:08.230560+00:00",
+  "timestamp": "2026-09-07T01:40:08.149132+00:00",
   "house": {
     "indoor_temp": 22.0,
     "indoor_humidity": 60.0,
     "outdoor_temp": 17.4,
-    "outdoor_humidity": 92.0,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
-    "wind_direction": 160.0,
-    "pressure": 1015.4,
+    "wind_direction": 198.0,
+    "pressure": 1015.2,
     "rain_today": 0.8,
     "uv_index": 0.0,
-    "power_usage": 317.0,
+    "power_usage": 306.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "BepiColombo sheds its ride and starts the final glide to Mercury",
     "Anthropic lays groundwork for bots that shop for you"
   ],
-  "crew_quote": "\"Honestly, with all this fog, I half expect to see a Time Lord pop out and ask if I’ve got any curry in the fridge. But, you know, I'm more worried about the power bill!\""
+  "crew_quote": "\"Ah, rain and fog everywhere! Just like back home, but with less chance of me finding a decent curry. I should really get into weather forecasting; it’s all just a bit… cloudy!\""
 }
