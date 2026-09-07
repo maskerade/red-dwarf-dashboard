@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-07T05:17:11.990448+00:00",
+  "timestamp": "2026-09-07T05:48:12.419062+00:00",
   "house": {
     "indoor_temp": 21.8,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 15.7,
+    "outdoor_temp": 14.9,
     "outdoor_humidity": 99.0,
-    "wind_speed": 2.2,
-    "wind_direction": 169.0,
-    "pressure": 1015.6,
-    "rain_today": 2.0,
+    "wind_speed": 0.4,
+    "wind_direction": 168.0,
+    "pressure": 1016.1,
+    "rain_today": 2.6,
     "uv_index": 0.0,
-    "power_usage": 261.0,
+    "power_usage": 283.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Welcome to Metrolink. Please ensure you have a valid ticket before travelling. For up to date travel information contact Metrolink twitter on @BeeNetwork or visit www.TfGM.com.",
   "headlines": [
+    "Jensen's purchase of a new toy could reshape the entire AI industry",
     "Might as well blame AI for this giant Linux release candidate, says Linus Torvalds",
     "Thailand pauses all datacenter builds and approvals",
-    "Time lords prepare to kick leap seconds into the next millennium",
-    "US troops can still be tracked by purchased location data, and Congress wants to know why"
+    "Time lords prepare to kick leap seconds into the next millennium"
   ],
-  "crew_quote": "\"With weather as patchy as my memory, it's the perfect day for a curry and a good old-fashioned moan about how AI's ruining everything — cheers to progress!\""
+  "crew_quote": "\"Oi, it's 21.8 degrees inside and I'm still sweating like a curry on a bad day! What’s it gonna take to get a decent pint around here?\""
 }
