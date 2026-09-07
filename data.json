@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-07T03:44:09.995990+00:00",
+  "timestamp": "2026-09-07T04:15:10.627445+00:00",
   "house": {
     "indoor_temp": 21.9,
     "indoor_humidity": 60.0,
     "outdoor_temp": 16.6,
-    "outdoor_humidity": 97.0,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 174.0,
     "pressure": 1014.7,
     "rain_today": 0.8,
     "uv_index": 0.0,
-    "power_usage": 261.0,
+    "power_usage": 266.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "BepiColombo sheds its ride and starts the final glide to Mercury",
     "Anthropic lays groundwork for bots that shop for you"
   ],
-  "crew_quote": "\"Ah, a lovely 21.9°C indoors while those Time Lords fiddle with leap seconds — I just hope it doesn't throw my curry timing off!\""
+  "crew_quote": "\"What's this about leap seconds? I can barely keep track of time in an overcast Altrincham; I need more curry and less cosmic nonsense!\""
 }
