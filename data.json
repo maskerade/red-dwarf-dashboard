@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-07T21:49:37.050964+00:00",
+  "timestamp": "2026-09-07T22:20:37.451137+00:00",
   "house": {
     "indoor_temp": 22.2,
     "indoor_humidity": 59.0,
     "outdoor_temp": 14.4,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 177.0,
-    "pressure": 1013.0,
+    "wind_direction": 180.0,
+    "pressure": 1012.8,
     "rain_today": 6.1,
     "uv_index": 0.0,
-    "power_usage": 466.0,
+    "power_usage": 410.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-09-07",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "DRAM contract prices forecast to grow only 13-18% in Q3",
     "Nightwing CEO has a Labor Day message for staff – and apparently The Register"
   ],
-  "crew_quote": "\"With this patchy rain outside, I'd say it's a perfect day for a curry — you can't beat a nice warm tikka masala to combat the damp, can you?\""
+  "crew_quote": "\"Ah, it’s a bit drizzly out there—perfect weather for a curry night in! Just don’t let Rimmer near the naan, or it'll end up as a slightly burnt flatter than his ego!\""
 }
