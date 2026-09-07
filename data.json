@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-07T02:11:09.503237+00:00",
+  "timestamp": "2026-09-07T02:42:09.003566+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 21.9,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 17.2,
+    "outdoor_temp": 17.1,
     "outdoor_humidity": 94.0,
-    "wind_speed": 0.0,
-    "wind_direction": 153.0,
+    "wind_speed": 1.1,
+    "wind_direction": 149.0,
     "pressure": 1015.2,
     "rain_today": 0.8,
     "uv_index": 0.0,
-    "power_usage": 337.0,
+    "power_usage": 303.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "BepiColombo sheds its ride and starts the final glide to Mercury",
     "Anthropic lays groundwork for bots that shop for you"
   ],
-  "crew_quote": "\"Ah, it's 15 degrees and overcast—just the sort of day for a lovely curry while we wait for those Time Lords to sort out their leap seconds, innit?\""
+  "crew_quote": "\"Weather's been proper grim outside, but at least in here it's a cozy 21.9 degrees; just enough to simmer up a good curry without breaking a sweat!\""
 }
