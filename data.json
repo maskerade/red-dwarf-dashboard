@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-07T17:10:30.180093+00:00",
+  "timestamp": "2026-09-07T17:41:30.331919+00:00",
   "house": {
-    "indoor_temp": 22.3,
-    "indoor_humidity": 56.0,
-    "outdoor_temp": 18.3,
-    "outdoor_humidity": 75.0,
-    "wind_speed": 0.0,
-    "wind_direction": 185.0,
-    "pressure": 1015.5,
+    "indoor_temp": 22.0,
+    "indoor_humidity": 55.0,
+    "outdoor_temp": 17.8,
+    "outdoor_humidity": 74.0,
+    "wind_speed": 0.4,
+    "wind_direction": 171.0,
+    "pressure": 1014.9,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 429.0,
+    "power_usage": 376.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-07",
@@ -94,5 +94,5 @@
     "DRAM contract prices forecast to grow only 13-18% in Q3",
     "Nightwing CEO has a Labor Day message for staff – and apparently The Register"
   ],
-  "crew_quote": "\"Oi, it's 22.3 degrees in here, and all I can think about is how much I could go for a curry — perfect weather for a takeaway, even if it's patchy rain outside!\""
+  "crew_quote": "\"Well, with it being overcast and a balmy 18 degrees, I reckon it's the perfect weather for a curry — just got to make sure it doesn't rain on my parade!\""
 }
