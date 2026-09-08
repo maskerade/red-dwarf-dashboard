@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-08T22:06:58.415937+00:00",
+  "timestamp": "2026-09-08T22:37:59.263160+00:00",
   "house": {
     "indoor_temp": 21.7,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.8,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 0.0,
-    "wind_direction": 160.0,
-    "pressure": 1012.0,
+    "outdoor_temp": 13.9,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 2.5,
+    "wind_direction": 181.0,
+    "pressure": 1012.4,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 384.0,
+    "power_usage": 443.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Google research shows when AI agents communicate, some cheat while others tattle",
     "Amazon ropes Qualcomm into something, something AI, networking chips"
   ],
-  "crew_quote": "\"Well, with all this patchy rain and a perfect indoor temp of 21.7°C, I’d say it’s just another day for a nice curry and a game of 'who can ignore the world’!\""
+  "crew_quote": "\"Well, if the weather’s as patchy as my hair on a bad day, I reckon it’s a perfect time for a curry — indoors, away from the rain and just me, my chips, and my dreams!\""
 }
