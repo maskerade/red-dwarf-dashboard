@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-08T03:30:42.943311+00:00",
+  "timestamp": "2026-09-08T04:01:43.287141+00:00",
   "house": {
     "indoor_temp": 21.7,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 12.1,
+    "outdoor_temp": 12.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 165.0,
-    "pressure": 1010.2,
+    "pressure": 1010.1,
     "rain_today": 2.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 255.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "US watchdog opens probe into Tesla's Cybercab self-certification",
     "DRAM contract prices forecast to grow only 13-18% in Q3"
   ],
-  "crew_quote": "\"Ah, light rain and patchy clouds, just like my love life — damp and unpredictable! But at least it’s warmer inside, perfect for a curry binge!\""
+  "crew_quote": "\"Ah, great, more patchy rain to match my patchy hair! I might as well just wear a curry for a raincoat—keeps the damp out and my style on point!\""
 }
