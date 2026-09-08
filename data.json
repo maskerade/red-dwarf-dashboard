@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-08T09:11:48.247296+00:00",
+  "timestamp": "2026-09-08T09:42:48.775253+00:00",
   "house": {
-    "indoor_temp": 21.5,
+    "indoor_temp": 21.7,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 13.4,
-    "outdoor_humidity": 92.0,
-    "wind_speed": 0.0,
-    "wind_direction": 169.0,
-    "pressure": 1009.0,
+    "outdoor_temp": 14.3,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 1.8,
+    "wind_direction": 164.0,
+    "pressure": 1008.8,
     "rain_today": 2.0,
     "uv_index": 0.0,
-    "power_usage": 261.0,
+    "power_usage": 337.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "HPE makes its “unified storage” claim real as B10000 R6 hits GA",
     "‘Global reckoning’ is coming for big tech, says Australian minister"
   ],
-  "crew_quote": "\"Well, with all this patchy rain, it’s just like being back on Earth — too cold for a curry and too warm for a raincoat. Brilliant! Just brilliant!\""
+  "crew_quote": "\"Looks like the weather's as confused as my last curry order—patchy rain all around and I'm still sweating like a pig in a sauna at 21.7°C!\""
 }
