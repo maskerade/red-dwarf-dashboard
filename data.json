@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-08T05:03:44.003251+00:00",
+  "timestamp": "2026-09-08T05:34:44.412828+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 12.1,
+    "outdoor_temp": 11.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 165.0,
     "pressure": 1009.3,
     "rain_today": 2.0,
     "uv_index": 0.0,
-    "power_usage": 295.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "US watchdog opens probe into Tesla's Cybercab self-certification",
     "DRAM contract prices forecast to grow only 13-18% in Q3"
   ],
-  "crew_quote": "\"With this patchy rain and a cozy 21.6 degrees inside, I reckon we’re not just in space, we’re in the middle of a curry-and-dvd binge, right lads?\""
+  "crew_quote": "\"Well, at least it’s warm in here, mate! I’d take the indoor temp over the patchy rain any day—perfect weather for a curry and a pint!\""
 }
