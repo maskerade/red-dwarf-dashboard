@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-08T08:09:47.047915+00:00",
+  "timestamp": "2026-09-08T08:40:47.854056+00:00",
   "house": {
-    "indoor_temp": 21.5,
+    "indoor_temp": 21.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 12.5,
-    "outdoor_humidity": 99.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 164.0,
-    "pressure": 1009.2,
+    "wind_direction": 173.0,
+    "pressure": 1008.8,
     "rain_today": 2.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 410.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Huawei proudly shows off an entirely un-American chip",
     "Matt Clifford to leave ARIA before Anthropic role becomes a 'distraction'"
   ],
-  "crew_quote": "\"Blimey, it’s so damp outside I could probably make a curry just by leaving the spices in the rain!\""
+  "crew_quote": "\"Looks like it's patchy rain nearby—dreadful weather for a curry, but at least in here it's a balmy 21.4°C! Let’s whip up something spicy, eh?\""
 }
