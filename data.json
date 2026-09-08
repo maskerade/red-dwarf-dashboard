@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-08T14:21:52.402597+00:00",
+  "timestamp": "2026-09-08T14:52:53.015123+00:00",
   "house": {
-    "indoor_temp": 21.9,
+    "indoor_temp": 21.7,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 16.7,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 6.5,
-    "wind_direction": 151.0,
-    "pressure": 1008.1,
+    "outdoor_temp": 16.1,
+    "outdoor_humidity": 79.0,
+    "wind_speed": 2.9,
+    "wind_direction": 174.0,
+    "pressure": 1008.2,
     "rain_today": 2.0,
-    "uv_index": 1.0,
-    "power_usage": 483.0,
+    "uv_index": 0.0,
+    "power_usage": 460.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Mistral bags €3B to build Europe's sovereign AI champion",
     "Extortion crews have their eyes on high-value AI data, Google warns"
   ],
-  "crew_quote": "\"With all this patchy rain nearby, I'd say it's a perfect day for a curry — nothing like a bit of spice to liven up 21.9 degrees of indoor blandness!\""
+  "crew_quote": "\"Oi, it’s warmer in here than on the surface, and that’s saying something! If it starts raining curry, I might just move the whole party indoors!\""
 }
