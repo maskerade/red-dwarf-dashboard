@@ -1,4 +1,163 @@
 {
-  "status": "offline",
-  "error": "Cannot reach Portainer API"
+  "status": "online",
+  "timestamp": "2026-09-08T10:52:45.324685+00:00",
+  "docker": {
+    "version": "28.1.1",
+    "containers": {
+      "total": 23,
+      "running": 22,
+      "stopped": 1
+    }
+  },
+  "system": {
+    "cpu_count": 4,
+    "memory_bytes": 16536760320,
+    "memory_gb": 15.4,
+    "docker_disk_bytes": 22371718974,
+    "docker_disk_gb": 20.8
+  },
+  "containers": [
+    {
+      "name": "media-digest",
+      "state": "running",
+      "status": "Up 6 days",
+      "image": "ghcr.io/maskerade/nas-media-reporter-dashboard:latest"
+    },
+    {
+      "name": "obs-webtop",
+      "state": "running",
+      "status": "Up 8 days",
+      "image": "lscr.io/linuxserver/webtop:ubuntu-xfce"
+    },
+    {
+      "name": "homepage",
+      "state": "running",
+      "status": "Up 8 days (healthy)",
+      "image": "ghcr.io/gethomepage/homepage:latest"
+    },
+    {
+      "name": "dupeguru",
+      "state": "running",
+      "status": "Up 12 days",
+      "image": "jlesage/dupeguru:latest"
+    },
+    {
+      "name": "Sonarr",
+      "state": "running",
+      "status": "Up 12 days",
+      "image": "linuxserver/sonarr:latest"
+    },
+    {
+      "name": "Radarr",
+      "state": "running",
+      "status": "Up 11 days",
+      "image": "linuxserver/radarr:latest"
+    },
+    {
+      "name": "SeerrD",
+      "state": "running",
+      "status": "Up 12 days",
+      "image": "ghcr.io/seerr-team/seerr:latest"
+    },
+    {
+      "name": "Jellyfin",
+      "state": "running",
+      "status": "Up 13 days (healthy)",
+      "image": "jellyfin/jellyfin:latest"
+    },
+    {
+      "name": "SABnzbd",
+      "state": "running",
+      "status": "Up 13 days",
+      "image": "linuxserver/sabnzbd:latest"
+    },
+    {
+      "name": "metrolinkmap-map-1",
+      "state": "running",
+      "status": "Up 12 days (unhealthy)",
+      "image": "ghcr.io/maskerade/tfgmmetrolinkmap:latest"
+    },
+    {
+      "name": "tfgmmetrolinkapi-api-1",
+      "state": "running",
+      "status": "Up 2 weeks (healthy)",
+      "image": "ghcr.io/maskerade/tfgmmetrolinkapi:latest"
+    },
+    {
+      "name": "tfgmmetrolinkapi-influxdb-1",
+      "state": "running",
+      "status": "Up 2 weeks (healthy)",
+      "image": "influxdb:2-alpine"
+    },
+    {
+      "name": "tfgmmetrolinkapi-redis-1",
+      "state": "running",
+      "status": "Up 2 weeks (healthy)",
+      "image": "redis:7-alpine"
+    },
+    {
+      "name": "starbug-cockpit",
+      "state": "running",
+      "status": "Up 2 weeks",
+      "image": "ghcr.io/home-assistant/home-assistant:stable"
+    },
+    {
+      "name": "nginx",
+      "state": "running",
+      "status": "Up 2 weeks",
+      "image": "ghcr.io/maskerade/f1replaytiming-nginx:latest"
+    },
+    {
+      "name": "frontend",
+      "state": "running",
+      "status": "Up 2 weeks",
+      "image": "ghcr.io/maskerade/f1replaytiming-frontend:latest"
+    },
+    {
+      "name": "backend",
+      "state": "running",
+      "status": "Up 2 weeks",
+      "image": "ghcr.io/maskerade/f1replaytiming-backend:latest"
+    },
+    {
+      "name": "calibre-web-automated",
+      "state": "running",
+      "status": "Up 2 weeks (healthy)",
+      "image": "crocodilestick/calibre-web-automated:latest"
+    },
+    {
+      "name": "Cloudflared",
+      "state": "running",
+      "status": "Up 2 weeks",
+      "image": "cloudflare/cloudflared:latest"
+    },
+    {
+      "name": "PortainerCE",
+      "state": "running",
+      "status": "Up 2 weeks",
+      "image": "portainer/portainer-ce:latest"
+    },
+    {
+      "name": "tfgmtramtimes",
+      "state": "exited",
+      "status": "Exited (255) 6 months ago",
+      "image": "ghcr.io/maskerade/metrolink-times:latest"
+    },
+    {
+      "name": "KomgaD",
+      "state": "running",
+      "status": "Up 2 weeks",
+      "image": "gotson/komga:latest"
+    },
+    {
+      "name": "Readarr",
+      "state": "running",
+      "status": "Up 2 weeks",
+      "image": "linuxserver/readarr:develop"
+    }
+  ],
+  "starbug_cockpit": {
+    "status": "Up 2 weeks",
+    "state": "running"
+  }
 }

@@ -2939,6 +2939,7 @@
       renderBrewCalculator(data);
       renderEfficiencyCrossref(data);
       renderTempSpreadWidget(data);
+      renderLazyMeter(data);
     } catch (err) {
       console.error('[Dashboard] Failed to load data:', err);
       // Still render what we can with defaults
@@ -3963,6 +3964,10 @@
       setupPipelineChronometer();
       setupOutfitArchive();
       setupProbabilityEngine();
+      setupNightWatchRoster();
+      setupAcronymGenerator();
+      setupMirrorTally();
+      setupPolitenessThermometer();
 
       const REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minutes
       let countdownMs = REFRESH_INTERVAL;
@@ -5125,5 +5130,280 @@
 
     render();
     setInterval(render, 30000);
+  }
+
+  // ── 76. Rimmer's Night Watch Duty Roster ────────────────────
+  function setupNightWatchRoster() {
+    var crew = ['Lister', 'Cat', 'Kryten', 'Holly'];
+    var comments = [
+      'Of course I am not on the roster. I am a hologram. We do not sleep.',
+      'Lister has dodged more shifts than I have. That is saying something.',
+      'If I ran this ship, everyone would do double shifts. Starting with Lister.',
+      'Cat has never completed a night watch. Claims it interferes with his beauty sleep.',
+      'Kryten does not need sleep. He is a mechanoid. I do not see why he cannot cover all shifts.',
+      'Night watch? I have a certificate in night watch. From Space Corps night-watch academy.'
+    ];
+
+    var currentEl = $('watch-current');
+    var nextEl = $('watch-next');
+    var shirkedEl = $('watch-shirked');
+    var commentEl = $('watch-comment');
+    if (!currentEl || !nextEl || !shirkedEl || !commentEl) return;
+
+    // Load shirk counts from localStorage
+    var stored = {};
+    try { stored = JSON.parse(localStorage.getItem('rdm_shirk') || '{}'); } catch (e) { stored = {}; }
+    crew.forEach(function (name) {
+      if (stored[name] == null) stored[name] = 0;
+    });
+
+    // Rimmer always dodges — increment on each page load
+    var rimmerKey = 'Rimmer';
+    if (stored[rimmerKey] == null) stored[rimmerKey] = 0;
+    stored[rimmerKey]++;
+    try { localStorage.setItem('rdm_shirk', JSON.stringify(stored)); } catch (e) { /* quota */ }
+
+    var currentIdx = Math.floor(Date.now() / 3600000) % crew.length;
+    var nextIdx = (currentIdx + 1) % crew.length;
+
+    currentEl.textContent = crew[currentIdx];
+    nextEl.textContent = crew[nextIdx];
+    shirkedEl.textContent = rimmerKey + ' (' + stored[rimmerKey] + ')';
+
+    var commentIdx = Math.floor(Date.now() / 60000) % comments.length;
+    commentEl.textContent = comments[commentIdx];
+
+    setInterval(function () {
+      var now = Date.now();
+      var ci = Math.floor(now / 3600000) % crew.length;
+      var ni = (ci + 1) % crew.length;
+      currentEl.textContent = crew[ci];
+      nextEl.textContent = crew[ni];
+      var cIdx = Math.floor(now / 60000) % comments.length;
+      commentEl.textContent = comments[cIdx];
+    }, 60000);
+  }
+
+  // ── 77. Holly's Acronym Generator ───────────────────────────
+  function setupAcronymGenerator() {
+    var acronyms = [
+      {word:'S.M.E.G.', expansion:'Shipboard Management of Environmental Gauges', rating:60},
+      {word:'C.U.R.R.Y.', expansion:'Crew Unified Ration Retrieval Yard', rating:45},
+      {word:'T.O.A.S.T.', expansion:'Thermal Output Assessment & Serving Terminal', rating:55},
+      {word:'H.O.L.L.Y.', expansion:'Heuristic Omnidirectional Logical Luminance Yielder', rating:35},
+      {word:'S.P.A.C.E.', expansion:'Systematic Protocol for Astrogation and Crew Efficiency', rating:70},
+      {word:'C.A.T.', expansion:'Cosmetic Aesthetic Terminal', rating:80},
+      {word:'R.I.M.M.E.R.', expansion:'Regulatory Interface for Metrics, Monitoring, and Efficiency Reporting', rating:25},
+      {word:'K.R.Y.T.E.N.', expansion:'Kinetic Robotic Yielding, Tracking, and Environmental Navigation', rating:40},
+      {word:'F.L.I.B.B.L.E.', expansion:'Forward Logistics & Inflatable Barrier Baseline Equipment', rating:30},
+      {word:'D.U.S.T.', expansion:'Decontamination Unit for Sanitary Tracking', rating:65},
+      {word:'S.N.O.O.K.E.R.', expansion:'Strategic Navigation and Observational Oversight for Kinetic Engagement and Recreation', rating:20},
+      {word:'V.I.N.D.A.L.O.O.', expansion:'Variable-Intensity Nutritional Dispensation and Logistics Operations Organiser', rating:15},
+      {word:'S.T.A.R.B.U.G.', expansion:'Systematic Telemetry and Reconnaissance Base for Unmanned Guidance', rating:50},
+      {word:'L.A.Z.Y.', expansion:'Lethargy Assessment Zone Yielder', rating:75},
+      {word:'H.U.M.', expansion:'Holoship Ubiquitous Maintenance', rating:85}
+    ];
+    var seeds = [
+      'Seeded by: current sensor readings',
+      'Seeded by: Rimmer\'s self-importance index',
+      'Seeded by: Lister\'s curry supply levels',
+      'Seeded by: ambient smeg factor',
+      'Seeded by: cosmic background radiation',
+      'Seeded by: Cat\'s mirror feedback loop'
+    ];
+
+    var wordEl = $('acronym-word');
+    var expansionEl = $('acronym-expansion');
+    var ratingEl = $('acronym-rating');
+    var seedEl = $('acronym-seed');
+    if (!wordEl || !expansionEl || !ratingEl || !seedEl) return;
+
+    function render() {
+      var idx = Math.floor(Date.now() / 30000) % acronyms.length;
+      var a = acronyms[idx];
+      var sIdx = Math.floor(Date.now() / 60000) % seeds.length;
+
+      wordEl.textContent = a.word;
+      expansionEl.textContent = a.expansion;
+
+      var filled = Math.round(a.rating / 10);
+      var empty = 10 - filled;
+      var bar = '';
+      for (var i = 0; i < filled; i++) bar += '\u2588';
+      for (var j = 0; j < empty; j++) bar += '\u2591';
+      ratingEl.textContent = 'Plausibility: ' + bar + ' ' + a.rating + '%';
+
+      seedEl.textContent = seeds[sIdx];
+    }
+
+    render();
+    setInterval(render, 30000);
+  }
+
+  // ── 78. Lister's Lazy Meter ─────────────────────────────────
+  function renderLazyMeter(data) {
+    var fillEl = $('lazy-fill');
+    var pctEl = $('lazy-pct');
+    var verdictEl = $('lazy-verdict');
+    var detailsEl = $('lazy-details');
+    if (!fillEl || !pctEl || !verdictEl || !detailsEl) return;
+
+    var wind = data && data.wind_speed != null ? Number(data.wind_speed) : 15;
+    var rain = data && data.rain_today != null ? Number(data.rain_today) : 0;
+    var temp = data && data.indoor_temp != null ? Number(data.indoor_temp) : 18;
+
+    var score = 0;
+    if (wind > 20) score += 30; else if (wind > 10) score += 20; else score += 10;
+    if (rain > 5) score += 30; else if (rain > 1) score += 20; else score += 10;
+    if (temp >= 18 && temp <= 25) score += 30; else if (temp > 30) score += 20; else if (temp < 10) score += 25; else score += 15;
+    score = Math.max(0, Math.min(100, score));
+
+    fillEl.style.width = score + '%';
+    pctEl.textContent = score + '%';
+
+    var verdict;
+    if (score >= 80) verdict = 'Proper stay-in-and-have-a-cup-of-tea weather, la';
+    else if (score >= 60) verdict = 'Good day to do nothing. I am doing nothing TODAY.';
+    else if (score >= 40) verdict = 'Bit borderline. Might go out. Might not. Flip a coin.';
+    else if (score >= 20) verdict = 'You gotta go out, la. No excuses. But make it quick.';
+    else verdict = 'No excuses, la. Get outside. Take a walk. I will watch from the window.';
+    verdictEl.textContent = verdict;
+
+    var windLabel = wind > 20 ? 'windy' : wind > 10 ? 'blowy' : 'calm';
+    var rainLabel = rain > 1 ? 'wet' : 'dry';
+    var tempLabel = temp >= 18 && temp <= 25 ? 'perfect' : temp < 10 ? 'chilly' : 'hot';
+    detailsEl.textContent = 'Wind ' + wind + ' km/h \u2014 ' + windLabel + '. Rain ' + rain + 'mm \u2014 ' + rainLabel + '. Temp ' + temp + '\u00b0C \u2014 ' + tempLabel + '.';
+  }
+
+  // ── 79. Cat's Mirror Check-In Tally ─────────────────────────
+  function setupMirrorTally() {
+    var countEl = $('mirror-count');
+    var dramaEl = $('mirror-drama');
+    var logEl = $('mirror-log');
+    var btnEl = $('mirror-btn');
+    if (!countEl || !dramaEl || !logEl || !btnEl) return;
+
+    var phrases = [
+      'Still flawless',
+      'Hair on point',
+      'Gorgeous as ever',
+      'Not a single imperfection',
+      'Mirror confirmed: I am the best',
+      'Too good looking for this ship',
+      'Damn I look good',
+      'This mirror is lucky to see me'
+    ];
+
+    var count = 0;
+    try { count = parseInt(sessionStorage.getItem('rdm_mirror') || '0', 10) || 0; } catch (e) { count = 0; }
+
+    function getDrama(n) {
+      if (n >= 16) return 'CRITICAL: Mirror dependency detected. Recommend intervention.';
+      if (n >= 12) return 'Obsession level: concerning';
+      if (n >= 8) return 'OK this is becoming a habit';
+      if (n >= 4) return 'Getting my money\'s worth from this mirror';
+      return 'Looking fresh';
+    }
+
+    function addEntry() {
+      var now = new Date();
+      var hh = String(now.getHours()).padStart(2, '0');
+      var mm = String(now.getMinutes()).padStart(2, '0');
+      var phrase = phrases[count % phrases.length];
+      return hh + ':' + mm + ' \u2014 ' + phrase;
+    }
+
+    function render() {
+      countEl.textContent = count;
+      dramaEl.textContent = getDrama(count);
+    }
+
+    function increment() {
+      count++;
+      try { sessionStorage.setItem('rdm_mirror', String(count)); } catch (e) { /* quota */ }
+      render();
+      var entry = addEntry();
+      var line = document.createElement('div');
+      line.textContent = entry;
+      logEl.insertBefore(line, logEl.firstChild);
+      while (logEl.children.length > 5) {
+        logEl.removeChild(logEl.lastChild);
+      }
+    }
+
+    btnEl.addEventListener('click', increment);
+
+    // Restore log from count (create placeholder entries for prior count)
+    render();
+    for (var i = 0; i < Math.min(count, 5); i++) {
+      var line = document.createElement('div');
+      line.textContent = '(previous session check)';
+      logEl.insertBefore(line, logEl.firstChild);
+    }
+
+    // Auto-increment every 5 minutes (self-check)
+    setInterval(increment, 300000);
+  }
+
+  // ── 80. Kryten's Politeness Thermometer ─────────────────────
+  function setupPolitenessThermometer() {
+    var fillEl = $('politeness-fill');
+    var pctEl = $('politeness-pct');
+    var labelEl = $('politeness-label');
+    var logEl = $('politeness-log');
+    if (!fillEl || !pctEl || !labelEl || !logEl) return;
+
+    var today = new Date().toISOString().slice(0, 10);
+    var stored = {};
+    try { stored = JSON.parse(localStorage.getItem('rdm_politeness') || '{}'); } catch (e) { stored = {}; }
+
+    // Daily reset
+    if (stored.date !== today) {
+      stored = { date: today, score: 70, infractions: 0 };
+    }
+
+    // Random adjustment on load
+    var drift = Math.random() < 0.7 ? -(Math.random() * 5) : (Math.random() * 5);
+    stored.score = Math.max(0, Math.min(100, stored.score + Math.round(drift)));
+
+    function getLabel(s) {
+      if (s >= 90) return 'Exceptionally cordial \u2014 one could eat off the crew\'s manners';
+      if (s >= 75) return 'Admirably polite \u2014 I am proud';
+      if (s >= 50) return 'Adequate \u2014 room for improvement';
+      if (s >= 25) return 'Barely civil \u2014 I shall have to demonstrate proper etiquette again';
+      return 'Abysmal \u2014 I am frankly embarrassed';
+    }
+
+    function render() {
+      fillEl.style.width = stored.score + '%';
+      pctEl.textContent = stored.score + '%';
+      labelEl.textContent = getLabel(stored.score);
+      logEl.textContent = stored.infractions > 0
+        ? stored.infractions + ' discourtesies recorded today. I am keeping a list.'
+        : 'No infractions logged today, sir';
+    }
+
+    // Save and render
+    function save() {
+      try { localStorage.setItem('rdm_politeness', JSON.stringify(stored)); } catch (e) { /* quota */ }
+      render();
+    }
+
+    // Click gauge to improve politeness
+    fillEl.parentElement.addEventListener('click', function () {
+      stored.score = Math.min(100, stored.score + 5);
+      save();
+    });
+
+    // Tick down every 30s
+    setInterval(function () {
+      if (stored.score > 0) {
+        stored.score--;
+        stored.infractions++;
+      }
+      save();
+    }, 30000);
+
+    save();
   }
   })();

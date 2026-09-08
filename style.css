@@ -1154,6 +1154,40 @@ body {
 .probability-value { font-size:2rem; font-weight:bold; font-family:var(--font-mono-alt); text-align:center; color:var(--amber); text-shadow:0 0 10px rgba(255,176,0,0.2); padding:6px 0; }
 .probability-seed { font-size:0.5rem; text-align:center; display:block; color:var(--text-dim); }
 
+/* === 76. Night Watch Duty Roster (Rimmer) === */
+.watch-crew { display:flex; flex-direction:column; gap:3px; padding:6px 0; }
+.watch-row { display:flex; justify-content:space-between; align-items:center; padding:3px 6px; background:rgba(255,255,255,0.02); border-radius:3px; }
+.watch-name { font-size:0.55rem; color:var(--text-dim); letter-spacing:0.05em; }
+.watch-value { font-size:0.65rem; font-family:var(--font-mono-alt); color:var(--amber); font-weight:bold; }
+.watch-comment { font-size:0.5rem; text-align:center; display:block; color:var(--cyan-dim); font-style:italic; padding:4px; line-height:1.4; }
+
+/* === 77. Acronym Generator (Holly) === */
+.acronym-word { font-size:1.8rem; font-weight:bold; font-family:var(--font-mono-alt); text-align:center; color:var(--cyan); text-shadow:0 0 8px rgba(0,212,255,0.2); letter-spacing:0.15em; padding:6px 0; }
+.acronym-expansion { font-size:0.6rem; text-align:center; color:var(--text-dim); font-style:italic; padding:4px; line-height:1.4; }
+.acronym-rating { font-size:0.55rem; text-align:center; color:var(--amber); padding:4px 0; }
+
+/* === 78. Lister's Lazy Meter === */
+.lazy-gauge-wrap { position:relative; height:28px; background:rgba(255,255,255,0.04); border-radius:14px; overflow:hidden; margin:8px 0; }
+.lazy-fill { position:absolute; top:0; left:0; height:100%; background:linear-gradient(90deg,#00ff88,#ffaa00,#ff4444); border-radius:14px; transition:width 2s ease; }
+.lazy-pct { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); font-size:0.85rem; font-weight:bold; font-family:var(--font-mono-alt); color:#fff; text-shadow:0 0 8px rgba(0,0,0,0.6); line-height:1; z-index:1; }
+.lazy-verdict { font-size:0.6rem; text-align:center; padding:4px; font-style:italic; color:var(--cyan); }
+
+/* === 79. Cat's Mirror Check-In Tally === */
+.mirror-count-display { text-align:center; padding:8px 0; }
+.mirror-count { font-size:2.5rem; font-weight:bold; font-family:var(--font-mono-alt); color:var(--amber); text-shadow:0 0 10px rgba(255,176,0,0.2); }
+.mirror-unit { display:block; font-size:0.5rem; letter-spacing:0.1em; color:var(--text-dim); }
+.mirror-drama { text-align:center; font-size:0.55rem; font-style:italic; color:var(--cyan); padding:4px 0; }
+.mirror-log { max-height:60px; overflow-y:auto; font-size:0.45rem; color:var(--text-dim); text-align:left; padding:4px; line-height:1.5; }
+.mirror-btn { display:block; margin:4px auto; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.1); color:var(--amber); font-family:var(--font-mono-alt); font-size:0.55rem; padding:6px 16px; border-radius:4px; cursor:pointer; }
+.mirror-btn:hover { background:rgba(255,255,255,0.1); }
+
+/* === 80. Kryten's Politeness Thermometer === */
+.politeness-gauge-wrap { position:relative; height:28px; background:rgba(255,255,255,0.04); border-radius:14px; overflow:hidden; margin:8px 0; }
+.politeness-fill { position:absolute; top:0; left:0; height:100%; background:linear-gradient(90deg,#ff4444,#ffaa00,#00ff88); border-radius:14px; transition:width 2s ease; }
+.politeness-pct { position:absolute; top:50%; left:50%; transform:translate(-50%,-50%); font-size:0.85rem; font-weight:bold; font-family:var(--font-mono-alt); color:#fff; text-shadow:0 0 8px rgba(0,0,0,0.6); line-height:1; z-index:1; }
+.politeness-label { font-size:0.65rem; text-align:center; padding:4px; color:var(--amber); }
+.politeness-log { font-size:0.5rem; text-align:center; display:block; color:var(--text-dim); padding:4px; }
+
 /* --- Responsive --- */
 @media (max-width: 900px) {
   .grid-main {
@@ -2568,7 +2602,8 @@ body::after {
   .holoship-bandwidth, .bunk-biohazard, .daily-vibe, .tea-recommendation, .auto-destruct,
   .smell-o-meter, .jury-countdown, .leftovers-alert, .deep-thought, .tidiness-matrix,
   .award-cabinet, .boredom-index, .rival-detector, .brew-calculator, .fuss-o-meter,
-  .efficiency-crossref, .temp-spread-widget, .pipeline-chronometer, .outfit-archive, .probability-engine { grid-column: 1 / -1; }
+  .efficiency-crossref, .temp-spread-widget, .pipeline-chronometer, .outfit-archive, .probability-engine,
+  .night-watch-roster, .acronym-generator, .lazy-meter, .mirror-tally, .politeness-thermometer { grid-column: 1 / -1; }
   .countdown-area { flex-wrap: wrap; }
   .glance-strip { font-size: 0.6rem; gap: 10px; }
   .glance-weather { margin-left: 0; }
