@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-08T00:24:40.097641+00:00",
+  "timestamp": "2026-09-08T00:55:40.214096+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 21.9,
     "indoor_humidity": 59.0,
     "outdoor_temp": 14.2,
-    "outdoor_humidity": 96.0,
-    "wind_speed": 0.4,
-    "wind_direction": 163.0,
-    "pressure": 1011.3,
+    "outdoor_humidity": 95.0,
+    "wind_speed": 0.0,
+    "wind_direction": 170.0,
+    "pressure": 1011.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 255.0,
+    "power_usage": 261.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "DRAM contract prices forecast to grow only 13-18% in Q3",
     "Nightwing CEO has a Labor Day message for staff – and apparently The Register"
   ],
-  "crew_quote": "\"Looks like it’s a perfect day for a curry, innit? A bit of drizzle outside just makes the indoors feel even toastier — just like me in my best outfit!\""
+  "crew_quote": "\"Looks like it’s drizzling cats and dogs outside, but at least in here it’s a perfect 21.9 degrees for a curry night, eh?\""
 }
