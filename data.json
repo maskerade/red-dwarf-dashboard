@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-08T10:44:49.000199+00:00",
+  "timestamp": "2026-09-08T11:15:50.267779+00:00",
   "house": {
-    "indoor_temp": 21.9,
+    "indoor_temp": 22.1,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 15.3,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 1.1,
-    "wind_direction": 171.0,
+    "outdoor_temp": 15.6,
+    "outdoor_humidity": 77.0,
+    "wind_speed": 5.4,
+    "wind_direction": 163.0,
     "pressure": 1008.5,
     "rain_today": 2.0,
-    "uv_index": 0.0,
-    "power_usage": 306.0,
+    "uv_index": 1.0,
+    "power_usage": 446.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Britain reboots its space strategy with £7.8B already on the launchpad",
     "Arm pushes agentic AI and desktop-quality graphics in next-gen phone platform"
   ],
-  "crew_quote": "\"Looks like the weather's as confused as me during a game of chess, but at least it's not raining curry — now that would be a disaster!\""
+  "crew_quote": "\"With this weather, it’s perfect for a nice curry, but let’s be honest: if it rains too much, I might just drown in my own loveliness!\""
 }
