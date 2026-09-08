@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-08T04:01:43.287141+00:00",
+  "timestamp": "2026-09-08T04:32:43.568706+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.6,
     "indoor_humidity": 59.0,
     "outdoor_temp": 12.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 165.0,
-    "pressure": 1010.1,
+    "pressure": 1009.6,
     "rain_today": 2.0,
     "uv_index": 0.0,
-    "power_usage": 255.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Light rain shower",
+      "temp": 12.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-08",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 13.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-08",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 10.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-08",
@@ -94,5 +94,5 @@
     "US watchdog opens probe into Tesla's Cybercab self-certification",
     "DRAM contract prices forecast to grow only 13-18% in Q3"
   ],
-  "crew_quote": "\"Ah, great, more patchy rain to match my patchy hair! I might as well just wear a curry for a raincoat—keeps the damp out and my style on point!\""
+  "crew_quote": "\"Can you believe it? We've got patchy rain outside while I'm stuck in here at a toasty 21.6°C — if only I had a curry to go with this perfect indoor climate!\""
 }
