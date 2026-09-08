@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-08T14:52:53.015123+00:00",
+  "timestamp": "2026-09-08T15:23:53.718046+00:00",
   "house": {
     "indoor_temp": 21.7,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 16.1,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 2.9,
-    "wind_direction": 174.0,
-    "pressure": 1008.2,
-    "rain_today": 2.0,
-    "uv_index": 0.0,
-    "power_usage": 460.0,
+    "outdoor_temp": 14.9,
+    "outdoor_humidity": 89.0,
+    "wind_speed": 0.0,
+    "wind_direction": 164.0,
+    "pressure": 1008.7,
+    "rain_today": 2.6,
+    "uv_index": 1.0,
+    "power_usage": 531.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 14.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-09-08",
-          "max": 16.0,
+          "max": 15.0,
           "min": 11.0
         },
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 18.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-08",
@@ -47,7 +47,7 @@
         },
         {
           "date": "2026-09-09",
-          "max": 18.0,
+          "max": 17.0,
           "min": 11.0
         },
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Light rain shower",
+      "temp": 13.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-08",
@@ -68,7 +68,7 @@
         },
         {
           "date": "2026-09-09",
-          "max": 16.0,
+          "max": 15.0,
           "min": 8.0
         },
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sat 12th and Sun 13th September no services will operate between Crumpsall and Bury. A bus replacement service will be in operation. Please See TFGM.com for all service info.",
   "headlines": [
+    "ASML and TSMC want bigger masks for smaller chips",
+    "How to secure hybrid meeting rooms without sacrificing user experience",
     "LG accused of 'egregious invasion of privacy' over TV data collection",
-    "BigBear phishing crew nets thousands of Microsoft 365 credentials",
-    "Mistral bags €3B to build Europe's sovereign AI champion",
-    "Extortion crews have their eyes on high-value AI data, Google warns"
+    "BigBear phishing crew nets thousands of Microsoft 365 credentials"
   ],
-  "crew_quote": "\"Oi, it’s warmer in here than on the surface, and that’s saying something! If it starts raining curry, I might just move the whole party indoors!\""
+  "crew_quote": "\"Looks like it’s raining in Altrincham; just the weather we need for a nice curry night in. Perfect for mopping up all my regrets!\""
 }
