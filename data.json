@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-08T00:55:40.214096+00:00",
+  "timestamp": "2026-09-08T01:26:41.144666+00:00",
   "house": {
     "indoor_temp": 21.9,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 14.2,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 170.0,
-    "pressure": 1011.0,
-    "rain_today": 0.0,
+    "wind_direction": 162.0,
+    "pressure": 1011.4,
+    "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 261.0,
+    "power_usage": 295.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 14.0,
-      "conditions": "Light drizzle",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-08",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 12.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-09-08",
@@ -94,5 +94,5 @@
     "DRAM contract prices forecast to grow only 13-18% in Q3",
     "Nightwing CEO has a Labor Day message for staff – and apparently The Register"
   ],
-  "crew_quote": "\"Looks like it’s drizzling cats and dogs outside, but at least in here it’s a perfect 21.9 degrees for a curry night, eh?\""
+  "crew_quote": "\"Is it just me, or is it raining harder than my chances of impressing a woman with a 295 kWh power bill and a curry for dinner?\""
 }
