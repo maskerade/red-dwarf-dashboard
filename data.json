@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T12:35:25.821788+00:00",
+  "timestamp": "2026-09-09T13:06:26.120342+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-09",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "WeChat worm could pwn a friend before they even answered the call",
     "Microsoft closes the book on Publisher and unplugs Project Online",
     "Security boffin claims airport group left API keys in client-side JavaScript for four years",
-    "Virgin Media offloads email services to third-party provider",
-    "Huawei Watch D3 pumps up its health-monitoring credentials"
+    "Virgin Media offloads email services to third-party provider"
   ],
-  "crew_quote": "\"With all this patchy rain, I reckon we should've brought a curry along to cheer us up — nothing like a good tikka masala to brighten a gloomy day, eh?\""
+  "crew_quote": "\"You know, with the weather in Llandudno being sunny and all, I reckon I could cook up a mean curry. Just don’t let any of those WeChat worms into my kitchen!\""
 }
