@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-09T04:50:05.414695+00:00",
+  "timestamp": "2026-09-09T05:21:04.764187+00:00",
   "house": {
-    "indoor_temp": 21.1,
+    "indoor_temp": 21.0,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 11.1,
-    "outdoor_humidity": 98.0,
+    "outdoor_temp": 11.2,
+    "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 156.0,
-    "pressure": 1015.5,
+    "pressure": 1016.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 286.0,
+    "power_usage": 255.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 11.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-09-09",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 12.0,
-      "conditions": "Light rain shower",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-09",
@@ -94,5 +94,5 @@
     "Google DeepMind rises above the AI scrum with genome atlas",
     "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack"
   ],
-  "crew_quote": "\"With all this patchy rain outside, I reckon a nice curry would really brighten up the indoor temperature — 21.1 degrees of pure bliss, mate!\""
+  "crew_quote": "\"With it all drizzly outside, I think I’ll just kick back at a toasty 21 degrees and whip up a curry — nothing like a bit of spice to brighten up a rainy day, eh?\""
 }
