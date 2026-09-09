@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-09T01:13:01.600031+00:00",
+  "timestamp": "2026-09-09T01:44:01.598148+00:00",
   "house": {
     "indoor_temp": 21.3,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 12.9,
+    "outdoor_temp": 12.8,
     "outdoor_humidity": 91.0,
-    "wind_speed": 2.2,
-    "wind_direction": 155.0,
-    "pressure": 1013.5,
+    "wind_speed": 0.4,
+    "wind_direction": 168.0,
+    "pressure": 1014.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 266.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Google research shows when AI agents communicate, some cheat while others tattle",
     "Amazon ropes Qualcomm into something, something AI, networking chips"
   ],
-  "crew_quote": "\"With this weather, I might as well stick my head in a curry pot — at least it’ll be warmer than 12 degrees and damp!\""
+  "crew_quote": "\"Oi, with this miserable weather, I’m starting to think we should just open a curry house in here and pretend it's tropical—much better than this 12°C drudgery!\""
 }
