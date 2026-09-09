@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T09:29:23.138268+00:00",
+  "timestamp": "2026-09-09T10:00:39.251553+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
+      "temp": 12.0,
       "conditions": "Light rain shower",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Huawei Watch D3 pumps up its health-monitoring credentials",
     "Switzerland tests a FOSS escape route from Microsoft 365",
     "Another Microsoft team admits it’s struggling to handle flood of AI-generated code",
-    "Philippines bets AI will lift GDP by 12 percent in seven years – without hurting outsourcing",
-    "US claims Chinese AI companies’ core AI strategy is distilling American models"
+    "Philippines bets AI will lift GDP by 12 percent in seven years – without hurting outsourcing"
   ],
-  "crew_quote": "\"Ah, perfect weather for a curry! Nothing like a bit of patchy rain to set the mood while we wait for the flood of AI code to drown us all in our own stupidity.\""
+  "crew_quote": "\"Looks like it's a perfect day for a curry, eh? Who needs sunshine when you've got patchy rain to give the atmosphere that extra bit of drama!\""
 }
