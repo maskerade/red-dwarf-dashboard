@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T20:51:33.073204+00:00",
+  "timestamp": "2026-09-09T21:22:32.822301+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "UK government says Fujitsu won't use framework places to chase new customers",
-    "Cryptocrook ringleader, 22, who met crew on Minecraft admits role in $245M heist",
-    "WeChat worm could pwn a friend before they even answered the call",
-    "Microsoft closes the book on Publisher and unplugs Project Online"
+    "AI models don't kill people – people kill people",
+    "Apple hawks $2k folding fondleslab",
+    "Samsung to help fortify OpenAI's semiconductor supply chain",
+    "Serial Microsoft 0-day hunter drops yet another Defender exploit"
   ],
-  "crew_quote": "\"Well, looks like it’s a bit overcast in Llandudno, but at least it’s warmer than the curry I tried to make last week—now that was a truly bleak weather front!\""
+  "crew_quote": "\"We're cooking at a mild 11 degrees in Altrincham, but I still can't get a curry to taste right without the right humidity! What's a bloke gotta do for a decent vindaloo around here?\""
 }
