@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T21:53:17.941742+00:00",
+  "timestamp": "2026-09-09T22:24:34.162714+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Clear ",
+      "temp": 9.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-09",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Cloudy ",
+      "temp": 11.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-09-09",
@@ -94,5 +94,5 @@
     "Samsung to help fortify OpenAI's semiconductor supply chain",
     "Serial Microsoft 0-day hunter drops yet another Defender exploit"
   ],
-  "crew_quote": "\"Blimey, with all this cloudy weather, I could really do with a good curry and a nap—at least it’s not raining like in Llandudno!\""
+  "crew_quote": "\"Oi, it’s 9 degrees and overcast in Altrincham, just perfect for a curry and a good moan about how the weather's as miserable as my love life!\""
 }
