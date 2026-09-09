@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-09T01:44:01.598148+00:00",
+  "timestamp": "2026-09-09T02:15:02.298501+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.2,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 12.8,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 0.4,
-    "wind_direction": 168.0,
+    "outdoor_temp": 12.7,
+    "outdoor_humidity": 93.0,
+    "wind_speed": 0.0,
+    "wind_direction": 152.0,
     "pressure": 1014.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 266.0,
+    "power_usage": 252.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -21,7 +21,7 @@
       "forecast": [
         {
           "date": "2026-09-09",
-          "max": 16.0,
+          "max": 15.0,
           "min": 9.0
         },
         {
@@ -43,7 +43,7 @@
         {
           "date": "2026-09-09",
           "max": 17.0,
-          "min": 11.0
+          "min": 10.0
         },
         {
           "date": "2026-09-10",
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sat 12th and Sun 13th September no services will operate between Crumpsall and Bury. A bus replacement service will be in operation. Please See TFGM.com for all service info.",
   "headlines": [
-    "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack",
-    "Bing Wallpaper app opens Harry Potter's chamber of ads",
-    "Google research shows when AI agents communicate, some cheat while others tattle",
-    "Amazon ropes Qualcomm into something, something AI, networking chips"
+    "Microsoft breaks Patch Tuesday record with 974-CVE deluge",
+    "OpenAI GPT-6 Astra will run a retailer without cheating and sell more stuff than Anthropic",
+    "Google DeepMind rises above the AI scrum with genome atlas",
+    "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack"
   ],
-  "crew_quote": "\"Oi, with this miserable weather, I’m starting to think we should just open a curry house in here and pretend it's tropical—much better than this 12°C drudgery!\""
+  "crew_quote": "\"Blimey, it's patchy rain everywhere, but at least in here it’s a cozy 21.2°C—just the right temperature for a nice curry and a good moan about how Rimmer’s always wrong!\""
 }
