@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T11:33:10.527637+00:00",
+  "timestamp": "2026-09-09T12:04:25.353186+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft closes the book on Publisher and unplugs Project Online",
     "Security boffin claims airport group left API keys in client-side JavaScript for four years",
     "Virgin Media offloads email services to third-party provider",
-    "Huawei Watch D3 pumps up its health-monitoring credentials",
-    "Switzerland tests a FOSS escape route from Microsoft 365"
+    "Huawei Watch D3 pumps up its health-monitoring credentials"
   ],
-  "crew_quote": "\"Looks like it's patchy rain everywhere, but don't worry — it's just nature's way of saying it’s time for a curry to warm us up while we contemplate the mysteries of life, like why Rimmer's still here.\""
+  "crew_quote": "\"Looks like I’ll have to keep my curry indoors today; it’s patchy rain everywhere! Just when I thought we were finally getting a break!\""
 }
