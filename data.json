@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T15:41:14.371525+00:00",
+  "timestamp": "2026-09-09T16:12:29.072968+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-09",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 16.0,
-      "conditions": "Overcast ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-09",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 14.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-09",
@@ -94,5 +94,5 @@
     "WeChat worm could pwn a friend before they even answered the call",
     "Microsoft closes the book on Publisher and unplugs Project Online"
   ],
-  "crew_quote": "\"With weather like this, I might as well be stuck in Llandudno waiting for the patchy rain to stop—what a time to be alive, eh? Pass the curry!\""
+  "crew_quote": "\"Typical, innit? One minute I’m dreaming of a sunny beach in Llandudno, and the next it’s patchy rain – just like my love life!\""
 }
