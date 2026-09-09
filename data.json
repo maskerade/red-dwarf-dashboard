@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T15:10:27.854578+00:00",
+  "timestamp": "2026-09-09T15:41:14.371525+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "UK government says Fujitsu won't use framework places to chase new customers",
+    "Cryptocrook ringleader, 22, who met crew on Minecraft admits role in $245M heist",
     "WeChat worm could pwn a friend before they even answered the call",
-    "Microsoft closes the book on Publisher and unplugs Project Online",
-    "Security boffin claims airport group left API keys in client-side JavaScript for four years",
-    "Virgin Media offloads email services to third-party provider"
+    "Microsoft closes the book on Publisher and unplugs Project Online"
   ],
-  "crew_quote": "\"With this patchy rain and a nice 15°C, it's the perfect weather for a curry! Just don't answer any calls while you’re eating, could be a worm in there!\""
+  "crew_quote": "\"With weather like this, I might as well be stuck in Llandudno waiting for the patchy rain to stop—what a time to be alive, eh? Pass the curry!\""
 }
