@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T23:26:34.193146+00:00",
+  "timestamp": "2026-09-09T23:57:35.219497+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -20,11 +20,6 @@
       "conditions": "Overcast ",
       "forecast": [
         {
-          "date": "2026-09-09",
-          "max": 16.0,
-          "min": 9.0
-        },
-        {
           "date": "2026-09-10",
           "max": 16.0,
           "min": 8.0
@@ -33,18 +28,18 @@
           "date": "2026-09-11",
           "max": 17.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-09-12",
+          "max": 18.0,
+          "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 11.0,
-      "conditions": "Clear ",
+      "temp": 10.0,
+      "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-09-09",
-          "max": 17.0,
-          "min": 11.0
-        },
         {
           "date": "2026-09-10",
           "max": 17.0,
@@ -54,18 +49,18 @@
           "date": "2026-09-11",
           "max": 18.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-09-12",
+          "max": 21.0,
+          "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 9.0,
+      "temp": 8.0,
       "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-09-09",
-          "max": 15.0,
-          "min": 9.0
-        },
         {
           "date": "2026-09-10",
           "max": 17.0,
@@ -75,17 +70,22 @@
           "date": "2026-09-11",
           "max": 16.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-09-12",
+          "max": 18.0,
+          "min": 9.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "06:32 AM",
-    "sunset": "07:40 PM",
+    "sunrise": "06:34 AM",
+    "sunset": "07:37 PM",
     "moon_phase": "Waning Crescent",
-    "moon_illumination": "6",
-    "moonrise": "04:01 AM",
-    "moonset": "07:03 PM"
+    "moon_illumination": "2",
+    "moonrise": "05:31 AM",
+    "moonset": "07:15 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Apple hawks $2k folding fondleslab",
     "Samsung to help fortify OpenAI's semiconductor supply chain"
   ],
-  "crew_quote": "\"Blimey, if the weather in Altrincham is overcast, I’d better whip up a curry to cheer us up — can’t let a bit of gloom stop my appetite for a good vindaloo!\""
+  "crew_quote": "\"Well, it's a bit gloomy out there, isn't it? Makes you want a nice hot curry to warm you up, just like my love life—overcast and full of damp!\""
 }
