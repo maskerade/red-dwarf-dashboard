@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T22:24:34.162714+00:00",
+  "timestamp": "2026-09-09T22:55:33.965443+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits",
     "AI models don't kill people – people kill people",
     "Apple hawks $2k folding fondleslab",
-    "Samsung to help fortify OpenAI's semiconductor supply chain",
-    "Serial Microsoft 0-day hunter drops yet another Defender exploit"
+    "Samsung to help fortify OpenAI's semiconductor supply chain"
   ],
-  "crew_quote": "\"Oi, it’s 9 degrees and overcast in Altrincham, just perfect for a curry and a good moan about how the weather's as miserable as my love life!\""
+  "crew_quote": "\"With all this overcast weather, I could really go for a curry – it's the perfect way to warm up while the rest of the galaxy goes bananas about AI!\""
 }
