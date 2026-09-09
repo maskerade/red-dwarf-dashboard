@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-09T06:54:06.390492+00:00",
+  "timestamp": "2026-09-09T07:25:06.850629+00:00",
   "house": {
     "indoor_temp": 20.9,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 12.4,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 156.0,
-    "pressure": 1017.3,
+    "wind_direction": 175.0,
+    "pressure": 1017.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 255.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Google DeepMind rises above the AI scrum with genome atlas",
     "OpenAI's Artifactory opened covert data-stealing channel alongside Hugging Face attack"
   ],
-  "crew_quote": "\"With all this patchy rain, I reckon it's the perfect day for a nice curry and a pint — who needs a sunny forecast when you've got enough spice to light things up?\""
+  "crew_quote": "\"When the weather’s patchy like that, it’s a perfect day for a curry—'cause who cares about the rain when you’ve got a piping hot bhuna to warm your soul?\""
 }
