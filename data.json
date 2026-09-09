@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T11:02:25.131585+00:00",
+  "timestamp": "2026-09-09T11:33:10.527637+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Light rain shower",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-09",
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Security boffin claims airport group left API keys in client-side JavaScript for four years",
     "Virgin Media offloads email services to third-party provider",
     "Huawei Watch D3 pumps up its health-monitoring credentials",
-    "Switzerland tests a FOSS escape route from Microsoft 365",
-    "Another Microsoft team admits it’s struggling to handle flood of AI-generated code"
+    "Switzerland tests a FOSS escape route from Microsoft 365"
   ],
-  "crew_quote": "\"Looks like it’s 14 degrees and raining! Just my luck—perfect curry weather, but I don’t want to get my hair wet!\""
+  "crew_quote": "\"Looks like it's patchy rain everywhere, but don't worry — it's just nature's way of saying it’s time for a curry to warm us up while we contemplate the mysteries of life, like why Rimmer's still here.\""
 }
