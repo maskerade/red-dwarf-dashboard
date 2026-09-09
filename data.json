@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T14:08:27.292281+00:00",
+  "timestamp": "2026-09-09T14:39:12.103670+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,39 +16,18 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-09",
           "max": 16.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-09-10",
-          "max": 19.0,
           "min": 9.0
         },
         {
-          "date": "2026-09-11",
-          "max": 16.0,
-          "min": 10.0
-        }
-      ]
-    },
-    "overseal": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
-      "forecast": [
-        {
-          "date": "2026-09-09",
-          "max": 17.0,
-          "min": 10.0
-        },
-        {
           "date": "2026-09-10",
-          "max": 20.0,
-          "min": 10.0
+          "max": 16.0,
+          "min": 8.0
         },
         {
           "date": "2026-09-11",
@@ -57,9 +36,30 @@
         }
       ]
     },
+    "overseal": {
+      "temp": 16.0,
+      "conditions": "Overcast ",
+      "forecast": [
+        {
+          "date": "2026-09-09",
+          "max": 17.0,
+          "min": 11.0
+        },
+        {
+          "date": "2026-09-10",
+          "max": 17.0,
+          "min": 9.0
+        },
+        {
+          "date": "2026-09-11",
+          "max": 18.0,
+          "min": 12.0
+        }
+      ]
+    },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Sunny",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-09",
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-09-10",
-          "max": 18.0,
-          "min": 9.0
+          "max": 17.0,
+          "min": 8.0
         },
         {
           "date": "2026-09-11",
-          "max": 15.0,
-          "min": 8.0
+          "max": 16.0,
+          "min": 9.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Security boffin claims airport group left API keys in client-side JavaScript for four years",
     "Virgin Media offloads email services to third-party provider"
   ],
-  "crew_quote": "\"Well, if it’s patchy rain nearby, at least it’ll keep the curry from getting too spicy. Can't have my food competing with the weather, can we?\""
+  "crew_quote": "\"What’s the use of a nice sunny day if you can’t even enjoy a curry because of patchy rain? I mean, what's it gonna be, a rain-soaked tikka masala?\""
 }
