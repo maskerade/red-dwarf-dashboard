@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T10:17:44.674032+00:00",
+  "timestamp": "2026-09-10T10:48:45.660900+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 15.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 16.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-10",
@@ -94,5 +94,5 @@
     "Dental contractor set up secret account with access to 4,000 patient records then left the company",
     "Laptop-slinger Framework refunding customers who paid top dollar for RAM"
   ],
-  "crew_quote": "\"You know, with the weather as bright as my future, I should really celebrate by comparing it to a nice, hot curry — except I'm not sure it can match my brilliance!\""
+  "crew_quote": "\"With this sunny weather, I could really go for a curry on the beach, but I guess I’d just have to settle for a soggy sandwich instead in this overcast nonsense!\""
 }
