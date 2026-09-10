@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T00:28:35.501254+00:00",
+  "timestamp": "2026-09-10T00:59:35.774820+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Anthropic reveals fourth likely crime committed by its AI",
     "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits",
     "AI models don't kill people – people kill people",
-    "Apple hawks $2k folding fondleslab",
-    "Samsung to help fortify OpenAI's semiconductor supply chain"
+    "Apple hawks $2k folding fondleslab"
   ],
-  "crew_quote": "\"Blimey, it’s so overcast out there, even the sun’s given up! Might as well whip up a curry and cheer ourselves up, eh?\""
+  "crew_quote": "\"Well, it's 9 degrees and overcast, which is pretty much perfect curry weather, innit? Might as well whip up a vindaloo and let the gloom inspire some culinary brilliance!\""
 }
