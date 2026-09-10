@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T11:19:45.858500+00:00",
+  "timestamp": "2026-09-10T11:50:47.322510+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Trezor, BitBox users targeted in newsletter phishing spree",
+    "AI uprising postponed after Copilot falls off the web",
     "German optics giant ditches greenfield SAP migration",
-    "Digital sovereignty sounds great until you try ditching your suppliers",
-    "Dental contractor set up secret account with access to 4,000 patient records then left the company",
-    "Laptop-slinger Framework refunding customers who paid top dollar for RAM"
+    "Digital sovereignty sounds great until you try ditching your suppliers"
   ],
-  "crew_quote": "\"Fifteen degrees and sunny? Brilliant! Perfect weather for a curry picnic, as long as we don’t end up in some overcast optical nightmare.\""
+  "crew_quote": "\"Sunny and 15 degrees? Perfect weather for a curry! Just as long as we don't end up with a dodgy takeaway and a phishing spree instead!\""
 }
