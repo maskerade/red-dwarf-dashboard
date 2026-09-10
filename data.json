@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T12:21:46.752891+00:00",
+  "timestamp": "2026-09-10T12:52:47.499986+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Ministers rejected NATS reimbursement plan before 2,000 UK flights were cancelled",
     "Trezor, BitBox users targeted in newsletter phishing spree",
     "AI uprising postponed after Copilot falls off the web",
-    "German optics giant ditches greenfield SAP migration",
-    "Digital sovereignty sounds great until you try ditching your suppliers"
+    "German optics giant ditches greenfield SAP migration"
   ],
-  "crew_quote": "\"With the way it’s looking outside, I could really use a curry to brighten up this overcast day—unless it's raining patchy, of course! Then I'll definitely need a pint!\""
+  "crew_quote": "\"Ah, great! It’s overcast, the flights are cancelled, and it’s only 17 degrees—perfect weather for a nice curry and a long sit on the sofa, innit?\""
 }
