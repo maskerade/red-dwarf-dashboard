@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T16:29:50.867596+00:00",
+  "timestamp": "2026-09-10T17:00:38.030744+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 17.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-10",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 19.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Light drizzle",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-10",
@@ -94,5 +94,5 @@
     "ShinyHunters expose 6.4M in attack on medical supplier McKesson",
     "d-Matrix drinks the Nvidia Kool-Aid with NVLink Fusion and MGX rack designs"
   ],
-  "crew_quote": "\"With this weather, it feels like Mother Nature's just got out of bed and can't decide whether to throw on a drizzly cardigan or not! But hey, at least I’ve got a nice curry on the go!\""
+  "crew_quote": "\"Looks like it's patchy rain in Llandudno, but don’t worry—my hair always shines brighter in a drizzle. Just like my personality!\""
 }
