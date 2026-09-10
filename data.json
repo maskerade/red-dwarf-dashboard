@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T11:50:47.322510+00:00",
+  "timestamp": "2026-09-10T12:21:46.752891+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-10",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 18.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-10",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-10",
@@ -94,5 +94,5 @@
     "German optics giant ditches greenfield SAP migration",
     "Digital sovereignty sounds great until you try ditching your suppliers"
   ],
-  "crew_quote": "\"Sunny and 15 degrees? Perfect weather for a curry! Just as long as we don't end up with a dodgy takeaway and a phishing spree instead!\""
+  "crew_quote": "\"With the way it’s looking outside, I could really use a curry to brighten up this overcast day—unless it's raining patchy, of course! Then I'll definitely need a pint!\""
 }
