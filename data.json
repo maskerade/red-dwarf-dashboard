@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T18:02:52.717746+00:00",
+  "timestamp": "2026-09-10T18:33:53.727146+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Overcast ",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-10",
@@ -94,5 +94,5 @@
     "ShinyHunters expose 6.4M in attack on medical supplier McKesson",
     "d-Matrix drinks the Nvidia Kool-Aid with NVLink Fusion and MGX rack designs"
   ],
-  "crew_quote": "\"I'd give anything for a proper curry right now, but with this patchy rain, even the weather's in two minds! It's like the universe can't decide what it wants!\""
+  "crew_quote": "\"Looks like even the weather's gone patchy, just like my last curry! Maybe it's trying to decide if it wants to rain or just keep me a bit damp.\""
 }
