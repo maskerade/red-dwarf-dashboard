@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T08:44:44.535656+00:00",
+  "timestamp": "2026-09-10T09:15:44.118112+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 9.0,
-      "conditions": "Overcast ",
+      "temp": 13.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-10",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
+      "temp": 14.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
+      "temp": 15.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Digital sovereignty sounds great until you try ditching your suppliers",
     "Dental contractor set up secret account with access to 4,000 patient records then left the company",
     "Laptop-slinger Framework refunding customers who paid top dollar for RAM",
-    "Microsoft goes after Salesforce and ERP users with AI-powered converter",
-    "VMware defends ending downloads of SDK that helps VM backups– or migrations to rivals"
+    "Microsoft goes after Salesforce and ERP users with AI-powered converter"
   ],
-  "crew_quote": "\"Blimey, it’s about as cheery out there as a wet sock in a damp cupboard! Perfect weather for a curry and a long nap, I’d say!\""
+  "crew_quote": "\"Ah, 13 degrees and sunny in Altrincham — perfect weather for a curry! Let's celebrate our luck before the clouds come rolling in!\""
 }
