@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T21:08:55.426273+00:00",
+  "timestamp": "2026-09-10T21:39:56.085105+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-09-10",
@@ -26,7 +26,7 @@
         },
         {
           "date": "2026-09-11",
-          "max": 17.0,
+          "max": 16.0,
           "min": 10.0
         },
         {
@@ -47,19 +47,19 @@
         },
         {
           "date": "2026-09-11",
-          "max": 19.0,
-          "min": 11.0
+          "max": 18.0,
+          "min": 12.0
         },
         {
           "date": "2026-09-12",
-          "max": 19.0,
+          "max": 21.0,
           "min": 11.0
         }
       ]
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Clear ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-10",
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-09-12",
-          "max": 19.0,
-          "min": 9.0
+          "max": 17.0,
+          "min": 8.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Hundreds of AI agents helped PaperCut attacker hit 395+ orgs, and some went off script",
     "OpenAI's website-hijacking swarm reached far further than we thought"
   ],
-  "crew_quote": "\"Ah, it's 15 degrees and patchy rain—perfect weather for curry! Just don't ask me to cook it, or we might end up with a soup that's more like a science experiment!\""
+  "crew_quote": "\"Looks like it's a lovely 15 degrees outside, perfect weather for a curry – just don't forget your umbrella, or you'll end up looking like a drowned rat!\""
 }
