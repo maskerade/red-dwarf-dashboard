@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T14:25:49.070801+00:00",
+  "timestamp": "2026-09-10T14:56:49.652926+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Azure SQL Data Sync stops taking newcomers before 2027 execution",
     "Nscale swallows lion's share of UK datacenter investment",
     "ShinyHunters expose 6.4M in attack on medical supplier McKesson",
-    "d-Matrix drinks the Nvidia Kool-Aid with NVLink Fusion and MGX rack designs",
-    "Ministers rejected NATS reimbursement plan before 2,000 UK flights were cancelled"
+    "d-Matrix drinks the Nvidia Kool-Aid with NVLink Fusion and MGX rack designs"
   ],
-  "crew_quote": "\"Is it just me, or is the weather so dreary today that even the clouds look like they’re having an off day? I’d prefer a nice curry instead, any time, rain or shine!\""
+  "crew_quote": "\"16 degrees and overcast? Blimey, I thought I was stuck in a curry haze! Even the weather's just as confused as my hairline!\""
 }
