@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T02:32:37.442282+00:00",
+  "timestamp": "2026-09-10T03:03:38.497916+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -21,29 +21,29 @@
       "forecast": [
         {
           "date": "2026-09-10",
-          "max": 16.0,
+          "max": 15.0,
           "min": 8.0
         },
         {
           "date": "2026-09-11",
-          "max": 17.0,
+          "max": 16.0,
           "min": 11.0
         },
         {
           "date": "2026-09-12",
-          "max": 18.0,
+          "max": 20.0,
           "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 10.0,
+      "temp": 11.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-10",
-          "max": 17.0,
-          "min": 9.0
+          "max": 18.0,
+          "min": 10.0
         },
         {
           "date": "2026-09-11",
@@ -58,12 +58,12 @@
       ]
     },
     "llandudno": {
-      "temp": 8.0,
+      "temp": 9.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-10",
-          "max": 17.0,
+          "max": 16.0,
           "min": 8.0
         },
         {
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-09-12",
-          "max": 18.0,
-          "min": 9.0
+          "max": 19.0,
+          "min": 10.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "AI models don't kill people – people kill people",
     "Apple hawks $2k folding fondleslab"
   ],
-  "crew_quote": "\"Blimey, it's so grey outside, I thought I was back in the curry house waiting for my takeout! How's a bloke supposed to get inspired in this atmospheric soup?\""
+  "crew_quote": "\"Oi, it's a bit nippy in here, isn’t it? Makes me miss the days when the only thing cold was my curry after a night out!\""
 }
