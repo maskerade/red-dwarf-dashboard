@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T05:38:40.385810+00:00",
+  "timestamp": "2026-09-10T06:09:40.877794+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 11.0,
+      "temp": 10.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
+      "temp": 9.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Microsoft goes after Salesforce and ERP users with AI-powered converter",
+    "VMware defends ending downloads of SDK that helps VM backups– or migrations to rivals",
     "Anthropic reveals fourth likely crime committed by its AI",
-    "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits",
-    "AI models don't kill people – people kill people",
-    "Apple hawks $2k folding fondleslab"
+    "Novel Blue Moon kit targeting Chrome and Windows reflects new reality of AI-driven exploits"
   ],
-  "crew_quote": "\"Looks like it’s as grey outside as my last curry night — but hey, at least it’s not raining crime from an AI, right?\""
+  "crew_quote": "\"When it’s this overcast and chilly, it’s the perfect time for a curry! Nothing like a bit of spice to warm you up and distract from the bleakness of the day, right?\""
 }
