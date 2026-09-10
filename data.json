@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T22:41:56.793785+00:00",
+  "timestamp": "2026-09-10T23:12:57.509952+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,14 +16,9 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Light rain shower",
+      "temp": 13.0,
+      "conditions": "Fog",
       "forecast": [
-        {
-          "date": "2026-09-10",
-          "max": 17.0,
-          "min": 8.0
-        },
         {
           "date": "2026-09-11",
           "max": 16.0,
@@ -33,18 +28,18 @@
           "date": "2026-09-12",
           "max": 19.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-09-13",
+          "max": 19.0,
+          "min": 15.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-09-10",
-          "max": 20.0,
-          "min": 9.0
-        },
         {
           "date": "2026-09-11",
           "max": 18.0,
@@ -54,6 +49,11 @@
           "date": "2026-09-12",
           "max": 21.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-09-13",
+          "max": 23.0,
+          "min": 16.0
         }
       ]
     },
@@ -61,11 +61,6 @@
       "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-09-10",
-          "max": 17.0,
-          "min": 8.0
-        },
         {
           "date": "2026-09-11",
           "max": 15.0,
@@ -75,17 +70,22 @@
           "date": "2026-09-12",
           "max": 17.0,
           "min": 8.0
+        },
+        {
+          "date": "2026-09-13",
+          "max": 19.0,
+          "min": 13.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "06:34 AM",
-    "sunset": "07:37 PM",
-    "moon_phase": "Waning Crescent",
-    "moon_illumination": "2",
-    "moonrise": "05:31 AM",
-    "moonset": "07:15 PM"
+    "sunrise": "06:35 AM",
+    "sunset": "07:35 PM",
+    "moon_phase": "New Moon",
+    "moon_illumination": "0",
+    "moonrise": "06:56 AM",
+    "moonset": "07:25 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Hundreds of AI agents helped PaperCut attacker hit 395+ orgs, and some went off script",
     "OpenAI's website-hijacking swarm reached far further than we thought"
   ],
-  "crew_quote": "\"Light rain? Brilliant! That means I can wear my fabulous coat while I strut about; it’s like a catwalk, but wetter!\""
+  "crew_quote": "\"Foggy weather, patchy rain... It's like the universe is trying to tell us to stay inside and have a curry binge, right? Just me? Alright then, more for me!\""
 }
