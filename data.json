@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-10T09:15:44.118112+00:00",
+  "timestamp": "2026-09-10T09:46:44.330281+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "German optics giant ditches greenfield SAP migration",
     "Digital sovereignty sounds great until you try ditching your suppliers",
     "Dental contractor set up secret account with access to 4,000 patient records then left the company",
-    "Laptop-slinger Framework refunding customers who paid top dollar for RAM",
-    "Microsoft goes after Salesforce and ERP users with AI-powered converter"
+    "Laptop-slinger Framework refunding customers who paid top dollar for RAM"
   ],
-  "crew_quote": "\"Ah, 13 degrees and sunny in Altrincham — perfect weather for a curry! Let's celebrate our luck before the clouds come rolling in!\""
+  "crew_quote": "\"Ah, it's a perfect day for a curry, nice and sunny at 13 degrees! Too bad it won't last, like my chances of ever being promoted!\""
 }
