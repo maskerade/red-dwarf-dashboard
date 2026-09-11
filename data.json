@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T06:27:04.398465+00:00",
+  "timestamp": "2026-09-11T06:58:04.933004+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "OpenAI arms devs with AI conversation tool that can talk and listen at the same time",
-    "Latest Anthropic horror story chills with tales of kamikaze drone swarms and bioweapons research",
-    "Watch out: Apple timepiece can grab snippets of conversation without both speakers' consent",
-    "Shopify extends lifeline to Tailwind as vibe coding erodes web dev platform's bottom line"
+    "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix",
+    "Microsoft annoints Rust as a 'Tier 1' internal language",
+    "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
+    "OpenAI arms devs with AI conversation tool that can talk and listen at the same time"
   ],
-  "crew_quote": "\"I’d say the weather’s as foggy as a day in my mind, but at least I’ve got my curry to cut through the mist—nothing like a good vindaloo to clear the air!\""
+  "crew_quote": "\"Foggy weather in Altrincham, eh? Perfect for a nice curry—just like my love life: all murky and a bit hard to see through!\""
 }
