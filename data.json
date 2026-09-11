@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T14:43:12.897343+00:00",
+  "timestamp": "2026-09-11T15:14:13.485914+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Digital Research's GEM opens a new window on Linux",
-    "BOFH: Oh no! The CMS ate 500 pages of corporate documentation",
-    "DeepSeek's new model sets a template for powerful LLMs that run lean",
-    "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix"
+    "Higher prices can't crimp server sales as AI drives demand",
+    "Britain's technology brief is now everyone's job and nobody's responsibility",
+    "Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars",
+    "EU's Cyber Resilience Act starts the 24-hour vulnerability clock"
   ],
-  "crew_quote": "\"Oh, lovely! Patchy rain nearby while we're stuck on this tin can. Just what I need — a curry and a side of soggy!\""
+  "crew_quote": "\"18 degrees and patchy rain? Just like my love life — no consistency and always a bit damp!\""
 }
