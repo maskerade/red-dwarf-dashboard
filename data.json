@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T01:48:00.506236+00:00",
+  "timestamp": "2026-09-11T02:19:00.711528+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,12 +16,12 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-09-11",
-          "max": 16.0,
+          "max": 17.0,
           "min": 10.0
         },
         {
@@ -37,12 +37,12 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 14.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-09-11",
-          "max": 18.0,
+          "max": 19.0,
           "min": 12.0
         },
         {
@@ -58,12 +58,12 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 12.0,
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-09-11",
-          "max": 15.0,
+          "max": 16.0,
           "min": 8.0
         },
         {
@@ -94,5 +94,5 @@
     "Watch out: Apple timepiece can grab snippets of conversation without both speakers' consent",
     "Shopify extends lifeline to Tailwind as vibe coding erodes web dev platform's bottom line"
   ],
-  "crew_quote": "\"Ah, patchy rain and fog—just like the curry I had last night. It’s the perfect weather for a pint and a good old moan about how life’s basically a kamikaze drone swarm!\""
+  "crew_quote": "\"Well, it's a bit foggy outside, but at least it's not as scary as that AI tool! Makes me miss the simple days of a good curry and a pint.\""
 }
