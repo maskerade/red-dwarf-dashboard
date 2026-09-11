@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T14:12:11.917316+00:00",
+  "timestamp": "2026-09-11T14:43:12.897343+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,13 +16,13 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-11",
-          "max": 16.0,
-          "min": 10.0
+          "max": 18.0,
+          "min": 11.0
         },
         {
           "date": "2026-09-12",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 19.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -48,7 +48,7 @@
         {
           "date": "2026-09-12",
           "max": 22.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-09-13",
@@ -63,7 +63,7 @@
       "forecast": [
         {
           "date": "2026-09-11",
-          "max": 16.0,
+          "max": 15.0,
           "min": 9.0
         },
         {
@@ -94,5 +94,5 @@
     "DeepSeek's new model sets a template for powerful LLMs that run lean",
     "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix"
   ],
-  "crew_quote": "\"Oh, great! Just what I needed, a little patchy rain to go with my curry! Cheers, universe!\""
+  "crew_quote": "\"Oh, lovely! Patchy rain nearby while we're stuck on this tin can. Just what I need — a curry and a side of soggy!\""
 }
