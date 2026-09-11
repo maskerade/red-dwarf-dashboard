@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T09:33:07.607349+00:00",
+  "timestamp": "2026-09-11T10:04:08.053469+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "DeepSeek's new model sets a template for powerful LLMs that run lean",
     "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix"
   ],
-  "crew_quote": "\"With all this patchy rain, it's a perfect day to whip up a curry — at least it'll distract me from the fact that my hair is practically a rain gauge!\""
+  "crew_quote": "\"With this weather, I might just take a rainy day off to indulge in a curry binge—nothing like a bit of patchy rain for that second helping!\""
 }
