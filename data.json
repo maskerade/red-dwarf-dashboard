@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T03:21:01.407518+00:00",
+  "timestamp": "2026-09-11T03:52:02.323535+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Clear ",
+      "temp": 13.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-09-11",
@@ -94,5 +94,5 @@
     "Watch out: Apple timepiece can grab snippets of conversation without both speakers' consent",
     "Shopify extends lifeline to Tailwind as vibe coding erodes web dev platform's bottom line"
   ],
-  "crew_quote": "\"Fog in Altrincham and Llandudno? Brilliant! That’s just the universe's way of saying, 'Hey, fancy a curry and a good old chinwag in the haze?'\""
+  "crew_quote": "\"Fog, mist, and all that, eh? Perfect weather for a curry binge — just me, a plate full of madras, and no tech geniuses trying to turn me into a drone!\""
 }
