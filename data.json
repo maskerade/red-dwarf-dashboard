@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T06:58:04.933004+00:00",
+  "timestamp": "2026-09-11T07:29:05.261592+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "DeepSeek's new model sets a template for powerful LLMs that run lean",
     "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix",
     "Microsoft annoints Rust as a 'Tier 1' internal language",
-    "Oracle says AI will save it from the SaaSpocalypse, not bring it on",
-    "OpenAI arms devs with AI conversation tool that can talk and listen at the same time"
+    "Oracle says AI will save it from the SaaSpocalypse, not bring it on"
   ],
-  "crew_quote": "\"Foggy weather in Altrincham, eh? Perfect for a nice curry—just like my love life: all murky and a bit hard to see through!\""
+  "crew_quote": "\"Is it foggy or are we just stuck in a curry-induced haze? Either way, I can’t tell if I’m hungry or just lost, but it’s definitely a day for a good vindaloo!\""
 }
