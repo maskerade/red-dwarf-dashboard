@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T04:54:02.912569+00:00",
+  "timestamp": "2026-09-11T05:25:03.696472+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Mist",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Fog",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Watch out: Apple timepiece can grab snippets of conversation without both speakers' consent",
     "Shopify extends lifeline to Tailwind as vibe coding erodes web dev platform's bottom line"
   ],
-  "crew_quote": "\"You know, with all this fog, I could really fancy a curry right now—perfect weather for one of those cozy nights in, don’t you think?\""
+  "crew_quote": "\"Fog everywhere, not a hint of a good curry in sight—reminds me of a bad day in the '80s, just without the exciting bits!\""
 }
