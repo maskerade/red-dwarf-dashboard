@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T08:00:35.111076+00:00",
+  "timestamp": "2026-09-11T08:31:06.566548+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,29 +16,29 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Fog",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-11",
-          "max": 17.0,
+          "max": 16.0,
           "min": 10.0
         },
         {
           "date": "2026-09-12",
-          "max": 19.0,
+          "max": 18.0,
           "min": 9.0
         },
         {
           "date": "2026-09-13",
           "max": 19.0,
-          "min": 15.0
+          "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Mist",
+      "temp": 14.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-11",
@@ -47,34 +47,34 @@
         },
         {
           "date": "2026-09-12",
-          "max": 21.0,
-          "min": 11.0
+          "max": 22.0,
+          "min": 12.0
         },
         {
           "date": "2026-09-13",
-          "max": 23.0,
-          "min": 16.0
+          "max": 21.0,
+          "min": 15.0
         }
       ]
     },
     "llandudno": {
-      "temp": 11.0,
-      "conditions": "Fog",
+      "temp": 13.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-11",
           "max": 16.0,
-          "min": 8.0
+          "min": 9.0
         },
         {
           "date": "2026-09-12",
           "max": 17.0,
-          "min": 8.0
+          "min": 9.0
         },
         {
           "date": "2026-09-13",
-          "max": 19.0,
-          "min": 13.0
+          "max": 18.0,
+          "min": 12.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Microsoft annoints Rust as a 'Tier 1' internal language",
     "Oracle says AI will save it from the SaaSpocalypse, not bring it on"
   ],
-  "crew_quote": "\"Foggy weather and clueless bosses, it's like a right miserable curry with no spice—just bland and a bit misty, innit?\""
+  "crew_quote": "\"Did you see the weather? It's as confusing as Rimmer trying to explain a one-click fix — patchy rain and partly cloudy; sounds like my last curry night!\""
 }
