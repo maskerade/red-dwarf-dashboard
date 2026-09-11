@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-11T19:22:02.401020+00:00",
+  "timestamp": "2026-09-11T19:53:02.525558+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.1,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 14.7,
-    "outdoor_humidity": 81.0,
+    "outdoor_temp": 14.6,
+    "outdoor_humidity": 79.0,
     "wind_speed": 0.0,
-    "wind_direction": 81.0,
-    "pressure": 1024.8,
+    "wind_direction": 78.0,
+    "pressure": 1025.1,
     "rain_today": 1.2,
     "uv_index": 0.0,
-    "power_usage": 3127.0,
+    "power_usage": 677.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AT&T store worker gets 16 months inside for SIM-swap side hustle",
     "Higher prices can't crimp server sales as AI drives demand"
   ],
-  "crew_quote": "\"Ah, the weather's a lovely 13 degrees! Just right for a curry, if only we could cook it without accidentally creating a jello house on Mars. Now that’s what I call a proper meal!\""
+  "crew_quote": "\"Living in houses made of yeast and jello? I’d rather brave the partly cloudy weather in Altrincham than risk my life in a squishy bungalow!\""
 }
