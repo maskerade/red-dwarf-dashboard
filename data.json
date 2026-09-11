@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T15:45:13.584203+00:00",
+  "timestamp": "2026-09-11T16:16:14.920560+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-11",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 18.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-11",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-11",
@@ -94,5 +94,5 @@
     "Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars",
     "EU's Cyber Resilience Act starts the 24-hour vulnerability clock"
   ],
-  "crew_quote": "\"Ah, patchy rain and rising prices—sounds like a perfect day for a curry! Nothing like a warm meal to distract from the doom and gloom of the universe!\""
+  "crew_quote": "\"Did you hear? Even with all this sunny weather, prices are rising faster than a curry in my stomach after a night out—what's a bloke gotta do to get a bargain around here?\""
 }
