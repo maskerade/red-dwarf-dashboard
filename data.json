@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T08:31:06.566548+00:00",
+  "timestamp": "2026-09-11T09:02:06.961799+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "BOFH: Oh no! The CMS ate 500 pages of corporate documentation",
     "DeepSeek's new model sets a template for powerful LLMs that run lean",
     "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix",
-    "Microsoft annoints Rust as a 'Tier 1' internal language",
-    "Oracle says AI will save it from the SaaSpocalypse, not bring it on"
+    "Microsoft annoints Rust as a 'Tier 1' internal language"
   ],
-  "crew_quote": "\"Did you see the weather? It's as confusing as Rimmer trying to explain a one-click fix — patchy rain and partly cloudy; sounds like my last curry night!\""
+  "crew_quote": "\"Oi, it's 14 degrees and patchy rain—perfect curry weather! Just me and some spicy vindaloo, while the universe sorts itself out.\""
 }
