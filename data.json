@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T09:02:06.961799+00:00",
+  "timestamp": "2026-09-11T09:33:07.607349+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Digital Research's GEM opens a new window on Linux",
     "BOFH: Oh no! The CMS ate 500 pages of corporate documentation",
     "DeepSeek's new model sets a template for powerful LLMs that run lean",
-    "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix",
-    "Microsoft annoints Rust as a 'Tier 1' internal language"
+    "On Call: Boss wrongly claimed IT deleted his files, refused to learn the one-click fix"
   ],
-  "crew_quote": "\"Oi, it's 14 degrees and patchy rain—perfect curry weather! Just me and some spicy vindaloo, while the universe sorts itself out.\""
+  "crew_quote": "\"With all this patchy rain, it's a perfect day to whip up a curry — at least it'll distract me from the fact that my hair is practically a rain gauge!\""
 }
