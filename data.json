@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-11T21:26:04.662129+00:00",
+  "timestamp": "2026-09-11T21:57:04.814452+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.2,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 13.3,
+    "outdoor_temp": 13.5,
     "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
     "wind_direction": 78.0,
     "pressure": 1024.8,
     "rain_today": 1.2,
     "uv_index": 0.0,
-    "power_usage": 401.0,
+    "power_usage": 595.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AT&T store worker gets 16 months inside for SIM-swap side hustle",
     "Higher prices can't crimp server sales as AI drives demand"
   ],
-  "crew_quote": "\"Ah, the weather's just like a good curry—overcast in Overseal, a bit cloudy in Llandudno, but always better with a side of yeast and jello on Mars!\""
+  "crew_quote": "\"With the weather being a lovely 12°C in Altrincham, I reckon we should celebrate with a nice curry—nothing like a spicy heat to keep me warm when the indoors is a balmy 21.2°C!\""
 }
