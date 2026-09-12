@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-12T07:46:14.432823+00:00",
+  "timestamp": "2026-09-12T08:17:14.798197+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 15.5,
-    "outdoor_humidity": 84.0,
-    "wind_speed": 0.4,
-    "wind_direction": 225.0,
-    "pressure": 1020.3,
+    "outdoor_temp": 16.0,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 0.0,
+    "wind_direction": 129.0,
+    "pressure": 1019.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 247.0,
+    "power_usage": 272.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Mars astronauts could live in houses made of yeast and jello, say scientists",
     "Disembodied fruit fly brain joins the crypto speculation swarm"
   ],
-  "crew_quote": "\"You know, in this weather, I could really go for a curry — just as long as it doesn't start drizzling all over me like the sky's having a bad hair day!\""
+  "crew_quote": "\"With weather like this, the only thing more overcast than the sky is my chances of getting a decent curry tonight!\""
 }
