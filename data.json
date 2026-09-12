@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-12T03:07:10.071711+00:00",
+  "timestamp": "2026-09-12T03:38:10.477271+00:00",
   "house": {
     "indoor_temp": 20.7,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 10.5,
-    "outdoor_humidity": 95.0,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 10.7,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
-    "wind_direction": 165.0,
-    "pressure": 1021.9,
+    "wind_direction": 175.0,
+    "pressure": 1020.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 275.0,
+    "power_usage": 250.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Mars astronauts could live in houses made of yeast and jello, say scientists",
     "Disembodied fruit fly brain joins the crypto speculation swarm"
   ],
-  "crew_quote": "\"With all this gloomy weather, I think I’ll stay in, have a curry, and pray the AI doesn’t decide it needs a cat to save a few quid!\""
+  "crew_quote": "\"With the power usage like that, we could probably fry a curry, but let's not get too comfortable—AI's out there deciding which pets to keep for 'fuel efficiency'!\""
 }
