@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-12T12:56:20.346459+00:00",
+  "timestamp": "2026-09-12T13:27:19.688230+00:00",
   "house": {
-    "indoor_temp": 20.8,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 19.2,
-    "outdoor_humidity": 89.0,
-    "wind_speed": 0.0,
-    "wind_direction": 208.0,
-    "pressure": 1019.1,
+    "indoor_temp": 20.9,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 20.6,
+    "outdoor_humidity": 86.0,
+    "wind_speed": 2.2,
+    "wind_direction": 145.0,
+    "pressure": 1019.3,
     "rain_today": 0.6,
-    "uv_index": 0.0,
-    "power_usage": 373.0,
+    "uv_index": 1.0,
+    "power_usage": 337.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sat 12th and Sun 13th September no services will operate between Crumpsall and Bury. A bus replacement service will be in operation. Please See TFGM.com for all service info.",
   "headlines": [
+    "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late",
     "Dell's 52-inch enormo-monitor is a tsunami of impractical fun",
     "The aircraft might not be flying, but the certificate has gone on vacation",
-    "AI more likely to kill animals if it saves fuel or money",
-    "More JFrog Artifactory bugs under attack, and all 3 have patches"
+    "AI more likely to kill animals if it saves fuel or money"
   ],
-  "crew_quote": "\"Well, I'm not saying I want to eat my own weight in curry during a patchy rain, but if the weather's going to be as miserable as Dell's 52-inch monitor, I might just have to!\""
+  "crew_quote": "\"Looks like it's patchy rain nearby, but who cares? I’ve got my curry and this massive Dell monitor to distract me from my miserable life!\""
 }
