@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-12T00:01:07.476175+00:00",
+  "timestamp": "2026-09-12T00:32:07.637548+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.0,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 12.8,
-    "outdoor_humidity": 91.0,
+    "outdoor_temp": 12.2,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
     "wind_direction": 77.0,
-    "pressure": 1024.3,
+    "pressure": 1024.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 340.0,
+    "power_usage": 328.0,
     "gas_consumption": 124.44701585875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Mars astronauts could live in houses made of yeast and jello, say scientists",
     "Disembodied fruit fly brain joins the crypto speculation swarm"
   ],
-  "crew_quote": "\"With this lovely 21.2°C indoors, I might just forget the mist outside and whip up a curry! You know, fuel for the soul, not like that AI rubbish!\""
+  "crew_quote": "\"Oi, it's so clear outside, I could almost see my reflection in the puddles from last week's curry splatter! Shame about the mist in Llandudno; there goes my chance to sunbathe!\""
 }
