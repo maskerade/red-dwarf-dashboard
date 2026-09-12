@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-12T07:15:14.034268+00:00",
+  "timestamp": "2026-09-12T07:46:14.432823+00:00",
   "house": {
     "indoor_temp": 20.7,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 14.2,
-    "outdoor_humidity": 87.0,
-    "wind_speed": 2.5,
-    "wind_direction": 118.0,
-    "pressure": 1020.4,
+    "outdoor_temp": 15.5,
+    "outdoor_humidity": 84.0,
+    "wind_speed": 0.4,
+    "wind_direction": 225.0,
+    "pressure": 1020.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 247.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Cloudy ",
+      "temp": 13.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-12",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Cloudy ",
+      "temp": 14.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-12",
@@ -48,18 +48,18 @@
         {
           "date": "2026-09-13",
           "max": 22.0,
-          "min": 15.0
+          "min": 16.0
         },
         {
           "date": "2026-09-14",
-          "max": 25.0,
+          "max": 24.0,
           "min": 14.0
         }
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 15.0,
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-09-12",
@@ -68,7 +68,7 @@
         },
         {
           "date": "2026-09-13",
-          "max": 19.0,
+          "max": 18.0,
           "min": 13.0
         },
         {
@@ -94,5 +94,5 @@
     "Mars astronauts could live in houses made of yeast and jello, say scientists",
     "Disembodied fruit fly brain joins the crypto speculation swarm"
   ],
-  "crew_quote": "\"With this lovely 12°C weather, I’d say it's perfect for a curry, ideally while plotting to save the world… or just saving on the electric bill, whatever comes first!\""
+  "crew_quote": "\"You know, in this weather, I could really go for a curry — just as long as it doesn't start drizzling all over me like the sky's having a bad hair day!\""
 }
