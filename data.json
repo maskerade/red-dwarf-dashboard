@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-12T06:13:13.087134+00:00",
+  "timestamp": "2026-09-12T06:44:13.117447+00:00",
   "house": {
     "indoor_temp": 20.8,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 13.1,
+    "outdoor_temp": 13.5,
     "outdoor_humidity": 88.0,
-    "wind_speed": 0.4,
-    "wind_direction": 131.0,
-    "pressure": 1020.4,
+    "wind_speed": 0.0,
+    "wind_direction": 206.0,
+    "pressure": 1020.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 247.0,
+    "power_usage": 241.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Mars astronauts could live in houses made of yeast and jello, say scientists",
     "Disembodied fruit fly brain joins the crypto speculation swarm"
   ],
-  "crew_quote": "\"Just another cloudy day, perfect for a curry binge! Who needs sunshine when you've got 20.8 degrees of indoor bliss and a whole lot of chips?\""
+  "crew_quote": "\"Ah, just what I need—a cloudy day in Altrincham and a bit of humidity. Perfect for a curry feast, don’t you think? Let's spice things up!\""
 }
