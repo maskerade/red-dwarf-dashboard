@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-12T14:29:21.128374+00:00",
+  "timestamp": "2026-09-12T15:00:33.086641+00:00",
   "house": {
     "indoor_temp": 20.9,
     "indoor_humidity": 63.0,
     "outdoor_temp": 21.2,
-    "outdoor_humidity": 85.0,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 207.0,
-    "pressure": 1019.4,
+    "wind_direction": 136.0,
+    "pressure": 1019.5,
     "rain_today": 0.6,
     "uv_index": 0.0,
-    "power_usage": 458.0,
+    "power_usage": 533.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "The aircraft might not be flying, but the certificate has gone on vacation",
     "AI more likely to kill animals if it saves fuel or money"
   ],
-  "crew_quote": "\"18 degrees and overcast? Perfect weather for cooking a curry! Just don’t get any of that mist on my naan—it's got enough moisture as it is!\""
+  "crew_quote": "\"With all this mist and overcast weather, it’s like the universe is in a permanent curry hangover. Pass me a pint, I’m feeling inspired!\""
 }
