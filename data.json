@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-12T17:04:23.643649+00:00",
+  "timestamp": "2026-09-12T17:35:23.653605+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 21.1,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 19.6,
-    "outdoor_humidity": 89.0,
+    "outdoor_temp": 18.2,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 125.0,
-    "pressure": 1020.1,
-    "rain_today": 0.6,
+    "wind_direction": 120.0,
+    "pressure": 1020.4,
+    "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 528.0,
+    "power_usage": 559.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "The aircraft might not be flying, but the certificate has gone on vacation",
     "AI more likely to kill animals if it saves fuel or money"
   ],
-  "crew_quote": "\"Well, with the weather doing a dodgy rain dance at 18 degrees, I’d say it’s the perfect time for a curry while I pretend I’m not staring at Dell's stupid enormous screen!\""
+  "crew_quote": "\"Isn't it just typical? Light rain in Altrincham while we're stuck indoors! I could really go for a curry right now, just to spice up this miserable weather!\""
 }
