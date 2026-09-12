@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-12T13:27:19.688230+00:00",
+  "timestamp": "2026-09-12T13:58:20.537527+00:00",
   "house": {
     "indoor_temp": 20.9,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 20.6,
-    "outdoor_humidity": 86.0,
-    "wind_speed": 2.2,
-    "wind_direction": 145.0,
-    "pressure": 1019.3,
+    "outdoor_temp": 20.7,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 0.0,
+    "wind_direction": 182.0,
+    "pressure": 1019.5,
     "rain_today": 0.6,
     "uv_index": 1.0,
-    "power_usage": 337.0,
+    "power_usage": 522.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 19.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-12",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-09-12",
@@ -94,5 +94,5 @@
     "The aircraft might not be flying, but the certificate has gone on vacation",
     "AI more likely to kill animals if it saves fuel or money"
   ],
-  "crew_quote": "\"Looks like it's patchy rain nearby, but who cares? I’ve got my curry and this massive Dell monitor to distract me from my miserable life!\""
+  "crew_quote": "\"With all this mist outside, I think I'll just stay in and stare at the enormous Dell monitor—because why not make impractical decisions when it's 18 degrees of cloudy bliss?\""
 }
