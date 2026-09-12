@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-12T11:23:18.048068+00:00",
+  "timestamp": "2026-09-12T11:54:17.958701+00:00",
   "house": {
     "indoor_temp": 20.7,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 17.8,
-    "outdoor_humidity": 94.0,
-    "wind_speed": 0.0,
-    "wind_direction": 126.0,
-    "pressure": 1019.5,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 17.9,
+    "outdoor_humidity": 93.0,
+    "wind_speed": 0.4,
+    "wind_direction": 119.0,
+    "pressure": 1019.3,
     "rain_today": 0.6,
-    "uv_index": 1.0,
-    "power_usage": 365.0,
+    "uv_index": 0.0,
+    "power_usage": 469.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI more likely to kill animals if it saves fuel or money",
     "More JFrog Artifactory bugs under attack, and all 3 have patches"
   ],
-  "crew_quote": "\"Ah, light rain showers and 20 degrees, great weather for a curry! Just what we need to spice up our time in this floating tin can.\""
+  "crew_quote": "\"Well, it's a balmy 15 degrees out there and raining like Mother Nature's forgotten her umbrella — perfect weather for a nice curry and a good old moan!\""
 }
