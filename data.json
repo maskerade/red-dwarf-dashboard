@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-12T12:25:19.299148+00:00",
+  "timestamp": "2026-09-12T12:56:20.346459+00:00",
   "house": {
     "indoor_temp": 20.8,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 18.4,
-    "outdoor_humidity": 92.0,
+    "outdoor_temp": 19.2,
+    "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
-    "wind_direction": 118.0,
-    "pressure": 1019.2,
+    "wind_direction": 208.0,
+    "pressure": 1019.1,
     "rain_today": 0.6,
     "uv_index": 0.0,
-    "power_usage": 345.0,
+    "power_usage": 373.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI more likely to kill animals if it saves fuel or money",
     "More JFrog Artifactory bugs under attack, and all 3 have patches"
   ],
-  "crew_quote": "\"Honestly, with all this patchy rain and the indoors being warmer than a curry after a night out, I'd say we're one cat nap away from a proper chill, don't you think?\""
+  "crew_quote": "\"Well, I'm not saying I want to eat my own weight in curry during a patchy rain, but if the weather's going to be as miserable as Dell's 52-inch monitor, I might just have to!\""
 }
