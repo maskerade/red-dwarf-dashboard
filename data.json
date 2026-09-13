@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-13T14:15:42.522032+00:00",
+  "timestamp": "2026-09-13T14:46:43.288275+00:00",
   "house": {
     "indoor_temp": 21.5,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 20.2,
-    "outdoor_humidity": 78.0,
+    "outdoor_temp": 20.7,
+    "outdoor_humidity": 77.0,
     "wind_speed": 0.0,
-    "wind_direction": 212.0,
+    "wind_direction": 153.0,
     "pressure": 1023.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 427.0,
+    "power_usage": 382.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -37,44 +37,44 @@
       ]
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Overcast ",
-      "forecast": [
-        {
-          "date": "2026-09-13",
-          "max": 22.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-09-14",
-          "max": 25.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-09-15",
-          "max": 20.0,
-          "min": 11.0
-        }
-      ]
-    },
-    "llandudno": {
-      "temp": 20.0,
+      "temp": 21.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-13",
-          "max": 20.0,
+          "max": 21.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-09-14",
+          "max": 24.0,
+          "min": 15.0
+        },
+        {
+          "date": "2026-09-15",
+          "max": 19.0,
+          "min": 12.0
+        }
+      ]
+    },
+    "llandudno": {
+      "temp": 17.0,
+      "conditions": "Overcast ",
+      "forecast": [
+        {
+          "date": "2026-09-13",
+          "max": 18.0,
           "min": 13.0
         },
         {
           "date": "2026-09-14",
-          "max": 21.0,
-          "min": 13.0
+          "max": 20.0,
+          "min": 15.0
         },
         {
           "date": "2026-09-15",
           "max": 17.0,
-          "min": 12.0
+          "min": 11.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "How to make Xfce look like almost any desktop you want",
     "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late"
   ],
-  "crew_quote": "\"With all this humidity and patchy rain, it’s the perfect weather for a curry, innit? Bet it’ll be a right adventure watching it cook while the ZX Spectrum serenades us!\""
+  "crew_quote": "\"If it's patchy rain in Overseal, I guess that means I can still have my curry tonight without turning into a soggy chip!\""
 }
