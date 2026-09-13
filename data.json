@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-13T13:44:42.965765+00:00",
+  "timestamp": "2026-09-13T14:15:42.522032+00:00",
   "house": {
-    "indoor_temp": 21.6,
+    "indoor_temp": 21.5,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 20.3,
-    "outdoor_humidity": 80.0,
+    "outdoor_temp": 20.2,
+    "outdoor_humidity": 78.0,
     "wind_speed": 0.0,
-    "wind_direction": 154.0,
-    "pressure": 1023.2,
+    "wind_direction": 212.0,
+    "pressure": 1023.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 438.0,
+    "power_usage": 427.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "How to make Xfce look like almost any desktop you want",
     "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late"
   ],
-  "crew_quote": "\"Blimey, with the weather being all cloudy and patchy rain, I could really do with a curry to cheer me up — those ZX Spectrum tunes won't make me feel any less miserable!\""
+  "crew_quote": "\"With all this humidity and patchy rain, it’s the perfect weather for a curry, innit? Bet it’ll be a right adventure watching it cook while the ZX Spectrum serenades us!\""
 }
