@@ -1,33 +1,33 @@
 {
-  "timestamp": "2026-09-13T08:34:37.448080+00:00",
+  "timestamp": "2026-09-13T09:05:37.898251+00:00",
   "house": {
     "indoor_temp": 20.9,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 16.8,
+    "outdoor_temp": 16.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 134.0,
-    "pressure": 1022.7,
+    "pressure": 1023.0,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 236.0,
+    "uv_index": 1.0,
+    "power_usage": 365.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Light rain shower",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-13",
           "max": 20.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-09-14",
           "max": 22.0,
-          "min": 14.0
+          "min": 12.0
         },
         {
           "date": "2026-09-15",
@@ -94,5 +94,5 @@
     "The aircraft might not be flying, but the certificate has gone on vacation",
     "AI more likely to kill animals if it saves fuel or money"
   ],
-  "crew_quote": "\"With the way this weather's turning from mist to patchy rain, I might as well start brewing a curry now — at least it'll spice up the dreariness, eh?\""
+  "crew_quote": "\"What's the weather like? Overcast and misty? Great, just what I need to match my mood—like a curry with no spice!\""
 }
