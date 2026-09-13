@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-13T10:38:40.032864+00:00",
+  "timestamp": "2026-09-13T11:09:40.013736+00:00",
   "house": {
-    "indoor_temp": 21.1,
+    "indoor_temp": 21.3,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 17.8,
-    "outdoor_humidity": 93.0,
+    "outdoor_temp": 18.4,
+    "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
-    "wind_direction": 150.0,
-    "pressure": 1023.1,
+    "wind_direction": 146.0,
+    "pressure": 1023.6,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 500.0,
+    "uv_index": 1.0,
+    "power_usage": 432.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Dell's 52-inch enormo-monitor is a tsunami of impractical fun",
     "The aircraft might not be flying, but the certificate has gone on vacation"
   ],
-  "crew_quote": "\"With weather like this, I might just stay indoors and tinker with my desktop – a little Nvidia news never hurt anyone, unlike the patchy rain!\""
+  "crew_quote": "\"Oi, with it being a muggy 21 degrees inside, I reckon it's time for a curry! Just don’t ask me to make it look like one of them fancy desktops.\""
 }
