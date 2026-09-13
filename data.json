@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-13T17:52:45.468898+00:00",
+  "timestamp": "2026-09-13T18:23:45.399328+00:00",
   "house": {
-    "indoor_temp": 21.6,
+    "indoor_temp": 21.7,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 19.0,
-    "outdoor_humidity": 86.0,
+    "outdoor_temp": 18.2,
+    "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
     "wind_direction": 205.0,
     "pressure": 1022.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 626.0,
+    "power_usage": 654.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 20.0,
+      "temp": 18.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "How to make Xfce look like almost any desktop you want",
     "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late"
   ],
-  "crew_quote": "\"With the weather being so mild, I think a nice curry would really hit the spot—unless Rimmer complains about the smell again!\""
+  "crew_quote": "\"Well, mate, if it's 21.7 degrees inside and still overcast outside, I reckon it's the perfect weather for a curry and a good old game on the ZX Spectrum!\""
 }
