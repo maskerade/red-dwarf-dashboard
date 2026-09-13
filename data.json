@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-13T11:09:40.013736+00:00",
+  "timestamp": "2026-09-13T11:40:40.226488+00:00",
   "house": {
     "indoor_temp": 21.3,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 18.4,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 19.7,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 146.0,
+    "wind_direction": 141.0,
     "pressure": 1023.6,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 432.0,
+    "uv_index": 0.0,
+    "power_usage": 474.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
+      "temp": 19.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sat 12th and Sun 13th September no services will operate between Crumpsall and Bury. A bus replacement service will be in operation. Please See TFGM.com for all service info.",
   "headlines": [
+    "Security through obscurity is dead, and AI delivered the fatal blow",
     "How to make Xfce look like almost any desktop you want",
     "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late",
-    "Dell's 52-inch enormo-monitor is a tsunami of impractical fun",
-    "The aircraft might not be flying, but the certificate has gone on vacation"
+    "Dell's 52-inch enormo-monitor is a tsunami of impractical fun"
   ],
-  "crew_quote": "\"Oi, with it being a muggy 21 degrees inside, I reckon it's time for a curry! Just don’t ask me to make it look like one of them fancy desktops.\""
+  "crew_quote": "\"With the weather being as dreary as my love life, I might as well try to make my Xfce desktop look as fabulous as I do!\""
 }
