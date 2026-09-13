@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-13T19:25:46.947276+00:00",
+  "timestamp": "2026-09-13T19:56:47.203145+00:00",
   "house": {
-    "indoor_temp": 21.8,
+    "indoor_temp": 21.9,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 17.8,
+    "outdoor_temp": 17.7,
     "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
     "wind_direction": 205.0,
-    "pressure": 1022.2,
+    "pressure": 1022.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 932.0,
+    "power_usage": 747.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
+      "temp": 17.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "How to make Xfce look like almost any desktop you want",
     "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late"
   ],
-  "crew_quote": "\"With this weather, I could really go for a curry—but then again, it’s all mist and gloom like my chances of getting a decent pint around here!\""
+  "crew_quote": "\"You know, with all this overcast weather and a bit of mist, I think I’ll stick to my curry – it’s the only thing keeping me warm enough to actually care about anything!\""
 }
