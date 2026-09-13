@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-13T12:11:40.996739+00:00",
+  "timestamp": "2026-09-13T12:42:41.362392+00:00",
   "house": {
-    "indoor_temp": 21.4,
+    "indoor_temp": 21.6,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 19.4,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 19.9,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
     "wind_direction": 147.0,
     "pressure": 1023.7,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 654.0,
+    "power_usage": 522.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late",
     "Dell's 52-inch enormo-monitor is a tsunami of impractical fun"
   ],
-  "crew_quote": "\"Even the weather's a bit patchy today—just like my love life! But hey, at least I've got a curry to bring the heat, right?\""
+  "crew_quote": "\"Looks like it's a proper overcast day outside, much like my love life – dark and damp with a slight chance of curry, if I’m lucky!\""
 }
