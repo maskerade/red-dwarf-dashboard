@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-13T03:24:33.049861+00:00",
+  "timestamp": "2026-09-13T03:55:33.660544+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 15.8,
+    "outdoor_temp": 15.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 133.0,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Mist",
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-09-13",
@@ -26,8 +26,8 @@
         },
         {
           "date": "2026-09-14",
-          "max": 23.0,
-          "min": 13.0
+          "max": 22.0,
+          "min": 14.0
         },
         {
           "date": "2026-09-15",
@@ -38,17 +38,17 @@
     },
     "overseal": {
       "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-09-13",
           "max": 22.0,
-          "min": 15.0
+          "min": 16.0
         },
         {
           "date": "2026-09-14",
           "max": 24.0,
-          "min": 14.0
+          "min": 15.0
         },
         {
           "date": "2026-09-15",
@@ -58,12 +58,12 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Fog",
+      "temp": 15.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-09-13",
-          "max": 20.0,
+          "max": 19.0,
           "min": 13.0
         },
         {
@@ -74,7 +74,7 @@
         {
           "date": "2026-09-15",
           "max": 17.0,
-          "min": 12.0
+          "min": 11.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "The aircraft might not be flying, but the certificate has gone on vacation",
     "AI more likely to kill animals if it saves fuel or money"
   ],
-  "crew_quote": "\"With this mist and fog, it’s a perfect day for a curry! Just don’t ask me to share my naan, or I might have to throw you overboard!\""
+  "crew_quote": "\"With all this rain, I think I'll stay in, crank up the heat to 21, and dream about a curry as big as that Dell monitor—now that's what I call impractical fun!\""
 }
