@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-13T11:40:40.226488+00:00",
+  "timestamp": "2026-09-13T12:11:40.996739+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.4,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 19.7,
-    "outdoor_humidity": 83.0,
+    "outdoor_temp": 19.4,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 141.0,
-    "pressure": 1023.6,
+    "wind_direction": 147.0,
+    "pressure": 1023.7,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 474.0,
+    "uv_index": 1.0,
+    "power_usage": 654.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late",
     "Dell's 52-inch enormo-monitor is a tsunami of impractical fun"
   ],
-  "crew_quote": "\"With the weather being as dreary as my love life, I might as well try to make my Xfce desktop look as fabulous as I do!\""
+  "crew_quote": "\"Even the weather's a bit patchy today—just like my love life! But hey, at least I've got a curry to bring the heat, right?\""
 }
