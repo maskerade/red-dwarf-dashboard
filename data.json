@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-13T23:02:49.524272+00:00",
+  "timestamp": "2026-09-13T23:33:50.527665+00:00",
   "house": {
     "indoor_temp": 22.1,
-    "indoor_humidity": 66.0,
-    "outdoor_temp": 16.7,
+    "indoor_humidity": 65.0,
+    "outdoor_temp": 16.5,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 205.0,
-    "pressure": 1022.7,
+    "pressure": 1022.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 505.0,
+    "power_usage": 427.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "How to make Xfce look like almost any desktop you want",
     "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late"
   ],
-  "crew_quote": "\"With this mist and all, I reckon we’re just one bad curry away from a full-on intergalactic fog! I mean, it’s not like we need the ZX Spectrum to tell us that!\""
+  "crew_quote": "\"Fancy a curry in this mist? It’s like eating in a foggy sauna; makes you feel alive, even if I can't tell if I'm sweating or just the humidity!\""
 }
