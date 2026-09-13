@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-13T03:55:33.660544+00:00",
+  "timestamp": "2026-09-13T04:26:33.521956+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 63.0,
     "outdoor_temp": 15.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 133.0,
-    "pressure": 1021.3,
+    "wind_direction": 134.0,
+    "pressure": 1021.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 244.0,
+    "power_usage": 236.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "The aircraft might not be flying, but the certificate has gone on vacation",
     "AI more likely to kill animals if it saves fuel or money"
   ],
-  "crew_quote": "\"With all this rain, I think I'll stay in, crank up the heat to 21, and dream about a curry as big as that Dell monitor—now that's what I call impractical fun!\""
+  "crew_quote": "\"Rain in Altrincham, light showers in Llandudno — it's enough to make a bloke dream of a curry and a pint, all while surrounded by 21 degrees of total indoor radiance!\""
 }
