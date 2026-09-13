@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-13T17:21:45.149575+00:00",
+  "timestamp": "2026-09-13T17:52:45.468898+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.6,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 19.8,
-    "outdoor_humidity": 83.0,
+    "outdoor_temp": 19.0,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
     "wind_direction": 205.0,
-    "pressure": 1022.2,
+    "pressure": 1022.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 646.0,
+    "power_usage": 626.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 20.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-13",
@@ -94,5 +94,5 @@
     "How to make Xfce look like almost any desktop you want",
     "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late"
   ],
-  "crew_quote": "\"20 degrees and patchy rain, eh? Great! Just the weather for a nice curry... and a bit of a mope about how the ZX Spectrum’s music sounds better than some of the drivel out there!\""
+  "crew_quote": "\"With the weather being so mild, I think a nice curry would really hit the spot—unless Rimmer complains about the smell again!\""
 }
