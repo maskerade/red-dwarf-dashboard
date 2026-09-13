@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-13T00:18:30.085694+00:00",
+  "timestamp": "2026-09-13T00:49:30.883717+00:00",
   "house": {
     "indoor_temp": 21.2,
-    "indoor_humidity": 64.0,
+    "indoor_humidity": 63.0,
     "outdoor_temp": 16.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
@@ -10,7 +10,7 @@
     "pressure": 1021.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 314.0,
+    "power_usage": 328.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "The aircraft might not be flying, but the certificate has gone on vacation",
     "AI more likely to kill animals if it saves fuel or money"
   ],
-  "crew_quote": "\"Ah, 21.2 degrees indoors and 15 outside, it's like a proper curry night in here with a side of fog — perfect for lounging and contemplating life’s most impractical fun!\""
+  "crew_quote": "\"Blimey, with this fog, even my curry’s gone invisible — now that’s how you add a bit of mystery to dinner!\""
 }
