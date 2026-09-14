@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T10:56:41.420553+00:00",
+  "timestamp": "2026-09-14T11:27:42.270462+00:00",
   "house": {
-    "indoor_temp": 22.0,
-    "indoor_humidity": 66.0,
-    "outdoor_temp": 21.3,
-    "outdoor_humidity": 86.0,
+    "indoor_temp": 22.1,
+    "indoor_humidity": 65.0,
+    "outdoor_temp": 21.1,
+    "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
-    "wind_direction": 152.0,
-    "pressure": 1021.6,
+    "wind_direction": 222.0,
+    "pressure": 1021.5,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 562.0,
+    "power_usage": 590.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -36,5 +36,5 @@
     "UK.gov begins killing off passwords for 23 million users",
     "Europe's right-to-repair rules are broken, not beaten"
   ],
-  "crew_quote": "\"With the indoor temp at a cozy 22°C, it’s the perfect day for a curry, but let’s not discuss killer AI; that’s just the government trying to distract us from the real issues!\""
+  "crew_quote": "\"22.1 degrees, a perfect temperature for a nice curry, don’t you think? If only we could get the ship up to speed on the latest news instead of just running on power and bad jokes!\""
 }
