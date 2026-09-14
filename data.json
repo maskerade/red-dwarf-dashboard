@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T05:45:57.698114+00:00",
+  "timestamp": "2026-09-14T06:16:55.589266+00:00",
   "house": {
     "indoor_temp": 21.5,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 16.1,
+    "outdoor_temp": 15.7,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 223.0,
-    "pressure": 1021.7,
+    "pressure": 1021.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 264.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Mist",
+      "temp": 15.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-14",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Mist",
+      "temp": 14.0,
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-09-14",
@@ -94,5 +94,5 @@
     "Security through obscurity is dead, and AI delivered the fatal blow",
     "How to make Xfce look like almost any desktop you want"
   ],
-  "crew_quote": "\"With all this mist outside, it's like the universe is just trying to hide its bad haircut — much like my own, after that curry binge last night!\""
+  "crew_quote": "\"16 degrees and patchy rain, eh? Perfect curry weather! Just don’t expect me to share my naan if the Cat’s around — he might try to accessorize it!\""
 }
