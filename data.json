@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T13:31:43.871129+00:00",
+  "timestamp": "2026-09-14T14:02:44.461720+00:00",
   "house": {
     "indoor_temp": 22.7,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 24.0,
-    "outdoor_humidity": 75.0,
+    "outdoor_temp": 23.9,
+    "outdoor_humidity": 76.0,
     "wind_speed": 0.0,
-    "wind_direction": 343.0,
+    "wind_direction": 329.0,
     "pressure": 1020.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 562.0,
+    "power_usage": 671.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -31,10 +31,10 @@
   "astronomy": {},
   "metrolink": "From 14th September a new timetable is in operation. Please see TFGM.com for more information.",
   "headlines": [
+    "Teravolt looks to cannibalize older industries to meet AI power demand",
     "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
     "Huawei pitches near-packaged optics as co-packaged costs bite",
-    "MPs and peers tell UK to stop winging it on AI regulation",
-    "Revolut falls for fake government requests, hands over customer data"
+    "MPs and peers tell UK to stop winging it on AI regulation"
   ],
-  "crew_quote": "\"Looks like the only thing getting patched today is the ship’s power usage — 562 kWh! Just enough for a good curry if we can fix our audio!\""
+  "crew_quote": "\"With the indoor humidity at 64%, I reckon it's the perfect weather for a curry—just don't let the AI try and spice it up, or we'll end up with teravolt vindaloo!\""
 }
