@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T16:06:05.437933+00:00",
+  "timestamp": "2026-09-14T16:37:04.774727+00:00",
   "house": {
     "indoor_temp": 22.9,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 23.4,
-    "outdoor_humidity": 63.0,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 23.0,
+    "outdoor_humidity": 65.0,
     "wind_speed": 0.0,
-    "wind_direction": 321.0,
-    "pressure": 1018.8,
+    "wind_direction": 327.0,
+    "pressure": 1019.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 623.0,
+    "power_usage": 590.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Perfect-10 GitLab bug under attack days after patch lands",
     "Teravolt looks to cannibalize older industries to meet AI power demand"
   ],
-  "crew_quote": "\"Haven't you heard? Even the weather's patchy around here, just like my last three curry attempts! But hey, at least we're not on Mars waiting for a Cyberattack!\""
+  "crew_quote": "\"Well, it’s 23 degrees and still feels like a curry night to me, despite the patchy rain! Perfect for a bit of a listen while my soggy chips flirt with the humidity!\""
 }
