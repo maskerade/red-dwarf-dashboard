@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T03:10:52.960893+00:00",
+  "timestamp": "2026-09-14T03:41:54.056993+00:00",
   "house": {
-    "indoor_temp": 21.6,
+    "indoor_temp": 21.5,
     "indoor_humidity": 64.0,
     "outdoor_temp": 16.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 222.0,
-    "pressure": 1021.9,
+    "wind_direction": 223.0,
+    "pressure": 1022.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 252.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Security through obscurity is dead, and AI delivered the fatal blow",
     "How to make Xfce look like almost any desktop you want"
   ],
-  "crew_quote": "\"Well, at least it's a nice, misty day for a curry! Just makes the prospect of doom and gloom outside feel a bit more... flavourful, doesn't it?\""
+  "crew_quote": "\"Well, at least the mist in Altrincham is better than the fog of that big AI's nonsense; I can still see my curry through it!\""
 }
