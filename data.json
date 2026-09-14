@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T08:20:57.340042+00:00",
+  "timestamp": "2026-09-14T08:51:57.899145+00:00",
   "house": {
     "indoor_temp": 21.5,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 18.8,
+    "indoor_humidity": 66.0,
+    "outdoor_temp": 19.0,
     "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 224.0,
-    "pressure": 1022.3,
+    "wind_direction": 223.0,
+    "pressure": 1022.2,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 252.0,
+    "uv_index": 1.0,
+    "power_usage": 505.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Big AI sets out its terms for regulatory capture and calls it ‘Pace the frontier’",
     "The improbable music of the ZX Spectrum's one-bit speaker"
   ],
-  "crew_quote": "\"I'd rather endure a misty Llandudno than listen to a tech team laugh over a wrong button press; they should try pressing the button for a decent curry instead!\""
+  "crew_quote": "\"16 degrees and sunny? Perfect weather for a curry picnic! Just don’t forget the napkins — I don't want to end up wearing a vindaloo like last time!\""
 }
