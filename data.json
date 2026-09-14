@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T14:33:03.214127+00:00",
+  "timestamp": "2026-09-14T15:04:05.817856+00:00",
   "house": {
-    "indoor_temp": 22.8,
+    "indoor_temp": 22.9,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 23.9,
-    "outdoor_humidity": 72.0,
+    "outdoor_temp": 24.1,
+    "outdoor_humidity": 69.0,
     "wind_speed": 0.0,
-    "wind_direction": 329.0,
-    "pressure": 1019.6,
+    "wind_direction": 333.0,
+    "pressure": 1019.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 559.0,
+    "power_usage": 539.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
     "Huawei pitches near-packaged optics as co-packaged costs bite"
   ],
-  "crew_quote": "\"Ah, the weather’s spot on for a lovely curry, isn’t it? Just a bit of drizzle nearby to keep it interesting—kinda like my love life!\""
+  "crew_quote": "\"Weather's all over the place, but at least it's not raining curry yet. Gives me time to whip up a proper meal before my future robot overlords take over!\""
 }
