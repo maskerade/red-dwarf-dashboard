@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T01:06:51.643806+00:00",
+  "timestamp": "2026-09-14T01:37:52.061655+00:00",
   "house": {
     "indoor_temp": 21.8,
-    "indoor_humidity": 65.0,
-    "outdoor_temp": 16.4,
+    "indoor_humidity": 64.0,
+    "outdoor_temp": 16.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 205.0,
-    "pressure": 1022.5,
+    "pressure": 1022.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 17.0,
-      "conditions": "Mist",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-14",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Mist",
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-09-14",
@@ -89,10 +89,10 @@
   },
   "metrolink": "Due to a a points failure at Altrincham there are no services between Navigation Rd and Altrincham Ticket acceptanvce on the following bus service 263",
   "headlines": [
+    "Big AI sets out its terms for regulatory capture and calls it ‘Pace the frontier’",
     "The improbable music of the ZX Spectrum's one-bit speaker",
     "Security through obscurity is dead, and AI delivered the fatal blow",
-    "How to make Xfce look like almost any desktop you want",
-    "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late"
+    "How to make Xfce look like almost any desktop you want"
   ],
-  "crew_quote": "\"16 degrees and misty outside, eh? Just enough to make me contemplate a nice curry while I dream of being somewhere sunny and fabulous!\""
+  "crew_quote": "\"Is it overcast or just my hair? I can’t tell with all this fog! Might as well whip up a nice curry to brighten the day, yeah?\""
 }
