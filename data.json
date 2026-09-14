@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T22:49:10.700392+00:00",
+  "timestamp": "2026-09-14T23:20:10.890277+00:00",
   "house": {
     "indoor_temp": 23.1,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 18.2,
-    "outdoor_humidity": 90.0,
+    "outdoor_temp": 17.8,
+    "outdoor_humidity": 91.0,
     "wind_speed": 0.0,
-    "wind_direction": 299.0,
-    "pressure": 1017.4,
+    "wind_direction": 1.0,
+    "pressure": 1016.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 466.0,
+    "power_usage": 449.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI's malicious bot swarm attacked RubyGems",
     "Datacenter developers want your backyard. FAS says negotiate harder"
   ],
-  "crew_quote": "\"With the weather’s just right at 18 degrees, it’s a perfect day for a curry — as long as we’re not all laid off by Oracle first, eh?\""
+  "crew_quote": "\"Fancy a curry, Dave? It's a lovely 18 degrees outside, perfect for a stroll, but the real heat is in this room with all this power usage! We could fry an egg on the control panel!\""
 }
