@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T19:43:07.755217+00:00",
+  "timestamp": "2026-09-14T20:14:07.859697+00:00",
   "house": {
-    "indoor_temp": 22.9,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 20.5,
-    "outdoor_humidity": 82.0,
+    "indoor_temp": 23.0,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 20.1,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 307.0,
+    "wind_direction": 330.0,
     "pressure": 1018.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 969.0,
+    "power_usage": 640.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Ubuntu Noble's likely last point release lands, then loses its desktop download",
     "Cyberattack sends International Meteor Organization crashing back to Earth"
   ],
-  "crew_quote": "\"Honestly, I’ve had better weather in a soggy cardboard box! But at 18 degrees, I’ll still take the fresh air over a data center fight any day—bring on the curry!\""
+  "crew_quote": "\"Looks like it's a perfect day for a curry, but I'm not sure it'll beat the humidity indoors; I’m sweating like I’ve just run a marathon in Llandudno!\""
 }
