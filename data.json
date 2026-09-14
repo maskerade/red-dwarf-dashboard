@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T09:54:40.602636+00:00",
+  "timestamp": "2026-09-14T10:25:41.228939+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.9,
     "indoor_humidity": 66.0,
-    "outdoor_temp": 20.5,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 21.1,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
     "wind_direction": 226.0,
-    "pressure": 1021.8,
+    "pressure": 1021.7,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 573.0,
+    "power_usage": 578.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -31,10 +31,10 @@
   "astronomy": {},
   "metrolink": "From 14th September a new timetable is in operation. Please see TFGM.com for more information.",
   "headlines": [
+    "The myth of killer AI is a self-serving attempt at regulatory capture",
     "UK.gov begins killing off passwords for 23 million users",
     "Europe's right-to-repair rules are broken, not beaten",
-    "Who, Me? Tech team stood and laughed at colleague who pressed the wrong off button",
-    "AI and its main promoters are not enterprise-ready, says Gartner"
+    "Who, Me? Tech team stood and laughed at colleague who pressed the wrong off button"
   ],
-  "crew_quote": "\"21.7°C? Just perfect for a nice curry, but let’s not talk passwords—can’t even remember my own, and I’m pretty sure I wrote it down on a takeaway napkin!\""
+  "crew_quote": "\"Twenty-one point nine degrees? That’s just about perfect for a curry—though not as perfect as my good looks, of course!\""
 }
