@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-14T00:04:50.425602+00:00",
+  "timestamp": "2026-09-14T00:35:51.531529+00:00",
   "house": {
-    "indoor_temp": 21.9,
+    "indoor_temp": 21.8,
     "indoor_humidity": 65.0,
     "outdoor_temp": 16.2,
-    "outdoor_humidity": 98.0,
+    "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 205.0,
+    "wind_direction": 206.0,
     "pressure": 1022.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 323.0,
+    "power_usage": 272.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 16.0,
-      "conditions": "Mist",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-14",
@@ -94,5 +94,5 @@
     "How to make Xfce look like almost any desktop you want",
     "Nvidia's Groq acquihire is on the DOJ's radar, but it's already too late"
   ],
-  "crew_quote": "\"Well, would you look at that? It’s misty outside, and I can’t even tell if it’s my brilliance or just the weather that’s clouding our view!\""
+  "crew_quote": "\"Well, at least it’s only 16 degrees out there, which is perfect for a nice curry! Just my luck, though—always mist when I want to enjoy a bit of fresh air!\""
 }
