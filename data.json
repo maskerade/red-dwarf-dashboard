@@ -1,98 +1,40 @@
 {
-  "timestamp": "2026-09-14T09:22:59.980517+00:00",
+  "timestamp": "2026-09-14T09:54:40.602636+00:00",
   "house": {
     "indoor_temp": 21.7,
     "indoor_humidity": 66.0,
-    "outdoor_temp": 20.1,
-    "outdoor_humidity": 87.0,
+    "outdoor_temp": 20.5,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
     "wind_direction": 226.0,
-    "pressure": 1022.0,
+    "pressure": 1021.8,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 643.0,
+    "power_usage": 573.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-09-14",
-          "max": 23.0,
-          "min": 14.0
-        },
-        {
-          "date": "2026-09-15",
-          "max": 18.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-09-16",
-          "max": 14.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Sunny",
-      "forecast": [
-        {
-          "date": "2026-09-14",
-          "max": 23.0,
-          "min": 15.0
-        },
-        {
-          "date": "2026-09-15",
-          "max": 20.0,
-          "min": 12.0
-        },
-        {
-          "date": "2026-09-16",
-          "max": 16.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 19.0,
-      "conditions": "Overcast ",
-      "forecast": [
-        {
-          "date": "2026-09-14",
-          "max": 21.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-09-15",
-          "max": 17.0,
-          "min": 11.0
-        },
-        {
-          "date": "2026-09-16",
-          "max": 12.0,
-          "min": 9.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "06:41 AM",
-    "sunset": "07:28 PM",
-    "moon_phase": "Waxing Crescent",
-    "moon_illumination": "9",
-    "moonrise": "11:01 AM",
-    "moonset": "07:58 PM"
-  },
+  "astronomy": {},
   "metrolink": "From 14th September a new timetable is in operation. Please see TFGM.com for more information.",
   "headlines": [
+    "UK.gov begins killing off passwords for 23 million users",
     "Europe's right-to-repair rules are broken, not beaten",
     "Who, Me? Tech team stood and laughed at colleague who pressed the wrong off button",
-    "AI and its main promoters are not enterprise-ready, says Gartner",
-    "Big AI sets out its terms for regulatory capture and calls it ‘Pace the frontier’"
+    "AI and its main promoters are not enterprise-ready, says Gartner"
   ],
-  "crew_quote": "\"With this lovely weather, it’s almost tempting to put down the curry and go for a lovely stroll, but then I remember how that always ends up with me lost in a space-time loop!\""
+  "crew_quote": "\"21.7°C? Just perfect for a nice curry, but let’s not talk passwords—can’t even remember my own, and I’m pretty sure I wrote it down on a takeaway napkin!\""
 }
