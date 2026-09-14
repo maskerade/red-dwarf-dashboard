@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T21:47:09.261203+00:00",
+  "timestamp": "2026-09-14T22:18:10.275351+00:00",
   "house": {
-    "indoor_temp": 22.9,
+    "indoor_temp": 23.0,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 18.9,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 18.6,
+    "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
-    "wind_direction": 346.0,
-    "pressure": 1017.8,
+    "wind_direction": 20.0,
+    "pressure": 1017.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 674.0,
+    "power_usage": 612.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -21,7 +21,7 @@
       "forecast": [
         {
           "date": "2026-09-14",
-          "max": 23.0,
+          "max": 24.0,
           "min": 14.0
         },
         {
@@ -31,13 +31,13 @@
         },
         {
           "date": "2026-09-16",
-          "max": 15.0,
+          "max": 16.0,
           "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -48,7 +48,7 @@
         {
           "date": "2026-09-15",
           "max": 19.0,
-          "min": 12.0
+          "min": 13.0
         },
         {
           "date": "2026-09-16",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 18.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-14",
@@ -69,11 +69,11 @@
         {
           "date": "2026-09-15",
           "max": 18.0,
-          "min": 11.0
+          "min": 12.0
         },
         {
           "date": "2026-09-16",
-          "max": 13.0,
+          "max": 14.0,
           "min": 11.0
         }
       ]
@@ -94,5 +94,5 @@
     "OpenAI's malicious bot swarm attacked RubyGems",
     "Datacenter developers want your backyard. FAS says negotiate harder"
   ],
-  "crew_quote": "\"Blimey, with it being 22 degrees inside, I could really go for a nice curry... but I suppose I should be grateful it’s not raining like it is in Llandudno!\""
+  "crew_quote": "\"When it's 17 degrees out and they’re laying off staff like it’s a game of musical chairs, I reckon I’d rather stay in here and enjoy me curry in peace!\""
 }
