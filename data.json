@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T08:51:57.899145+00:00",
+  "timestamp": "2026-09-14T09:22:59.980517+00:00",
   "house": {
-    "indoor_temp": 21.5,
+    "indoor_temp": 21.7,
     "indoor_humidity": 66.0,
-    "outdoor_temp": 19.0,
+    "outdoor_temp": 20.1,
     "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 223.0,
-    "pressure": 1022.2,
+    "wind_direction": 226.0,
+    "pressure": 1022.0,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 505.0,
+    "power_usage": 643.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 20.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-14",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Mist",
+      "temp": 19.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-14",
@@ -89,10 +89,10 @@
   },
   "metrolink": "From 14th September a new timetable is in operation. Please see TFGM.com for more information.",
   "headlines": [
+    "Europe's right-to-repair rules are broken, not beaten",
     "Who, Me? Tech team stood and laughed at colleague who pressed the wrong off button",
     "AI and its main promoters are not enterprise-ready, says Gartner",
-    "Big AI sets out its terms for regulatory capture and calls it ‘Pace the frontier’",
-    "The improbable music of the ZX Spectrum's one-bit speaker"
+    "Big AI sets out its terms for regulatory capture and calls it ‘Pace the frontier’"
   ],
-  "crew_quote": "\"16 degrees and sunny? Perfect weather for a curry picnic! Just don’t forget the napkins — I don't want to end up wearing a vindaloo like last time!\""
+  "crew_quote": "\"With this lovely weather, it’s almost tempting to put down the curry and go for a lovely stroll, but then I remember how that always ends up with me lost in a space-time loop!\""
 }
