@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-14T11:27:42.270462+00:00",
+  "timestamp": "2026-09-14T11:58:42.627002+00:00",
   "house": {
-    "indoor_temp": 22.1,
+    "indoor_temp": 22.5,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 21.1,
+    "outdoor_temp": 21.6,
     "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
-    "wind_direction": 222.0,
-    "pressure": 1021.5,
+    "wind_direction": 219.0,
+    "pressure": 1021.2,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 590.0,
+    "uv_index": 0.0,
+    "power_usage": 635.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -31,10 +31,10 @@
   "astronomy": {},
   "metrolink": "From 14th September a new timetable is in operation. Please see TFGM.com for more information.",
   "headlines": [
+    "Revolut falls for fake government requests, hands over customer data",
     "CPython eases Rust requirements as assimilation continues",
     "The myth of killer AI is a self-serving attempt at regulatory capture",
-    "UK.gov begins killing off passwords for 23 million users",
-    "Europe's right-to-repair rules are broken, not beaten"
+    "UK.gov begins killing off passwords for 23 million users"
   ],
-  "crew_quote": "\"22.1 degrees, a perfect temperature for a nice curry, don’t you think? If only we could get the ship up to speed on the latest news instead of just running on power and bad jokes!\""
+  "crew_quote": "\"With this humidity, you'd think my curry would cook itself! But knowing my luck, it’ll just turn into a soggy mess like that Revolut nonsense!\""
 }
