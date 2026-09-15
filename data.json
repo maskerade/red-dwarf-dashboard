@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-15T06:34:16.945437+00:00",
+  "timestamp": "2026-09-15T07:05:17.341720+00:00",
   "house": {
-    "indoor_temp": 22.4,
+    "indoor_temp": 22.3,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 15.0,
+    "outdoor_temp": 14.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 126.0,
-    "pressure": 1014.9,
+    "wind_direction": 124.0,
+    "pressure": 1015.3,
     "rain_today": 5.6,
     "uv_index": 0.0,
-    "power_usage": 275.0,
+    "power_usage": 250.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "COBOL dev won .Net hackathon with help from AI – and their CIO loves it",
     "Microsoft drafts feel-good AI model guidelines and wants your input"
   ],
-  "crew_quote": "\"Oi, what's with this weather? It’s 17 degrees and drizzling everywhere — not even a decent curry can cheer me up in this miserable mist!\""
+  "crew_quote": "\"Ah, it’s a bit dreary out, but at least it's not as foggy as my last date with a curry—she really twisted my brain like those new foldy iPhones!\""
 }
