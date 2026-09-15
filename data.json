@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-15T15:52:22.378725+00:00",
+  "timestamp": "2026-09-15T16:23:22.838138+00:00",
   "house": {
-    "indoor_temp": 22.8,
+    "indoor_temp": 22.7,
     "indoor_humidity": 60.0,
     "outdoor_temp": 16.1,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 2.2,
-    "wind_direction": 113.0,
-    "pressure": 1017.1,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 0.4,
+    "wind_direction": 120.0,
+    "pressure": 1017.2,
     "rain_today": 5.6,
     "uv_index": 0.0,
-    "power_usage": 452.0,
+    "power_usage": 365.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -31,10 +31,10 @@
   "astronomy": {},
   "metrolink": "From 14th September a new timetable is in operation. Please see TFGM.com for more information.",
   "headlines": [
+    "Cisco email security boxes can be rooted by... an email",
+    "Twitter workaround worked around again: X's lawyers cancel XCancel again",
     "Who's governing your AI? A trust framework for enterprise agents and models",
-    "CenterPoint Energy confirms intruder helped themselves to customer information",
-    "September's Windows 11 patch needs an emergency patch of its own",
-    "Swiss court sentences 52-year-old Ukrainian ransomware dev to nearly 13 years in the cooler"
+    "CenterPoint Energy confirms intruder helped themselves to customer information"
   ],
-  "crew_quote": "\"Right, so with all this indoor heat and humidity, I reckon my curry is the only thing cooking around here — and it’s definitely hotter than that intruder's taste in hacking!\""
+  "crew_quote": "\"With the indoor temp at a perfect 22.7°C, I say we celebrate by cooking a curry and pretending we're not trapped in a tin can for eternity!\""
 }
