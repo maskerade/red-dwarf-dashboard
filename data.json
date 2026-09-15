@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-15T12:46:19.494733+00:00",
+  "timestamp": "2026-09-15T13:17:19.952285+00:00",
   "house": {
     "indoor_temp": 22.9,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 17.5,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 2.9,
-    "wind_direction": 110.0,
-    "pressure": 1016.2,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 17.4,
+    "outdoor_humidity": 68.0,
+    "wind_speed": 4.0,
+    "wind_direction": 99.0,
+    "pressure": 1016.4,
     "rain_today": 5.6,
     "uv_index": 0.0,
-    "power_usage": 295.0,
+    "power_usage": 415.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -31,10 +31,10 @@
   "astronomy": {},
   "metrolink": "From 14th September a new timetable is in operation. Please see TFGM.com for more information.",
   "headlines": [
-    "Give Xfce a Mac or Unity-style makeover",
-    "Open weights are not open source: Why AI's favorite label is under dispute",
-    "How Everpure plans to stop AI from starving without data",
-    "Most people who quit M365 for Google do it out of spite, but there’s no ROI in that"
+    "Anthropic and OpenAI look to Uncle Sam to make them too big to fail",
+    "Microsoft account refuseniks have another way of installing Windows",
+    "US confirms it has weapons in spaaaaaace",
+    "Gov.uk still struggling with IT contractor tax rules"
   ],
-  "crew_quote": "\"I'm telling you, with the indoor humidity at 62%, my curry's gonna be more soup than stew! But hey, at least it’s a lovely 22.9 degrees for a nice cold one!\""
+  "crew_quote": "\"Crikey, 22.9°C! It's so pleasant in here, I could whip up a curry and have a right royal knees-up while the big brains argue about being too big to fail!\""
 }
