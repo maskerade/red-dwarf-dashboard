@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-15T04:30:16.061643+00:00",
+  "timestamp": "2026-09-15T05:01:15.883555+00:00",
   "house": {
     "indoor_temp": 22.5,
     "indoor_humidity": 63.0,
     "outdoor_temp": 16.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 183.0,
+    "wind_direction": 165.0,
     "pressure": 1013.5,
     "rain_today": 2.6,
     "uv_index": 0.0,
-    "power_usage": 247.0,
+    "power_usage": 252.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "From 14th September a new timetable is in operation. Please see TFGM.com for more information.",
   "headlines": [
+    "COBOL dev won .Net hackathon with help from AI – and their CIO loves it",
     "Microsoft drafts feel-good AI model guidelines and wants your input",
     "HBO Max Reddit account compromised to serve ClickFix attacks",
-    "Oracle celebrates banner quarter with another round of layoffs",
-    "New hardware device can RAM into encrypted memory, expose your data"
+    "Oracle celebrates banner quarter with another round of layoffs"
   ],
-  "crew_quote": "\"Well, if it's piddling down in Llandudno, I suppose I’ll have to sacrifice my beauty and stay indoors—good thing I brought my special curry for a cozy night in!\""
+  "crew_quote": "\"Well, it’s a lovely 17°C and drizzly outside, but at least in here it feels like a tropical paradise—perfect for cracking open a curry and pretending it’s holiday time!\""
 }
