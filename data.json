@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-15T22:04:28.024374+00:00",
+  "timestamp": "2026-09-15T22:35:28.919700+00:00",
   "house": {
     "indoor_temp": 22.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.4,
+    "outdoor_temp": 13.5,
     "outdoor_humidity": 99.0,
-    "wind_speed": 2.9,
-    "wind_direction": 111.0,
-    "pressure": 1019.7,
+    "wind_speed": 0.0,
+    "wind_direction": 116.0,
+    "pressure": 1019.9,
     "rain_today": 6.9,
     "uv_index": 0.0,
-    "power_usage": 404.0,
+    "power_usage": 545.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -36,5 +36,5 @@
     "Iranian spies hit Windows machines with Chosen Brick data-stealing malware",
     "Higher-enriched uranium for datacenters has DoE all aglow"
   ],
-  "crew_quote": "\"22.5 degrees? Perfect temperature for a curry! Just as long as we don't get caught up in any dangerous casino schemes—I've already lost my last pair of socks!\""
+  "crew_quote": "\"Blimey, at 22.5 degrees, it’s more comfortable in here than the curry house down the road! Just don’t let it go to your head, or I’ll end up with the cooking duties!\""
 }
