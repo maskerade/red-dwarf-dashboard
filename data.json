@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-15T01:55:12.727687+00:00",
+  "timestamp": "2026-09-15T02:26:13.402833+00:00",
   "house": {
-    "indoor_temp": 22.7,
+    "indoor_temp": 22.6,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 18.1,
+    "outdoor_temp": 18.5,
     "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 356.0,
+    "wind_direction": 181.0,
     "pressure": 1015.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 255.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Oracle celebrates banner quarter with another round of layoffs",
     "New hardware device can RAM into encrypted memory, expose your data"
   ],
-  "crew_quote": "\"Well, it’s a lovely 17 degrees out there, might as well make a nice curry for dinner while we wait for the weather to decide if it wants to rain or not!\""
+  "crew_quote": "\"Stuck in this overcast weather and all I can think about is how I'd love a nice curry; just imagine the aroma in here, not that it’ll do anything for the humidity!\""
 }
