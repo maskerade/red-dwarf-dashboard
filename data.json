@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-15T00:22:11.077664+00:00",
+  "timestamp": "2026-09-15T00:53:12.287056+00:00",
   "house": {
-    "indoor_temp": 22.9,
+    "indoor_temp": 22.8,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 17.8,
-    "outdoor_humidity": 91.0,
+    "outdoor_temp": 17.9,
+    "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
-    "wind_direction": 347.0,
-    "pressure": 1016.5,
+    "wind_direction": 300.0,
+    "pressure": 1015.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 387.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI's malicious bot swarm attacked RubyGems",
     "Datacenter developers want your backyard. FAS says negotiate harder"
   ],
-  "crew_quote": "\"With all this light rain, I reckon the curry's the only thing keeping me dry today—especially if it’s got that extra spicy kick to warm me up!\""
+  "crew_quote": "\"With this lovely 17°C drizzle, it's the perfect weather for a curry night! Nothing like a bit of light rain to make the chips soggier!\""
 }
