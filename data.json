@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-15T14:50:21.722937+00:00",
+  "timestamp": "2026-09-15T15:21:22.049743+00:00",
   "house": {
     "indoor_temp": 22.7,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 17.0,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 3.6,
-    "wind_direction": 122.0,
-    "pressure": 1017.0,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 16.3,
+    "outdoor_humidity": 84.0,
+    "wind_speed": 1.1,
+    "wind_direction": 117.0,
+    "pressure": 1017.2,
     "rain_today": 5.6,
     "uv_index": 0.0,
-    "power_usage": 421.0,
+    "power_usage": 463.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -31,10 +31,10 @@
   "astronomy": {},
   "metrolink": "From 14th September a new timetable is in operation. Please see TFGM.com for more information.",
   "headlines": [
+    "Who's governing your AI? A trust framework for enterprise agents and models",
     "CenterPoint Energy confirms intruder helped themselves to customer information",
     "September's Windows 11 patch needs an emergency patch of its own",
-    "Swiss court sentences 52-year-old Ukrainian ransomware dev to nearly 13 years in the cooler",
-    "Anthropic and OpenAI look to Uncle Sam to make them too big to fail"
+    "Swiss court sentences 52-year-old Ukrainian ransomware dev to nearly 13 years in the cooler"
   ],
-  "crew_quote": "\"Did you hear? The only thing warmer than this room is the news about that intruder! I'm telling you, even the curry would be jealous!\""
+  "crew_quote": "\"Blimey, with the power usage soaring like my hair on a bad day, I could really go for a curry to cool off in this humidity, mate!\""
 }
