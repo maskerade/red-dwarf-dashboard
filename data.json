@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-16T09:57:40.923714+00:00",
+  "timestamp": "2026-09-16T10:28:41.687562+00:00",
   "house": {
-    "indoor_temp": 21.8,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 14.0,
-    "outdoor_humidity": 96.0,
+    "indoor_temp": 22.2,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 14.8,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 158.0,
-    "pressure": 1021.4,
+    "wind_direction": 161.0,
+    "pressure": 1021.2,
     "rain_today": 2.5,
     "uv_index": 0.0,
-    "power_usage": 413.0,
+    "power_usage": 390.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Overcast ",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-16",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 12.0,
-      "conditions": "Light rain shower",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-16",
@@ -94,5 +94,5 @@
     "Bring on the AI swarms. They’re the only thing that can defend us now that AI is free",
     "Mythos has made 2026 patching hell. It might make 2027 a breeze"
   ],
-  "crew_quote": "\"With all this overcast weather and light showers, you'd think the universe was trying to ruin my chance for a good curry night!\""
+  "crew_quote": "\"Ah, patchy rain and soaring power bills—just like my last curry night! I’ll take a wet weekend over BT’s email fiasco any day, mate!\""
 }
