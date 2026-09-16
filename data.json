@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-16T15:38:46.360139+00:00",
+  "timestamp": "2026-09-16T16:09:46.644896+00:00",
   "house": {
-    "indoor_temp": 22.3,
+    "indoor_temp": 22.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 15.2,
-    "outdoor_humidity": 85.0,
-    "wind_speed": 1.4,
-    "wind_direction": 116.0,
-    "pressure": 1019.9,
+    "outdoor_temp": 15.3,
+    "outdoor_humidity": 82.0,
+    "wind_speed": 0.0,
+    "wind_direction": 78.0,
+    "pressure": 1019.6,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 413.0,
+    "power_usage": 384.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "On Wednesday 16th September Manchester United welcome Brighton to Old Trafford kick off at 20:00. Services may be busier than usual please allow time for travel.",
   "headlines": [
+    "Fedora 45 beta drags the Linux console into the 21st century",
     "SpaceX aims Starship for orbit on September 22",
     "AWS says wartime damage means some Middle East cloud resources are gone for good",
-    "Spain gets its first taste of AI-aided cyber attack",
-    "Logitech releases the MX Keypad to keep idle fingers busy"
+    "Spain gets its first taste of AI-aided cyber attack"
   ],
-  "crew_quote": "\"Ah, patchy rain again! Just like my love life—never quite enough to make it worthwhile, but always there to dampen my spirits!\""
+  "crew_quote": "\"With all this patchy rain, I might as well be stuck in the curry shop listening to the latest Linux updates—at least I'd be warm and well-fed!\""
 }
