@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-16T17:11:46.914311+00:00",
+  "timestamp": "2026-09-16T17:42:47.859953+00:00",
   "house": {
-    "indoor_temp": 21.8,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 14.3,
+    "indoor_temp": 21.6,
+    "indoor_humidity": 56.0,
+    "outdoor_temp": 13.9,
     "outdoor_humidity": 80.0,
     "wind_speed": 0.0,
-    "wind_direction": 96.0,
+    "wind_direction": 115.0,
     "pressure": 1018.7,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 275.0,
+    "power_usage": 418.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Fedora 45 beta drags the Linux console into the 21st century",
     "SpaceX aims Starship for orbit on September 22"
   ],
-  "crew_quote": "\"Looks like it's patchy rain everywhere, but don't worry, I’ve got the perfect curry recipe to warm us up — just like my plans for world domination!\""
+  "crew_quote": "\"Ah, patchy rain nearby! Perfect weather for a curry. Really sets the mood for a nice, rainy afternoon—just like the curry I had last night, which was absolutely legendary!\""
 }
