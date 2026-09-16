@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T03:45:33.026516+00:00",
+  "timestamp": "2026-09-16T04:16:33.474280+00:00",
   "house": {
     "indoor_temp": 21.9,
     "indoor_humidity": 61.0,
@@ -10,7 +10,7 @@
     "pressure": 1020.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 286.0,
+    "power_usage": 295.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -36,5 +36,5 @@
     "Your AI agents' reports and questions have a new inbox, courtesy of AWS",
     "Low-quality casino sites conceal highly dangerous threat actors"
   ],
-  "crew_quote": "\"Oi, with this indoor temp, I could be enjoying a lovely curry right now, but instead, I’m stuck worrying about all those iBugs raining down on Apple—talk about a stinker!\""
+  "crew_quote": "\"Oi, it's a nice balmy 21.9°C in here — perfect for a curry and a few rounds of 'who can dodge the iBugs!' Just watch out for the patches on your chips!\""
 }
