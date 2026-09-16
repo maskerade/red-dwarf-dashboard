@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-16T22:21:53.066770+00:00",
+  "timestamp": "2026-09-16T22:52:52.579399+00:00",
   "house": {
-    "indoor_temp": 21.8,
+    "indoor_temp": 21.9,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 12.9,
-    "outdoor_humidity": 89.0,
-    "wind_speed": 0.0,
-    "wind_direction": 72.0,
-    "pressure": 1014.9,
+    "outdoor_temp": 13.0,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 1.1,
+    "wind_direction": 71.0,
+    "pressure": 1014.3,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 573.0,
+    "power_usage": 514.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 12.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-16",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
+      "temp": 13.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Overcast ",
+      "temp": 12.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-09-16",
@@ -87,12 +87,12 @@
     "moonrise": "01:40 PM",
     "moonset": "08:37 PM"
   },
-  "metrolink": "On Wednesday 16th September Manchester United welcome Brighton to Old Trafford kick off at 20:00. Services may be busier than usual please allow time for travel.",
+  "metrolink": "On Thursday 17th September Manchester City welcome Norwich City to Etihad Stadium. Kick off is at 19:30 and services may be busier than usual. Please plan your journey ahead.",
   "headlines": [
     "CISA decides weekly vulnerability bulletin isn't necessary anymore",
     "OpenAI's new sponsored agents are happy to chat about selling you things",
     "Google Pixel phones pwned in zero-click attacks",
     "Enterprises are sweating legacy IT assets as AI investment grows"
   ],
-  "crew_quote": "\"Overcast and twelve degrees? Just like a curry that's gone cold—great expectations, but all you get is disappointment!\""
+  "crew_quote": "\"Well, at least it's a cosy 21.9°C in here, perfect for enjoying a curry while we wait for the rain to decide if it's actually going to bother us!\""
 }
