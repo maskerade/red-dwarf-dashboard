@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-16T02:43:32.089753+00:00",
+  "timestamp": "2026-09-16T03:14:32.628674+00:00",
   "house": {
-    "indoor_temp": 22.0,
+    "indoor_temp": 21.9,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 12.6,
-    "outdoor_humidity": 99.0,
+    "outdoor_temp": 12.3,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 106.0,
+    "wind_direction": 166.0,
     "pressure": 1020.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 303.0,
+    "power_usage": 261.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -36,5 +36,5 @@
     "Your AI agents' reports and questions have a new inbox, courtesy of AWS",
     "Low-quality casino sites conceal highly dangerous threat actors"
   ],
-  "crew_quote": "\"At this temperature, I reckon a nice bowl of curry would keep the humidity from getting too high, but not too high to ruin my fabulous look, of course!\""
+  "crew_quote": "\"Blimey, with the indoor temp just right for a nice curry, you'd think the universe could manage to keep its bugs to itself—so much for Apple being polished!\""
 }
