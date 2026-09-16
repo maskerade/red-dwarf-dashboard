@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-16T10:28:41.687562+00:00",
+  "timestamp": "2026-09-16T10:59:41.933237+00:00",
   "house": {
-    "indoor_temp": 22.2,
+    "indoor_temp": 22.3,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 14.8,
-    "outdoor_humidity": 95.0,
-    "wind_speed": 0.0,
-    "wind_direction": 161.0,
+    "outdoor_temp": 15.0,
+    "outdoor_humidity": 87.0,
+    "wind_speed": 1.4,
+    "wind_direction": 132.0,
     "pressure": 1021.2,
-    "rain_today": 2.5,
+    "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 390.0,
+    "power_usage": 342.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "01:40 PM",
     "moonset": "08:37 PM"
   },
-  "metrolink": "On Wednesday 16th September Manchester United welcome Brighton to Old Trafford kick off at 20:00. Services may be busier than usual please allow time for travel.",
+  "metrolink": "Due to a tram fault passengers on the Altrincham- Bury line may experience a minor delay boarding the service. We apologise for the inconvenience.",
   "headlines": [
+    "Ministry of Justice apologizes after court staff accessed Southport victims' files",
+    "Salesforce suffers global outage amid Dreamforce shindig",
     "BT Email users hit by barrage of unsolicited password reset PINs",
-    "UK funds flying broadband stations with power beamed from below",
-    "Bring on the AI swarms. They’re the only thing that can defend us now that AI is free",
-    "Mythos has made 2026 patching hell. It might make 2027 a breeze"
+    "UK funds flying broadband stations with power beamed from below"
   ],
-  "crew_quote": "\"Ah, patchy rain and soaring power bills—just like my last curry night! I’ll take a wet weekend over BT’s email fiasco any day, mate!\""
+  "crew_quote": "\"Weather's as patchy as my last curry—one moment it’s glorious, the next you’re drenched and wondering if you should’ve just stayed in with a takeaway!\""
 }
