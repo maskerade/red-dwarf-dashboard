@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-16T21:19:51.823865+00:00",
+  "timestamp": "2026-09-16T21:50:51.139140+00:00",
   "house": {
     "indoor_temp": 21.8,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 13.0,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 12.8,
     "outdoor_humidity": 89.0,
-    "wind_speed": 0.0,
-    "wind_direction": 86.0,
-    "pressure": 1016.2,
+    "wind_speed": 0.7,
+    "wind_direction": 66.0,
+    "pressure": 1015.7,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 472.0,
+    "power_usage": 449.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Google Pixel phones pwned in zero-click attacks",
     "Enterprises are sweating legacy IT assets as AI investment grows"
   ],
-  "crew_quote": "\"Blimey, it’s so overcast out there, it’s like someone’s put a giant curry stain on the sky—guess I’ll stick to the warmth of my curry and the ship! \""
+  "crew_quote": "\"With the weather being as dreary as my last holiday, I reckon I could really use a piping hot curry to liven up this overcast day, eh?\""
 }
