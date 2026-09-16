@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-16T18:44:48.734171+00:00",
+  "timestamp": "2026-09-16T19:15:49.829207+00:00",
   "house": {
     "indoor_temp": 21.6,
-    "indoor_humidity": 56.0,
-    "outdoor_temp": 13.1,
-    "outdoor_humidity": 84.0,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 13.2,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
     "wind_direction": 113.0,
-    "pressure": 1018.1,
+    "pressure": 1018.2,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 441.0,
+    "power_usage": 3107.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "On Wednesday 16th September Manchester United welcome Brighton to Old Trafford kick off at 20:00. Services may be busier than usual please allow time for travel.",
   "headlines": [
+    "OpenAI's new sponsored agents are happy to chat about selling you things",
+    "Google Pixel phones pwned in zero-click attacks",
     "Enterprises are sweating legacy IT assets as AI investment grows",
-    "Nine-year-old runs up $118,000 bill on dad's corporate credit card advertising his Roblox YouTube channel",
-    "Fedora 45 beta drags the Linux console into the 21st century",
-    "SpaceX aims Starship for orbit on September 22"
+    "Nine-year-old runs up $118,000 bill on dad's corporate credit card advertising his Roblox YouTube channel"
   ],
-  "crew_quote": "\"Oi, it's patchy rain out there, but at least we've got 21.6 degrees in here — perfect for a curry and a bit of the old 'Roblox dad-bill' drama, eh?\""
+  "crew_quote": "\"Blimey, it’s pouring outside, but at least in here it’s a balmy 21.6°C — just the right temperature for a curry binge and some quality 'not raining' time!\""
 }
