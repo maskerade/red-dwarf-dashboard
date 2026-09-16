@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-16T05:18:34.386529+00:00",
+  "timestamp": "2026-09-16T05:49:34.633235+00:00",
   "house": {
-    "indoor_temp": 21.8,
+    "indoor_temp": 21.7,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 12.8,
+    "outdoor_temp": 12.5,
     "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 166.0,
-    "pressure": 1020.3,
+    "wind_direction": 159.0,
+    "pressure": 1020.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 283.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -36,5 +36,5 @@
     "The vulnpocalypse rains iBugs down on Apple with record-setting number of patches",
     "AI networking startups race to replace Nvidia's NVLink"
   ],
-  "crew_quote": "\"21.8 degrees, eh? Perfect temperature for a curry — just like Java 27 learning to play it cool instead of blowing it all on bad decisions!\""
+  "crew_quote": "\"What’s the weather like? Who cares, I’m too busy enjoying this delightful 21.7°C—perfect for a curry and some Doom action, eh mate?\""
 }
