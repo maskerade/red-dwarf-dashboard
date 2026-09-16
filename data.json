@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-16T00:39:30.564348+00:00",
+  "timestamp": "2026-09-16T01:10:30.781229+00:00",
   "house": {
-    "indoor_temp": 22.3,
+    "indoor_temp": 22.1,
     "indoor_humidity": 61.0,
     "outdoor_temp": 12.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 106.0,
-    "pressure": 1019.8,
+    "pressure": 1019.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 342.0,
+    "power_usage": 351.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -31,10 +31,10 @@
   "astronomy": {},
   "metrolink": "From 14th September a new timetable is in operation. Please see TFGM.com for more information.",
   "headlines": [
+    "The vulnpocalypse rains iBugs down on Apple with record-setting number of patches",
+    "AI networking startups race to replace Nvidia's NVLink",
     "Your AI agents' reports and questions have a new inbox, courtesy of AWS",
-    "Low-quality casino sites conceal highly dangerous threat actors",
-    "Iranian spies hit Windows machines with Chosen Brick data-stealing malware",
-    "Higher-enriched uranium for datacenters has DoE all aglow"
+    "Low-quality casino sites conceal highly dangerous threat actors"
   ],
-  "crew_quote": "\"Is it just me, or is this room a perfect 22.3 degrees for a curry? Let's just not talk about those dodgy casino sites; they’re one threat I’d rather not gamble with!\""
+  "crew_quote": "\"Blimey, it’s a proper 22.1°C in here; makes me miss my curry nights—indoors is the only place we can escape those iBugs raining down like God’s own bad software patch!\""
 }
