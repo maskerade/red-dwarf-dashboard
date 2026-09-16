@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-16T04:16:33.474280+00:00",
+  "timestamp": "2026-09-16T04:47:33.837446+00:00",
   "house": {
-    "indoor_temp": 21.9,
+    "indoor_temp": 21.8,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 12.3,
+    "outdoor_temp": 12.9,
     "outdoor_humidity": 98.0,
-    "wind_speed": 0.0,
-    "wind_direction": 166.0,
-    "pressure": 1020.0,
+    "wind_speed": 1.1,
+    "wind_direction": 153.0,
+    "pressure": 1020.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 295.0,
+    "power_usage": 281.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -36,5 +36,5 @@
     "Your AI agents' reports and questions have a new inbox, courtesy of AWS",
     "Low-quality casino sites conceal highly dangerous threat actors"
   ],
-  "crew_quote": "\"Oi, it's a nice balmy 21.9°C in here — perfect for a curry and a few rounds of 'who can dodge the iBugs!' Just watch out for the patches on your chips!\""
+  "crew_quote": "\"With all this talk about Apple patches, I'd rather be here in my comfy 21.8°C, dreaming of a curry than dealing with an iBug infestation!\""
 }
