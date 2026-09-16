@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-16T07:53:36.042890+00:00",
+  "timestamp": "2026-09-16T08:24:36.555213+00:00",
   "house": {
     "indoor_temp": 21.6,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.1,
+    "outdoor_temp": 13.4,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
-    "wind_direction": 158.0,
-    "pressure": 1021.1,
+    "wind_speed": 0.7,
+    "wind_direction": 157.0,
+    "pressure": 1021.4,
     "rain_today": 2.5,
     "uv_index": 0.0,
-    "power_usage": 306.0,
+    "power_usage": 443.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -36,5 +36,5 @@
     "Java 27 grows up, makes better choices",
     "TypeSafe AI debuts model for machines that plays Doom"
   ],
-  "crew_quote": "\"With AI swarms on our side and a comfy 21.6°C to keep us cozy, I reckon we can crack open a curry and let the machines save the day!\""
+  "crew_quote": "\"21.6°C is a perfect temp for a curry, but if we’re going to have AI swarms, they better bring the side dishes too. I’m starving here!\""
 }
