@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-17T05:04:58.818230+00:00",
+  "timestamp": "2026-09-17T05:35:59.757775+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.1,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 13.2,
+    "outdoor_temp": 13.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 342.0,
-    "pressure": 1009.3,
-    "rain_today": 2.3,
+    "wind_direction": 68.0,
+    "pressure": 1009.2,
+    "rain_today": 5.0,
     "uv_index": 0.0,
-    "power_usage": 289.0,
+    "power_usage": 272.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "02:51 PM",
     "moonset": "09:10 PM"
   },
-  "metrolink": "On Thursday 17th September Manchester City welcome Norwich City to Etihad Stadium. Kick off is at 19:30 and services may be busier than usual. Please plan your journey ahead.",
+  "metrolink": "On Thursday 17th September Manchester City welcome Norwich City to Etihad Stadium. Kick off is at 19:30 and services may be busier than usual. Please plan your journey ahead",
   "headlines": [
     "Swift 6.4 unifies building across Linux, macOS, Windows",
     "OpenAI admits its agents went off the rails another six times",
     "If a Mac mini is agentic overkill, try this glowing pyramid that runs personal bots",
     "AI agents can modify themselves without humans telling them to do so"
   ],
-  "crew_quote": "\"Ah, the weather’s as dreary as my last performance review—patchy rain everywhere. At least inside, it’s a cozy 21.2°C; perfect for a curry binge, don’t you think?\""
+  "crew_quote": "\"Well, at least it's not as damp in here as it is out there; I could really do with a curry to cheer me up while it showers!\""
 }
