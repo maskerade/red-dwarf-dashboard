@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-09-17T23:10:14.886639+00:00",
+  "timestamp": "2026-09-17T23:41:15.715413+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 11.3,
+    "outdoor_temp": 11.8,
     "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 57.0,
-    "pressure": 1011.7,
+    "wind_direction": 49.0,
+    "pressure": 1011.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 584.0,
+    "power_usage": 455.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
+      "temp": 11.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-09-17",
-          "max": 16.0,
-          "min": 10.0
-        },
         {
           "date": "2026-09-18",
           "max": 16.0,
@@ -33,6 +28,11 @@
           "date": "2026-09-19",
           "max": 18.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-09-20",
+          "max": 16.0,
+          "min": 10.0
         }
       ]
     },
@@ -40,11 +40,6 @@
       "temp": 11.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-09-17",
-          "max": 18.0,
-          "min": 11.0
-        },
         {
           "date": "2026-09-18",
           "max": 18.0,
@@ -54,18 +49,18 @@
           "date": "2026-09-19",
           "max": 20.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-09-20",
+          "max": 19.0,
+          "min": 10.0
         }
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-09-17",
-          "max": 15.0,
-          "min": 10.0
-        },
         {
           "date": "2026-09-18",
           "max": 16.0,
@@ -75,17 +70,22 @@
           "date": "2026-09-19",
           "max": 17.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-09-20",
+          "max": 17.0,
+          "min": 10.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "06:46 AM",
-    "sunset": "07:20 PM",
-    "moon_phase": "Waxing Crescent",
-    "moon_illumination": "33",
-    "moonrise": "02:51 PM",
-    "moonset": "09:10 PM"
+    "sunrise": "06:48 AM",
+    "sunset": "07:18 PM",
+    "moon_phase": "First Quarter",
+    "moon_illumination": "42",
+    "moonrise": "03:52 PM",
+    "moonset": "09:56 PM"
   },
   "metrolink": "IMPROVEMENT WORKS- Sunday 20th Sep until 10am no services will opeate through Victoria and no services will call at Market Street or Shudehill. See TfGM.com for all service change information.",
   "headlines": [
@@ -94,5 +94,5 @@
     "London property manager breach may have exposed bank details and lockbox codes",
     "Microsoft configuration change leaves SharePoint pages drawing a blank"
   ],
-  "crew_quote": "\"Well, it’s a bit nippy outside at 10 degrees, but I'm still hotter than the curry I had last night — that’s the real forecast!\""
+  "crew_quote": "\"Eleven degrees and patchy rain? Sounds like the perfect weather for a curry! Just don’t ask me to fetch the ingredients, I’m not getting soaked for a soggy naan.\""
 }
