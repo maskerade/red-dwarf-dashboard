@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-17T03:00:57.146671+00:00",
+  "timestamp": "2026-09-17T03:31:56.993961+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 13.2,
-    "outdoor_humidity": 94.0,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 309.0,
-    "pressure": 1010.0,
+    "wind_direction": 64.0,
+    "pressure": 1009.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 272.0,
@@ -17,28 +17,28 @@
   "locations": {
     "altrincham": {
       "temp": 12.0,
-      "conditions": "Cloudy ",
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-09-17",
           "max": 15.0,
-          "min": 10.0
+          "min": 12.0
         },
         {
           "date": "2026-09-18",
           "max": 16.0,
-          "min": 9.0
+          "min": 11.0
         },
         {
           "date": "2026-09-19",
           "max": 18.0,
-          "min": 11.0
+          "min": 13.0
         }
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Overcast ",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-17",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Light rain",
+      "temp": 13.0,
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-09-17",
@@ -84,8 +84,8 @@
     "sunset": "07:20 PM",
     "moon_phase": "Waxing Crescent",
     "moon_illumination": "33",
-    "moonrise": "02:51 PM",
-    "moonset": "09:10 PM"
+    "moonrise": "02:52 PM",
+    "moonset": "09:09 PM"
   },
   "metrolink": "On Thursday 17th September Manchester City welcome Norwich City to Etihad Stadium. Kick off is at 19:30 and services may be busier than usual. Please plan your journey ahead.",
   "headlines": [
@@ -94,5 +94,5 @@
     "Nvidia goes green to keep grid capacity from zapping its revenues",
     "CISA decides weekly vulnerability bulletin isn't necessary anymore"
   ],
-  "crew_quote": "\"Blimey, 12 degrees and light rain? Sounds like the perfect day for a curry binge and a good old moan about how it’s always grim up North!\""
+  "crew_quote": "\"Ah, light rain and patchy drizzle—perfect weather for a curry! Just what I need to brighten up my day and let me pretend the ship's not falling apart.\""
 }
