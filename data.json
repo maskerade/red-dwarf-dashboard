@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-17T17:29:09.667004+00:00",
+  "timestamp": "2026-09-17T18:00:27.469466+00:00",
   "house": {
     "indoor_temp": 21.3,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 13.3,
+    "outdoor_temp": 13.0,
     "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 85.0,
+    "wind_direction": 51.0,
     "pressure": 1010.7,
     "rain_today": 6.1,
     "uv_index": 0.0,
-    "power_usage": 396.0,
+    "power_usage": 531.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "02:51 PM",
     "moonset": "09:10 PM"
   },
-  "metrolink": "Due to a tram fault we have delays on the Altrincham/Bury/Etihad. Metrolink apologise for the inconvenience.",
+  "metrolink": "On Thursday 17th September Manchester City welcome Norwich City to Etihad Stadium. Kick off is at 19:30 and services may be busier than usual. Please plan your journey ahead",
   "headlines": [
     "London property manager breach may have exposed bank details and lockbox codes",
     "Microsoft configuration change leaves SharePoint pages drawing a blank",
     "Grassroots coalition asks politicians to choose voters over Big AI's $140M machine",
     "Microsoft patch gives domain-joined Windows PCs trust issues"
   ],
-  "crew_quote": "\"Oi, it's 21 degrees in here, perfect curry weather! Just wish the rain would stop trying to ruin my day — it's like the universe is conspiring against my takeaway plans!\""
+  "crew_quote": "\"Well, it's kerfuffled out there with all that patchy rain; bet you'd fancy a nice curry indoors, eh? At least it’s warmer in here than outside, unless you're a lunatic!\""
 }
