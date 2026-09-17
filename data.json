@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-17T04:02:57.474373+00:00",
+  "timestamp": "2026-09-17T04:33:58.084726+00:00",
   "house": {
     "indoor_temp": 21.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 13.0,
-    "outdoor_humidity": 98.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 54.0,
-    "pressure": 1009.3,
-    "rain_today": 0.2,
+    "wind_direction": 33.0,
+    "pressure": 1009.2,
+    "rain_today": 2.0,
     "uv_index": 0.0,
-    "power_usage": 258.0,
+    "power_usage": 261.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Nvidia goes green to keep grid capacity from zapping its revenues",
     "CISA decides weekly vulnerability bulletin isn't necessary anymore"
   ],
-  "crew_quote": "\"Oi, it’s so damp outside I could make a curry just by walking to the shop! At least indoors it’s nice and toasty at 21.2 degrees, perfect for scoffing down a vindaloo!\""
+  "crew_quote": "\"With this light drizzle, I reckon it’s the perfect weather for a curry! Just don’t expect me to share—my nan’s secret recipe is all mine!\""
 }
