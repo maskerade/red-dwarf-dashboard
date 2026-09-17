@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-17T20:35:12.420714+00:00",
+  "timestamp": "2026-09-17T21:06:12.660006+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.3,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 13.4,
-    "outdoor_humidity": 86.0,
-    "wind_speed": 0.0,
-    "wind_direction": 80.0,
-    "pressure": 1011.7,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 1.1,
+    "wind_direction": 71.0,
+    "pressure": 1011.5,
     "rain_today": 6.3,
     "uv_index": 0.0,
-    "power_usage": 716.0,
+    "power_usage": 536.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "02:51 PM",
     "moonset": "09:10 PM"
   },
-  "metrolink": "On Thursday 17th September Manchester City welcome Norwich City to Etihad Stadium. Kick off is at 19:30 and services may be busier than usual. Please plan your journey ahead",
+  "metrolink": "IMPROVEMENT WORKS- Sunday 20th Sep until 10am no services will opeate through Victoria and no services will call at Market Street or Shudehill. See TfGM.com for all service change information.",
   "headlines": [
     "China's Salt Typhoon backdoors Latin American orgs with new snooping malware",
     "Scientific papers become agentic chatbots with new tool",
     "London property manager breach may have exposed bank details and lockbox codes",
     "Microsoft configuration change leaves SharePoint pages drawing a blank"
   ],
-  "crew_quote": "\"With the weather out there like a dodgy curry, I reckon we should stay in and watch some rubbish TV instead of braving that patchy rain, eh?\""
+  "crew_quote": "\"Is it just me, or is it getting positively balmy in here? At least indoors, while the weather outside is all wet and miserable—might need a curry to warm up!\""
 }
