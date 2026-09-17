@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-17T10:15:04.033932+00:00",
+  "timestamp": "2026-09-17T10:46:03.401683+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.3,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 14.5,
-    "outdoor_humidity": 86.0,
+    "outdoor_temp": 15.0,
+    "outdoor_humidity": 82.0,
     "wind_speed": 0.7,
-    "wind_direction": 85.0,
-    "pressure": 1010.1,
+    "wind_direction": 20.0,
+    "pressure": 1010.2,
     "rain_today": 5.0,
-    "uv_index": 0.0,
-    "power_usage": 483.0,
+    "uv_index": 1.0,
+    "power_usage": 427.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "On Thursday 17th September Manchester City welcome Norwich City to Etihad Stadium. Kick off is at 19:30 and services may be busier than usual. Please plan your journey ahead",
   "headlines": [
+    "Omarchy gains $18.5M in backing, fresh converts – and fierce critics",
     "Ofcom discovers issuing Online Safety Act fines is easier than collecting them",
     "Government Digital Service move 'grinds gears' in UK's e-government",
-    "Judge orders Microsoft to spill internal docs and scour execs' comms in secondhand licensing case",
-    "Fujitsu ready to sell its custom ‘Monaka’ Arm chip, maybe to rival server-makers"
+    "Judge orders Microsoft to spill internal docs and scour execs' comms in secondhand licensing case"
   ],
-  "crew_quote": "\"With all this patchy rain nearby, I reckon it's the perfect weather for a nice curry – nothing like a bit of spice to brighten a dreary day!\""
+  "crew_quote": "\"Ah, bliss! Nothing like a bit of patchy rain to spice up a curry night, eh? Just hope it doesn’t ruin my latest fashion statement!\""
 }
