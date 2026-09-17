@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-17T00:25:53.956885+00:00",
+  "timestamp": "2026-09-17T00:56:54.877116+00:00",
   "house": {
-    "indoor_temp": 21.6,
+    "indoor_temp": 21.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 13.2,
+    "outdoor_temp": 13.4,
     "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
-    "wind_direction": 72.0,
-    "pressure": 1012.5,
+    "wind_direction": 54.0,
+    "pressure": 1012.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "CISA decides weekly vulnerability bulletin isn't necessary anymore",
     "OpenAI's new sponsored agents are happy to chat about selling you things"
   ],
-  "crew_quote": "\"Ah, lovely weather for a nice curry, innit? Might even warm the place up to a tropical 21.6°C instead of our dreary, light drizzle!\""
+  "crew_quote": "\"Blimey, with the indoors feeling toasty at 21.4°C, it's almost like having a curry in the old galley—perfect for a light drizzle outside in Llandudno!\""
 }
