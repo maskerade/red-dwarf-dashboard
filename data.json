@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-17T13:21:06.221644+00:00",
+  "timestamp": "2026-09-17T13:52:07.993966+00:00",
   "house": {
     "indoor_temp": 21.5,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 16.3,
-    "outdoor_humidity": 75.0,
-    "wind_speed": 2.9,
-    "wind_direction": 168.0,
+    "outdoor_temp": 15.6,
+    "outdoor_humidity": 80.0,
+    "wind_speed": 0.0,
+    "wind_direction": 44.0,
     "pressure": 1010.3,
     "rain_today": 5.0,
     "uv_index": 0.0,
-    "power_usage": 390.0,
+    "power_usage": 384.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "02:51 PM",
     "moonset": "09:10 PM"
   },
-  "metrolink": "On Thursday 17th September Manchester City welcome Norwich City to Etihad Stadium. Kick off is at 19:30 and services may be busier than usual. Please plan your journey ahead",
+  "metrolink": "Due to a tram fault we have minor delays on the Altrincham Line. Metrolink apologise for the inconvenience.",
   "headlines": [
+    "Microsoft patch gives domain-joined Windows PCs trust issues",
     "AI model watermarking changes agent behavior",
     "Cisco drops another exploited zero-day, this time a perfect 10",
-    "Microsoft AI chief warns Anthropic not to put ideas in Claude's head",
-    "Test environment let anyone access live customer data"
+    "Microsoft AI chief warns Anthropic not to put ideas in Claude's head"
   ],
-  "crew_quote": "\"15 degrees and patchy rain? Brilliant! Perfect weather for a curry in the ship—just don’t let the humidity ruin my perfect cooking techniques, yeah?\""
+  "crew_quote": "\"With the weather doing its patchy rain dance and me stuck indoors at a toasty 21.5°C, I reckon it's the perfect time for a curry and a good moan!\""
 }
