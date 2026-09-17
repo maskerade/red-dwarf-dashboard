@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-17T10:46:03.401683+00:00",
+  "timestamp": "2026-09-17T11:17:04.060498+00:00",
   "house": {
     "indoor_temp": 21.3,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 15.0,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 0.7,
-    "wind_direction": 20.0,
-    "pressure": 1010.2,
+    "outdoor_temp": 15.6,
+    "outdoor_humidity": 78.0,
+    "wind_speed": 3.6,
+    "wind_direction": 55.0,
+    "pressure": 1010.3,
     "rain_today": 5.0,
     "uv_index": 1.0,
-    "power_usage": 427.0,
+    "power_usage": 458.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 15.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Sunny",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-17",
@@ -94,5 +94,5 @@
     "Government Digital Service move 'grinds gears' in UK's e-government",
     "Judge orders Microsoft to spill internal docs and scour execs' comms in secondhand licensing case"
   ],
-  "crew_quote": "\"Ah, bliss! Nothing like a bit of patchy rain to spice up a curry night, eh? Just hope it doesn’t ruin my latest fashion statement!\""
+  "crew_quote": "\"I'm just saying, if the weather in Llandudno is only 13 degrees, then my curry's going to be the hottest thing in the universe today!\""
 }
