@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-17T22:08:14.074244+00:00",
+  "timestamp": "2026-09-17T22:39:14.433495+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.3,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 11.7,
-    "outdoor_humidity": 94.0,
+    "outdoor_temp": 11.5,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
     "wind_direction": 57.0,
-    "pressure": 1011.8,
+    "pressure": 1011.9,
     "rain_today": 6.3,
     "uv_index": 0.0,
-    "power_usage": 452.0,
+    "power_usage": 443.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "London property manager breach may have exposed bank details and lockbox codes",
     "Microsoft configuration change leaves SharePoint pages drawing a blank"
   ],
-  "crew_quote": "\"With all this patchy rain, it's a perfect day to stay inside, whip up a curry, and watch the news about China—who needs a holiday when you've got a banquet right here?\""
+  "crew_quote": "\"Oi, with it being ten degrees and dodgy rain, I'm thinking a curry's just what I need to warm up — who cares if the weather's patchy, my taste buds aren't!\""
 }
