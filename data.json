@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-17T11:48:04.468331+00:00",
+  "timestamp": "2026-09-17T12:19:06.356413+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.5,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 15.4,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 2.2,
-    "wind_direction": 88.0,
-    "pressure": 1010.4,
+    "outdoor_temp": 16.6,
+    "outdoor_humidity": 73.0,
+    "wind_speed": 2.9,
+    "wind_direction": 73.0,
+    "pressure": 1010.3,
     "rain_today": 5.0,
-    "uv_index": 0.0,
-    "power_usage": 432.0,
+    "uv_index": 1.0,
+    "power_usage": 384.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "On Thursday 17th September Manchester City welcome Norwich City to Etihad Stadium. Kick off is at 19:30 and services may be busier than usual. Please plan your journey ahead",
   "headlines": [
+    "Microsoft AI chief warns Anthropic not to put ideas in Claude's head",
     "Test environment let anyone access live customer data",
     "Omarchy gains $18.5M in backing, fresh converts – and fierce critics",
-    "Ofcom discovers issuing Online Safety Act fines is easier than collecting them",
-    "Government Digital Service move 'grinds gears' in UK's e-government"
+    "Ofcom discovers issuing Online Safety Act fines is easier than collecting them"
   ],
-  "crew_quote": "\"Well, it’s 21.3°C inside, so it’s perfect curry weather! Just don’t forget to close the windows before the patchy rain turns into a shower of doom!\""
+  "crew_quote": "\"You know, with all this patchy rain and power usage, it’s almost as if the universe is trying to suggest I whip up a nice curry to brighten things up!\""
 }
