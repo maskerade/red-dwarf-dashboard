@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-18T05:53:21.301341+00:00",
+  "timestamp": "2026-09-18T06:24:21.367675+00:00",
   "house": {
-    "indoor_temp": 20.6,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 12.2,
-    "outdoor_humidity": 88.0,
-    "wind_speed": 0.0,
-    "wind_direction": 157.0,
-    "pressure": 1012.7,
+    "indoor_temp": 20.7,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 12.0,
+    "outdoor_humidity": 89.0,
+    "wind_speed": 1.4,
+    "wind_direction": 165.0,
+    "pressure": 1012.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 275.0,
+    "power_usage": 272.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "USA’s Venezuela takeover comes with bonus exposure to Chinese AI surveillance tech",
     "Marvell pushes GlobalFoundries to light up wafer production"
   ],
-  "crew_quote": "\"Looks like it’s drizzling again; maybe I should take my curry to the local pub instead of getting it soggy in this 9-degree rain. Who needs a raincoat when you've got a good balti?\""
+  "crew_quote": "\"With all this cloudiness and patchy rain, I reckon it's the perfect weather for a nice curry — as long as it doesn't rain on my chips!\""
 }
