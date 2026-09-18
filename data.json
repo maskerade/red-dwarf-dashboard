@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-18T15:11:29.908258+00:00",
+  "timestamp": "2026-09-18T15:42:30.120581+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 20.8,
     "indoor_humidity": 60.0,
     "outdoor_temp": 13.6,
-    "outdoor_humidity": 97.0,
-    "wind_speed": 0.0,
-    "wind_direction": 332.0,
-    "pressure": 1011.0,
-    "rain_today": 1.8,
+    "outdoor_humidity": 98.0,
+    "wind_speed": 0.4,
+    "wind_direction": 40.0,
+    "pressure": 1010.8,
+    "rain_today": 2.6,
     "uv_index": 0.0,
-    "power_usage": 362.0,
+    "power_usage": 401.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS- Sunday 20th Sep until 10am no services will opeate through Victoria and no services will call at Market Street or Shudehill. See TfGM.com for all service change information.",
   "headlines": [
+    "Admins, you've been warned: The clock is ticking on Edge's IE Mode",
     "KDE turns 30 and someone's brought an AI-native desktop proposal",
     "Microsoft fixes the fix that broke Excel paste – partly",
-    "The ideal database for AI agents doesn't exist yet, says Percona CEO",
-    "Former Labour deputy Tom Watson joins Palantir as £330M NHS deal nears break point"
+    "The ideal database for AI agents doesn't exist yet, says Percona CEO"
   ],
-  "crew_quote": "\"Well, at least it's warmer in here than outside, and we can always spice up the drizzle with a good curry—nothing like raindrops and the smell of vindaloo to brighten the day!\""
+  "crew_quote": "\"Well, with all this drizzle, I reckon it’s the perfect weather for a nice curry! Nothing like a bit of spice to brighten up a damp day, eh?\""
 }
