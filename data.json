@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-18T03:18:18.765640+00:00",
+  "timestamp": "2026-09-18T03:49:18.977922+00:00",
   "house": {
     "indoor_temp": 20.6,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 11.8,
+    "outdoor_temp": 12.2,
     "outdoor_humidity": 92.0,
-    "wind_speed": 0.0,
-    "wind_direction": 150.0,
-    "pressure": 1012.3,
+    "wind_speed": 0.4,
+    "wind_direction": 142.0,
+    "pressure": 1012.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 261.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.59701231875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Huawei's next-gen Ascend NPUs could become China's best option",
     "DoE seeking fault-tolerant quantum computer ... by 2028"
   ],
-  "crew_quote": "\"With the rain patching up Altrincham, I’d say it’s the perfect weather for a curry and a good moan about the universe, eh? Just keep the humidity away from my chips!\""
+  "crew_quote": "\"Typical British weather, innit? One minute it's patchy rain, the next you're sweating like a curry at a Tupperware party!\""
 }
