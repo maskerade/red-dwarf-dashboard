@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-18T18:48:33.623922+00:00",
+  "timestamp": "2026-09-18T19:19:33.192747+00:00",
   "house": {
-    "indoor_temp": 20.4,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 14.5,
+    "indoor_temp": 20.3,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 14.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 8.0,
-    "pressure": 1009.4,
+    "wind_direction": 333.0,
+    "pressure": 1009.2,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 365.0,
+    "power_usage": 3377.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "FBI: Fake cop and government impersonation scams cost victims $1.6B",
     "Admins, you've been warned: The clock is ticking on Edge's IE Mode"
   ],
-  "crew_quote": "\"You know it’s a proper day when it's drizzling in three places and I still can't find a decent curry! I might as well just stick my head in the freezer!\""
+  "crew_quote": "\"With this light drizzle and indoor humidity, it feels like the perfect day for a curry... and I could really do with a good excuse to avoid any more fake job interviews!\""
 }
