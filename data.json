@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T23:27:44.491265+00:00",
+  "timestamp": "2026-09-18T23:58:37.315868+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
-    "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
-    "North Korea's fake job interviews infected 30,000 devices",
-    "FBI: Fake cop and government impersonation scams cost victims $1.6B",
-    "Admins, you've been warned: The clock is ticking on Edge's IE Mode"
+    "Anthropic decides to support OpenAI's markdown instructions spec",
+    "Microsoft agentically ports Copilot runtime to Rust for $120K",
+    "Virginia governor wakes up to fact datacenters have become political cancer",
+    "Compsci grads facing recession-like job prospects thanks to AI"
   ],
-  "crew_quote": "\"Sky's as grey as my last haircut! Perfect curry weather, just as long as it doesn't start raining inside the ship like that patchy nonsense in Llandudno!\""
+  "crew_quote": "\"Well, it’s just your typical overcast day, isn’t it? Perfect weather for a curry and a little bit of intergalactic lounging, if you ask me!\""
 }
