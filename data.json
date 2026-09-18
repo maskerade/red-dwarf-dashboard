@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-18T08:59:24.471058+00:00",
+  "timestamp": "2026-09-18T09:30:24.637566+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.7,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 13.7,
+    "outdoor_temp": 13.9,
     "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 142.0,
-    "pressure": 1013.8,
+    "wind_direction": 167.0,
+    "pressure": 1013.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 334.0,
+    "power_usage": 463.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS- Sunday 20th Sep until 10am no services will opeate through Victoria and no services will call at Market Street or Shudehill. See TfGM.com for all service change information.",
   "headlines": [
+    "British Army spends £16M on 1,000 pocket-sized eyes in the sky",
     "Royal Society slams UK.gov science shake-up",
     "Techie fixed Wi-Fi dead zone with a drill",
-    "AI risks make some insurers wary of corporate liability",
-    "AWS confesses its console causes cloudy confusion for new users"
+    "AI risks make some insurers wary of corporate liability"
   ],
-  "crew_quote": "\"With weather like this, I might as well just stand outside and let my hair get rained on! And what's with the drill fixing Wi-Fi? Sounds like someone's a bit desperate for a curry!\""
+  "crew_quote": "\"With all this overcast weather, I could really go for a curry right now—preferably something that doesn’t taste like it came from a pocket-sized eye in the sky!\""
 }
