@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-18T12:05:26.843957+00:00",
+  "timestamp": "2026-09-18T12:36:26.967692+00:00",
   "house": {
-    "indoor_temp": 20.8,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 16.0,
-    "outdoor_humidity": 81.0,
-    "wind_speed": 1.8,
-    "wind_direction": 129.0,
-    "pressure": 1012.7,
+    "indoor_temp": 20.7,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 15.6,
+    "outdoor_humidity": 84.0,
+    "wind_speed": 1.4,
+    "wind_direction": 229.0,
+    "pressure": 1012.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 384.0,
+    "power_usage": 348.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Due to a tram fault passengers on the Bury - Ashton and the Bury - Altrincham service may experience a minor delay. We apologise for any inconvenience.",
   "headlines": [
+    "The ideal database for AI agents doesn't exist yet, says Percona CEO",
+    "Former Labour deputy Tom Watson joins Palantir as £330M NHS deal nears break point",
     "KPMG tech cuts come with a severance sum some staff call insulting",
-    "British Army spends £16M on 1,000 pocket-sized eyes in the sky",
-    "Royal Society slams UK.gov science shake-up",
-    "Techie fixed Wi-Fi dead zone with a drill"
+    "British Army spends £16M on 1,000 pocket-sized eyes in the sky"
   ],
-  "crew_quote": "\"Just my luck, it's 20.8 degrees indoors while I’m stuck dodging patchy rain outside—I'd trade all the clouds for a good curry right now!\""
+  "crew_quote": "\"Blimey, it’s so patchy out there, I’d need to wear me curry-stained coat just to be prepared for a downpour—or a fashion crisis!\""
 }
