@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-18T17:15:31.801749+00:00",
+  "timestamp": "2026-09-18T17:46:32.604698+00:00",
   "house": {
     "indoor_temp": 20.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.5,
+    "outdoor_temp": 13.8,
     "outdoor_humidity": 99.0,
-    "wind_speed": 2.2,
-    "wind_direction": 260.0,
+    "wind_speed": 0.0,
+    "wind_direction": 6.0,
     "pressure": 1009.4,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 325.0,
+    "power_usage": 477.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS- Sunday 20th Sep until 10am no services will opeate through Victoria and no services will call at Market Street or Shudehill. See TfGM.com for all service change information.",
   "headlines": [
+    "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
     "North Korea's fake job interviews infected 30,000 devices",
     "FBI: Fake cop and government impersonation scams cost victims $1.6B",
-    "Admins, you've been warned: The clock is ticking on Edge's IE Mode",
-    "KDE turns 30 and someone's brought an AI-native desktop proposal"
+    "Admins, you've been warned: The clock is ticking on Edge's IE Mode"
   ],
-  "crew_quote": "\"I'd say the weather's as miserable as my love life, but at least I won't have to scrape the rain off my curry, right?\""
+  "crew_quote": "\"Blimey, with all this rain, it's the perfect weather to whip up a curry. Who needs sunny beaches when you can have soggy chips and a side of drizzle?\""
 }
