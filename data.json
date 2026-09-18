@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-18T09:30:24.637566+00:00",
+  "timestamp": "2026-09-18T10:01:25.327677+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 13.9,
-    "outdoor_humidity": 87.0,
+    "outdoor_temp": 14.1,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
-    "wind_direction": 167.0,
-    "pressure": 1013.6,
+    "wind_direction": 131.0,
+    "pressure": 1013.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 463.0,
+    "power_usage": 404.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Techie fixed Wi-Fi dead zone with a drill",
     "AI risks make some insurers wary of corporate liability"
   ],
-  "crew_quote": "\"With all this overcast weather, I could really go for a curry right now—preferably something that doesn’t taste like it came from a pocket-sized eye in the sky!\""
+  "crew_quote": "\"With the weather being a cosy 11 degrees, I can't help but think I’d rather be sipping a curry in bed than staring into the abyss of space.\""
 }
