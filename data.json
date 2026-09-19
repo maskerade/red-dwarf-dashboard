@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-19T21:40:56.263804+00:00",
+  "timestamp": "2026-09-19T22:11:56.737929+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 14.3,
+    "outdoor_temp": 13.9,
     "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 75.0,
-    "pressure": 1018.7,
+    "wind_direction": 71.0,
+    "pressure": 1018.8,
     "rain_today": 1.2,
     "uv_index": 0.0,
-    "power_usage": 446.0,
+    "power_usage": 531.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 13.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Clear ",
+      "temp": 14.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 13.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -94,5 +94,5 @@
     "Firefox 156 arrives with a forest of forks in its wake",
     "Anthropic decides to support OpenAI's markdown instructions spec"
   ],
-  "crew_quote": "\"Ah, perfect weather for a curry! Just enough rain to make the chips soggy and the air humid enough to help me sweat off the calories!\""
+  "crew_quote": "\"It's a lovely clear day outside, but I bet it’s still not as hot as my curry last night—now that was a storm of deliciousness!\""
 }
