@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T06:10:58.045422+00:00",
+  "timestamp": "2026-09-19T06:41:58.654080+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -21,12 +21,12 @@
       "forecast": [
         {
           "date": "2026-09-19",
-          "max": 19.0,
-          "min": 13.0
+          "max": 18.0,
+          "min": 12.0
         },
         {
           "date": "2026-09-20",
-          "max": 16.0,
+          "max": 15.0,
           "min": 10.0
         },
         {
@@ -53,7 +53,7 @@
         {
           "date": "2026-09-21",
           "max": 23.0,
-          "min": 9.0
+          "min": 10.0
         }
       ]
     },
@@ -64,7 +64,7 @@
         {
           "date": "2026-09-19",
           "max": 17.0,
-          "min": 13.0
+          "min": 12.0
         },
         {
           "date": "2026-09-20",
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-09-21",
-          "max": 21.0,
-          "min": 11.0
+          "max": 22.0,
+          "min": 10.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Virginia governor wakes up to fact datacenters have become political cancer",
     "Compsci grads facing recession-like job prospects thanks to AI"
   ],
-  "crew_quote": "\"With this weather, I might just stay in and perfect my curry recipe; who needs sunshine when patchy rain makes for a great excuse to hibernate?\""
+  "crew_quote": "\"Looks like it’s patchy rain nearby, which is perfect because I’ve planned a lovely curry night — nothing like a bit of drizzle to bring out the flavors!\""
 }
