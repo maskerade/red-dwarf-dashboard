@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T01:31:38.898021+00:00",
+  "timestamp": "2026-09-19T02:02:39.139188+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,16 +17,16 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-19",
-          "max": 18.0,
+          "max": 19.0,
           "min": 13.0
         },
         {
           "date": "2026-09-20",
-          "max": 15.0,
+          "max": 16.0,
           "min": 10.0
         },
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -48,7 +48,7 @@
         {
           "date": "2026-09-20",
           "max": 17.0,
-          "min": 9.0
+          "min": 10.0
         },
         {
           "date": "2026-09-21",
@@ -59,12 +59,12 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-19",
           "max": 17.0,
-          "min": 12.0
+          "min": 13.0
         },
         {
           "date": "2026-09-20",
@@ -74,7 +74,7 @@
         {
           "date": "2026-09-21",
           "max": 21.0,
-          "min": 10.0
+          "min": 11.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Virginia governor wakes up to fact datacenters have become political cancer",
     "Compsci grads facing recession-like job prospects thanks to AI"
   ],
-  "crew_quote": "\"What’s with all this patchy rain? I could really do with a decent curry to go with it; makes it feel like home, just without the soggy chips!\""
+  "crew_quote": "\"Well, it’s 15 degrees and overcast—perfect weather for a nice curry and a good old moan about the universe's utter indifference to our plight, isn’t it?\""
 }
