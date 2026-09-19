@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T15:29:06.098433+00:00",
+  "timestamp": "2026-09-19T16:00:39.336046+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,7 +16,7 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 21.0,
-      "conditions": "Sunny",
+      "temp": 20.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -94,5 +94,5 @@
     "Firefox 156 arrives with a forest of forks in its wake",
     "Anthropic decides to support OpenAI's markdown instructions spec"
   ],
-  "crew_quote": "\"With all this patchy rain around, I reckon we’ll need a curry just to brighten up the day. Nothing like a good vindaloo to spice up some drizzle, eh?\""
+  "crew_quote": "\"With all this patchy rain, it’s like Altrincham’s trying to throw a party but forgot the decorations—still, I could really fancy a curry right about now!\""
 }
