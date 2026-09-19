@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T09:17:00.525743+00:00",
+  "timestamp": "2026-09-19T09:48:00.929947+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Light rain shower",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Microsoft agentically ports Copilot runtime to Rust for $120K",
     "Virginia governor wakes up to fact datacenters have become political cancer"
   ],
-  "crew_quote": "\"Ah, perfect weather for a curry, isn’t it? A bit of light rain and a forest of forks just adds to the ambiance!\""
+  "crew_quote": "\"Well, it’s patchy rain again, so looks like it’s a perfect day for a good curry—assuming we don’t get washed away by the forest of forks first!\""
 }
