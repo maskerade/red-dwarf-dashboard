@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T20:08:10.117472+00:00",
+  "timestamp": "2026-09-19T20:39:10.772991+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Cloudy ",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -32,13 +32,13 @@
         {
           "date": "2026-09-21",
           "max": 21.0,
-          "min": 10.0
+          "min": 8.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": 15.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -69,12 +69,12 @@
         {
           "date": "2026-09-20",
           "max": 15.0,
-          "min": 9.0
+          "min": 8.0
         },
         {
           "date": "2026-09-21",
           "max": 21.0,
-          "min": 11.0
+          "min": 8.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Firefox 156 arrives with a forest of forks in its wake",
     "Anthropic decides to support OpenAI's markdown instructions spec"
   ],
-  "crew_quote": "\"With this weather, it's a perfect day for a curry, right after I finish sorting out all this e-waste! I mean, who needs six Earth's worth of rubbish lying around?\""
+  "crew_quote": "\"With all this patchy rain, looks like it's a perfect day for a curry and a pint—just like home, but a lot less soggy, eh?\""
 }
