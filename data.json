@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T03:04:55.227679+00:00",
+  "timestamp": "2026-09-19T03:35:56.073045+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,7 +17,7 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 16.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -94,5 +94,5 @@
     "Virginia governor wakes up to fact datacenters have become political cancer",
     "Compsci grads facing recession-like job prospects thanks to AI"
   ],
-  "crew_quote": "\"Looks like it's 15 degrees and overcast everywhere, which means I've got just enough time to make a curry before the universe decides to get a bit more exciting!\""
+  "crew_quote": "\"Well, if it’s patchy rain in Llandudno, that must mean it’s perfect curry weather! Let’s spice things up while the rest of the universe tries to rewrite the rules!\""
 }
