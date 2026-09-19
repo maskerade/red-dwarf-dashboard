@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T07:12:59.036479+00:00",
+  "timestamp": "2026-09-19T07:43:59.354051+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Firefox 156 arrives with a forest of forks in its wake",
     "Anthropic decides to support OpenAI's markdown instructions spec",
     "Microsoft agentically ports Copilot runtime to Rust for $120K",
-    "Virginia governor wakes up to fact datacenters have become political cancer",
-    "Compsci grads facing recession-like job prospects thanks to AI"
+    "Virginia governor wakes up to fact datacenters have become political cancer"
   ],
-  "crew_quote": "\"With the weather in Altrincham acting all moody and patchy like my last haircut, I reckon it's perfect curry weather!\""
+  "crew_quote": "\"Looks like the weather's got a bit of a drizzle on, but that's alright—perfect curry cooking weather, as long as it's not raining forks from that Firefox thing!\""
 }
