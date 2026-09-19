@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-19T22:42:57.342428+00:00",
+  "timestamp": "2026-09-19T23:13:57.881696+00:00",
   "house": {
     "indoor_temp": 21.1,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 13.6,
-    "outdoor_humidity": 82.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 57.0,
-    "pressure": 1018.9,
-    "rain_today": 1.2,
+    "wind_direction": 70.0,
+    "pressure": 1019.1,
+    "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 531.0,
+    "power_usage": 472.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Firefox 156 arrives with a forest of forks in its wake",
     "Anthropic decides to support OpenAI's markdown instructions spec"
   ],
-  "crew_quote": "\"I tell you, in this beautiful weather, a curry's the only logical choice for dinner — just as long as we've got enough power to boil the kettle, that is!\""
+  "crew_quote": "\"When I think of all that AI e-waste, it’s like we’re just one dodgy curry away from creating a tech landfill that’d make even my mum cringe!\""
 }
