@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T13:56:04.998637+00:00",
+  "timestamp": "2026-09-19T14:27:05.208388+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,17 +16,17 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Light rain shower",
+      "temp": 19.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-19",
-          "max": 18.0,
-          "min": 12.0
+          "max": 19.0,
+          "min": 13.0
         },
         {
           "date": "2026-09-20",
-          "max": 15.0,
+          "max": 16.0,
           "min": 10.0
         },
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 21.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -47,13 +47,13 @@
         },
         {
           "date": "2026-09-20",
-          "max": 17.0,
+          "max": 18.0,
           "min": 10.0
         },
         {
           "date": "2026-09-21",
           "max": 23.0,
-          "min": 10.0
+          "min": 9.0
         }
       ]
     },
@@ -64,7 +64,7 @@
         {
           "date": "2026-09-19",
           "max": 17.0,
-          "min": 12.0
+          "min": 13.0
         },
         {
           "date": "2026-09-20",
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-09-21",
-          "max": 22.0,
-          "min": 10.0
+          "max": 21.0,
+          "min": 11.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": null,
   "headlines": [
+    "Agentic security is the billion-dollar challenge for some clever startup to solve",
     "AI boom could leave an e-waste trail that wraps 6 times around Earth",
     "Firefox 156 arrives with a forest of forks in its wake",
-    "Anthropic decides to support OpenAI's markdown instructions spec",
-    "Microsoft agentically ports Copilot runtime to Rust for $120K"
+    "Anthropic decides to support OpenAI's markdown instructions spec"
   ],
-  "crew_quote": "\"Right, so it’s raining lightly and we’re still not cooking a proper curry? What’s the point of being in space if you can’t even have a decent takeout, eh?\""
+  "crew_quote": "\"Oi, with that patchy rain nearby, I might just stay in and whip up a spicy curry—nothing like a good meal to make you forget about the weather!\""
 }
