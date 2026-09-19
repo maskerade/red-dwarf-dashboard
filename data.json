@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T12:22:47.783306+00:00",
+  "timestamp": "2026-09-19T12:54:03.971911+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 18.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
+      "temp": 20.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 17.0,
-      "conditions": "Sunny",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-19",
@@ -94,5 +94,5 @@
     "Microsoft agentically ports Copilot runtime to Rust for $120K",
     "Virginia governor wakes up to fact datacenters have become political cancer"
   ],
-  "crew_quote": "\"Looks like it's patchy rain everywhere but Llandudno — typical! One minute I’m thinking about a curry, the next I’m dodging drizzle like it’s an angry Crichton!\""
+  "crew_quote": "\"You know, with this light rain in Altrincham, I reckon it’s the perfect weather for a nice curry, as long as we don’t forget the forks from that Firefox 156!\""
 }
