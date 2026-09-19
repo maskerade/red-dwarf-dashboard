@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T23:58:37.315868+00:00",
+  "timestamp": "2026-09-19T00:29:37.543389+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -17,13 +17,8 @@
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-09-18",
-          "max": 17.0,
-          "min": 9.0
-        },
         {
           "date": "2026-09-19",
           "max": 18.0,
@@ -33,18 +28,18 @@
           "date": "2026-09-20",
           "max": 15.0,
           "min": 10.0
+        },
+        {
+          "date": "2026-09-21",
+          "max": 21.0,
+          "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-09-18",
-          "max": 19.0,
-          "min": 9.0
-        },
         {
           "date": "2026-09-19",
           "max": 21.0,
@@ -54,6 +49,11 @@
           "date": "2026-09-20",
           "max": 17.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-09-21",
+          "max": 23.0,
+          "min": 9.0
         }
       ]
     },
@@ -61,11 +61,6 @@
       "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-09-18",
-          "max": 16.0,
-          "min": 11.0
-        },
         {
           "date": "2026-09-19",
           "max": 17.0,
@@ -75,17 +70,22 @@
           "date": "2026-09-20",
           "max": 15.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-09-21",
+          "max": 21.0,
+          "min": 10.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "06:48 AM",
-    "sunset": "07:18 PM",
-    "moon_phase": "First Quarter",
-    "moon_illumination": "42",
-    "moonrise": "03:52 PM",
-    "moonset": "09:56 PM"
+    "sunrise": "06:49 AM",
+    "sunset": "07:15 PM",
+    "moon_phase": "Waxing Gibbous",
+    "moon_illumination": "51",
+    "moonrise": "04:38 PM",
+    "moonset": "10:55 PM"
   },
   "metrolink": null,
   "headlines": [
@@ -94,5 +94,5 @@
     "Virginia governor wakes up to fact datacenters have become political cancer",
     "Compsci grads facing recession-like job prospects thanks to AI"
   ],
-  "crew_quote": "\"Well, it’s just your typical overcast day, isn’t it? Perfect weather for a curry and a little bit of intergalactic lounging, if you ask me!\""
+  "crew_quote": "\"Looks like it’s raining everywhere, which is perfect—makes staying inside with a curry and a good episode of 'The 1,000,000 Dollar Pyramid' feel like a luxury!\""
 }
