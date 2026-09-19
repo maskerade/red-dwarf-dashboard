@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-19T10:19:01.364655+00:00",
+  "timestamp": "2026-09-19T10:50:01.900439+00:00",
   "house": {
     "indoor_temp": null,
     "indoor_humidity": null,
@@ -94,5 +94,5 @@
     "Microsoft agentically ports Copilot runtime to Rust for $120K",
     "Virginia governor wakes up to fact datacenters have become political cancer"
   ],
-  "crew_quote": "\"Looks like it's patchy rain everywhere, but at least it’s warm enough to enjoy a curry — perfect for a cozy night in on this floating tin can!\""
+  "crew_quote": "\"With all this patchy rain and the temperature barely scraping 17 degrees, it’s clear: even the weather's trying to rain on my fabulous parade!\""
 }
