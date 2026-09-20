@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-20T00:46:59.140906+00:00",
+  "timestamp": "2026-09-20T01:18:00.308630+00:00",
   "house": {
-    "indoor_temp": 20.8,
+    "indoor_temp": 20.7,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 13.2,
-    "outdoor_humidity": 84.0,
+    "outdoor_temp": 13.5,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 48.0,
-    "pressure": 1020.1,
+    "wind_direction": 62.0,
+    "pressure": 1020.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 306.0,
+    "power_usage": 272.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -22,11 +22,11 @@
         {
           "date": "2026-09-20",
           "max": 16.0,
-          "min": 10.0
+          "min": 9.0
         },
         {
           "date": "2026-09-21",
-          "max": 21.0,
+          "max": 20.0,
           "min": 8.0
         },
         {
@@ -47,7 +47,7 @@
         },
         {
           "date": "2026-09-21",
-          "max": 23.0,
+          "max": 22.0,
           "min": 9.0
         },
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 12.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-09-20",
@@ -73,7 +73,7 @@
         },
         {
           "date": "2026-09-22",
-          "max": 21.0,
+          "max": 20.0,
           "min": 13.0
         }
       ]
@@ -94,5 +94,5 @@
     "Firefox 156 arrives with a forest of forks in its wake",
     "Anthropic decides to support OpenAI's markdown instructions spec"
   ],
-  "crew_quote": "\"With the weather being patchy rain nearby, it’s a perfect day for a curry, as long as we don’t run out of power — I’m not eating cold beans again!\""
+  "crew_quote": "\"With all this patchy rain, I better not find any e-waste from that AI boom in my curry! Nothing ruins a meal like a circuit board in your vindaloo.\""
 }
