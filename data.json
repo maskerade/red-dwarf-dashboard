@@ -1,33 +1,33 @@
 {
-  "timestamp": "2026-09-20T14:44:12.920490+00:00",
+  "timestamp": "2026-09-20T15:15:14.903995+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 16.1,
-    "outdoor_humidity": 65.0,
-    "wind_speed": 4.0,
-    "wind_direction": 81.0,
+    "outdoor_temp": 15.5,
+    "outdoor_humidity": 69.0,
+    "wind_speed": 0.4,
+    "wind_direction": 71.0,
     "pressure": 1030.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 474.0,
+    "power_usage": 469.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-20",
           "max": 16.0,
-          "min": 11.0
+          "min": 10.0
         },
         {
           "date": "2026-09-21",
-          "max": 19.0,
-          "min": 12.0
+          "max": 20.0,
+          "min": 10.0
         },
         {
           "date": "2026-09-22",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 17.0,
-      "conditions": "Sunny",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-09-20",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Sunny",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-20",
@@ -84,7 +84,7 @@
     "sunset": "07:13 PM",
     "moon_phase": "Waxing Gibbous",
     "moon_illumination": "61",
-    "moonrise": "05:13 PM",
+    "moonrise": "05:12 PM",
     "moonset": "No moonset"
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
@@ -94,5 +94,5 @@
     "AI boom could leave an e-waste trail that wraps 6 times around Earth",
     "Firefox 156 arrives with a forest of forks in its wake"
   ],
-  "crew_quote": "\"Oi, with the weather being all sunny and me stuck here in a 21°C curry-proof bunker, I’d swear the universe is having a laugh at my expense!\""
+  "crew_quote": "\"Looks like the weather's as confused as my last attempt at programming — 15°C and still overcast! Reminds me of a bad curry: always promising more than it delivers!\""
 }
