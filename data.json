@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-20T04:24:03.047313+00:00",
+  "timestamp": "2026-09-20T04:55:02.851876+00:00",
   "house": {
     "indoor_temp": 20.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 12.4,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 1.4,
-    "wind_direction": 107.0,
-    "pressure": 1021.8,
+    "outdoor_temp": 12.8,
+    "outdoor_humidity": 80.0,
+    "wind_speed": 0.4,
+    "wind_direction": 110.0,
+    "pressure": 1021.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 306.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Firefox 156 arrives with a forest of forks in its wake",
     "Anthropic decides to support OpenAI's markdown instructions spec"
   ],
-  "crew_quote": "\"11 degrees and patchy rain? Not quite the tropical paradise I was hoping for—more like the damp side of a curry, really.\""
+  "crew_quote": "\"Blimey, with this patchy rain and the humidity, it's like living in a curry! Just need a few naan breads, and we’re all set for a right proper dinner.\""
 }
