@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T22:29:19.501766+00:00",
+  "timestamp": "2026-09-20T23:00:47.311897+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 61.0,
@@ -7,44 +7,22 @@
     "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
     "wind_direction": 89.0,
-    "pressure": 1033.4,
+    "pressure": 1033.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 491.0,
+    "power_usage": 696.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Partly Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-09-20",
-          "max": 16.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-09-21",
-          "max": 18.0,
-          "min": 9.0
-        },
-        {
-          "date": "2026-09-22",
-          "max": 21.0,
-          "min": 14.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
       "temp": 10.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-09-20",
-          "max": 17.0,
-          "min": 10.0
-        },
         {
           "date": "2026-09-21",
           "max": 21.0,
@@ -54,18 +32,18 @@
           "date": "2026-09-22",
           "max": 23.0,
           "min": 15.0
+        },
+        {
+          "date": "2026-09-23",
+          "max": 19.0,
+          "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 9.0,
-      "conditions": "Overcast ",
+      "temp": 8.0,
+      "conditions": "Cloudy ",
       "forecast": [
-        {
-          "date": "2026-09-20",
-          "max": 15.0,
-          "min": 8.0
-        },
         {
           "date": "2026-09-21",
           "max": 21.0,
@@ -75,17 +53,22 @@
           "date": "2026-09-22",
           "max": 21.0,
           "min": 13.0
+        },
+        {
+          "date": "2026-09-23",
+          "max": 14.0,
+          "min": 9.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "06:51 AM",
-    "sunset": "07:13 PM",
+    "sunrise": "06:50 AM",
+    "sunset": "07:08 PM",
     "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "61",
-    "moonrise": "05:12 PM",
-    "moonset": "No moonset"
+    "moon_illumination": "70",
+    "moonrise": "05:30 PM",
+    "moonset": "12:06 AM"
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
@@ -94,5 +77,5 @@
     "AI boom could leave an e-waste trail that wraps 6 times around Earth",
     "Firefox 156 arrives with a forest of forks in its wake"
   ],
-  "crew_quote": "\"Weather’s quite nice, isn’t it? Better than that time when my curry went cold because of a Windows update, mate. I’d take a cloudy day over that disaster any time!\""
+  "crew_quote": "\"With the weather this clear, we could definitely fry up some chips outside, but knowing our luck, the only update we’ll get is on the curry we forgot to eat!\""
 }
