@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-20T09:34:07.985642+00:00",
+  "timestamp": "2026-09-20T10:05:08.539620+00:00",
   "house": {
-    "indoor_temp": 20.5,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 15.2,
-    "outdoor_humidity": 75.0,
-    "wind_speed": 3.2,
-    "wind_direction": 117.0,
-    "pressure": 1026.8,
+    "indoor_temp": 20.8,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 15.4,
+    "outdoor_humidity": 73.0,
+    "wind_speed": 2.2,
+    "wind_direction": 75.0,
+    "pressure": 1027.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 289.0,
+    "power_usage": 1562.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI boom could leave an e-waste trail that wraps 6 times around Earth",
     "Firefox 156 arrives with a forest of forks in its wake"
   ],
-  "crew_quote": "\"Nice weather for a curry, isn't it? Just don't get too comfy indoors—last time I did, I ended up in a seven-hour hostage situation with my Windows update!\""
+  "crew_quote": "\"Ah, Altrincham's patchy rain and our lovely 20.8 degrees! Just like a curry – a little spice here, a bit of warmth there, perfect for an update hostage situation!\""
 }
