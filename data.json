@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-20T17:19:15.444086+00:00",
+  "timestamp": "2026-09-20T17:50:15.692717+00:00",
   "house": {
-    "indoor_temp": 20.7,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 14.6,
-    "outdoor_humidity": 76.0,
+    "indoor_temp": 20.8,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 14.0,
+    "outdoor_humidity": 79.0,
     "wind_speed": 0.0,
-    "wind_direction": 92.0,
-    "pressure": 1031.2,
+    "wind_direction": 87.0,
+    "pressure": 1031.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 368.0,
+    "power_usage": 522.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI boom could leave an e-waste trail that wraps 6 times around Earth",
     "Firefox 156 arrives with a forest of forks in its wake"
   ],
-  "crew_quote": "\"Honestly, with this weather, I reckon our power usage is sky-high because it’s too overcast for my fabulous looks to shine! A proper curry would brighten any day, though!\""
+  "crew_quote": "\"Ah, perfect weather for a curry, isn't it? Just the right amount of overcast to hide from the world while I enjoy my takeout!\""
 }
