@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-20T21:58:19.436165+00:00",
+  "timestamp": "2026-09-20T22:29:19.501766+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 61.0,
@@ -7,10 +7,10 @@
     "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
     "wind_direction": 89.0,
-    "pressure": 1033.6,
+    "pressure": 1033.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 483.0,
+    "power_usage": 491.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI boom could leave an e-waste trail that wraps 6 times around Earth",
     "Firefox 156 arrives with a forest of forks in its wake"
   ],
-  "crew_quote": "\"Did you see the weather out there? Perfect curry-eating weather, just like my last update — takes ages, but at least it’s warmer than those cold, overcast days!\""
+  "crew_quote": "\"Weather’s quite nice, isn’t it? Better than that time when my curry went cold because of a Windows update, mate. I’d take a cloudy day over that disaster any time!\""
 }
