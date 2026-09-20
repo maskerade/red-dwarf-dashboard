@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-20T01:49:00.409870+00:00",
+  "timestamp": "2026-09-20T02:20:01.250138+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.4,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 95.0,
-    "pressure": 1020.6,
+    "wind_direction": 102.0,
+    "pressure": 1020.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 292.0,
+    "power_usage": 295.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Firefox 156 arrives with a forest of forks in its wake",
     "Anthropic decides to support OpenAI's markdown instructions spec"
   ],
-  "crew_quote": "\"With this weather, I reckon a nice curry would really warm things up—nothing like a bit of spice to cut through the chilly dampness!\""
+  "crew_quote": "\"Weather's looking as patchy as my love life — but at least the curry's still perfect at 20.6 degrees! Let's spice things up, eh?\""
 }
