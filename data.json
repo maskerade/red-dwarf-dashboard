@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-20T10:05:08.539620+00:00",
+  "timestamp": "2026-09-20T10:36:09.591713+00:00",
   "house": {
-    "indoor_temp": 20.8,
+    "indoor_temp": 21.0,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 15.4,
-    "outdoor_humidity": 73.0,
-    "wind_speed": 2.2,
-    "wind_direction": 75.0,
-    "pressure": 1027.4,
+    "outdoor_temp": 15.5,
+    "outdoor_humidity": 70.0,
+    "wind_speed": 0.0,
+    "wind_direction": 74.0,
+    "pressure": 1028.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 1562.0,
+    "power_usage": 413.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
+      "temp": 14.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 13.0,
-      "conditions": "Sunny",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-20",
@@ -94,5 +94,5 @@
     "AI boom could leave an e-waste trail that wraps 6 times around Earth",
     "Firefox 156 arrives with a forest of forks in its wake"
   ],
-  "crew_quote": "\"Ah, Altrincham's patchy rain and our lovely 20.8 degrees! Just like a curry – a little spice here, a bit of warmth there, perfect for an update hostage situation!\""
+  "crew_quote": "\"Oh, great, while we're stuck inside like Windows during an update, I could really go for a curry to cheer me up! Anyone fancy a bit of spice while we wait for the rain to clear?\""
 }
