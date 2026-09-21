@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-21T15:32:36.804004+00:00",
+  "timestamp": "2026-09-21T16:03:37.107630+00:00",
   "house": {
     "indoor_temp": 20.8,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 18.5,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 0.7,
-    "wind_direction": 333.0,
-    "pressure": 1033.4,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 18.4,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 0.0,
+    "wind_direction": 328.0,
+    "pressure": 1033.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 362.0,
+    "power_usage": 376.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 22.0,
-      "conditions": "Sunny",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-09-21",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 21.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 20.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-21",
@@ -94,5 +94,5 @@
     "Clop gets a taste of its own medicine after ShinyHunters hijack leak site",
     "NASA gives SpaceX a billion reasons to keep flying Crew Dragon"
   ],
-  "crew_quote": "\"Looks like it’s overcast in Altrincham, but that won’t stop me from flaunting my fabulousness! I mean, why let a little weather dull my shine?\""
+  "crew_quote": "\"18 degrees and overcast? Perfect weather for a nice curry and a lazy day in the ship—just don’t ask Rimmer to help cook, or we’ll end up with burnt toast and a disaster!\""
 }
