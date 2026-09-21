@@ -1,33 +1,33 @@
 {
-  "timestamp": "2026-09-21T13:59:35.712214+00:00",
+  "timestamp": "2026-09-21T14:30:35.115714+00:00",
   "house": {
     "indoor_temp": 20.7,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 18.6,
-    "outdoor_humidity": 80.0,
+    "outdoor_temp": 18.3,
+    "outdoor_humidity": 82.0,
     "wind_speed": 0.0,
-    "wind_direction": 336.0,
-    "pressure": 1033.6,
+    "wind_direction": 334.0,
+    "pressure": 1033.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 297.0,
+    "power_usage": 359.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Cloudy ",
+      "temp": 18.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-21",
-          "max": 20.0,
+          "max": 18.0,
           "min": 9.0
         },
         {
           "date": "2026-09-22",
           "max": 22.0,
-          "min": 14.0
+          "min": 13.0
         },
         {
           "date": "2026-09-23",
@@ -37,23 +37,23 @@
       ]
     },
     "overseal": {
-      "temp": 20.0,
+      "temp": 22.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-21",
-          "max": 23.0,
+          "max": 22.0,
           "min": 9.0
         },
         {
           "date": "2026-09-22",
-          "max": 24.0,
+          "max": 23.0,
           "min": 14.0
         },
         {
           "date": "2026-09-23",
-          "max": 20.0,
-          "min": 11.0
+          "max": 18.0,
+          "min": 10.0
         }
       ]
     },
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-09-23",
-          "max": 14.0,
-          "min": 9.0
+          "max": 15.0,
+          "min": 8.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "Schneider says hotter coolant can make AI datacenters less thirsty",
     "Amazon shows Meta's Muse AI shopping agent the door",
     "Clop gets a taste of its own medicine after ShinyHunters hijack leak site",
-    "NASA gives SpaceX a billion reasons to keep flying Crew Dragon",
-    "American datacenters might be getting dirtier, but at least they'll be efficient"
+    "NASA gives SpaceX a billion reasons to keep flying Crew Dragon"
   ],
-  "crew_quote": "\"Weather's looking a bit nippy for a day in Altrincham, but I reckon it's still a perfect day for a curry—just don’t ask Rimmer to help, he might start a fight with the naan!\""
+  "crew_quote": "\"Well, with it being 22 degrees and sunny outside, I reckon it's the perfect weather for a curry! Just as long as we don't end up in an overheating AI fridge, eh?\""
 }
