@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-21T19:09:39.713275+00:00",
+  "timestamp": "2026-09-21T19:40:40.022472+00:00",
   "house": {
-    "indoor_temp": 20.8,
+    "indoor_temp": 20.7,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 15.7,
-    "outdoor_humidity": 94.0,
+    "outdoor_temp": 15.3,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
     "wind_direction": 317.0,
-    "pressure": 1032.8,
+    "pressure": 1032.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 474.0,
+    "power_usage": 649.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Clop gets a taste of its own medicine after ShinyHunters hijack leak site",
     "NASA gives SpaceX a billion reasons to keep flying Crew Dragon"
   ],
-  "crew_quote": "\"Well, it's a balmy 18 degrees over in Overseal, perfect curry weather! Just not too foggy, or I might end up stirring a pot of soup instead!\""
+  "crew_quote": "\"Well, while it's a nice 18 degrees outside, I reckon I'd still prefer to be curled up with a curry and a good old sci-fi flick indoors, where the humidity's just right for a proper sweat!\""
 }
