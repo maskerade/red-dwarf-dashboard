@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-21T10:22:31.153352+00:00",
+  "timestamp": "2026-09-21T10:53:31.773953+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.7,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 16.7,
+    "outdoor_temp": 16.9,
     "outdoor_humidity": 76.0,
     "wind_speed": 0.0,
-    "wind_direction": 327.0,
+    "wind_direction": 15.0,
     "pressure": 1033.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 354.0,
+    "power_usage": 365.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Your cloud survived everything except the real world",
     "VMware has quietly walked back its SmartNIC ambitions"
   ],
-  "crew_quote": "\"Looks like even the rain's decided to join the solidarity march, but I’d rather have a curry than deal with an Android app’s tantrums in this cloudy mess!\""
+  "crew_quote": "\"Ah, what a lovely day for a curry! I mean, it’s cloudy everywhere, might as well enjoy a proper meal indoors while the weather's too miserable for anything else!\""
 }
