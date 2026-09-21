@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-21T19:40:40.022472+00:00",
+  "timestamp": "2026-09-21T20:11:40.465585+00:00",
   "house": {
-    "indoor_temp": 20.7,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 15.3,
-    "outdoor_humidity": 96.0,
+    "indoor_temp": 20.8,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 14.6,
+    "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
     "wind_direction": 317.0,
     "pressure": 1032.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 649.0,
+    "power_usage": 514.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
-    "Schneider says hotter coolant can make AI datacenters less thirsty",
-    "Amazon shows Meta's Muse AI shopping agent the door",
-    "Clop gets a taste of its own medicine after ShinyHunters hijack leak site",
-    "NASA gives SpaceX a billion reasons to keep flying Crew Dragon"
+    "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
+    "Google smacks forehead, realizes $899+ thin-and-lights were what it was missing",
+    "London neocloud Nscale takes its $1B loss to Wall Street",
+    "AI can't outprompt a shortage of power, water, and land"
   ],
-  "crew_quote": "\"Well, while it's a nice 18 degrees outside, I reckon I'd still prefer to be curled up with a curry and a good old sci-fi flick indoors, where the humidity's just right for a proper sweat!\""
+  "crew_quote": "\"Ah, it’s a lovely day out there, perfect for a curry... or just lying around in the fog, pretending to be mysterious like a bad horror film!\""
 }
