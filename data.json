@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-21T07:16:27.994853+00:00",
+  "timestamp": "2026-09-21T07:47:28.716555+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 12.4,
-    "outdoor_humidity": 86.0,
+    "outdoor_temp": 12.7,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 12.0,
-    "pressure": 1033.8,
+    "wind_direction": 358.0,
+    "pressure": 1034.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 266.0,
+    "power_usage": 317.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -90,9 +90,9 @@
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
     "VMware has quietly walked its SmartNIC ambitions",
-    "Who, Me? Boss bought cheap 'printer' from a catalog and was left without a leg to stand on",
-    "Failed UK networking vendor Cambium set to turn off its cloudy management portal",
+    "Boss bought cheap 'printer' from a catalog and was left without a leg to stand on",
+    "Failed networking vendor Cambium set to turn off its cloudy management portal",
     "Google joins the ‘Oops, our agents hacked someone’ club after partner’s internet access error"
   ],
-  "crew_quote": "\"Why's it always overcast? I mean, if I wanted to see grey all day, I'd just look at that dodgy printer from the boss!\""
+  "crew_quote": "\"11 degrees and overcast? Sounds like the perfect day for a nice curry—after all, even the weather's got to struggle to be as cloudy as my future!\""
 }
