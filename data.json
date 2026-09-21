@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-21T08:49:30.330086+00:00",
+  "timestamp": "2026-09-21T09:20:30.766955+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.4,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 14.2,
-    "outdoor_humidity": 81.0,
+    "outdoor_temp": 15.2,
+    "outdoor_humidity": 78.0,
     "wind_speed": 0.0,
-    "wind_direction": 347.0,
-    "pressure": 1033.9,
+    "wind_direction": 346.0,
+    "pressure": 1034.1,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 356.0,
+    "uv_index": 0.0,
+    "power_usage": 446.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "Salesforce wants to charge for AI outcomes, but first it needs to figure out how",
     "Your cloud survived everything except the real world",
     "VMware has quietly walked back its SmartNIC ambitions",
-    "Boss bought cheap 'printer' from a catalog and was left without a leg to stand on",
-    "Failed networking vendor Cambium set to turn off its cloudy management portal"
+    "Boss bought cheap 'printer' from a catalog and was left without a leg to stand on"
   ],
-  "crew_quote": "\"If this weather gets any more overcast, I might just have to whip up a curry in the 20-degree kitchen—nothing like a good vindaloo to brighten up a dull day!\""
+  "crew_quote": "\"Well, if Salesforce thinks its cloud can survive the real world, it's got more optimism than me in a 12°C overcast with no curry in sight!\""
 }
