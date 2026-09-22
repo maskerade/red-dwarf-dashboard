@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-22T08:35:54.093314+00:00",
+  "timestamp": "2026-09-22T09:06:53.948548+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.5,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 13.8,
+    "outdoor_temp": 14.1,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
+    "wind_speed": 1.4,
     "wind_direction": 317.0,
-    "pressure": 1032.6,
+    "pressure": 1032.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 382.0,
+    "power_usage": 449.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Mist",
+      "temp": 17.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-22",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Mist",
+      "temp": 18.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-22",
@@ -87,12 +87,12 @@
     "moonrise": "05:52 PM",
     "moonset": "01:22 AM"
   },
-  "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
+  "metrolink": "Due to an operational incident passengers on the Altrincham Line may experience a minor delay boarding a service. We are sorry for any inconvenience to your journey.",
   "headlines": [
     "GOV.UK founder warns AI gold rush could leave Britain locked in",
     "Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them",
     "Gartner predicts 55 percent of enterprise VMware users will be investigating an exit by 2029",
     "California tightens datacenter rules on water and power"
   ],
-  "crew_quote": "\"So it's misty outside and I'm stuck in here, but at least I can enjoy my curry in a nice 20°C humidity—it's like a sauna for my taste buds, innit?\""
+  "crew_quote": "\"With weather like this, I could whip up a lovely curry, but knowing my luck, it’ll start raining just as I open the door. Typical!\""
 }
