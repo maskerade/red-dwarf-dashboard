@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-22T20:29:05.432953+00:00",
+  "timestamp": "2026-09-22T21:00:33.028247+00:00",
   "house": {
-    "indoor_temp": 21.0,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 16.9,
-    "outdoor_humidity": 97.0,
+    "indoor_temp": 21.1,
+    "indoor_humidity": 65.0,
+    "outdoor_temp": 16.6,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 77.0,
-    "pressure": 1028.8,
+    "wind_direction": 93.0,
+    "pressure": 1028.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 606.0,
+    "power_usage": 519.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Z.ai says sorry for slurping up your code, open sources ZCode",
     "Privacy group slams EU for changing the data rules to cater to AI"
   ],
-  "crew_quote": "\"Oh great, patchy rain near Overseal! Just what I need—getting drenched while I’m trying to find a decent curry. Life's a real treat, innit?\""
+  "crew_quote": "\"Ah, the weather's about as dreary as my love life, but no worries—I'll just whip up a curry and pretend it's a tropical paradise!\""
 }
