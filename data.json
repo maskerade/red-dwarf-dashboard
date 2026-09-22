@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-22T08:04:53.270067+00:00",
+  "timestamp": "2026-09-22T08:35:54.093314+00:00",
   "house": {
     "indoor_temp": 20.3,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 13.6,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 13.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 317.0,
-    "pressure": 1032.3,
+    "pressure": 1032.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 396.0,
+    "power_usage": 382.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "GOV.UK founder warns AI gold rush could leave Britain locked in",
     "Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them",
     "Gartner predicts 55 percent of enterprise VMware users will be investigating an exit by 2029",
-    "California tightens datacenter rules on water and power",
-    "Anthropic-linked CVEs pile up, attackers mostly shrug"
+    "California tightens datacenter rules on water and power"
   ],
-  "crew_quote": "\"With all this mist outside, it's like the universe's way of hiding poor old me from the world — a bit like that Alibaba Cloud data center plan, really! Not that I'd ever need it, of course.\""
+  "crew_quote": "\"So it's misty outside and I'm stuck in here, but at least I can enjoy my curry in a nice 20°C humidity—it's like a sauna for my taste buds, innit?\""
 }
