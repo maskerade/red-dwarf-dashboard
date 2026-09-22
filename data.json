@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-09-22T22:33:07.572399+00:00",
+  "timestamp": "2026-09-22T23:04:08.755761+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 21.1,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 16.0,
+    "outdoor_temp": 15.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 92.0,
-    "pressure": 1027.8,
+    "pressure": 1027.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 466.0,
+    "power_usage": 488.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Overcast ",
+      "temp": 15.0,
+      "conditions": "Mist",
       "forecast": [
-        {
-          "date": "2026-09-22",
-          "max": 22.0,
-          "min": 13.0
-        },
         {
           "date": "2026-09-23",
           "max": 16.0,
@@ -33,18 +28,18 @@
           "date": "2026-09-24",
           "max": 20.0,
           "min": 8.0
+        },
+        {
+          "date": "2026-09-25",
+          "max": 19.0,
+          "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-09-22",
-          "max": 22.0,
-          "min": 14.0
-        },
         {
           "date": "2026-09-23",
           "max": 19.0,
@@ -54,6 +49,11 @@
           "date": "2026-09-24",
           "max": 21.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-09-25",
+          "max": 23.0,
+          "min": 12.0
         }
       ]
     },
@@ -61,11 +61,6 @@
       "temp": 14.0,
       "conditions": "Mist",
       "forecast": [
-        {
-          "date": "2026-09-22",
-          "max": 20.0,
-          "min": 13.0
-        },
         {
           "date": "2026-09-23",
           "max": 15.0,
@@ -75,17 +70,22 @@
           "date": "2026-09-24",
           "max": 19.0,
           "min": 7.0
+        },
+        {
+          "date": "2026-09-25",
+          "max": 13.0,
+          "min": 11.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "06:55 AM",
-    "sunset": "07:08 PM",
+    "sunrise": "06:56 AM",
+    "sunset": "07:05 PM",
     "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "78",
-    "moonrise": "05:52 PM",
-    "moonset": "01:22 AM"
+    "moon_illumination": "86",
+    "moonrise": "06:05 PM",
+    "moonset": "02:40 AM"
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
@@ -94,5 +94,5 @@
     "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
     "ABBYY gives old-school OCR a job in the AI pipeline"
   ],
-  "crew_quote": "\"Well, it’s 21 degrees in here and I’m sweating like a roast chicken in a curry house! At least it’s better than the mist in Llandudno—makes you look less fabulous, Cat!\""
+  "crew_quote": "\"Looks like it's misty out there; perfect weather for a curry! Just means I can enjoy my takeaway in the ship without feeling guilty about the rain.\""
 }
