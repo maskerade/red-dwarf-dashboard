@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-22T22:02:07.703717+00:00",
+  "timestamp": "2026-09-22T22:33:07.572399+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 16.2,
+    "outdoor_temp": 16.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 92.0,
     "pressure": 1027.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 2191.0,
+    "power_usage": 466.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
     "ABBYY gives old-school OCR a job in the AI pipeline"
   ],
-  "crew_quote": "\"With all this rain, it’s a perfect day for a nice curry, innit? I could use a bit of spice to liven up this dreary 17°C!\""
+  "crew_quote": "\"Well, it’s 21 degrees in here and I’m sweating like a roast chicken in a curry house! At least it’s better than the mist in Llandudno—makes you look less fabulous, Cat!\""
 }
