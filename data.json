@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-09-22T03:56:47.956538+00:00",
+  "timestamp": "2026-09-22T04:27:49.103478+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.4,
     "indoor_humidity": 62.0,
     "outdoor_temp": 11.2,
     "outdoor_humidity": 99.0,
@@ -10,14 +10,14 @@
     "pressure": 1031.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 356.0,
+    "power_usage": 297.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 14.0,
-      "conditions": "Clear ",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-09-22",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Fog",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Perpetual underdog AMD nips at Nvidia's heels as it joins the $1T club",
     "Skip the upgrade? iPhone 18 Pro aperture about as unrepairable as it gets, iFixit finds"
   ],
-  "crew_quote": "\"When it’s 14 degrees and clear outside, you’d think they’d be serving curry in the fog, not tightening datacenter rules — talk about priorities!\""
+  "crew_quote": "\"Fog in Llandudno and I’ve still got to find a proper curry! Honestly, what’s a bloke got to do for a decent meal in this misty madness?\""
 }
