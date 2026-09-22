@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-22T07:33:52.946903+00:00",
+  "timestamp": "2026-09-22T08:04:53.270067+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.1,
+    "outdoor_temp": 13.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 317.0,
-    "pressure": 1032.2,
+    "pressure": 1032.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 300.0,
+    "power_usage": 396.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "California tightens datacenter rules on water and power",
     "Anthropic-linked CVEs pile up, attackers mostly shrug"
   ],
-  "crew_quote": "\"With all this mist around, it's like being stuck in a curry fog—anyone fancy a pint to clear the air or shall we just wait for Alibaba's cloud to lift?\""
+  "crew_quote": "\"With all this mist outside, it's like the universe's way of hiding poor old me from the world — a bit like that Alibaba Cloud data center plan, really! Not that I'd ever need it, of course.\""
 }
