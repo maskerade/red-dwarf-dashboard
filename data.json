@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-22T06:31:52.577674+00:00",
+  "timestamp": "2026-09-22T07:02:52.138990+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 11.9,
+    "outdoor_temp": 12.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 317.0,
-    "pressure": 1031.6,
+    "pressure": 1032.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 266.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "California tightens datacenter rules on water and power",
     "Anthropic-linked CVEs pile up, attackers mostly shrug"
   ],
-  "crew_quote": "\"14 degrees and misty out there? Sounds like a perfect day for a curry! Just as long as I can’t see my hand in front of my face while I’m making it.\""
+  "crew_quote": "\"With all this mist, you could almost think we were on a planet in the middle of nowhere, which is just lovely, really—makes the curry taste even better, don’t you think?\""
 }
