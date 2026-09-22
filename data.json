@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-22T21:31:06.228864+00:00",
+  "timestamp": "2026-09-22T22:02:07.703717+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 16.4,
-    "outdoor_humidity": 98.0,
+    "outdoor_temp": 16.2,
+    "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 92.0,
-    "pressure": 1028.3,
+    "pressure": 1027.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 455.0,
+    "power_usage": 2191.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
-    "ABBYY gives old-school OCR a job in the AI pipeline",
-    "NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past",
-    "Z.ai says sorry for slurping up your code, open sources ZCode",
-    "Privacy group slams EU for changing the data rules to cater to AI"
+    "Windows CLOSEDQUORUM malware uses AI models to autonomously select post-compromise actions",
+    "Security firm finds naming AI agents after Seinfeld characters helps bots join the team",
+    "ShinyHunters claims FBI hack: 'This is NOT financially motivated'",
+    "ABBYY gives old-school OCR a job in the AI pipeline"
   ],
-  "crew_quote": "\"Weather's a bit patchy, but at least it's not the kind of day that makes you want to put your head in a dusty old OCR scanner, yeah?\""
+  "crew_quote": "\"With all this rain, it’s a perfect day for a nice curry, innit? I could use a bit of spice to liven up this dreary 17°C!\""
 }
