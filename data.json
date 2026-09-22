@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-22T01:21:45.667412+00:00",
+  "timestamp": "2026-09-22T01:52:46.127290+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 12.9,
+    "outdoor_temp": 12.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 317.0,
-    "pressure": 1032.1,
+    "pressure": 1032.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 283.0,
+    "power_usage": 348.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Perpetual underdog AMD nips at Nvidia's heels as it joins the $1T club",
     "Skip the upgrade? iPhone 18 Pro aperture about as unrepairable as it gets, iFixit finds"
   ],
-  "crew_quote": "\"Honestly, with the weather so clear, I think I’ll just sit back, have a curry, and pretend I’m not sweating over California's power rules—everything's fine, right?\""
+  "crew_quote": "\"Ah, 14 degrees and foggy, perfect for a curry night! Just imagine, a lovely dish to warm your spirits while the weather can't make up its mind!\""
 }
