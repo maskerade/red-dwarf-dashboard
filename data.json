@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-23T16:38:26.510398+00:00",
+  "timestamp": "2026-09-23T17:09:25.574682+00:00",
   "house": {
-    "indoor_temp": 21.4,
+    "indoor_temp": 21.3,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 15.3,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 0.4,
-    "wind_direction": 132.0,
-    "pressure": 1028.3,
+    "outdoor_temp": 14.7,
+    "outdoor_humidity": 78.0,
+    "wind_speed": 0.0,
+    "wind_direction": 129.0,
+    "pressure": 1027.8,
     "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 505.0,
+    "power_usage": 606.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Closing the observability gap for the AI-ready enterprise",
     "The more Americans hear about datacenters, the less they like them"
   ],
-  "crew_quote": "\"Ah, it's a lovely day out there! Perfect curry weather, mate—just like a sunny stroll in Overseal, but with less chance of being chased by a mutant cabbage!\""
+  "crew_quote": "\"You know, with the weather being a stonking 17 degrees out there, I reckon a nice curry would really hit the spot while we ponder the meaning of life... or just a good takeaway.\""
 }
