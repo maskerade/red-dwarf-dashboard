@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-23T08:53:17.391837+00:00",
+  "timestamp": "2026-09-23T09:24:18.225404+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 21.0,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 16.5,
-    "outdoor_humidity": 98.0,
-    "wind_speed": 0.0,
-    "wind_direction": 135.0,
-    "pressure": 1025.3,
-    "rain_today": 0.3,
-    "uv_index": 1.0,
-    "power_usage": 396.0,
+    "outdoor_temp": 15.6,
+    "outdoor_humidity": 99.0,
+    "wind_speed": 2.2,
+    "wind_direction": 165.0,
+    "pressure": 1025.6,
+    "rain_today": 1.6,
+    "uv_index": 0.0,
+    "power_usage": 446.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "BT Tower's rooftop pool plan brings swimmers back down to earth",
     "UK’s uncrewed experimental sub shows it can fire torpedoes",
     "Why security belongs in the network",
-    "Shut up and calculate: Jev's new AI primitives for coders",
-    "In the age of AI, teaching networking principles remains more important than learning protocols"
+    "Shut up and calculate: Jev's new AI primitives for coders"
   ],
-  "crew_quote": "\"Looks like it's a perfect day for a rainy curry! Just right for making those soggy chips taste even better!\""
+  "crew_quote": "\"Well, while we’re stuck indoors at a steamy 21 degrees, I could really do with a curry—as long as it doesn't rain on my takeaway parade!\""
 }
