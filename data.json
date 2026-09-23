@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-23T20:15:28.869914+00:00",
+  "timestamp": "2026-09-23T20:46:29.379894+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.1,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 10.4,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 10.3,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
     "wind_direction": 132.0,
-    "pressure": 1029.6,
+    "pressure": 1029.7,
     "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 483.0,
+    "power_usage": 637.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -27,18 +27,18 @@
         {
           "date": "2026-09-24",
           "max": 19.0,
-          "min": 8.0
+          "min": 9.0
         },
         {
           "date": "2026-09-25",
-          "max": 18.0,
-          "min": 11.0
+          "max": 13.0,
+          "min": 9.0
         }
       ]
     },
     "overseal": {
       "temp": 12.0,
-      "conditions": "Overcast ",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-09-23",
@@ -52,14 +52,14 @@
         },
         {
           "date": "2026-09-25",
-          "max": 22.0,
-          "min": 12.0
+          "max": 19.0,
+          "min": 10.0
         }
       ]
     },
     "llandudno": {
-      "temp": 10.0,
-      "conditions": "Cloudy ",
+      "temp": 9.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-23",
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-09-25",
-          "max": 14.0,
-          "min": 10.0
+          "max": 13.0,
+          "min": 8.0
         }
       ]
     }
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
-    "Thoughts return to forbidden RAM upgrades as Raspberry Pi OS gets fresh lick of paint",
-    "Academic publisher Elsevier hit by LAPSUS$ redirect attack",
-    "Closing the observability gap for the AI-ready enterprise",
-    "The more Americans hear about datacenters, the less they like them"
+    "Mop the slop from your LinkedIn feed with a new open-source Chrome extension",
+    "Europe's fastest supercomputer is finally getting its domestic silicon infusion",
+    "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM",
+    "Discordians now subject to whims of new age verification technology"
   ],
-  "crew_quote": "\"Eleven degrees and overcast? Sounds like the perfect weather for a curry binge while we plot our next RAM upgrade, eh? Nothing like a bit of culinary chaos!\""
+  "crew_quote": "\"You know, with all this overcast and chilly weather, it's a perfect day for a curry and watching the news about supercomputers—oh, the irony of being outdone by machines!\""
 }
