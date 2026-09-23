@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-23T20:46:29.379894+00:00",
+  "timestamp": "2026-09-23T21:17:29.801029+00:00",
   "house": {
     "indoor_temp": 21.1,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 10.3,
-    "outdoor_humidity": 96.0,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 10.0,
+    "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
     "wind_direction": 132.0,
-    "pressure": 1029.7,
+    "pressure": 1029.6,
     "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 637.0,
+    "power_usage": 502.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM",
     "Discordians now subject to whims of new age verification technology"
   ],
-  "crew_quote": "\"You know, with all this overcast and chilly weather, it's a perfect day for a curry and watching the news about supercomputers—oh, the irony of being outdone by machines!\""
+  "crew_quote": "\"What do you mean it’s 21 degrees in here? I could cook a curry and use the steam to mop the slop on my LinkedIn — I’m a genius!\""
 }
