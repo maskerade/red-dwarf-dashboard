@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-23T08:22:17.457437+00:00",
+  "timestamp": "2026-09-23T08:53:17.391837+00:00",
   "house": {
-    "indoor_temp": 20.7,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 16.2,
-    "outdoor_humidity": 97.0,
-    "wind_speed": 1.1,
-    "wind_direction": 122.0,
-    "pressure": 1025.2,
+    "indoor_temp": 20.9,
+    "indoor_humidity": 64.0,
+    "outdoor_temp": 16.5,
+    "outdoor_humidity": 98.0,
+    "wind_speed": 0.0,
+    "wind_direction": 135.0,
+    "pressure": 1025.3,
     "rain_today": 0.3,
-    "uv_index": 0.0,
-    "power_usage": 311.0,
+    "uv_index": 1.0,
+    "power_usage": 396.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "UK’s uncrewed experimental sub shows it can fire torpedoes",
     "Why security belongs in the network",
     "Shut up and calculate: Jev's new AI primitives for coders",
-    "In the age of AI, teaching networking principles remains more important than learning protocols",
-    "Artificial intelligence must have a new name, says politician who likes renaming bodies of water"
+    "In the age of AI, teaching networking principles remains more important than learning protocols"
   ],
-  "crew_quote": "\"With the weather this dreary, I think I'll take a rain check on those AI primitives – I’d rather be inside with a curry and a pint than out there getting soaked!\""
+  "crew_quote": "\"Looks like it's a perfect day for a rainy curry! Just right for making those soggy chips taste even better!\""
 }
