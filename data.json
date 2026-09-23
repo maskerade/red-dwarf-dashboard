@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-23T04:14:13.463357+00:00",
+  "timestamp": "2026-09-23T04:45:13.323723+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.8,
     "indoor_humidity": 63.0,
     "outdoor_temp": 15.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 92.0,
-    "pressure": 1024.7,
+    "pressure": 1024.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 281.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Security firm finds naming AI agents after Seinfeld characters helps bots join the team",
     "ShinyHunters claims FBI hack: 'This is NOT financially motivated'"
   ],
-  "crew_quote": "\"Looks like we've got mist in Altrincham, but not as misty as my future with the ladies—now that's a real fog of confusion!\""
+  "crew_quote": "\"Just like the weather outside, my love life is misty at best, but at least in here, we've got the curry to warm things up!\""
 }
