@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T14:20:46.327156+00:00",
+  "timestamp": "2026-09-24T14:51:48.398468+00:00",
   "house": {
     "indoor_temp": 21.1,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 18.5,
+    "outdoor_temp": 18.4,
     "outdoor_humidity": 70.0,
-    "wind_speed": 1.1,
-    "wind_direction": 262.0,
-    "pressure": 1024.1,
+    "wind_speed": 1.8,
+    "wind_direction": 112.0,
+    "pressure": 1023.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 674.0,
+    "power_usage": 404.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "Talk of AI in KDE sets the community ablaze",
     "DoJ: Uncle Sam bought forensics software from same Russian operation supplying FSB",
     "Google to critical infra orgs: Our AI scanners won't be evil, promise",
-    "City council may be waking from its Oracle nightmare but the accounting hangover continues",
-    "Meta ads steered Polish Android users into a premium-rate billing trap"
+    "City council may be waking from its Oracle nightmare but the accounting hangover continues"
   ],
-  "crew_quote": "\"Overcast skies, but who needs sunshine when you've got a curry waiting for you at 21.1°C? Now that's what I call a proper balance of conditions, innit?\""
+  "crew_quote": "\"18 degrees and overcast? Perfect weather for a nice curry and a bit of a snooze, if you ask me. Who needs sunshine when you've got a good balti?\""
 }
