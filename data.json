@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-09-24T04:31:37.348907+00:00",
+  "timestamp": "2026-09-24T05:02:37.443621+00:00",
   "house": {
-    "indoor_temp": 20.4,
+    "indoor_temp": 20.3,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 7.9,
+    "outdoor_temp": 7.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 139.0,
@@ -94,5 +94,5 @@
     "Mop the slop from your LinkedIn feed with a new open-source Chrome extension",
     "Europe's fastest supercomputer is finally getting its domestic silicon infusion"
   ],
-  "crew_quote": "\"Blimey, even the weather's gone all dull and overcast! If only I could make my curry in here, it’d brighten up the place—cooked at twenty degrees with a sprinkle of magic!\""
+  "crew_quote": "\"Blimey, it's so cold and overcast outside, I could do with a nice curry to warm me up — and maybe a little Astra to take me for a spin! Just as long as it doesn’t crash into anything.\""
 }
