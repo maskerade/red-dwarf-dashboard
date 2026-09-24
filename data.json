@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-09-24T08:39:40.837455+00:00",
+  "timestamp": "2026-09-24T09:10:41.599432+00:00",
   "house": {
-    "indoor_temp": 20.2,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 13.3,
-    "outdoor_humidity": 90.0,
-    "wind_speed": 0.0,
-    "wind_direction": 139.0,
-    "pressure": 1027.5,
+    "indoor_temp": 20.4,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 14.1,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 0.4,
+    "wind_direction": 133.0,
+    "pressure": 1027.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 345.0,
+    "power_usage": 404.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 9.0,
-      "conditions": "Sunny",
+      "temp": 13.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-09-24",
           "max": 19.0,
-          "min": 8.0
+          "min": 10.0
         },
         {
           "date": "2026-09-25",
@@ -32,13 +32,13 @@
         {
           "date": "2026-09-26",
           "max": 18.0,
-          "min": 8.0
+          "min": 9.0
         }
       ]
     },
     "overseal": {
-      "temp": 10.0,
-      "conditions": "Mist",
+      "temp": 14.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-09-24",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 8.0,
+      "temp": 14.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "India’s outsourced software industry grows 9.5 percent to reach $239 billion",
     "OpenAI's Astra model went for a drive and no one died"
   ],
-  "crew_quote": "\"Ah, 10 degrees in Overseal? Just like the curry I had last night — a bit misty, but definitely not overcast in flavour!\""
+  "crew_quote": "\"With the weather being as gloomy as a government contractor's secrets, I could really use a curry and a good laugh to brighten things up!\""
 }
