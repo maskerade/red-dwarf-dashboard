@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-09-24T10:12:42.720744+00:00",
+  "timestamp": "2026-09-24T10:43:42.753868+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.9,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 15.4,
-    "outdoor_humidity": 78.0,
-    "wind_speed": 0.0,
-    "wind_direction": 247.0,
-    "pressure": 1026.8,
+    "outdoor_temp": 16.0,
+    "outdoor_humidity": 75.0,
+    "wind_speed": 1.8,
+    "wind_direction": 127.0,
+    "pressure": 1026.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 368.0,
+    "power_usage": 418.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 15.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-09-24",
           "max": 19.0,
-          "min": 10.0
+          "min": 8.0
         },
         {
           "date": "2026-09-25",
@@ -32,12 +32,12 @@
         {
           "date": "2026-09-26",
           "max": 18.0,
-          "min": 9.0
+          "min": 8.0
         }
       ]
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 16.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Government contractor exposed path to immigration records",
     "Europe’s internet registry wants governance ‘correction’ because its ‘Executive Board’ is not the executive"
   ],
-  "crew_quote": "\"Well, it's 14 degrees out and cloudy, but I reckon after a good curry, you'll be radiating more warmth than the whole bleedin' lot of 'em!\""
+  "crew_quote": "\"Blimey, it's a bit cloudy outside, innit? Perfect weather for a curry and a pint while we contemplate the cosmic significance of… whatever's on the telly.\""
 }
