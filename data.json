@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T01:56:34.323003+00:00",
+  "timestamp": "2026-09-24T02:27:35.200930+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 7.6,
+    "outdoor_temp": 7.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 139.0,
-    "pressure": 1028.7,
+    "pressure": 1028.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 295.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Europe's fastest supercomputer is finally getting its domestic silicon infusion",
     "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM"
   ],
-  "crew_quote": "\"With the weather so dreary, I’d rather be aboard the ship, where I can enjoy my curry at a perfect 20.7°C than out there in that overcast muck!\""
+  "crew_quote": "\"Hey, with it being 20.6 degrees in here, I reckon we should throw a curry party, but the weather outside's so grim, it's like the sky's auditioning for the role of 'Overcast'!\""
 }
