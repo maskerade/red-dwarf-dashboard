@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T15:53:47.076054+00:00",
+  "timestamp": "2026-09-24T16:24:47.772451+00:00",
   "house": {
     "indoor_temp": 21.1,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 18.4,
-    "outdoor_humidity": 72.0,
+    "outdoor_temp": 18.3,
+    "outdoor_humidity": 74.0,
     "wind_speed": 0.0,
-    "wind_direction": 246.0,
-    "pressure": 1023.1,
+    "wind_direction": 239.0,
+    "pressure": 1022.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 517.0,
+    "power_usage": 514.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Talk of AI in KDE sets the community ablaze",
     "DoJ: Uncle Sam bought forensics software from same Russian operation supplying FSB"
   ],
-  "crew_quote": "\"19 degrees and overcast? Perfect curry weather, that is! Just me and a big ol' balti, with no hassle about customer data or dull AI questions. Just bliss!\""
+  "crew_quote": "\"Oi, it's a right sultry 21 degrees in here! Perfect weather for a curry, but I reckon that ASUS shopper's just a bit more steamy than my vindaloo!\""
 }
