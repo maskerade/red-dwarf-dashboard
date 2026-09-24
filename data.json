@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T17:26:48.292808+00:00",
+  "timestamp": "2026-09-24T17:57:49.676981+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 16.9,
-    "outdoor_humidity": 80.0,
-    "wind_speed": 0.4,
-    "wind_direction": 116.0,
-    "pressure": 1022.2,
+    "outdoor_temp": 16.0,
+    "outdoor_humidity": 82.0,
+    "wind_speed": 0.0,
+    "wind_direction": 258.0,
+    "pressure": 1022.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 522.0,
+    "power_usage": 587.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "CVE flood pushes Ubuntu onto weekly kernel release cycle",
     "AI boom could wipe 230 million budget phones a year from the market"
   ],
-  "crew_quote": "\"What do you mean it's only 19 degrees? I'm not cooking curry in this overcast weather, not when my hair could go so fabulously wild in the sun!\""
+  "crew_quote": "\"Ah, perfect weather for a curry, isn't it? Nothing like a bit of humidity to really get the flavours out, just like those decades-old security flaws – a bit rotten, really.\""
 }
