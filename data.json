@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T13:49:45.439490+00:00",
+  "timestamp": "2026-09-24T14:20:46.327156+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.1,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 18.3,
+    "outdoor_temp": 18.5,
     "outdoor_humidity": 70.0,
-    "wind_speed": 0.0,
-    "wind_direction": 108.0,
-    "pressure": 1024.5,
+    "wind_speed": 1.1,
+    "wind_direction": 262.0,
+    "pressure": 1024.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 415.0,
+    "power_usage": 674.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "City council may be waking from its Oracle nightmare but the accounting hangover continues",
     "Meta ads steered Polish Android users into a premium-rate billing trap"
   ],
-  "crew_quote": "\"Blimey, it’s as muggy as a curry shop in here! 21.2 degrees, and all I can think about is a pint and a good old balti!\""
+  "crew_quote": "\"Overcast skies, but who needs sunshine when you've got a curry waiting for you at 21.1°C? Now that's what I call a proper balance of conditions, innit?\""
 }
