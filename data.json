@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-23T23:52:32.756012+00:00",
+  "timestamp": "2026-09-24T00:23:33.413951+00:00",
   "house": {
-    "indoor_temp": 21.1,
+    "indoor_temp": 20.9,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 8.4,
+    "outdoor_temp": 8.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 138.0,
-    "pressure": 1029.1,
+    "pressure": 1029.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 393.0,
+    "power_usage": 306.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM",
     "Discordians now subject to whims of new age verification technology"
   ],
-  "crew_quote": "\"With the weather outside as dreary as my chances for a promotion, I’d rather be stuck in here with my lovely curry and this 21.1°C bliss!\""
+  "crew_quote": "\"What's the point of having a supercomputer if it can't even decide whether to be sunny or misty? Pass me a curry, it's warmer in here than outside!\""
 }
