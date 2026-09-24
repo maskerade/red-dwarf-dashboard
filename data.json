@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T09:41:41.109506+00:00",
+  "timestamp": "2026-09-24T10:12:42.720744+00:00",
   "house": {
     "indoor_temp": 20.7,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 15.1,
+    "outdoor_temp": 15.4,
     "outdoor_humidity": 78.0,
-    "wind_speed": 0.4,
-    "wind_direction": 186.0,
-    "pressure": 1027.1,
+    "wind_speed": 0.0,
+    "wind_direction": 247.0,
+    "pressure": 1026.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 390.0,
+    "power_usage": 368.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "For MariaDB, LLMs are the new search engines to win over",
     "Experts question whether Salesforce demo breaches SAP API policy",
     "Government contractor exposed path to immigration records",
-    "Europe’s internet registry wants governance ‘correction’ because its ‘Executive Board’ is not the executive",
-    "India’s outsourced software industry grows 9.5 percent to reach $239 billion"
+    "Europe’s internet registry wants governance ‘correction’ because its ‘Executive Board’ is not the executive"
   ],
-  "crew_quote": "\"It's a lovely 20.7 degrees in here, perfect for a curry, but outside? It’s just cloudy misery—typical British weather, right?\""
+  "crew_quote": "\"Well, it's 14 degrees out and cloudy, but I reckon after a good curry, you'll be radiating more warmth than the whole bleedin' lot of 'em!\""
 }
