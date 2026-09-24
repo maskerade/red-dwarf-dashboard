@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T06:04:38.790473+00:00",
+  "timestamp": "2026-09-24T06:35:39.117707+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 7.6,
+    "outdoor_temp": 7.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 139.0,
-    "pressure": 1027.5,
+    "pressure": 1027.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 309.0,
+    "power_usage": 272.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Mop the slop from your LinkedIn feed with a new open-source Chrome extension",
     "Europe's fastest supercomputer is finally getting its domestic silicon infusion"
   ],
-  "crew_quote": "\"Well, at least it's warmer inside than that dreary 9°C out there; can't beat a good curry and a bit of cloud-watching, eh?\""
+  "crew_quote": "\"It’s cloudy outside, but at least we’re nice and toasty at 20.2°C! Now, who wants to whip up a curry and pretend we're somewhere warm, like, erm, not here?\""
 }
