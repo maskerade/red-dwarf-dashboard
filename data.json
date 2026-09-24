@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T00:54:33.157545+00:00",
+  "timestamp": "2026-09-24T01:25:33.696196+00:00",
   "house": {
-    "indoor_temp": 20.9,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 8.2,
+    "indoor_temp": 20.8,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 7.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 138.0,
-    "pressure": 1029.0,
+    "wind_direction": 139.0,
+    "pressure": 1028.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 317.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 7.0,
-      "conditions": "Mist",
+      "temp": 8.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-24",
@@ -94,5 +94,5 @@
     "Europe's fastest supercomputer is finally getting its domestic silicon infusion",
     "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM"
   ],
-  "crew_quote": "\"Blimey, it's a bit nippy outside, isn't it? Can't believe it's only 9°C—better crack out the curry to heat things up a bit!\""
+  "crew_quote": "\"With all this overcast weather and humidity, I’d say it’s the perfect day for a curry! At least it’ll warm us up while we watch the news on those dodgy open-source agents.\""
 }
