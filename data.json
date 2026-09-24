@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T12:16:44.033191+00:00",
+  "timestamp": "2026-09-24T12:47:45.436141+00:00",
   "house": {
-    "indoor_temp": 21.4,
+    "indoor_temp": 21.3,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 17.3,
+    "outdoor_temp": 17.8,
     "outdoor_humidity": 70.0,
-    "wind_speed": 1.8,
-    "wind_direction": 129.0,
-    "pressure": 1025.5,
+    "wind_speed": 4.7,
+    "wind_direction": 139.0,
+    "pressure": 1025.2,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 418.0,
+    "uv_index": 1.0,
+    "power_usage": 325.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "For MariaDB, LLMs are the new search engines to win over",
     "Experts question whether Salesforce demo breaches SAP API policy"
   ],
-  "crew_quote": "\"With the weather a cloudy 18 degrees, I might just cozy up with a curry and hope those Android users don’t get their wallets cleaned out while I do!\""
+  "crew_quote": "\"Well, it's 21.3°C in here, which is just perfect for a good curry, but outside it’s cloudier than my last relationship!\""
 }
