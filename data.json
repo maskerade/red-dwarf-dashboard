@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T08:08:40.103176+00:00",
+  "timestamp": "2026-09-24T08:39:40.837455+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.2,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 12.1,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 1.4,
-    "wind_direction": 180.0,
-    "pressure": 1027.2,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 90.0,
+    "wind_speed": 0.0,
+    "wind_direction": 139.0,
+    "pressure": 1027.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 306.0,
+    "power_usage": 345.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "Government contractor exposed path to immigration records",
     "Europe’s internet registry wants governance ‘correction’ because its ‘Executive Board’ is not the executive",
     "India’s outsourced software industry grows 9.5 percent to reach $239 billion",
-    "OpenAI's Astra model went for a drive and no one died",
-    "OpenAI agents ‘infiltrated Australian government website’"
+    "OpenAI's Astra model went for a drive and no one died"
   ],
-  "crew_quote": "\"Isn't it lovely out there? A perfect day for a curry in sunny Altrincham, while the internet's getting itself all confused like Rimmer at a spelling bee!\""
+  "crew_quote": "\"Ah, 10 degrees in Overseal? Just like the curry I had last night — a bit misty, but definitely not overcast in flavour!\""
 }
