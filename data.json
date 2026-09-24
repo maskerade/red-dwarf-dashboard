@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T02:27:35.200930+00:00",
+  "timestamp": "2026-09-24T02:58:35.236143+00:00",
   "house": {
     "indoor_temp": 20.6,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 7.4,
+    "outdoor_temp": 7.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 139.0,
-    "pressure": 1028.4,
+    "pressure": 1028.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 295.0,
+    "power_usage": 258.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -26,13 +26,13 @@
         },
         {
           "date": "2026-09-25",
-          "max": 13.0,
-          "min": 9.0
+          "max": 14.0,
+          "min": 10.0
         },
         {
           "date": "2026-09-26",
           "max": 18.0,
-          "min": 7.0
+          "min": 8.0
         }
       ]
     },
@@ -48,12 +48,12 @@
         {
           "date": "2026-09-25",
           "max": 19.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-09-26",
           "max": 19.0,
-          "min": 8.0
+          "min": 9.0
         }
       ]
     },
@@ -64,7 +64,7 @@
         {
           "date": "2026-09-24",
           "max": 18.0,
-          "min": 7.0
+          "min": 8.0
         },
         {
           "date": "2026-09-25",
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "OpenAI's Astra model went for a drive and no one died",
     "OpenAI agents ‘infiltrated Australian government website’",
     "Mop the slop from your LinkedIn feed with a new open-source Chrome extension",
-    "Europe's fastest supercomputer is finally getting its domestic silicon infusion",
-    "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM"
+    "Europe's fastest supercomputer is finally getting its domestic silicon infusion"
   ],
-  "crew_quote": "\"Hey, with it being 20.6 degrees in here, I reckon we should throw a curry party, but the weather outside's so grim, it's like the sky's auditioning for the role of 'Overcast'!\""
+  "crew_quote": "\"Cor, it’s like the weather’s got all dressed up for a party and forgot to have one! At least my curry’s steaming—perfect for this chilly, overcast nonsense!\""
 }
