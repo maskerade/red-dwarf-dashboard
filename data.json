@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T02:58:35.236143+00:00",
+  "timestamp": "2026-09-24T03:29:35.366805+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.5,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 7.8,
+    "outdoor_temp": 8.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 139.0,
-    "pressure": 1028.2,
+    "pressure": 1027.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 258.0,
+    "power_usage": 261.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Mop the slop from your LinkedIn feed with a new open-source Chrome extension",
     "Europe's fastest supercomputer is finally getting its domestic silicon infusion"
   ],
-  "crew_quote": "\"Cor, it’s like the weather’s got all dressed up for a party and forgot to have one! At least my curry’s steaming—perfect for this chilly, overcast nonsense!\""
+  "crew_quote": "\"Ah, another overcast day, just like my last haircut! At least it's warm inside—perfect curry weather, if only I could find some time to cook!\""
 }
