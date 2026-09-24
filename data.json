@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-24T04:00:38.524707+00:00",
+  "timestamp": "2026-09-24T04:31:37.348907+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 8.1,
+    "outdoor_temp": 7.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 139.0,
-    "pressure": 1027.7,
+    "pressure": 1027.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 297.0,
+    "power_usage": 264.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
+      "temp": 9.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Mop the slop from your LinkedIn feed with a new open-source Chrome extension",
     "Europe's fastest supercomputer is finally getting its domestic silicon infusion"
   ],
-  "crew_quote": "\"Did you see the weather? It’s so overcast even the sun’s too embarrassed to show its face. I’d rather be inside with a curry and a pint than out there in that dreary mess!\""
+  "crew_quote": "\"Blimey, even the weather's gone all dull and overcast! If only I could make my curry in here, it’d brighten up the place—cooked at twenty degrees with a sprinkle of magic!\""
 }
