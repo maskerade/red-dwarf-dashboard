@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T07:24:05.964948+00:00",
+  "timestamp": "2026-09-25T07:55:03.080303+00:00",
   "house": {
     "indoor_temp": 20.4,
     "indoor_humidity": 61.0,
     "outdoor_temp": 13.2,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 163.0,
-    "pressure": 1020.7,
-    "rain_today": 0.0,
+    "wind_direction": 135.0,
+    "pressure": 1021.4,
+    "rain_today": 0.3,
     "uv_index": 0.0,
-    "power_usage": 323.0,
+    "power_usage": 306.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "2026 just became the year of FreeBSD on the (Amazonian cloud) desktop",
     "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter"
   ],
-  "crew_quote": "\"Ah, it's a beautiful day in Overseal, just perfect for a curry! Of course, with my luck, the universe will probably send a drizzle my way instead.\""
+  "crew_quote": "\"With the weather so dreary, I might just invent a planetary barometer to measure how miserable we all are—though I doubt it'll fare better than my mates' interpretation of the plan!\""
 }
