@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T16:42:11.463801+00:00",
+  "timestamp": "2026-09-25T17:13:12.934953+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.8,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 13.4,
+    "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
     "wind_direction": 145.0,
-    "pressure": 1022.2,
+    "pressure": 1022.3,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 320.0,
+    "power_usage": 387.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Raspberry Pi surfs memory crunch to record first half",
     "Windows update leaves some virtual desktops staring into the void"
   ],
-  "crew_quote": "\"Well, isn’t it just typical? The weather’s as dreary as my love life, and I’m still trying to figure out which Office version is least likely to drive me mad!\""
+  "crew_quote": "\"Well, it’s a bit overcast outside, but at least the curry’s hot enough to keep us warm — though I’d rather be sailing in Llandudno right now, let’s be honest!\""
 }
