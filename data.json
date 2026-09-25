@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T15:09:09.993211+00:00",
+  "timestamp": "2026-09-25T15:40:10.603791+00:00",
   "house": {
-    "indoor_temp": 21.0,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 14.9,
-    "outdoor_humidity": 84.0,
+    "indoor_temp": 20.8,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 14.3,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
-    "wind_direction": 139.0,
-    "pressure": 1022.2,
+    "wind_direction": 146.0,
+    "pressure": 1022.1,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 379.0,
+    "power_usage": 342.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Raspberry Pi surfs memory crunch to record first half",
     "Windows update leaves some virtual desktops staring into the void"
   ],
-  "crew_quote": "\"Ah, the weather's as gloomy as my chances of getting Office 2016 to work — who knew a program could crash harder than Rimmer's ego?\""
+  "crew_quote": "\"Listen, if I wanted to feel confused about which file's real, I'd just stare at the weather in Altrincham—overcast and 13 degrees, that's just cruel, man!\""
 }
