@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T00:09:56.056531+00:00",
+  "timestamp": "2026-09-25T00:40:55.971436+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.9,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 14.7,
+    "outdoor_temp": 14.8,
     "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
-    "wind_direction": 221.0,
+    "wind_direction": 121.0,
     "pressure": 1020.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 370.0,
+    "power_usage": 325.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Docker's new sandboxes aim to contain AI agents for real",
     "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing"
   ],
-  "crew_quote": "\"Ah, perfect weather for a curry on the ship, just not too foggy like Llandudno—can't have that ruining my fabulous evening, can we?\""
+  "crew_quote": "\"Ah, it’s a lovely 12 degrees out there, perfect weather for a curry-induced nap — too bad the fog in Llandudno means I can’t find the chippy!\""
 }
