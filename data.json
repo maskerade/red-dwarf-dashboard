@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T01:11:56.137055+00:00",
+  "timestamp": "2026-09-25T01:42:57.346850+00:00",
   "house": {
-    "indoor_temp": 20.8,
+    "indoor_temp": 20.7,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 14.7,
-    "outdoor_humidity": 90.0,
+    "outdoor_temp": 14.9,
+    "outdoor_humidity": 91.0,
     "wind_speed": 0.0,
     "wind_direction": 121.0,
-    "pressure": 1020.5,
+    "pressure": 1020.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 286.0,
+    "power_usage": 309.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Docker's new sandboxes aim to contain AI agents for real",
     "Salesforce Agentforce vulns allowed 0-click CRM data theft, anonymous phishing"
   ],
-  "crew_quote": "\"Oi, with the fog in Llandudno, I'm thinking I might just stay indoors and whip up a nice curry instead—who needs the stinkin' outdoors when I've got spices?\""
+  "crew_quote": "\"The weather’s nice and clear in Altrincham, but here I am, stuck in 20.7 degrees, staring at this fog like it's a curry I forgot to order!\""
 }
