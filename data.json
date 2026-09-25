@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T08:26:05.818552+00:00",
+  "timestamp": "2026-09-25T08:57:04.460551+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.6,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 12.3,
-    "outdoor_humidity": 99.0,
+    "outdoor_temp": 12.9,
+    "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 155.0,
-    "pressure": 1021.8,
+    "wind_direction": 132.0,
+    "pressure": 1021.9,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 373.0,
+    "power_usage": 415.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "UK wants more homes heated by waste heat from datacenters",
     "Huawei Cloud Rolls Out Enterprise AI Products Across the Board, Building an Open Agentic Cloud",
     "Project leader thought his team understood the plan, ended up fixing their 'interpretation' of it",
-    "Astronomer watches Starlink satellites sinking to build a ‘planetary barometer’",
-    "2026 just became the year of FreeBSD on the (Amazonian cloud) desktop"
+    "Astronomer watches Starlink satellites sinking to build a ‘planetary barometer’"
   ],
-  "crew_quote": "\"Why's it always so murky outside? I mean, if it’s gonna be 12 degrees, at least let it be stylishly cloudy — maybe a bit of mist to add to my allure!\""
+  "crew_quote": "\"With this mist, I reckon my curry's the only thing heating the place up—at least it's a proper 20.6°C indoors, unlike that stiff 12 outside!\""
 }
