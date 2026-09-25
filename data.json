@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T06:22:01.456750+00:00",
+  "timestamp": "2026-09-25T06:53:03.185240+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.4,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.9,
-    "outdoor_humidity": 97.0,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 161.0,
-    "pressure": 1020.2,
+    "wind_direction": 141.0,
+    "pressure": 1020.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 306.0,
+    "power_usage": 281.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Mist",
+      "temp": 13.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-25",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Light rain",
+      "temp": 12.0,
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-09-25",
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "Project leader thought his team understood the plan, ended up fixing their 'interpretation' of it",
+    "Astronomer watches Starlink satellites sinking to build a ‘planetary barometer’",
     "2026 just became the year of FreeBSD on the (Amazonian cloud) desktop",
-    "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter",
-    "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
-    "Google's TPUs to catch some rays in orbit next week"
+    "Google Gemini can present cartoon or lifelike avatars to lip-sync generative chatter"
   ],
-  "crew_quote": "\"Weather's as dreary as a day-old curry left out in the rain—just like my chances at getting a decent pint in this light drizzle!\""
+  "crew_quote": "\"Well, at least with all this rain, I won't have to worry about my hair getting messy when I steal Lister's curry. It's a sunny day somewhere, right?\""
 }
