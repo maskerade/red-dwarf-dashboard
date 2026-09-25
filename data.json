@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T13:36:08.877212+00:00",
+  "timestamp": "2026-09-25T14:07:09.299289+00:00",
   "house": {
     "indoor_temp": 20.9,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 14.6,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 0.0,
-    "wind_direction": 176.0,
-    "pressure": 1022.3,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 14.9,
+    "outdoor_humidity": 84.0,
+    "wind_speed": 1.4,
+    "wind_direction": 141.0,
+    "pressure": 1022.2,
     "rain_today": 0.5,
-    "uv_index": 0.0,
-    "power_usage": 390.0,
+    "uv_index": 1.0,
+    "power_usage": 359.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Asahi fork embraces LLMs and lands Linux on the M4 Mac mini",
     "Amazon sellers watch as inventory vanishes into pending-order purgatory"
   ],
-  "crew_quote": "\"With all this patchy rain, I reckon the weather's just like a bad curry — you never know if it's gonna be brilliant or leave you regretting life choices!\""
+  "crew_quote": "\"Oi, with the weather being this gloomy, I reckon it’s a perfect day for a curry and a good old binge on the latest Windows update catastrophe!\""
 }
