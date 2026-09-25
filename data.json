@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T05:20:00.644102+00:00",
+  "timestamp": "2026-09-25T05:51:01.480980+00:00",
   "house": {
     "indoor_temp": 20.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.8,
-    "outdoor_humidity": 96.0,
+    "outdoor_temp": 14.0,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
     "wind_direction": 203.0,
-    "pressure": 1019.9,
+    "pressure": 1020.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 261.0,
+    "power_usage": 306.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
     "Google's TPUs to catch some rays in orbit next week"
   ],
-  "crew_quote": "\"Ah, just another day in the galaxy, where the weather's as dreary as my last date and my curry's still the best thing heating up this ship!\""
+  "crew_quote": "\"Oi, 15 degrees and overcast? Looks like another day for curry and a good old moan about the weather—better than those bloody avatars, I reckon!\""
 }
