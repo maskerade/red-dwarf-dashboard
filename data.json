@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T10:30:16.249064+00:00",
+  "timestamp": "2026-09-25T11:01:08.692994+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.8,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 14.7,
-    "outdoor_humidity": 87.0,
+    "outdoor_temp": 14.9,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
-    "wind_direction": 151.0,
-    "pressure": 1022.0,
+    "wind_direction": 146.0,
+    "pressure": 1022.3,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 424.0,
+    "power_usage": 404.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 21st Sept to end of service 26th Sept no trams will operate through Market Street & Shudehill. Altrincham & Bury services will operate via Exchange Square. See TfGM.com",
   "headlines": [
+    "Another week, another data breach for Revolut customers",
     "Judge uses electronic tag on Pokémon card tracker. It's super effective!",
     "Your files are in four places and nobody knows which one is right",
-    "UK wants more homes heated by waste heat from datacenters",
-    "Huawei Cloud Rolls Out Enterprise AI Products Across the Board, Building an Open Agentic Cloud"
+    "UK wants more homes heated by waste heat from datacenters"
   ],
-  "crew_quote": "\"With this weather, I reckon the only thing steaming is my curry! Might as well set up a misty restaurant right here in the ship.\""
+  "crew_quote": "\"Blimey, it’s so overcast I can barely see my own reflection—thank goodness for the indoor heat; at least I can sweat in style while planning my next curry!\""
 }
