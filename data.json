@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-25T17:13:12.934953+00:00",
+  "timestamp": "2026-09-25T17:44:13.731760+00:00",
   "house": {
     "indoor_temp": 20.5,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 13.4,
-    "outdoor_humidity": 90.0,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 13.2,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
     "wind_direction": 145.0,
-    "pressure": 1022.3,
+    "pressure": 1022.1,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 387.0,
+    "power_usage": 609.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Raspberry Pi surfs memory crunch to record first half",
     "Windows update leaves some virtual desktops staring into the void"
   ],
-  "crew_quote": "\"Well, it’s a bit overcast outside, but at least the curry’s hot enough to keep us warm — though I’d rather be sailing in Llandudno right now, let’s be honest!\""
+  "crew_quote": "\"Looks like it’s just as overcast on Earth as it is in my head—might as well order a curry, at least that won’t do a license deactivation on me!\""
 }
