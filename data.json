@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T22:54:17.497289+00:00",
+  "timestamp": "2026-09-25T23:25:17.684650+00:00",
   "house": {
     "indoor_temp": 20.7,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 9.6,
+    "outdoor_temp": 9.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 145.0,
-    "pressure": 1022.8,
-    "rain_today": 0.5,
+    "pressure": 1022.6,
+    "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 514.0,
+    "power_usage": 474.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "New software dependency validation process increases speeds by 54x",
     "ShinyHunters tells The Reg: We hacked the FBI to 'protect our business'"
   ],
-  "crew_quote": "\"It's so misty outside I can't even tell if I'm in Overseal or just having a really bad curry hangover!\""
+  "crew_quote": "\"Well, with all this mist and overcast, it’s like Earth’s trying to turn itself into a proper curry sauce — a bit thick, but definitely not spicy enough for my taste!\""
 }
