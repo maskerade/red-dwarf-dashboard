@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-25T17:44:13.731760+00:00",
+  "timestamp": "2026-09-25T18:15:13.275600+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.6,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 13.2,
-    "outdoor_humidity": 92.0,
+    "outdoor_temp": 12.9,
+    "outdoor_humidity": 94.0,
     "wind_speed": 0.0,
-    "wind_direction": 145.0,
-    "pressure": 1022.1,
+    "wind_direction": 146.0,
+    "pressure": 1022.0,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 609.0,
+    "power_usage": 547.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Raspberry Pi surfs memory crunch to record first half",
     "Windows update leaves some virtual desktops staring into the void"
   ],
-  "crew_quote": "\"Looks like it’s just as overcast on Earth as it is in my head—might as well order a curry, at least that won’t do a license deactivation on me!\""
+  "crew_quote": "\"Blimey, with this weather, I might as well be wrapped in a blanket eating a curry while I try to figure out which version of that file isn't a complete disaster!\""
 }
