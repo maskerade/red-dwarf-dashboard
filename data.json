@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-25T04:49:00.165135+00:00",
+  "timestamp": "2026-09-25T05:20:00.644102+00:00",
   "house": {
     "indoor_temp": 20.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.5,
-    "outdoor_humidity": 97.0,
+    "outdoor_temp": 13.8,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 99.0,
+    "wind_direction": 203.0,
     "pressure": 1019.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 306.0,
+    "power_usage": 261.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Fog",
+      "temp": 12.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-09-25",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 13.0,
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-09-25",
@@ -94,5 +94,5 @@
     "Crook used three open source agents to break into a Fortune 500 hospitality company, a major US airline and 25+ other orgs",
     "Google's TPUs to catch some rays in orbit next week"
   ],
-  "crew_quote": "\"You know, with the weather being so foggy and overcast, I could really go for a nice curry to warm me up—preferably one that can generate its own avatar!\""
+  "crew_quote": "\"Ah, just another day in the galaxy, where the weather's as dreary as my last date and my curry's still the best thing heating up this ship!\""
 }
