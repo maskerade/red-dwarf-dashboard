@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-26T16:28:35.261540+00:00",
+  "timestamp": "2026-09-26T16:59:36.534821+00:00",
   "house": {
-    "indoor_temp": 20.4,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 17.8,
-    "outdoor_humidity": 72.0,
+    "indoor_temp": 20.3,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 16.8,
+    "outdoor_humidity": 75.0,
     "wind_speed": 0.0,
-    "wind_direction": 213.0,
-    "pressure": 1022.6,
+    "wind_direction": 152.0,
+    "pressure": 1022.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 342.0,
+    "power_usage": 635.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 19.0,
-      "conditions": "Sunny",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-26",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 16.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Valen creator drives 'Golden Spike' to connect new languages with Rust",
     "Microsoft cells out, crams multiple values into Excel boxes"
   ],
-  "crew_quote": "\"With it being a lovely 19 degrees in Overseal, I reckon a curry on the beach would be the perfect plan—who cares if it’s partly cloudy, just more reason to strut my stuff!\""
+  "crew_quote": "\"Oh, look at the weather! Partly cloudy with a chance of curry, just how I like it — perfect for a pint and a takeaway!\""
 }
