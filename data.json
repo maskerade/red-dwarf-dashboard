@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-09-26T11:49:30.485666+00:00",
+  "timestamp": "2026-09-26T12:20:32.435199+00:00",
   "house": {
     "indoor_temp": 20.5,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 17.2,
-    "outdoor_humidity": 80.0,
-    "wind_speed": 2.9,
-    "wind_direction": 221.0,
-    "pressure": 1023.6,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 16.8,
+    "outdoor_humidity": 82.0,
+    "wind_speed": 1.4,
+    "wind_direction": 143.0,
+    "pressure": 1023.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 452.0,
+    "power_usage": 497.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 18.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Valen creator drives 'Golden Spike' to connect new languages with Rust",
     "Microsoft cells out, crams multiple values into Excel boxes"
   ],
-  "crew_quote": "\"Ah, sunny weather and a warm indoor temperature — perfect conditions for a nice curry, mate! Just gotta avoid that power usage, or we’ll be eating beans on toast again!\""
+  "crew_quote": "\"Ah, lovely weather, perfect for a curry—too bad I can't eat it without the smell getting stuck on my new phone!\""
 }
