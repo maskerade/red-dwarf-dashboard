@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-26T11:18:30.100063+00:00",
+  "timestamp": "2026-09-26T11:49:30.485666+00:00",
   "house": {
     "indoor_temp": 20.5,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 16.8,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 0.0,
-    "wind_direction": 195.0,
-    "pressure": 1024.0,
+    "outdoor_temp": 17.2,
+    "outdoor_humidity": 80.0,
+    "wind_speed": 2.9,
+    "wind_direction": 221.0,
+    "pressure": 1023.6,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 390.0,
+    "uv_index": 0.0,
+    "power_usage": 452.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Valen creator drives 'Golden Spike' to connect new languages with Rust",
     "Microsoft cells out, crams multiple values into Excel boxes"
   ],
-  "crew_quote": "\"Ah, sunny in Altrincham, eh? Might as well get some curry and enjoy the weather—nothing like a bit of heat to complement my spicy tastes!\""
+  "crew_quote": "\"Ah, sunny weather and a warm indoor temperature — perfect conditions for a nice curry, mate! Just gotta avoid that power usage, or we’ll be eating beans on toast again!\""
 }
