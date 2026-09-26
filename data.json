@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-26T10:47:29.223606+00:00",
+  "timestamp": "2026-09-26T11:18:30.100063+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.5,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 16.7,
-    "outdoor_humidity": 81.0,
-    "wind_speed": 0.7,
-    "wind_direction": 140.0,
-    "pressure": 1023.8,
+    "outdoor_temp": 16.8,
+    "outdoor_humidity": 82.0,
+    "wind_speed": 0.0,
+    "wind_direction": 195.0,
+    "pressure": 1024.0,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 396.0,
+    "uv_index": 1.0,
+    "power_usage": 390.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Valen creator drives 'Golden Spike' to connect new languages with Rust",
     "Microsoft cells out, crams multiple values into Excel boxes"
   ],
-  "crew_quote": "\"With this lovely sunny weather, it’s a perfect day for a curry — just imagine, a spicy vindaloo while Samsung’s busy turning inactivity into attention! That’s what I call multitasking!\""
+  "crew_quote": "\"Ah, sunny in Altrincham, eh? Might as well get some curry and enjoy the weather—nothing like a bit of heat to complement my spicy tastes!\""
 }
