@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-27T22:27:05.900167+00:00",
+  "timestamp": "2026-09-27T22:58:06.100080+00:00",
   "house": {
     "indoor_temp": 20.8,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 10.5,
+    "outdoor_temp": 10.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 133.0,
-    "pressure": 1018.0,
+    "wind_direction": 132.0,
+    "pressure": 1018.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 466.0,
+    "power_usage": 514.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "How Samsung turned months of inactivity into a very attention-seeking smartphone",
     "Space Jam: UK debuts space squadron to protect satellites"
   ],
-  "crew_quote": "\"Blimey, it's so misty in Llandudno I could use it as an excuse for when I don't find my curry – it’s like trying to navigate through a bowl of pea soup!\""
+  "crew_quote": "\"Blimey, it's so overcast out there it's like the sun's taken a day off for a curry! I’ll take that mist over Apple’s dead OS any day.”"
 }
