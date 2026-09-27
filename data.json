@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-27T17:48:00.842109+00:00",
+  "timestamp": "2026-09-27T18:19:01.514051+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 20.8,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 15.3,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 14.3,
+    "outdoor_humidity": 94.0,
     "wind_speed": 0.0,
-    "wind_direction": 152.0,
-    "pressure": 1013.3,
+    "wind_direction": 130.0,
+    "pressure": 1014.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 483.0,
+    "power_usage": 514.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "How Samsung turned months of inactivity into a very attention-seeking smartphone",
     "Space Jam: UK debuts space squadron to protect satellites"
   ],
-  "crew_quote": "\"Blimey, all this weather talk, and I'm still waiting for my curry! It's patchy rain here, but that only adds to the mystery of my next great meal adventure!\""
+  "crew_quote": "\"With weather like this, I reckon it's perfect curry-making rain. As long as the power stays on and I can cook, I don't care if it feels like a bloody sauna in here!\""
 }
