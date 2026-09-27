@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-27T05:23:48.693902+00:00",
+  "timestamp": "2026-09-27T05:54:48.238641+00:00",
   "house": {
-    "indoor_temp": 19.9,
+    "indoor_temp": 19.8,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 12.2,
-    "outdoor_humidity": 88.0,
-    "wind_speed": 1.8,
-    "wind_direction": 206.0,
-    "pressure": 1016.1,
+    "outdoor_temp": 12.5,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 0.0,
+    "wind_direction": 221.0,
+    "pressure": 1015.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 292.0,
+    "power_usage": 297.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Valen creator drives 'Golden Spike' to connect new languages with Rust",
     "Microsoft cells out, crams multiple values into Excel boxes"
   ],
-  "crew_quote": "\"Blimey, with this weather, I might as well be brewing a curry for the entire crew while we wait for the space squadron to save us from boredom!\""
+  "crew_quote": "\"An overcast 12°C, and here I am sweating like a curry in a microwave — can’t we at least get a bit of space jam to liven things up?\""
 }
