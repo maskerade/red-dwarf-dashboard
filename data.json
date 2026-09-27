@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-27T14:41:58.042794+00:00",
+  "timestamp": "2026-09-27T15:12:58.525095+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 21.0,
     "indoor_humidity": 66.0,
-    "outdoor_temp": 18.7,
-    "outdoor_humidity": 85.0,
-    "wind_speed": 2.2,
-    "wind_direction": 117.0,
-    "pressure": 1009.4,
+    "outdoor_temp": 18.4,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 0.4,
+    "wind_direction": 140.0,
+    "pressure": 1009.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 547.0,
+    "power_usage": 601.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "How Samsung turned months of inactivity into a very attention-seeking smartphone",
     "Space Jam: UK debuts space squadron to protect satellites"
   ],
-  "crew_quote": "\"With all this patchy rain, I could really go for a curry — but I suppose I’ll have to settle for a nice, damp spaceship instead!\""
+  "crew_quote": "\"Well, with the indoor temperature at 21°C, it’s just perfect for a curry! Just pray the rain doesn’t ruin my plans for a takeaway!\""
 }
