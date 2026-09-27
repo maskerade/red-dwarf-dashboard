@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-27T19:52:02.824983+00:00",
+  "timestamp": "2026-09-27T20:23:03.741166+00:00",
   "house": {
     "indoor_temp": 20.8,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 12.0,
+    "outdoor_temp": 11.6,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 133.0,
-    "pressure": 1015.5,
+    "pressure": 1016.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 800.0,
+    "power_usage": 531.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "How Samsung turned months of inactivity into a very attention-seeking smartphone",
     "Space Jam: UK debuts space squadron to protect satellites"
   ],
-  "crew_quote": "\"Blimey, it's hotter in here than the last curry I had! I mean, who needs a weather app when you've got a ship that feels like it's running on a failed OS?\""
+  "crew_quote": "\"Well, at least the weather's clear today; you know what that means, don’t you? Perfect conditions for a nice curry, right before we get buried under another load of ridiculous news!\""
 }
