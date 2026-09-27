@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-27T07:27:50.258763+00:00",
+  "timestamp": "2026-09-27T07:58:50.647662+00:00",
   "house": {
     "indoor_temp": 19.7,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 12.6,
-    "outdoor_humidity": 89.0,
-    "wind_speed": 6.1,
-    "wind_direction": 253.0,
-    "pressure": 1014.9,
+    "outdoor_temp": 12.8,
+    "outdoor_humidity": 87.0,
+    "wind_speed": 2.9,
+    "wind_direction": 233.0,
+    "pressure": 1014.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 272.0,
+    "power_usage": 320.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Valen creator drives 'Golden Spike' to connect new languages with Rust",
     "Microsoft cells out, crams multiple values into Excel boxes"
   ],
-  "crew_quote": "\"With temperatures cooler than my last curry, it’s no wonder the only thing shiny in this place is Samsung’s new phone — and that’s only because it’s desperate for attention!\""
+  "crew_quote": "\"Ah, just like the weather outside—overcast and damp, but at least our curry's hot enough to raise the indoor temp, eh? Who needs a smartphone when you've got a good balti?\""
 }
