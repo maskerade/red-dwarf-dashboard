@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-27T13:08:56.544589+00:00",
+  "timestamp": "2026-09-27T13:39:56.365714+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.6,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 19.2,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 5.4,
-    "wind_direction": 234.0,
+    "outdoor_temp": 19.3,
+    "outdoor_humidity": 81.0,
+    "wind_speed": 0.7,
+    "wind_direction": 203.0,
     "pressure": 1009.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 522.0,
+    "power_usage": 494.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "How Samsung turned months of inactivity into a very attention-seeking smartphone",
     "Space Jam: UK debuts space squadron to protect satellites"
   ],
-  "crew_quote": "\"Oi, it's patchy rain everywhere! Just like the weather outside, my love life is just filled with scattered bits of disappointment and a lot of soggy bits, innit?\""
+  "crew_quote": "\"Ah, brilliant! Just like my favorite curry, it's a bit patchy but still smoldering at 20.6 degrees – that's how I like my indoor temperatures, if you catch my drift!\""
 }
