@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-09-27T07:58:50.647662+00:00",
+  "timestamp": "2026-09-27T08:29:51.764799+00:00",
   "house": {
     "indoor_temp": 19.7,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 12.8,
-    "outdoor_humidity": 87.0,
-    "wind_speed": 2.9,
-    "wind_direction": 233.0,
-    "pressure": 1014.4,
+    "outdoor_temp": 13.6,
+    "outdoor_humidity": 86.0,
+    "wind_speed": 0.4,
+    "wind_direction": 206.0,
+    "pressure": 1013.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 320.0,
+    "power_usage": 283.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
+      "temp": 12.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-27",
-          "max": 18.0,
+          "max": 17.0,
           "min": 10.0
         },
         {
@@ -31,18 +31,18 @@
         },
         {
           "date": "2026-09-29",
-          "max": 18.0,
-          "min": 8.0
+          "max": 20.0,
+          "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 10.0,
-      "conditions": "Overcast ",
+      "temp": 13.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-09-27",
-          "max": 20.0,
+          "max": 21.0,
           "min": 10.0
         },
         {
@@ -52,13 +52,13 @@
         },
         {
           "date": "2026-09-29",
-          "max": 19.0,
-          "min": 10.0
+          "max": 22.0,
+          "min": 11.0
         }
       ]
     },
     "llandudno": {
-      "temp": 11.0,
+      "temp": 10.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Valen creator drives 'Golden Spike' to connect new languages with Rust",
     "Microsoft cells out, crams multiple values into Excel boxes"
   ],
-  "crew_quote": "\"Ah, just like the weather outside—overcast and damp, but at least our curry's hot enough to raise the indoor temp, eh? Who needs a smartphone when you've got a good balti?\""
+  "crew_quote": "\"With this weather, I reckon my curry's got more chance of winning a beauty contest than me stepping outside without getting drenched!\""
 }
