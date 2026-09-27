@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T03:19:46.209005+00:00",
+  "timestamp": "2026-09-27T03:50:46.444174+00:00",
   "house": {
     "indoor_temp": 20.0,
     "indoor_humidity": 60.0,
@@ -7,22 +7,22 @@
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 152.0,
-    "pressure": 1018.6,
+    "pressure": 1018.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 264.0,
+    "power_usage": 311.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 11.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-27",
           "max": 18.0,
-          "min": 9.0
+          "min": 10.0
         },
         {
           "date": "2026-09-28",
@@ -32,7 +32,7 @@
         {
           "date": "2026-09-29",
           "max": 18.0,
-          "min": 10.0
+          "min": 8.0
         }
       ]
     },
@@ -42,7 +42,7 @@
       "forecast": [
         {
           "date": "2026-09-27",
-          "max": 21.0,
+          "max": 20.0,
           "min": 10.0
         },
         {
@@ -63,17 +63,17 @@
       "forecast": [
         {
           "date": "2026-09-27",
-          "max": 15.0,
+          "max": 16.0,
           "min": 9.0
         },
         {
           "date": "2026-09-28",
-          "max": 15.0,
+          "max": 16.0,
           "min": 7.0
         },
         {
           "date": "2026-09-29",
-          "max": 18.0,
+          "max": 19.0,
           "min": 7.0
         }
       ]
@@ -94,5 +94,5 @@
     "Valen creator drives 'Golden Spike' to connect new languages with Rust",
     "Microsoft cells out, crams multiple values into Excel boxes"
   ],
-  "crew_quote": "\"Well, with the weather looking so dreary, I reckon a good curry and a few pints in the warmth of 20 degrees is the only way to beat this cosmic gloom!\""
+  "crew_quote": "\"Well, at least it’s 20 degrees in here — perfect curry weather! Too bad the outside looks like a grey sponge just waiting to rain on my parade.\""
 }
