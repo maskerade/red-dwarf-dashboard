@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-28T05:10:12.328553+00:00",
+  "timestamp": "2026-09-28T05:41:12.936788+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 7.7,
+    "outdoor_temp": 7.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 133.0,
-    "pressure": 1021.2,
+    "pressure": 1021.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 325.0,
+    "power_usage": 345.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Big AI's content problem: Take the work, keep the money",
     "How Samsung turned months of inactivity into a very attention-seeking smartphone"
   ],
-  "crew_quote": "\"With all this overcast weather, it’s a perfect day for a curry! Just as long as you keep the takeaway drones away from my chips, eh?\""
+  "crew_quote": "\"Looks like it's overcast and gloomy outside, but at least it's warmer in here than last week's curry! Who needs sunshine when you've got the perfect indoor vibe?\""
 }
