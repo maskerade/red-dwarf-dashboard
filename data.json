@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-28T01:33:08.858026+00:00",
+  "timestamp": "2026-09-28T02:04:09.118927+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 8.7,
+    "outdoor_temp": 8.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 133.0,
     "pressure": 1019.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 311.0,
+    "power_usage": 295.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "How Samsung turned months of inactivity into a very attention-seeking smartphone",
     "Space Jam: UK debuts space squadron to protect satellites"
   ],
-  "crew_quote": "\"With it being so overcast and chilly, I reckon a nice curry would warm the cockles, but not as much as the power bill will once we start boiling water for it!\""
+  "crew_quote": "\"Well, it’s been a bit of a dreary day, hasn’t it? I mean, who needs a sunny climate when you've got a perfectly good curry and 20 degrees indoors, eh?\""
 }
