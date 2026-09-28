@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-09-27T23:29:06.378732+00:00",
+  "timestamp": "2026-09-28T00:00:24.075063+00:00",
   "house": {
-    "indoor_temp": 20.8,
+    "indoor_temp": 20.6,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 9.6,
+    "outdoor_temp": 9.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 132.0,
-    "pressure": 1018.5,
+    "pressure": 1018.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 508.0,
+    "power_usage": 325.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
+      "temp": 9.0,
       "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-09-27",
-          "max": 18.0,
-          "min": 10.0
-        },
         {
           "date": "2026-09-28",
           "max": 16.0,
@@ -33,18 +28,18 @@
           "date": "2026-09-29",
           "max": 19.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-09-30",
+          "max": 20.0,
+          "min": 12.0
         }
       ]
     },
     "overseal": {
-      "temp": 11.0,
+      "temp": 10.0,
       "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-09-27",
-          "max": 20.0,
-          "min": 10.0
-        },
         {
           "date": "2026-09-28",
           "max": 17.0,
@@ -54,18 +49,18 @@
           "date": "2026-09-29",
           "max": 21.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-09-30",
+          "max": 21.0,
+          "min": 13.0
         }
       ]
     },
     "llandudno": {
-      "temp": 9.0,
-      "conditions": "Mist",
+      "temp": 8.0,
+      "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-09-27",
-          "max": 17.0,
-          "min": 9.0
-        },
         {
           "date": "2026-09-28",
           "max": 16.0,
@@ -75,17 +70,22 @@
           "date": "2026-09-29",
           "max": 18.0,
           "min": 7.0
+        },
+        {
+          "date": "2026-09-30",
+          "max": 18.0,
+          "min": 10.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:04 AM",
-    "sunset": "06:56 PM",
+    "sunrise": "07:05 AM",
+    "sunset": "06:53 PM",
     "moon_phase": "Waning Gibbous",
-    "moon_illumination": "100",
-    "moonrise": "06:45 PM",
-    "moonset": "08:04 AM"
+    "moon_illumination": "98",
+    "moonrise": "06:59 PM",
+    "moonset": "09:31 AM"
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Ashton services will operate to Piccadilly only. See TfGM.com for info",
   "headlines": [
@@ -94,5 +94,5 @@
     "How Samsung turned months of inactivity into a very attention-seeking smartphone",
     "Space Jam: UK debuts space squadron to protect satellites"
   ],
-  "crew_quote": "\"With outside temperatures cooler than a curry left out overnight, I’d say the mist in Llandudno is just nature's way of reminding us we’re all a bit foggy upstairs!\""
+  "crew_quote": "\"Right, so it's 20.6 degrees inside and still overcast outside—perfect curry weather! Who needs the sun when you’ve got a good vindaloo, eh?\""
 }
