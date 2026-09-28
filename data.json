@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-28T11:22:19.304744+00:00",
+  "timestamp": "2026-09-28T11:53:19.192649+00:00",
   "house": {
-    "indoor_temp": 20.8,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 15.2,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 0.4,
-    "wind_direction": 213.0,
-    "pressure": 1023.8,
+    "indoor_temp": 20.7,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 15.6,
+    "outdoor_humidity": 72.0,
+    "wind_speed": 0.0,
+    "wind_direction": 200.0,
+    "pressure": 1023.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 300.0,
+    "power_usage": 480.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "06:59 PM",
     "moonset": "09:31 AM"
   },
-  "metrolink": "Due to a tram fault we are experiencing a minor delay towards Altrincham. We apologise for any inconvenience this may cause",
+  "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will run via Piccadilly Gardens & Piccadilly. Eccles service will operate to Deansgate Ashton service will operate to Piccadilly. See TfGM.com",
   "headlines": [
     "HMRC vowed to break up with Capgemini then paid it another £4.2B",
     "Open source datacenters and open source thinking will undo self-inflicted DC damage",
     "Certainties in life: Death, taxes, and critical Citrix vulns under attack",
     "Techie assumed boss knew what they were talking about and killed Exchange by deleting data"
   ],
-  "crew_quote": "\"Blimey, it’s so overcast outside, I could swear the sun's gone on a permanent holiday! Time for a curry to warm up this gloomy day, eh?\""
+  "crew_quote": "\"Look at that, 20.7°C indoors and it's still overcast outside — must be time for a curry! Nothing like a good vindaloo to brighten up a miserable day!\""
 }
