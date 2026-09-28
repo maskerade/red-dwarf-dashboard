@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-28T16:01:23.803072+00:00",
+  "timestamp": "2026-09-28T16:32:24.378320+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 16.3,
-    "outdoor_humidity": 65.0,
+    "outdoor_temp": 15.4,
+    "outdoor_humidity": 66.0,
     "wind_speed": 0.0,
-    "wind_direction": 298.0,
+    "wind_direction": 271.0,
     "pressure": 1022.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 424.0,
+    "power_usage": 531.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Microsoft tells nonprofits their deleted M365 data isn't coming back",
     "Ex-soldier's telecom hacking spree earns him 70 months"
   ],
-  "crew_quote": "\"Well, if Europe wants to rely on someone else's supply chain to get things sorted, they might as well ask me for a curry while they're at it—it's about as reliable as their AI!\""
+  "crew_quote": "\"16°C and sunny? That’s just perfect for a pint, a curry, and a good old game of cards. Who cares about AI when you’ve got that?\""
 }
