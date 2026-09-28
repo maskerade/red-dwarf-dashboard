@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-28T09:18:16.372333+00:00",
+  "timestamp": "2026-09-28T09:49:17.186746+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 20.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 12.3,
-    "outdoor_humidity": 90.0,
-    "wind_speed": 0.0,
-    "wind_direction": 180.0,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 0.7,
+    "wind_direction": 231.0,
     "pressure": 1023.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 407.0,
+    "power_usage": 396.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Certainties in life: Death, taxes, and critical Citrix vulns under attack",
     "Techie assumed boss knew what they were talking about and killed Exchange by deleting data"
   ],
-  "crew_quote": "\"Blimey, it’s as muggy as a curry fest in here! If we crank up the heat much more, we might as well cook the ship for dinner!\""
+  "crew_quote": "\"Blimey, it’s as dull outside as a day in a curry-free zone! At least in here it’s a toasty 20.2°C — just enough to keep the existential dread at bay!\""
 }
