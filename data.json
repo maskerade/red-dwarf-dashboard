@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-28T02:35:09.491756+00:00",
+  "timestamp": "2026-09-28T03:06:10.400638+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 8.0,
+    "outdoor_temp": 7.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 133.0,
-    "pressure": 1020.3,
+    "pressure": 1020.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 306.0,
+    "power_usage": 345.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -22,17 +22,17 @@
         {
           "date": "2026-09-28",
           "max": 16.0,
-          "min": 8.0
+          "min": 9.0
         },
         {
           "date": "2026-09-29",
-          "max": 19.0,
-          "min": 9.0
+          "max": 21.0,
+          "min": 10.0
         },
         {
           "date": "2026-09-30",
           "max": 20.0,
-          "min": 12.0
+          "min": 11.0
         }
       ]
     },
@@ -43,12 +43,12 @@
         {
           "date": "2026-09-28",
           "max": 17.0,
-          "min": 9.0
+          "min": 10.0
         },
         {
           "date": "2026-09-29",
-          "max": 21.0,
-          "min": 9.0
+          "max": 22.0,
+          "min": 10.0
         },
         {
           "date": "2026-09-30",
@@ -64,16 +64,16 @@
         {
           "date": "2026-09-28",
           "max": 16.0,
-          "min": 7.0
+          "min": 8.0
         },
         {
           "date": "2026-09-29",
-          "max": 18.0,
+          "max": 20.0,
           "min": 7.0
         },
         {
           "date": "2026-09-30",
-          "max": 18.0,
+          "max": 19.0,
           "min": 10.0
         }
       ]
@@ -94,5 +94,5 @@
     "Big AI's content problem: Take the work, keep the money",
     "How Samsung turned months of inactivity into a very attention-seeking smartphone"
   ],
-  "crew_quote": "\"Looks like it's a bit dreary outside, but at least the curry's piping hot in here—perfect for a night in, eh? Just don’t ask me to order a drone delivery, I’d rather walk!\""
+  "crew_quote": "\"Blimey, if it gets any chillier, I might just have to cook a curry to warm this ship up - nothing like a good Jalfrezi to spice up an overcast day!\""
 }
