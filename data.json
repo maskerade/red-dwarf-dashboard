@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-28T21:11:28.151354+00:00",
+  "timestamp": "2026-09-28T21:42:29.972452+00:00",
   "house": {
     "indoor_temp": 20.3,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 11.2,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 11.0,
     "outdoor_humidity": 81.0,
-    "wind_speed": 2.2,
-    "wind_direction": 335.0,
-    "pressure": 1023.4,
+    "wind_speed": 0.0,
+    "wind_direction": 339.0,
+    "pressure": 1023.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 505.0,
+    "power_usage": 502.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 12.0,
-      "conditions": "Overcast ",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-09-28",
@@ -94,5 +94,5 @@
     "Microsoft's Copilot super app comes with a meter attached",
     "Dutch government turns to NixOS for a sovereign desktop"
   ],
-  "crew_quote": "\"Oi, with the weather clear in Llandudno and a comfy twenty degrees inside, I reckon I could whip up a curry and take a right lazy day, mate!\""
+  "crew_quote": "\"Blimey, with the weather at 12 degrees, I could almost fancy a curry, but not if it means paying for the same file twice — that’d just be a total disaster, innit?\""
 }
