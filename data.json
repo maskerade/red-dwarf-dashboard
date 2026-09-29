@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T12:10:43.281960+00:00",
+  "timestamp": "2026-09-29T12:41:44.261684+00:00",
   "house": {
-    "indoor_temp": 19.9,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 18.1,
-    "outdoor_humidity": 89.0,
-    "wind_speed": 1.4,
-    "wind_direction": 295.0,
-    "pressure": 1015.4,
+    "indoor_temp": 20.0,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 18.7,
+    "outdoor_humidity": 87.0,
+    "wind_speed": 3.6,
+    "wind_direction": 285.0,
+    "pressure": 1014.9,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 396.0,
+    "power_usage": 387.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
+    "Investors are pricing in a 32.6% AI productivity boost for software engineers",
     "Starship finally makes orbit but engine trouble cuts the victory lap short",
     "Former X-Force hackers chase the offensive cyber gold rush",
-    "Healthcare campaigners turn up the heat on Palantir at Labour conference",
-    "Dutch police arrest 'security pro' in ShinyHunters probe"
+    "Healthcare campaigners turn up the heat on Palantir at Labour conference"
   ],
-  "crew_quote": "\"Well, Altrincham's got a nice, balmy 15 degrees, but I'd take a dodgy curry and a pint over this cloudy nonsense any day!\""
+  "crew_quote": "\"With temperatures in Llandudno cooler than my love life, I reckon those investors better be ready for an AI boost — if only to help me find a proper curry for dinner!\""
 }
