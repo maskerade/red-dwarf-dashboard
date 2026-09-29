@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T19:24:50.728056+00:00",
+  "timestamp": "2026-09-29T19:55:52.776728+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 21.1,
-    "outdoor_humidity": 81.0,
-    "wind_speed": 0.7,
-    "wind_direction": 275.0,
-    "pressure": 1010.6,
+    "outdoor_temp": 21.0,
+    "outdoor_humidity": 82.0,
+    "wind_speed": 0.0,
+    "wind_direction": 286.0,
+    "pressure": 1010.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 739.0,
+    "power_usage": 559.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
-    "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services",
-    "Open source tool distills Jev so you can run it locally",
-    "Boeing's Calamity Capsule gets another shot at the ISS taxi business",
-    "Microsoft sends PDFs to strange new worlds instead of SharePoint"
+    "Zuckerberg touts enterprise AI push because Meta would never do anything to damage your reputation",
+    "Close the observability gap with agentic observability",
+    "AMD's 192 GB Gorgon Halo prices might leave you petrified",
+    "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services"
   ],
-  "crew_quote": "\"21 degrees and overcast? Perfect weather for a curry, but with patchy rain nearby, I might just end up soaked and sulking with my takeout!\""
+  "crew_quote": "\"Ah, it's a lovely 21°C out there, perfect for a stroll... or a curry! Just watch out for that patchy rain—might ruin my hair!\""
 }
