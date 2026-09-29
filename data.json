@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T00:48:33.095688+00:00",
+  "timestamp": "2026-09-29T01:19:32.216959+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 11.4,
-    "outdoor_humidity": 90.0,
-    "wind_speed": 0.4,
-    "wind_direction": 319.0,
+    "outdoor_temp": 11.1,
+    "outdoor_humidity": 92.0,
+    "wind_speed": 2.2,
+    "wind_direction": 300.0,
     "pressure": 1022.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 325.0,
+    "power_usage": 314.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
     "OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns"
   ],
-  "crew_quote": "\"Blimey, with it being 20 degrees in here, I could whip up a curry that makes the heat outside feel like a cold shower — just need a few more cans of lager!\""
+  "crew_quote": "\"With all this clear weather, I reckon we could cook a proper curry in just the right humidity—if only we could find a chicken that lasts longer than my last job!\""
 }
