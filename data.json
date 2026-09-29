@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T07:00:57.103824+00:00",
+  "timestamp": "2026-09-29T07:31:38.882347+00:00",
   "house": {
     "indoor_temp": 19.5,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 14.3,
-    "outdoor_humidity": 93.0,
-    "wind_speed": 2.2,
-    "wind_direction": 323.0,
+    "outdoor_temp": 14.6,
+    "outdoor_humidity": 92.0,
+    "wind_speed": 1.4,
+    "wind_direction": 332.0,
     "pressure": 1018.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 292.0,
+    "power_usage": 320.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI’s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon",
     "AMD bets $8.2B that worlds matter more than words in AI"
   ],
-  "crew_quote": "\"You know, with the weather outside being so drab, I think I'll just stay in and whip up a nice curry. Nothing like a good meal to cheer up a damp day!\""
+  "crew_quote": "\"You know, with it being overcast and a bit rainy, it’s the perfect weather to crack open a curry and watch some old video clips of me being fabulous!\""
 }
