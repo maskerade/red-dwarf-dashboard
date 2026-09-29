@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T08:33:40.979077+00:00",
+  "timestamp": "2026-09-29T09:04:39.485762+00:00",
   "house": {
-    "indoor_temp": 19.6,
+    "indoor_temp": 19.7,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 15.8,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 4.3,
-    "wind_direction": 261.0,
-    "pressure": 1018.0,
+    "outdoor_temp": 16.3,
+    "outdoor_humidity": 90.0,
+    "wind_speed": 5.0,
+    "wind_direction": 327.0,
+    "pressure": 1017.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 413.0,
+    "power_usage": 340.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Fresh CSS constructs move web design beyond ticky-tacky little boxes",
     "Google ending ChromeOS support two years early"
   ],
-  "crew_quote": "\"Unbelievable! It's so overcast outside, I could swear the weather's trying to outdo the state of my curry last night—thick and murky!\""
+  "crew_quote": "\"Blimey, even the weather's as confused as the HMRC — overcast and wondering which file’s the real curry recipe!\""
 }
