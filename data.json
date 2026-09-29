@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T16:18:47.230086+00:00",
+  "timestamp": "2026-09-29T16:49:48.527890+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 19.9,
-    "outdoor_humidity": 86.0,
-    "wind_speed": 2.9,
-    "wind_direction": 324.0,
-    "pressure": 1011.3,
+    "outdoor_temp": 20.7,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 2.5,
+    "wind_direction": 317.0,
+    "pressure": 1010.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 379.0,
+    "power_usage": 474.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
+    "Microsoft sends PDFs to strange new worlds instead of SharePoint",
     "AI models keep posting screenshots showing sensitive data from inside tech companies",
     "Schneider gives datacenter switchgear the software-defined treatment",
-    "Apple patches CoreGraphics zero-day already exploited in targeted attacks",
-    "OpenAI benches GPT-6.1 Astra for overstepping the mark"
+    "Apple patches CoreGraphics zero-day already exploited in targeted attacks"
   ],
-  "crew_quote": "\"Ah, 24°C and partly cloudy? Perfect weather for a curry and a nap—just what I need before I have to explain to Rimmer why he shouldn't try to power the ship with tech company gossip!\""
+  "crew_quote": "\"With the weather all over the place like a bad curry, I reckon we should just stay indoors and forget about those PDFs—unless they’re curries too!\""
 }
