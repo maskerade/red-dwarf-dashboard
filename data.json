@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T22:30:53.755240+00:00",
+  "timestamp": "2026-09-29T23:01:55.819591+00:00",
   "house": {
     "indoor_temp": 20.5,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 20.4,
+    "outdoor_temp": 20.5,
     "outdoor_humidity": 84.0,
-    "wind_speed": 7.2,
-    "wind_direction": 286.0,
+    "wind_speed": 1.1,
+    "wind_direction": 277.0,
     "pressure": 1008.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 559.0,
+    "power_usage": 531.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Trump launches America.gov with AI chatbots at its core",
     "FBI to ShinyHunters: 'We know how to find you'"
   ],
-  "crew_quote": "\"Looks like it’s a perfect day for a cuppa and a curry, what with the weather being as confused as Rimmer’s love life—patchy rain and humidity!”"
+  "crew_quote": "\"With all this patchy rain around, I reckon it's the perfect excuse for a curry night in! Just hope the power doesn't go out—can't have my spicy goodness ruined!\""
 }
