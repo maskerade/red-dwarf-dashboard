@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T23:01:55.819591+00:00",
+  "timestamp": "2026-09-29T23:32:55.280207+00:00",
   "house": {
     "indoor_temp": 20.5,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 20.5,
-    "outdoor_humidity": 84.0,
+    "outdoor_temp": 20.4,
+    "outdoor_humidity": 85.0,
     "wind_speed": 1.1,
-    "wind_direction": 277.0,
-    "pressure": 1008.6,
+    "wind_direction": 305.0,
+    "pressure": 1008.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 531.0,
+    "power_usage": 511.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Trump launches America.gov with AI chatbots at its core",
     "FBI to ShinyHunters: 'We know how to find you'"
   ],
-  "crew_quote": "\"With all this patchy rain around, I reckon it's the perfect excuse for a curry night in! Just hope the power doesn't go out—can't have my spicy goodness ruined!\""
+  "crew_quote": "\"Oi, if it’s patchy rain outside and the power’s up, does that mean my curry's gonna cook better indoors? A perfect blend of humidity and spice, just like me!\""
 }
