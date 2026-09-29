@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T14:45:45.920277+00:00",
+  "timestamp": "2026-09-29T15:16:46.814680+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.3,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 19.7,
+    "outdoor_temp": 19.9,
     "outdoor_humidity": 84.0,
-    "wind_speed": 5.0,
-    "wind_direction": 266.0,
-    "pressure": 1012.8,
+    "wind_speed": 2.9,
+    "wind_direction": 300.0,
+    "pressure": 1012.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 427.0,
+    "power_usage": 410.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
+    "Schneider gives datacenter switchgear the software-defined treatment",
     "Apple patches CoreGraphics zero-day already exploited in targeted attacks",
     "OpenAI benches GPT-6.1 Astra for overstepping the mark",
-    "Leaked IPO docs: Anthropic tempts investors with existential risk warning",
-    "Investors are pricing in a 32.6% AI productivity boost for software engineers"
+    "Leaked IPO docs: Anthropic tempts investors with existential risk warning"
   ],
-  "crew_quote": "\"Ah, it’s a lovely 22 degrees outside, just perfect for a pint and a curry—if only the weather matched my fabulousness, but that’s a tall order, even for the universe!\""
+  "crew_quote": "\"Ah, perfect weather for a nice curry, don't you reckon? Just enough humidity to remind you why you definitely should have brought a towel!\""
 }
