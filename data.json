@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T13:12:44.954688+00:00",
+  "timestamp": "2026-09-29T13:43:45.029046+00:00",
   "house": {
     "indoor_temp": 20.1,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 18.8,
-    "outdoor_humidity": 86.0,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 19.2,
+    "outdoor_humidity": 85.0,
     "wind_speed": 6.1,
-    "wind_direction": 317.0,
-    "pressure": 1013.8,
+    "wind_direction": 293.0,
+    "pressure": 1013.3,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 424.0,
+    "power_usage": 401.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
+    "OpenAI benches GPT-6.1 Astra for overstepping the mark",
     "Leaked IPO docs: Anthropic tempts investors with existential risk warning",
     "Investors are pricing in a 32.6% AI productivity boost for software engineers",
-    "Starship finally makes orbit but engine trouble cuts the victory lap short",
-    "Former X-Force hackers chase the offensive cyber gold rush"
+    "Starship finally makes orbit but engine trouble cuts the victory lap short"
   ],
-  "crew_quote": "\"It's a bit damp out there, isn't it? Not even my best aftershave can compete with patchy rain, but at least I’m still looking good inside this 20.1°C paradise!\""
+  "crew_quote": "\"With this lovely 20°C overcast weather, it’s the perfect excuse to whip up a curry and pretend we’re not stuck on a floating tin can!\""
 }
