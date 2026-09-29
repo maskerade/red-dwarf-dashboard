@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T17:51:49.365907+00:00",
+  "timestamp": "2026-09-29T18:22:50.128116+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.2,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 20.8,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 3.6,
-    "wind_direction": 323.0,
-    "pressure": 1010.7,
+    "outdoor_temp": 20.4,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 1.1,
+    "wind_direction": 18.0,
+    "pressure": 1011.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 415.0,
+    "power_usage": 522.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Microsoft sends PDFs to strange new worlds instead of SharePoint",
     "AI models keep posting screenshots showing sensitive data from inside tech companies"
   ],
-  "crew_quote": "\"Looks like it’s a perfect day for a curry, but with all this overcast, I’d just end up getting drenched on the way to the takeaway. Typical!\""
+  "crew_quote": "\"Right, so it’s 20.2 degrees inside, perfect for a curry night! Just don’t open the windows; we’ll end up with that patchy rain ruining the atmosphere!\""
 }
