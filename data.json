@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-28T23:46:32.366176+00:00",
+  "timestamp": "2026-09-29T00:17:31.144999+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 8.9,
+    "outdoor_temp": 10.9,
     "outdoor_humidity": 91.0,
-    "wind_speed": 0.0,
-    "wind_direction": 332.0,
-    "pressure": 1022.3,
+    "wind_speed": 0.4,
+    "wind_direction": 316.0,
+    "pressure": 1022.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 559.0,
+    "power_usage": 359.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
     "OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns"
   ],
-  "crew_quote": "\"Blimey, it's a lovely 11 degrees out there — perfect for a curry on the ship! Just don’t ask me to cook it; I’ll leave the sous-vide to the fancy AI!\""
+  "crew_quote": "\"Clear skies and 11 degrees, eh? Perfect for a curry on the beach—just like we did on that holiday where I accidentally sunburned my backside!\""
 }
