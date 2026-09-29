@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T01:50:33.123058+00:00",
+  "timestamp": "2026-09-29T02:21:33.217296+00:00",
   "house": {
-    "indoor_temp": 19.9,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 10.7,
-    "outdoor_humidity": 93.0,
+    "indoor_temp": 19.8,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 9.2,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
     "wind_direction": 304.0,
-    "pressure": 1022.1,
+    "pressure": 1021.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 359.0,
+    "power_usage": 342.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -43,11 +43,11 @@
         {
           "date": "2026-09-29",
           "max": 24.0,
-          "min": 10.0
+          "min": 11.0
         },
         {
           "date": "2026-09-30",
-          "max": 22.0,
+          "max": 21.0,
           "min": 14.0
         },
         {
@@ -58,13 +58,13 @@
       ]
     },
     "llandudno": {
-      "temp": 8.0,
+      "temp": 7.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-29",
-          "max": 22.0,
-          "min": 8.0
+          "max": 21.0,
+          "min": 7.0
         },
         {
           "date": "2026-09-30",
@@ -94,5 +94,5 @@
     "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
     "OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns"
   ],
-  "crew_quote": "\"Well, I’m glad it’s clear out there—perfect for a nice pint and a curry! Can't believe I’m stuck in this ship while the weather's like that!\""
+  "crew_quote": "\"11 degrees? That's brisk enough for a curry! Just don't let it cloud my judgement; I'd rather invest in a good vindaloo than AMD's AI nonsense!\""
 }
