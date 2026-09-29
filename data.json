@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-29T03:23:34.361573+00:00",
+  "timestamp": "2026-09-29T03:54:35.407311+00:00",
   "house": {
     "indoor_temp": 19.7,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 8.7,
-    "outdoor_humidity": 98.0,
-    "wind_speed": 0.0,
-    "wind_direction": 304.0,
-    "pressure": 1020.8,
+    "outdoor_temp": 10.6,
+    "outdoor_humidity": 99.0,
+    "wind_speed": 2.5,
+    "wind_direction": 312.0,
+    "pressure": 1020.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 314.0,
+    "power_usage": 317.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 11.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-29",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 11.0,
-      "conditions": "Clear ",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-09-29",
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will run via Piccadilly Gardens & Piccadilly. Eccles service will operate to Deansgate Ashton service will operate to Piccadilly. See TfGM.com",
   "headlines": [
+    "OpenAI’s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon",
     "AMD bets $8.2B that worlds matter more than words in AI",
     "AWS needs to embrace its place as the Home Depot of AI infrastructure",
-    "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
-    "OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns"
+    "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources"
   ],
-  "crew_quote": "\"With weather like this, I'm almost tempted to put on a nice curry and enjoy the clear skies—though I’d still prefer to be back in me own bed, mate!\""
+  "crew_quote": "\"Blimey, it’s nearly warmer outside at 11°C than it is in here! At least the mist might cover up the smell of last night's curry!\""
 }
