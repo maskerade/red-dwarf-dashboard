@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-29T03:54:35.407311+00:00",
+  "timestamp": "2026-09-29T04:25:36.038689+00:00",
   "house": {
-    "indoor_temp": 19.7,
+    "indoor_temp": 19.6,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 10.6,
-    "outdoor_humidity": 99.0,
-    "wind_speed": 2.5,
-    "wind_direction": 312.0,
-    "pressure": 1020.4,
+    "outdoor_temp": 12.6,
+    "outdoor_humidity": 96.0,
+    "wind_speed": 0.0,
+    "wind_direction": 327.0,
+    "pressure": 1019.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 317.0,
+    "power_usage": 337.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AWS needs to embrace its place as the Home Depot of AI infrastructure",
     "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources"
   ],
-  "crew_quote": "\"Blimey, it’s nearly warmer outside at 11°C than it is in here! At least the mist might cover up the smell of last night's curry!\""
+  "crew_quote": "\"Blimey, it’s misty out there—reminds me of that curry I had last week, thick and cloudy, just like my chances of finding a proper pint around here!\""
 }
