@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T18:09:13.871545+00:00",
+  "timestamp": "2026-09-30T18:40:13.619152+00:00",
   "house": {
     "indoor_temp": 21.1,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 15.8,
-    "outdoor_humidity": 83.0,
+    "outdoor_temp": 15.2,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 74.0,
-    "pressure": 1013.8,
+    "wind_direction": 88.0,
+    "pressure": 1013.9,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 615.0,
+    "power_usage": 491.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,8 +20,8 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-09-30",
@@ -41,8 +41,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Sunny",
+      "temp": 13.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-30",
@@ -77,5 +77,5 @@
     "AI market needs to make $6 trillion a year by 2031 to fund its infrastructure habit",
     "Ex-NCA officer who worked on Silk Road operation ordered to repay £1.8M for stealing seized Bitcoin"
   ],
-  "crew_quote": "\"With the weather so nice, I could really do with a curry on the beach, not stuck in this ship! But hey, at least I’ve got 21.1°C of beautiful indoor warmth!\""
+  "crew_quote": "\"Ah, 21.1 degrees indoors—perfect curry weather! If only they made a Super Intelligence to serve it, I might finally get a decent vindaloo instead of these weird AI avatars!\""
 }
