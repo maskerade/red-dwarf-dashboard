@@ -1,40 +1,23 @@
 {
-  "timestamp": "2026-09-30T11:26:07.921167+00:00",
+  "timestamp": "2026-09-30T11:57:07.811929+00:00",
   "house": {
-    "indoor_temp": 21.6,
+    "indoor_temp": 21.3,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 18.4,
-    "outdoor_humidity": 81.0,
+    "outdoor_temp": 19.0,
+    "outdoor_humidity": 78.0,
     "wind_speed": 0.7,
-    "wind_direction": 354.0,
+    "wind_direction": 246.0,
     "pressure": 1011.1,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 415.0,
+    "power_usage": 328.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
-      "conditions": "Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-09-30",
-          "max": 20.0,
-          "min": 13.0
-        },
-        {
-          "date": "2026-10-01",
-          "max": 17.0,
-          "min": 10.0
-        },
-        {
-          "date": "2026-10-02",
-          "max": 19.0,
-          "min": 10.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
       "temp": 19.0,
@@ -80,19 +63,19 @@
     }
   },
   "astronomy": {
-    "sunrise": "07:09 AM",
-    "sunset": "06:48 PM",
+    "sunrise": "07:06 AM",
+    "sunset": "06:46 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "87",
-    "moonrise": "07:44 PM",
-    "moonset": "12:32 PM"
+    "moonrise": "07:45 PM",
+    "moonset": "12:26 PM"
   },
   "metrolink": "Due to an earlier tram fault we are experiencing a delay on the Eccles Altrincham East Didsbury Trafford Centre & Manchester Airport lines. We apologise for any inconvenience this may cause",
   "headlines": [
+    "Drunk Van Halen fan called Microsoft support and demanded to speak to Gates",
     "America is planning more AI datacenters than its chip supply can fill",
     "More than half of UK businesses lack confidence in basic cyber skills",
-    "KDE turns 30 with Plasma 6.8, but the X11 session isn't invited",
-    "UK rail cops' £320K face-scanning spree nets zero matches"
+    "KDE turns 30 with Plasma 6.8, but the X11 session isn't invited"
   ],
-  "crew_quote": "\"Oi, with this humidity, I'm starting to think my curry's going to turn into a soup before I even get to eat it—good thing the sunshine in Overseal's got some charm!\""
+  "crew_quote": "\"Oi, if it’s sunny out there and we’re using 328 kWh just to keep the light on, we might as well open the windows and start the curry party!\""
 }
