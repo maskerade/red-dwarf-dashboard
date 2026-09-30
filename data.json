@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-30T15:34:11.127701+00:00",
+  "timestamp": "2026-09-30T16:05:12.770151+00:00",
   "house": {
     "indoor_temp": 21.1,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 20.0,
-    "outdoor_humidity": 66.0,
-    "wind_speed": 1.4,
-    "wind_direction": 92.0,
-    "pressure": 1011.8,
+    "outdoor_temp": 19.6,
+    "outdoor_humidity": 67.0,
+    "wind_speed": 1.1,
+    "wind_direction": 60.0,
+    "pressure": 1012.1,
     "rain_today": 3.1,
     "uv_index": 0.0,
     "power_usage": 415.0,
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will run via Piccadilly Gardens & Piccadilly. Eccles service will operate to Deansgate Ashton service will operate to Piccadilly. See TfGM.com",
   "headlines": [
+    "AI market needs to make $6 trillion a year by 2031 to fund its infrastructure habit",
     "Ex-NCA officer who worked on Silk Road operation ordered to repay £1.8M for stealing seized Bitcoin",
     "Where does your AI data actually live?",
-    "OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian",
-    "Firefox 157: Could bold new look be just what Mozilla needs?*"
+    "OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian"
   ],
-  "crew_quote": "\"Oi, it’s so nice and sunny out, makes me want to have a pint and a curry! Maybe even decide to invest in some Bitcoin—oh wait, I don’t have £1.8M!\""
+  "crew_quote": "\"Oi, with this weather, I could whip up a curry and pretend I’m on holiday, but knowing my luck, it'll be raining Bitcoin by dinner!\""
 }
