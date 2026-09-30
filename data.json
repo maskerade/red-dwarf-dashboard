@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-09-29T23:32:55.280207+00:00",
+  "timestamp": "2026-09-30T00:03:55.641401+00:00",
   "house": {
     "indoor_temp": 20.5,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 20.4,
-    "outdoor_humidity": 85.0,
-    "wind_speed": 1.1,
-    "wind_direction": 305.0,
-    "pressure": 1008.2,
+    "outdoor_temp": 20.2,
+    "outdoor_humidity": 87.0,
+    "wind_speed": 0.0,
+    "wind_direction": 312.0,
+    "pressure": 1008.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 511.0,
+    "power_usage": 376.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 19.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 18.0,
+      "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-09-29",
-          "max": 22.0,
-          "min": 11.0
-        },
         {
           "date": "2026-09-30",
           "max": 20.0,
@@ -33,18 +28,18 @@
           "date": "2026-10-01",
           "max": 17.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-10-02",
+          "max": 19.0,
+          "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 20.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 18.0,
+      "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-09-29",
-          "max": 24.0,
-          "min": 10.0
-        },
         {
           "date": "2026-09-30",
           "max": 21.0,
@@ -54,18 +49,18 @@
           "date": "2026-10-01",
           "max": 19.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-10-02",
+          "max": 20.0,
+          "min": 10.0
         }
       ]
     },
     "llandudno": {
-      "temp": 19.0,
+      "temp": 17.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-09-29",
-          "max": 22.0,
-          "min": 7.0
-        },
         {
           "date": "2026-09-30",
           "max": 19.0,
@@ -75,17 +70,22 @@
           "date": "2026-10-01",
           "max": 16.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-10-02",
+          "max": 16.0,
+          "min": 9.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:07 AM",
-    "sunset": "06:51 PM",
+    "sunrise": "07:09 AM",
+    "sunset": "06:48 PM",
     "moon_phase": "Waning Gibbous",
-    "moon_illumination": "93",
-    "moonrise": "07:17 PM",
-    "moonset": "11:01 AM"
+    "moon_illumination": "87",
+    "moonrise": "07:44 PM",
+    "moonset": "12:32 PM"
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
@@ -94,5 +94,5 @@
     "Trump launches America.gov with AI chatbots at its core",
     "FBI to ShinyHunters: 'We know how to find you'"
   ],
-  "crew_quote": "\"Oi, if it’s patchy rain outside and the power’s up, does that mean my curry's gonna cook better indoors? A perfect blend of humidity and spice, just like me!\""
+  "crew_quote": "\"Well, with the weather just like my hair—overcast and a bit damp—it's a perfect day for a curry and a nice chat about AI trying to replicate itself. Brilliant!\""
 }
