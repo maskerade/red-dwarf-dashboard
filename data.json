@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T00:03:55.641401+00:00",
+  "timestamp": "2026-09-30T00:34:56.744688+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.4,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 20.2,
+    "outdoor_temp": 20.3,
     "outdoor_humidity": 87.0,
-    "wind_speed": 0.0,
-    "wind_direction": 312.0,
-    "pressure": 1008.1,
+    "wind_speed": 4.7,
+    "wind_direction": 290.0,
+    "pressure": 1007.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 376.0,
+    "power_usage": 337.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Trump launches America.gov with AI chatbots at its core",
     "FBI to ShinyHunters: 'We know how to find you'"
   ],
-  "crew_quote": "\"Well, with the weather just like my hair—overcast and a bit damp—it's a perfect day for a curry and a nice chat about AI trying to replicate itself. Brilliant!\""
+  "crew_quote": "\"Honestly, with all this patchy rain, it's the perfect excuse to stay inside, blast the heating to 20.4, and whip up a proper curry — no self-replicating prompts in my kitchen!\""
 }
