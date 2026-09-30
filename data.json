@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T03:09:59.058850+00:00",
+  "timestamp": "2026-09-30T03:41:00.032574+00:00",
   "house": {
     "indoor_temp": 20.4,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 19.2,
-    "outdoor_humidity": 95.0,
-    "wind_speed": 0.7,
-    "wind_direction": 300.0,
-    "pressure": 1006.6,
+    "outdoor_temp": 19.0,
+    "outdoor_humidity": 94.0,
+    "wind_speed": 0.0,
+    "wind_direction": 324.0,
+    "pressure": 1006.4,
     "rain_today": 0.3,
     "uv_index": 0.0,
-    "power_usage": 300.0,
+    "power_usage": 323.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI tries disarming AI angst with cute graphics and always-on agents",
     "Trump launches America.gov with AI chatbots at its core"
   ],
-  "crew_quote": "\"With all this drizzle and overcast, even the weather’s not keen on a bright future. Maybe I’ll just order a curry and pretend it’s sunny somewhere!\""
+  "crew_quote": "\"Oi, with all this drizzle and overcast skies, I could really go for a curry — nothing like a bit of spice to warm up a gloomy day, right?\""
 }
