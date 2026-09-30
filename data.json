@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T01:05:56.660376+00:00",
+  "timestamp": "2026-09-30T01:36:57.834857+00:00",
   "house": {
-    "indoor_temp": 20.4,
-    "indoor_humidity": 65.0,
-    "outdoor_temp": 20.5,
+    "indoor_temp": 20.5,
+    "indoor_humidity": 64.0,
+    "outdoor_temp": 20.4,
     "outdoor_humidity": 88.0,
-    "wind_speed": 3.6,
-    "wind_direction": 295.0,
-    "pressure": 1007.4,
+    "wind_speed": 1.1,
+    "wind_direction": 318.0,
+    "pressure": 1006.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 309.0,
+    "power_usage": 295.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 17.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-09-30",
@@ -94,5 +94,5 @@
     "Trump launches America.gov with AI chatbots at its core",
     "FBI to ShinyHunters: 'We know how to find you'"
   ],
-  "crew_quote": "\"Blimey, with the weather being all over the place, I reckon we should whip up a curry and wait for the rain to do its thing—just like those self-replicating AI worries, it never stops!\""
+  "crew_quote": "\"With all this drizzle, I reckon my curry's going to need an extra kick just to stand out in a room as gloomy as this weather. A bit of spice never hurt anyone, right?\""
 }
