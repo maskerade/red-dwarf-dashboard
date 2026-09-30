@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-30T10:24:07.233745+00:00",
+  "timestamp": "2026-09-30T10:55:08.382856+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 21.2,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 16.9,
-    "outdoor_humidity": 92.0,
-    "wind_speed": 0.0,
-    "wind_direction": 339.0,
-    "pressure": 1010.4,
+    "outdoor_temp": 17.4,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 1.1,
+    "wind_direction": 277.0,
+    "pressure": 1010.5,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 334.0,
+    "power_usage": 466.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": 17.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-09-30",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 18.0,
-      "conditions": "Light rain shower",
+      "temp": 19.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-09-30",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -87,12 +87,12 @@
     "moonrise": "07:44 PM",
     "moonset": "12:32 PM"
   },
-  "metrolink": "Due to an earlier tram fault at Altrincham we are currently experiencing minor delays on the Altrincham - Bury service. We apologise for any inconvenience.",
+  "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will run via Piccadilly Gardens & Piccadilly. Eccles service will operate to Deansgate Ashton service will operate to Piccadilly. See TfGM.com",
   "headlines": [
+    "America is planning more AI datacenters than its chip supply can fill",
+    "More than half of UK businesses lack confidence in basic cyber skills",
     "KDE turns 30 with Plasma 6.8, but the X11 session isn't invited",
-    "UK rail cops' £320K face-scanning spree nets zero matches",
-    "Spectre bug is back, this time to haunt JIT engines",
-    "Airbus gets a new freighter – and its giant door – into the air for the first time"
+    "UK rail cops' £320K face-scanning spree nets zero matches"
   ],
-  "crew_quote": "\"Right, so it's raining in Overseal, but here we are, basking in 21 degrees — perfect curry weather! You lot ever thought about making it a bit sunnier on the ship?\""
+  "crew_quote": "\"Bitterly disappointing, really; it’s 19 degrees and sunny in Overseal while I’m stuck in here with 21 and a whiff of curry! Where's the justice in that, eh?\""
 }
