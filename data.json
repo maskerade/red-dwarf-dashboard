@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T08:20:05.012004+00:00",
+  "timestamp": "2026-09-30T08:51:06.671507+00:00",
   "house": {
-    "indoor_temp": 20.3,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 15.2,
+    "indoor_temp": 20.4,
+    "indoor_humidity": 65.0,
+    "outdoor_temp": 15.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 150.0,
-    "pressure": 1009.4,
-    "rain_today": 1.8,
+    "wind_direction": 334.0,
+    "pressure": 1009.6,
+    "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 514.0,
+    "power_usage": 399.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "07:44 PM",
     "moonset": "12:32 PM"
   },
-  "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
+  "metrolink": "Due to an earlier tram fault at Altrincham we are currently experiencing minor delays on the Altrincham line. We apologise for any inconvenience.",
   "headlines": [
+    "UK rail cops' £320K face-scanning spree nets zero matches",
     "Spectre bug is back, this time to haunt JIT engines",
     "Airbus gets a new freighter – and its giant door – into the air for the first time",
-    "OpenClaw slips on a suit to evade widespread business bans",
-    "Trump administration gets Big Tech to sign weak, non-binding, AI regulations"
+    "OpenClaw slips on a suit to evade widespread business bans"
   ],
-  "crew_quote": "\"With this patchy rain, I might as well be floating in a damp curry—perfect atmosphere for a good old-fashioned game of 'who can whinge the loudest'!\""
+  "crew_quote": "\"With all this patchy rain, I reckon our power usage could've cooked a curry and still left some extra for a pint. Not that I'd waste it on that face-scanning nonsense!\""
 }
