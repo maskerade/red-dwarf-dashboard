@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T06:16:02.438719+00:00",
+  "timestamp": "2026-09-30T06:47:02.974066+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 17.6,
-    "outdoor_humidity": 96.0,
-    "wind_speed": 0.4,
-    "wind_direction": 335.0,
-    "pressure": 1007.7,
-    "rain_today": 0.8,
+    "outdoor_temp": 16.0,
+    "outdoor_humidity": 98.0,
+    "wind_speed": 0.0,
+    "wind_direction": 233.0,
+    "pressure": 1008.2,
+    "rain_today": 1.5,
     "uv_index": 0.0,
-    "power_usage": 289.0,
+    "power_usage": 323.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI tries disarming AI angst with cute graphics and always-on agents",
     "Trump launches America.gov with AI chatbots at its core"
   ],
-  "crew_quote": "\"Oi, with this light rain and the state of the world, I reckon a proper curry's the only thing keeping us warm—who's up for a takeaway while the AI's busy trying to destroy itself?\""
+  "crew_quote": "\"Well, it's 18 degrees and drizzling, which is perfect curry weather, isn't it? Just a shame the only thing on the menu is more of that AI nonsense!\""
 }
