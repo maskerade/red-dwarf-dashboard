@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T16:36:11.826989+00:00",
+  "timestamp": "2026-09-30T17:07:13.100573+00:00",
   "house": {
     "indoor_temp": 21.1,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 19.1,
-    "outdoor_humidity": 69.0,
+    "outdoor_temp": 18.7,
+    "outdoor_humidity": 73.0,
     "wind_speed": 0.0,
-    "wind_direction": 35.0,
-    "pressure": 1012.3,
+    "wind_direction": 69.0,
+    "pressure": 1013.0,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 432.0,
+    "power_usage": 427.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,8 +20,8 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 22.0,
-      "conditions": "Sunny",
+      "temp": 20.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-09-30",
@@ -41,7 +41,7 @@
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 15.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will run via Piccadilly Gardens & Piccadilly. Eccles service will operate to Deansgate Ashton service will operate to Piccadilly. See TfGM.com",
   "headlines": [
+    "Trump decrees era of 'Super Intelligence' upon us",
+    "Show colleagues how much you care by sending an AI avatar to your Google Meet call",
     "AI market needs to make $6 trillion a year by 2031 to fund its infrastructure habit",
-    "Ex-NCA officer who worked on Silk Road operation ordered to repay £1.8M for stealing seized Bitcoin",
-    "Where does your AI data actually live?",
-    "OpenAI apes AWS Marketplace while Anthropic remains stubbornly Microsoftian"
+    "Ex-NCA officer who worked on Silk Road operation ordered to repay £1.8M for stealing seized Bitcoin"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a curry on a dance floor out there! Maybe the AI market could learn a thing or two about keeping cool while it’s at it!\""
+  "crew_quote": "\"You know, with all this talk of 'Super Intelligence', I can't help but wonder if it means I should finally upgrade my curry recipe for the warm weather!\""
 }
