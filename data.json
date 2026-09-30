@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T11:57:07.811929+00:00",
+  "timestamp": "2026-09-30T12:28:08.377640+00:00",
   "house": {
-    "indoor_temp": 21.3,
-    "indoor_humidity": 65.0,
-    "outdoor_temp": 19.0,
-    "outdoor_humidity": 78.0,
-    "wind_speed": 0.7,
-    "wind_direction": 246.0,
-    "pressure": 1011.1,
+    "indoor_temp": 21.2,
+    "indoor_humidity": 64.0,
+    "outdoor_temp": 19.5,
+    "outdoor_humidity": 72.0,
+    "wind_speed": 3.6,
+    "wind_direction": 76.0,
+    "pressure": 1011.4,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 328.0,
+    "power_usage": 320.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -77,5 +77,5 @@
     "More than half of UK businesses lack confidence in basic cyber skills",
     "KDE turns 30 with Plasma 6.8, but the X11 session isn't invited"
   ],
-  "crew_quote": "\"Oi, if it’s sunny out there and we’re using 328 kWh just to keep the light on, we might as well open the windows and start the curry party!\""
+  "crew_quote": "\"Oi, with it being sunny at 20 degrees, I reckon I’ll have a cold curry on the beach—nothing like a bit of spice while we fry under a glorious sky!\""
 }
