@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T14:01:10.075286+00:00",
+  "timestamp": "2026-09-30T14:32:10.344557+00:00",
   "house": {
     "indoor_temp": 21.1,
-    "indoor_humidity": 65.0,
-    "outdoor_temp": 20.5,
-    "outdoor_humidity": 67.0,
-    "wind_speed": 0.0,
-    "wind_direction": 278.0,
+    "indoor_humidity": 64.0,
+    "outdoor_temp": 20.3,
+    "outdoor_humidity": 65.0,
+    "wind_speed": 0.7,
+    "wind_direction": 298.0,
     "pressure": 1011.9,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 399.0,
+    "power_usage": 396.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "More than half of UK businesses lack confidence in basic cyber skills",
     "KDE turns 30 with Plasma 6.8, but the X11 session isn't invited"
   ],
-  "crew_quote": "\"Well, with the weather so nice, I reckon all we need is a curry and a few cans — the perfect recipe for a day that beats even a drunk Van Halen fan on the phone!\""
+  "crew_quote": "\"Oi, with all this sunny weather, I've got a brilliant idea — let’s cook a curry outside! I mean, who wouldn’t want to set their dinner ablaze and fight off the flies at 21 degrees?\""
 }
