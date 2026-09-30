@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T22:17:16.931049+00:00",
+  "timestamp": "2026-09-30T22:48:17.850145+00:00",
   "house": {
-    "indoor_temp": 21.1,
+    "indoor_temp": 21.0,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 12.8,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 94.0,
     "wind_speed": 0.0,
-    "wind_direction": 306.0,
+    "wind_direction": 307.0,
     "pressure": 1015.4,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 488.0,
+    "power_usage": 500.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Peter Norvig says all aboard for AI coding",
     "16-year-old researcher found a Microsoft bug, got admin access to databases with 17.3 trillion rows"
   ],
-  "crew_quote": "\"Oi, with it being 21.1°C inside, I say we make a proper curry and enjoy the warmth while those cloud-dwellers in Llandudno freeze their flip-flops off!\""
+  "crew_quote": "\"Well, I don’t care what the weather’s like outside, I’m staying in where it’s 21 degrees and the only thing I have to figure out is which curry to order next!\""
 }
