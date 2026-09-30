@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T19:11:15.246685+00:00",
+  "timestamp": "2026-09-30T19:42:15.501729+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 21.0,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 14.9,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 14.5,
+    "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
     "wind_direction": 294.0,
-    "pressure": 1014.2,
+    "pressure": 1014.6,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 2958.0,
+    "power_usage": 668.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "AI market needs to make $6 trillion a year by 2031 to fund its infrastructure habit",
     "Ex-NCA officer who worked on Silk Road operation ordered to repay £1.8M for stealing seized Bitcoin"
   ],
-  "crew_quote": "\"Look at that lovely weather outside—clear skies and a perfect excuse to neglect my duties. Fancy a cheeky curry while pretending to care about 'Super Intelligence'? Right then!\""
+  "crew_quote": "\"Blimey, I thought it was too warm in here for a curry, but with Trump's Super Intelligence, I might just cook one with an AI—now that's what I call progress!\""
 }
