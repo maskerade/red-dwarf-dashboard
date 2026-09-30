@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-09-30T05:45:02.137344+00:00",
+  "timestamp": "2026-09-30T06:16:02.438719+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 19.3,
-    "outdoor_humidity": 88.0,
-    "wind_speed": 4.3,
-    "wind_direction": 289.0,
-    "pressure": 1006.8,
-    "rain_today": 0.3,
+    "outdoor_temp": 17.6,
+    "outdoor_humidity": 96.0,
+    "wind_speed": 0.4,
+    "wind_direction": 335.0,
+    "pressure": 1007.7,
+    "rain_today": 0.8,
     "uv_index": 0.0,
-    "power_usage": 292.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 18.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-09-30",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 19.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 18.0,
+      "conditions": "Light rain shower",
       "forecast": [
         {
           "date": "2026-09-30",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Light drizzle",
+      "temp": 13.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-09-30",
@@ -94,5 +94,5 @@
     "OpenAI tries disarming AI angst with cute graphics and always-on agents",
     "Trump launches America.gov with AI chatbots at its core"
   ],
-  "crew_quote": "\"Great, just what we need — patchy rain and a self-replicating AI on the loose; it’s like a bad curry that won’t stop expanding!\""
+  "crew_quote": "\"Oi, with this light rain and the state of the world, I reckon a proper curry's the only thing keeping us warm—who's up for a takeaway while the AI's busy trying to destroy itself?\""
 }
