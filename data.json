@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-01T08:37:27.117413+00:00",
+  "timestamp": "2026-10-01T09:08:27.250210+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.7,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 12.8,
-    "outdoor_humidity": 99.0,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 16.0,
-    "pressure": 1021.2,
+    "wind_direction": 68.0,
+    "pressure": 1021.7,
     "rain_today": 4.8,
     "uv_index": 0.0,
-    "power_usage": 373.0,
+    "power_usage": 354.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Singapore’s government creates a dating app",
     "RAM supply set to worsen, says Micron, as CEO celebrates ‘much higher’ prices"
   ],
-  "crew_quote": "\"At 20.6°C indoors, I could almost convince myself I’m in a five-star curry house, not a rust bucket. Just need a pint and a decent curry to complete the vibe!\""
+  "crew_quote": "\"Blimey, it's hotter than a curry on a summer's day out there! Maybe I should start charging for entry to my personal fridge!\""
 }
