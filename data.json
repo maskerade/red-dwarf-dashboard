@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-01T06:33:25.143432+00:00",
+  "timestamp": "2026-10-01T07:04:26.008175+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 11.4,
+    "outdoor_temp": 12.0,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
+    "wind_speed": 1.4,
     "wind_direction": 85.0,
-    "pressure": 1019.4,
+    "pressure": 1019.7,
     "rain_today": 4.8,
     "uv_index": 0.0,
-    "power_usage": 351.0,
+    "power_usage": 413.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -41,7 +41,7 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
+      "temp": 9.0,
       "conditions": "Mist",
       "forecast": [
         {
@@ -77,5 +77,5 @@
     "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
     "Hot Dog! America's new chatbot is packed with wieners"
   ],
-  "crew_quote": "\"Blimey, it's so misty in Llandudno that I half expected to see a curry floating by like a ghost — although I wouldn't mind if it was a tikka masala!\""
+  "crew_quote": "\"With this dreary weather, it's the perfect day to whip up a curry and forget about the RAM crisis—hard to believe the only thing lower than the temperature is our supply!\""
 }
