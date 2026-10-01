@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-01T17:55:38.177615+00:00",
+  "timestamp": "2026-10-01T18:26:38.951765+00:00",
   "house": {
     "indoor_temp": 21.4,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 14.8,
-    "outdoor_humidity": 75.0,
+    "outdoor_temp": 14.5,
+    "outdoor_humidity": 76.0,
     "wind_speed": 0.0,
     "wind_direction": 150.0,
-    "pressure": 1026.0,
+    "pressure": 1026.2,
     "rain_today": 4.8,
     "uv_index": 0.0,
-    "power_usage": 626.0,
+    "power_usage": 531.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Microsoft makes Windows settings backup the default in 26H2",
     "Build the right AI factory for your needs: partner for success"
   ],
-  "crew_quote": "\"Weather's looking a bit dreary, but don't worry! Just whip up a nice curry, and it'll be a perfect night for some overcast snuggling and dodging spies!\""
+  "crew_quote": "\"Ah, overcast again? Just my luck! I was hoping for a nice curry on the beach, not staring at a grey sky and contemplating Chinese spies in AI — talk about a dampener!\""
 }
