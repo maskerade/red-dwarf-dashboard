@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-01T11:12:29.272259+00:00",
+  "timestamp": "2026-10-01T11:43:30.052824+00:00",
   "house": {
     "indoor_temp": 21.7,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 15.8,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 0.0,
-    "wind_direction": 125.0,
-    "pressure": 1023.1,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 16.2,
+    "outdoor_humidity": 72.0,
+    "wind_speed": 2.5,
+    "wind_direction": 178.0,
+    "pressure": 1023.3,
     "rain_today": 4.8,
     "uv_index": 0.0,
-    "power_usage": 446.0,
+    "power_usage": 413.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -41,7 +41,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
+    "UK privacy watchdog starts over with new board and Manchester HQ",
     "Sopra Steria widens legal challenge to Capita's Whitehall outsourcing deal",
     "Fewer women than ever in UK's 'old boys' club' cyber industry",
-    "Erase social media tomorrow? Brits say yes",
-    "The tech industry is hot for shopping bots, but they're years away"
+    "Erase social media tomorrow? Brits say yes"
   ],
-  "crew_quote": "\"With the sun shining and temperatures soaring, it’s the perfect day to fry some curry and pretend we're not in the middle of a legal circus!\""
+  "crew_quote": "\"Nice sunny day outside, but inside it’s too humid for a good curry—might need to turn on the power just for a fan. Can't have my korma turning into a soup!\""
 }
