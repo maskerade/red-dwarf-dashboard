@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-09-30T23:50:19.203600+00:00",
+  "timestamp": "2026-10-01T00:21:19.102304+00:00",
   "house": {
-    "indoor_temp": 21.2,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 13.3,
-    "outdoor_humidity": 96.0,
+    "indoor_temp": 21.1,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 314.0,
     "pressure": 1016.1,
-    "rain_today": 1.0,
+    "rain_today": 3.0,
     "uv_index": 0.0,
-    "power_usage": 441.0,
+    "power_usage": 384.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Peter Norvig says all aboard for AI coding",
     "16-year-old researcher found a Microsoft bug, got admin access to databases with 17.3 trillion rows"
   ],
-  "crew_quote": "\"With this drizzling weather, I think I'll just stay inside like this mechanical calculator—perfect for crunching numbers while I crunch curry!\""
+  "crew_quote": "\"With that drizzle outside and my curry on the boil, I reckon the universe just wants me to chill in here and admire my genius for 3D-printed snacks!\""
 }
