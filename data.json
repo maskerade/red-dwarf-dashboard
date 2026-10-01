@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-01T07:04:26.008175+00:00",
+  "timestamp": "2026-10-01T07:35:25.965904+00:00",
   "house": {
     "indoor_temp": 20.6,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 12.0,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 12.8,
     "outdoor_humidity": 99.0,
-    "wind_speed": 1.4,
-    "wind_direction": 85.0,
-    "pressure": 1019.7,
+    "wind_speed": 0.0,
+    "wind_direction": 86.0,
+    "pressure": 1020.2,
     "rain_today": 4.8,
     "uv_index": 0.0,
-    "power_usage": 413.0,
+    "power_usage": 368.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
+    "The tech industry is hot for shopping bots, but they're years away",
+    "Singapore’s government creates a dating app",
     "RAM supply set to worsen, says Micron, as CEO celebrates ‘much higher’ prices",
-    "Azure maintenance mess disrupted hybrid clouds, VPNs, cloudy VMware services",
-    "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
-    "Hot Dog! America's new chatbot is packed with wieners"
+    "Azure maintenance mess disrupted hybrid clouds, VPNs, cloudy VMware services"
   ],
-  "crew_quote": "\"With this dreary weather, it's the perfect day to whip up a curry and forget about the RAM crisis—hard to believe the only thing lower than the temperature is our supply!\""
+  "crew_quote": "\"With the weather being as dreary as my last date, I reckon a bit of shopping for a fancy curry bot might just brighten things up—if only they actually worked!\""
 }
