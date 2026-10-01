@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-01T16:22:36.184368+00:00",
+  "timestamp": "2026-10-01T16:53:35.315794+00:00",
   "house": {
     "indoor_temp": 21.4,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.1,
+    "outdoor_temp": 15.7,
     "outdoor_humidity": 71.0,
     "wind_speed": 0.0,
-    "wind_direction": 144.0,
+    "wind_direction": 142.0,
     "pressure": 1025.1,
     "rain_today": 4.8,
     "uv_index": 0.0,
-    "power_usage": 455.0,
+    "power_usage": 547.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
+    "Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing",
+    "AWS offers local, open source leash for agent harnesses",
     "Microsoft makes Windows settings backup the default in 26H2",
-    "Build the right AI factory for your needs: partner for success",
-    "Microsoft catches hackers exploiting Zimbra bug before disclosure",
-    "MI5 warns UK academics their research may have helped Chinese spies"
+    "Build the right AI factory for your needs: partner for success"
   ],
-  "crew_quote": "\"Blimey, it's 21.4°C in here—perfect curry temperature! But outside? Overcast again! Remind me why we don't just move the ship to a beach resort!\""
+  "crew_quote": "\"Blimey, it's so overcast outside, it’s like someone nicked the sun and left us with a dodgy curry instead!\""
 }
