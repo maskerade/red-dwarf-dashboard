@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-01T15:20:33.150141+00:00",
+  "timestamp": "2026-10-01T15:51:34.834870+00:00",
   "house": {
-    "indoor_temp": 21.4,
+    "indoor_temp": 21.5,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 17.0,
-    "outdoor_humidity": 70.0,
+    "outdoor_temp": 16.8,
+    "outdoor_humidity": 67.0,
     "wind_speed": 0.0,
-    "wind_direction": 134.0,
-    "pressure": 1024.5,
+    "wind_direction": 142.0,
+    "pressure": 1024.8,
     "rain_today": 4.8,
     "uv_index": 0.0,
-    "power_usage": 477.0,
+    "power_usage": 500.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
+    "Microsoft makes Windows settings backup the default in 26H2",
     "Build the right AI factory for your needs: partner for success",
     "Microsoft catches hackers exploiting Zimbra bug before disclosure",
-    "MI5 warns UK academics their research may have helped Chinese spies",
-    "CISO thought he had a 'r3@lg00dp@$$w0rd' but forgot to patch"
+    "MI5 warns UK academics their research may have helped Chinese spies"
   ],
-  "crew_quote": "\"Ah, perfect weather for a curry on the beach, as long as it doesn’t turn into a 477 kWh disaster—can’t have my lovely korma overcooked by a power surge, now can we?\""
+  "crew_quote": "\"Oi, with it being sunny out and all, fancy a curry picnic? Nothing like a bit of spice in this weather to make the power usage seem less depressing!\""
 }
