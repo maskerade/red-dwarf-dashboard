@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-01T18:57:36.655629+00:00",
+  "timestamp": "2026-10-01T19:28:37.830093+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.2,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 14.1,
-    "outdoor_humidity": 77.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 150.0,
+    "wind_direction": 169.0,
     "pressure": 1026.5,
     "rain_today": 4.8,
     "uv_index": 0.0,
-    "power_usage": 466.0,
+    "power_usage": 3071.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,8 +20,8 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Overcast ",
+      "temp": 14.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-01",
@@ -41,8 +41,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Overcast ",
+      "temp": 11.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-01",
@@ -77,5 +77,5 @@
     "Microsoft makes Windows settings backup the default in 26H2",
     "Build the right AI factory for your needs: partner for success"
   ],
-  "crew_quote": "\"Weather's overcast, but it’s still warmer than my last curry—can't believe the humidity's higher than Rimmer's ego!\""
+  "crew_quote": "\"What’s the point of being stuck in here with all this fancy power usage when it’s looking nicer outside? Bet it’s curry weather in Llandudno! Fancy a takeaway, mate?\""
 }
