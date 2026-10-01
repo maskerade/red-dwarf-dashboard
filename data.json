@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-01T03:58:22.980646+00:00",
+  "timestamp": "2026-10-01T04:29:23.274580+00:00",
   "house": {
     "indoor_temp": 20.8,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 12.7,
+    "outdoor_temp": 12.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 85.0,
-    "pressure": 1017.5,
+    "wind_direction": 86.0,
+    "pressure": 1017.8,
     "rain_today": 4.8,
     "uv_index": 0.0,
-    "power_usage": 297.0,
+    "power_usage": 387.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -70,12 +70,12 @@
     "moonrise": "08:26 PM",
     "moonset": "01:51 PM"
   },
-  "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will run via Piccadilly Gardens & Piccadilly. Eccles service will operate to Deansgate Ashton service will operate to Piccadilly. See TfGM.com",
+  "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
     "RAM supply set to worsen, says Micron, as CEO celebrates ‘much higher’ prices",
     "Azure maintenance mess disrupted hybrid clouds, VPNs, cloudy VMware services",
     "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
     "Hot Dog! America's new chatbot is packed with wieners"
   ],
-  "crew_quote": "\"Ah, it's so dreary outside, I might just stay in and have a curry, even if it is slightly humid—makes it feel like I’m back in me mum’s kitchen!\""
+  "crew_quote": "\"Ah, perfect weather for a curry! Just the right amount of drizzle to keep the flavor locked in—unlike that Azure mess keeping me from streaming my favorite flicks!\""
 }
