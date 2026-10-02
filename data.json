@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T13:33:56.677075+00:00",
+  "timestamp": "2026-10-02T14:04:56.932354+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 18.4,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 3.6,
-    "wind_direction": 240.0,
-    "pressure": 1027.5,
+    "outdoor_temp": 18.5,
+    "outdoor_humidity": 81.0,
+    "wind_speed": 0.0,
+    "wind_direction": 105.0,
+    "pressure": 1027.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 348.0,
+    "power_usage": 463.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -41,8 +41,8 @@
       ]
     },
     "llandudno": {
-      "temp": 18.0,
-      "conditions": "Overcast ",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-02",
@@ -77,5 +77,5 @@
     "Excel Canvas offers to turn your workbook into the boss's next report",
     "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three"
   ],
-  "crew_quote": "\"Oi, mate, it’s so sunny outside, even the curry's sweating — guess we should've brought the kippers to the beach instead!\""
+  "crew_quote": "\"Twenty degrees outside and a patch of rain? Sounds like perfect weather for a nice curry and a lie down, mate! Who needs sunshine when you've got a good balti?\""
 }
