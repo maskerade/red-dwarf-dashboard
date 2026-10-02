@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T11:29:54.594744+00:00",
+  "timestamp": "2026-10-02T12:00:55.190793+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.9,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 17.3,
-    "outdoor_humidity": 85.0,
-    "wind_speed": 1.4,
-    "wind_direction": 91.0,
-    "pressure": 1028.1,
+    "outdoor_temp": 18.0,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 0.0,
+    "wind_direction": 97.0,
+    "pressure": 1027.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 424.0,
+    "power_usage": 297.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Ashton services will operate to Piccadilly only. See TfGM.com for info",
   "headlines": [
-    "Met Police suspends use of phone-hacking software over Russian links",
-    "Flight delayed? So are these codec updates",
-    "Techie was stung by a wasp, held overnight by Chinese police, then trapped in a 13-hour meeting",
-    "Pi coding agent pulls a 180 and adds MCP support"
+    "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
+    "Once a $35 computer, the 2 GB Raspberry Pi 4 now costs $67.50",
+    "Fortinet sounds the alarm over actively exploited FortiMail zero-day",
+    "UK spending watchdog opens investigation into Capita's pension fiasco"
   ],
-  "crew_quote": "\"Well, with it being sunny and me stuck inside at 21°C, I might as well whip up a curry; at least my taste buds will have a good time while the power bills are ruining my life!\""
+  "crew_quote": "\"With all this power usage, you'd think we were running a curry house instead of a spaceship! Maybe we should just turn the lights off and let the sun do the work.\""
 }
