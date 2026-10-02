@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T18:44:01.662446+00:00",
+  "timestamp": "2026-10-02T19:15:02.495216+00:00",
   "house": {
     "indoor_temp": 20.8,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 16.5,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 16.4,
     "outdoor_humidity": 85.0,
-    "wind_speed": 0.0,
-    "wind_direction": 123.0,
-    "pressure": 1026.7,
+    "wind_speed": 2.5,
+    "wind_direction": 97.0,
+    "pressure": 1026.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 547.0,
+    "power_usage": 3051.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "OpenAI's wandering AI agents earn it a California subpoena",
     "Power approval set to delay Oracle's Wisconsin AI datacenter"
   ],
-  "crew_quote": "\"Well, with weather like this, I could really go for a curry—maybe something rich and spicy to heat things up to 20.8°C indoors! Just need to avoid any chip smuggling distractions.\""
+  "crew_quote": "\"You know, for a ship floating through space, I'd rather we didn't get outdone by someone smuggling chips! Give me a curry and keep it simple, like today’s weather!\""
 }
