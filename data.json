@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T01:09:43.700107+00:00",
+  "timestamp": "2026-10-02T01:40:44.321594+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.9,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 12.5,
-    "outdoor_humidity": 90.0,
-    "wind_speed": 0.0,
-    "wind_direction": 108.0,
-    "pressure": 1028.0,
+    "outdoor_temp": 12.9,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 0.4,
+    "wind_direction": 101.0,
+    "pressure": 1027.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 286.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -42,7 +42,7 @@
     },
     "llandudno": {
       "temp": 12.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-02",
@@ -77,5 +77,5 @@
     "Stanford prof is beating the drum for a new protocol to replace TCP",
     "Cloudflare launches Data Platform with bland 'Basin' branding, promise of fewer fees"
   ],
-  "crew_quote": "\"Well, at least the weather out there is clear; it's perfect for a nice curry tonight, although I wouldn’t complain if I had a little bit of that overcast to hide my cooking!\""
+  "crew_quote": "\"With the weather around here, it's like Mother Nature's serving a patchy rain curry — just when you think it’s clear, bam! A bit of drizzle on the side!\""
 }
