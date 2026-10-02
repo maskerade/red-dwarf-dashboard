@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T12:31:56.389315+00:00",
+  "timestamp": "2026-10-02T13:02:56.411082+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 17.9,
-    "outdoor_humidity": 83.0,
-    "wind_speed": 0.7,
-    "wind_direction": 223.0,
-    "pressure": 1027.5,
+    "outdoor_temp": 17.6,
+    "outdoor_humidity": 84.0,
+    "wind_speed": 2.2,
+    "wind_direction": 81.0,
+    "pressure": 1027.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 396.0,
+    "power_usage": 399.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Ashton services will operate to Piccadilly only. See TfGM.com for info",
   "headlines": [
+    "Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch",
+    "Excel Canvas offers to turn your workbook into the boss's next report",
     "Teen suspected of running KillSec ransomware group as cops seize servers, arrest three",
-    "Once a $35 computer, the 2 GB Raspberry Pi 4 now costs $67.50",
-    "Fortinet sounds the alarm over actively exploited FortiMail zero-day",
-    "UK spending watchdog opens investigation into Capita's pension fiasco"
+    "Once a $35 computer, the 2 GB Raspberry Pi 4 now costs $67.50"
   ],
-  "crew_quote": "\"Oi, with this weather, you reckon a curry at 21°C is pushing it? I mean, it’s a nice day for a takeaway, but I'm not exactly sure I want to sweat more than I have to!\""
+  "crew_quote": "\"Blimey, at 19 degrees and sunny, I'd rather be out in Llandudno enjoying a nice curry than stuck here calculating the power usage of a glorified toaster!\""
 }
