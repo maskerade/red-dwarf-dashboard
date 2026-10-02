@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T08:54:52.102406+00:00",
+  "timestamp": "2026-10-02T09:25:52.377208+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.7,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 15.3,
-    "outdoor_humidity": 90.0,
-    "wind_speed": 1.1,
-    "wind_direction": 228.0,
-    "pressure": 1028.2,
+    "outdoor_temp": 15.9,
+    "outdoor_humidity": 89.0,
+    "wind_speed": 0.4,
+    "wind_direction": 222.0,
+    "pressure": 1028.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 387.0,
+    "power_usage": 376.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 11.0,
+      "temp": 15.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -41,8 +41,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-02",
@@ -70,12 +70,12 @@
     "moonrise": "09:27 PM",
     "moonset": "03:02 PM"
   },
-  "metrolink": "Due to a tram fault at Altrincham we are experiencing a delay on the Altrincham line. we apologise for any inconvenience this may cause",
+  "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Ashton services will operate to Piccadilly only. See TfGM.com for info",
   "headlines": [
+    "Met Police suspends use of phone-hacking software over Russian links",
     "Flight delayed? So are these codec updates",
     "Techie was stung by a wasp, held overnight by Chinese police, then trapped in a 13-hour meeting",
-    "Pi coding agent pulls a 180 and adds MCP support",
-    "AWS turns its best practice framework into an agent that recommends cloudy reconfigs"
+    "Pi coding agent pulls a 180 and adds MCP support"
   ],
-  "crew_quote": "\"Well, if the weather in Llandudno is patchy, how about we just stay here, crank up the curry, and pretend we’re on a sunny beach instead of a tin can flying through space?\""
+  "crew_quote": "\"Looks like it's a lovely 15 degrees outside—perfect weather for a curry... or is that just my brain overheating trying to make sense of all this phone-hacking nonsense?\""
 }
