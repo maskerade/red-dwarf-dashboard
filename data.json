@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T03:13:46.234182+00:00",
+  "timestamp": "2026-10-02T03:44:46.219388+00:00",
   "house": {
-    "indoor_temp": 20.8,
+    "indoor_temp": 20.7,
     "indoor_humidity": 61.0,
     "outdoor_temp": 13.3,
-    "outdoor_humidity": 90.0,
-    "wind_speed": 0.0,
-    "wind_direction": 108.0,
-    "pressure": 1027.5,
+    "outdoor_humidity": 91.0,
+    "wind_speed": 1.1,
+    "wind_direction": 209.0,
+    "pressure": 1027.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 306.0,
+    "power_usage": 345.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Cloudflare tries to outplay Jev with open-weight Clef models",
     "Stanford prof is beating the drum for a new protocol to replace TCP"
   ],
-  "crew_quote": "\"With the weather this clear, I could really do with a curry in Llandudno, just me, the sea, and a lovely 13 degrees — perfect for contemplating my imminent fame!\""
+  "crew_quote": "\"Ah, lovely weather for a curry, isn't it? Not too hot, not too cold, just perfect for devouring a vindaloo while the world sorts out its bit barns!\""
 }
