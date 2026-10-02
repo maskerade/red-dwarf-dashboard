@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T14:35:57.344196+00:00",
+  "timestamp": "2026-10-02T15:06:58.544329+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 20.8,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 18.7,
-    "outdoor_humidity": 80.0,
+    "outdoor_temp": 18.4,
+    "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 200.0,
-    "pressure": 1027.1,
+    "wind_direction": 102.0,
+    "pressure": 1026.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 309.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Power approval set to delay Oracle's Wisconsin AI datacenter",
     "OpenAI shows three staff the door over alleged information misuse"
   ],
-  "crew_quote": "\"Blimey, it’s hotter than a curry on Rimmer’s birthday! Maybe we should just open a window and let the patchy rain do the hard work for us!\""
+  "crew_quote": "\"Oi, with the sun shining and the indoor temp just right, it’s a perfect day for a curry — might even treat myself to a pint if that patchy rain holds off!\""
 }
