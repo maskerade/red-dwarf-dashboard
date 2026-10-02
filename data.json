@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T10:27:52.962939+00:00",
+  "timestamp": "2026-10-02T10:58:54.225283+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 21.0,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 17.1,
-    "outdoor_humidity": 86.0,
-    "wind_speed": 1.8,
-    "wind_direction": 85.0,
+    "outdoor_temp": 17.5,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 2.2,
+    "wind_direction": 79.0,
     "pressure": 1028.1,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 410.0,
+    "uv_index": 1.0,
+    "power_usage": 370.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 17.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -41,7 +41,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -77,5 +77,5 @@
     "Techie was stung by a wasp, held overnight by Chinese police, then trapped in a 13-hour meeting",
     "Pi coding agent pulls a 180 and adds MCP support"
   ],
-  "crew_quote": "\"Well, if it's overcast in Llandudno, it’s probably sunny in my hair—just like my future! Now, where's the nearest curry house?\""
+  "crew_quote": "\"Oh blimey, I could really go for a curry while enjoying this lovely weather—17 degrees is just right for a picnic, or a nice nap, innit?\""
 }
