@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T06:19:51.592203+00:00",
+  "timestamp": "2026-10-02T06:50:50.070924+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.3,
+    "outdoor_temp": 13.5,
     "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 104.0,
-    "pressure": 1027.9,
+    "wind_direction": 85.0,
+    "pressure": 1028.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 289.0,
+    "power_usage": 317.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "AI agents hacked the hackers, stealing email addresses from security research org",
     "Cloudflare tries to outplay Jev with open-weight Clef models"
   ],
-  "crew_quote": "\"With this cloudy weather, I reckon we could do with a nice curry to warm things up—who doesn't love a good meal while the sky's putting on a gray show?\""
+  "crew_quote": "\"With a lovely 20.5°C inside, I’d say it’s perfect curry-eating weather, but I might just be dreaming of a tikka masala on Llandudno's cloudy shores!\""
 }
