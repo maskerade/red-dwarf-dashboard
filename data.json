@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T05:48:48.333924+00:00",
+  "timestamp": "2026-10-02T06:19:51.592203+00:00",
   "house": {
     "indoor_temp": 20.6,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.4,
-    "outdoor_humidity": 93.0,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 167.0,
-    "pressure": 1027.8,
+    "wind_direction": 104.0,
+    "pressure": 1027.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 278.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -42,7 +42,7 @@
     },
     "llandudno": {
       "temp": 13.0,
-      "conditions": "Overcast ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-02",
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
+    "AWS turns its best practice framework into an agent that recommends cloudy reconfigs",
     "Google launches first datacenter satellite and research that finds orbiting bit barns can work",
     "AI agents hacked the hackers, stealing email addresses from security research org",
-    "Cloudflare tries to outplay Jev with open-weight Clef models",
-    "Stanford prof is beating the drum for a new protocol to replace TCP"
+    "Cloudflare tries to outplay Jev with open-weight Clef models"
   ],
-  "crew_quote": "\"With the clouds looking like a dismal curry stain in the sky, I'm starting to think the universe is just trying to make up for that 20 degrees indoors!\""
+  "crew_quote": "\"With this cloudy weather, I reckon we could do with a nice curry to warm things up—who doesn't love a good meal while the sky's putting on a gray show?\""
 }
