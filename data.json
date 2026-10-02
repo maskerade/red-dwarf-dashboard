@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T05:17:48.260871+00:00",
+  "timestamp": "2026-10-02T05:48:48.333924+00:00",
   "house": {
     "indoor_temp": 20.6,
     "indoor_humidity": 61.0,
     "outdoor_temp": 13.4,
-    "outdoor_humidity": 92.0,
-    "wind_speed": 0.7,
-    "wind_direction": 214.0,
+    "outdoor_humidity": 93.0,
+    "wind_speed": 0.0,
+    "wind_direction": 167.0,
     "pressure": 1027.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 340.0,
+    "power_usage": 278.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Cloudflare tries to outplay Jev with open-weight Clef models",
     "Stanford prof is beating the drum for a new protocol to replace TCP"
   ],
-  "crew_quote": "\"With all this cloudy weather, it's a perfect day for a nice curry — I mean, if I can stay warm enough indoors! Who knew 20 degrees could feel so chilly?\""
+  "crew_quote": "\"With the clouds looking like a dismal curry stain in the sky, I'm starting to think the universe is just trying to make up for that 20 degrees indoors!\""
 }
