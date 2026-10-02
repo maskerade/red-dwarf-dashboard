@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-01T23:36:41.967545+00:00",
+  "timestamp": "2026-10-02T00:07:41.735314+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.2,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 10.5,
+    "outdoor_temp": 11.1,
     "outdoor_humidity": 94.0,
-    "wind_speed": 0.0,
-    "wind_direction": 162.0,
-    "pressure": 1027.6,
+    "wind_speed": 0.4,
+    "wind_direction": 137.0,
+    "pressure": 1027.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 562.0,
+    "power_usage": 356.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -24,11 +24,6 @@
       "conditions": "Clear ",
       "forecast": [
         {
-          "date": "2026-10-01",
-          "max": 19.0,
-          "min": 12.0
-        },
-        {
           "date": "2026-10-02",
           "max": 19.0,
           "min": 11.0
@@ -37,18 +32,18 @@
           "date": "2026-10-03",
           "max": 19.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-10-04",
+          "max": 20.0,
+          "min": 9.0
         }
       ]
     },
     "llandudno": {
-      "temp": 11.0,
+      "temp": 12.0,
       "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-10-01",
-          "max": 16.0,
-          "min": 9.0
-        },
         {
           "date": "2026-10-02",
           "max": 17.0,
@@ -58,17 +53,22 @@
           "date": "2026-10-03",
           "max": 14.0,
           "min": 6.0
+        },
+        {
+          "date": "2026-10-04",
+          "max": 17.0,
+          "min": 7.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:08 AM",
-    "sunset": "06:43 PM",
+    "sunrise": "07:09 AM",
+    "sunset": "06:41 PM",
     "moon_phase": "Waning Gibbous",
-    "moon_illumination": "78",
-    "moonrise": "08:26 PM",
-    "moonset": "01:51 PM"
+    "moon_illumination": "68",
+    "moonrise": "09:27 PM",
+    "moonset": "03:02 PM"
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Eccles services will operate to Deansgate-Castlefield. See TfGM.com for info",
   "headlines": [
@@ -77,5 +77,5 @@
     "Stanford prof is beating the drum for a new protocol to replace TCP",
     "Cloudflare launches Data Platform with bland 'Basin' branding, promise of fewer fees"
   ],
-  "crew_quote": "\"Blimey, with the indoor temp at 21.3°C, it’s the perfect day for a curry! Just don’t let the AI hackers steal my takeaway order – I’m not sharing me vindaloo!\""
+  "crew_quote": "\"12 degrees and overcast? Brilliant! Perfect weather for a nice curry and a good binge-watch, as long as none of those hackers start hacking my dinner!\""
 }
