@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-02T19:46:02.245517+00:00",
+  "timestamp": "2026-10-02T20:17:02.926080+00:00",
   "house": {
-    "indoor_temp": 20.8,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 16.5,
-    "outdoor_humidity": 83.0,
+    "indoor_temp": 20.9,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 16.3,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 97.0,
-    "pressure": 1026.6,
+    "wind_direction": 85.0,
+    "pressure": 1026.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 618.0,
+    "power_usage": 525.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,8 +20,8 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Clear ",
+      "temp": 16.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-02",
@@ -36,13 +36,13 @@
         {
           "date": "2026-10-04",
           "max": 19.0,
-          "min": 9.0
+          "min": 8.0
         }
       ]
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-02",
@@ -57,7 +57,7 @@
         {
           "date": "2026-10-04",
           "max": 17.0,
-          "min": 6.0
+          "min": 7.0
         }
       ]
     }
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: From 27th Sept to 2nd Oct no trams will operate through Piccadilly Gardens and Piccadilly. Ashton services will operate to Piccadilly only. See TfGM.com for info",
   "headlines": [
+    "Google hearts Apple's Swift so much it's pumping out server-side support",
     "Shut up and take our money: Amazon plows $1B into quashing datacenter dissent",
     "arXiv imposes rate limit on paper submissions to stem the AI slop tide",
-    "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse",
-    "Californian accused of shipping $300M worth of Nvidia chips to China without Uncle Sam’s approval"
+    "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse"
   ],
-  "crew_quote": "\"With the indoor temp at 20.8°C, I reckon we could cook a proper curry in here, but who needs good weather when you've got a billion dollars to spend on shutting people up?\""
+  "crew_quote": "\"With a weather report like that, I'm tempted to swap the curry for a nice patchy rain pie — you know, just for the added humidity flavor!\""
 }
