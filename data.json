@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-03T06:06:12.417542+00:00",
+  "timestamp": "2026-10-03T06:37:13.618737+00:00",
   "house": {
     "indoor_temp": 20.4,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 9.6,
+    "outdoor_temp": 9.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 127.0,
-    "pressure": 1030.3,
+    "pressure": 1030.5,
     "rain_today": 1.0,
     "uv_index": 0.0,
-    "power_usage": 306.0,
+    "power_usage": 289.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "arXiv imposes rate limit on paper submissions to stem the AI slop tide",
     "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse"
   ],
-  "crew_quote": "\"Looks like it’s patchy rain outside, but at least I’ve got my curry in here—perfect indoor weather for a proper feast!\""
+  "crew_quote": "\"With the weather all patchy and dreary, I reckon it's a perfect day for a curry—or maybe just slobbing out in me pants with a good old sci-fi binge!\""
 }
