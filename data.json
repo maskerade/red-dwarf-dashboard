@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-03T22:08:48.210497+00:00",
+  "timestamp": "2026-10-03T22:39:52.832042+00:00",
   "house": {
     "indoor_temp": 20.7,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 7.8,
+    "outdoor_temp": 7.4,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 150.0,
-    "pressure": 1032.6,
+    "pressure": 1032.7,
     "rain_today": 1.3,
     "uv_index": 0.0,
-    "power_usage": 649.0,
+    "power_usage": 469.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -42,7 +42,7 @@
     },
     "llandudno": {
       "temp": 6.0,
-      "conditions": "Mist",
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-03",
@@ -77,5 +77,5 @@
     "Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers",
     "Google hearts Apple's Swift so much it's pumping out server-side support"
   ],
-  "crew_quote": "\"I'm telling you, on a day like this, with it clear outside and me stuck in here at 20 degrees, I could really go for a nice curry to spice things up—preferably with some mist on the side!\""
+  "crew_quote": "\"Ah, the weather's a balmy 10°C, perfect for a curry, but let's be real—who needs sunshine when you can bask in the glow of my sheer brilliance?\""
 }
