@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-03T14:53:22.904715+00:00",
+  "timestamp": "2026-10-03T15:24:27.846830+00:00",
   "house": {
-    "indoor_temp": 20.8,
+    "indoor_temp": 20.9,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 15.3,
-    "outdoor_humidity": 71.0,
+    "outdoor_temp": 15.2,
+    "outdoor_humidity": 73.0,
     "wind_speed": 0.0,
-    "wind_direction": 161.0,
-    "pressure": 1032.2,
+    "wind_direction": 157.0,
+    "pressure": 1032.3,
     "rain_today": 1.3,
     "uv_index": 0.0,
-    "power_usage": 562.0,
+    "power_usage": 382.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Google hearts Apple's Swift so much it's pumping out server-side support",
     "Shut up and take our money: Amazon plows $1B+ into quashing datacenter dissent"
   ],
-  "crew_quote": "\"18 degrees in the overseal? Blimey, that's almost as hot as my curry last night—might need to ditch the space suit and go for a swim in Llandudno!\""
+  "crew_quote": "\"Well, at least it’s warmer in here than Llandudno; I think I’ll whip up a nice curry to celebrate the sunshine that’s not in here!\""
 }
