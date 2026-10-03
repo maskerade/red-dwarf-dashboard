@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-03T23:10:59.050572+00:00",
+  "timestamp": "2026-10-03T23:42:05.070919+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.5,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 7.1,
+    "outdoor_temp": 6.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 150.0,
-    "pressure": 1032.7,
+    "pressure": 1032.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 685.0,
+    "power_usage": 404.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers",
     "Google hearts Apple's Swift so much it's pumping out server-side support"
   ],
-  "crew_quote": "\"20.6 degrees indoors? Blimey, that’s practically tropical! Might as well throw a curry party while we wait for someone to beat those math whizzes at Mythos!\""
+  "crew_quote": "\"I don't care if it's clear skies or a super bug-hunting model, as long as I can enjoy my curry at a nice 20.5°C, I'm happy! Who needs math when you've got a good meal?\""
 }
