@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-03T07:39:14.281579+00:00",
+  "timestamp": "2026-10-03T08:10:14.479520+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 10.6,
+    "outdoor_temp": 10.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 127.0,
     "pressure": 1031.4,
     "rain_today": 1.0,
     "uv_index": 0.0,
-    "power_usage": 314.0,
+    "power_usage": 458.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "Saturday 3rd October Betfred Superleague Grand Final at Old Trafford KO 18:00. Services may be busier than usual and passengers are advised to plan their journey in advance.",
   "headlines": [
+    "Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers",
     "Google hearts Apple's Swift so much it's pumping out server-side support",
     "Shut up and take our money: Amazon plows $1B into quashing datacenter dissent",
-    "arXiv imposes rate limit on paper submissions to stem the AI slop tide",
-    "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse"
+    "arXiv imposes rate limit on paper submissions to stem the AI slop tide"
   ],
-  "crew_quote": "\"Blimey, it’s hotter in here than a curry shop in a heatwave! You’d think at 20.3°C, we’d be cooler than Llandudno’s sunny side, but not with this humidity, eh?\""
+  "crew_quote": "\"Blimey, it's warmer in here than it is at Llandudno! Fancy a curry to match the indoor temperature? It's a perfect recipe for a cozy evening!\""
 }
