@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-03T20:04:22.584053+00:00",
+  "timestamp": "2026-10-03T20:35:28.470756+00:00",
   "house": {
-    "indoor_temp": 20.4,
-    "indoor_humidity": 57.0,
+    "indoor_temp": 20.6,
+    "indoor_humidity": 59.0,
     "outdoor_temp": 9.0,
-    "outdoor_humidity": 94.0,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
     "wind_direction": 150.0,
-    "pressure": 1033.2,
+    "pressure": 1033.4,
     "rain_today": 1.3,
     "uv_index": 0.0,
-    "power_usage": 722.0,
+    "power_usage": 567.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers",
     "Google hearts Apple's Swift so much it's pumping out server-side support"
   ],
-  "crew_quote": "\"As if the weather in Llandudno would ever be a patch on my brilliance! I mean, 7 degrees? That’s practically a winter wonderland for my fabulousness!\""
+  "crew_quote": "\"Clear skies and 20 degrees indoors? That's perfect for a curry night, but if it gets any hotter, I might just start hallucinating about Mythos running Doom!\""
 }
