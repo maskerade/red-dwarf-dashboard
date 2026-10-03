@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-03T06:37:13.618737+00:00",
+  "timestamp": "2026-10-03T07:08:14.306778+00:00",
   "house": {
     "indoor_temp": 20.4,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 9.7,
+    "outdoor_temp": 10.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 127.0,
-    "pressure": 1030.5,
+    "pressure": 1030.8,
     "rain_today": 1.0,
     "uv_index": 0.0,
-    "power_usage": 289.0,
+    "power_usage": 320.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -42,7 +42,7 @@
     },
     "llandudno": {
       "temp": 7.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-10-03",
@@ -77,5 +77,5 @@
     "arXiv imposes rate limit on paper submissions to stem the AI slop tide",
     "OpenAI alerts 100+ orgs that its 'misaligned models' attempted to break in - or worse"
   ],
-  "crew_quote": "\"With the weather all patchy and dreary, I reckon it's a perfect day for a curry—or maybe just slobbing out in me pants with a good old sci-fi binge!\""
+  "crew_quote": "\"Blimey, it’s 20 degrees in here and I’m still sweating like a curry in a sauna—guess I’ll have to bring back that old ice cream machine, eh?\""
 }
