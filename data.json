@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-04T04:53:06.421287+00:00",
+  "timestamp": "2026-10-04T05:24:12.440966+00:00",
   "house": {
-    "indoor_temp": 19.8,
+    "indoor_temp": 19.7,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 5.2,
+    "outdoor_temp": 5.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 150.0,
-    "pressure": 1030.8,
+    "pressure": 1030.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 354.0,
+    "power_usage": 340.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers",
     "Google hearts Apple's Swift so much it's pumping out server-side support"
   ],
-  "crew_quote": "\"With the indoor temp at a balmy 19.8°C, I reckon we could whip up a decent curry and still keep our brains functioning while they figure out if Mythos can score higher than me at Doom!\""
+  "crew_quote": "\"Well, while it’s a chilly 5°C in Llandudno, at least inside here it’s nice and cozy—perfect for a curry, or better yet, a game of Doom! What’s a super bug-hunter to do?\""
 }
