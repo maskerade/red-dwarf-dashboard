@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-04T20:56:58.176452+00:00",
+  "timestamp": "2026-10-04T21:28:04.280922+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.0,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 14.2,
+    "outdoor_temp": 14.1,
     "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 153.0,
-    "pressure": 1027.4,
+    "wind_direction": 158.0,
+    "pressure": 1026.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 674.0,
+    "power_usage": 601.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Spies, prime ministers, and balls: The BBC Domesday project @ 40",
     "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows"
   ],
-  "crew_quote": "\"With all this fog, it’s like we’re trapped in a massive curry with extra mist! Just don't let it seep into my vindaloo!\""
+  "crew_quote": "\"With all this fog outside and the air feeling like a curry that’s gone a bit funny, I reckon it’s best to stay inside and binge-watch the latest sci-fi soap.\""
 }
