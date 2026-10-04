@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-04T02:48:42.470246+00:00",
+  "timestamp": "2026-10-04T03:19:48.571914+00:00",
   "house": {
     "indoor_temp": 20.0,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 5.1,
+    "outdoor_temp": 4.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 150.0,
-    "pressure": 1031.3,
+    "pressure": 1030.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 325.0,
+    "power_usage": 354.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 9.0,
+      "temp": 8.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -77,5 +77,5 @@
     "Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers",
     "Google hearts Apple's Swift so much it's pumping out server-side support"
   ],
-  "crew_quote": "\"With all this clear weather, I might just take a stroll to Llandudno, but only if I can find a curry shop that serves takeaway — can't let a good day go to waste!\""
+  "crew_quote": "\"Well, at least it's a nice 20 degrees in here — just the kind of temperature for a good curry, not that I’d complain about being outside in Llandudno or anything!\""
 }
