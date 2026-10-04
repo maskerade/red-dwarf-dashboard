@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-04T04:22:00.061217+00:00",
+  "timestamp": "2026-10-04T04:53:06.421287+00:00",
   "house": {
-    "indoor_temp": 19.9,
+    "indoor_temp": 19.8,
     "indoor_humidity": 57.0,
     "outdoor_temp": 5.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 150.0,
-    "pressure": 1031.1,
+    "pressure": 1030.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 334.0,
+    "power_usage": 354.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -41,8 +41,8 @@
       ]
     },
     "llandudno": {
-      "temp": 6.0,
-      "conditions": "Clear ",
+      "temp": 5.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-04",
@@ -77,5 +77,5 @@
     "Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers",
     "Google hearts Apple's Swift so much it's pumping out server-side support"
   ],
-  "crew_quote": "\"Blimey, I could really go for a curry right now, but at 19.9 degrees, I might have to settle for a nice glass of chilled water instead! That’s posh, innit?\""
+  "crew_quote": "\"With the indoor temp at a balmy 19.8°C, I reckon we could whip up a decent curry and still keep our brains functioning while they figure out if Mythos can score higher than me at Doom!\""
 }
