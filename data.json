@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-04T19:23:44.069610+00:00",
+  "timestamp": "2026-10-04T19:54:49.742029+00:00",
   "house": {
-    "indoor_temp": 19.9,
+    "indoor_temp": 20.0,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 14.5,
+    "outdoor_temp": 14.4,
     "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 153.0,
-    "pressure": 1028.0,
+    "wind_direction": 184.0,
+    "pressure": 1027.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 3169.0,
+    "power_usage": 539.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -70,12 +70,12 @@
     "moonrise": "No moonrise",
     "moonset": "04:27 PM"
   },
-  "metrolink": "Sunday 4th October Manchester Half Marathon is taking place across the network. Services may be busier than usual and passengers are advised to plan their journey in advance.",
+  "metrolink": "We are currently experiencing a minor delay on the Altrincham Line. Metrolink apologises for the inconvenience caused.",
   "headlines": [
     "Fulcrum Echo promises AI text in the style of any writer, so I tested it",
     "Revive Raskin's 3 laws of software with humane work that considers a dev's duty of care",
     "Spies, prime ministers, and balls: The BBC Domesday project @ 40",
     "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows"
   ],
-  "crew_quote": "\"Blimey, it's foggy out there! I’d say it’s a perfect day for a curry in our 19.9 degrees of bliss—or is that just me being fabulous?\""
+  "crew_quote": "\"With this fog, it’s a perfect day to forget where you parked the ship—just like I forgot to defrost the curry! Ah well, a bit of mystery never hurt anyone!\""
 }
