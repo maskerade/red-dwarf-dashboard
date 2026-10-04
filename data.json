@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-04T23:01:24.181245+00:00",
+  "timestamp": "2026-10-04T23:32:28.195663+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.2,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 12.9,
+    "outdoor_temp": 12.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 156.0,
-    "pressure": 1026.4,
+    "wind_direction": 157.0,
+    "pressure": 1026.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 525.0,
+    "power_usage": 598.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -24,11 +24,6 @@
       "conditions": "Overcast ",
       "forecast": [
         {
-          "date": "2026-10-04",
-          "max": 20.0,
-          "min": 8.0
-        },
-        {
           "date": "2026-10-05",
           "max": 21.0,
           "min": 13.0
@@ -37,18 +32,18 @@
           "date": "2026-10-06",
           "max": 21.0,
           "min": 11.0
+        },
+        {
+          "date": "2026-10-07",
+          "max": 13.0,
+          "min": 7.0
         }
       ]
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Mist",
+      "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-10-04",
-          "max": 17.0,
-          "min": 5.0
-        },
         {
           "date": "2026-10-05",
           "max": 19.0,
@@ -58,17 +53,22 @@
           "date": "2026-10-06",
           "max": 18.0,
           "min": 12.0
+        },
+        {
+          "date": "2026-10-07",
+          "max": 12.0,
+          "min": 8.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:13 AM",
-    "sunset": "06:36 PM",
+    "sunrise": "07:15 AM",
+    "sunset": "06:34 PM",
     "moon_phase": "Waning Crescent",
-    "moon_illumination": "45",
-    "moonrise": "No moonrise",
-    "moonset": "04:27 PM"
+    "moon_illumination": "34",
+    "moonrise": "12:12 AM",
+    "moonset": "04:50 PM"
   },
   "metrolink": "Sunday 4th October Manchester Half Marathon is taking place across the network. Services may be busier than usual and passengers are advised to plan their journey in advance.",
   "headlines": [
@@ -77,5 +77,5 @@
     "Spies, prime ministers, and balls: The BBC Domesday project @ 40",
     "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows"
   ],
-  "crew_quote": "\"Blimey, it’s just as misty outside as my last curry disaster—no wonder the weather’s got no clue what it’s doing!\""
+  "crew_quote": "\"Looks like the weather's as dull as my last promotion—14 degrees and overcast! At least I've got a nice indoor temp to cook up a curry and forget about it!\""
 }
