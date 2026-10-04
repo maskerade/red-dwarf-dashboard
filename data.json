@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-04T06:57:30.324401+00:00",
+  "timestamp": "2026-10-04T07:28:36.583412+00:00",
   "house": {
-    "indoor_temp": 19.6,
+    "indoor_temp": 19.5,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 5.4,
+    "outdoor_temp": 6.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 150.0,
-    "pressure": 1031.2,
+    "pressure": 1031.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 314.0,
+    "power_usage": 325.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers",
     "Google hearts Apple's Swift so much it's pumping out server-side support"
   ],
-  "crew_quote": "\"With the indoor temp at a toasty 19.6°C, I could whip up a curry that's hotter than my love for a cloudy day, but I still can’t get the Cat to stop staring at himself!\""
+  "crew_quote": "\"With the weather this cloudy, I think it's the perfect time to whip up a curry and pretend I'm not just sitting here in a glorified tin can at 19.5 degrees!\""
 }
