@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-04T10:35:09.419775+00:00",
+  "timestamp": "2026-10-04T11:06:14.264824+00:00",
   "house": {
-    "indoor_temp": 19.8,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 11.4,
-    "outdoor_humidity": 88.0,
+    "indoor_temp": 20.2,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 12.8,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 156.0,
-    "pressure": 1030.8,
+    "wind_direction": 164.0,
+    "pressure": 1030.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 609.0,
+    "power_usage": 519.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 14.0,
+      "temp": 17.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -41,7 +41,7 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
+      "temp": 17.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -77,5 +77,5 @@
     "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
     "Clever database, but can it run Doom?"
   ],
-  "crew_quote": "\"With this weather, staying inside with a curry sounds perfect! If only I could get the power to heat it without it costing me an arm and a leg!\""
+  "crew_quote": "\"Well, it’s a lovely 17 degrees outside—perfect curry weather, as long as I don't need to actually go out in that overcast gloom!\""
 }
