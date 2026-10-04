@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-04T21:28:04.280922+00:00",
+  "timestamp": "2026-10-04T21:59:11.071816+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 20.1,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 14.1,
-    "outdoor_humidity": 97.0,
+    "outdoor_temp": 13.6,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 158.0,
-    "pressure": 1026.9,
+    "wind_direction": 156.0,
+    "pressure": 1026.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 601.0,
+    "power_usage": 590.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -41,8 +41,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Fog",
+      "temp": 14.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-10-04",
@@ -77,5 +77,5 @@
     "Spies, prime ministers, and balls: The BBC Domesday project @ 40",
     "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows"
   ],
-  "crew_quote": "\"With all this fog outside and the air feeling like a curry that’s gone a bit funny, I reckon it’s best to stay inside and binge-watch the latest sci-fi soap.\""
+  "crew_quote": "\"Blimey, it’s so misty outside you could lose a curry in it! At least inside it’s a comfy 20.1°—perfect for a proper sofa day!\""
 }
