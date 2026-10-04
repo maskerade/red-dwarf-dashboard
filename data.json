@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-04T12:08:31.495072+00:00",
+  "timestamp": "2026-10-04T12:39:31.113841+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 15.4,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 0.4,
-    "wind_direction": 170.0,
-    "pressure": 1030.3,
+    "outdoor_temp": 16.2,
+    "outdoor_humidity": 74.0,
+    "wind_speed": 0.0,
+    "wind_direction": 164.0,
+    "pressure": 1030.1,
     "rain_today": 0.0,
     "uv_index": 1.0,
-    "power_usage": 522.0,
+    "power_usage": 359.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,8 +20,8 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 17.0,
-      "conditions": "Overcast ",
+      "temp": 18.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-04",
@@ -77,5 +77,5 @@
     "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
     "Clever database, but can it run Doom?"
   ],
-  "crew_quote": "\"Oi, with it being 17 degrees and the clouds looking like they've been smudged by a toddler, I reckon we could whip up a curry and pretend we're in a tropical paradise!\""
+  "crew_quote": "\"With the weather like this, it’s perfect for a curry night! Just remember, if it gets too humid, I might turn into a sweaty mess instead of a culinary genius!\""
 }
