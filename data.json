@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-10-04T11:37:18.849877+00:00",
+  "timestamp": "2026-10-04T12:08:31.495072+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.9,
-    "outdoor_humidity": 81.0,
-    "wind_speed": 0.0,
-    "wind_direction": 173.0,
-    "pressure": 1030.2,
+    "outdoor_temp": 15.4,
+    "outdoor_humidity": 76.0,
+    "wind_speed": 0.4,
+    "wind_direction": 170.0,
+    "pressure": 1030.3,
     "rain_today": 0.0,
-    "uv_index": 0.0,
+    "uv_index": 1.0,
     "power_usage": 522.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
@@ -77,5 +77,5 @@
     "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows",
     "Clever database, but can it run Doom?"
   ],
-  "crew_quote": "\"Blimey, with the weather at a nippy 17 degrees and a 20 in here, I reckon it’s the perfect time for a curry — the only thing better would be a curry-flavored overcast!\""
+  "crew_quote": "\"Oi, with it being 17 degrees and the clouds looking like they've been smudged by a toddler, I reckon we could whip up a curry and pretend we're in a tropical paradise!\""
 }
