@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T13:31:43.498575+00:00",
+  "timestamp": "2026-10-05T14:02:45.564206+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 20.4,
-    "outdoor_humidity": 79.0,
+    "outdoor_temp": 20.5,
+    "outdoor_humidity": 74.0,
     "wind_speed": 0.0,
-    "wind_direction": 178.0,
+    "wind_direction": 186.0,
     "pressure": 1022.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 410.0,
+    "power_usage": 354.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Ubuntu 'Stonking Stingray' beta swims out: Deeper Rust 'oxidization' plus LLM speech-to-text",
     "Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double"
   ],
-  "crew_quote": "\"With this patchy rain, I reckon it’s the perfect weather for a curry! Just don’t forget the naan, or it’s an epic saga of starvation instead!\""
+  "crew_quote": "\"With this patchy rain, it’s the perfect weather for a curry, but I reckon the real battle will be against the forces of ERP—much more taxing than a soggy jacket!\""
 }
