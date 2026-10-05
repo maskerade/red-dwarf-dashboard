@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T16:37:46.219738+00:00",
+  "timestamp": "2026-10-05T17:08:46.375304+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 18.7,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 18.3,
+    "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
-    "wind_direction": 220.0,
-    "pressure": 1021.8,
+    "wind_direction": 154.0,
+    "pressure": 1022.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 435.0,
+    "power_usage": 539.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Debian's latest kernel security update has 1,313 reasons to patch",
     "The question you would ask HPE and NVIDIA if nobody was recording"
   ],
-  "crew_quote": "\"With this patchy rain, it's the perfect day to huddle indoors with a curry — just don’t let the humidity make it soggy like yesterday’s chips!\""
+  "crew_quote": "\"With the indoor temp at a cozy 20.2°C, I say we whip up a curry and ride out the patchy rain — it's like living in a sci-fi sitcom, innit?\""
 }
