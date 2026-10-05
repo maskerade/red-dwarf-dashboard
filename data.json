@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T05:14:36.752932+00:00",
+  "timestamp": "2026-10-05T05:45:42.746843+00:00",
   "house": {
     "indoor_temp": 19.7,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 13.1,
+    "outdoor_temp": 13.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 139.0,
-    "pressure": 1024.1,
+    "pressure": 1024.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 345.0,
+    "power_usage": 337.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -42,7 +42,7 @@
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Fog",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-10-05",
@@ -77,5 +77,5 @@
     "Spies, prime ministers, and balls: The BBC Domesday project @ 40",
     "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows"
   ],
-  "crew_quote": "\"Look at that fog in Llandudno, it’s like someone’s dropped a giant curry on the UK—perfect for me to hide my face when I’m not winning at poker!\""
+  "crew_quote": "\"Ah, it’s a clear day out there, must be a lovely time for a curry — just don’t ask me to cook it, or we’ll end up with mist in here, too!\""
 }
