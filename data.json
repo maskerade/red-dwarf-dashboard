@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T20:15:10.219243+00:00",
+  "timestamp": "2026-10-05T20:46:15.744473+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.3,
     "indoor_humidity": 64.0,
     "outdoor_temp": 16.6,
     "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
-    "wind_direction": 173.0,
-    "pressure": 1022.3,
+    "wind_direction": 221.0,
+    "pressure": 1022.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 578.0,
+    "power_usage": 665.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
-    "Windows 11 26H2 blighted by new audio issue",
-    "Altman-backed Volantis reveals plan to vault the memory wall by baking photonics into AI accelerators",
-    "OpenAI to flood your eyeballs with visual ads",
-    "Debian's latest kernel security update has 1,313 reasons to patch"
+    "Cohere offers to put agents in lockdown mode with strict ACLs",
+    "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool",
+    "FBI confirms 'multiple' arrests related to ShinyHunters hack",
+    "Windows 11 26H2 blighted by new audio issue"
   ],
-  "crew_quote": "\"Great, patchy rain nearby, just what I needed. I was really looking forward to a nice, soggy curry by the window!\""
+  "crew_quote": "\"Weather's a bit gloomy, innit? At least it's not raining curry, else I’d be in a right pickle!\""
 }
