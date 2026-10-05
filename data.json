@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T10:25:34.637571+00:00",
+  "timestamp": "2026-10-05T10:56:36.299445+00:00",
   "house": {
     "indoor_temp": 19.9,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 18.2,
+    "outdoor_temp": 18.4,
     "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
-    "wind_direction": 189.0,
-    "pressure": 1023.6,
+    "wind_direction": 172.0,
+    "pressure": 1023.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 424.0,
+    "power_usage": 466.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Brighter isn't better and more is less. The AI slowdown is nigh, no matter who says what",
     "What people say about their file infrastructure once the badge comes off"
   ],
-  "crew_quote": "\"With all this patchy rain and the indoor humidity, I reckon I'll just whip up a curry and let the weather sort itself out — just like my love life, really!\""
+  "crew_quote": "\"Looks like it's 18 degrees out, perfect curry weather! Just as long as I'm not stuck in front of a Windows update — I can barely handle the rain, let alone the stress!\""
 }
