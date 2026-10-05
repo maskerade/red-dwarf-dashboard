@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T14:02:45.564206+00:00",
+  "timestamp": "2026-10-05T14:33:44.377963+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 20.5,
-    "outdoor_humidity": 74.0,
+    "outdoor_temp": 20.3,
+    "outdoor_humidity": 77.0,
     "wind_speed": 0.0,
-    "wind_direction": 186.0,
-    "pressure": 1022.4,
+    "wind_direction": 179.0,
+    "pressure": 1022.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 354.0,
+    "power_usage": 491.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "Musk follows Trump's lead, swaps AI for SI in SpaceX rebrand",
     "Games Workshop seeks IT leader to summon the legions in epic saga battling the forces of ERP",
     "Anthropic says its IPO could herald the end of the world as we know it",
-    "Ubuntu 'Stonking Stingray' beta swims out: Deeper Rust 'oxidization' plus LLM speech-to-text",
-    "Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double"
+    "Ubuntu 'Stonking Stingray' beta swims out: Deeper Rust 'oxidization' plus LLM speech-to-text"
   ],
-  "crew_quote": "\"With this patchy rain, it’s the perfect weather for a curry, but I reckon the real battle will be against the forces of ERP—much more taxing than a soggy jacket!\""
+  "crew_quote": "\"21 degrees and patchy rain? Blimey, feels like a proper day for a curry! Just don't let those ERP nincompoops near me pots!\""
 }
