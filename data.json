@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T14:33:44.377963+00:00",
+  "timestamp": "2026-10-05T15:04:45.092586+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.0,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 20.3,
+    "outdoor_temp": 19.5,
     "outdoor_humidity": 77.0,
-    "wind_speed": 0.0,
-    "wind_direction": 179.0,
+    "wind_speed": 1.1,
+    "wind_direction": 148.0,
     "pressure": 1022.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 491.0,
+    "power_usage": 427.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -42,7 +42,7 @@
     },
     "llandudno": {
       "temp": 19.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-05",
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "The question you would ask HPE and NVIDIA if nobody was recording",
     "Musk follows Trump's lead, swaps AI for SI in SpaceX rebrand",
     "Games Workshop seeks IT leader to summon the legions in epic saga battling the forces of ERP",
-    "Anthropic says its IPO could herald the end of the world as we know it",
-    "Ubuntu 'Stonking Stingray' beta swims out: Deeper Rust 'oxidization' plus LLM speech-to-text"
+    "Anthropic says its IPO could herald the end of the world as we know it"
   ],
-  "crew_quote": "\"21 degrees and patchy rain? Blimey, feels like a proper day for a curry! Just don't let those ERP nincompoops near me pots!\""
+  "crew_quote": "\"In this weather, I could really go for a nice curry, but with patchy rain, I’ll probably just end up soggy and miserable—like a damp chip!\""
 }
