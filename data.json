@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T15:04:45.092586+00:00",
+  "timestamp": "2026-10-05T15:35:45.314924+00:00",
   "house": {
-    "indoor_temp": 20.0,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 19.5,
-    "outdoor_humidity": 77.0,
-    "wind_speed": 1.1,
-    "wind_direction": 148.0,
-    "pressure": 1022.2,
+    "indoor_temp": 20.1,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 19.4,
+    "outdoor_humidity": 82.0,
+    "wind_speed": 0.0,
+    "wind_direction": 176.0,
+    "pressure": 1021.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 427.0,
+    "power_usage": 435.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "Debian's latest kernel security update has 1,313 reasons to patch",
     "The question you would ask HPE and NVIDIA if nobody was recording",
     "Musk follows Trump's lead, swaps AI for SI in SpaceX rebrand",
-    "Games Workshop seeks IT leader to summon the legions in epic saga battling the forces of ERP",
-    "Anthropic says its IPO could herald the end of the world as we know it"
+    "Games Workshop seeks IT leader to summon the legions in epic saga battling the forces of ERP"
   ],
-  "crew_quote": "\"In this weather, I could really go for a nice curry, but with patchy rain, I’ll probably just end up soggy and miserable—like a damp chip!\""
+  "crew_quote": "\"Ah, lovely weather for a stroll, if you don’t mind a bit of patchy rain. Not like any of us are equipped for a proper downpour, eh? Bring on the curry!\""
 }
