@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T20:46:15.744473+00:00",
+  "timestamp": "2026-10-05T21:17:22.133050+00:00",
   "house": {
     "indoor_temp": 20.3,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 16.6,
-    "outdoor_humidity": 90.0,
+    "indoor_humidity": 65.0,
+    "outdoor_temp": 16.3,
+    "outdoor_humidity": 91.0,
     "wind_speed": 0.0,
-    "wind_direction": 221.0,
-    "pressure": 1022.2,
+    "wind_direction": 175.0,
+    "pressure": 1022.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 665.0,
+    "power_usage": 533.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,8 +20,8 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Overcast ",
+      "temp": 14.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-05",
@@ -41,8 +41,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 13.0,
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-10-05",
@@ -77,5 +77,5 @@
     "FBI confirms 'multiple' arrests related to ShinyHunters hack",
     "Windows 11 26H2 blighted by new audio issue"
   ],
-  "crew_quote": "\"Weather's a bit gloomy, innit? At least it's not raining curry, else I’d be in a right pickle!\""
+  "crew_quote": "\"With this lovely 20.3°C indoors, I could really go for a curry and some foggy Llandudno vibes—perfect for a lazy day in, eh?\""
 }
