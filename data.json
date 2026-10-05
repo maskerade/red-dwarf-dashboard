@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T12:29:44.172765+00:00",
+  "timestamp": "2026-10-05T13:00:42.906109+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.3,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 18.9,
-    "outdoor_humidity": 90.0,
+    "outdoor_temp": 20.5,
+    "outdoor_humidity": 81.0,
     "wind_speed": 0.4,
-    "wind_direction": 202.0,
-    "pressure": 1023.1,
+    "wind_direction": 154.0,
+    "pressure": 1022.6,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 429.0,
+    "uv_index": 0.0,
+    "power_usage": 432.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double",
     "BT buys TalkTalk out of administration to keep 2.5M customers connected"
   ],
-  "crew_quote": "\"Well, it's 19 degrees out and cloudy, just like my future! I might as well grab a curry and enjoy the patchy rain—it's practically a spa day!\""
+  "crew_quote": "\"19 degrees, partly cloudy, and patchy rain nearby? Sounds like a perfect day for a curry, followed by a good old moan about the end of the world!\""
 }
