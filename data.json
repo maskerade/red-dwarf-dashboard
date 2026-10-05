@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-05T10:56:36.299445+00:00",
+  "timestamp": "2026-10-05T11:27:38.333018+00:00",
   "house": {
-    "indoor_temp": 19.9,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 18.4,
-    "outdoor_humidity": 89.0,
+    "indoor_temp": 20.0,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 18.2,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
-    "wind_direction": 172.0,
-    "pressure": 1023.3,
+    "wind_direction": 159.0,
+    "pressure": 1023.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 466.0,
@@ -70,12 +70,12 @@
     "moonrise": "12:12 AM",
     "moonset": "04:50 PM"
   },
-  "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
+  "metrolink": "Due to a points fault at Market Street there are delays to servics on the Altrincham Ashton and Manchester Airport lines. Metrolink apologies for any inconvenience.",
   "headlines": [
+    "Ubuntu 'Stonking Stingray' beta swims out: Deeper Rust 'oxidization' plus LLM speech-to-text",
     "Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double",
     "BT buys TalkTalk out of administration to keep 2.5M customers connected",
-    "Brighter isn't better and more is less. The AI slowdown is nigh, no matter who says what",
-    "What people say about their file infrastructure once the badge comes off"
+    "Brighter isn't better and more is less. The AI slowdown is nigh, no matter who says what"
   ],
-  "crew_quote": "\"Looks like it's 18 degrees out, perfect curry weather! Just as long as I'm not stuck in front of a Windows update — I can barely handle the rain, let alone the stress!\""
+  "crew_quote": "\"Right, so it’s 18 degrees and patchy rain, which means it’s perfect curry weather! Just watch out for those clouds—they're more moody than Rimmer after a bad performance review!\""
 }
