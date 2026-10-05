@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T23:21:45.700861+00:00",
+  "timestamp": "2026-10-05T23:52:52.420887+00:00",
   "house": {
     "indoor_temp": 20.4,
-    "indoor_humidity": 65.0,
+    "indoor_humidity": 64.0,
     "outdoor_temp": 15.5,
     "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 166.0,
-    "pressure": 1021.5,
+    "wind_direction": 149.0,
+    "pressure": 1021.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 663.0,
+    "power_usage": 342.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "FBI confirms 'multiple' arrests related to ShinyHunters hack",
     "Windows 11 26H2 blighted by new audio issue"
   ],
-  "crew_quote": "\"With it being 14 degrees and all this fog, I think I’ll skip the outdoor curry run and just stick to my beloved snoring in comfort—perfectly humid at 20.4 degrees!\""
+  "crew_quote": "\"Well, it's a balmy 14 degrees outside — perfect weather for a curry! Just make sure the fog doesn't mess with my delivery, or I might as well order a pizza!\""
 }
