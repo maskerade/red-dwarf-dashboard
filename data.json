@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T18:41:53.136117+00:00",
+  "timestamp": "2026-10-05T19:12:59.594124+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 17.3,
+    "outdoor_temp": 17.2,
     "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
-    "wind_direction": 180.0,
-    "pressure": 1022.3,
+    "wind_direction": 184.0,
+    "pressure": 1022.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 629.0,
+    "power_usage": 3051.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "OpenAI to flood your eyeballs with visual ads",
     "Debian's latest kernel security update has 1,313 reasons to patch"
   ],
-  "crew_quote": "\"16 degrees and patchy rain? Sounds like perfect curry weather to me—let's spice things up while the universe sorts out its audio issues!\""
+  "crew_quote": "\"Ah, it's 20.2°C indoors, perfect for a curry! But outside, it's drearier than Rimmer's love life—patchy rain and overcast, just like my future.\""
 }
