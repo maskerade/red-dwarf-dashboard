@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-05T16:06:45.943122+00:00",
+  "timestamp": "2026-10-05T16:37:46.219738+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 19.3,
-    "outdoor_humidity": 84.0,
+    "outdoor_temp": 18.7,
+    "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
-    "wind_direction": 204.0,
-    "pressure": 1021.9,
+    "wind_direction": 220.0,
+    "pressure": 1021.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 410.0,
+    "power_usage": 435.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 20.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -41,8 +41,8 @@
       ]
     },
     "llandudno": {
-      "temp": 19.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 18.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-05",
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "Altman-backed Volantis reveals plan to vault the memory wall by baking photonics into AI accelerators",
     "OpenAI to flood your eyeballs with visual ads",
     "Debian's latest kernel security update has 1,313 reasons to patch",
-    "The question you would ask HPE and NVIDIA if nobody was recording",
-    "Musk follows Trump's lead, swaps AI for SI in SpaceX rebrand"
+    "The question you would ask HPE and NVIDIA if nobody was recording"
   ],
-  "crew_quote": "\"With this patchy rain and a cozy 20.3°C indoors, I reckon it’s the perfect weather for a curry — and maybe a good excuse to avoid those eyeball-flooding ads!\""
+  "crew_quote": "\"With this patchy rain, it's the perfect day to huddle indoors with a curry — just don’t let the humidity make it soggy like yesterday’s chips!\""
 }
