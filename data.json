@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-10-05T09:23:26.012790+00:00",
+  "timestamp": "2026-10-05T09:54:28.795684+00:00",
   "house": {
-    "indoor_temp": 19.8,
+    "indoor_temp": 19.9,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 17.3,
+    "outdoor_temp": 17.9,
     "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
-    "wind_direction": 207.0,
-    "pressure": 1023.6,
+    "wind_direction": 178.0,
+    "pressure": 1023.7,
     "rain_today": 0.0,
-    "uv_index": 1.0,
+    "uv_index": 0.0,
     "power_usage": 443.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
@@ -77,5 +77,5 @@
     "Buyer missed one option and got 1% of the cable they needed",
     "Fulcrum Echo promises AI text in the style of any writer, so I tested it"
   ],
-  "crew_quote": "\"Well, at least it's not as muggy as my last curry night; I’ll take a patchy rain over a foggy brain any day!\""
+  "crew_quote": "\"Look, even the weather's getting in on the act—patchy rain nearby, and we’re stuck in here with humidity higher than my last curry-induced sweat! Brilliant!\""
 }
