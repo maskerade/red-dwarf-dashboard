@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-04T23:32:28.195663+00:00",
+  "timestamp": "2026-10-05T00:03:33.736209+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 12.8,
+    "outdoor_temp": 12.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 157.0,
-    "pressure": 1026.3,
+    "pressure": 1026.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 598.0,
+    "power_usage": 511.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Spies, prime ministers, and balls: The BBC Domesday project @ 40",
     "Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows"
   ],
-  "crew_quote": "\"Looks like the weather's as dull as my last promotion—14 degrees and overcast! At least I've got a nice indoor temp to cook up a curry and forget about it!\""
+  "crew_quote": "\"14 degrees and overcast? Sounds like the perfect weather for a curry binge, mate! Just don’t forget the naan; can’t have a dry dip, can we?\""
 }
