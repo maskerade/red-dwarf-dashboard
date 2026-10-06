@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T01:26:10.468913+00:00",
+  "timestamp": "2026-10-06T01:57:16.208383+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 63.0,
     "outdoor_temp": 15.1,
-    "outdoor_humidity": 96.0,
+    "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 145.0,
-    "pressure": 1021.3,
+    "wind_direction": 143.0,
+    "pressure": 1021.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 325.0,
+    "power_usage": 334.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -25,38 +25,38 @@
       "forecast": [
         {
           "date": "2026-10-06",
-          "max": 22.0,
-          "min": 13.0
+          "max": 20.0,
+          "min": 12.0
         },
         {
           "date": "2026-10-07",
-          "max": 13.0,
+          "max": 14.0,
           "min": 8.0
         },
         {
           "date": "2026-10-08",
-          "max": 14.0,
+          "max": 15.0,
           "min": 5.0
         }
       ]
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Fog",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-10-06",
-          "max": 16.0,
-          "min": 12.0
+          "max": 14.0,
+          "min": 11.0
         },
         {
           "date": "2026-10-07",
           "max": 12.0,
-          "min": 9.0
+          "min": 7.0
         },
         {
           "date": "2026-10-08",
-          "max": 13.0,
+          "max": 14.0,
           "min": 8.0
         }
       ]
@@ -77,5 +77,5 @@
     "Cohere offers to put agents in lockdown mode with strict ACLs",
     "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool"
   ],
-  "crew_quote": "\"Ah, foggy weather in Llandudno! Perfect for a curry night—nothing like a bit of mist to make the chips look more enticing, eh?\""
+  "crew_quote": "\"Well, if it’s 14 degrees in Llandudno, I’d better whip up a curry to celebrate — nothing like a good curry to heat up my 20.2 degrees! Mmm, spicy!\""
 }
