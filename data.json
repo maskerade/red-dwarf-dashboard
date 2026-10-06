@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T08:41:35.249310+00:00",
+  "timestamp": "2026-10-06T09:12:41.592369+00:00",
   "house": {
-    "indoor_temp": 20.1,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 15.8,
-    "outdoor_humidity": 95.0,
+    "indoor_temp": 20.2,
+    "indoor_humidity": 65.0,
+    "outdoor_temp": 17.1,
+    "outdoor_humidity": 91.0,
     "wind_speed": 0.0,
-    "wind_direction": 189.0,
-    "pressure": 1020.3,
+    "wind_direction": 170.0,
+    "pressure": 1020.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 407.0,
+    "power_usage": 404.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "OpenAI rolls out weak sauce watermarking for AI text",
     "Scientists find planet made on new matter recipe, and it formed after a Red Giant ate a solar system"
   ],
-  "crew_quote": "\"With the weather outside just as patchy as my last haircut, I reckon I’ll stay in and whip up a curry. Who needs the sun when you’ve got spicy goodness?\""
+  "crew_quote": "\"Oi, I’d rather face patchy rain than the awful dread of KPMG handing out cash and silence; I’ll take a curry any day over their ‘generosity’!\""
 }
