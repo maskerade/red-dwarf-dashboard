@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T06:37:11.773166+00:00",
+  "timestamp": "2026-10-06T07:08:17.498610+00:00",
   "house": {
     "indoor_temp": 20.1,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 14.3,
+    "outdoor_temp": 14.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 145.0,
+    "wind_direction": 220.0,
     "pressure": 1020.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 362.0,
+    "power_usage": 306.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Atlassian warns of critical file access flaw in its datacenter products",
     "Security researcher claims they found KVM guest-host escape flaw"
   ],
-  "crew_quote": "\"Great, just great! It's pouring outside, and I'm stuck here with the only solution to all my problems being an indoor curry—unless, of course, you count this new matter planet!\""
+  "crew_quote": "\"Looks like it's a proper cozy day outside with all that rain; I could really go for a curry to warm me up, but don't worry, I won't drown it in sauce this time!\""
 }
