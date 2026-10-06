@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T08:10:28.959414+00:00",
+  "timestamp": "2026-10-06T08:41:35.249310+00:00",
   "house": {
-    "indoor_temp": 20.0,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 15.2,
-    "outdoor_humidity": 98.0,
-    "wind_speed": 0.4,
-    "wind_direction": 220.0,
-    "pressure": 1020.6,
+    "indoor_temp": 20.1,
+    "indoor_humidity": 64.0,
+    "outdoor_temp": 15.8,
+    "outdoor_humidity": 95.0,
+    "wind_speed": 0.0,
+    "wind_direction": 189.0,
+    "pressure": 1020.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 3023.0,
+    "power_usage": 407.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "KPMG tells staff facing the axe: Here's £100, now zip it",
     "Only the finest Swedish Bork will do for Stockholm station",
     "OpenAI rolls out weak sauce watermarking for AI text",
-    "Scientists find planet made on new matter recipe, and it formed after a Red Giant ate a solar system",
-    "Atlassian warns of critical file access flaw in its datacenter products"
+    "Scientists find planet made on new matter recipe, and it formed after a Red Giant ate a solar system"
   ],
-  "crew_quote": "\"Ah, the weather's about as exciting as a soggy curry, but at least the ship's a cozy 20 degrees, perfect for lounging and contemplating my own fabulousness!\""
+  "crew_quote": "\"With the weather outside just as patchy as my last haircut, I reckon I’ll stay in and whip up a curry. Who needs the sun when you’ve got spicy goodness?\""
 }
