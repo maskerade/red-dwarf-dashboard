@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T17:30:20.650634+00:00",
+  "timestamp": "2026-10-06T18:01:26.261333+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.7,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 16.2,
+    "outdoor_temp": 16.0,
     "outdoor_humidity": 94.0,
     "wind_speed": 0.0,
-    "wind_direction": 152.0,
-    "pressure": 1018.2,
+    "wind_direction": 163.0,
+    "pressure": 1018.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 443.0,
+    "power_usage": 500.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Classic Outlook clings to stale search results as Microsoft works on a fix",
     "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets"
   ],
-  "crew_quote": "\"When's the last time the weather was so dreary? I mean, fog in Llandudno? Sounds like they could use a good curry to lighten the mood!\""
+  "crew_quote": "\"Nice and warm in here at 20.7°C, but outside it’s like a cold cup of curry left out for a week—might as well be in Llandudno!\""
 }
