@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T23:12:27.694269+00:00",
+  "timestamp": "2026-10-06T23:43:33.773802+00:00",
   "house": {
-    "indoor_temp": 20.8,
+    "indoor_temp": 20.9,
     "indoor_humidity": 66.0,
-    "outdoor_temp": 13.1,
+    "outdoor_temp": 13.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 157.0,
-    "pressure": 1017.9,
+    "wind_direction": 149.0,
+    "pressure": 1017.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 612.0,
+    "power_usage": 429.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,14 +20,9 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-10-06",
-          "max": 21.0,
-          "min": 12.0
-        },
         {
           "date": "2026-10-07",
           "max": 15.0,
@@ -37,18 +32,18 @@
           "date": "2026-10-08",
           "max": 15.0,
           "min": 5.0
+        },
+        {
+          "date": "2026-10-09",
+          "max": 18.0,
+          "min": 10.0
         }
       ]
     },
     "llandudno": {
       "temp": 11.0,
-      "conditions": "Mist",
+      "conditions": "Light rain",
       "forecast": [
-        {
-          "date": "2026-10-06",
-          "max": 16.0,
-          "min": 11.0
-        },
         {
           "date": "2026-10-07",
           "max": 12.0,
@@ -58,24 +53,29 @@
           "date": "2026-10-08",
           "max": 13.0,
           "min": 8.0
+        },
+        {
+          "date": "2026-10-09",
+          "max": 15.0,
+          "min": 10.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:17 AM",
-    "sunset": "06:32 PM",
+    "sunrise": "07:18 AM",
+    "sunset": "06:29 PM",
     "moon_phase": "Waning Crescent",
-    "moon_illumination": "24",
-    "moonrise": "01:41 AM",
-    "moonset": "05:06 PM"
+    "moon_illumination": "15",
+    "moonrise": "03:08 AM",
+    "moonset": "05:19 PM"
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "Google teams with nuclear power giant to give reactors a tune-up",
     "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
     "Permanent daylight saving time could be a public health time bomb",
-    "European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
-    "Trump Mobile customers' data dumped - and some never even received their gold device"
+    "European AI flag bearer Mistral's new open weights model is 'Le Chonk'"
   ],
-  "crew_quote": "\"Listen, if I wanted chillier weather, I’d just stick my head in the fridge! At least in here it’s a nice 20.8°C, perfect for a curry, mate!\""
+  "crew_quote": "\"With the weather as dull as a soggy curry, I reckon we should tune up our moods instead of reactors, eh? A little cheer might just outshine that overcast sky!\""
 }
