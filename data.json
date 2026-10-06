@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T13:21:30.604763+00:00",
+  "timestamp": "2026-10-06T13:52:36.594287+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.7,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 19.0,
-    "outdoor_humidity": 84.0,
+    "outdoor_temp": 19.5,
+    "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 169.0,
-    "pressure": 1019.1,
+    "wind_direction": 183.0,
+    "pressure": 1018.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 458.0,
+    "power_usage": 404.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Denmark's ID register spills more people's details than the country has residents",
     "Atos lands £350M beat keeping Met Police applications running"
   ],
-  "crew_quote": "\"Ah, what a lovely day for a stroll in the mist—just like my hair in the morning! But if only I could find a curry shop that's not leaking data like Asos!\""
+  "crew_quote": "\"Well, it’s a bit misty out there, isn’t it? Good thing I’ve got my killer curry cooking to keep me warm while we ignore the zombie drama on the web!\""
 }
