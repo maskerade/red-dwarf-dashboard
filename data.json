@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T15:25:54.279784+00:00",
+  "timestamp": "2026-10-06T15:57:00.696918+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 19.1,
-    "outdoor_humidity": 83.0,
+    "outdoor_temp": 18.4,
+    "outdoor_humidity": 88.0,
     "wind_speed": 0.0,
     "wind_direction": 153.0,
-    "pressure": 1018.4,
+    "pressure": 1018.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 415.0,
+    "power_usage": 446.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 21.0,
+      "temp": 20.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -77,5 +77,5 @@
     "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets",
     "Asos app delivers a data leak threat instead of fast fashion"
   ],
-  "crew_quote": "\"Ah, patchy rain and fog—just like the time I tried to cook a curry in a misty kitchen! Can’t we just get on with some proper weather?\""
+  "crew_quote": "\"Looks like it's a perfect day for a lovely curry, as long as the outside weather doesn't get too foggy and ruin my appetite!\""
 }
