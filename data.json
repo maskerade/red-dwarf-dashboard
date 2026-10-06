@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T20:05:50.866344+00:00",
+  "timestamp": "2026-10-06T20:36:57.337573+00:00",
   "house": {
     "indoor_temp": 20.7,
-    "indoor_humidity": 65.0,
-    "outdoor_temp": 13.7,
+    "indoor_humidity": 66.0,
+    "outdoor_temp": 13.6,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
-    "wind_direction": 153.0,
-    "pressure": 1018.3,
-    "rain_today": 6.1,
+    "wind_speed": 0.4,
+    "wind_direction": 155.0,
+    "pressure": 1018.4,
+    "rain_today": 6.3,
     "uv_index": 0.0,
-    "power_usage": 570.0,
+    "power_usage": 618.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -21,7 +21,7 @@
     },
     "overseal": {
       "temp": 16.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-06",
@@ -30,7 +30,7 @@
         },
         {
           "date": "2026-10-07",
-          "max": 14.0,
+          "max": 15.0,
           "min": 8.0
         },
         {
@@ -42,7 +42,7 @@
     },
     "llandudno": {
       "temp": 11.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-10-06",
@@ -52,11 +52,11 @@
         {
           "date": "2026-10-07",
           "max": 12.0,
-          "min": 8.0
+          "min": 7.0
         },
         {
           "date": "2026-10-08",
-          "max": 14.0,
+          "max": 13.0,
           "min": 8.0
         }
       ]
@@ -77,5 +77,5 @@
     "Wikimedia Foundation comes forward as latest OpenAI agent assault victim",
     "Microsoft extends the Outlook naughty step with two more file types"
   ],
-  "crew_quote": "\"Oi, with this weather and all this humidity, I reckon my curry's gonna turn into a soup if I don't find a proper oven soon! I mean, how hard can it be to get decent food on this ship?\""
+  "crew_quote": "\"Oi, it’s so misty out there in Llandudno, I could probably get lost just trying to find a curry! At least inside it’s cozy and warm, unlike me soggy socks!\""
 }
