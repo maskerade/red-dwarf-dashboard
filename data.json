@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T04:01:40.526323+00:00",
+  "timestamp": "2026-10-06T04:32:46.710228+00:00",
   "house": {
     "indoor_temp": 20.1,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 14.2,
+    "outdoor_temp": 14.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 140.0,
-    "pressure": 1020.6,
+    "wind_direction": 155.0,
+    "pressure": 1020.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 331.0,
+    "power_usage": 365.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Citrix NetScaler security snafus get even worse amid more 0-day reports",
     "Cohere offers to put agents in lockdown mode with strict ACLs"
   ],
-  "crew_quote": "\"When it's misty outside and only 14°C, I say we crank up the curry and enjoy the indoor temp. A little humidity never hurt anyone, unless it's the bad kind, like Rimmer.\""
+  "crew_quote": "\"With the indoors so cozy at 20.1°C, I’d say it’s the perfect weather for a curry, just as long as we don’t end up mistaking the bog roll for naan again!\""
 }
