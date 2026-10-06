@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T02:59:28.615115+00:00",
+  "timestamp": "2026-10-06T03:30:34.519059+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 14.5,
-    "outdoor_humidity": 98.0,
+    "outdoor_temp": 14.3,
+    "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 142.0,
-    "pressure": 1020.9,
+    "wind_direction": 138.0,
+    "pressure": 1020.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 314.0,
+    "power_usage": 331.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "Security researcher claims to they found KVM guest-host escape flaw",
     "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
     "Citrix NetScaler security snafus get even worse amid more 0-day reports",
-    "Cohere offers to put agents in lockdown mode with strict ACLs",
-    "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool"
+    "Cohere offers to put agents in lockdown mode with strict ACLs"
   ],
-  "crew_quote": "\"Ah, misty Llandudno and a crisp 14 degrees—just perfect for a curry, but do we need a fancy data center to cool it down? I mean, what next, Rimmer? Cooling systems for chips?\""
+  "crew_quote": "\"With this mist outside and the humidity cranking up, I could really use a curry to warm me up—who knew the weather could be so dreary when you're stuck on a space rust bucket?\""
 }
