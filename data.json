@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-10-06T03:30:34.519059+00:00",
+  "timestamp": "2026-10-06T04:01:40.526323+00:00",
   "house": {
     "indoor_temp": 20.1,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 14.3,
+    "outdoor_temp": 14.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 138.0,
+    "wind_direction": 140.0,
     "pressure": 1020.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
-    "Security researcher claims to they found KVM guest-host escape flaw",
+    "Security researcher claims they found KVM guest-host escape flaw",
     "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
     "Citrix NetScaler security snafus get even worse amid more 0-day reports",
     "Cohere offers to put agents in lockdown mode with strict ACLs"
   ],
-  "crew_quote": "\"With this mist outside and the humidity cranking up, I could really use a curry to warm me up—who knew the weather could be so dreary when you're stuck on a space rust bucket?\""
+  "crew_quote": "\"When it's misty outside and only 14°C, I say we crank up the curry and enjoy the indoor temp. A little humidity never hurt anyone, unless it's the bad kind, like Rimmer.\""
 }
