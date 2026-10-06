@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T19:34:44.276021+00:00",
+  "timestamp": "2026-10-06T20:05:50.866344+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.7,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 13.9,
+    "outdoor_temp": 13.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 159.0,
+    "wind_direction": 153.0,
     "pressure": 1018.3,
-    "rain_today": 4.5,
+    "rain_today": 6.1,
     "uv_index": 0.0,
-    "power_usage": 637.0,
+    "power_usage": 570.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
+    "Trump Mobile customers' data dumped - and some never even received their gold device",
     "Wikimedia Foundation comes forward as latest OpenAI agent assault victim",
-    "Microsoft extends the Outlook naughty step with two more file types",
-    "Classic Outlook clings to stale search results as Microsoft works on a fix",
-    "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets"
+    "Microsoft extends the Outlook naughty step with two more file types"
   ],
-  "crew_quote": "\"Well, it's patchy rain nearby and I'm trapped indoors with 20.6°C and a dodgy curry I was saving, so I suppose now's the perfect time to reminisce about my youthful adventures!\""
+  "crew_quote": "\"Oi, with this weather and all this humidity, I reckon my curry's gonna turn into a soup if I don't find a proper oven soon! I mean, how hard can it be to get decent food on this ship?\""
 }
