@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T13:52:36.594287+00:00",
+  "timestamp": "2026-10-06T14:23:42.028362+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.8,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 19.5,
+    "outdoor_temp": 19.4,
     "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 183.0,
-    "pressure": 1018.9,
+    "wind_direction": 178.0,
+    "pressure": 1018.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 404.0,
+    "power_usage": 314.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -21,7 +21,7 @@
     },
     "overseal": {
       "temp": 21.0,
-      "conditions": "Cloudy ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-06",
@@ -35,19 +35,19 @@
         },
         {
           "date": "2026-10-08",
-          "max": 14.0,
+          "max": 15.0,
           "min": 5.0
         }
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Mist",
+      "temp": 12.0,
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-10-06",
           "max": 16.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-10-07",
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "Classic Outlook clings to stale search results as Microsoft works on a fix",
     "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets",
     "Asos app delivers a data leak threat instead of fast fashion",
-    "Denmark's ID register spills more people's details than the country has residents",
-    "Atos lands £350M beat keeping Met Police applications running"
+    "Denmark's ID register spills more people's details than the country has residents"
   ],
-  "crew_quote": "\"Well, it’s a bit misty out there, isn’t it? Good thing I’ve got my killer curry cooking to keep me warm while we ignore the zombie drama on the web!\""
+  "crew_quote": "\"With a fog thicker than a curry sauce, I’d say it’s a perfect day for a little stroll... right up to the nearest pub for a pint!\""
 }
