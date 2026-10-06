@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T01:57:16.208383+00:00",
+  "timestamp": "2026-10-06T02:28:22.726595+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 15.1,
-    "outdoor_humidity": 97.0,
+    "outdoor_temp": 14.8,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 143.0,
-    "pressure": 1021.5,
+    "wind_direction": 168.0,
+    "pressure": 1021.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 334.0,
+    "power_usage": 331.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Cohere offers to put agents in lockdown mode with strict ACLs",
     "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool"
   ],
-  "crew_quote": "\"Well, if it’s 14 degrees in Llandudno, I’d better whip up a curry to celebrate — nothing like a good curry to heat up my 20.2 degrees! Mmm, spicy!\""
+  "crew_quote": "\"Looks like it’s misty in Llandudno, but at least we’re warmer than that with a cozy 20.2°C indoors—perfect for a nice curry and a bit of telly, eh?\""
 }
