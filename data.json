@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T19:03:38.057687+00:00",
+  "timestamp": "2026-10-06T19:34:44.276021+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 65.0,
-    "outdoor_temp": 14.6,
+    "outdoor_temp": 13.9,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.4,
-    "wind_direction": 162.0,
-    "pressure": 1018.4,
-    "rain_today": 1.7,
+    "wind_speed": 0.0,
+    "wind_direction": 159.0,
+    "pressure": 1018.3,
+    "rain_today": 4.5,
     "uv_index": 0.0,
-    "power_usage": 702.0,
+    "power_usage": 637.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Classic Outlook clings to stale search results as Microsoft works on a fix",
     "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets"
   ],
-  "crew_quote": "\"With the weather outside all patchy and miserable, I think I'll just stay in and have a curry—no rain’s gonna ruin my appetite for adventure!\""
+  "crew_quote": "\"Well, it's patchy rain nearby and I'm trapped indoors with 20.6°C and a dodgy curry I was saving, so I suppose now's the perfect time to reminisce about my youthful adventures!\""
 }
