@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T11:48:12.274838+00:00",
+  "timestamp": "2026-10-06T12:19:18.116432+00:00",
   "house": {
-    "indoor_temp": 20.7,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 18.7,
-    "outdoor_humidity": 85.0,
+    "indoor_temp": 20.6,
+    "indoor_humidity": 65.0,
+    "outdoor_temp": 19.1,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 221.0,
-    "pressure": 1019.8,
+    "wind_direction": 207.0,
+    "pressure": 1019.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 466.0,
+    "power_usage": 427.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "KPMG tells staff facing the axe: Here's £100, now zip it",
     "Only the finest Swedish Bork will do for Stockholm station"
   ],
-  "crew_quote": "\"I'd rather be in Llandudno in this light drizzle than stuck in a school software mess, at least I've got a decent curry to look forward to when I get back!\""
+  "crew_quote": "\"Wow, it’s a drizzly 15°C in Llandudno! Perfect weather for a nice curry—just the kind of thing to spice up a dreary day, don’t you think?\""
 }
