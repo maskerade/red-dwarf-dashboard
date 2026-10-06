@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T05:34:59.087028+00:00",
+  "timestamp": "2026-10-06T06:06:05.766988+00:00",
   "house": {
     "indoor_temp": 20.1,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 14.0,
+    "outdoor_temp": 14.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 140.0,
+    "wind_direction": 196.0,
     "pressure": 1020.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 306.0,
+    "power_usage": 337.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
-    "Security researcher claims they found KVM guest-host escape flaw",
-    "Schneider Electric drops $22.6B on PTC as datacenter boom rains money on infra companies",
-    "Citrix NetScaler security snafus get even worse amid more 0-day reports",
-    "Cohere offers to put agents in lockdown mode with strict ACLs"
+    "OpenAI rolls out weak sauce watermarking for AI text",
+    "Scientists find planet made on new matter recipe, and it formed after a Red Giant ate a solar system",
+    "Atlassian warns of critical file access flaw in its datacenter products",
+    "Security researcher claims they found KVM guest-host escape flaw"
   ],
-  "crew_quote": "\"With all this fog in Llandudno, I reckon it's a perfect time for a curry night — just to make sure we can still taste something through the gloom!\""
+  "crew_quote": "\"I don't get it, if they can make planets out of new matter, why can't they make a decent curry? The weather's clear enough, it could do with some spice!\""
 }
