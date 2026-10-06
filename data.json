@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T00:23:57.786880+00:00",
+  "timestamp": "2026-10-06T00:55:04.143022+00:00",
   "house": {
-    "indoor_temp": 20.4,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 15.4,
-    "outdoor_humidity": 95.0,
+    "indoor_temp": 20.3,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 15.3,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 144.0,
-    "pressure": 1021.4,
+    "wind_direction": 146.0,
+    "pressure": 1021.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 362.0,
+    "power_usage": 314.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Cohere offers to put agents in lockdown mode with strict ACLs",
     "Get rid of Apple's AI bloatware and reclaim 12 GB of storage with this open source tool"
   ],
-  "crew_quote": "\"Ah, lovely day for a curry, isn't it? Though I’d take a foggy Llandudno over 362 kWh of nonsense any day!\""
+  "crew_quote": "\"Honestly, with a room as cozy as this at 20.3°C, I could whip up a curry and forget the fog outside—who needs sunshine when you've got a good tikka masala?\""
 }
