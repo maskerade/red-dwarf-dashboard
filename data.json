@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-06T21:08:03.275665+00:00",
+  "timestamp": "2026-10-06T21:39:10.958308+00:00",
   "house": {
-    "indoor_temp": 20.8,
-    "indoor_humidity": 67.0,
-    "outdoor_temp": 13.3,
+    "indoor_temp": 20.7,
+    "indoor_humidity": 66.0,
+    "outdoor_temp": 12.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 155.0,
-    "pressure": 1018.2,
+    "wind_direction": 153.0,
+    "pressure": 1018.3,
     "rain_today": 6.3,
     "uv_index": 0.0,
-    "power_usage": 671.0,
+    "power_usage": 576.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "Anthropic Claude subscription plan provides more value than OpenAI's, study says",
+    "Permanent daylight saving time could be a public health time bomb",
     "European AI flag bearer Mistral's new open weights model is 'Le Chonk'",
-    "Trump Mobile customers' data dumped - and some never even received their gold device",
-    "Wikimedia Foundation comes forward as latest OpenAI agent assault victim",
-    "Microsoft extends the Outlook naughty step with two more file types"
+    "Trump Mobile customers' data dumped - and some never even received their gold device"
   ],
-  "crew_quote": "\"With a temperature inside that's toastier than a curry on a Friday night, I’d say the weather outside’s a bit dreary, but at least I won’t have to deal with that Mistral model today!\""
+  "crew_quote": "\"With this weather, I’ve got a better chance of getting a curry delivered than finding my dignity in a misty Llandudno, and that’s saying something!\""
 }
