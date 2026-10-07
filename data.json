@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-07T14:44:46.695315+00:00",
+  "timestamp": "2026-10-07T15:15:50.288690+00:00",
   "house": {
     "indoor_temp": 20.7,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 13.4,
-    "outdoor_humidity": 69.0,
-    "wind_speed": 1.1,
-    "wind_direction": 121.0,
-    "pressure": 1016.9,
+    "outdoor_temp": 13.2,
+    "outdoor_humidity": 73.0,
+    "wind_speed": 0.7,
+    "wind_direction": 136.0,
+    "pressure": 1017.1,
     "rain_today": 1.3,
     "uv_index": 0.0,
-    "power_usage": 427.0,
+    "power_usage": 446.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,8 +20,8 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Overcast ",
+      "temp": 14.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-10-07",
@@ -41,7 +41,7 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -72,10 +72,10 @@
   },
   "metrolink": "Due to a Network Rail signalling fault Bury - Altrincham services will terminate at Timperley. Some passengers may experience a delay. We are sorry for any inconvenience caused.",
   "headlines": [
+    "When one datacenter is no longer enough",
     "Europe's mobile operators sell fewer phones but gain share as budget market shrivels",
     "Nine in 10 VMware customers eye the exit as licensing bills bite",
-    "Dutch tax office ditches Microsoft 365 cloud for on-premises alternative",
-    "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks"
+    "Dutch tax office ditches Microsoft 365 cloud for on-premises alternative"
   ],
-  "crew_quote": "\"With weather like this, it’s the perfect day for a curry... or maybe just napping under a blanket while the rest of Europe figures out their phone problems!\""
+  "crew_quote": "\"With the sun shining at 14 degrees, it’s the perfect day to contemplate life... or just perfect chips and curry. Who cares about datacenters when you've got good food?\""
 }
