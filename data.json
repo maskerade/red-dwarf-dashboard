@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-07T05:25:39.935961+00:00",
+  "timestamp": "2026-10-07T05:56:46.023343+00:00",
   "house": {
     "indoor_temp": 20.4,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 10.4,
+    "outdoor_temp": 10.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 138.0,
-    "pressure": 1017.0,
+    "pressure": 1017.1,
     "rain_today": 1.0,
     "uv_index": 0.0,
-    "power_usage": 345.0,
+    "power_usage": 337.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -21,7 +21,7 @@
     },
     "overseal": {
       "temp": 13.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-10-07",
@@ -41,8 +41,8 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 9.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-07",
@@ -77,5 +77,5 @@
     "Google teams with nuclear power giant to give reactors a tune-up",
     "Anthropic Claude subscription plan provides more value than OpenAI's, study says"
   ],
-  "crew_quote": "\"Ah, brilliant! Perfect weather for a nice curry and a bit of patchy rain — just like my love life, always a bit drizzly!\""
+  "crew_quote": "\"Well, at least it's not raining curry, eh? Just a drizzly 13 degrees — I reckon it’s perfect for a cozy night in with a few pints and a spicy vindaloo!\""
 }
