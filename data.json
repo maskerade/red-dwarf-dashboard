@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-07T01:47:56.969427+00:00",
+  "timestamp": "2026-10-07T02:19:03.477297+00:00",
   "house": {
     "indoor_temp": 20.6,
     "indoor_humidity": 64.0,
-    "outdoor_temp": 12.1,
+    "outdoor_temp": 11.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 150.0,
-    "pressure": 1017.4,
+    "wind_direction": 151.0,
+    "pressure": 1017.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 320.0,
+    "power_usage": 359.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Permanent daylight saving time could be a public health time bomb",
     "European AI flag bearer Mistral's new open weights model is 'Le Chonk'"
   ],
-  "crew_quote": "\"Great, it’s overcast and raining, just like my mood after finding out I’m still not getting my curry fix—while Google’s busy tuning up reactors, I’m tuning out!\""
+  "crew_quote": "\"With this gloomy weather, I could really do with a curry to warm me up—maybe we can use that power from Google’s nuclear buddies to cook it faster!\""
 }
