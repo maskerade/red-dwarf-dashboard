@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-07T16:49:06.717754+00:00",
+  "timestamp": "2026-10-07T17:20:12.677165+00:00",
   "house": {
-    "indoor_temp": 20.7,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 11.4,
-    "outdoor_humidity": 81.0,
-    "wind_speed": 0.0,
-    "wind_direction": 139.0,
-    "pressure": 1017.4,
+    "indoor_temp": 20.5,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 10.6,
+    "outdoor_humidity": 86.0,
+    "wind_speed": 2.9,
+    "wind_direction": 117.0,
+    "pressure": 1018.0,
     "rain_today": 1.3,
     "uv_index": 0.0,
-    "power_usage": 432.0,
+    "power_usage": 519.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Nine in 10 VMware customers eye the exit as licensing bills bite",
     "Dutch tax office ditches Microsoft 365 cloud for on-premises alternative"
   ],
-  "crew_quote": "\"Well, it's a lovely 13 degrees outside, which is just perfect for a nice curry... as long as it doesn’t rain on my takeaway delivery!\""
+  "crew_quote": "\"Ah, sunny and 13 degrees out there, perfect weather for a curry, as long as it doesn't rain on my parade—though honestly, I wouldn’t mind a sprinkle!\""
 }
