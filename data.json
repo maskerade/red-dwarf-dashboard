@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-07T23:02:13.478256+00:00",
+  "timestamp": "2026-10-07T23:33:18.771979+00:00",
   "house": {
     "indoor_temp": 20.4,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 8.3,
-    "outdoor_humidity": 91.0,
+    "outdoor_temp": 7.8,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 127.0,
+    "wind_direction": 138.0,
     "pressure": 1019.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 615.0,
+    "power_usage": 612.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
-    "Browser-in-browser attacks use fake Meta Muse Ad lure to steal credentials",
-    "AWS launches open-source AI agent sandbox to prevent YOLO mode disasters",
-    "US states sue popular kitmaker TP-Link over China risks",
-    "Starlink's plan to avoid orbital near-misses: Ephemeris sharing"
+    "Microsoft is about to let Copilot loose on your file system",
+    "OpenAI dots inspire open source imitators amid technical difficulties",
+    "Argonne scientists create chatty X-ray microscope that zooms in where you tell it to",
+    "Microsoft N1Xes Intel in favor of Nvidia's shiny new SoCs in Surface Laptop Ultra"
   ],
-  "crew_quote": "\"Well, it’s a bit drizzly outside, but at least in here it’s a balmy 20.4 degrees! Perfect curry weather, if you ask me—nothing like a good vindaloo to cheer up a rainy day!\""
+  "crew_quote": "\"Ah, light rain in Llandudno, eh? Perfect weather for a curry night with a side of misery – just like this whole Copilot business!\""
 }
