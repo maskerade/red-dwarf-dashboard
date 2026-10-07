@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-07T11:07:40.901338+00:00",
+  "timestamp": "2026-10-07T11:38:41.010604+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 11.7,
-    "outdoor_humidity": 81.0,
-    "wind_speed": 0.0,
-    "wind_direction": 128.0,
+    "outdoor_temp": 12.9,
+    "outdoor_humidity": 78.0,
+    "wind_speed": 0.7,
+    "wind_direction": 138.0,
     "pressure": 1017.6,
     "rain_today": 1.3,
     "uv_index": 0.0,
-    "power_usage": 418.0,
+    "power_usage": 458.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "From reactive to proactive: How endpoint monitoring is fixing broken meeting rooms",
     "South Korean president calls for creation of tools that stop all cyber-attacks"
   ],
-  "crew_quote": "\"Ah, light rain and a cozy 21 degrees—perfect weather for a curry binge and a good old moan about that daft Rails bloke. Bet he thinks he's got a bright idea!\""
+  "crew_quote": "\"Well, it’s a bit drizzly outside, but at least it’s nice and toasty in here—perfect curry weather if you ask me!\""
 }
