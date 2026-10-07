@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-07T17:20:12.677165+00:00",
+  "timestamp": "2026-10-07T17:51:17.641251+00:00",
   "house": {
     "indoor_temp": 20.5,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 10.6,
-    "outdoor_humidity": 86.0,
-    "wind_speed": 2.9,
-    "wind_direction": 117.0,
-    "pressure": 1018.0,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 10.1,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 0.4,
+    "wind_direction": 118.0,
+    "pressure": 1017.9,
     "rain_today": 1.3,
     "uv_index": 0.0,
-    "power_usage": 519.0,
+    "power_usage": 511.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -70,12 +70,12 @@
     "moonrise": "03:08 AM",
     "moonset": "05:19 PM"
   },
-  "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
+  "metrolink": "Due to an act of vandalism some passengers on the Altrincham-Bury Line may experience a minor delay boarding a service. We are sorry for the inconvenience.",
   "headlines": [
     "When one datacenter is no longer enough",
     "Europe's mobile operators sell fewer phones but gain share as budget market shrivels",
     "Nine in 10 VMware customers eye the exit as licensing bills bite",
     "Dutch tax office ditches Microsoft 365 cloud for on-premises alternative"
   ],
-  "crew_quote": "\"Ah, sunny and 13 degrees out there, perfect weather for a curry, as long as it doesn't rain on my parade—though honestly, I wouldn’t mind a sprinkle!\""
+  "crew_quote": "\"Can't believe it’s sunny outside while I’m stuck in here—feels a bit like a budget phone: all the fun’s in the specs, but no one really wants to take it out!\""
 }
