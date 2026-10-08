@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T18:12:28.353292+00:00",
+  "timestamp": "2026-10-08T18:43:34.377804+00:00",
   "house": {
     "indoor_temp": 19.8,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 10.1,
-    "outdoor_humidity": 92.0,
+    "outdoor_temp": 9.7,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 157.0,
-    "pressure": 1021.1,
-    "rain_today": 0.7,
+    "wind_direction": 198.0,
+    "pressure": 1020.5,
+    "rain_today": 1.0,
     "uv_index": 0.0,
-    "power_usage": 660.0,
+    "power_usage": 629.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Rust upstart reveals 'reimplementation' of Microsoft Office – with Claude on coding duty",
     "CrowdStrike finds possible bank hacker's CV among exposed AI logs"
   ],
-  "crew_quote": "\"Great, we’re stuck in a dreary drizzle while the power bill's higher than my last curry night! At least it’s warmer in here than a particularly sweaty pub!\""
+  "crew_quote": "\"Ah, it's a lovely 19.8 degrees inside, perfect for a curry, while outside it's just gloom and drizzle. Reminds me of my love life — always overcast!\""
 }
