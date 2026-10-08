@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T17:10:16.540324+00:00",
+  "timestamp": "2026-10-08T17:41:21.816129+00:00",
   "house": {
     "indoor_temp": 19.7,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 11.0,
-    "outdoor_humidity": 90.0,
-    "wind_speed": 0.0,
-    "wind_direction": 152.0,
-    "pressure": 1022.2,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 10.5,
+    "outdoor_humidity": 92.0,
+    "wind_speed": 0.4,
+    "wind_direction": 221.0,
+    "pressure": 1021.5,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 651.0,
+    "power_usage": 668.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -77,5 +77,5 @@
     "Rust upstart reveals 'reimplementation' of Microsoft Office – with Claude on coding duty",
     "CrowdStrike finds possible bank hacker's CV among exposed AI logs"
   ],
-  "crew_quote": "\"Look at that drizzle, it’s got me craving a curry! It’s like the weather’s trying to remind me I’m not just a little bit damp, I’m full-on soggy!\""
+  "crew_quote": "\"Blimey, it's so dreary outside, I might as well just cook a curry and sit in here at a toasty 19.7°C—perfect for making a bit of spice on a rainy day!\""
 }
