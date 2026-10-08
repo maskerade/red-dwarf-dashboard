@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T11:59:35.450641+00:00",
+  "timestamp": "2026-10-08T12:30:39.555249+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 19.9,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 13.1,
-    "outdoor_humidity": 73.0,
-    "wind_speed": 0.4,
-    "wind_direction": 149.0,
-    "pressure": 1024.1,
+    "outdoor_temp": 13.0,
+    "outdoor_humidity": 76.0,
+    "wind_speed": 0.0,
+    "wind_direction": 152.0,
+    "pressure": 1024.0,
     "rain_today": 0.0,
-    "uv_index": 0.0,
-    "power_usage": 415.0,
+    "uv_index": 1.0,
+    "power_usage": 376.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -70,12 +70,12 @@
     "moonrise": "04:32 AM",
     "moonset": "05:30 PM"
   },
-  "metrolink": "Due to an operational issue there are currently minor delays on the Altrincham line. We apologise for any inconvenience caused.",
+  "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "Samsung eyes $80B quarterly profit as memory buyers pay the price",
     "UK and Germany team up against Russian cyberattacks as Brexit rethink looms",
     "Windows Search learns to take orders",
-    "Microsoft unveils 'Surace' Laptop Ultra",
-    "Scientists get a new clue to the origin of solar wind 'switchbacks'"
+    "Microsoft unveils 'Surace' Laptop Ultra"
   ],
-  "crew_quote": "\"Looks like it’s patchy rain nearby, just like my last curry—always a chance of splatter! Better wrap up, it’s only 13 degrees out there!\""
+  "crew_quote": "\"Well, while the weather's as gloomy as my love life, at least it's warmer in here than the latest Samsung profits – maybe I should invest in a curry instead!\""
 }
