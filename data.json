@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T13:01:44.991353+00:00",
+  "timestamp": "2026-10-08T13:32:50.036487+00:00",
   "house": {
-    "indoor_temp": 19.8,
+    "indoor_temp": 19.7,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 12.3,
+    "outdoor_temp": 12.8,
     "outdoor_humidity": 79.0,
-    "wind_speed": 0.0,
-    "wind_direction": 176.0,
-    "pressure": 1023.9,
+    "wind_speed": 2.9,
+    "wind_direction": 154.0,
+    "pressure": 1023.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 351.0,
+    "power_usage": 387.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "CrowdStrike finds possible bank hacker's CV among exposed AI logs",
     "IBM offloads 'hundreds' of its cloudy VMware customers",
     "AI giants promise to play nice with personal data after UK watchdog scrutiny",
-    "Samsung eyes $80B quarterly profit as memory buyers pay the price",
-    "UK and Germany team up against Russian cyberattacks as Brexit rethink looms"
+    "Samsung eyes $80B quarterly profit as memory buyers pay the price"
   ],
-  "crew_quote": "\"The weather's about as exciting as a soggy curry, but at least it’s warmer inside—could do with a bit more humidity though, like my favorite curry dish!\""
+  "crew_quote": "\"You know, with that weather being 13 degrees and overcast, it’s the perfect excuse to stay in and cook up a proper curry instead of worrying about hackers and clouds!\""
 }
