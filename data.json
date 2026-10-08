@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T23:23:24.448967+00:00",
+  "timestamp": "2026-10-08T23:54:31.204212+00:00",
   "house": {
-    "indoor_temp": 19.7,
+    "indoor_temp": 19.6,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 10.6,
+    "outdoor_temp": 11.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 117.0,
-    "pressure": 1013.4,
-    "rain_today": 0.3,
+    "wind_direction": 108.0,
+    "pressure": 1012.6,
+    "rain_today": 0.8,
     "uv_index": 0.0,
-    "power_usage": 626.0,
+    "power_usage": 441.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,14 +20,9 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 10.0,
+      "temp": 12.0,
       "conditions": "Light drizzle",
       "forecast": [
-        {
-          "date": "2026-10-08",
-          "max": 14.0,
-          "min": 6.0
-        },
         {
           "date": "2026-10-09",
           "max": 18.0,
@@ -37,6 +32,11 @@
           "date": "2026-10-10",
           "max": 13.0,
           "min": 8.0
+        },
+        {
+          "date": "2026-10-11",
+          "max": 13.0,
+          "min": 7.0
         }
       ]
     },
@@ -44,11 +44,6 @@
       "temp": 14.0,
       "conditions": "Light rain",
       "forecast": [
-        {
-          "date": "2026-10-08",
-          "max": 14.0,
-          "min": 8.0
-        },
         {
           "date": "2026-10-09",
           "max": 15.0,
@@ -58,17 +53,22 @@
           "date": "2026-10-10",
           "max": 11.0,
           "min": 8.0
+        },
+        {
+          "date": "2026-10-11",
+          "max": 13.0,
+          "min": 5.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:20 AM",
-    "sunset": "06:27 PM",
+    "sunrise": "07:22 AM",
+    "sunset": "06:25 PM",
     "moon_phase": "Waning Crescent",
-    "moon_illumination": "8",
-    "moonrise": "04:32 AM",
-    "moonset": "05:30 PM"
+    "moon_illumination": "3",
+    "moonrise": "05:54 AM",
+    "moonset": "05:41 PM"
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
@@ -77,5 +77,5 @@
     "There can be only one: Google Cloud casts Gemini as your enterprise AI hero",
     "NASA taps DoE to help it build nuclear space reactors"
   ],
-  "crew_quote": "\"Ah, lovely weather for a curry, isn't it? Nothing like a bit of drizzle to really bring out the flavour — just like my brilliant idea to store a billion quid under the couch!\""
+  "crew_quote": "\"Great, I've got the choice between a drizzle in Llandudno or the dampness of this ship, all while the world’s falling apart—might as well order a curry to dull the existential dread!\""
 }
