@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T12:30:39.555249+00:00",
+  "timestamp": "2026-10-08T13:01:44.991353+00:00",
   "house": {
-    "indoor_temp": 19.9,
+    "indoor_temp": 19.8,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 13.0,
-    "outdoor_humidity": 76.0,
+    "outdoor_temp": 12.3,
+    "outdoor_humidity": 79.0,
     "wind_speed": 0.0,
-    "wind_direction": 152.0,
-    "pressure": 1024.0,
+    "wind_direction": 176.0,
+    "pressure": 1023.9,
     "rain_today": 0.0,
-    "uv_index": 1.0,
-    "power_usage": 376.0,
+    "uv_index": 0.0,
+    "power_usage": 351.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -21,7 +21,7 @@
     },
     "overseal": {
       "temp": 13.0,
-      "conditions": "Overcast ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-10-08",
@@ -41,8 +41,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 13.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-08",
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "IBM offloads 'hundreds' of its cloudy VMware customers",
+    "AI giants promise to play nice with personal data after UK watchdog scrutiny",
     "Samsung eyes $80B quarterly profit as memory buyers pay the price",
-    "UK and Germany team up against Russian cyberattacks as Brexit rethink looms",
-    "Windows Search learns to take orders",
-    "Microsoft unveils 'Surace' Laptop Ultra"
+    "UK and Germany team up against Russian cyberattacks as Brexit rethink looms"
   ],
-  "crew_quote": "\"Well, while the weather's as gloomy as my love life, at least it's warmer in here than the latest Samsung profits – maybe I should invest in a curry instead!\""
+  "crew_quote": "\"The weather's about as exciting as a soggy curry, but at least it’s warmer inside—could do with a bit more humidity though, like my favorite curry dish!\""
 }
