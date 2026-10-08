@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T03:42:04.695366+00:00",
+  "timestamp": "2026-10-08T04:13:10.097499+00:00",
   "house": {
     "indoor_temp": 19.7,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 6.1,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 5.6,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
     "wind_direction": 144.0,
-    "pressure": 1021.5,
+    "pressure": 1021.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 404.0,
+    "power_usage": 427.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Microsoft is about to let Copilot loose on your file system",
     "OpenAI dots inspire open source imitators amid technical difficulties"
   ],
-  "crew_quote": "\"Well, it's a grotty 9 degrees outside with rain, but inside at 19.7 degrees, I could fry an egg—just gotta remember to order a curry first so I don't ruin my appetite!\""
+  "crew_quote": "\"Weather’s a bit patchy, innit? Not that it matters — as long as I’ve got my curry and a good old episode of ‘Ransomware Rumble’ to cheer me up, I'm golden!\""
 }
