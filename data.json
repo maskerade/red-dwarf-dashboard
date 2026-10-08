@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T22:52:18.904095+00:00",
+  "timestamp": "2026-10-08T23:23:24.448967+00:00",
   "house": {
-    "indoor_temp": 19.8,
+    "indoor_temp": 19.7,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 10.3,
+    "outdoor_temp": 10.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 93.0,
-    "pressure": 1014.0,
-    "rain_today": 2.3,
+    "wind_direction": 117.0,
+    "pressure": 1013.4,
+    "rain_today": 0.3,
     "uv_index": 0.0,
-    "power_usage": 640.0,
+    "power_usage": 626.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "There can be only one: Google Cloud casts Gemini as your enterprise AI hero",
     "NASA taps DoE to help it build nuclear space reactors"
   ],
-  "crew_quote": "\"With this light drizzle, it’s the perfect weather for a curry — not too hot to sweat, just enough to give me those comforting, spicy vibes. Who's with me?\""
+  "crew_quote": "\"Ah, lovely weather for a curry, isn't it? Nothing like a bit of drizzle to really bring out the flavour — just like my brilliant idea to store a billion quid under the couch!\""
 }
