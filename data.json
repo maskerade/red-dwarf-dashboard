@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T09:55:12.820857+00:00",
+  "timestamp": "2026-10-08T10:26:18.472060+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.3,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 9.6,
+    "outdoor_temp": 10.3,
     "outdoor_humidity": 82.0,
     "wind_speed": 0.0,
-    "wind_direction": 152.0,
+    "wind_direction": 154.0,
     "pressure": 1024.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 441.0,
+    "power_usage": 463.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
     "Embedding the human factor into AI agent adoption"
   ],
-  "crew_quote": "\"Well, at least it’s not raining here in the ship, so I guess I can whip up a tasty curry instead of getting drenched in Llandudno. Always look on the bright side, eh?\""
+  "crew_quote": "\"Well, it’s a perfect day for a curry, even if it’s a bit patchy out there. Who cares? It’s all about the warmth inside, mate!\""
 }
