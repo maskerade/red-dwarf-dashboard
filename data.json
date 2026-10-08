@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T14:35:00.981378+00:00",
+  "timestamp": "2026-10-08T15:06:07.147078+00:00",
   "house": {
-    "indoor_temp": 19.7,
+    "indoor_temp": 19.8,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.7,
-    "outdoor_humidity": 67.0,
-    "wind_speed": 4.3,
-    "wind_direction": 114.0,
+    "outdoor_temp": 12.9,
+    "outdoor_humidity": 74.0,
+    "wind_speed": 0.0,
+    "wind_direction": 149.0,
     "pressure": 1023.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 477.0,
+    "power_usage": 443.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
-    "CrowdStrike finds possible bank hacker's CV among exposed AI logs",
-    "IBM offloads 'hundreds' of its cloudy VMware customers",
-    "AI giants promise to play nice with personal data after UK watchdog scrutiny",
-    "Samsung eyes $80B quarterly profit as memory buyers pay the price"
+    "Fighting GenAI with GenAI: The New Email Security Landscape",
+    "Margaret Hamilton, software pioneer who helped put humans on the Moon, dies at 90",
+    "Rust upstart reveals 'reimplementation' of Microsoft Office – with Claude on coding duty",
+    "CrowdStrike finds possible bank hacker's CV among exposed AI logs"
   ],
-  "crew_quote": "\"Fancy a curry, but with this moist humidity, I reckon it's gonna turn into one big soggy mess — just like my love life!\""
+  "crew_quote": "\"Well, if it’s 19.8°C in here, why does it feel like a wet sock? I need a curry to spice this atmosphere up a bit, or maybe just a good old-fashioned spaceship!\""
 }
