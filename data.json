@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T10:26:18.472060+00:00",
+  "timestamp": "2026-10-08T10:57:23.864462+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.4,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 10.3,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 0.0,
-    "wind_direction": 154.0,
+    "outdoor_temp": 12.0,
+    "outdoor_humidity": 74.0,
+    "wind_speed": 1.1,
+    "wind_direction": 168.0,
     "pressure": 1024.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 463.0,
+    "power_usage": 429.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -70,12 +70,12 @@
     "moonrise": "04:32 AM",
     "moonset": "05:30 PM"
   },
-  "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
+  "metrolink": "Due to an operational issue there are currently minor delays on the Altrincham line. We apologise for any inconvenience caused.",
   "headlines": [
     "Microsoft unveils 'Surace' Laptop Ultra",
     "Scientists get a new clue to the origin of solar wind 'switchbacks'",
     "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
     "Embedding the human factor into AI agent adoption"
   ],
-  "crew_quote": "\"Well, it’s a perfect day for a curry, even if it’s a bit patchy out there. Who cares? It’s all about the warmth inside, mate!\""
+  "crew_quote": "\"Well, mate, it's 20 degrees inside, so we could cook a curry without even using the stove! Just hope that solar wind doesn't blow my dinner away!\""
 }
