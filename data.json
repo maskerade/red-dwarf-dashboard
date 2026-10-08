@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T05:15:21.709864+00:00",
+  "timestamp": "2026-10-08T05:46:26.564142+00:00",
   "house": {
-    "indoor_temp": 19.6,
+    "indoor_temp": 19.5,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 4.6,
-    "outdoor_humidity": 98.0,
+    "outdoor_temp": 4.5,
+    "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 144.0,
-    "pressure": 1022.3,
+    "pressure": 1022.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 379.0,
+    "power_usage": 348.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Microsoft is about to let Copilot loose on your file system",
     "OpenAI dots inspire open source imitators amid technical difficulties"
   ],
-  "crew_quote": "\"Light rain in Llandudno? Blimey, that's just an excuse for me to whip up a curry and ignore the miserable weather—much better than worrying about some ransomware nonsense!\""
+  "crew_quote": "\"Blimey, with the weather so damp and my curry plans in jeopardy, I might just set fire to the spaceship for some warmth—it's either that or a light rain shower on my dinner!\""
 }
