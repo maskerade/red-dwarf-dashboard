@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T07:50:48.973606+00:00",
+  "timestamp": "2026-10-08T08:21:56.223726+00:00",
   "house": {
-    "indoor_temp": 19.3,
+    "indoor_temp": 19.2,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 5.1,
+    "outdoor_temp": 6.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 144.0,
-    "pressure": 1023.9,
+    "wind_direction": 145.0,
+    "pressure": 1024.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 536.0,
+    "power_usage": 390.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,8 +20,8 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 6.0,
-      "conditions": "Clear ",
+      "temp": 8.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-08",
@@ -36,13 +36,13 @@
         {
           "date": "2026-10-10",
           "max": 13.0,
-          "min": 7.0
+          "min": 8.0
         }
       ]
     },
     "llandudno": {
-      "temp": 9.0,
-      "conditions": "Light rain shower",
+      "temp": 10.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-08",
@@ -56,8 +56,8 @@
         },
         {
           "date": "2026-10-10",
-          "max": 12.0,
-          "min": 7.0
+          "max": 11.0,
+          "min": 8.0
         }
       ]
     }
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "Cheapskates wouldn't pay for security help, got hit by ransomware, and went bust months later",
+    "Embedding the human factor into AI agent adoption",
     "It's a bird, it's a plane...well, more of a spinning parachute, but really it's a droppable robot boat",
-    "ICANN reveals bids for new top-level domains",
-    "Ransomware fixer claimed he could decrypt files, allegedly defrauded clients instead",
-    "Singapore’s central bank wants all FinTech AI use cases subject to independent review"
+    "ICANN reveals bids for new top-level domains"
   ],
-  "crew_quote": "\"With this miserable weather, I think we should have a curry night—nothing like a bit of spice to distract from the dreariness and that robotic boat nonsense!\""
+  "crew_quote": "\"With the weather flipping between chilly and drizzly like my love life, I reckon we should just focus on curry and keep the power bill down, eh?\""
 }
