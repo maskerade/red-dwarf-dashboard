@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T14:03:55.281971+00:00",
+  "timestamp": "2026-10-08T14:35:00.981378+00:00",
   "house": {
-    "indoor_temp": 19.6,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 13.8,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 1.4,
-    "wind_direction": 142.0,
-    "pressure": 1023.5,
+    "indoor_temp": 19.7,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 13.7,
+    "outdoor_humidity": 67.0,
+    "wind_speed": 4.3,
+    "wind_direction": 114.0,
+    "pressure": 1023.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 376.0,
+    "power_usage": 477.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,12 +20,12 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Sunny",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-08",
-          "max": 15.0,
+          "max": 14.0,
           "min": 6.0
         },
         {
@@ -41,12 +41,12 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Overcast ",
+      "temp": 12.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-08",
-          "max": 13.0,
+          "max": 14.0,
           "min": 8.0
         },
         {
@@ -56,7 +56,7 @@
         },
         {
           "date": "2026-10-10",
-          "max": 11.0,
+          "max": 12.0,
           "min": 8.0
         }
       ]
@@ -77,5 +77,5 @@
     "AI giants promise to play nice with personal data after UK watchdog scrutiny",
     "Samsung eyes $80B quarterly profit as memory buyers pay the price"
   ],
-  "crew_quote": "\"You know, with this weather, it’s a perfect day for a curry… as long as it doesn’t taste like a bank hacker's CV!\""
+  "crew_quote": "\"Fancy a curry, but with this moist humidity, I reckon it's gonna turn into one big soggy mess — just like my love life!\""
 }
