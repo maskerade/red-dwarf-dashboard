@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T00:35:29.554960+00:00",
+  "timestamp": "2026-10-08T01:06:35.551767+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 7.2,
-    "outdoor_humidity": 94.0,
+    "outdoor_temp": 6.7,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
     "wind_direction": 130.0,
-    "pressure": 1020.1,
+    "pressure": 1020.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 427.0,
+    "power_usage": 376.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Argonne scientists create chatty X-ray microscope that zooms in where you tell it to",
     "Microsoft N1Xes Intel in favor of Nvidia's shiny new SoCs in Surface Laptop Ultra"
   ],
-  "crew_quote": "\"Oi, it’s a bit chilly out there, but inside it’s a balmy 20 degrees! Perfect curry-making weather, if you ask me—just have to dodge the tech disasters outside!\""
+  "crew_quote": "\"Well, if it’s 9 degrees outside, I guess I’ll just have to stay in, binge on curry, and let Microsoft play with the file system while I perfect my hair. Priorities, you know!\""
 }
