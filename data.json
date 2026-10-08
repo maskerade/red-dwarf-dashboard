@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T21:50:09.483812+00:00",
+  "timestamp": "2026-10-08T22:21:12.593386+00:00",
   "house": {
-    "indoor_temp": 19.8,
+    "indoor_temp": 19.7,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 9.8,
+    "outdoor_temp": 9.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 207.0,
-    "pressure": 1015.5,
-    "rain_today": 1.8,
+    "wind_direction": 116.0,
+    "pressure": 1014.7,
+    "rain_today": 2.3,
     "uv_index": 0.0,
-    "power_usage": 522.0,
+    "power_usage": 502.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -41,7 +41,7 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
+      "temp": 14.0,
       "conditions": "Light rain",
       "forecast": [
         {
@@ -77,5 +77,5 @@
     "Gremlin now uses AI to break distributed systems faster",
     "Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise"
   ],
-  "crew_quote": "\"Ah, light drizzle and a comfy 19.8°C indoors—perfect for a curry night in! Just don’t ask me to fix that Nvidia bug; I can barely fix me own hair.\""
+  "crew_quote": "\"Well, at least it's not as wet as a curry gone wrong, but I could do without the drizzle—I'm starting to feel more like a soggy potato than a man!\""
 }
