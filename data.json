@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T19:45:46.584469+00:00",
+  "timestamp": "2026-10-08T20:16:52.487095+00:00",
   "house": {
-    "indoor_temp": 19.6,
+    "indoor_temp": 19.7,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 9.6,
-    "outdoor_humidity": 96.0,
-    "wind_speed": 2.2,
-    "wind_direction": 116.0,
-    "pressure": 1018.9,
+    "outdoor_temp": 9.7,
+    "outdoor_humidity": 95.0,
+    "wind_speed": 0.0,
+    "wind_direction": 333.0,
+    "pressure": 1017.9,
     "rain_today": 1.0,
     "uv_index": 0.0,
-    "power_usage": 800.0,
+    "power_usage": 573.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Gremlin now uses AI to break distributed systems faster",
     "Shai-Hulud worm makes jump to AI infrastructure with Tensorlake compromise"
   ],
-  "crew_quote": "\"Just another day of perfect weather for a nice curry, eh? I mean, who wouldn't want to go out in a drizzle when you've got 19.6 degrees of cozy indoors waiting?\""
+  "crew_quote": "\"Well, at least it's warmer in here than it is out there in that patchy rain! Just think of it as nature's way of seasoning our next curry.\""
 }
