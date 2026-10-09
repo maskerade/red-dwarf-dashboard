@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-09T19:36:08.165041+00:00",
+  "timestamp": "2026-10-09T20:07:14.386684+00:00",
   "house": {
     "indoor_temp": 19.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 10.8,
-    "outdoor_humidity": 92.0,
+    "outdoor_temp": 10.1,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 115.0,
-    "pressure": 1010.6,
+    "wind_direction": 130.0,
+    "pressure": 1010.8,
     "rain_today": 17.6,
     "uv_index": 0.0,
-    "power_usage": 635.0,
+    "power_usage": 556.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
+      "temp": 10.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -26,18 +26,18 @@
         },
         {
           "date": "2026-10-10",
-          "max": 12.0,
-          "min": 8.0
+          "max": 13.0,
+          "min": 9.0
         },
         {
           "date": "2026-10-11",
           "max": 13.0,
-          "min": 6.0
+          "min": 7.0
         }
       ]
     },
     "overseal": {
-      "temp": 12.0,
+      "temp": 11.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -48,17 +48,17 @@
         {
           "date": "2026-10-10",
           "max": 13.0,
-          "min": 8.0
+          "min": 9.0
         },
         {
           "date": "2026-10-11",
           "max": 13.0,
-          "min": 6.0
+          "min": 7.0
         }
       ]
     },
     "llandudno": {
-      "temp": 11.0,
+      "temp": 10.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -69,11 +69,11 @@
         {
           "date": "2026-10-10",
           "max": 12.0,
-          "min": 8.0
+          "min": 9.0
         },
         {
           "date": "2026-10-11",
-          "max": 13.0,
+          "max": 14.0,
           "min": 5.0
         }
       ]
@@ -94,5 +94,5 @@
     "Growing pains: how distributed AI training changes the network between datacenters",
     "Oracle lets AI agents do the work, provided you stay in Big Red's world"
   ],
-  "crew_quote": "\"Great, just what we need! Rain nearby and Microsoft taking away our storage—might as well throw me a curry and let me drown my sorrows!\""
+  "crew_quote": "\"With this patchy rain and only 10 degrees, I might just have to swap my curry for a nice hot bowl of soup — it’s practically a health and safety hazard out there!\""
 }
