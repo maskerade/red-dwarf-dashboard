@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-09T13:54:07.114694+00:00",
+  "timestamp": "2026-10-09T14:25:13.865068+00:00",
   "house": {
     "indoor_temp": 19.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 14.8,
-    "outdoor_humidity": 78.0,
-    "wind_speed": 2.9,
-    "wind_direction": 239.0,
+    "outdoor_temp": 15.0,
+    "outdoor_humidity": 79.0,
+    "wind_speed": 1.1,
+    "wind_direction": 117.0,
     "pressure": 1009.0,
     "rain_today": 17.0,
     "uv_index": 0.0,
-    "power_usage": 384.0,
+    "power_usage": 542.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "Citrix gives NetScaler admins another critical reason to patch",
     "Anthropic asks users to stop being mean to Claude"
   ],
-  "crew_quote": "\"Well, with the weather being all patchy and miserable, it’s the perfect excuse to stay inside and have a curry, right? I'd call that a win-win!\""
+  "crew_quote": "\"With all this patchy rain, it's just like my love life—full of damp squibs and the occasional torrential downpour! I think I need a curry to cheer me up.\""
 }
