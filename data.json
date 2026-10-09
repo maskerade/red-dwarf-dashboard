@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-09T11:49:42.082880+00:00",
+  "timestamp": "2026-10-09T12:20:48.771166+00:00",
   "house": {
     "indoor_temp": 19.5,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 14.1,
-    "outdoor_humidity": 94.0,
-    "wind_speed": 3.2,
-    "wind_direction": 136.0,
-    "pressure": 1008.5,
+    "outdoor_temp": 14.4,
+    "outdoor_humidity": 89.0,
+    "wind_speed": 4.3,
+    "wind_direction": 148.0,
+    "pressure": 1008.2,
     "rain_today": 17.0,
     "uv_index": 0.0,
-    "power_usage": 432.0,
+    "power_usage": 415.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,7 +20,7 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -41,7 +41,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -77,5 +77,5 @@
     "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
     "BOFH: Smells like team spirit"
   ],
-  "crew_quote": "\"Looks like it's a bit patchy out there, but I suppose that just means I can enjoy my curry indoors without the rain ruining my hair!\""
+  "crew_quote": "\"Oi, with this patchy rain, I’d be better off in a curry house than out here; at least the indoor temp’s nice enough to cook one up! No one wants a damp vindaloo, right?\""
 }
