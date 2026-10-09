@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-09T08:43:07.936034+00:00",
+  "timestamp": "2026-10-09T09:14:11.298946+00:00",
   "house": {
-    "indoor_temp": 19.3,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 15.0,
+    "indoor_temp": 19.4,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 15.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 190.0,
-    "pressure": 1008.1,
+    "wind_direction": 227.0,
+    "pressure": 1007.8,
     "rain_today": 10.4,
-    "uv_index": 0.0,
-    "power_usage": 1666.0,
+    "uv_index": 1.0,
+    "power_usage": 567.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,8 +20,8 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Overcast ",
+      "temp": 16.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-09",
@@ -42,7 +42,7 @@
     },
     "llandudno": {
       "temp": 15.0,
-      "conditions": "Light drizzle",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-09",
@@ -72,10 +72,10 @@
   },
   "metrolink": "Pick up a book and ^Take10toRead this World Mental Health Day on the Bee Network with ^ReadMCR",
   "headlines": [
+    "BOFH: Smells like team spirit",
     "Whose roadmap is your software estate running on?",
     "Rejecting a promotion sent field service tech into support hell",
-    "So long, Spokes: GitHub rewrites storage to restore reliability, just in time for agentic hordes",
-    "India’s tech giants shrug off changes to USA’s skilled visa program"
+    "So long, Spokes: GitHub rewrites storage to restore reliability, just in time for agentic hordes"
   ],
-  "crew_quote": "\"Well, looks like the weather's just as confused as I am—15 degrees and drizzly, perfect for a curry night in! Now, where's that takeaway menu?\""
+  "crew_quote": "\"Ah, the weather's about as patchy as my last haircut! Perfect curry-eating conditions, though—just need to avoid that rain while I find a takeaway!\""
 }
