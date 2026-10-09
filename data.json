@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-09T04:03:19.741427+00:00",
+  "timestamp": "2026-10-09T04:34:26.144521+00:00",
   "house": {
     "indoor_temp": 19.2,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 14.9,
+    "outdoor_temp": 15.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 212.0,
-    "pressure": 1010.2,
-    "rain_today": 8.2,
+    "wind_direction": 156.0,
+    "pressure": 1009.9,
+    "rain_today": 8.9,
     "uv_index": 0.0,
-    "power_usage": 373.0,
+    "power_usage": 331.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,8 +20,8 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Light rain",
+      "temp": 15.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-09",
@@ -77,5 +77,5 @@
     "AI company moves to defend critical infrastructure and open-source projects from AI",
     "US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide"
   ],
-  "crew_quote": "\"Ah, it's a lovely 15 degrees outside, perfect curry weather! If only that rain wouldn’t ruin my plans for a cheeky takeaway later.\""
+  "crew_quote": "\"Well, with the indoor temp at a cozy 19.2°C, I reckon we could put a rainy day like this to good use—perfect for a curry and binge-watching a few episodes of 'Guitar Hero's Greatest Hits'!\""
 }
