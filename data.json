@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-09T11:18:35.553110+00:00",
+  "timestamp": "2026-10-09T11:49:42.082880+00:00",
   "house": {
     "indoor_temp": 19.5,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 14.5,
-    "outdoor_humidity": 99.0,
-    "wind_speed": 0.7,
-    "wind_direction": 141.0,
-    "pressure": 1008.2,
+    "outdoor_temp": 14.1,
+    "outdoor_humidity": 94.0,
+    "wind_speed": 3.2,
+    "wind_direction": 136.0,
+    "pressure": 1008.5,
     "rain_today": 17.0,
     "uv_index": 0.0,
-    "power_usage": 387.0,
+    "power_usage": 432.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -72,10 +72,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "Citrix gives NetScaler admins another critical reason to patch",
+    "Anthropic asks users to stop being mean to Claude",
     "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
-    "BOFH: Smells like team spirit",
-    "Whose roadmap is your software estate running on?",
-    "Rejecting a promotion sent field service tech into support hell"
+    "BOFH: Smells like team spirit"
   ],
-  "crew_quote": "\"Well, if I wanted patchy rain, I’d just order a curry with a side of soggy chips—at least the indoor temp’s warmer than my love life!\""
+  "crew_quote": "\"Looks like it's a bit patchy out there, but I suppose that just means I can enjoy my curry indoors without the rain ruining my hair!\""
 }
