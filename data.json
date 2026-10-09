@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-09T10:47:29.705710+00:00",
+  "timestamp": "2026-10-09T11:18:35.553110+00:00",
   "house": {
-    "indoor_temp": 19.6,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 14.6,
+    "indoor_temp": 19.5,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 14.5,
     "outdoor_humidity": 99.0,
-    "wind_speed": 2.2,
-    "wind_direction": 151.0,
-    "pressure": 1007.8,
+    "wind_speed": 0.7,
+    "wind_direction": 141.0,
+    "pressure": 1008.2,
     "rain_today": 17.0,
     "uv_index": 0.0,
-    "power_usage": 407.0,
+    "power_usage": 387.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -70,12 +70,12 @@
     "moonrise": "05:54 AM",
     "moonset": "05:41 PM"
   },
-  "metrolink": "Pick up a book and ^Take10toRead this World Mental Health Day on the Bee Network with ^ReadMCR",
+  "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
     "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
     "BOFH: Smells like team spirit",
     "Whose roadmap is your software estate running on?",
     "Rejecting a promotion sent field service tech into support hell"
   ],
-  "crew_quote": "\"You know, with the weather trying its best to rain on our parade at 16 degrees, I reckon a good curry might just be the antidote to brighten things up!\""
+  "crew_quote": "\"Well, if I wanted patchy rain, I’d just order a curry with a side of soggy chips—at least the indoor temp’s warmer than my love life!\""
 }
