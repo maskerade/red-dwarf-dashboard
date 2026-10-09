@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-09T05:36:38.185601+00:00",
+  "timestamp": "2026-10-09T06:07:44.423894+00:00",
   "house": {
     "indoor_temp": 19.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 14.8,
+    "outdoor_temp": 14.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 156.0,
-    "pressure": 1009.1,
+    "pressure": 1008.5,
     "rain_today": 9.4,
     "uv_index": 0.0,
-    "power_usage": 356.0,
+    "power_usage": 328.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "AI company moves to defend critical infrastructure and open-source projects from AI",
     "US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide"
   ],
-  "crew_quote": "\"With this weather, I reckon we could open a curry shop right in the rain — it's perfect for soaking up a good sauce, innit?\""
+  "crew_quote": "\"With the weather all patchy and dreary, fancy a curry to warm up, or do I need to remind you again how much I hate rain?!\""
 }
