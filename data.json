@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-08T23:54:31.204212+00:00",
+  "timestamp": "2026-10-09T00:25:36.835533+00:00",
   "house": {
-    "indoor_temp": 19.6,
+    "indoor_temp": 19.5,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 11.1,
+    "outdoor_temp": 11.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 108.0,
-    "pressure": 1012.6,
-    "rain_today": 0.8,
+    "wind_direction": 165.0,
+    "pressure": 1012.3,
+    "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 441.0,
+    "power_usage": 370.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -77,5 +77,5 @@
     "There can be only one: Google Cloud casts Gemini as your enterprise AI hero",
     "NASA taps DoE to help it build nuclear space reactors"
   ],
-  "crew_quote": "\"Great, I've got the choice between a drizzle in Llandudno or the dampness of this ship, all while the world’s falling apart—might as well order a curry to dull the existential dread!\""
+  "crew_quote": "\"Ah, drizzle and 12 degrees — just lovely! Guess the rain's a bit like my curry: it makes everything a bit soggy but still somehow manages to be a hit!\""
 }
