@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-09T00:56:43.258661+00:00",
+  "timestamp": "2026-10-09T01:27:49.503215+00:00",
   "house": {
     "indoor_temp": 19.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 12.1,
+    "outdoor_temp": 12.6,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
-    "wind_direction": 139.0,
-    "pressure": 1011.9,
+    "wind_speed": 1.1,
+    "wind_direction": 244.0,
+    "pressure": 1011.5,
     "rain_today": 2.1,
     "uv_index": 0.0,
-    "power_usage": 390.0,
+    "power_usage": 356.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -20,8 +20,8 @@
       "conditions": null
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Light drizzle",
+      "temp": 13.0,
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-10-09",
@@ -36,27 +36,27 @@
         {
           "date": "2026-10-11",
           "max": 13.0,
-          "min": 7.0
+          "min": 6.0
         }
       ]
     },
     "llandudno": {
-      "temp": 14.0,
-      "conditions": "Light rain",
+      "temp": 15.0,
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-10-09",
-          "max": 15.0,
+          "max": 16.0,
           "min": 10.0
         },
         {
           "date": "2026-10-10",
-          "max": 11.0,
-          "min": 8.0
+          "max": 12.0,
+          "min": 7.0
         },
         {
           "date": "2026-10-11",
-          "max": 13.0,
+          "max": 14.0,
           "min": 5.0
         }
       ]
@@ -77,5 +77,5 @@
     "There can be only one: Google Cloud casts Gemini as your enterprise AI hero",
     "NASA taps DoE to help it build nuclear space reactors"
   ],
-  "crew_quote": "\"Blimey, it's so damp outside, even the curry I had last night is starting to feel like a rain-soaked sponge! At least in here it's warm, unlike my love life!\""
+  "crew_quote": "\"Well, it’s a bit drizzly outside, but I’d still take that over the weather in deep space — at least here, you can still get a decent curry and a pint!\""
 }
