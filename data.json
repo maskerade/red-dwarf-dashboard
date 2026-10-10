@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-10-10T03:53:43.904087+00:00",
+  "timestamp": "2026-10-10T04:24:50.121981+00:00",
   "house": {
-    "indoor_temp": 19.1,
+    "indoor_temp": 19.0,
     "indoor_humidity": 61.0,
     "outdoor_temp": 9.5,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
-    "wind_direction": 146.0,
-    "pressure": 1011.4,
-    "rain_today": 3.8,
+    "wind_speed": 0.4,
+    "wind_direction": 135.0,
+    "pressure": 1011.7,
+    "rain_today": 4.1,
     "uv_index": 0.0,
     "power_usage": 359.0,
     "gas_consumption": 124.708182203333,
@@ -94,5 +94,5 @@
     "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier",
     "Growing pains: how distributed AI training changes the network between datacenters"
   ],
-  "crew_quote": "\"With this weather, I’d say it's a perfect day for a curry—nothing like a bit of spice to brighten up the damp and dreary, eh?\""
+  "crew_quote": "\"With this weather, I’d say it’s the perfect day for a curry — but let’s just hope my leftovers don’t get soaked in the fridge!\""
 }
