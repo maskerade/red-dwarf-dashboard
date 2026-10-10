@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-10T17:53:06.418272+00:00",
+  "timestamp": "2026-10-10T18:24:11.850211+00:00",
   "house": {
-    "indoor_temp": 19.1,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 9.9,
-    "outdoor_humidity": 87.0,
-    "wind_speed": 0.0,
-    "wind_direction": 127.0,
+    "indoor_temp": 19.0,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 10.1,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 2.2,
+    "wind_direction": 80.0,
     "pressure": 1013.0,
     "rain_today": 7.6,
     "uv_index": 0.0,
-    "power_usage": 876.0,
+    "power_usage": 741.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
     "Microsoft leans on open weight model from Chinese AI lab to challenge Jev"
   ],
-  "crew_quote": "\"With rain drizzling outside, I can't help but wonder if our chances of finding curry tonight just got soaked. Talk about a soggy situation!\""
+  "crew_quote": "\"Looks like it's patchy rain again, but not even a drizzle can ruin my look—I'm fabulous in any weather, darling!\""
 }
