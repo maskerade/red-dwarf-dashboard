@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-10T20:28:35.453408+00:00",
+  "timestamp": "2026-10-10T20:59:41.706256+00:00",
   "house": {
     "indoor_temp": 19.1,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 9.1,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 0.0,
-    "wind_direction": 145.0,
-    "pressure": 1013.3,
+    "outdoor_temp": 8.9,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 0.4,
+    "wind_direction": 118.0,
+    "pressure": 1013.2,
     "rain_today": 7.9,
     "uv_index": 0.0,
-    "power_usage": 893.0,
+    "power_usage": 716.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 9.0,
+      "temp": 10.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -43,22 +43,22 @@
         {
           "date": "2026-10-10",
           "max": 14.0,
-          "min": 10.0
+          "min": 8.0
         },
         {
           "date": "2026-10-11",
           "max": 14.0,
-          "min": 8.0
+          "min": 7.0
         },
         {
           "date": "2026-10-12",
-          "max": 17.0,
-          "min": 10.0
+          "max": 16.0,
+          "min": 8.0
         }
       ]
     },
     "llandudno": {
-      "temp": 9.0,
+      "temp": 8.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
     "Microsoft leans on open weight model from Chinese AI lab to challenge Jev"
   ],
-  "crew_quote": "\"With all this patchy rain, it’s a good thing I’m not made of sugar; otherwise, this ship would have turned into a soggy curry by now!\""
+  "crew_quote": "\"Looks like the weather's about as exciting as a damp sock — fancy a curry to spice things up while we wait for the rain to stop?\""
 }
