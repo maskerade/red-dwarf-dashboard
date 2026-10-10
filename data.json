@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-10T10:06:53.579620+00:00",
+  "timestamp": "2026-10-10T10:37:54.199184+00:00",
   "house": {
-    "indoor_temp": 18.9,
+    "indoor_temp": 19.2,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 10.1,
-    "outdoor_humidity": 90.0,
-    "wind_speed": 0.4,
-    "wind_direction": 145.0,
+    "outdoor_temp": 11.4,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 3.6,
+    "wind_direction": 129.0,
     "pressure": 1013.1,
     "rain_today": 6.9,
     "uv_index": 0.0,
-    "power_usage": 612.0,
+    "power_usage": 1739.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
+    "Two characters open up a world of typosquatting opportunities in Chromium browsers",
     "EC users should be afraid of a US kill switch - not some new software",
     "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
-    "Microsoft leans on open weight model from Chinese AI lab to challenge Jev",
-    "AWS AgentCore security undone by prompt requesting credentials"
+    "Microsoft leans on open weight model from Chinese AI lab to challenge Jev"
   ],
-  "crew_quote": "\"Looks like it's just another grey day, eh? I reckon it’s the perfect weather for a curry and a good old moan about those US kill switches!\""
+  "crew_quote": "\"Weather's a bit moody, innit? With this patchy rain and a nice 19.2°C inside, I could really go for a curry and a comfy couch—it's proper cozy!\""
 }
