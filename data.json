@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-10T14:46:32.121903+00:00",
+  "timestamp": "2026-10-10T15:17:36.910751+00:00",
   "house": {
-    "indoor_temp": 19.1,
+    "indoor_temp": 19.0,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 12.2,
-    "outdoor_humidity": 77.0,
-    "wind_speed": 2.9,
-    "wind_direction": 84.0,
-    "pressure": 1012.8,
+    "outdoor_temp": 11.5,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 1.4,
+    "wind_direction": 102.0,
+    "pressure": 1013.2,
     "rain_today": 7.6,
     "uv_index": 0.0,
-    "power_usage": 525.0,
+    "power_usage": 753.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "07:18 AM",
     "moonset": "05:53 PM"
   },
-  "metrolink": "Due to ongoing protest in the city centre we are currently experiencing a minor delay on this line. Sorry for any inconvenience this may cause",
+  "metrolink": "IMPROVEMENT WORKS: On Sunday 11th October no trams will operate through Victoria until approx 10:00. Altrincham services will operate to Etihad Campus only. Visit TfGM.com for more info.",
   "headlines": [
     "Two characters open up a world of typosquatting opportunities in Chromium browsers",
     "EC users should be afraid of a US kill switch - not some new software",
     "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
     "Microsoft leans on open weight model from Chinese AI lab to challenge Jev"
   ],
-  "crew_quote": "\"Honestly, I think the only thing more depressing than this patchy rain is the thought of Rimmer trying to fix the ship's systems again—let's just stick to curry, shall we?\""
+  "crew_quote": "\"Ah, lovely day for a nice curry, isn’t it? Just me, a warm plate of vindaloo, and a bit of drizzle to remind me I’m still on Earth!\""
 }
