@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-10T21:30:46.886282+00:00",
+  "timestamp": "2026-10-10T22:01:53.456599+00:00",
   "house": {
     "indoor_temp": 19.1,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 8.8,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 8.1,
+    "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
-    "wind_direction": 107.0,
-    "pressure": 1013.1,
+    "wind_direction": 158.0,
+    "pressure": 1013.6,
     "rain_today": 7.9,
     "uv_index": 0.0,
-    "power_usage": 710.0,
+    "power_usage": 823.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
     "Microsoft leans on open weight model from Chinese AI lab to challenge Jev"
   ],
-  "crew_quote": "\"With the rain doing its best to ruin our day at a balmy 10 degrees, I reckon we should just stay in and whip up a curry. Nothing like a good dal to keep the gloom at bay!\""
+  "crew_quote": "\"Well, isn't it just lovely? Patchy rain everywhere, and here we are with a perfect 19.1°C—ideal for a nice curry and a good old moan about the weather!\""
 }
