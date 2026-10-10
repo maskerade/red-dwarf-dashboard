@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-10T11:08:55.885918+00:00",
+  "timestamp": "2026-10-10T11:39:57.868705+00:00",
   "house": {
     "indoor_temp": 19.2,
     "indoor_humidity": 61.0,
     "outdoor_temp": 10.4,
-    "outdoor_humidity": 89.0,
-    "wind_speed": 1.8,
-    "wind_direction": 149.0,
-    "pressure": 1012.9,
-    "rain_today": 7.1,
+    "outdoor_humidity": 94.0,
+    "wind_speed": 4.7,
+    "wind_direction": 135.0,
+    "pressure": 1013.1,
+    "rain_today": 7.4,
     "uv_index": 0.0,
-    "power_usage": 452.0,
+    "power_usage": 474.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
+      "temp": 11.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
     "Microsoft leans on open weight model from Chinese AI lab to challenge Jev"
   ],
-  "crew_quote": "\"Oi, it's like living in a damp curry here! I reckon we should just turn the ship's heating up and pretend we’re in a nice balmy Llandudno, minus the rain, of course!\""
+  "crew_quote": "\"With this patchy rain and a cozy indoor temp of 19.2°C, I reckon it's a perfect day for a curry and a good old moan about the weather, innit?\""
 }
