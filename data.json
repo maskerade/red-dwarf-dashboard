@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-10T12:11:01.061670+00:00",
+  "timestamp": "2026-10-10T12:42:07.517836+00:00",
   "house": {
-    "indoor_temp": 19.2,
+    "indoor_temp": 19.1,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 11.6,
-    "outdoor_humidity": 83.0,
-    "wind_speed": 2.9,
-    "wind_direction": 223.0,
-    "pressure": 1013.2,
+    "outdoor_temp": 11.9,
+    "outdoor_humidity": 86.0,
+    "wind_speed": 0.0,
+    "wind_direction": 157.0,
+    "pressure": 1013.1,
     "rain_today": 7.6,
-    "uv_index": 0.0,
-    "power_usage": 2523.0,
+    "uv_index": 2.0,
+    "power_usage": 671.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
     "Microsoft leans on open weight model from Chinese AI lab to challenge Jev"
   ],
-  "crew_quote": "\"With the rain pouring down outside, it's a perfect day for a curry! I reckon I can stir up a nice vindaloo while the rest of you moan about the damp.\""
+  "crew_quote": "\"With all this patchy rain around, I’d say it’s the perfect weather for a curry — just not one of those soggy ones, mind; I like my dishes drier than Rimmer’s personality!\""
 }
