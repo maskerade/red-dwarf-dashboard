@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-11T01:39:33.971530+00:00",
+  "timestamp": "2026-10-11T02:10:39.566591+00:00",
   "house": {
     "indoor_temp": 18.8,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 5.9,
-    "outdoor_humidity": 96.0,
+    "outdoor_temp": 6.6,
+    "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
     "wind_direction": 153.0,
     "pressure": 1013.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 595.0,
+    "power_usage": 584.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
     "Microsoft leans on open weight model from Chinese AI lab to challenge Jev"
   ],
-  "crew_quote": "\"Ah, a perfect day for lounging about in 18.8 degrees, having a curry, and wondering why the only thing patchier than the rain is my love life!\""
+  "crew_quote": "\"What's the weather like outside? Oh, just patchy rain and a nippy 9 degrees – perfect curry weather, if you ask me!\""
 }
