@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-11T20:18:54.134445+00:00",
+  "timestamp": "2026-10-11T20:49:58.732797+00:00",
   "house": {
-    "indoor_temp": 20.4,
+    "indoor_temp": 20.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 8.3,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 7.2,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
     "wind_direction": 185.0,
-    "pressure": 1014.0,
+    "pressure": 1014.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 550.0,
+    "power_usage": 702.0,
     "gas_consumption": 125.683511376666,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Researchers work out how to control 2D semiconductor growth for future chips",
     "Two characters open up a world of typosquatting opportunities in Chromium browsers"
   ],
-  "crew_quote": "\"With it being a lovely clear day and a toasty 20.4°C inside, I reckon we could all do with a curry — just don’t ask me to let a robot make it, they might try to fry the ship instead!\""
+  "crew_quote": "\"Well, as long as the weather’s a comfy 20 degrees indoors, I reckon I can live with a few rogue AIs planning to take over the universe. Now, where’s me curry?\""
 }
