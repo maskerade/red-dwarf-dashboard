@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-11T04:15:03.122291+00:00",
+  "timestamp": "2026-10-11T04:46:08.723263+00:00",
   "house": {
     "indoor_temp": 18.6,
     "indoor_humidity": 60.0,
     "outdoor_temp": 6.1,
-    "outdoor_humidity": 97.0,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 155.0,
-    "pressure": 1013.2,
+    "pressure": 1013.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 578.0,
+    "power_usage": 592.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 7.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-11",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 8.0,
+      "temp": 6.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment",
     "Microsoft leans on open weight model from Chinese AI lab to challenge Jev"
   ],
-  "crew_quote": "\"Blimey, with this weather, I've had a curry that’s hotter than a Llandudno summer! At this rate, I might need to swim to the fridge!\""
+  "crew_quote": "\"With the way the weather's acting up, I reckon I could set up a curry stand in Altrincham — warm up the place to at least 18.6°C and I'm golden!\""
 }
