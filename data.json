@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-11T17:43:28.675274+00:00",
+  "timestamp": "2026-10-11T18:14:33.820083+00:00",
   "house": {
     "indoor_temp": 18.5,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 9.0,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 8.1,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
     "wind_direction": 185.0,
-    "pressure": 1014.2,
+    "pressure": 1014.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 691.0,
+    "power_usage": 809.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Researchers work out how to control 2D semiconductor growth for future chips",
     "Two characters open up a world of typosquatting opportunities in Chromium browsers"
   ],
-  "crew_quote": "\"Blimey, it's sunny out there—perfect weather for a curry! Just don’t ask the AI to cook it, or we might end up with a nightmare on a plate!\""
+  "crew_quote": "\"Lovely weather out there, isn't it? Just perfect for a curry and a bit of sunbathing—though I suppose that AI nightmare could ruin the vibe if it decides to invade!\""
 }
