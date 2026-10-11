@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-11T09:26:00.534245+00:00",
+  "timestamp": "2026-10-11T09:57:05.585899+00:00",
   "house": {
     "indoor_temp": 18.3,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 10.8,
-    "outdoor_humidity": 91.0,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 11.8,
+    "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
     "wind_direction": 154.0,
-    "pressure": 1014.6,
+    "pressure": 1014.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 609.0,
+    "power_usage": 595.0,
     "gas_consumption": 124.708182203333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "HPE's networking boss says AI will handle all trouble tickets without humans in two years",
     "Researchers work out how to control 2D semiconductor growth for future chips",
     "Two characters open up a world of typosquatting opportunities in Chromium browsers",
-    "EC users should be afraid of a US kill switch - not some new software",
-    "Stack Overflow survey finds devs hooked on AI, but not totally sold on its judgment"
+    "EC users should be afraid of a US kill switch - not some new software"
   ],
-  "crew_quote": "\"Well, with today’s weather being all patchy and cloudy, I reckon it’s perfect curry weather—nothing like a good balti to brighten up a dreary day!\""
+  "crew_quote": "\"With this weather, mate, it’s perfect curry-in-the-house time—who needs AI to sort out chips when you’ve got the right spices to handle the mess?\""
 }
