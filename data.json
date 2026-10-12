@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-12T11:20:19.922634+00:00",
+  "timestamp": "2026-10-12T11:51:24.909110+00:00",
   "house": {
-    "indoor_temp": 21.1,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 15.1,
-    "outdoor_humidity": 95.0,
-    "wind_speed": 2.5,
-    "wind_direction": 96.0,
-    "pressure": 1012.1,
+    "indoor_temp": 20.8,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 15.5,
+    "outdoor_humidity": 94.0,
+    "wind_speed": 2.2,
+    "wind_direction": 326.0,
+    "pressure": 1012.2,
     "rain_today": 0.2,
-    "uv_index": 1.0,
-    "power_usage": 413.0,
+    "uv_index": 0.0,
+    "power_usage": 446.0,
     "gas_consumption": 128.70839236375,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Overcast ",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-12",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-12",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
+      "temp": 17.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "Due to an earlier vehicle fault we are currently experiencing a minor delay on the Altrincham Line. Metrolink apologises for the inconvenience caused.",
   "headlines": [
+    "Pigeon-powered internet packet goes under the hammer at Christie's",
     "Imagine there's no Shiny Hunters – AI could make human hacking crews obsolete",
     "When you just need to build a tiny desktop app: TinyJS",
-    "Celebrating the brilliant pragmatism of TCP/IP, the wiring of the world",
-    "Raspberry Pi Desktop catches up with Debian 13 after 4-year wait"
+    "Celebrating the brilliant pragmatism of TCP/IP, the wiring of the world"
   ],
-  "crew_quote": "\"With this miserable 13 degrees outside, it’s no wonder I’m dreaming of a warm curry in a cozy pub—not these useless AI making everything too easy!\""
+  "crew_quote": "\"Ah, patchy rain and a humid 20.8°C—perfect weather for a nice curry, if you ask me! Nothing like a bit of spice to lift the mood when it’s all overcast outside!\""
 }
