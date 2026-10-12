@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-12T14:26:40.560874+00:00",
+  "timestamp": "2026-10-12T14:57:41.806323+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.0,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.4,
+    "outdoor_temp": 16.6,
     "outdoor_humidity": 94.0,
-    "wind_speed": 1.8,
-    "wind_direction": 77.0,
-    "pressure": 1012.0,
+    "wind_speed": 2.5,
+    "wind_direction": 293.0,
+    "pressure": 1011.9,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 325.0,
+    "power_usage": 354.0,
     "gas_consumption": 128.70839236375,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-12",
@@ -26,7 +26,7 @@
         },
         {
           "date": "2026-10-13",
-          "max": 18.0,
+          "max": 17.0,
           "min": 9.0
         },
         {
@@ -63,7 +63,7 @@
       "forecast": [
         {
           "date": "2026-10-12",
-          "max": 17.0,
+          "max": 18.0,
           "min": 9.0
         },
         {
@@ -94,5 +94,5 @@
     "Microsoft giveth and Microsoft taketh away: Copilot edition",
     "London cabbies want Sadiq Khan to slam the brakes on robotaxis"
   ],
-  "crew_quote": "\"With patchy rain and a cozy 20 degrees inside, it’s the perfect day for a curry—though I’d rather be dodging Ukrainian drones than soggy weather!\""
+  "crew_quote": "\"Oi, with the weather this drab, I reckon I’ll whip up a curry to brighten the place up—just hope the rain doesn’t ruin my chances of getting takeaway!\""
 }
