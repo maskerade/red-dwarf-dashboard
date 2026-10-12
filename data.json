@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-12T16:30:43.527958+00:00",
+  "timestamp": "2026-10-12T17:01:44.129113+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.2,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.6,
-    "outdoor_humidity": 96.0,
-    "wind_speed": 0.0,
-    "wind_direction": 349.0,
+    "outdoor_temp": 16.5,
+    "outdoor_humidity": 97.0,
+    "wind_speed": 1.4,
+    "wind_direction": 274.0,
     "pressure": 1011.7,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 472.0,
+    "power_usage": 500.0,
     "gas_consumption": 128.70839236375,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Windows 11's easiest account bypass gets the Microsoft boot",
     "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline"
   ],
-  "crew_quote": "\"Right, it’s 15 degrees out, and I’m still sweating like a curry addict in a sauna—couldn’t we just crank the heating up to match my fabulousness?\""
+  "crew_quote": "\"With all this patchy rain nearby, I think the only thing missing from my curry is a decent downpour to spice things up—weather’s just as confused as Rimmer's last career choice!\""
 }
