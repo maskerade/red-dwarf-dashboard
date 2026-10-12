@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-12T19:05:46.552958+00:00",
+  "timestamp": "2026-10-12T19:36:47.651507+00:00",
   "house": {
-    "indoor_temp": 20.2,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 16.7,
+    "indoor_temp": 21.5,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 16.4,
     "outdoor_humidity": 99.0,
-    "wind_speed": 1.4,
-    "wind_direction": 76.0,
+    "wind_speed": 0.0,
+    "wind_direction": 267.0,
     "pressure": 1012.4,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 576.0,
-    "gas_consumption": 129.033398954583,
+    "power_usage": 3119.0,
+    "gas_consumption": 129.433331368333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-12",
@@ -26,19 +26,19 @@
         },
         {
           "date": "2026-10-13",
-          "max": 17.0,
+          "max": 18.0,
           "min": 9.0
         },
         {
           "date": "2026-10-14",
-          "max": 17.0,
+          "max": 16.0,
           "min": 7.0
         }
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 16.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-12",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Cloudy ",
+      "temp": 13.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-12",
@@ -69,12 +69,12 @@
         {
           "date": "2026-10-13",
           "max": 18.0,
-          "min": 10.0
+          "min": 9.0
         },
         {
           "date": "2026-10-14",
           "max": 16.0,
-          "min": 6.0
+          "min": 5.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Windows 11's easiest account bypass gets the Microsoft boot",
     "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline"
   ],
-  "crew_quote": "\"I'm telling you, if it gets any cloudier, I’m switching to a v-neck — even this 20 degrees indoor isn’t worth looking like a wet sponge, mate!\""
+  "crew_quote": "\"Ah, it’s a lovely 16°C out there; perfect weather for a curry! Just wish the humidity wasn’t making me feel like a soggy nan bread.\""
 }
