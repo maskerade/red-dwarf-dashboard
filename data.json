@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-12T21:40:50.004586+00:00",
+  "timestamp": "2026-10-12T22:11:50.895889+00:00",
   "house": {
-    "indoor_temp": 20.7,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 14.9,
-    "outdoor_humidity": 97.0,
+    "indoor_temp": 20.6,
+    "indoor_humidity": 64.0,
+    "outdoor_temp": 15.4,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 96.0,
-    "pressure": 1012.7,
+    "wind_direction": 299.0,
+    "pressure": 1012.9,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 615.0,
+    "power_usage": 595.0,
     "gas_consumption": 129.433331368333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "No shame in the Domain Name game: DNS is doomed, literally",
     "AMD unveils Helion racks for AI agents at OCP summit"
   ],
-  "crew_quote": "\"15 degrees and clear skies? Brilliant! Perfect day for a curry — I reckon we could set a speed record for demolishing a vindaloo under this blue expanse!\""
+  "crew_quote": "\"You know, with the weather hitting a crisp 15°C, I could really go for a curry and a nap—perfect day for it, unless you’re one of those chatbot refuseniks!\""
 }
