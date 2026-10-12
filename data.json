@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-12T15:59:42.275276+00:00",
+  "timestamp": "2026-10-12T16:30:43.527958+00:00",
   "house": {
     "indoor_temp": 20.1,
     "indoor_humidity": 62.0,
     "outdoor_temp": 16.6,
     "outdoor_humidity": 96.0,
-    "wind_speed": 2.9,
-    "wind_direction": 68.0,
+    "wind_speed": 0.0,
+    "wind_direction": 349.0,
     "pressure": 1011.7,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 460.0,
+    "power_usage": 472.0,
     "gas_consumption": 128.70839236375,
     "heating_active": false
   },
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 15.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-12",
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "AMD unveils Helion racks for AI agents at OCP summit",
     "Which AI infrastructure option actually holds a boundary?",
     "Windows 11's easiest account bypass gets the Microsoft boot",
-    "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
-    "UCLA settles Oracle ERP dispute with $3.1M in credits and $1.31M wiped off the bill"
+    "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline"
   ],
-  "crew_quote": "\"Well, it's a perfect day to be overcast and patchy—ideal for testing out my latest curry recipe, if only I could keep the humidity from ruining the spice!\""
+  "crew_quote": "\"Right, it’s 15 degrees out, and I’m still sweating like a curry addict in a sauna—couldn’t we just crank the heating up to match my fabulousness?\""
 }
