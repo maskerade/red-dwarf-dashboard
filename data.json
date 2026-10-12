@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-12T15:28:42.365603+00:00",
+  "timestamp": "2026-10-12T15:59:42.275276+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 20.1,
     "indoor_humidity": 62.0,
     "outdoor_temp": 16.6,
-    "outdoor_humidity": 95.0,
-    "wind_speed": 0.0,
-    "wind_direction": 280.0,
-    "pressure": 1011.8,
+    "outdoor_humidity": 96.0,
+    "wind_speed": 2.9,
+    "wind_direction": 68.0,
+    "pressure": 1011.7,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 1531.0,
+    "power_usage": 460.0,
     "gas_consumption": 128.70839236375,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
     "UCLA settles Oracle ERP dispute with $3.1M in credits and $1.31M wiped off the bill"
   ],
-  "crew_quote": "\"Ah, 15 degrees and raining? That's perfect curry weather, mate! Just what I need to warm me up while I watch the ship's power consumption skyrocket—like my appetite!\""
+  "crew_quote": "\"Well, it's a perfect day to be overcast and patchy—ideal for testing out my latest curry recipe, if only I could keep the humidity from ruining the spice!\""
 }
