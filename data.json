@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-12T14:57:41.806323+00:00",
+  "timestamp": "2026-10-12T15:28:42.365603+00:00",
   "house": {
     "indoor_temp": 20.0,
     "indoor_humidity": 62.0,
     "outdoor_temp": 16.6,
-    "outdoor_humidity": 94.0,
-    "wind_speed": 2.5,
-    "wind_direction": 293.0,
-    "pressure": 1011.9,
+    "outdoor_humidity": 95.0,
+    "wind_speed": 0.0,
+    "wind_direction": 280.0,
+    "pressure": 1011.8,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 354.0,
+    "power_usage": 1531.0,
     "gas_consumption": 128.70839236375,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "Which AI infrastructure option actually holds a boundary?",
+    "Windows 11's easiest account bypass gets the Microsoft boot",
     "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline",
-    "UCLA settles Oracle ERP dispute with $3.1M in credits and $1.31M wiped off the bill",
-    "Microsoft giveth and Microsoft taketh away: Copilot edition",
-    "London cabbies want Sadiq Khan to slam the brakes on robotaxis"
+    "UCLA settles Oracle ERP dispute with $3.1M in credits and $1.31M wiped off the bill"
   ],
-  "crew_quote": "\"Oi, with the weather this drab, I reckon I’ll whip up a curry to brighten the place up—just hope the rain doesn’t ruin my chances of getting takeaway!\""
+  "crew_quote": "\"Ah, 15 degrees and raining? That's perfect curry weather, mate! Just what I need to warm me up while I watch the ship's power consumption skyrocket—like my appetite!\""
 }
