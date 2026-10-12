@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-12T18:03:45.804019+00:00",
+  "timestamp": "2026-10-12T18:34:45.752731+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.3,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.7,
+    "outdoor_temp": 16.8,
     "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 345.0,
-    "pressure": 1012.0,
+    "wind_direction": 289.0,
+    "pressure": 1012.4,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 584.0,
+    "power_usage": 466.0,
     "gas_consumption": 128.70839236375,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Windows 11's easiest account bypass gets the Microsoft boot",
     "Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline"
   ],
-  "crew_quote": "\"Fifteen degrees and patchy rain? That's perfect curry weather! Let's fire up the old microwave and make this day as exciting as watching paint dry in a cloud!\""
+  "crew_quote": "\"Blimey, it’s patchy rain and 15 degrees out there—perfect weather for a curry binge and a nice nap on the couch, innit?\""
 }
