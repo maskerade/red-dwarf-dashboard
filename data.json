@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-12T09:47:05.549160+00:00",
+  "timestamp": "2026-10-12T10:18:11.095383+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.5,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 15.0,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 1.4,
-    "wind_direction": 120.0,
-    "pressure": 1012.5,
-    "rain_today": 0.0,
+    "outdoor_temp": 14.4,
+    "outdoor_humidity": 95.0,
+    "wind_speed": 1.1,
+    "wind_direction": 270.0,
+    "pressure": 1012.7,
+    "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 612.0,
-    "gas_consumption": 127.45854453,
+    "power_usage": 488.0,
+    "gas_consumption": 128.233560377916,
     "heating_active": false
   },
   "locations": {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 14.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-12",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
+      "temp": 16.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Raspberry Pi Desktop catches up with Debian 13 after 4-year wait",
     "To save paper, mainframe tech ruined a week of work"
   ],
-  "crew_quote": "\"Well, at least it’s warmer in here than it is out there in that soggy 13°C — perfect curry weather, if you ask me!\""
+  "crew_quote": "\"Ah, weather's perfect for a good curry, isn't it? I mean, who wouldn't want to spice up 13 degrees of bleakness with a bit of heat, right?\""
 }
