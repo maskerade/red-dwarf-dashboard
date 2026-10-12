@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-12T12:22:30.481378+00:00",
+  "timestamp": "2026-10-12T12:53:35.432986+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.4,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 15.5,
-    "outdoor_humidity": 96.0,
-    "wind_speed": 1.8,
-    "wind_direction": 327.0,
-    "pressure": 1012.2,
+    "outdoor_temp": 16.1,
+    "outdoor_humidity": 94.0,
+    "wind_speed": 0.7,
+    "wind_direction": 24.0,
+    "pressure": 1011.9,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 418.0,
+    "power_usage": 1489.0,
     "gas_consumption": 128.70839236375,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Due to an earlier vehicle fault we are currently experiencing a minor delay on the Altrincham Line. Metrolink apologises for the inconvenience caused.",
   "headlines": [
+    "Microsoft giveth and Microsoft taketh away: Copilot edition",
     "London cabbies want Sadiq Khan to slam the brakes on robotaxis",
     "Pigeon-powered internet packet goes under the hammer at Christie's",
-    "Imagine there's no Shiny Hunters – AI could make human hacking crews obsolete",
-    "When you just need to build a tiny desktop app: TinyJS"
+    "Imagine there's no Shiny Hunters – AI could make human hacking crews obsolete"
   ],
-  "crew_quote": "\"Ah, the weather's just like my last romantic encounter—patchy and a bit gloomy! Bet it’s still better than that pigeon-powered internet nonsense!\""
+  "crew_quote": "\"Oh blimey, it’s so patchy out there, even the rain’s having an identity crisis! Might as well whip up a curry and enjoy the indoor climate while it lasts!\""
 }
