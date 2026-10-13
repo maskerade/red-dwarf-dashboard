@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-10-13T19:55:21.373131+00:00",
+  "timestamp": "2026-10-13T20:26:22.018945+00:00",
   "house": {
-    "indoor_temp": 21.3,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 11.6,
-    "outdoor_humidity": 84.0,
+    "indoor_temp": 21.2,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 11.3,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
     "wind_direction": 248.0,
-    "pressure": 1025.6,
+    "pressure": 1026.0,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 651.0,
+    "power_usage": 727.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
-      "conditions": "Cloudy ",
+      "temp": 11.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-13",
           "max": 18.0,
-          "min": 9.0
+          "min": 8.0
         },
         {
           "date": "2026-10-14",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 11.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-13",
@@ -47,7 +47,7 @@
         },
         {
           "date": "2026-10-14",
-          "max": 18.0,
+          "max": 17.0,
           "min": 8.0
         },
         {
@@ -58,22 +58,22 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 10.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-13",
           "max": 18.0,
-          "min": 9.0
+          "min": 8.0
         },
         {
           "date": "2026-10-14",
-          "max": 17.0,
+          "max": 16.0,
           "min": 6.0
         },
         {
           "date": "2026-10-15",
-          "max": 16.0,
+          "max": 15.0,
           "min": 10.0
         }
       ]
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
-    "Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'",
-    "Microsoft celebrates end of Office 2021 LTSC with MS 365 outage",
-    "NetBSD may have found a new role: The AI-free FOSS OS",
-    "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks"
+    "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks",
+    "Claude submitted fake murder tip to Philly police during summertime testing",
+    "Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse",
+    "Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'"
   ],
-  "crew_quote": "\"Blimey, it's like a curry night in here, all steamy and cozy at 21.3°C, while outside it's just another cloudy day. I reckon I’ll have my Tikka Masala and eat it too!\""
+  "crew_quote": "\"Ah, the weather's as dreary as Rimmer's personality. But at least inside, it's curry o'clock and 21.2 degrees of pure bliss!\""
 }
