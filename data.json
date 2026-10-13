@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-13T14:44:55.048965+00:00",
+  "timestamp": "2026-10-13T15:16:00.081297+00:00",
   "house": {
     "indoor_temp": 20.9,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.2,
-    "outdoor_humidity": 66.0,
-    "wind_speed": 1.8,
-    "wind_direction": 266.0,
-    "pressure": 1020.4,
+    "outdoor_temp": 15.4,
+    "outdoor_humidity": 69.0,
+    "wind_speed": 2.9,
+    "wind_direction": 159.0,
+    "pressure": 1021.0,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 396.0,
+    "power_usage": 441.0,
     "gas_consumption": 130.158255432083,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI bubble could burst and take global economy with it, IMF warns",
     "Cyberattacks crank French supermarket refrigeration systems up to 50°C"
   ],
-  "crew_quote": "\"Blimey, with it all sunny and warm out there, I reckon I could cook a curry on the pavement! Just make sure it’s not too spicy, or the heat’ll get too much!\""
+  "crew_quote": "\"With weather as glorious as this, I could almost forget that Microsoft is shoving even more tech down our throats—now, where’s my curry?\""
 }
