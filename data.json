@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-13T21:59:32.826763+00:00",
+  "timestamp": "2026-10-13T22:30:37.586177+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 21.1,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 9.3,
-    "outdoor_humidity": 90.0,
+    "outdoor_temp": 9.6,
+    "outdoor_humidity": 91.0,
     "wind_speed": 0.0,
-    "wind_direction": 247.0,
-    "pressure": 1027.3,
+    "wind_direction": 249.0,
+    "pressure": 1027.8,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 559.0,
+    "power_usage": 680.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse",
     "Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'"
   ],
-  "crew_quote": "\"With this weather, I’m thinking a nice hot curry would really warm things up—what’s the point of being overcast if you can’t spice up the gloom?\""
+  "crew_quote": "\"Blimey, it’s a bit chilly outside, isn’t it? Perfect weather for a hot curry to warm us up — unless you fancy one of those Mac Minion rascals instead!\""
 }
