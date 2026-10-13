@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-13T17:20:18.922561+00:00",
+  "timestamp": "2026-10-13T17:51:18.277048+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.8,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 13.6,
-    "outdoor_humidity": 74.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 78.0,
     "wind_speed": 0.0,
-    "wind_direction": 107.0,
-    "pressure": 1023.2,
+    "wind_direction": 115.0,
+    "pressure": 1023.8,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 702.0,
-    "gas_consumption": 130.158255432083,
+    "power_usage": 694.0,
+    "gas_consumption": 130.50826144125,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "NetBSD may have found a new role: The AI-free FOSS OS",
     "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks"
   ],
-  "crew_quote": "\"With this weather, I could really go for a curry, but first, let’s just hope that AI doesn’t decide to take over and make us all redundant. Wouldn’t that be just typical?\""
+  "crew_quote": "\"With all this overcast weather and the hum of the ship's power usage, I reckon a good curry would spice things up—nothing like a proper balti to warm the cockles, eh?\""
 }
