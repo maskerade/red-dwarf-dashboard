@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-13T01:17:54.591736+00:00",
+  "timestamp": "2026-10-13T01:48:55.891138+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.4,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 16.0,
+    "outdoor_temp": 16.2,
     "outdoor_humidity": 94.0,
-    "wind_speed": 0.0,
-    "wind_direction": 251.0,
+    "wind_speed": 4.0,
+    "wind_direction": 278.0,
     "pressure": 1011.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 376.0,
+    "power_usage": 345.0,
     "gas_consumption": 129.433331368333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
@@ -31,13 +31,13 @@
         },
         {
           "date": "2026-10-15",
-          "max": 19.0,
-          "min": 10.0
+          "max": 20.0,
+          "min": 11.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
+      "temp": 15.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -52,13 +52,13 @@
         },
         {
           "date": "2026-10-15",
-          "max": 21.0,
+          "max": 20.0,
           "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -69,12 +69,12 @@
         {
           "date": "2026-10-14",
           "max": 16.0,
-          "min": 5.0
+          "min": 6.0
         },
         {
           "date": "2026-10-15",
-          "max": 17.0,
-          "min": 11.0
+          "max": 16.0,
+          "min": 10.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "No shame in the Domain Name game: DNS is doomed, literally",
     "AMD unveils Helion racks for AI agents at OCP summit"
   ],
-  "crew_quote": "\"Ah, typical British weather! One minute it's 17 degrees and patchy rain, the next it's just me, my curry, and a dream of sunshine!\""
+  "crew_quote": "\"Looks like it's 16 degrees and cloudy out there, not much different from your average curry house—warmish but a bit dreary, just like my love life!\""
 }
