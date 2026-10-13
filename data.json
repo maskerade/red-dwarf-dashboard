@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-13T19:24:21.130067+00:00",
+  "timestamp": "2026-10-13T19:55:21.373131+00:00",
   "house": {
-    "indoor_temp": 21.6,
+    "indoor_temp": 21.3,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 12.4,
+    "outdoor_temp": 11.6,
     "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 88.0,
-    "pressure": 1024.8,
+    "wind_direction": 248.0,
+    "pressure": 1025.6,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 3220.0,
+    "power_usage": 651.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "NetBSD may have found a new role: The AI-free FOSS OS",
     "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks"
   ],
-  "crew_quote": "\"With the weather all cloudy and overcast, it's a perfect day for a curry that really warms you up — just like my heart when I think about all those cheap Chinese LLMs!\""
+  "crew_quote": "\"Blimey, it's like a curry night in here, all steamy and cozy at 21.3°C, while outside it's just another cloudy day. I reckon I’ll have my Tikka Masala and eat it too!\""
 }
