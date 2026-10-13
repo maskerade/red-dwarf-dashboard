@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-13T21:28:26.444993+00:00",
+  "timestamp": "2026-10-13T21:59:32.826763+00:00",
   "house": {
-    "indoor_temp": 21.1,
+    "indoor_temp": 21.0,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 10.0,
-    "outdoor_humidity": 88.0,
+    "outdoor_temp": 9.3,
+    "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
     "wind_direction": 247.0,
-    "pressure": 1027.2,
+    "pressure": 1027.3,
     "rain_today": 3.1,
     "uv_index": 0.0,
     "power_usage": 559.0,
@@ -16,8 +16,8 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 9.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-13",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 11.0,
-      "conditions": "Overcast ",
+      "temp": 10.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-13",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
+      "temp": 9.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse",
     "Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'"
   ],
-  "crew_quote": "\"Overcast and patchy rain? Great! Perfect weather for a proper curry fest, mate—nothing like a warm dish to brighten up a dull day!\""
+  "crew_quote": "\"With this weather, I’m thinking a nice hot curry would really warm things up—what’s the point of being overcast if you can’t spice up the gloom?\""
 }
