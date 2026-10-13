@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-13T11:38:23.423959+00:00",
+  "timestamp": "2026-10-13T12:09:28.772789+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.3,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 14.3,
-    "outdoor_humidity": 84.0,
-    "wind_speed": 1.4,
-    "wind_direction": 113.0,
-    "pressure": 1017.8,
+    "outdoor_temp": 15.4,
+    "outdoor_humidity": 77.0,
+    "wind_speed": 1.1,
+    "wind_direction": 84.0,
+    "pressure": 1018.2,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 446.0,
+    "power_usage": 354.0,
     "gas_consumption": 130.158255432083,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Owner of fashion brands Hobbs and Whistles joins autumn pwned collection",
     "UK Cabinet Office takes £7.8M hit to kill off recruitment system"
   ],
-  "crew_quote": "\"Blimey, it's hotter than the curry I had last night! If it gets any warmer, we might need to start charging the sun rent!\""
+  "crew_quote": "\"With all this sun, I reckon my curry would turn into a right stew if I left it out! But then again, at 21.3°C, that’s just perfect for a brew!\""
 }
