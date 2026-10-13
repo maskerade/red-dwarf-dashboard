@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-13T12:40:34.505776+00:00",
+  "timestamp": "2026-10-13T13:11:39.102045+00:00",
   "house": {
-    "indoor_temp": 21.1,
+    "indoor_temp": 20.8,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 15.6,
-    "outdoor_humidity": 75.0,
-    "wind_speed": 0.4,
-    "wind_direction": 92.0,
-    "pressure": 1018.5,
+    "outdoor_temp": 16.9,
+    "outdoor_humidity": 71.0,
+    "wind_speed": 1.1,
+    "wind_direction": 87.0,
+    "pressure": 1018.7,
     "rain_today": 3.1,
-    "uv_index": 1.0,
-    "power_usage": 359.0,
+    "uv_index": 0.0,
+    "power_usage": 342.0,
     "gas_consumption": 130.158255432083,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Owner of fashion brands Hobbs and Whistles joins autumn pwned collection",
     "UK Cabinet Office takes £7.8M hit to kill off recruitment system"
   ],
-  "crew_quote": "\"Blimey, it’s almost as sunny in here as it is outside! I could really go for a curry and a cold pint to celebrate this weather.\""
+  "crew_quote": "\"I'm not saying the weather's nice, but even a curry could get jealous of this sunny 16°C. I think I'll celebrate with a nice pint — and maybe a curly fry!\""
 }
