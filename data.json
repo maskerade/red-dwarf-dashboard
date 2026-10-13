@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-13T15:47:04.973303+00:00",
+  "timestamp": "2026-10-13T16:18:10.582686+00:00",
   "house": {
     "indoor_temp": 20.8,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 15.1,
+    "outdoor_temp": 14.8,
     "outdoor_humidity": 70.0,
-    "wind_speed": 1.8,
-    "wind_direction": 97.0,
-    "pressure": 1021.7,
+    "wind_speed": 2.2,
+    "wind_direction": 171.0,
+    "pressure": 1022.0,
     "rain_today": 3.1,
     "uv_index": 0.0,
-    "power_usage": 415.0,
+    "power_usage": 474.0,
     "gas_consumption": 130.158255432083,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI bubble could burst and take global economy with it, IMF warns",
     "Cyberattacks crank French supermarket refrigeration systems up to 50°C"
   ],
-  "crew_quote": "\"Seems like it's a lovely day outside, but I bet it’s nothing compared to the spicy perfection of a good curry at 20.8°C indoors, eh?\""
+  "crew_quote": "\"Blimey, it’s 16°C and sunny! Perfect conditions for a curry on the beach—just gotta watch out for seagulls trying to steal your nan's recipe!\""
 }
