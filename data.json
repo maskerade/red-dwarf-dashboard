@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-10-12T23:44:53.229552+00:00",
+  "timestamp": "2026-10-13T00:15:53.527466+00:00",
   "house": {
-    "indoor_temp": 20.5,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 16.1,
+    "indoor_temp": 20.6,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 16.0,
     "outdoor_humidity": 93.0,
-    "wind_speed": 0.7,
-    "wind_direction": 86.0,
-    "pressure": 1012.2,
+    "wind_speed": 0.4,
+    "wind_direction": 290.0,
+    "pressure": 1012.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 539.0,
+    "power_usage": 449.0,
     "gas_consumption": 129.433331368333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 15.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Cloudy ",
       "forecast": [
-        {
-          "date": "2026-10-12",
-          "max": 16.0,
-          "min": 8.0
-        },
         {
           "date": "2026-10-13",
           "max": 18.0,
@@ -33,18 +28,18 @@
           "date": "2026-10-14",
           "max": 16.0,
           "min": 7.0
+        },
+        {
+          "date": "2026-10-15",
+          "max": 19.0,
+          "min": 10.0
         }
       ]
     },
     "overseal": {
-      "temp": 15.0,
-      "conditions": "Clear ",
+      "temp": 16.0,
+      "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-10-12",
-          "max": 16.0,
-          "min": 8.0
-        },
         {
           "date": "2026-10-13",
           "max": 18.0,
@@ -54,18 +49,18 @@
           "date": "2026-10-14",
           "max": 17.0,
           "min": 8.0
+        },
+        {
+          "date": "2026-10-15",
+          "max": 21.0,
+          "min": 12.0
         }
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-10-12",
-          "max": 18.0,
-          "min": 9.0
-        },
         {
           "date": "2026-10-13",
           "max": 18.0,
@@ -75,17 +70,22 @@
           "date": "2026-10-14",
           "max": 16.0,
           "min": 5.0
+        },
+        {
+          "date": "2026-10-15",
+          "max": 17.0,
+          "min": 11.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:31 AM",
-    "sunset": "06:20 PM",
+    "sunrise": "07:32 AM",
+    "sunset": "06:17 PM",
     "moon_phase": "Waxing Crescent",
-    "moon_illumination": "2",
-    "moonrise": "09:59 AM",
-    "moonset": "06:19 PM"
+    "moon_illumination": "6",
+    "moonrise": "11:18 AM",
+    "moonset": "06:40 PM"
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
@@ -94,5 +94,5 @@
     "No shame in the Domain Name game: DNS is doomed, literally",
     "AMD unveils Helion racks for AI agents at OCP summit"
   ],
-  "crew_quote": "\"Ah, look at the weather, 15 degrees and partly cloudy! Perfect curry-eating conditions if you ask me—just don’t forget the naan, it’s the true companion to any meal!\""
+  "crew_quote": "\"With this weather, the only configuration change I need is to swap my soggy chips for a nice curry! At least I won’t need an umbrella—just a brain to keep dry!\""
 }
