@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T18:11:22.070645+00:00",
+  "timestamp": "2026-10-14T18:42:22.295742+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 15.4,
+    "outdoor_temp": 15.2,
     "outdoor_humidity": 85.0,
-    "wind_speed": 0.0,
-    "wind_direction": 138.0,
+    "wind_speed": 0.7,
+    "wind_direction": 85.0,
     "pressure": 1021.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 584.0,
+    "power_usage": 601.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Researchers cig-nal their faith in AI by taking up smoking",
     "Fire up that iPhone 1 emulation and party like it's 2007"
   ],
-  "crew_quote": "\"With this weather, I’d rather be overcast in a curry shop than stuck on this ship debating if a leap second’s more important than my next meal!\""
+  "crew_quote": "\"With this weather, I’m thinking a nice curry would warm the spirits—unless, of course, it’s overcast enough to make the whole universe grey and miserable!\""
 }
