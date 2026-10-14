@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T00:34:58.036212+00:00",
+  "timestamp": "2026-10-14T01:06:03.062274+00:00",
   "house": {
-    "indoor_temp": 20.8,
+    "indoor_temp": 20.7,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 8.5,
+    "outdoor_temp": 8.3,
     "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
     "wind_direction": 139.0,
-    "pressure": 1028.4,
+    "pressure": 1028.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 458.0,
+    "power_usage": 415.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 6.0,
-      "conditions": "Overcast ",
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-14",
@@ -94,5 +94,5 @@
     "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
     "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks"
   ],
-  "crew_quote": "\"Blimey, it’s colder outside than a polar bear’s jockstrap, but at least in here it’s a balmy 20.8°C—enough to cook up a lovely curry, eh?\""
+  "crew_quote": "\"Today’s weather is as dreary as Rimmer’s career choices, but at least my curry's bubbling away nicely at a perfect 20.7°C!\""
 }
