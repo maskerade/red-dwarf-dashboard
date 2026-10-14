@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-14T11:27:47.241417+00:00",
+  "timestamp": "2026-10-14T11:58:52.765502+00:00",
   "house": {
     "indoor_temp": 20.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 15.4,
-    "outdoor_humidity": 85.0,
-    "wind_speed": 0.4,
-    "wind_direction": 16.0,
-    "pressure": 1026.4,
+    "outdoor_temp": 15.7,
+    "outdoor_humidity": 84.0,
+    "wind_speed": 4.7,
+    "wind_direction": 326.0,
+    "pressure": 1025.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 441.0,
+    "power_usage": 458.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 16.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-14",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
+      "temp": 16.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
     "The AI math isn't mathing as infrastructure spending forecast to outstrip expected revenue"
   ],
-  "crew_quote": "\"Ah, the weather's as patchy as my last curry — 15°C and cloudy in Llandudno! Now that's what I call a proper British summer!\""
+  "crew_quote": "\"I tell you, with this weather, it's like we're living in a curry! Steamy, cloudy, and let's be honest, slightly off-putting. Perfect for a night in!\""
 }
