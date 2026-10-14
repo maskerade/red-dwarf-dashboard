@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T10:25:36.025897+00:00",
+  "timestamp": "2026-10-14T10:56:42.151360+00:00",
   "house": {
     "indoor_temp": 20.6,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 14.6,
+    "outdoor_temp": 15.0,
     "outdoor_humidity": 86.0,
-    "wind_speed": 0.7,
-    "wind_direction": 69.0,
-    "pressure": 1026.4,
+    "wind_speed": 0.4,
+    "wind_direction": 332.0,
+    "pressure": 1026.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 415.0,
+    "power_usage": 438.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "KPMG tech and data boss tells staff facing the boot he's getting promoted",
     "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
     "The AI math isn't mathing as infrastructure spending forecast to outstrip expected revenue",
-    "UK government chases AI while aging IT leaves it exposed, PAC chair warns",
-    "It won't kill you, or humanity, to get off the AI upgrade treadmill"
+    "UK government chases AI while aging IT leaves it exposed, PAC chair warns"
   ],
-  "crew_quote": "\"Well, if it’s 14 degrees in Altrincham, maybe I should stop wearing my thermal underwear — oh wait, I can't fit into anything else!\""
+  "crew_quote": "\"Look at that weather—partly cloudy? Sounds perfect for a nice curry night and a good old mope about how I still can't get promoted like that KPMG bloke!\""
 }
