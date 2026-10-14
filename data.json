@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T22:50:27.032699+00:00",
+  "timestamp": "2026-10-14T23:21:27.165094+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.3,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 14.7,
+    "outdoor_temp": 14.4,
     "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 88.0,
-    "pressure": 1020.3,
+    "wind_direction": 330.0,
+    "pressure": 1020.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 581.0,
+    "power_usage": 539.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Linux kernel devs drop obligatory confession of AI tool usage",
     "Security researchers spent 6 days doing their Chromework, built 1B user exploit"
   ],
-  "crew_quote": "\"With all this overcast weather, I reckon the best plan is to crank up the curry and stay in — no point in getting damp when you can be cozy and ripe!\""
+  "crew_quote": "\"Blimey, it's so overcast out there, I reckon even a curry wouldn’t be enough to brighten the day—better make it a spicy one just to be safe!\""
 }
