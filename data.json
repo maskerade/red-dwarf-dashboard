@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T21:48:26.121442+00:00",
+  "timestamp": "2026-10-14T22:19:25.988997+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 15.0,
+    "outdoor_temp": 14.8,
     "outdoor_humidity": 85.0,
-    "wind_speed": 1.1,
-    "wind_direction": 252.0,
-    "pressure": 1020.7,
+    "wind_speed": 1.8,
+    "wind_direction": 71.0,
+    "pressure": 1020.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 578.0,
+    "power_usage": 764.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks",
     "Leap seconds face judgment day as time lords prepare to vote"
   ],
-  "crew_quote": "\"With it being overcast and a chilly 14 degrees outside, I reckon we could whip up a lovely curry to warm us up — just don’t forget to save room for dessert, yeah?\""
+  "crew_quote": "\"14 degrees and overcast? Sounds perfect for a curry and a bit of a snooze, but keep your AI confessions to yourself; I prefer my confessions to come with a side of chips!\""
 }
