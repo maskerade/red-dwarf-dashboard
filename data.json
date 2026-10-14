@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T15:36:17.312047+00:00",
+  "timestamp": "2026-10-14T16:07:17.677662+00:00",
   "house": {
     "indoor_temp": 20.3,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 15.9,
-    "outdoor_humidity": 84.0,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 15.5,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
-    "wind_direction": 16.0,
-    "pressure": 1022.4,
+    "wind_direction": 75.0,
+    "pressure": 1022.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 463.0,
+    "power_usage": 502.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "Fire up that iPhone 1 emulation and party like it's 2007",
     "New motherboards, old RAM, plenty of life left in yesterday's PCs",
     "Tiny11 puts Windows 11 on a diet without the PowerShell workout",
-    "Cisco, Nvidia team up to build fatter, faster pluggable",
-    "US tech giants warn Europe that ditching US tech giants could cost €115B"
+    "Cisco, Nvidia team up to build fatter, faster pluggable"
   ],
-  "crew_quote": "\"Blimey, it’s more overcast than a curry stain on a white shirt! But at least the indoor temp's perfect for a nice cold lager, eh?\""
+  "crew_quote": "\"Curry might not be a great match for this overcast weather, but I say we fire up those old PCs and celebrate like it’s 2007 – with a side of chips, of course!\""
 }
