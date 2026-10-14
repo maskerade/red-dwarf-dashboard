@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T08:52:20.711030+00:00",
+  "timestamp": "2026-10-14T09:23:26.182696+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 11.7,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 12.8,
+    "outdoor_humidity": 91.0,
     "wind_speed": 0.0,
-    "wind_direction": 304.0,
-    "pressure": 1027.4,
+    "wind_direction": 321.0,
+    "pressure": 1027.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 458.0,
+    "power_usage": 449.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "AI math isn't mathing: infrastructure spending forecast to outstrip expected revenue",
     "UK government chases AI while aging IT leaves it exposed, PAC chair warns",
     "It won't kill you, or humanity, to get off the AI upgrade treadmill",
-    "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
-    "Anthropic reinvents source control as Claude floods the world with code"
+    "Ransomware gets personal: 'We-know-where-you-are kind of stuff'"
   ],
-  "crew_quote": "\"Oh, look at this weather! I bet it’s only 20.1°C in here because I’m too fabulous for the elements to handle! Now, where’s my curry?\""
+  "crew_quote": "\"With all this sunny weather, I might just whip up a curry and have a proper feast—who needs an infrastructure plan when you’ve got a good balti, right?\""
 }
