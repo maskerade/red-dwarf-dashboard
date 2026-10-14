@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T06:16:54.616827+00:00",
+  "timestamp": "2026-10-14T06:48:00.659499+00:00",
   "house": {
     "indoor_temp": 20.1,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 8.0,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 8.4,
     "outdoor_humidity": 99.0,
-    "wind_speed": 1.4,
-    "wind_direction": 171.0,
-    "pressure": 1027.7,
+    "wind_speed": 0.0,
+    "wind_direction": 323.0,
+    "pressure": 1027.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 410.0,
+    "power_usage": 382.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "CISA director touts private partnerships after agency killed many",
     "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt"
   ],
-  "crew_quote": "\"Right, so we've got mist in Altrincham and ransomware threats—couldn’t we just get a takeaway curry and let the robots handle the rest? Sounds like a plan, doesn't it?\""
+  "crew_quote": "\"Did you see the weather? It's a misty 8 degrees in Altrincham! Perfect curry weather, but honestly, who needs the outdoors when we can just flood our brains with code?\""
 }
