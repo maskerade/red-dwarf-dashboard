@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T10:56:42.151360+00:00",
+  "timestamp": "2026-10-14T11:27:47.241417+00:00",
   "house": {
-    "indoor_temp": 20.6,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 15.0,
-    "outdoor_humidity": 86.0,
+    "indoor_temp": 20.5,
+    "indoor_humidity": 61.0,
+    "outdoor_temp": 15.4,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.4,
-    "wind_direction": 332.0,
-    "pressure": 1026.5,
+    "wind_direction": 16.0,
+    "pressure": 1026.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 438.0,
+    "power_usage": 441.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "Welcome to the lovely landlocked land of Luxembork, where the fares are free, and the terminals are techno",
     "KPMG tech and data boss tells staff facing the boot he's getting promoted",
     "OpenAI engineer charged after boardroom bug found wrapped in toilet paper",
-    "The AI math isn't mathing as infrastructure spending forecast to outstrip expected revenue",
-    "UK government chases AI while aging IT leaves it exposed, PAC chair warns"
+    "The AI math isn't mathing as infrastructure spending forecast to outstrip expected revenue"
   ],
-  "crew_quote": "\"Look at that weather—partly cloudy? Sounds perfect for a nice curry night and a good old mope about how I still can't get promoted like that KPMG bloke!\""
+  "crew_quote": "\"Ah, the weather's as patchy as my last curry — 15°C and cloudy in Llandudno! Now that's what I call a proper British summer!\""
 }
