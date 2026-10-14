@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T04:43:39.030401+00:00",
+  "timestamp": "2026-10-14T05:14:43.925700+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 7.4,
+    "outdoor_temp": 7.8,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
-    "wind_direction": 158.0,
-    "pressure": 1027.6,
+    "wind_speed": 1.1,
+    "wind_direction": 169.0,
+    "pressure": 1028.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 435.0,
+    "power_usage": 443.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
     "Anthropic reinvents source control as Claude floods the world with code",
     "CISA director touts private partnerships after agency killed many",
-    "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
-    "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks"
+    "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt"
   ],
-  "crew_quote": "\"Listen, with the weather like this, I reckon a nice curry would really warm me up, assuming it doesn't go misty and cloud my sense of taste!\""
+  "crew_quote": "\"With the weather outside as murky as a dodgy curry, I think I’ll stick to the cozy warmth of this ship — it’s like a hug from a warm, slightly damp duvet!\""
 }
