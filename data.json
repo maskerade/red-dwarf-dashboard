@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T19:13:22.984669+00:00",
+  "timestamp": "2026-10-14T19:44:24.888742+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 15.4,
-    "outdoor_humidity": 84.0,
-    "wind_speed": 0.4,
-    "wind_direction": 70.0,
-    "pressure": 1021.6,
+    "outdoor_temp": 15.2,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 0.0,
+    "wind_direction": 159.0,
+    "pressure": 1021.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 3079.0,
+    "power_usage": 550.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -21,18 +21,18 @@
       "forecast": [
         {
           "date": "2026-10-14",
-          "max": 16.0,
+          "max": 17.0,
           "min": 8.0
         },
         {
           "date": "2026-10-15",
-          "max": 18.0,
+          "max": 19.0,
           "min": 12.0
         },
         {
           "date": "2026-10-16",
-          "max": 13.0,
-          "min": 7.0
+          "max": 12.0,
+          "min": 6.0
         }
       ]
     },
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-10-15",
-          "max": 16.0,
+          "max": 15.0,
           "min": 9.0
         },
         {
           "date": "2026-10-16",
           "max": 11.0,
-          "min": 6.0
+          "min": 7.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Researchers cig-nal their faith in AI by taking up smoking",
     "Fire up that iPhone 1 emulation and party like it's 2007"
   ],
-  "crew_quote": "\"Well, it's just like a day in Lister's curry cupboard—overcast and slightly humid, but at least it's a cozy 20 degrees! An ideal day for lounging and eating!\""
+  "crew_quote": "\"Blimey, with the weather being so dreary at 15 degrees, I could really fancy a nice hot curry to cheer me up—preferably with a dash of something that'll spice up my life!\""
 }
