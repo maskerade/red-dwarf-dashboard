@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T00:03:52.559021+00:00",
+  "timestamp": "2026-10-14T00:34:58.036212+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.8,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 8.8,
-    "outdoor_humidity": 94.0,
+    "outdoor_temp": 8.5,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 138.0,
+    "wind_direction": 139.0,
     "pressure": 1028.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 497.0,
+    "power_usage": 458.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
     "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks"
   ],
-  "crew_quote": "\"Blimey, it’s like Llandudno’s trying to set a world record for dreariness—thank goodness I’ve got my curry to warm me up!\""
+  "crew_quote": "\"Blimey, it’s colder outside than a polar bear’s jockstrap, but at least in here it’s a balmy 20.8°C—enough to cook up a lovely curry, eh?\""
 }
