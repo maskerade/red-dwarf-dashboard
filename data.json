@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T07:50:09.931480+00:00",
+  "timestamp": "2026-10-14T08:21:15.640321+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 9.4,
-    "outdoor_humidity": 99.0,
+    "outdoor_temp": 10.4,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.4,
-    "wind_direction": 324.0,
-    "pressure": 1027.5,
+    "wind_direction": 304.0,
+    "pressure": 1027.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 427.0,
+    "power_usage": 3096.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "UK government chases AI while aging IT leaves it exposed, PAC chair warns",
     "It won't kill you, or humanity, to get off the AI upgrade treadmill",
     "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
-    "Anthropic reinvents source control as Claude floods the world with code",
-    "CISA director touts private partnerships after agency killed many"
+    "Anthropic reinvents source control as Claude floods the world with code"
   ],
-  "crew_quote": "\"With all this mist outside, I reckon it’s perfect curry weather! I just hope the power bill doesn't blow a hole in my wallet like Rimmer's ego.\""
+  "crew_quote": "\"Oi, it’s misty out there! Perfect weather for a curry, I reckon — maybe a nice Rogan Josh to warm me up while the government chases its tail like a daft cat!\""
 }
