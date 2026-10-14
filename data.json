@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T05:14:43.925700+00:00",
+  "timestamp": "2026-10-14T05:45:49.284350+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 7.8,
+    "outdoor_temp": 7.3,
     "outdoor_humidity": 99.0,
-    "wind_speed": 1.1,
-    "wind_direction": 169.0,
-    "pressure": 1028.1,
+    "wind_speed": 0.0,
+    "wind_direction": 151.0,
+    "pressure": 1027.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 443.0,
+    "power_usage": 401.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 8.0,
-      "conditions": "Cloudy ",
+      "temp": 9.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-14",
@@ -94,5 +94,5 @@
     "CISA director touts private partnerships after agency killed many",
     "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt"
   ],
-  "crew_quote": "\"With the weather outside as murky as a dodgy curry, I think I’ll stick to the cozy warmth of this ship — it’s like a hug from a warm, slightly damp duvet!\""
+  "crew_quote": "\"Looks like it's a perfect day for a nice curry, unless you're in Altrincham, then it's all misty—definitely not fabulous for the hair!\""
 }
