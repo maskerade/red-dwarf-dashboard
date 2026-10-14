@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-14T03:41:27.897419+00:00",
+  "timestamp": "2026-10-14T04:12:34.181778+00:00",
   "house": {
     "indoor_temp": 20.4,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 7.1,
-    "outdoor_humidity": 98.0,
+    "outdoor_temp": 7.0,
+    "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 140.0,
-    "pressure": 1027.7,
+    "pressure": 1027.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 387.0,
+    "power_usage": 384.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 8.0,
-      "conditions": "Clear ",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-10-14",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 9.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-14",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 7.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 8.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-14",
@@ -94,5 +94,5 @@
     "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
     "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks"
   ],
-  "crew_quote": "\"Right, it's a bit nippy out there at 8 degrees, but that's nothing a proper curry can't fix! Just don’t let it get too hot in here, or I’ll be sweating like a dog!\""
+  "crew_quote": "\"Well, it's misty out there, like a bad curry after a night in the holosuite. I guess that makes it the perfect day for a nice cozy nap!\""
 }
