@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T17:09:18.684012+00:00",
+  "timestamp": "2026-10-14T17:40:21.636695+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 15.6,
-    "outdoor_humidity": 83.0,
+    "outdoor_temp": 15.5,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.4,
-    "wind_direction": 43.0,
-    "pressure": 1022.1,
+    "wind_direction": 322.0,
+    "pressure": 1022.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 384.0,
+    "power_usage": 525.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Due to an event at the Eithad there is a minor delay on the Ashton Bury and Altrincham line. We apologise for any inconvenience caused this may cause to your journey.",
   "headlines": [
+    "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks",
     "Leap seconds face judgment day as time lords prepare to vote",
     "Researchers cig-nal their faith in AI by taking up smoking",
-    "Fire up that iPhone 1 emulation and party like it's 2007",
-    "New motherboards, old RAM, plenty of life left in yesterday's PCs"
+    "Fire up that iPhone 1 emulation and party like it's 2007"
   ],
-  "crew_quote": "\"With this overcast weather, it’s perfect for a nice curry night, don’t you think? Much better than worrying about leap seconds—I've barely got a second to spare!\""
+  "crew_quote": "\"Blimey, it’s so overcast outside that even some of my curries look brighter! Can’t we just patch the sky like they do with those Ivanti things?\""
 }
