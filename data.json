@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-14T07:19:05.149677+00:00",
+  "timestamp": "2026-10-14T07:50:09.931480+00:00",
   "house": {
     "indoor_temp": 20.0,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 8.5,
+    "outdoor_temp": 9.4,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
-    "wind_direction": 275.0,
-    "pressure": 1027.6,
+    "wind_speed": 0.4,
+    "wind_direction": 324.0,
+    "pressure": 1027.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 427.0,
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "It won't kill you, or humanity, to get off the AI upgrade treadmill",
     "Ransomware gets personal: 'We-know-where-you-are kind of stuff'",
     "Anthropic reinvents source control as Claude floods the world with code",
-    "CISA director touts private partnerships after agency killed many",
-    "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt"
+    "CISA director touts private partnerships after agency killed many"
   ],
-  "crew_quote": "\"Ah, it’s just typical, innit? One minute it's misty and cold like a soggy chip, and the next you’ve got some fancy AI flooding the world with code. I’ll take my curry over that, thank you!\""
+  "crew_quote": "\"With all this mist outside, I reckon it’s perfect curry weather! I just hope the power bill doesn't blow a hole in my wallet like Rimmer's ego.\""
 }
