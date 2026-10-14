@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T14:03:13.499183+00:00",
+  "timestamp": "2026-10-14T14:34:14.893280+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.3,
     "indoor_humidity": 61.0,
     "outdoor_temp": 16.5,
-    "outdoor_humidity": 83.0,
-    "wind_speed": 1.4,
-    "wind_direction": 259.0,
-    "pressure": 1024.1,
+    "outdoor_humidity": 81.0,
+    "wind_speed": 7.2,
+    "wind_direction": 68.0,
+    "pressure": 1023.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 550.0,
+    "power_usage": 458.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "Tiny11 puts Windows 11 on a diet without the PowerShell workout",
     "Cisco, Nvidia team up to build fatter, faster pluggable",
     "US tech giants warn Europe that ditching US tech giants could cost €115B",
-    "Python 3.15 goes global with UTF-8 support",
-    "Welcome to the lovely landlocked land of Luxembork, where the fares are free, and the terminals are techno"
+    "Python 3.15 goes global with UTF-8 support"
   ],
-  "crew_quote": "\"With this weather, it’s almost too muggy for a good curry, unless you fancy it served with a side of sweat—ah, the true gourmet experience!\""
+  "crew_quote": "\"What's the point of this overcast weather? It's not even curry night! I prefer my clouds like my fashion—bright and full of flavor!\""
 }
