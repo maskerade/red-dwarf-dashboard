@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T18:42:22.295742+00:00",
+  "timestamp": "2026-10-14T19:13:22.984669+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 15.2,
-    "outdoor_humidity": 85.0,
-    "wind_speed": 0.7,
-    "wind_direction": 85.0,
-    "pressure": 1021.7,
+    "outdoor_temp": 15.4,
+    "outdoor_humidity": 84.0,
+    "wind_speed": 0.4,
+    "wind_direction": 70.0,
+    "pressure": 1021.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 601.0,
+    "power_usage": 3079.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "12:33 PM",
     "moonset": "07:09 PM"
   },
-  "metrolink": "Due to an event at the Eithad there is a minor delay on the Ashton Bury and Altrincham line. We apologise for any inconvenience caused this may cause to your journey.",
+  "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
     "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks",
     "Leap seconds face judgment day as time lords prepare to vote",
     "Researchers cig-nal their faith in AI by taking up smoking",
     "Fire up that iPhone 1 emulation and party like it's 2007"
   ],
-  "crew_quote": "\"With this weather, I’m thinking a nice curry would warm the spirits—unless, of course, it’s overcast enough to make the whole universe grey and miserable!\""
+  "crew_quote": "\"Well, it's just like a day in Lister's curry cupboard—overcast and slightly humid, but at least it's a cozy 20 degrees! An ideal day for lounging and eating!\""
 }
