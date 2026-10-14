@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-14T20:15:23.721989+00:00",
+  "timestamp": "2026-10-14T20:46:24.484607+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 62.0,
     "outdoor_temp": 15.2,
-    "outdoor_humidity": 84.0,
-    "wind_speed": 4.0,
-    "wind_direction": 30.0,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 0.0,
+    "wind_direction": 31.0,
     "pressure": 1021.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 533.0,
+    "power_usage": 702.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "Linux kernel devs drop obligatory confession of AI tool usage",
+    "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
     "Ivanti patches Connect Secure zero-day after researchers confirm in-the-wild attacks",
-    "Leap seconds face judgment day as time lords prepare to vote",
-    "Researchers cig-nal their faith in AI by taking up smoking",
-    "Fire up that iPhone 1 emulation and party like it's 2007"
+    "Leap seconds face judgment day as time lords prepare to vote"
   ],
-  "crew_quote": "\"Well, with all this overcast and a brisk 15 degrees, I reckon it’s the perfect weather for a curry! Let’s spice up this dreariness, yeah?\""
+  "crew_quote": "\"Blimey! Even the weather's got no personality today, overcast everywhere. At least in here, I can crank up the heat and pretend I’m in a curry house!\""
 }
