@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-10-14T02:08:13.711078+00:00",
+  "timestamp": "2026-10-14T02:39:18.051480+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.5,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 7.6,
+    "outdoor_temp": 7.7,
     "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
     "wind_direction": 140.0,
-    "pressure": 1028.5,
+    "pressure": 1028.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 449.0,
+    "power_usage": 410.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 8.0,
-      "conditions": "Overcast ",
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-14",
-          "max": 17.0,
-          "min": 7.0
+          "max": 16.0,
+          "min": 8.0
         },
         {
           "date": "2026-10-15",
@@ -38,12 +38,12 @@
     },
     "overseal": {
       "temp": 9.0,
-      "conditions": "Overcast ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-14",
           "max": 17.0,
-          "min": 8.0
+          "min": 9.0
         },
         {
           "date": "2026-10-15",
@@ -52,19 +52,19 @@
         },
         {
           "date": "2026-10-16",
-          "max": 15.0,
+          "max": 14.0,
           "min": 7.0
         }
       ]
     },
     "llandudno": {
-      "temp": 6.0,
-      "conditions": "Clear ",
+      "temp": 7.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-14",
           "max": 16.0,
-          "min": 6.0
+          "min": 7.0
         },
         {
           "date": "2026-10-15",
@@ -94,5 +94,5 @@
     "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
     "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks"
   ],
-  "crew_quote": "\"It’s so damp outside, even a curry wouldn’t clear the air! But indoors at 20.6°C, I could whip up a full-on buffet—saag paneer, anyone?\""
+  "crew_quote": "\"Well, it might be a chilly 8 degrees outside, but at least in here, it’s a balmy 20.5! Perfect for a curry night while we plot our escape from an endless sea of code!\""
 }
