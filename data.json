@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-15T13:49:47.141959+00:00",
+  "timestamp": "2026-10-15T14:20:52.251355+00:00",
   "house": {
     "indoor_temp": 19.9,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 17.5,
-    "outdoor_humidity": 93.0,
+    "outdoor_temp": 16.6,
+    "outdoor_humidity": 94.0,
     "wind_speed": 0.0,
-    "wind_direction": 239.0,
-    "pressure": 1017.8,
+    "wind_direction": 122.0,
+    "pressure": 1017.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 362.0,
+    "power_usage": 370.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 18.0,
-      "conditions": "Overcast ",
+      "temp": 17.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-15",
@@ -27,27 +27,27 @@
         {
           "date": "2026-10-16",
           "max": 12.0,
-          "min": 6.0
+          "min": 7.0
         },
         {
           "date": "2026-10-17",
           "max": 12.0,
-          "min": 5.0
+          "min": 4.0
         }
       ]
     },
     "overseal": {
-      "temp": 19.0,
+      "temp": 20.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-15",
           "max": 20.0,
-          "min": 13.0
+          "min": 14.0
         },
         {
           "date": "2026-10-16",
-          "max": 13.0,
+          "max": 15.0,
           "min": 7.0
         },
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 15.0,
-      "conditions": "Light drizzle",
+      "temp": 12.0,
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-10-15",
@@ -74,7 +74,7 @@
         {
           "date": "2026-10-17",
           "max": 12.0,
-          "min": 3.0
+          "min": 2.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Rocket Lab pushes back first Neutron launch to 2027",
     "OpenAI claims 100-plus secret files followed ex-employee back to Apple"
   ],
-  "crew_quote": "\"Blimey, 19 degrees and still overcast—perfect weather for a nice curry and getting absolutely nothing done!\""
+  "crew_quote": "\"With all this patchy rain, I think it’s the perfect weather for a nice curry – just like life, it’s all a bit unpredictable and a little bit saucy!\""
 }
