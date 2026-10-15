@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-15T11:45:39.702229+00:00",
+  "timestamp": "2026-10-15T12:16:39.898129+00:00",
   "house": {
     "indoor_temp": 20.0,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 17.7,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 18.0,
     "outdoor_humidity": 86.0,
-    "wind_speed": 4.7,
-    "wind_direction": 300.0,
-    "pressure": 1017.6,
+    "wind_speed": 0.0,
+    "wind_direction": 298.0,
+    "pressure": 1017.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 497.0,
+    "power_usage": 458.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "01:39 PM",
     "moonset": "07:49 PM"
   },
-  "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
+  "metrolink": "Due to an earlier RTC we have minor delays on the Airport Altrincham Bury and East Didsbury Lines. We apologise for the inconvenience caused to your journey.",
   "headlines": [
-    "US Air Force pilots used malware-laden USB drives to plan Afghanistan missions",
-    "Japanese consortium bets on building bobbing bit barns",
-    "UK keeps AI safeguards in the maybe pile for Cyber Security BIll",
-    "Royal Navy goes fishing for suppliers to build its Type 93 robot submarine"
+    "Rocket Lab pushes back first Neutron launch to 2027",
+    "OpenAI claims 100-plus secret files followed ex-employee back to Apple",
+    "Legal Aid Agency hackers made off with records dating back to 1978",
+    "US Air Force pilots used malware-laden USB drives to plan Afghanistan missions"
   ],
-  "crew_quote": "\"Well, at least it's pleasantly warm indoors, unlike that dreary drizzle in Llandudno. Makes me crave a curry and some decent company to dine with!\""
+  "crew_quote": "\"We're stuck in an overcast drizzle while Rocket Lab's busy pushing back their launch — it's like waiting for a curry that never arrives!\""
 }
