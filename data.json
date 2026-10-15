@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-15T12:16:39.898129+00:00",
+  "timestamp": "2026-10-15T12:47:40.411220+00:00",
   "house": {
     "indoor_temp": 20.0,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 18.0,
-    "outdoor_humidity": 86.0,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 17.9,
+    "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 298.0,
-    "pressure": 1017.7,
+    "wind_direction": 84.0,
+    "pressure": 1017.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 458.0,
+    "power_usage": 384.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 17.0,
+      "temp": 18.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "Due to an earlier RTC we have minor delays on the Airport Altrincham Bury and East Didsbury Lines. We apologise for the inconvenience caused to your journey.",
   "headlines": [
+    "X purges 13,000 accounts linked to suspected meddling ahead of US midterms",
     "Rocket Lab pushes back first Neutron launch to 2027",
     "OpenAI claims 100-plus secret files followed ex-employee back to Apple",
-    "Legal Aid Agency hackers made off with records dating back to 1978",
-    "US Air Force pilots used malware-laden USB drives to plan Afghanistan missions"
+    "Legal Aid Agency hackers made off with records dating back to 1978"
   ],
-  "crew_quote": "\"We're stuck in an overcast drizzle while Rocket Lab's busy pushing back their launch — it's like waiting for a curry that never arrives!\""
+  "crew_quote": "\"Blimey, it’s so overcast out there it’s like someone’s thrown a massive wet blanket over the whole planet. Fancy a curry to cheer us up, or do you fancy drizzle with a side of gloom?\""
 }
