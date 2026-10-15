@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-15T12:47:40.411220+00:00",
+  "timestamp": "2026-10-15T13:18:43.909381+00:00",
   "house": {
     "indoor_temp": 20.0,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 17.9,
-    "outdoor_humidity": 87.0,
-    "wind_speed": 0.0,
-    "wind_direction": 84.0,
-    "pressure": 1017.8,
+    "outdoor_temp": 17.2,
+    "outdoor_humidity": 94.0,
+    "wind_speed": 0.7,
+    "wind_direction": 56.0,
+    "pressure": 1018.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 384.0,
+    "power_usage": 396.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "Due to an earlier RTC we have minor delays on the Airport Altrincham Bury and East Didsbury Lines. We apologise for the inconvenience caused to your journey.",
   "headlines": [
+    "TSMC sends scouts to check whether America's datacenters can deliver",
     "X purges 13,000 accounts linked to suspected meddling ahead of US midterms",
     "Rocket Lab pushes back first Neutron launch to 2027",
-    "OpenAI claims 100-plus secret files followed ex-employee back to Apple",
-    "Legal Aid Agency hackers made off with records dating back to 1978"
+    "OpenAI claims 100-plus secret files followed ex-employee back to Apple"
   ],
-  "crew_quote": "\"Blimey, it’s so overcast out there it’s like someone’s thrown a massive wet blanket over the whole planet. Fancy a curry to cheer us up, or do you fancy drizzle with a side of gloom?\""
+  "crew_quote": "\"18 degrees and overcast? Blimey, perfect curry weather! Just the way I like it — a bit of drizzle to keep the spices nice and vibrant!\""
 }
