@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-15T19:00:37.377299+00:00",
+  "timestamp": "2026-10-15T19:31:40.767102+00:00",
   "house": {
     "indoor_temp": 19.8,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 12.2,
-    "outdoor_humidity": 98.0,
+    "outdoor_temp": 11.4,
+    "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 112.0,
-    "pressure": 1019.1,
-    "rain_today": 1.0,
+    "wind_direction": 128.0,
+    "pressure": 1020.0,
+    "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 3119.0,
+    "power_usage": 3175.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Workday wants a slice of customers' labour budget that its AI agents could replace",
     "TinyLittleOffice, where the link is the document"
   ],
-  "crew_quote": "\"Weather's all dreary and miserable, like we’re stuck in a never-ending episode of 'The Drizzle Zone' — but at least my curry's still on point, eh?\""
+  "crew_quote": "\"Blimey, with this weather, I might as well trade the curry for a cup of tea and a good old-fashioned Game Boy — they’re practically the same thing, just with less color!\""
 }
