@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-15T17:27:22.103243+00:00",
+  "timestamp": "2026-10-15T17:58:27.168432+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 13.7,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 102.0,
-    "pressure": 1018.9,
+    "wind_direction": 140.0,
+    "pressure": 1018.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 441.0,
+    "power_usage": 660.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Workday wants a slice of customers' labour budget that its AI agents could replace",
     "TinyLittleOffice, where the link is the document"
   ],
-  "crew_quote": "\"Even with the light drizzle outside, I’d still rather be here, enjoying a curry than struggling to understand why someone would make a grayscale Game Boy. What's next, a floppy disk toaster?\""
+  "crew_quote": "\"With all this drizzle outside, it’s a perfect day to stay in, make a decent curry, and watch videos of that bloke who built a Game Boy—lovely bit of nostalgia!\""
 }
