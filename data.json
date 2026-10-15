@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-15T09:41:37.208012+00:00",
+  "timestamp": "2026-10-15T10:12:38.640714+00:00",
   "house": {
-    "indoor_temp": 19.7,
+    "indoor_temp": 19.8,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.5,
-    "outdoor_humidity": 83.0,
-    "wind_speed": 3.2,
-    "wind_direction": 2.0,
-    "pressure": 1017.4,
+    "outdoor_temp": 16.3,
+    "outdoor_humidity": 84.0,
+    "wind_speed": 0.0,
+    "wind_direction": 186.0,
+    "pressure": 1017.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 480.0,
+    "power_usage": 1759.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "Japanese consortium bets on building bobbing bit barns",
     "UK keeps AI safeguards in the maybe pile for Cyber Security BIll",
     "Royal Navy goes fishing for suppliers to build its Type 93 robot submarine",
-    "Metropolitan Police's unchecked use of shoplifting platform lands force in trouble with data watchdog",
-    "Jev and other decision models can still be tricked with prompt injection"
+    "Metropolitan Police's unchecked use of shoplifting platform lands force in trouble with data watchdog"
   ],
-  "crew_quote": "\"Is it just me, or does the weather outside look like someone's spilled a bucket of grey paint? Bet it's great for making curry, though!\""
+  "crew_quote": "\"Well, at least it’s not raining curry, eh? With our luck, that’ll be next week’s weather update!\""
 }
