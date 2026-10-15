@@ -1,33 +1,33 @@
 {
-  "timestamp": "2026-10-15T20:02:46.708884+00:00",
+  "timestamp": "2026-10-15T20:33:50.361720+00:00",
   "house": {
-    "indoor_temp": 20.0,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 10.9,
+    "indoor_temp": 20.1,
+    "indoor_humidity": 64.0,
+    "outdoor_temp": 10.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.4,
-    "wind_direction": 319.0,
-    "pressure": 1019.2,
-    "rain_today": 4.8,
+    "wind_direction": 316.0,
+    "pressure": 1018.3,
+    "rain_today": 5.8,
     "uv_index": 0.0,
-    "power_usage": 584.0,
+    "power_usage": 559.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-10-15",
           "max": 18.0,
-          "min": 12.0
+          "min": 11.0
         },
         {
           "date": "2026-10-16",
           "max": 12.0,
-          "min": 7.0
+          "min": 6.0
         },
         {
           "date": "2026-10-17",
@@ -59,12 +59,12 @@
     },
     "llandudno": {
       "temp": 10.0,
-      "conditions": "Light rain",
+      "conditions": "Moderate rain",
       "forecast": [
         {
           "date": "2026-10-15",
           "max": 16.0,
-          "min": 8.0
+          "min": 10.0
         },
         {
           "date": "2026-10-16",
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-10-17",
-          "max": 12.0,
-          "min": 2.0
+          "max": 11.0,
+          "min": 3.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Workday wants a slice of customers' labour budget that its AI agents could replace",
     "TinyLittleOffice, where the link is the document"
   ],
-  "crew_quote": "\"What’s a YouTuber got to do to get a decent curry? All I get is this damp drizzle, and I’m starting to think my brain’s as grey as that Game Boy!\""
+  "crew_quote": "\"Forget the weather, mate! If it’s not drizzling on your curry, what’s the point? I’ll take a 20.1°C curry in here any day!\""
 }
