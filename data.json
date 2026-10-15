@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-15T22:07:06.083011+00:00",
+  "timestamp": "2026-10-15T22:38:11.062691+00:00",
   "house": {
     "indoor_temp": 19.9,
     "indoor_humidity": 64.0,
     "outdoor_temp": 10.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 76.0,
-    "pressure": 1020.1,
-    "rain_today": 6.3,
+    "wind_direction": 79.0,
+    "pressure": 1020.0,
+    "rain_today": 6.6,
     "uv_index": 0.0,
-    "power_usage": 567.0,
+    "power_usage": 542.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Researchers warned attackers could 'defrost the food' months before French supermarkets got hit",
     "$24,000 AI experiment ports TypeScript compiler to Rust"
   ],
-  "crew_quote": "\"With this drizzle, it's a perfect day for a curry, isn't it? Nothing like a bit of warmth inside while the weather outside is trying to drown us!\""
+  "crew_quote": "\"So it’s like 11 degrees and drizzling outside? Perfect weather for a curry, unless you fancy a soaking while you serve it on a rainy day!\""
 }
