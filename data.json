@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-16T10:32:47.240505+00:00",
+  "timestamp": "2026-10-16T11:03:46.873919+00:00",
   "house": {
     "indoor_temp": 19.7,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 9.8,
+    "outdoor_temp": 10.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 104.0,
-    "pressure": 1025.1,
+    "wind_direction": 120.0,
+    "pressure": 1025.4,
     "rain_today": 4.3,
     "uv_index": 0.0,
-    "power_usage": 488.0,
-    "gas_consumption": 130.885502928333,
+    "power_usage": 584.0,
+    "gas_consumption": 130.960505355416,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "User refused to change her password because everyone already knew it",
     "Give him a hand: Dev publishes 25-year-old Palm OS tools to GitHub"
   ],
-  "crew_quote": "\"With this sunny weather, I could really go for a curry on the beach, but first, let’s make sure we don’t end up like the school snapper — a victim of smash and grab!\""
+  "crew_quote": "\"Well, I suppose it's a lovely day to get robbed—flashing sunshine in Altrincham while some muppet snatches SD cards like they're going out of fashion!\""
 }
