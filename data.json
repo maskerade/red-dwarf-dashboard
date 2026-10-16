@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-16T03:17:54.347709+00:00",
+  "timestamp": "2026-10-16T03:48:59.108622+00:00",
   "house": {
     "indoor_temp": 19.7,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 9.7,
+    "outdoor_temp": 9.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 118.0,
-    "pressure": 1020.4,
+    "pressure": 1020.8,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 387.0,
+    "power_usage": 376.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Researchers warned attackers could 'defrost the food' months before French supermarkets got hit",
     "$24,000 AI experiment ports TypeScript compiler to Rust"
   ],
-  "crew_quote": "\"Well, it may be 10 degrees outside, but I've got a better idea—let's crank up the heating and whip up some curry! Indoor humidity's perfect for a proper boil-in-the-bag delight!\""
+  "crew_quote": "\"10 degrees and overcast? Just perfect weather for a nice curry, I’d say! Can’t let a little rain stop us from enjoying the best takeout in the galaxy!\""
 }
