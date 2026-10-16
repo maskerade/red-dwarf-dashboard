@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-16T00:42:30.006411+00:00",
+  "timestamp": "2026-10-16T01:13:34.045294+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 63.0,
-    "outdoor_temp": 10.7,
+    "outdoor_temp": 10.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 104.0,
-    "pressure": 1020.0,
-    "rain_today": 1.8,
+    "wind_direction": 118.0,
+    "pressure": 1020.1,
+    "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 441.0,
+    "power_usage": 396.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 10.0,
-      "conditions": "Light rain",
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-10-16",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Light drizzle",
+      "temp": 12.0,
+      "conditions": "Moderate rain",
       "forecast": [
         {
           "date": "2026-10-16",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 8.0,
-      "conditions": "Mist",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-16",
@@ -94,5 +94,5 @@
     "Researchers warned attackers could 'defrost the food' months before French supermarkets got hit",
     "$24,000 AI experiment ports TypeScript compiler to Rust"
   ],
-  "crew_quote": "\"Light drizzle outside, perfect weather for a curry binge, I reckon! Just hope the power doesn't go out—I'm not sure I could survive without my good old-fashioned microwave.\""
+  "crew_quote": "\"Blimey, it's so wet outside even my curry's getting soggy! I reckon I'd have a better chance at surviving in the fridge.\""
 }
