@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-16T22:25:58.872770+00:00",
+  "timestamp": "2026-10-16T22:56:59.342256+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 61.0,
-    "outdoor_temp": 5.5,
+    "outdoor_temp": 4.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 151.0,
-    "pressure": 1033.7,
+    "pressure": 1034.0,
     "rain_today": 4.3,
     "uv_index": 0.0,
-    "power_usage": 539.0,
+    "power_usage": 567.0,
     "gas_consumption": 132.311551275,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Networking problems after the October 2026 Windows update? NTLM might be to blame",
     "NTT Global Data Centers weighs the price tag of not building fast enough"
   ],
-  "crew_quote": "\"Blimey, it's a bit nippy out there at 7 degrees! Think I’ll stay in where it’s warm and whip up a curry instead; who needs rain when you’ve got spice, eh?\""
+  "crew_quote": "\"I'm just saying, with the weather being so clear at 7°C, it’s practically perfect for a curry night—if only I had the power to stop the Stonking Stingray from distracting me!\""
 }
