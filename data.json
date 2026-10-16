@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-16T18:17:54.459118+00:00",
+  "timestamp": "2026-10-16T18:48:55.926662+00:00",
   "house": {
     "indoor_temp": 20.3,
-    "indoor_humidity": 64.0,
-    "outdoor_temp": 8.4,
+    "indoor_humidity": 63.0,
+    "outdoor_temp": 8.3,
     "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 125.0,
-    "pressure": 1030.2,
+    "wind_direction": 126.0,
+    "pressure": 1030.6,
     "rain_today": 4.3,
     "uv_index": 0.0,
-    "power_usage": 753.0,
+    "power_usage": 935.0,
     "gas_consumption": 132.311551275,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "02:31 PM",
     "moonset": "08:43 PM"
   },
-  "metrolink": "Due to operational error there will be a minor delay to the Altrincham to Eithad Campus line. We apologise for any inconvenience caused this may cause to your journey",
+  "metrolink": "Due to persons trespassing on tracks around Cornbrook there will be a minor delay to some services.",
   "headlines": [
     "Networking problems after the October 2026 Windows update? NTLM might be to blame",
     "NTT Global Data Centers weighs the price tag of not building fast enough",
     "Uncle Scam Wants You … to cough up your cash and personal data, FBI warns ahead of midterms",
     "Attack on BAE-managed system disrupts US bankruptcy courts"
   ],
-  "crew_quote": "\"Oh, great! It’s 20 degrees inside and patchy rain outside. Just what I need to get inspired for a curry—though I suppose I’ll just stick to dry toast instead!\""
+  "crew_quote": "\"Ah, clear skies and patchy rain nearby, just like my love life — a bit unpredictable, but just warm enough for a curry, eh?\""
 }
