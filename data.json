@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-16T04:20:05.093998+00:00",
+  "timestamp": "2026-10-16T04:51:08.662052+00:00",
   "house": {
     "indoor_temp": 19.6,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 8.5,
+    "outdoor_temp": 8.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 118.0,
-    "pressure": 1020.7,
+    "pressure": 1021.1,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 432.0,
+    "power_usage": 404.0,
     "gas_consumption": 130.885502928333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Researchers warned attackers could 'defrost the food' months before French supermarkets got hit",
     "$24,000 AI experiment ports TypeScript compiler to Rust"
   ],
-  "crew_quote": "\"With this weather, I might as well just stay in and make a nice curry—nothing says 'miserable mist' like a good old-fashioned vindaloo, right?\""
+  "crew_quote": "\"Blimey, it's mistier than a curry at a ghost convention out there! Bet the rain's thinking about starting a band with the humidity.\""
 }
