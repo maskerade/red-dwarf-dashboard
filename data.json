@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-16T17:46:54.752040+00:00",
+  "timestamp": "2026-10-16T18:17:54.459118+00:00",
   "house": {
-    "indoor_temp": 20.2,
-    "indoor_humidity": 63.0,
-    "outdoor_temp": 9.0,
-    "outdoor_humidity": 89.0,
+    "indoor_temp": 20.3,
+    "indoor_humidity": 64.0,
+    "outdoor_temp": 8.4,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 152.0,
-    "pressure": 1029.9,
+    "wind_direction": 125.0,
+    "pressure": 1030.2,
     "rain_today": 4.3,
     "uv_index": 0.0,
-    "power_usage": 660.0,
+    "power_usage": 753.0,
     "gas_consumption": 132.311551275,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Sunny",
+      "temp": 9.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-16",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Sunny",
+      "temp": 9.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-16",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
+      "temp": 7.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Uncle Scam Wants You … to cough up your cash and personal data, FBI warns ahead of midterms",
     "Attack on BAE-managed system disrupts US bankruptcy courts"
   ],
-  "crew_quote": "\"Ah, lovely weather for a curry in the sun, isn’t it? Just a shame I can’t do the same with this stupid Windows update—it's like it’s raining on my parade!\""
+  "crew_quote": "\"Oh, great! It’s 20 degrees inside and patchy rain outside. Just what I need to get inspired for a curry—though I suppose I’ll just stick to dry toast instead!\""
 }
