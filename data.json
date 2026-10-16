@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-16T11:34:47.467686+00:00",
+  "timestamp": "2026-10-16T12:05:48.798319+00:00",
   "house": {
-    "indoor_temp": 21.0,
-    "indoor_humidity": 61.0,
-    "outdoor_temp": 10.7,
-    "outdoor_humidity": 99.0,
+    "indoor_temp": 21.7,
+    "indoor_humidity": 62.0,
+    "outdoor_temp": 10.6,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.4,
-    "wind_direction": 84.0,
-    "pressure": 1025.7,
+    "wind_direction": 104.0,
+    "pressure": 1025.9,
     "rain_today": 4.3,
     "uv_index": 0.0,
-    "power_usage": 592.0,
-    "gas_consumption": 131.735761954166,
+    "power_usage": 584.0,
+    "gas_consumption": 132.311551275,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 12.0,
-      "conditions": "Sunny",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-16",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Sunny",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-16",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
+      "temp": 11.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "Microsoft bringing Defender to Linux desktops. Repeat: Microsoft bringing Defender to Linux desktops",
+    "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
     "Thief snatches school snapper's SD cards in smash & grab",
-    "Open source sovereignty gets down to the boring business of making it work",
-    "User refused to change her password because everyone already knew it",
-    "Give him a hand: Dev publishes 25-year-old Palm OS tools to GitHub"
+    "Open source sovereignty gets down to the boring business of making it work"
   ],
-  "crew_quote": "\"Can you believe the weather? It's 12 degrees and sunny in Altrincham; perfect for a curry! I could really go for a nice balti right now, after all this indoor sweating.\""
+  "crew_quote": "\"Patchy rain and a cozy 21.7°C indoors? Perfect curry weather! Just don’t let the rain spoil my plans for a lovely takeaway with the lads.\""
 }
