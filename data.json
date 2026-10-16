@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-16T12:05:48.798319+00:00",
+  "timestamp": "2026-10-16T12:36:48.665257+00:00",
   "house": {
-    "indoor_temp": 21.7,
-    "indoor_humidity": 62.0,
-    "outdoor_temp": 10.6,
-    "outdoor_humidity": 95.0,
-    "wind_speed": 0.4,
-    "wind_direction": 104.0,
-    "pressure": 1025.9,
+    "indoor_temp": 21.6,
+    "indoor_humidity": 64.0,
+    "outdoor_temp": 11.5,
+    "outdoor_humidity": 86.0,
+    "wind_speed": 0.0,
+    "wind_direction": 125.0,
+    "pressure": 1026.2,
     "rain_today": 4.3,
     "uv_index": 0.0,
-    "power_usage": 584.0,
+    "power_usage": 536.0,
     "gas_consumption": 132.311551275,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Thief snatches school snapper's SD cards in smash & grab",
     "Open source sovereignty gets down to the boring business of making it work"
   ],
-  "crew_quote": "\"Patchy rain and a cozy 21.7°C indoors? Perfect curry weather! Just don’t let the rain spoil my plans for a lovely takeaway with the lads.\""
+  "crew_quote": "\"Well, at least the indoors are a balmy 21.6°C; I could really do with that while I wait for my curry to cook—unlike this weather, that's one thing that's definitely not patchy!\""
 }
