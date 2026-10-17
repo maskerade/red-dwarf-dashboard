@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-17T01:01:02.140410+00:00",
+  "timestamp": "2026-10-17T01:32:01.939363+00:00",
   "house": {
-    "indoor_temp": 19.6,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 4.1,
+    "indoor_temp": 19.5,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 3.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 151.0,
-    "pressure": 1034.7,
+    "pressure": 1035.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 413.0,
+    "power_usage": 356.0,
     "gas_consumption": 132.311551275,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Node.js creator ditches Deno to work on open source Cloudflare Workers",
     "Meta grants itself right to scrape content from business customers for model training"
   ],
-  "crew_quote": "\"With the weather being as clear as my last few brain cells, I’m thinking a nice curry would really spice up this 19.6°C indoor temp, don’t you think?\""
+  "crew_quote": "\"With this lovely 19.5°C inside, I say we fire up the curry and celebrate while it’s still clear outside! Who knows how long we can last before the rain gatecrashes the party!\""
 }
