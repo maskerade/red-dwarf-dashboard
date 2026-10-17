@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-17T12:23:14.068884+00:00",
+  "timestamp": "2026-10-17T12:54:14.514616+00:00",
   "house": {
-    "indoor_temp": 20.0,
-    "indoor_humidity": 57.0,
+    "indoor_temp": 19.9,
+    "indoor_humidity": 58.0,
     "outdoor_temp": 11.7,
-    "outdoor_humidity": 72.0,
-    "wind_speed": 0.0,
-    "wind_direction": 359.0,
-    "pressure": 1038.8,
+    "outdoor_humidity": 67.0,
+    "wind_speed": 1.1,
+    "wind_direction": 338.0,
+    "pressure": 1038.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 578.0,
+    "power_usage": 547.0,
     "gas_consumption": 132.961564270833,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Sunny",
+      "temp": 12.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-17",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 12.0,
-      "conditions": "Sunny",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-17",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
-      "conditions": "Sunny",
+      "temp": 12.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-17",
@@ -94,5 +94,5 @@
     "Get in the bin! UK Space Agency wants public to name its debris removal mission",
     "Open-weight models win hearts, minds, and wallets"
   ],
-  "crew_quote": "\"All this sunny weather and you're still worried about those cybercrims? I'd rather be out enjoying a curry in the sun than listening to Amazon's latest nonsense!\""
+  "crew_quote": "\"Oi, I’d rather take my chances with a Cybercriminal than endure another overcast day like this—where’s my curry to spice things up?\""
 }
