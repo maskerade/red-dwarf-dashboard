@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-17T11:21:12.431605+00:00",
+  "timestamp": "2026-10-17T11:52:14.004704+00:00",
   "house": {
-    "indoor_temp": 20.2,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 11.5,
-    "outdoor_humidity": 78.0,
+    "indoor_temp": 20.4,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 11.6,
+    "outdoor_humidity": 75.0,
     "wind_speed": 0.0,
-    "wind_direction": 24.0,
-    "pressure": 1038.6,
+    "wind_direction": 31.0,
+    "pressure": 1039.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 570.0,
+    "power_usage": 581.0,
     "gas_consumption": 132.961564270833,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
+    "Cybercrims go beyond stealing data to attack physical building systems",
     "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
     "Get in the bin! UK Space Agency wants public to name its debris removal mission",
-    "Open-weight models win hearts, minds, and wallets",
-    "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price"
+    "Open-weight models win hearts, minds, and wallets"
   ],
-  "crew_quote": "\"Eleven degrees and sunny? Brilliant! Perfect weather for a bit of curry and a good ol’ moan about how Amazon’s turning us into walking data farms!\""
+  "crew_quote": "\"Well, with the weather being as sunny as my personality, I reckon we should all just kick back, relax, and forget about those Cybercrims for a bit—unless they want a curry!\""
 }
