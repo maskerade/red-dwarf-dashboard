@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-17T00:30:00.906886+00:00",
+  "timestamp": "2026-10-17T01:01:02.140410+00:00",
   "house": {
-    "indoor_temp": 19.7,
+    "indoor_temp": 19.6,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 4.5,
+    "outdoor_temp": 4.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 151.0,
-    "pressure": 1034.4,
+    "pressure": 1034.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 480.0,
+    "power_usage": 413.0,
     "gas_consumption": 132.311551275,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. Bury trams will operate to Ashton other changes are in effect. See TfGM.com for information.",
   "headlines": [
-    "Ubuntu Stonking Stingray swims into spotlight with pre-release kernel",
-    "New online tool will check lawyers' sloppy AI-written briefs since they can't seem to be bothered",
-    "Networking problems after the October 2026 Windows update? NTLM might be to blame",
-    "NTT Global Data Centers weighs the price tag of not building fast enough"
+    "Open-weight models win hearts, minds, and wallets",
+    "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price",
+    "Node.js creator ditches Deno to work on open source Cloudflare Workers",
+    "Meta grants itself right to scrape content from business customers for model training"
   ],
-  "crew_quote": "\"With the temperature indoors feeling like a cozy curry at 19.7°C, I reckon it's a perfect time for a takeaway, don't you?\""
+  "crew_quote": "\"With the weather being as clear as my last few brain cells, I’m thinking a nice curry would really spice up this 19.6°C indoor temp, don’t you think?\""
 }
