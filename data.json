@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-17T18:36:13.159969+00:00",
+  "timestamp": "2026-10-17T19:07:19.013003+00:00",
   "house": {
-    "indoor_temp": 19.6,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 8.4,
+    "indoor_temp": 20.9,
+    "indoor_humidity": 56.0,
+    "outdoor_temp": 8.2,
     "outdoor_humidity": 82.0,
     "wind_speed": 0.0,
     "wind_direction": 133.0,
     "pressure": 1039.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 739.0,
-    "gas_consumption": 133.737600889166,
+    "power_usage": 809.0,
+    "gas_consumption": 134.312243275833,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 8.0,
+      "temp": 6.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 9.0,
+      "temp": 8.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 6.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 4.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-17",
@@ -94,5 +94,5 @@
     "Get in the bin! UK Space Agency wants public to name its debris removal mission",
     "Open-weight models win hearts, minds, and wallets"
   ],
-  "crew_quote": "\"Just my luck, it’s 8 degrees and overcast! I’d take a curry any day over this dreariness, but I suppose at least it’s not raining like it usually does!\""
+  "crew_quote": "\"6 degrees in Altrincham? Perfect weather for a nice curry — just not too spicy, or my taste buds’ll go all Cybercrim on me!\""
 }
