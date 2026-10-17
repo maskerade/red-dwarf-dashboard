@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-16T23:59:00.206821+00:00",
+  "timestamp": "2026-10-17T00:30:00.906886+00:00",
   "house": {
-    "indoor_temp": 19.9,
-    "indoor_humidity": 61.0,
+    "indoor_temp": 19.7,
+    "indoor_humidity": 60.0,
     "outdoor_temp": 4.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
@@ -10,20 +10,15 @@
     "pressure": 1034.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 578.0,
+    "power_usage": 480.0,
     "gas_consumption": 132.311551275,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 7.0,
+      "temp": 6.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-10-16",
-          "max": 12.0,
-          "min": 7.0
-        },
         {
           "date": "2026-10-17",
           "max": 12.0,
@@ -33,18 +28,18 @@
           "date": "2026-10-18",
           "max": 12.0,
           "min": 4.0
+        },
+        {
+          "date": "2026-10-19",
+          "max": 13.0,
+          "min": 6.0
         }
       ]
     },
     "overseal": {
-      "temp": 7.0,
+      "temp": 6.0,
       "conditions": "Clear ",
       "forecast": [
-        {
-          "date": "2026-10-16",
-          "max": 15.0,
-          "min": 7.0
-        },
         {
           "date": "2026-10-17",
           "max": 13.0,
@@ -54,6 +49,11 @@
           "date": "2026-10-18",
           "max": 12.0,
           "min": 6.0
+        },
+        {
+          "date": "2026-10-19",
+          "max": 14.0,
+          "min": 8.0
         }
       ]
     },
@@ -61,11 +61,6 @@
       "temp": 8.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-10-16",
-          "max": 11.0,
-          "min": 7.0
-        },
         {
           "date": "2026-10-17",
           "max": 12.0,
@@ -75,17 +70,22 @@
           "date": "2026-10-18",
           "max": 11.0,
           "min": 1.0
+        },
+        {
+          "date": "2026-10-19",
+          "max": 13.0,
+          "min": 4.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:38 AM",
-    "sunset": "06:11 PM",
+    "sunrise": "07:40 AM",
+    "sunset": "06:08 PM",
     "moon_phase": "Waxing Crescent",
-    "moon_illumination": "26",
-    "moonrise": "02:31 PM",
-    "moonset": "08:43 PM"
+    "moon_illumination": "34",
+    "moonrise": "03:10 PM",
+    "moonset": "09:49 PM"
   },
   "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. Bury trams will operate to Ashton other changes are in effect. See TfGM.com for information.",
   "headlines": [
@@ -94,5 +94,5 @@
     "Networking problems after the October 2026 Windows update? NTLM might be to blame",
     "NTT Global Data Centers weighs the price tag of not building fast enough"
   ],
-  "crew_quote": "\"7 degrees and clear skies—perfect for a curry and a good old sit down! Just don't ask me to swim with that stingray; I prefer my swimming in a pint!\""
+  "crew_quote": "\"With the temperature indoors feeling like a cozy curry at 19.7°C, I reckon it's a perfect time for a takeaway, don't you?\""
 }
