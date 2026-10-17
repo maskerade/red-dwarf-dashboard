@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-17T04:07:05.137847+00:00",
+  "timestamp": "2026-10-17T04:38:05.113223+00:00",
   "house": {
     "indoor_temp": 19.1,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 2.5,
+    "outdoor_temp": 2.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 152.0,
-    "pressure": 1036.1,
+    "pressure": 1036.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 449.0,
+    "power_usage": 356.0,
     "gas_consumption": 132.311551275,
     "heating_active": false
   },
@@ -87,12 +87,12 @@
     "moonrise": "03:10 PM",
     "moonset": "09:49 PM"
   },
-  "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. Bury trams will operate to Ashton other changes are in effect. See TfGM.com for information.",
+  "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
   "headlines": [
     "Open-weight models win hearts, minds, and wallets",
     "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price",
     "Node.js creator ditches Deno to work on open source Cloudflare Workers",
     "Meta grants itself right to scrape content from business customers for model training"
   ],
-  "crew_quote": "\"And here I was thinking the only thing patchy around here was the curry! I mean, can you believe it? It’s colder outside than my last relationship!\""
+  "crew_quote": "\"Perfect weather for a bit of a curry in the ship, isn’t it? Just like it's 19 degrees in here, I can’t believe I'm starving, I could eat a horse!\""
 }
