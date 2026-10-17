@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-17T10:19:11.655044+00:00",
+  "timestamp": "2026-10-17T10:50:12.126919+00:00",
   "house": {
-    "indoor_temp": 19.0,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 7.6,
-    "outdoor_humidity": 99.0,
+    "indoor_temp": 19.2,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 9.6,
+    "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
     "wind_direction": 94.0,
-    "pressure": 1039.5,
+    "pressure": 1039.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 1761.0,
+    "power_usage": 623.0,
     "gas_consumption": 132.311551275,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Open-weight models win hearts, minds, and wallets",
     "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price"
   ],
-  "crew_quote": "\"Oi, it’s a lovely 10 degrees and sunny; perfect weather for a curry-fueled trip to Llandudno, or should we just stay here and let the AI remember where I left my last pint?\""
+  "crew_quote": "\"Sunny weather at 9 degrees? Well, that's just lovely! I could do with a pint and a curry on the deck, but not bloody Amazon’s wearable AI—what a load of rubbish!\""
 }
