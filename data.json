@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-17T20:40:36.097639+00:00",
+  "timestamp": "2026-10-17T21:11:39.777649+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 8.0,
-    "outdoor_humidity": 84.0,
+    "outdoor_temp": 7.9,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
     "wind_direction": 133.0,
     "pressure": 1039.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 601.0,
+    "power_usage": 649.0,
     "gas_consumption": 134.312243275833,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Get in the bin! UK Space Agency wants public to name its debris removal mission",
     "Open-weight models win hearts, minds, and wallets"
   ],
-  "crew_quote": "\"With the indoor temp at 20.3°C, I'm feeling warmer than the Cybercrims' chances of pulling off a heist in this weather—right, lads? Where's my curry?\""
+  "crew_quote": "\"Honestly, with the way the weather's looking, I might as well just make a curry and let the indoor humidity do the cooking—it's practically a sauna in here!\""
 }
