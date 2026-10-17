@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-17T13:56:21.664456+00:00",
+  "timestamp": "2026-10-17T14:27:28.471413+00:00",
   "house": {
     "indoor_temp": 19.6,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 11.8,
-    "outdoor_humidity": 70.0,
+    "outdoor_temp": 12.0,
+    "outdoor_humidity": 66.0,
     "wind_speed": 0.0,
-    "wind_direction": 85.0,
-    "pressure": 1038.6,
+    "wind_direction": 73.0,
+    "pressure": 1038.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 480.0,
+    "power_usage": 443.0,
     "gas_consumption": 132.961564270833,
     "heating_active": false
   },
@@ -31,14 +31,14 @@
         },
         {
           "date": "2026-10-19",
-          "max": 13.0,
-          "min": 6.0
+          "max": 14.0,
+          "min": 9.0
         }
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 13.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-17",
@@ -47,19 +47,19 @@
         },
         {
           "date": "2026-10-18",
-          "max": 13.0,
+          "max": 12.0,
           "min": 5.0
         },
         {
           "date": "2026-10-19",
-          "max": 14.0,
+          "max": 13.0,
           "min": 9.0
         }
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Overcast ",
+      "temp": 11.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-17",
@@ -69,12 +69,12 @@
         {
           "date": "2026-10-18",
           "max": 11.0,
-          "min": 2.0
+          "min": 1.0
         },
         {
           "date": "2026-10-19",
-          "max": 12.0,
-          "min": 4.0
+          "max": 14.0,
+          "min": 5.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Get in the bin! UK Space Agency wants public to name its debris removal mission",
     "Open-weight models win hearts, minds, and wallets"
   ],
-  "crew_quote": "\"Well, it’s a balmy 12 degrees and overcast, but I’d still pick a curry over all this tech nonsense any day—at least a curry won’t try to take over your house!\""
+  "crew_quote": "\"With all this cloudy weather, it's a perfect day for a curry and a bit of a sit down — unless the cybercrims decide to crash the party, then I might just order takeout!\""
 }
