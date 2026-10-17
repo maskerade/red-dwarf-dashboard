@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-17T01:32:01.939363+00:00",
+  "timestamp": "2026-10-17T02:03:02.355892+00:00",
   "house": {
-    "indoor_temp": 19.5,
+    "indoor_temp": 19.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 3.9,
+    "outdoor_temp": 3.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 151.0,
-    "pressure": 1035.2,
+    "wind_direction": 152.0,
+    "pressure": 1035.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 356.0,
+    "power_usage": 354.0,
     "gas_consumption": 132.311551275,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 6.0,
+      "temp": 5.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Node.js creator ditches Deno to work on open source Cloudflare Workers",
     "Meta grants itself right to scrape content from business customers for model training"
   ],
-  "crew_quote": "\"With this lovely 19.5°C inside, I say we fire up the curry and celebrate while it’s still clear outside! Who knows how long we can last before the rain gatecrashes the party!\""
+  "crew_quote": "\"Oi, with it only being 5 degrees out, I reckon the curry’s gonna taste even better in here at a nice 19.4—now that’s what I call a warm welcome!\""
 }
