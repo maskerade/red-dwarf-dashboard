@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-17T03:05:04.331917+00:00",
+  "timestamp": "2026-10-17T03:36:03.989479+00:00",
   "house": {
-    "indoor_temp": 19.3,
+    "indoor_temp": 19.2,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 3.0,
+    "outdoor_temp": 3.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 152.0,
-    "pressure": 1035.5,
+    "pressure": 1035.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 356.0,
+    "power_usage": 354.0,
     "gas_consumption": 132.311551275,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Node.js creator ditches Deno to work on open source Cloudflare Workers",
     "Meta grants itself right to scrape content from business customers for model training"
   ],
-  "crew_quote": "\"You know, I’d rather be having a curry in the middle of a patchy rainstorm than freezing my bits off at 5 degrees. At least the curry would keep me warm!\""
+  "crew_quote": "\"With temperatures like these, I'd rather be outdoors enjoying a patchy drizzle than stuck in here at 19.2°C, dreaming of a curry and a decent pint!\""
 }
