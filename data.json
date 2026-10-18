@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-18T20:30:47.449484+00:00",
+  "timestamp": "2026-10-18T21:01:52.336887+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 57.0,
     "outdoor_temp": 7.9,
-    "outdoor_humidity": 94.0,
-    "wind_speed": 0.0,
-    "wind_direction": 120.0,
-    "pressure": 1034.8,
+    "outdoor_humidity": 95.0,
+    "wind_speed": 1.4,
+    "wind_direction": 94.0,
+    "pressure": 1034.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 556.0,
+    "power_usage": 733.0,
     "gas_consumption": 135.787097872916,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
     "Get in the bin! UK Space Agency wants public to name its debris removal mission"
   ],
-  "crew_quote": "\"Blimey, it’s a bit nippy outside at 6°C! Bet the curry's still warmer than the weather, though, eh?\""
+  "crew_quote": "\"With the weather so clear and the heating set to a toasty 19.9°C, it's the perfect day to whip up a nice curry and celebrate not being cyber-hacked, eh?\""
 }
