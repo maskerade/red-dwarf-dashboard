@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-18T17:55:19.867215+00:00",
+  "timestamp": "2026-10-18T18:26:26.422291+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.0,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 9.4,
-    "outdoor_humidity": 87.0,
+    "outdoor_temp": 8.8,
+    "outdoor_humidity": 90.0,
     "wind_speed": 0.0,
-    "wind_direction": 94.0,
-    "pressure": 1034.9,
+    "wind_direction": 9.0,
+    "pressure": 1035.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 547.0,
+    "power_usage": 626.0,
     "gas_consumption": 135.787097872916,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 7.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-18",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Sunny",
+      "temp": 9.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-18",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 8.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-18",
@@ -94,5 +94,5 @@
     "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
     "Get in the bin! UK Space Agency wants public to name its debris removal mission"
   ],
-  "crew_quote": "\"Oi, it’s 20 degrees in here and I’m sweating like a bloke in a sauna — all I wanted was a nice curry, not a power crisis with Cybercrims breaking in!\""
+  "crew_quote": "\"Weather's chuffing great for a crisp walk, but I’d rather be inside with a curry and a pint—let the Cybercrims do their worst in the patchy rain!\""
 }
