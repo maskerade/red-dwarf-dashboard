@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-18T19:28:36.487508+00:00",
+  "timestamp": "2026-10-18T19:59:42.286620+00:00",
   "house": {
     "indoor_temp": 20.0,
-    "indoor_humidity": 56.0,
-    "outdoor_temp": 8.3,
-    "outdoor_humidity": 93.0,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 7.6,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 112.0,
-    "pressure": 1035.0,
+    "wind_direction": 83.0,
+    "pressure": 1034.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 767.0,
+    "power_usage": 587.0,
     "gas_consumption": 135.787097872916,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 7.0,
+      "temp": 6.0,
       "conditions": "Clear ",
       "forecast": [
         {
@@ -31,14 +31,14 @@
         },
         {
           "date": "2026-10-20",
-          "max": 12.0,
+          "max": 11.0,
           "min": 9.0
         }
       ]
     },
     "overseal": {
-      "temp": 9.0,
-      "conditions": "Cloudy ",
+      "temp": 8.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-18",
@@ -47,13 +47,13 @@
         },
         {
           "date": "2026-10-19",
-          "max": 14.0,
-          "min": 9.0
+          "max": 13.0,
+          "min": 8.0
         },
         {
           "date": "2026-10-20",
-          "max": 12.0,
-          "min": 9.0
+          "max": 11.0,
+          "min": 10.0
         }
       ]
     },
@@ -68,7 +68,7 @@
         },
         {
           "date": "2026-10-19",
-          "max": 14.0,
+          "max": 13.0,
           "min": 4.0
         },
         {
@@ -94,5 +94,5 @@
     "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
     "Get in the bin! UK Space Agency wants public to name its debris removal mission"
   ],
-  "crew_quote": "\"Blimey, it's a chilly 7 degrees in Altrincham, but at least my curry's keeping things nice and toasty at 20 degrees in here—perfect for a bit of binge-watching!\""
+  "crew_quote": "\"Oi, I can't believe the weather's cooler than my curry! At least it's nice and warm in here — but don't go 'borrowing' my OOHPod, alright?\""
 }
