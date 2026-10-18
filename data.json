@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-18T22:04:02.175858+00:00",
+  "timestamp": "2026-10-18T22:35:07.634305+00:00",
   "house": {
-    "indoor_temp": 19.9,
+    "indoor_temp": 19.8,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 7.4,
+    "outdoor_temp": 7.2,
     "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 112.0,
-    "pressure": 1034.3,
+    "wind_direction": 132.0,
+    "pressure": 1033.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 570.0,
+    "power_usage": 663.0,
     "gas_consumption": 135.787097872916,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
     "Get in the bin! UK Space Agency wants public to name its debris removal mission"
   ],
-  "crew_quote": "\"With all this patchy rain nearby, I reckon my curry's going to need a good dose of sizzle to warm us up! What's a little drizzle compared to the heat of a good vindaloo?\""
+  "crew_quote": "\"Honestly, I’ve seen more excitement in a patch of rain! At least the indoor temp's cozy enough for a curry while we wait for the weather to sort itself out!\""
 }
