@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-18T10:08:56.463353+00:00",
+  "timestamp": "2026-10-18T10:40:01.714068+00:00",
   "house": {
-    "indoor_temp": 19.2,
+    "indoor_temp": 19.4,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 10.1,
-    "outdoor_humidity": 82.0,
+    "outdoor_temp": 10.9,
+    "outdoor_humidity": 79.0,
     "wind_speed": 0.0,
-    "wind_direction": 140.0,
-    "pressure": 1037.4,
+    "wind_direction": 98.0,
+    "pressure": 1037.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 1270.0,
+    "power_usage": 460.0,
     "gas_consumption": 134.312243275833,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 9.0,
+      "temp": 11.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
+      "temp": 11.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 8.0,
+      "temp": 10.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -87,12 +87,12 @@
     "moonrise": "03:37 PM",
     "moonset": "11:02 PM"
   },
-  "metrolink": "ENGINEERING WORKS - 19th October - 1st November. No trams through Trafford Bar. The Altrincham Line will be closed with a bus replacement service in place. See TfGM.com for information.",
+  "metrolink": "Due to vandalism we are currently experiening a minor delay on the Altrincham Line. We apologise for the inconvenience caused to your journey.",
   "headlines": [
     "Oh no, what happened to my OOHPod? Windows command prompt puts in a surprise appearance",
     "Cybercrims go beyond stealing data to attack physical building systems",
     "Amazon wants you to Bee-lieve wearable AI can recall it all for you",
     "Get in the bin! UK Space Agency wants public to name its debris removal mission"
   ],
-  "crew_quote": "\"Blimey, with the weather like this, I might as well be in Llandudno, soaking up the sun instead of sitting indoors doing whatever I’m doing — which is definitely not repairing that OOHPod!\""
+  "crew_quote": "\"11 degrees and overcast? Perfect weather for a curry binge while we wait for the Cybercrims to get bored of our ship and move on to less glamorous targets!\""
 }
