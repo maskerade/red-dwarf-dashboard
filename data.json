@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-19T15:09:42.116650+00:00",
+  "timestamp": "2026-10-19T15:40:42.885906+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.7,
-    "outdoor_humidity": 78.0,
-    "wind_speed": 1.1,
-    "wind_direction": 319.0,
-    "pressure": 1026.0,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 80.0,
+    "wind_speed": 0.7,
+    "wind_direction": 290.0,
+    "pressure": 1025.6,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 545.0,
+    "power_usage": 491.0,
     "gas_consumption": 137.212085851666,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Admin: 'I spent all weekend on my servers' after Microsoft breaks Exchange Server with October updates",
     "Microsoft abandons UK AI supercomputer as grid struggles to keep up"
   ],
-  "crew_quote": "\"Ah, patchy rain, the universe's way of reminding us that even in space, it's still easier to get wet than to make a decent curry!\""
+  "crew_quote": "\"Ah, lovely rain in Altrincham! Perfect for a cozy curry night—nothing like a bit of soggy weather to really appreciate my fine taste in spices!\""
 }
