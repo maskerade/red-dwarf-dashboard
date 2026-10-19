@@ -1,38 +1,38 @@
 {
-  "timestamp": "2026-10-19T12:34:30.019269+00:00",
+  "timestamp": "2026-10-19T13:05:36.025867+00:00",
   "house": {
-    "indoor_temp": 20.7,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 13.7,
-    "outdoor_humidity": 80.0,
-    "wind_speed": 0.0,
-    "wind_direction": 282.0,
-    "pressure": 1027.7,
+    "indoor_temp": 20.3,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 13.6,
+    "outdoor_humidity": 79.0,
+    "wind_speed": 1.4,
+    "wind_direction": 289.0,
+    "pressure": 1027.3,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 365.0,
+    "power_usage": 384.0,
     "gas_consumption": 137.212085851666,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-19",
-          "max": 13.0,
-          "min": 7.0
+          "max": 14.0,
+          "min": 8.0
         },
         {
           "date": "2026-10-20",
           "max": 12.0,
-          "min": 9.0
+          "min": 10.0
         },
         {
           "date": "2026-10-21",
           "max": 9.0,
-          "min": 6.0
+          "min": 7.0
         }
       ]
     },
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Sunny",
+      "temp": 14.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -80,19 +80,19 @@
     }
   },
   "astronomy": {
-    "sunrise": "07:43 AM",
+    "sunrise": "07:44 AM",
     "sunset": "06:04 PM",
     "moon_phase": "Waxing Gibbous",
     "moon_illumination": "53",
-    "moonrise": "03:56 PM",
+    "moonrise": "03:57 PM",
     "moonset": "No moonset"
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Admin: 'I spent all weekend on my servers' after Microsoft breaks Exchange Server with October updates",
     "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
     "Broadcom Wi-Fi bug turns sweet 16, still lets strangers hijack your router",
-    "Dr Garry Hunt talks to us about the astonishing Voyager probes",
-    "Museum exhibit reveals the intricate workings of a knackered Dell"
+    "Dr Garry Hunt talks to us about the astonishing Voyager probes"
   ],
-  "crew_quote": "\"Looks like it’s not just the weather that’s patchy today—Microsoft’s given up on the AI, and I could really use a curry to chase away this drizzle!\""
+  "crew_quote": "\"With the weather being so patchy, I’m starting to think I should just stay inside and make a proper curry instead of venturing out into this soggy mess!\""
 }
