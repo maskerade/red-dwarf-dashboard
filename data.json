@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-19T01:10:30.159507+00:00",
+  "timestamp": "2026-10-19T01:41:35.771973+00:00",
   "house": {
-    "indoor_temp": 19.3,
+    "indoor_temp": 19.2,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 9.1,
-    "outdoor_humidity": 92.0,
-    "wind_speed": 1.1,
-    "wind_direction": 102.0,
-    "pressure": 1031.4,
+    "outdoor_temp": 10.1,
+    "outdoor_humidity": 87.0,
+    "wind_speed": 0.4,
+    "wind_direction": 62.0,
+    "pressure": 1030.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 370.0,
+    "power_usage": 382.0,
     "gas_consumption": 135.787097872916,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Cybercrims go beyond stealing data to attack physical building systems",
     "Amazon wants you to Bee-lieve wearable AI can recall it all for you"
   ],
-  "crew_quote": "\"You know, with all this drizzle, it’s the perfect weather for a nice hot curry. Just me, some poppadoms, and the possibility of a leap second—absolutely thrilling!\""
+  "crew_quote": "\"What’s the point of leap seconds when it’s just drizzling in Overseal? I’d rather they focused on sorting out my OOHPod while I prepare a decent curry!\""
 }
