@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-19T14:38:42.200577+00:00",
+  "timestamp": "2026-10-19T15:09:42.116650+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 58.0,
     "outdoor_temp": 13.7,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 1.4,
-    "wind_direction": 284.0,
-    "pressure": 1026.3,
+    "outdoor_humidity": 78.0,
+    "wind_speed": 1.1,
+    "wind_direction": 319.0,
+    "pressure": 1026.0,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 443.0,
+    "power_usage": 545.0,
     "gas_consumption": 137.212085851666,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Uber dodges £340M cabbie lawsuit after drivers miss legal deadline",
+    "SAP's Signavio hit with function injunction in Germany",
     "Admin: 'I spent all weekend on my servers' after Microsoft breaks Exchange Server with October updates",
-    "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
-    "Broadcom Wi-Fi bug turns sweet 16, still lets strangers hijack your router",
-    "Dr Garry Hunt talks to us about the astonishing Voyager probes"
+    "Microsoft abandons UK AI supercomputer as grid struggles to keep up"
   ],
-  "crew_quote": "\"With all this patchy rain, I reckon the best thing to do is stay indoors, crack open a curry, and hope our power doesn't go out like Microsoft’s latest update!\""
+  "crew_quote": "\"Ah, patchy rain, the universe's way of reminding us that even in space, it's still easier to get wet than to make a decent curry!\""
 }
