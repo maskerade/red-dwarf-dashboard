@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-19T21:52:50.041723+00:00",
+  "timestamp": "2026-10-19T22:23:49.792298+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 9.0,
-    "outdoor_humidity": 97.0,
+    "outdoor_temp": 9.7,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 295.0,
-    "pressure": 1023.3,
+    "pressure": 1022.9,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 587.0,
+    "power_usage": 578.0,
     "gas_consumption": 137.96201690625,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 9.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 8.0,
+      "temp": 7.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Maxwell gives sub-optimal code a runtime glow-up",
     "Security patches need patches now that attackers have AI"
   ],
-  "crew_quote": "\"Blimey, it’s so cold outside I’d need a curry just to survive! But in here, it’s 20.3 degrees—let's turn it up, I’m not having a cyberattack ruin my comfort!\""
+  "crew_quote": "\"Well, at least it’s warmer indoors than it is outside in this dreary overcast nonsense. Maybe we should just invent a curry-powered heater!\""
 }
