@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-10-19T23:25:51.066485+00:00",
+  "timestamp": "2026-10-19T23:56:52.008112+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 10.6,
-    "outdoor_humidity": 97.0,
+    "outdoor_temp": 10.5,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 295.0,
-    "pressure": 1022.0,
+    "pressure": 1021.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 601.0,
+    "power_usage": 517.0,
     "gas_consumption": 137.96201690625,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 9.0,
+      "temp": 11.0,
       "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-10-19",
-          "max": 14.0,
-          "min": 7.0
-        },
         {
           "date": "2026-10-20",
           "max": 11.0,
@@ -33,18 +28,18 @@
           "date": "2026-10-21",
           "max": 10.0,
           "min": 6.0
+        },
+        {
+          "date": "2026-10-22",
+          "max": 12.0,
+          "min": 3.0
         }
       ]
     },
     "overseal": {
       "temp": 10.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
-        {
-          "date": "2026-10-19",
-          "max": 13.0,
-          "min": 8.0
-        },
         {
           "date": "2026-10-20",
           "max": 11.0,
@@ -54,18 +49,18 @@
           "date": "2026-10-21",
           "max": 10.0,
           "min": 6.0
+        },
+        {
+          "date": "2026-10-22",
+          "max": 13.0,
+          "min": 4.0
         }
       ]
     },
     "llandudno": {
-      "temp": 7.0,
+      "temp": 5.0,
       "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-10-19",
-          "max": 13.0,
-          "min": 4.0
-        },
         {
           "date": "2026-10-20",
           "max": 9.0,
@@ -75,17 +70,22 @@
           "date": "2026-10-21",
           "max": 12.0,
           "min": 3.0
+        },
+        {
+          "date": "2026-10-22",
+          "max": 13.0,
+          "min": 3.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:43 AM",
-    "sunset": "06:04 PM",
+    "sunrise": "07:45 AM",
+    "sunset": "06:02 PM",
     "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "53",
-    "moonrise": "03:56 PM",
-    "moonset": "No moonset"
+    "moon_illumination": "63",
+    "moonrise": "04:10 PM",
+    "moonset": "12:19 AM"
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
@@ -94,5 +94,5 @@
     "Maxwell gives sub-optimal code a runtime glow-up",
     "Security patches need patches now that attackers have AI"
   ],
-  "crew_quote": "\"Blimey, it's colder outside than my last few dates! I might just run a curry-powered heater — best way to warm up a lonely heart, y'know!\""
+  "crew_quote": "\"Blimey, it's a bit nippy today! I could do with a proper curry to heat things up, instead of all this weather talk and cyber nonsense!\""
 }
