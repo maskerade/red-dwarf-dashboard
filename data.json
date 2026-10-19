@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-19T11:32:19.181101+00:00",
+  "timestamp": "2026-10-19T12:03:24.031247+00:00",
   "house": {
-    "indoor_temp": 21.5,
+    "indoor_temp": 21.1,
     "indoor_humidity": 57.0,
     "outdoor_temp": 13.7,
-    "outdoor_humidity": 80.0,
+    "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 256.0,
-    "pressure": 1028.3,
+    "wind_direction": 309.0,
+    "pressure": 1027.7,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 432.0,
+    "power_usage": 370.0,
     "gas_consumption": 137.212085851666,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Broadcom Wi-Fi bug turns sweet 16, still lets strangers hijack your router",
+    "Dr Garry Hunt talks to us about the astonishing Voyager probes",
     "Museum exhibit reveals the intricate workings of a knackered Dell",
-    "Microsoft’s second-hand licensing appeal gets the brush-off",
-    "AI’s epic cash call is matched only by its ability to strangle revenue streams",
-    "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900"
+    "Microsoft’s second-hand licensing appeal gets the brush-off"
   ],
-  "crew_quote": "\"Well, it's patchy rain nearby, but at least we’ve got this swanky indoor temperature; just perfect for a curry—maybe with a side of knackered Dell!\""
+  "crew_quote": "\"You know, with all this patchy rain, it's a good thing I packed my curry umbrella—nothing quite like a rainy day to spice up your life!\""
 }
