@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-19T00:39:26.024613+00:00",
+  "timestamp": "2026-10-19T01:10:30.159507+00:00",
   "house": {
-    "indoor_temp": 19.4,
+    "indoor_temp": 19.3,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 8.1,
-    "outdoor_humidity": 95.0,
-    "wind_speed": 0.0,
-    "wind_direction": 91.0,
-    "pressure": 1031.8,
+    "outdoor_temp": 9.1,
+    "outdoor_humidity": 92.0,
+    "wind_speed": 1.1,
+    "wind_direction": 102.0,
+    "pressure": 1031.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 418.0,
+    "power_usage": 370.0,
     "gas_consumption": 135.787097872916,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Cybercrims go beyond stealing data to attack physical building systems",
     "Amazon wants you to Bee-lieve wearable AI can recall it all for you"
   ],
-  "crew_quote": "\"Blimey, it’s about as exciting as a rainy day in Altrincham! I’d rather be in a curryhouse with a dodgy loo than stuck here watching the drizzle!\""
+  "crew_quote": "\"You know, with all this drizzle, it’s the perfect weather for a nice hot curry. Just me, some poppadoms, and the possibility of a leap second—absolutely thrilling!\""
 }
