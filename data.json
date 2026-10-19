@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-19T19:17:48.249054+00:00",
+  "timestamp": "2026-10-19T19:48:47.340276+00:00",
   "house": {
-    "indoor_temp": 20.0,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 9.3,
-    "outdoor_humidity": 97.0,
+    "indoor_temp": 21.1,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 10.8,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 276.0,
-    "pressure": 1024.6,
+    "wind_direction": 312.0,
+    "pressure": 1024.4,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 705.0,
-    "gas_consumption": 137.387087740833,
+    "power_usage": 3194.0,
+    "gas_consumption": 137.96201690625,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "Europe’s cloud sovereignty rules could do more harm than good",
     "Red Hat helps teach about tech writing"
   ],
-  "crew_quote": "\"Oi, it’s a bit chilly out there, isn’t it? I’d prefer the weather to be as spicy as my curry, but at least I’ve got the indoor temp sorted out!\""
+  "crew_quote": "\"I'm just saying, if it’s 21 degrees in here, why do I feel like I’m in a curry shop in Llandudno? I should be sweating from the spice, not from the heat!\""
 }
