@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-19T15:40:42.885906+00:00",
+  "timestamp": "2026-10-19T16:11:43.844580+00:00",
   "house": {
     "indoor_temp": 20.1,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.3,
-    "outdoor_humidity": 80.0,
-    "wind_speed": 0.7,
-    "wind_direction": 290.0,
-    "pressure": 1025.6,
+    "outdoor_temp": 12.9,
+    "outdoor_humidity": 82.0,
+    "wind_speed": 0.0,
+    "wind_direction": 282.0,
+    "pressure": 1025.3,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 491.0,
+    "power_usage": 547.0,
     "gas_consumption": 137.212085851666,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 12.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
+      "temp": 12.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Admin: 'I spent all weekend on my servers' after Microsoft breaks Exchange Server with October updates",
     "Microsoft abandons UK AI supercomputer as grid struggles to keep up"
   ],
-  "crew_quote": "\"Ah, lovely rain in Altrincham! Perfect for a cozy curry night—nothing like a bit of soggy weather to really appreciate my fine taste in spices!\""
+  "crew_quote": "\"Looks like it’s patchy rain nearby, so I’d better keep the curry indoors tonight—don’t want it turning into a soggy mess like my love life!\""
 }
