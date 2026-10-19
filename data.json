@@ -1,37 +1,37 @@
 {
-  "timestamp": "2026-10-19T14:07:41.439666+00:00",
+  "timestamp": "2026-10-19T14:38:42.200577+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.8,
-    "outdoor_humidity": 80.0,
-    "wind_speed": 0.0,
-    "wind_direction": 347.0,
-    "pressure": 1026.7,
+    "outdoor_temp": 13.7,
+    "outdoor_humidity": 79.0,
+    "wind_speed": 1.4,
+    "wind_direction": 284.0,
+    "pressure": 1026.3,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 505.0,
+    "power_usage": 443.0,
     "gas_consumption": 137.212085851666,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 14.0,
+      "temp": 12.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-19",
           "max": 14.0,
-          "min": 8.0
+          "min": 7.0
         },
         {
           "date": "2026-10-20",
-          "max": 12.0,
-          "min": 10.0
+          "max": 11.0,
+          "min": 9.0
         },
         {
           "date": "2026-10-21",
-          "max": 9.0,
+          "max": 10.0,
           "min": 7.0
         }
       ]
@@ -52,39 +52,39 @@
         },
         {
           "date": "2026-10-21",
-          "max": 10.0,
-          "min": 6.0
+          "max": 11.0,
+          "min": 7.0
         }
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 13.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-19",
-          "max": 14.0,
+          "max": 13.0,
           "min": 4.0
         },
         {
           "date": "2026-10-20",
-          "max": 10.0,
+          "max": 9.0,
           "min": 4.0
         },
         {
           "date": "2026-10-21",
-          "max": 10.0,
-          "min": 3.0
+          "max": 11.0,
+          "min": 4.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:44 AM",
+    "sunrise": "07:43 AM",
     "sunset": "06:04 PM",
     "moon_phase": "Waxing Gibbous",
     "moon_illumination": "53",
-    "moonrise": "03:57 PM",
+    "moonrise": "03:56 PM",
     "moonset": "No moonset"
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
@@ -94,5 +94,5 @@
     "Broadcom Wi-Fi bug turns sweet 16, still lets strangers hijack your router",
     "Dr Garry Hunt talks to us about the astonishing Voyager probes"
   ],
-  "crew_quote": "\"With weather like this, I’d say a nice, humid curry would be just the thing — unless, of course, it ends up raining indoors, which would be quite the modern art installation!\""
+  "crew_quote": "\"With all this patchy rain, I reckon the best thing to do is stay indoors, crack open a curry, and hope our power doesn't go out like Microsoft’s latest update!\""
 }
