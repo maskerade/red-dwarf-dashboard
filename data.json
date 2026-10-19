@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-19T20:19:48.002666+00:00",
+  "timestamp": "2026-10-19T20:50:48.877055+00:00",
   "house": {
-    "indoor_temp": 21.0,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 10.7,
-    "outdoor_humidity": 93.0,
+    "indoor_temp": 20.8,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 10.4,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
     "wind_direction": 295.0,
-    "pressure": 1024.1,
+    "pressure": 1023.7,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 632.0,
+    "power_usage": 621.0,
     "gas_consumption": 137.96201690625,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 8.0,
-      "conditions": "Clear ",
+      "temp": 9.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -32,12 +32,12 @@
         {
           "date": "2026-10-21",
           "max": 10.0,
-          "min": 7.0
+          "min": 6.0
         }
       ]
     },
     "overseal": {
-      "temp": 9.0,
+      "temp": 10.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -47,19 +47,19 @@
         },
         {
           "date": "2026-10-20",
-          "max": 12.0,
+          "max": 11.0,
           "min": 9.0
         },
         {
           "date": "2026-10-21",
-          "max": 11.0,
-          "min": 7.0
+          "max": 10.0,
+          "min": 6.0
         }
       ]
     },
     "llandudno": {
-      "temp": 5.0,
-      "conditions": "Clear ",
+      "temp": 8.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -73,8 +73,8 @@
         },
         {
           "date": "2026-10-21",
-          "max": 11.0,
-          "min": 4.0
+          "max": 12.0,
+          "min": 3.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Europe’s cloud sovereignty rules could do more harm than good",
     "Red Hat helps teach about tech writing"
   ],
-  "crew_quote": "\"With the weather being so clear in Llandudno, I reckon we should take a curry picnic — just don't forget the KillSwitch to keep the bots from stealing the last naan!\""
+  "crew_quote": "\"Blimey, with all this gloomy weather, I reckon we should just stay inside, crank up the heat, and whip up a proper curry! Who's up for a spicy night in?\""
 }
