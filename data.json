@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-19T03:45:58.725979+00:00",
+  "timestamp": "2026-10-19T04:17:05.557179+00:00",
   "house": {
-    "indoor_temp": 19.1,
+    "indoor_temp": 19.0,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 10.2,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 0.4,
-    "wind_direction": 230.0,
-    "pressure": 1029.2,
+    "outdoor_temp": 10.1,
+    "outdoor_humidity": 94.0,
+    "wind_speed": 1.8,
+    "wind_direction": 337.0,
+    "pressure": 1029.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 354.0,
+    "power_usage": 370.0,
     "gas_consumption": 135.787097872916,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Oh no, what happened to my OOHPod? Windows command prompt puts in a surprise appearance",
     "Cybercrims go beyond stealing data to attack physical building systems"
   ],
-  "crew_quote": "\"Ah, brilliant! It's only 9 degrees and raining, just like my love life — damp and utterly depressing. At least the curry will be warm!\""
+  "crew_quote": "\"Blimey, it’s 19 degrees in here and it feels like we’re on holiday! If only the weather outside matched my dazzling personality—how about some curry to warm us up?\""
 }
