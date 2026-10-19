@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-19T11:01:13.632634+00:00",
+  "timestamp": "2026-10-19T11:32:19.181101+00:00",
   "house": {
-    "indoor_temp": 20.6,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 13.3,
-    "outdoor_humidity": 81.0,
-    "wind_speed": 2.2,
-    "wind_direction": 296.0,
-    "pressure": 1028.4,
+    "indoor_temp": 21.5,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 13.7,
+    "outdoor_humidity": 80.0,
+    "wind_speed": 0.0,
+    "wind_direction": 256.0,
+    "pressure": 1028.3,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 508.0,
-    "gas_consumption": 136.787152338333,
+    "power_usage": 432.0,
+    "gas_consumption": 137.212085851666,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Cloudy ",
+      "temp": 13.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 11.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 12.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
-      "conditions": "Mist",
+      "temp": 12.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -94,5 +94,5 @@
     "AI’s epic cash call is matched only by its ability to strangle revenue streams",
     "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900"
   ],
-  "crew_quote": "\"When the weather's this miserable, all you need is a good curry and some telly, right? I mean, who cares if it’s 11 degrees and misty when you’ve got a full plate!\""
+  "crew_quote": "\"Well, it's patchy rain nearby, but at least we’ve got this swanky indoor temperature; just perfect for a curry—maybe with a side of knackered Dell!\""
 }
