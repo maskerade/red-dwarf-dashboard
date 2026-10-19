@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-19T06:52:31.374051+00:00",
+  "timestamp": "2026-10-19T07:23:37.361835+00:00",
   "house": {
     "indoor_temp": 18.8,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 9.9,
+    "outdoor_temp": 10.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 74.0,
     "pressure": 1028.7,
     "rain_today": 0.3,
     "uv_index": 0.0,
-    "power_usage": 368.0,
+    "power_usage": 384.0,
     "gas_consumption": 135.787097872916,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "ICANN vows to work faster, improve transparency",
     "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking"
   ],
-  "crew_quote": "\"Oi, it’s so damp outside, even the curry’s looking a bit soggy! Best stay in and get the old microwave warmed up instead.\""
+  "crew_quote": "\"Alright, it's a bit drizzly out there, but that's just the universe's way of reminding us to stay inside and have a curry, innit?\""
 }
