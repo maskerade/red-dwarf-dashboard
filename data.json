@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-19T09:27:58.026858+00:00",
+  "timestamp": "2026-10-19T09:59:03.058793+00:00",
   "house": {
-    "indoor_temp": 20.0,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 12.8,
-    "outdoor_humidity": 92.0,
-    "wind_speed": 2.5,
-    "wind_direction": 279.0,
-    "pressure": 1028.8,
+    "indoor_temp": 20.6,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 13.0,
+    "outdoor_humidity": 87.0,
+    "wind_speed": 5.4,
+    "wind_direction": 277.0,
+    "pressure": 1028.7,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 517.0,
-    "gas_consumption": 136.387109771666,
+    "power_usage": 536.0,
+    "gas_consumption": 136.462146307083,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
-      "conditions": "Sunny",
+      "temp": 11.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 9.0,
-      "conditions": "Cloudy ",
+      "temp": 11.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 8.0,
-      "conditions": "Fog",
+      "temp": 10.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -94,5 +94,5 @@
     "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
     "Engineer was so sick of office pranks, he 'wiped' his antagonist's disk"
   ],
-  "crew_quote": "\"With the weather being a glorious 10°C, it's a perfect day for a curry, unless you’re stuck in fog—then it’s just like my love life, cloudy and confusing!\""
+  "crew_quote": "\"Feels like I’ve been stuck in a curry fog with that cloudy weather! Honestly, it'd take a miracle for me to care about Microsoft’s licensing drama right now.\""
 }
