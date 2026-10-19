@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-19T01:41:35.771973+00:00",
+  "timestamp": "2026-10-19T02:12:41.564398+00:00",
   "house": {
     "indoor_temp": 19.2,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 10.1,
-    "outdoor_humidity": 87.0,
-    "wind_speed": 0.4,
-    "wind_direction": 62.0,
-    "pressure": 1030.7,
+    "outdoor_temp": 10.6,
+    "outdoor_humidity": 85.0,
+    "wind_speed": 0.0,
+    "wind_direction": 6.0,
+    "pressure": 1030.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 382.0,
+    "power_usage": 401.0,
     "gas_consumption": 135.787097872916,
     "heating_active": false
   },
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 9.0,
-      "conditions": "Light drizzle",
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 4.0,
-      "conditions": "Clear ",
+      "temp": 6.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-19",
@@ -94,5 +94,5 @@
     "Cybercrims go beyond stealing data to attack physical building systems",
     "Amazon wants you to Bee-lieve wearable AI can recall it all for you"
   ],
-  "crew_quote": "\"What’s the point of leap seconds when it’s just drizzling in Overseal? I’d rather they focused on sorting out my OOHPod while I prepare a decent curry!\""
+  "crew_quote": "\"Ah, it's like someone left a window open on the spaceship! It's 19.2 degrees in here and I'm still freezing—this is why I ordered a curry, not a cloud machine!\""
 }
