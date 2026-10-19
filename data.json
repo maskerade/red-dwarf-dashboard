@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-19T19:48:47.340276+00:00",
+  "timestamp": "2026-10-19T20:19:48.002666+00:00",
   "house": {
-    "indoor_temp": 21.1,
+    "indoor_temp": 21.0,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 10.8,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 10.7,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
-    "wind_direction": 312.0,
-    "pressure": 1024.4,
+    "wind_direction": 295.0,
+    "pressure": 1024.1,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 3194.0,
+    "power_usage": 632.0,
     "gas_consumption": 137.96201690625,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Europe’s cloud sovereignty rules could do more harm than good",
     "Red Hat helps teach about tech writing"
   ],
-  "crew_quote": "\"I'm just saying, if it’s 21 degrees in here, why do I feel like I’m in a curry shop in Llandudno? I should be sweating from the spice, not from the heat!\""
+  "crew_quote": "\"With the weather being so clear in Llandudno, I reckon we should take a curry picnic — just don't forget the KillSwitch to keep the bots from stealing the last naan!\""
 }
