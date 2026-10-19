@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-19T13:36:40.657308+00:00",
+  "timestamp": "2026-10-19T14:07:41.439666+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 58.0,
     "outdoor_temp": 13.8,
-    "outdoor_humidity": 79.0,
-    "wind_speed": 2.5,
-    "wind_direction": 287.0,
-    "pressure": 1027.1,
+    "outdoor_humidity": 80.0,
+    "wind_speed": 0.0,
+    "wind_direction": 347.0,
+    "pressure": 1026.7,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 542.0,
+    "power_usage": 505.0,
     "gas_consumption": 137.212085851666,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Broadcom Wi-Fi bug turns sweet 16, still lets strangers hijack your router",
     "Dr Garry Hunt talks to us about the astonishing Voyager probes"
   ],
-  "crew_quote": "\"Looks like the weather's as patchy as my love life, but at least it ain't as broken as Microsoft! Got a good curry to warm me up inside, though!\""
+  "crew_quote": "\"With weather like this, I’d say a nice, humid curry would be just the thing — unless, of course, it ends up raining indoors, which would be quite the modern art installation!\""
 }
