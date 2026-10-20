@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-20T10:17:04.352362+00:00",
+  "timestamp": "2026-10-20T10:48:20.130652+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 59.0,
     "outdoor_temp": 11.1,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
-    "wind_direction": 300.0,
-    "pressure": 1012.4,
-    "rain_today": 4.1,
+    "wind_speed": 1.8,
+    "wind_direction": 336.0,
+    "pressure": 1011.5,
+    "rain_today": 4.3,
     "uv_index": 0.0,
-    "power_usage": 483.0,
+    "power_usage": 497.0,
     "gas_consumption": 138.711946570833,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
+      "temp": 12.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -88,11 +88,6 @@
     "moonset": "12:19 AM"
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
-  "headlines": [
-    "UK finance watchdog wants firms to report AI failures and close calls",
-    "Google Cloud's London zones takes a nap, multiple services disrupted",
-    "London’s mobile networks fall to bottom of Europe’s capital league",
-    "Why cyber resilience is now a boardroom priority for UK public services"
-  ],
-  "crew_quote": "\"11 degrees and patchy rain? Brilliant! I’ll stick to the indoor curry—better than getting soaked while the weather's trying to have a tantrum!\""
+  "headlines": [],
+  "crew_quote": "\"Is it just me, or does it feel a bit humid in here? I mean, who needs fancy humidity when you can have a curry for a warm-up instead!\""
 }
