@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-19T23:56:52.008112+00:00",
+  "timestamp": "2026-10-20T00:27:53.088026+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.0,
     "indoor_humidity": 59.0,
     "outdoor_temp": 10.5,
     "outdoor_humidity": 98.0,
@@ -10,7 +10,7 @@
     "pressure": 1021.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 517.0,
+    "power_usage": 491.0,
     "gas_consumption": 137.96201690625,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Maxwell gives sub-optimal code a runtime glow-up",
     "Security patches need patches now that attackers have AI"
   ],
-  "crew_quote": "\"Blimey, it's a bit nippy today! I could do with a proper curry to heat things up, instead of all this weather talk and cyber nonsense!\""
+  "crew_quote": "\"Great, just what we need—11 degrees of overcast sogginess! I’d trade all the cyberattacks in the world for a good curry and a bit of sunshine!\""
 }
