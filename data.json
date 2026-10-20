@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-20T17:31:13.315847+00:00",
+  "timestamp": "2026-10-20T18:02:13.546049+00:00",
   "house": {
-    "indoor_temp": 20.2,
-    "indoor_humidity": 60.0,
-    "outdoor_temp": 10.6,
+    "indoor_temp": 20.5,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 10.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 324.0,
-    "pressure": 1006.1,
-    "rain_today": 8.4,
+    "pressure": 1005.9,
+    "rain_today": 8.7,
     "uv_index": 0.0,
-    "power_usage": 578.0,
-    "gas_consumption": 139.411901838333,
+    "power_usage": 635.0,
+    "gas_consumption": 139.936911961666,
     "heating_active": false
   },
   "locations": {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
     "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
     "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out",
-    "openEuler brings China's enterprise Linux ambitions to the desktop",
-    "How going dual-native means VM/container co-existence and sovereign security in the AI era"
+    "openEuler brings China's enterprise Linux ambitions to the desktop"
   ],
-  "crew_quote": "\"Weather's as dreary as a trip to the dentist, but at least it's curry night—makes everything feel a tad warmer, even at 20 degrees!\""
+  "crew_quote": "\"Blimey, with this weather and humidity, I could sauté a curry in my own armpits! At least the power’s still up—no need for a ransomware attack on my takeaway!\""
 }
