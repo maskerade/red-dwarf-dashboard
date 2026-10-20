@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-20T15:58:11.493619+00:00",
+  "timestamp": "2026-10-20T16:29:11.918870+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 11.2,
+    "outdoor_temp": 10.9,
     "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
     "wind_direction": 325.0,
     "pressure": 1006.9,
     "rain_today": 6.1,
     "uv_index": 0.0,
-    "power_usage": 536.0,
+    "power_usage": 547.0,
     "gas_consumption": 139.411901838333,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out",
     "openEuler brings China's enterprise Linux ambitions to the desktop",
     "How going dual-native means VM/container co-existence and sovereign security in the AI era",
-    "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
-    "HPE Spaceborne Computer 4 to launch AI straight to the Moon aboard Astrolab’s FLIP rover"
+    "Enterprises blow nearly a third of software budgets on upgrades they never asked for"
   ],
-  "crew_quote": "\"With the weather being all damp and dreary, I reckon a good curry is just what we need to warm things up—who's with me for some spicy comfort in this drizzly doom?\""
+  "crew_quote": "\"With this light drizzle outside, I reckon a nice curry would really brighten the day—who needs sunny weather when you've got good food, eh?\""
 }
