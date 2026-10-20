@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-20T09:15:03.166366+00:00",
+  "timestamp": "2026-10-20T09:46:03.893046+00:00",
   "house": {
-    "indoor_temp": 20.9,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 11.2,
+    "indoor_temp": 20.6,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 11.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 343.0,
-    "pressure": 1013.6,
-    "rain_today": 3.1,
+    "wind_direction": 288.0,
+    "pressure": 1013.1,
+    "rain_today": 3.6,
     "uv_index": 0.0,
-    "power_usage": 536.0,
+    "power_usage": 1730.0,
     "gas_consumption": 138.711946570833,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Sony updates the Walkman as a $5,900 gold-plated MP3 player",
     "‘David Beckham’ was briefly the world’s second-worst manga pirate"
   ],
-  "crew_quote": "\"It’s like patchy rain in Altrincham — just when you think it’s gonna clear up, wham! Back to the damp! Remind me again why we don’t just live on curry and sunshine?\""
+  "crew_quote": "\"With all this patchy rain, I might just stay inside and whip up a curry, because let’s face it, the weather’s about as exciting as Rimmer’s latest motivational speech!\""
 }
