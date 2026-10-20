@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-20T07:11:00.712449+00:00",
+  "timestamp": "2026-10-20T07:42:01.300361+00:00",
   "house": {
-    "indoor_temp": 19.4,
+    "indoor_temp": 19.3,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 10.4,
+    "outdoor_temp": 10.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 309.0,
-    "pressure": 1014.9,
-    "rain_today": 1.5,
+    "pressure": 1014.5,
+    "rain_today": 1.8,
     "uv_index": 0.0,
-    "power_usage": 365.0,
+    "power_usage": 404.0,
     "gas_consumption": 137.96201690625,
     "heating_active": false
   },
@@ -32,13 +32,13 @@
         {
           "date": "2026-10-22",
           "max": 12.0,
-          "min": 3.0
+          "min": 4.0
         }
       ]
     },
     "overseal": {
       "temp": 11.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-20",
@@ -52,14 +52,14 @@
         },
         {
           "date": "2026-10-22",
-          "max": 12.0,
+          "max": 13.0,
           "min": 5.0
         }
       ]
     },
     "llandudno": {
       "temp": 7.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-10-20",
@@ -69,7 +69,7 @@
         {
           "date": "2026-10-21",
           "max": 11.0,
-          "min": 4.0
+          "min": 3.0
         },
         {
           "date": "2026-10-22",
@@ -94,5 +94,5 @@
     "ICANN testing tech to let law enforcement access non-public WHOIS info",
     "DeepSeek deep-sixed at all US federal civilian agencies"
   ],
-  "crew_quote": "\"Blimey, with all this drizzle, I could use a gold-plated Walkman to drown out the sound of me soggy chips!\""
+  "crew_quote": "\"With all this drizzle, it’s a perfect day for a curry and a bit of gaming—just me, a bag of chips, and the latest overpriced gadget. Who needs sunshine, eh?\""
 }
