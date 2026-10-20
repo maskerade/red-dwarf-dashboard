@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-20T19:35:15.545526+00:00",
+  "timestamp": "2026-10-20T20:06:16.603027+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 10.2,
+    "outdoor_temp": 10.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 324.0,
-    "pressure": 1004.7,
+    "pressure": 1004.5,
     "rain_today": 8.7,
     "uv_index": 0.0,
-    "power_usage": 3164.0,
+    "power_usage": 663.0,
     "gas_consumption": 140.08702121125,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 10.0,
-      "conditions": "Light drizzle",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-20",
@@ -27,18 +27,18 @@
         {
           "date": "2026-10-21",
           "max": 10.0,
-          "min": 6.0
+          "min": 7.0
         },
         {
           "date": "2026-10-22",
           "max": 12.0,
-          "min": 4.0
+          "min": 3.0
         }
       ]
     },
     "overseal": {
       "temp": 10.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-20",
@@ -48,18 +48,18 @@
         {
           "date": "2026-10-21",
           "max": 10.0,
-          "min": 7.0
+          "min": 6.0
         },
         {
           "date": "2026-10-22",
-          "max": 13.0,
+          "max": 12.0,
           "min": 5.0
         }
       ]
     },
     "llandudno": {
       "temp": 8.0,
-      "conditions": "Light drizzle",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-10-20",
@@ -74,7 +74,7 @@
         {
           "date": "2026-10-22",
           "max": 12.0,
-          "min": 4.0
+          "min": 5.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out",
     "openEuler brings China's enterprise Linux ambitions to the desktop"
   ],
-  "crew_quote": "\"With this dodgy weather, I reckon we could fry a curry in the drizzle and still have enough power left to run the entire ship’s disco!\""
+  "crew_quote": "\"Ah, lovely weather today! Just enough mist to make me look mysterious—much like those poor sods trying to defend Palo Alto's firewall!\""
 }
