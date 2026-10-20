@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-10-20T04:35:57.175909+00:00",
+  "timestamp": "2026-10-20T05:06:58.302355+00:00",
   "house": {
     "indoor_temp": 19.5,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 11.0,
+    "outdoor_temp": 10.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 309.0,
-    "pressure": 1016.4,
-    "rain_today": 1.0,
+    "pressure": 1016.0,
+    "rain_today": 1.3,
     "uv_index": 0.0,
     "power_usage": 359.0,
     "gas_consumption": 137.96201690625,
@@ -94,5 +94,5 @@
     "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
     "Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters"
   ],
-  "crew_quote": "\"Oi, it’s so muggy in here at 19.5°C, I could cook a curry in my own sweat! Maybe I should open a restaurant called 'Curry Under the Covers'!\""
+  "crew_quote": "\"Looks like the weather's a bit drizzly today, but at least it’s warmer indoors—just like my curry when I accidentally set it to 'nuclear'!\""
 }
