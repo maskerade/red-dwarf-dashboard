@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-20T14:56:09.483638+00:00",
+  "timestamp": "2026-10-20T15:27:11.407289+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 59.0,
     "outdoor_temp": 11.2,
-    "outdoor_humidity": 96.0,
+    "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 320.0,
-    "pressure": 1007.7,
-    "rain_today": 5.4,
+    "wind_direction": 325.0,
+    "pressure": 1007.3,
+    "rain_today": 6.1,
     "uv_index": 0.0,
-    "power_usage": 376.0,
+    "power_usage": 427.0,
     "gas_consumption": 139.411901838333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 12.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-20",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 12.0,
-      "conditions": "Overcast ",
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-10-20",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 9.0,
-      "conditions": "Light drizzle",
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-10-20",
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "How going dual-native means VM/container co-existence and sovereign security in the AI era",
     "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
     "HPE Spaceborne Computer 4 to launch AI straight to the Moon aboard Astrolab’s FLIP rover",
-    "'Password1' and a forgotten test account land Welsh outfits in hot water",
-    "Google Cloud says a 'power event' caused today's outage"
+    "'Password1' and a forgotten test account land Welsh outfits in hot water"
   ],
-  "crew_quote": "\"With this kind of weather, it’s a perfect day for a nice hot curry — keeps the body warm and the spirits high, just like our power usage, eh?\""
+  "crew_quote": "\"When you're out in the drizzle at 12 degrees, you really start to appreciate the warmth of a proper curry back on the ship. Now that's what I call dual-native comfort!\""
 }
