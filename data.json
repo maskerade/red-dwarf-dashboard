@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-20T20:06:16.603027+00:00",
+  "timestamp": "2026-10-20T20:37:16.700482+00:00",
   "house": {
-    "indoor_temp": 20.6,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 10.1,
+    "indoor_temp": 20.5,
+    "indoor_humidity": 60.0,
+    "outdoor_temp": 10.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 324.0,
-    "pressure": 1004.5,
+    "pressure": 1004.0,
     "rain_today": 8.7,
     "uv_index": 0.0,
-    "power_usage": 663.0,
+    "power_usage": 584.0,
     "gas_consumption": 140.08702121125,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out",
     "openEuler brings China's enterprise Linux ambitions to the desktop"
   ],
-  "crew_quote": "\"Ah, lovely weather today! Just enough mist to make me look mysterious—much like those poor sods trying to defend Palo Alto's firewall!\""
+  "crew_quote": "\"With this weather, it’s practically curry season! Just don’t let it rain on my parade—last time I got caught in the mist, I looked like a soggy pasty!\""
 }
