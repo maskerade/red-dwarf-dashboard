@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-20T00:58:53.928237+00:00",
+  "timestamp": "2026-10-20T01:29:53.563896+00:00",
   "house": {
     "indoor_temp": 19.9,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 10.5,
+    "outdoor_temp": 10.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 296.0,
-    "pressure": 1020.5,
+    "pressure": 1019.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 415.0,
@@ -16,18 +16,18 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
+      "temp": 10.0,
       "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-20",
-          "max": 11.0,
+          "max": 12.0,
           "min": 9.0
         },
         {
           "date": "2026-10-21",
-          "max": 10.0,
-          "min": 6.0
+          "max": 12.0,
+          "min": 7.0
         },
         {
           "date": "2026-10-22",
@@ -38,27 +38,27 @@
     },
     "overseal": {
       "temp": 10.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-10-20",
-          "max": 11.0,
-          "min": 9.0
+          "max": 12.0,
+          "min": 10.0
         },
         {
           "date": "2026-10-21",
-          "max": 10.0,
-          "min": 6.0
+          "max": 11.0,
+          "min": 7.0
         },
         {
           "date": "2026-10-22",
-          "max": 13.0,
-          "min": 4.0
+          "max": 12.0,
+          "min": 5.0
         }
       ]
     },
     "llandudno": {
-      "temp": 5.0,
+      "temp": 4.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -68,8 +68,8 @@
         },
         {
           "date": "2026-10-21",
-          "max": 12.0,
-          "min": 3.0
+          "max": 11.0,
+          "min": 4.0
         },
         {
           "date": "2026-10-22",
@@ -94,5 +94,5 @@
     "Maxwell gives sub-optimal code a runtime glow-up",
     "Security patches need patches now that attackers have AI"
   ],
-  "crew_quote": "\"With all this rain and overcast skies, you'd think the universe was trying to make me curry with a side of soggy chips instead of letting me enjoy a nice sunny day!\""
+  "crew_quote": "\"Blimey, in this weather, even my curry's feeling a bit soggy—what’s it gonna take? A nuclear-powered takeaway?\""
 }
