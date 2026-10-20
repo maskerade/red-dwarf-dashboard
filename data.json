@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-20T04:04:57.565108+00:00",
+  "timestamp": "2026-10-20T04:35:57.175909+00:00",
   "house": {
-    "indoor_temp": 19.6,
+    "indoor_temp": 19.5,
     "indoor_humidity": 59.0,
     "outdoor_temp": 11.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 309.0,
-    "pressure": 1016.9,
-    "rain_today": 0.8,
+    "pressure": 1016.4,
+    "rain_today": 1.0,
     "uv_index": 0.0,
-    "power_usage": 396.0,
+    "power_usage": 359.0,
     "gas_consumption": 137.96201690625,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 10.0,
-      "conditions": "Light drizzle",
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-10-20",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
+      "temp": 11.0,
       "conditions": "Light drizzle",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
     "Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters"
   ],
-  "crew_quote": "\"Ah, lovely weather for a nice curry, isn’t it? Just the right kind of drizzle to make a chap feel cozy—especially when you've got 19.6 degrees inside!\""
+  "crew_quote": "\"Oi, it’s so muggy in here at 19.5°C, I could cook a curry in my own sweat! Maybe I should open a restaurant called 'Curry Under the Covers'!\""
 }
