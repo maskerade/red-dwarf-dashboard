@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-20T08:13:01.981148+00:00",
+  "timestamp": "2026-10-20T08:44:02.034149+00:00",
   "house": {
-    "indoor_temp": 19.3,
+    "indoor_temp": 19.8,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 11.1,
+    "outdoor_temp": 11.2,
     "outdoor_humidity": 99.0,
-    "wind_speed": 1.1,
-    "wind_direction": 331.0,
-    "pressure": 1014.1,
-    "rain_today": 2.3,
+    "wind_speed": 0.0,
+    "wind_direction": 328.0,
+    "pressure": 1013.8,
+    "rain_today": 2.6,
     "uv_index": 0.0,
-    "power_usage": 562.0,
-    "gas_consumption": 137.96201690625,
+    "power_usage": 612.0,
+    "gas_consumption": 138.437025105833,
     "heating_active": false
   },
   "locations": {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "London’s mobile networks fall to bottom of Europe’s capital league",
     "Why cyber resilience is now a boardroom priority for UK public services",
     "Sony updates the Walkman as a $5,900 gold-plated MP3 player",
-    "‘David Beckham’ was briefly the world’s second-worst manga pirate",
-    "ICANN testing tech to let law enforcement access non-public WHOIS info"
+    "‘David Beckham’ was briefly the world’s second-worst manga pirate"
   ],
-  "crew_quote": "\"Oi, with this light drizzle and my indoor curry smelling better than a gold-plated Walkman, I'd say we're living the dream, mate!\""
+  "crew_quote": "\"Looks like it’s pouring down again—fancy a curry to warm us up? Or maybe we just need to fix that heating to keep us out of the damp!\""
 }
