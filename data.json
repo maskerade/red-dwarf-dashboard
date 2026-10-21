@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-21T17:48:42.444496+00:00",
+  "timestamp": "2026-10-21T18:19:42.662773+00:00",
   "house": {
-    "indoor_temp": 22.2,
+    "indoor_temp": 21.9,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 7.3,
+    "outdoor_temp": 7.2,
     "outdoor_humidity": 99.0,
-    "wind_speed": 1.1,
-    "wind_direction": 112.0,
-    "pressure": 1004.8,
-    "rain_today": 10.1,
+    "wind_speed": 2.9,
+    "wind_direction": 147.0,
+    "pressure": 1005.0,
+    "rain_today": 11.9,
     "uv_index": 0.0,
-    "power_usage": 618.0,
+    "power_usage": 595.0,
     "gas_consumption": 143.68670040875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenBSD 8.0 beefs up virtual machines and gets a taste of Wine",
     "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched"
   ],
-  "crew_quote": "\"Blimey, it’s like a curry night in here — 22 degrees and I'd still need an umbrella for all that patchy rain outside! At least it’s toasty for my chips!\""
+  "crew_quote": "\"Oh great, it's 8 degrees and raining everywhere, just like my love life! I might as well wrap myself in a curry and call it a day!\""
 }
