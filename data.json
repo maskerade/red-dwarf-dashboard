@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-21T18:19:42.662773+00:00",
+  "timestamp": "2026-10-21T18:50:43.590163+00:00",
   "house": {
-    "indoor_temp": 21.9,
+    "indoor_temp": 21.4,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 7.2,
+    "outdoor_temp": 7.3,
     "outdoor_humidity": 99.0,
-    "wind_speed": 2.9,
-    "wind_direction": 147.0,
-    "pressure": 1005.0,
-    "rain_today": 11.9,
+    "wind_speed": 0.4,
+    "wind_direction": 119.0,
+    "pressure": 1005.2,
+    "rain_today": 12.1,
     "uv_index": 0.0,
-    "power_usage": 595.0,
+    "power_usage": 612.0,
     "gas_consumption": 143.68670040875,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "LiteLLM supply chain attack hoovers up passwords and secrets",
     "AI will eat a fifth of tech budgets in 2027, but don't expect it to pay for itself",
     "Signal bug could keep your mic - and camera - on after hangup",
-    "OpenBSD 8.0 beefs up virtual machines and gets a taste of Wine",
-    "PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched"
+    "OpenBSD 8.0 beefs up virtual machines and gets a taste of Wine"
   ],
-  "crew_quote": "\"Oh great, it's 8 degrees and raining everywhere, just like my love life! I might as well wrap myself in a curry and call it a day!\""
+  "crew_quote": "\"With all this patchy rain, I reckon the only thing that's gonna get soaked is my curry takeout—unless the AI eats it first, which would be a right bummer!\""
 }
