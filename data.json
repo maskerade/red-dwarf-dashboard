@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-21T04:22:26.936095+00:00",
+  "timestamp": "2026-10-21T04:53:26.918412+00:00",
   "house": {
-    "indoor_temp": 19.6,
+    "indoor_temp": 19.5,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 6.7,
+    "outdoor_temp": 6.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 290.0,
-    "pressure": 999.6,
+    "wind_direction": 313.0,
+    "pressure": 999.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 365.0,
+    "power_usage": 354.0,
     "gas_consumption": 140.08702121125,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure",
     "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June"
   ],
-  "crew_quote": "\"Bizarre weather, isn't it? Eight degrees in Altrincham, while I'm here sweating at a balmy 19.6! I could really go for a curry to cool down.\""
+  "crew_quote": "\"With the weather in Altrincham so fresh, I think I’ll just sit here and ponder why anyone would bother with the number ‘4’ when ‘curry’ is such a solid choice!\""
 }
