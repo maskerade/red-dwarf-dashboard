@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-21T16:46:40.616984+00:00",
+  "timestamp": "2026-10-21T17:17:41.260774+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 21.0,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 7.9,
+    "outdoor_temp": 7.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 1.4,
-    "wind_direction": 76.0,
-    "pressure": 1003.9,
-    "rain_today": 6.3,
+    "wind_direction": 84.0,
+    "pressure": 1004.1,
+    "rain_today": 7.8,
     "uv_index": 0.0,
-    "power_usage": 590.0,
-    "gas_consumption": 142.9866172175,
+    "power_usage": 696.0,
+    "gas_consumption": 143.261620889583,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision",
     "OneDrive gives Macs a million things to keep in sync"
   ],
-  "crew_quote": "\"Blimey, it’s as wet and miserable as a soggy curry left out in the rain! At least the ship’s warmer than the weather outside, eh?\""
+  "crew_quote": "\"With rain pattering outside and my curry bubbling away, I've never been more at home. Just don’t let it get too humid; I can’t afford to look like a soggy samosa!\""
 }
