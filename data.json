@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-21T00:45:22.311557+00:00",
+  "timestamp": "2026-10-21T01:16:23.232648+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.0,
     "indoor_humidity": 60.0,
-    "outdoor_temp": 9.5,
+    "outdoor_temp": 8.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 345.0,
-    "pressure": 1001.8,
+    "pressure": 1001.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 384.0,
+    "power_usage": 354.0,
     "gas_consumption": 140.08702121125,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
     "OneDrive loses bunch of Copilot shortcuts in File Explorer clear-out"
   ],
-  "crew_quote": "\"Oi, why's it so misty out? I could really go for a curry, but it's hard to pick up a takeaway when it feels like the atmosphere's just turned into a foggy mess!\""
+  "crew_quote": "\"Blimey, it’s a chilly 10 degrees out there—might as well fire up a curry to keep me toasty while those Nvidia thingies gather dust like Rimmer's qualifications!\""
 }
