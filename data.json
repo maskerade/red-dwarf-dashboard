@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-21T03:51:26.557274+00:00",
+  "timestamp": "2026-10-21T04:22:26.936095+00:00",
   "house": {
     "indoor_temp": 19.6,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 7.1,
+    "outdoor_temp": 6.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 290.0,
-    "pressure": 1000.0,
+    "pressure": 999.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 396.0,
+    "power_usage": 365.0,
     "gas_consumption": 140.08702121125,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure",
     "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June"
   ],
-  "crew_quote": "\"Isn't it just lovely? A nice, clear day at 8 degrees, perfect for a curry in the warmth of 19.6—cook it just right, and it's better than any news about compromised keys!\""
+  "crew_quote": "\"Bizarre weather, isn't it? Eight degrees in Altrincham, while I'm here sweating at a balmy 19.6! I could really go for a curry to cool down.\""
 }
