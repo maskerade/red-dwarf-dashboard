@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-21T19:52:44.931360+00:00",
+  "timestamp": "2026-10-21T20:23:45.575402+00:00",
   "house": {
-    "indoor_temp": 22.3,
+    "indoor_temp": 21.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 6.7,
+    "outdoor_temp": 6.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 95.0,
-    "pressure": 1005.6,
+    "wind_direction": 92.0,
+    "pressure": 1005.8,
     "rain_today": 12.7,
     "uv_index": 0.0,
-    "power_usage": 795.0,
+    "power_usage": 3091.0,
     "gas_consumption": 144.387040590416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI will eat a fifth of tech budgets in 2027, but don't expect it to pay for itself",
     "Signal bug could keep your mic - and camera - on after hangup"
   ],
-  "crew_quote": "\"Weather's a bit dull, isn't it? If only they made a curry-flavored rain; that would spice things up—now that's a forecast I could get behind!\""
+  "crew_quote": "\"Oi, it's a bit dreary out there, innit? But at least it’s warmer in here than the curry I accidentally left in the fridge—now that’s real patchy weather!\""
 }
