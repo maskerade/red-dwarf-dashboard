@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-21T09:32:33.366690+00:00",
+  "timestamp": "2026-10-21T10:03:33.329454+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.3,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 9.4,
+    "outdoor_temp": 9.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 347.0,
-    "pressure": 999.1,
+    "wind_direction": 330.0,
+    "pressure": 999.5,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 483.0,
+    "power_usage": 404.0,
     "gas_consumption": 140.786978715833,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 9.0,
-      "conditions": "Partly cloudy",
+      "temp": 10.0,
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-10-21",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 8.0,
-      "conditions": "Sunny",
+      "temp": 10.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-10-21",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
+      "temp": 9.0,
       "conditions": "Light rain",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "The spec is the new code, so brush up on your prose, says Kaseya CTO",
     "Happiness is the next AI KPI if Oxford boffins have their way",
     "MPs urge UK government to play venture capitalist with taxpayer-funded tech",
-    "Nervous ISPs replace Chrome as strange consumers of DNS resources",
-    "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’"
+    "Nervous ISPs replace Chrome as strange consumers of DNS resources"
   ],
-  "crew_quote": "\"Ah, 9 degrees and partly cloudy — perfect weather for a curry. Just enough chill to make you feel alive but not enough to ruin my hair!\""
+  "crew_quote": "\"Oi, it’s ten degrees and drizzling—perfect weather for a curry and a good old moan about the state of AI happiness metrics. Who needs sunshine when you've got a tasty vindaloo?\""
 }
