@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-21T12:07:35.329443+00:00",
+  "timestamp": "2026-10-21T12:38:36.784062+00:00",
   "house": {
-    "indoor_temp": 21.4,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 9.9,
+    "indoor_temp": 21.0,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 9.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 140.0,
-    "pressure": 1000.5,
-    "rain_today": 1.7,
+    "wind_direction": 137.0,
+    "pressure": 1000.8,
+    "rain_today": 2.0,
     "uv_index": 0.0,
-    "power_usage": 559.0,
-    "gas_consumption": 141.511745234583,
+    "power_usage": 609.0,
+    "gas_consumption": 141.536746495,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
     "EU wants Booking.com to check out of its scam problem"
   ],
-  "crew_quote": "\"Cor, it’s 21.4°C in here! Perfect for a curry, unlike that dreary light rain in Llandudno — now that's a place you wouldn't want to be caught without a stylish umbrella!\""
+  "crew_quote": "\"Blimey, it’s like Llandudno outside! I could really do with a curry to spice up this dreary weather; bet even my mum couldn’t ruin that!\""
 }
