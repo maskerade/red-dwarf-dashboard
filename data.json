@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-21T05:24:28.108545+00:00",
+  "timestamp": "2026-10-21T05:55:27.835979+00:00",
   "house": {
     "indoor_temp": 19.4,
-    "indoor_humidity": 59.0,
+    "indoor_humidity": 58.0,
     "outdoor_temp": 6.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 343.0,
-    "pressure": 999.2,
+    "pressure": 999.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 376.0,
+    "power_usage": 359.0,
     "gas_consumption": 140.08702121125,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Nervous ISPs replace Chrome as strange consumers of DNS resources",
     "Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’",
     "Auto tech startup claims it traced hack attempt back to rival's IP address",
-    "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure",
-    "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June"
+    "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure"
   ],
-  "crew_quote": "\"Isn’t it lovely that it’s light rain in Llandudno? Just perfect for a curry run—nothing like a good balti to spice up a damp day!\""
+  "crew_quote": "\"Blimey, I’d rather brave the light rain in Llandudno than deal with a compromised DNS – now that’s a real curry of a problem!\""
 }
