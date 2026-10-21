@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-21T22:58:48.493329+00:00",
+  "timestamp": "2026-10-21T23:29:49.080404+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 21.8,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 4.6,
+    "outdoor_temp": 4.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 92.0,
-    "pressure": 1005.3,
-    "rain_today": 12.7,
+    "pressure": 1005.4,
+    "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 606.0,
-    "gas_consumption": 144.387040590416,
+    "power_usage": 657.0,
+    "gas_consumption": 145.062053134583,
     "heating_active": false
   },
   "locations": {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
     "OpenClaw creator says he spent $10 million in tokens last month",
     "Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you",
-    "Nvidia woos wary Europeans with more open weights models",
-    "LiteLLM supply chain attack hoovers up passwords and secrets"
+    "Nvidia woos wary Europeans with more open weights models"
   ],
-  "crew_quote": "\"At least it’s nicer inside at a toasty 21 degrees; perfect for enjoying a curry while the rest of the galaxy gets drenched in that patchy rain. Brilliant!\""
+  "crew_quote": "\"Weather's a bit patchy, innit? Makes me feel like a warm curry on a cool day, all toasty inside while the rain tries to crash the party!\""
 }
