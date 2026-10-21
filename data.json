@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-21T12:38:36.784062+00:00",
+  "timestamp": "2026-10-21T13:09:36.473142+00:00",
   "house": {
-    "indoor_temp": 21.0,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 9.4,
+    "indoor_temp": 21.8,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 9.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 137.0,
-    "pressure": 1000.8,
+    "wind_direction": 122.0,
+    "pressure": 1001.3,
     "rain_today": 2.0,
     "uv_index": 0.0,
-    "power_usage": 609.0,
-    "gas_consumption": 141.536746495,
+    "power_usage": 564.0,
+    "gas_consumption": 142.261666689166,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Overcast",
+      "temp": 10.0,
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-10-21",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 9.0,
+      "temp": 7.0,
       "conditions": "Light rain",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "AI cuts coding time, but it's also filling open source's inbox with crap",
     "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
     "Nvidia <span data-lab-text_size_desktop=\"42\" class=\"t42\">picks OpenShell to </span>tame AI gents",
-    "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
-    "EU wants Booking.com to check out of its scam problem"
+    "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks"
   ],
-  "crew_quote": "\"Blimey, it’s like Llandudno outside! I could really do with a curry to spice up this dreary weather; bet even my mum couldn’t ruin that!\""
+  "crew_quote": "\"Blimey, it’s so damp outside it’s like a curry gone wrong! I’d rather be stuck in a ship’s hold than venture out in this lot!\""
 }
