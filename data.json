@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-21T11:05:35.087210+00:00",
+  "timestamp": "2026-10-21T11:36:35.409711+00:00",
   "house": {
-    "indoor_temp": 20.1,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 10.3,
+    "indoor_temp": 21.3,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 10.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 336.0,
-    "pressure": 999.7,
+    "pressure": 1000.1,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 578.0,
-    "gas_consumption": 140.861981789583,
+    "power_usage": 505.0,
+    "gas_consumption": 141.511745234583,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
-      "conditions": "Light rain",
+      "temp": 11.0,
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-10-21",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
-      "conditions": "Partly cloudy",
+      "temp": 11.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-10-21",
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
-    "Java crashes the departure board at Tyne and Wear Metro",
-    "The spec is the new code, so brush up on your prose, says Kaseya CTO",
-    "Happiness is the next AI KPI if Oxford boffins have their way",
-    "MPs urge UK government to play venture capitalist with taxpayer-funded tech"
+    "Nvidia <span data-lab-text_size_desktop=\"42\" class=\"t42\">picks OpenShell to </span>tame AI gents",
+    "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
+    "EU wants Booking.com to check out of its scam problem",
+    "Java crashes the departure board at Tyne and Wear Metro"
   ],
-  "crew_quote": "\"Ah, light rain and a cozy 20 degrees inside? Perfect curry weather, I reckon! Just hope the power doesn't go out while I’m cooking!\""
+  "crew_quote": "\"With it being 11 degrees and cloudy outside, I really fancy a curry to warm me up, but I bet even the rain’s getting bored of waiting for my fabulous cooking!\""
 }
