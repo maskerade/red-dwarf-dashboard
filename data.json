@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-21T20:54:45.672435+00:00",
+  "timestamp": "2026-10-21T21:25:47.064477+00:00",
   "house": {
-    "indoor_temp": 21.7,
-    "indoor_humidity": 56.0,
-    "outdoor_temp": 6.0,
+    "indoor_temp": 21.4,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 5.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 92.0,
     "pressure": 1005.9,
     "rain_today": 12.7,
     "uv_index": 0.0,
-    "power_usage": 736.0,
+    "power_usage": 612.0,
     "gas_consumption": 144.387040590416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Nvidia woos wary Europeans with more open weights models",
     "LiteLLM supply chain attack hoovers up passwords and secrets"
   ],
-  "crew_quote": "\"With the weather this grim, it's the perfect time to cozy up with a curry and let some fancy AI do my smartphone tapping while I enjoy a proper 21.7°C! Bliss!\""
+  "crew_quote": "\"Ah, 7 degrees and patchy rain, just perfect for a nice curry! Nothing like a bit of dampness to bring out the flavor — and maybe make the robots do the washing up!\""
 }
