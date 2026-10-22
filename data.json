@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-22T10:21:01.551740+00:00",
+  "timestamp": "2026-10-22T10:52:04.060681+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 21.5,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 8.7,
+    "outdoor_temp": 8.5,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
-    "wind_direction": 95.0,
-    "pressure": 1008.6,
+    "wind_speed": 1.1,
+    "wind_direction": 282.0,
+    "pressure": 1009.0,
     "rain_today": 2.2,
     "uv_index": 0.0,
-    "power_usage": 500.0,
-    "gas_consumption": 145.762375529166,
+    "power_usage": 497.0,
+    "gas_consumption": 146.437384310833,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 8.0,
-      "conditions": "Patchy light drizzle",
+      "temp": 7.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-22",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 8.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 9.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-22",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 8.0,
-      "conditions": "Light rain shower",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-22",
@@ -94,5 +94,5 @@
     "Vendors asking forward deployed engineers to make good on trillion-dollar AI bet",
     "Why the immediate future of liquid cooling is hybrid"
   ],
-  "crew_quote": "\"With all this drizzle and the news about that pharmacy fight, I really hope the curry I left in the fridge isn't plotting a digital transformation of its own!\""
+  "crew_quote": "\"Well, if it’s patchy rain outside, I’d say we’re just a hair away from a complete curry disaster—but hey, at least it’s warm in here!\""
 }
