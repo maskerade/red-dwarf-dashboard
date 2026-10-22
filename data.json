@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22T14:29:07.111141+00:00",
+  "timestamp": "2026-10-22T15:00:30.448633+00:00",
   "house": {
     "indoor_temp": 20.8,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 11.2,
-    "outdoor_humidity": 79.0,
+    "outdoor_temp": 11.0,
+    "outdoor_humidity": 81.0,
     "wind_speed": 0.0,
-    "wind_direction": 80.0,
-    "pressure": 1009.1,
+    "wind_direction": 187.0,
+    "pressure": 1009.0,
     "rain_today": 2.2,
     "uv_index": 0.0,
-    "power_usage": 488.0,
+    "power_usage": 502.0,
     "gas_consumption": 146.487301965833,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "When the attacker becomes the user: Rethinking account takeover",
     "Singapore boffins weave a GUI into fabric, and it's machine washable too",
     "Nvidia's Huang: Don't mention the AI-pocalypse",
-    "Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure",
-    "Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants"
+    "Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure"
   ],
-  "crew_quote": "\"11 degrees and patchy rain? Blimey, it’s like a curry with no spice—might as well be eating soggy bread!\""
+  "crew_quote": "\"Looks like we're in for some patchy rain, which is just perfect for a day of watching the weather instead of doing something useful, like perfecting my curry recipe!\""
 }
