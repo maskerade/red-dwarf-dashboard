@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22T06:12:57.151642+00:00",
+  "timestamp": "2026-10-22T06:43:58.546240+00:00",
   "house": {
     "indoor_temp": 20.1,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 6.8,
+    "outdoor_temp": 6.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 75.0,
-    "pressure": 1005.2,
-    "rain_today": 0.5,
+    "pressure": 1005.8,
+    "rain_today": 1.0,
     "uv_index": 0.0,
-    "power_usage": 384.0,
+    "power_usage": 365.0,
     "gas_consumption": 145.08698025125,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
     "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk"
   ],
-  "crew_quote": "\"Oi, with this drizzle, I might as well be havin' a curry at me nan's instead of floating in space. At least her kitchen's warmer than this cosmic fridge!\""
+  "crew_quote": "\"Looks like it’s drizzlin’ everywhere, just like my last curry—rainy on the outside, but still bloody fantastic on the inside!\""
 }
