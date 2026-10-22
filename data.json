@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22T03:37:54.316131+00:00",
+  "timestamp": "2026-10-22T04:08:55.202764+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.5,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 6.0,
+    "outdoor_temp": 6.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 75.0,
-    "pressure": 1004.3,
+    "pressure": 1004.2,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 393.0,
+    "power_usage": 429.0,
     "gas_consumption": 145.08698025125,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
     "OpenClaw creator says he spent $10 million in tokens last month"
   ],
-  "crew_quote": "\"With this mist and rain, it feels like Altrincham's turned into a giant curry pot—steamy, warm, and just waiting for me to add some chips!\""
+  "crew_quote": "\"Blimey, I’d rather face a light rain shower than this power bill! At least the curry’ll keep me warm while I pretend to care about Nvidia’s latest shenanigans.\""
 }
