@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22T08:16:59.844893+00:00",
+  "timestamp": "2026-10-22T08:47:59.754637+00:00",
   "house": {
-    "indoor_temp": 20.8,
-    "indoor_humidity": 54.0,
-    "outdoor_temp": 7.5,
+    "indoor_temp": 20.7,
+    "indoor_humidity": 55.0,
+    "outdoor_temp": 7.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 77.0,
-    "pressure": 1007.0,
+    "wind_direction": 78.0,
+    "pressure": 1007.3,
     "rain_today": 2.2,
     "uv_index": 0.0,
-    "power_usage": 393.0,
+    "power_usage": 458.0,
     "gas_consumption": 145.762375529166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
     "Philippine government suspends top tech official for alleged misconduct"
   ],
-  "crew_quote": "\"Ah, it’s about as inviting outside as a cold curry left in a damp sock—but at least inside, I can keep warm enough to dream of better days!\""
+  "crew_quote": "\"With this dismal drizzle outside and a cozy 20.7°C in here, I reckon it's a perfect day for some curry! Nothing like a good meal to warm up a dreary day, eh?\""
 }
