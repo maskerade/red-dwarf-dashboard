@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-22T07:45:59.056011+00:00",
+  "timestamp": "2026-10-22T08:16:59.844893+00:00",
   "house": {
-    "indoor_temp": 19.9,
-    "indoor_humidity": 55.0,
-    "outdoor_temp": 7.1,
+    "indoor_temp": 20.8,
+    "indoor_humidity": 54.0,
+    "outdoor_temp": 7.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 77.0,
-    "pressure": 1006.4,
-    "rain_today": 2.0,
+    "pressure": 1007.0,
+    "rain_today": 2.2,
     "uv_index": 0.0,
-    "power_usage": 458.0,
-    "gas_consumption": 145.386985485,
+    "power_usage": 393.0,
+    "gas_consumption": 145.762375529166,
     "heating_active": false
   },
   "locations": {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Why the immediate future of liquid cooling is hybrid",
     "Certification authority eMudhra defends its laughably weak private keys",
     "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
-    "Philippine government suspends top tech official for alleged misconduct",
-    "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain"
+    "Philippine government suspends top tech official for alleged misconduct"
   ],
-  "crew_quote": "\"Oh great, it's drizzling outside, just perfect for a cozy curry night! Can't wait to see if our power usage holds up against this terrible weather!\""
+  "crew_quote": "\"Ah, it’s about as inviting outside as a cold curry left in a damp sock—but at least inside, I can keep warm enough to dream of better days!\""
 }
