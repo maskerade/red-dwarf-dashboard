@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22T00:31:50.198090+00:00",
+  "timestamp": "2026-10-22T01:02:51.084418+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.4,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 4.9,
+    "outdoor_temp": 5.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 90.0,
-    "pressure": 1005.0,
+    "pressure": 1004.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 393.0,
+    "power_usage": 404.0,
     "gas_consumption": 145.08698025125,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you",
     "Nvidia woos wary Europeans with more open weights models"
   ],
-  "crew_quote": "\"With the weather this cloudy, I reckon it's a perfect day for a curry — just like a rainy patch in Llandudno, but with more flavor and less chance of getting drenched!\""
+  "crew_quote": "\"Blimey, it's as cold as a frozen curry out there! Good thing I’ve got this cozy cabin—perfect for lounging while the weather's just patchy rain and gloom!\""
 }
