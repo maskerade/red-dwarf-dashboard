@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22T06:43:58.546240+00:00",
+  "timestamp": "2026-10-22T07:14:58.795157+00:00",
   "house": {
-    "indoor_temp": 20.1,
+    "indoor_temp": 20.0,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 6.9,
+    "outdoor_temp": 7.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 75.0,
-    "pressure": 1005.8,
-    "rain_today": 1.0,
+    "pressure": 1006.0,
+    "rain_today": 1.7,
     "uv_index": 0.0,
-    "power_usage": 365.0,
+    "power_usage": 396.0,
     "gas_consumption": 145.08698025125,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Certification authority eMudhra defends its laughably weak private keys",
     "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
     "Philippine government suspends top tech official for alleged misconduct",
-    "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
-    "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk"
+    "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain"
   ],
-  "crew_quote": "\"Looks like it’s drizzlin’ everywhere, just like my last curry—rainy on the outside, but still bloody fantastic on the inside!\""
+  "crew_quote": "\"Well, mate, if it’s drizzling outside, it’s a perfect excuse to whip up a curry and make the inside feel like a tropical paradise! Who needs sunshine, eh?\""
 }
