@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-22T16:33:08.979384+00:00",
+  "timestamp": "2026-10-22T17:04:09.915426+00:00",
   "house": {
-    "indoor_temp": 20.2,
-    "indoor_humidity": 55.0,
-    "outdoor_temp": 8.4,
-    "outdoor_humidity": 91.0,
+    "indoor_temp": 20.1,
+    "indoor_humidity": 56.0,
+    "outdoor_temp": 7.3,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
     "wind_direction": 94.0,
-    "pressure": 1008.4,
+    "pressure": 1008.3,
     "rain_today": 2.2,
     "uv_index": 0.0,
-    "power_usage": 508.0,
+    "power_usage": 587.0,
     "gas_consumption": 146.487301965833,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 9.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-22",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 11.0,
-      "conditions": "Sunny",
+      "temp": 8.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-22",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 5.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-22",
@@ -94,5 +94,5 @@
     "Singapore boffins weave a GUI into fabric, and it's machine washable too",
     "Nvidia's Huang: Don't mention the AI-pocalypse"
   ],
-  "crew_quote": "\"Honestly, it’s like the weather’s in a mid-life crisis; one minute it’s sunny, the next it’s patchy like my old curry stains. Let’s just hope the App Store doesn't rain on our parade!\""
+  "crew_quote": "\"With the indoor temp at a cozy 20.1°C, it’s a perfect day for a curry and a good old moan about how the weather's gone all cloudy again!\""
 }
