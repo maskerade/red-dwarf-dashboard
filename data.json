@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22T09:50:01.854066+00:00",
+  "timestamp": "2026-10-22T10:21:01.551740+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 20.7,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 8.5,
+    "outdoor_temp": 8.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 114.0,
-    "pressure": 1008.2,
+    "wind_direction": 95.0,
+    "pressure": 1008.6,
     "rain_today": 2.2,
     "uv_index": 0.0,
-    "power_usage": 469.0,
+    "power_usage": 500.0,
     "gas_consumption": 145.762375529166,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall",
     "UK government hasn't the foggiest how much it's spending on digital transformation",
     "Vendors asking forward deployed engineers to make good on trillion-dollar AI bet",
-    "Why the immediate future of liquid cooling is hybrid",
-    "Certification authority eMudhra defends its laughably weak private keys"
+    "Why the immediate future of liquid cooling is hybrid"
   ],
-  "crew_quote": "\"You know, with all this light drizzle, I think my curry's just about to come to life and start swimming away. Fancy a bit of spice with that rain, Rimmer?\""
+  "crew_quote": "\"With all this drizzle and the news about that pharmacy fight, I really hope the curry I left in the fridge isn't plotting a digital transformation of its own!\""
 }
