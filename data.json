@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22T15:31:08.407970+00:00",
+  "timestamp": "2026-10-22T16:02:08.703461+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.3,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 10.3,
-    "outdoor_humidity": 84.0,
+    "outdoor_temp": 9.5,
+    "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 80.0,
-    "pressure": 1008.9,
+    "wind_direction": 94.0,
+    "pressure": 1008.8,
     "rain_today": 2.2,
     "uv_index": 0.0,
-    "power_usage": 483.0,
+    "power_usage": 474.0,
     "gas_consumption": 146.487301965833,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Singapore boffins weave a GUI into fabric, and it's machine washable too",
     "Nvidia's Huang: Don't mention the AI-pocalypse"
   ],
-  "crew_quote": "\"Is it just me, or is the weather outside more confused than my last curry order? One minute it's patchy rain, next it's sunny – just like my love life!\""
+  "crew_quote": "\"With the weather doing the tango between rain and sun, I reckon it's just the perfect excuse to stay inside and whip up a curry, eh?\""
 }
