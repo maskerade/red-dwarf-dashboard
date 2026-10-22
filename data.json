@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22T11:23:03.369191+00:00",
+  "timestamp": "2026-10-22T11:54:03.853982+00:00",
   "house": {
-    "indoor_temp": 21.9,
-    "indoor_humidity": 54.0,
-    "outdoor_temp": 9.2,
-    "outdoor_humidity": 99.0,
+    "indoor_temp": 21.5,
+    "indoor_humidity": 55.0,
+    "outdoor_temp": 9.5,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 97.0,
-    "pressure": 1009.3,
+    "wind_direction": 77.0,
+    "pressure": 1009.5,
     "rain_today": 2.2,
     "uv_index": 0.0,
-    "power_usage": 458.0,
+    "power_usage": 432.0,
     "gas_consumption": 146.487301965833,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Vendors asking forward deployed engineers to make good on trillion-dollar AI bet",
     "Why the immediate future of liquid cooling is hybrid"
   ],
-  "crew_quote": "\"Well, it’s patchy rain everywhere, but at least we’re warm and toasty at 21.9°C! Just like my last curry – it had a bit of a kick, too!\""
+  "crew_quote": "\"Great! It's like living in a wet sock at 8°C, and the news is just as dreary—who knew auditors could throw a punch? Pass the curry, I'm going to need it!\""
 }
