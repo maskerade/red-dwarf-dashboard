@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22T09:19:01.100665+00:00",
+  "timestamp": "2026-10-22T09:50:01.854066+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 8.2,
+    "outdoor_temp": 8.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 98.0,
-    "pressure": 1007.7,
+    "wind_direction": 114.0,
+    "pressure": 1008.2,
     "rain_today": 2.2,
     "uv_index": 0.0,
-    "power_usage": 429.0,
+    "power_usage": 469.0,
     "gas_consumption": 145.762375529166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Why the immediate future of liquid cooling is hybrid",
     "Certification authority eMudhra defends its laughably weak private keys"
   ],
-  "crew_quote": "\"Well, in this weather, I reckon even the rain's too chilly for a decent curry! Not that the government could serve one up properly either.\""
+  "crew_quote": "\"You know, with all this light drizzle, I think my curry's just about to come to life and start swimming away. Fancy a bit of spice with that rain, Rimmer?\""
 }
