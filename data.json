@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-22T03:06:53.535188+00:00",
+  "timestamp": "2026-10-22T03:37:54.316131+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 6.3,
+    "outdoor_temp": 6.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 75.0,
-    "pressure": 1004.2,
+    "pressure": 1004.3,
     "rain_today": 0.2,
     "uv_index": 0.0,
-    "power_usage": 384.0,
+    "power_usage": 393.0,
     "gas_consumption": 145.08698025125,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Philippine government suspends top tech official for alleged misconduct",
     "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
     "PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk",
-    "OpenClaw creator says he spent $10 million in tokens last month",
-    "Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you"
+    "OpenClaw creator says he spent $10 million in tokens last month"
   ],
-  "crew_quote": "\"Looks like it's raining outside and I’m stuck in here at 20.7 degrees, dreaming of a curry – a proper one, not one of those wafer-thin supplies!\""
+  "crew_quote": "\"With this mist and rain, it feels like Altrincham's turned into a giant curry pot—steamy, warm, and just waiting for me to add some chips!\""
 }
