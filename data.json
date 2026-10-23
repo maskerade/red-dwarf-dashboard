@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23T02:22:21.333063+00:00",
+  "timestamp": "2026-10-23T02:53:21.956399+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 8.8,
-    "outdoor_humidity": 98.0,
-    "wind_speed": 4.0,
-    "wind_direction": 317.0,
-    "pressure": 996.3,
-    "rain_today": 3.1,
+    "outdoor_temp": 8.6,
+    "outdoor_humidity": 99.0,
+    "wind_speed": 0.4,
+    "wind_direction": 18.0,
+    "pressure": 996.0,
+    "rain_today": 3.9,
     "uv_index": 0.0,
-    "power_usage": 421.0,
+    "power_usage": 415.0,
     "gas_consumption": 147.662188772083,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Backdoored robot tries its hand at finger chopping and cat cooking",
     "Max-severity GitLab bug allows remote code execution over 12 years of releases"
   ],
-  "crew_quote": "\"Great, just what I needed, a lovely light drizzle to go with me curry! At least Llandudno’s got the sun—too bad it’s about 9°C everywhere, bloody typical!\""
+  "crew_quote": "\"Ah, what a lovely day for a curry, eh? Just me, the light rain, and a bit of AI-designed chaos—perfect ingredients for a cozy night in!\""
 }
