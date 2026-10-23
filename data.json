@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23T20:58:43.570261+00:00",
+  "timestamp": "2026-10-23T21:29:43.817336+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.8,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 7.6,
-    "outdoor_humidity": 92.0,
-    "wind_speed": 1.4,
-    "wind_direction": 138.0,
-    "pressure": 1009.4,
+    "outdoor_temp": 7.4,
+    "outdoor_humidity": 90.0,
+    "wind_speed": 2.9,
+    "wind_direction": 97.0,
+    "pressure": 1009.9,
     "rain_today": 14.0,
     "uv_index": 0.0,
-    "power_usage": 733.0,
+    "power_usage": 646.0,
     "gas_consumption": 151.440982299583,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Arc browser on its way out as makers suggest an alternative",
     "SparkyOS: Lightweight general-purpose Arch, on a pendrive"
   ],
-  "crew_quote": "\"Blimey, it’s colder outside than a curry left out in the fridge! Let’s just stay in here with the heating cranked up to 21 and ignore the patchy rain!\""
+  "crew_quote": "\"With the weather like this, I’d rather be inside at a balmy 20.8°C, enjoying a curry, than trudging through patchy rain like some sort of soggy sheep!\""
 }
