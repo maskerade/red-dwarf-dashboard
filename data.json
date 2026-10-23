@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23T08:34:29.636916+00:00",
+  "timestamp": "2026-10-23T09:05:29.268443+00:00",
   "house": {
-    "indoor_temp": 20.6,
-    "indoor_humidity": 54.0,
-    "outdoor_temp": 7.9,
+    "indoor_temp": 20.5,
+    "indoor_humidity": 55.0,
+    "outdoor_temp": 8.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 8.0,
-    "pressure": 995.0,
+    "pressure": 995.2,
     "rain_today": 4.9,
     "uv_index": 0.0,
-    "power_usage": 441.0,
+    "power_usage": 539.0,
     "gas_consumption": 148.362290458333,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Windows said modem worked fine. That unmistakable scorched electronics smell suggested otherwise",
     "PHP2Shell exploit bypasses protections designed to stop remote code execution"
   ],
-  "crew_quote": "\"Well, it's ten degrees outside and partly cloudy, but I'd rather be in here enjoying a nice, warm curry than deal with that weather. Have you ever noticed how clouds have such bad attitudes?\""
+  "crew_quote": "\"Listen, if the weather's only 9°C outside, I reckon it's the perfect excuse for a nice curry indoors — and don't forget the poppadoms, they're essential for any self-respecting meal!\""
 }
