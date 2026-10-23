@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-23T20:27:41.729160+00:00",
+  "timestamp": "2026-10-23T20:58:43.570261+00:00",
   "house": {
-    "indoor_temp": 21.2,
-    "indoor_humidity": 54.0,
-    "outdoor_temp": 7.3,
-    "outdoor_humidity": 97.0,
-    "wind_speed": 0.0,
-    "wind_direction": 106.0,
-    "pressure": 1008.9,
-    "rain_today": 13.8,
+    "indoor_temp": 21.0,
+    "indoor_humidity": 55.0,
+    "outdoor_temp": 7.6,
+    "outdoor_humidity": 92.0,
+    "wind_speed": 1.4,
+    "wind_direction": 138.0,
+    "pressure": 1009.4,
+    "rain_today": 14.0,
     "uv_index": 0.0,
-    "power_usage": 567.0,
+    "power_usage": 733.0,
     "gas_consumption": 151.440982299583,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 8.0,
+      "temp": 7.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 9.0,
+      "temp": 8.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -74,7 +74,7 @@
         {
           "date": "2026-10-25",
           "max": 10.0,
-          "min": 8.0
+          "min": 9.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Arc browser on its way out as makers suggest an alternative",
     "SparkyOS: Lightweight general-purpose Arch, on a pendrive"
   ],
-  "crew_quote": "\"Looks like it's patchy rain outside—just like my chance of ever getting a curry delivered on time. Honestly, even the weather's got it in for me!\""
+  "crew_quote": "\"Blimey, it’s colder outside than a curry left out in the fridge! Let’s just stay in here with the heating cranked up to 21 and ignore the patchy rain!\""
 }
