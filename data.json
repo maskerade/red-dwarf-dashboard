@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23T17:52:39.552209+00:00",
+  "timestamp": "2026-10-23T18:23:39.302277+00:00",
   "house": {
     "indoor_temp": 20.5,
     "indoor_humidity": 55.0,
     "outdoor_temp": 6.7,
     "outdoor_humidity": 99.0,
-    "wind_speed": 1.8,
-    "wind_direction": 69.0,
-    "pressure": 1006.1,
+    "wind_speed": 1.1,
+    "wind_direction": 83.0,
+    "pressure": 1006.9,
     "rain_today": 13.3,
     "uv_index": 0.0,
-    "power_usage": 601.0,
+    "power_usage": 564.0,
     "gas_consumption": 150.565955026666,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Arc browser on its way out as makers suggest an alternative",
     "SparkyOS: Lightweight general-purpose Arch, on a pendrive"
   ],
-  "crew_quote": "\"Well, considering it’s all patchy rain and a dashing 7 degrees outside, I reckon we’re better off inside with a curry and a good old game of cards, eh?\""
+  "crew_quote": "\"Ah, I love a bit of drizzle! It’s like the universe is giving me a free shower while I wait for the perfect curry to be served!\""
 }
