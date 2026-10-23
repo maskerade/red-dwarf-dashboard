@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23T04:26:23.423625+00:00",
+  "timestamp": "2026-10-23T04:57:24.768590+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 8.7,
+    "outdoor_temp": 8.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 323.0,
-    "pressure": 994.9,
+    "wind_direction": 6.0,
+    "pressure": 994.4,
     "rain_today": 4.9,
     "uv_index": 0.0,
-    "power_usage": 407.0,
+    "power_usage": 401.0,
     "gas_consumption": 147.662188772083,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Backdoored robot tries its hand at finger chopping and cat cooking",
     "Max-severity GitLab bug allows remote code execution over 12 years of releases"
   ],
-  "crew_quote": "\"Honestly, with all this rain in Llandudno, I think I’ll just stay in and enjoy a nice curry. Can’t let a little weather get in the way of my gourmet plans!\""
+  "crew_quote": "\"Looks like it’s a lovely 9 degrees out, just perfect for a good curry, if you can dodge that AI-designed virus first! At least the indoor temps are nice and toasty!\""
 }
