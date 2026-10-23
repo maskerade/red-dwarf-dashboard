@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23T05:28:25.888137+00:00",
+  "timestamp": "2026-10-23T05:59:26.420333+00:00",
   "house": {
     "indoor_temp": 19.8,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 8.1,
+    "outdoor_temp": 6.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 6.0,
-    "pressure": 994.5,
+    "pressure": 994.8,
     "rain_today": 4.9,
     "uv_index": 0.0,
-    "power_usage": 390.0,
+    "power_usage": 368.0,
     "gas_consumption": 147.662188772083,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Human receives AI-designed virus for the first time",
     "Backdoored robot tries its hand at finger chopping and cat cooking"
   ],
-  "crew_quote": "\"Looks like the weather's as confused as my last attempt at fixing the modem—light rain and overcast, just like my hopes for a decent curry tonight!\""
+  "crew_quote": "\"Did you smell that? It’s like a lovely curry, but with a hint of burnt wires. A proper British day—overcast with a side of electrical disaster!\""
 }
