@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23T19:25:40.485532+00:00",
+  "timestamp": "2026-10-23T19:56:41.313968+00:00",
   "house": {
-    "indoor_temp": 21.7,
+    "indoor_temp": 21.5,
     "indoor_humidity": 53.0,
-    "outdoor_temp": 7.4,
-    "outdoor_humidity": 98.0,
-    "wind_speed": 1.4,
-    "wind_direction": 118.0,
-    "pressure": 1007.9,
+    "outdoor_temp": 7.5,
+    "outdoor_humidity": 97.0,
+    "wind_speed": 0.4,
+    "wind_direction": 110.0,
+    "pressure": 1008.5,
     "rain_today": 13.8,
     "uv_index": 0.0,
-    "power_usage": 3180.0,
+    "power_usage": 699.0,
     "gas_consumption": 151.440982299583,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Arc browser on its way out as makers suggest an alternative",
     "SparkyOS: Lightweight general-purpose Arch, on a pendrive"
   ],
-  "crew_quote": "\"Oi, could do with a bit more warmth than this patchy rain nonsense—reminds me, I need to spice up my curry tonight, not just the weather!\""
+  "crew_quote": "\"Honestly, with this patchy rain, I think the weather's as confused as I am about why anyone would want to create a Python-like language for AI. Can't we just stick to curry?\""
 }
