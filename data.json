@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23T02:53:21.956399+00:00",
+  "timestamp": "2026-10-23T03:24:22.971521+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 55.0,
     "outdoor_temp": 8.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.4,
-    "wind_direction": 18.0,
-    "pressure": 996.0,
-    "rain_today": 3.9,
+    "wind_direction": 315.0,
+    "pressure": 995.5,
+    "rain_today": 4.4,
     "uv_index": 0.0,
-    "power_usage": 415.0,
+    "power_usage": 384.0,
     "gas_consumption": 147.662188772083,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Backdoored robot tries its hand at finger chopping and cat cooking",
     "Max-severity GitLab bug allows remote code execution over 12 years of releases"
   ],
-  "crew_quote": "\"Ah, what a lovely day for a curry, eh? Just me, the light rain, and a bit of AI-designed chaos—perfect ingredients for a cozy night in!\""
+  "crew_quote": "\"Blimey, it's raining cats and dogs outside; good thing I've got my curry to keep me warm, eh? Who needs the weather when you've got a proper meal?\""
 }
