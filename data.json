@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-23T10:38:30.934819+00:00",
+  "timestamp": "2026-10-23T11:09:32.034979+00:00",
   "house": {
-    "indoor_temp": 20.6,
-    "indoor_humidity": 56.0,
-    "outdoor_temp": 10.7,
+    "indoor_temp": 21.7,
+    "indoor_humidity": 55.0,
+    "outdoor_temp": 10.6,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
-    "wind_direction": 7.0,
-    "pressure": 996.2,
+    "wind_speed": 1.4,
+    "wind_direction": 111.0,
+    "pressure": 996.4,
     "rain_today": 4.9,
     "uv_index": 0.0,
-    "power_usage": 592.0,
-    "gas_consumption": 148.812298939999,
+    "power_usage": 491.0,
+    "gas_consumption": 149.087215695,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "Beware the claw: Do you want to win the bunny or reboot Android?",
     "Vendor-affiliated AI agent tech gets adopted by friendly, funded foundation"
   ],
-  "crew_quote": "\"10 degrees and partly cloudy? Well, looks like it's the perfect day for a curry and a bit of rain in Llandudno—just my luck to be stuck on this tin can!\""
+  "crew_quote": "\"Weather's as changeable as my love life, but at least it's warmer indoors—who's up for a curry to celebrate this perfect 21.7°C?!\""
 }
