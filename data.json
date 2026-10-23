@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-23T04:57:24.768590+00:00",
+  "timestamp": "2026-10-23T05:28:25.888137+00:00",
   "house": {
-    "indoor_temp": 19.9,
+    "indoor_temp": 19.8,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 8.6,
+    "outdoor_temp": 8.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 6.0,
-    "pressure": 994.4,
+    "pressure": 994.5,
     "rain_today": 4.9,
     "uv_index": 0.0,
-    "power_usage": 401.0,
+    "power_usage": 390.0,
     "gas_consumption": 147.662188772083,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 9.0,
-      "conditions": "Light rain",
+      "conditions": "Overcast",
       "forecast": [
         {
           "date": "2026-10-23",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 9.0,
-      "conditions": "Partly cloudy",
+      "temp": 10.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-10-23",
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 9.0,
-      "conditions": "Moderate rain",
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-10-23",
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Windows said modem worked fine. That unmistakable scorched electronics smell suggested otherwise",
     "PHP2Shell exploit bypasses protections designed to stop remote code execution",
     "Human receives AI-designed virus for the first time",
-    "Backdoored robot tries its hand at finger chopping and cat cooking",
-    "Max-severity GitLab bug allows remote code execution over 12 years of releases"
+    "Backdoored robot tries its hand at finger chopping and cat cooking"
   ],
-  "crew_quote": "\"Looks like it’s a lovely 9 degrees out, just perfect for a good curry, if you can dodge that AI-designed virus first! At least the indoor temps are nice and toasty!\""
+  "crew_quote": "\"Looks like the weather's as confused as my last attempt at fixing the modem—light rain and overcast, just like my hopes for a decent curry tonight!\""
 }
