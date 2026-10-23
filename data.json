@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-23T07:32:27.612425+00:00",
+  "timestamp": "2026-10-23T08:03:27.978107+00:00",
   "house": {
-    "indoor_temp": 19.6,
-    "indoor_humidity": 55.0,
-    "outdoor_temp": 6.9,
+    "indoor_temp": 20.6,
+    "indoor_humidity": 54.0,
+    "outdoor_temp": 7.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 6.0,
-    "pressure": 994.7,
+    "wind_direction": 7.0,
+    "pressure": 994.9,
     "rain_today": 4.9,
     "uv_index": 0.0,
-    "power_usage": 502.0,
-    "gas_consumption": 147.662188855416,
+    "power_usage": 556.0,
+    "gas_consumption": 148.362290458333,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "PHP2Shell exploit bypasses protections designed to stop remote code execution",
     "Human receives AI-designed virus for the first time"
   ],
-  "crew_quote": "\"You know, if we were on Earth right now, I’d be enjoying a curry while the weather’s still sunny in Altrincham. But here? It’s just me and this blasted tin can!\""
+  "crew_quote": "\"With this lovely 20.6°C indoors, I could really go for a curry! But keep me away from that rainy lot in Llandudno—no one wants soggy chips now, do they?\""
 }
