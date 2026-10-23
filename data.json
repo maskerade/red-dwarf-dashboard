@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23T23:02:44.566647+00:00",
+  "timestamp": "2026-10-23T23:33:44.918361+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 6.5,
-    "outdoor_humidity": 98.0,
+    "outdoor_temp": 6.4,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 109.0,
-    "pressure": 1010.5,
+    "wind_direction": 101.0,
+    "pressure": 1010.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 576.0,
+    "power_usage": 567.0,
     "gas_consumption": 151.440982299583,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI models think humans are a bunch of amoral sheep",
     "Michigan prof creates Python-like Jac language for AI agents"
   ],
-  "crew_quote": "\"I don't mind the rain, as long as I've got my curry to keep me warm! You know, it's just the weather trying to ruin my day again.\""
+  "crew_quote": "\"It’s a bit nippy out there at 8 degrees, but at least the curry's warm enough to keep us happy! Let’s hope the only bugs we deal with are in our dinner tonight.\""
 }
