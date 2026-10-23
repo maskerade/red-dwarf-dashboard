@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23T12:11:32.505541+00:00",
+  "timestamp": "2026-10-23T12:42:33.801623+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.8,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 9.0,
+    "outdoor_temp": 7.8,
     "outdoor_humidity": 99.0,
-    "wind_speed": 4.7,
-    "wind_direction": 71.0,
-    "pressure": 997.6,
-    "rain_today": 8.9,
+    "wind_speed": 5.4,
+    "wind_direction": 127.0,
+    "pressure": 998.7,
+    "rain_today": 9.4,
     "uv_index": 0.0,
-    "power_usage": 491.0,
+    "power_usage": 505.0,
     "gas_consumption": 149.087215695,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "UK threatens subsea cable saboteurs with 14 years behind bars",
     "Beware the claw: Do you want to win the bunny or reboot Android?"
   ],
-  "crew_quote": "\"Blimey, it’s lighter rain than a curry sauce on a dodgy takeaway night! What's next, a forecast for torrential chips?\""
+  "crew_quote": "\"Look at us, stuck inside in this cloudy weather while it's 20.8 degrees in here! I could really go for a nice curry to brighten up the day!\""
 }
