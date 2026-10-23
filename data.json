@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-23T15:17:36.119509+00:00",
+  "timestamp": "2026-10-23T15:48:36.935352+00:00",
   "house": {
-    "indoor_temp": 21.7,
-    "indoor_humidity": 53.0,
-    "outdoor_temp": 7.4,
-    "outdoor_humidity": 98.0,
-    "wind_speed": 2.2,
-    "wind_direction": 17.0,
-    "pressure": 1002.9,
-    "rain_today": 9.9,
+    "indoor_temp": 21.3,
+    "indoor_humidity": 54.0,
+    "outdoor_temp": 7.0,
+    "outdoor_humidity": 99.0,
+    "wind_speed": 5.4,
+    "wind_direction": 118.0,
+    "pressure": 1003.5,
+    "rain_today": 10.7,
     "uv_index": 0.0,
-    "power_usage": 449.0,
+    "power_usage": 446.0,
     "gas_consumption": 150.565955026666,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Arc browser on its way out as makers suggest an alternative",
     "SparkyOS: Lightweight general-purpose Arch, on a pendrive",
     "PubKeep picks up where Microsoft Publisher signs off",
-    "Musk disputes NASA safety panel's lunar launch estimates",
-    "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches"
+    "Musk disputes NASA safety panel's lunar launch estimates"
   ],
-  "crew_quote": "\"Well, it's a bit cloudy and drizzly outside, but that just means it's the perfect weather for a nice curry and a bit of pub trivia on that SparkyOS thing, right?\""
+  "crew_quote": "\"With all this light rain and chilly 8°C weather, I think it’s a perfect day for a curry, mate! Nothing like a good vindaloo to warm you up while the world’s a bit gloomy.\""
 }
