@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-24T17:08:54.467723+00:00",
+  "timestamp": "2026-10-24T17:39:59.695703+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.3,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 12.2,
+    "outdoor_temp": 12.8,
     "outdoor_humidity": 99.0,
-    "wind_speed": 2.2,
-    "wind_direction": 186.0,
-    "pressure": 983.6,
-    "rain_today": 9.7,
+    "wind_speed": 1.4,
+    "wind_direction": 241.0,
+    "pressure": 983.1,
+    "rain_today": 11.0,
     "uv_index": 0.0,
-    "power_usage": 730.0,
+    "power_usage": 668.0,
     "gas_consumption": 154.390443250416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
     "There's a third PHP2Shell bug, but it won't get an emergency fix"
   ],
-  "crew_quote": "\"You know, with this weather and the rain, I could really go for a good curry—something to take my mind off all the tech going Skynet on us. But hey, at least it’s warm inside!\""
+  "crew_quote": "\"What’s with all this rain, eh? It’s like Skynet decided to make Altrincham its personal water park – at least the old PCs are still working; bet they’d make better umbrellas!\""
 }
