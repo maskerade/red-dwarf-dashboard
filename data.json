@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-24T01:06:47.334506+00:00",
+  "timestamp": "2026-10-24T01:37:47.853627+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 6.9,
+    "outdoor_temp": 6.8,
     "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 81.0,
-    "pressure": 1011.3,
+    "wind_direction": 117.0,
+    "pressure": 1011.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 399.0,
+    "power_usage": 415.0,
     "gas_consumption": 151.440982299583,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 7.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 6.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-24",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 8.0,
+      "temp": 7.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
     "There's a third PHP2Shell bug, but it won't get an emergency fix",
     "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
-    "AI models think humans are a bunch of amoral sheep",
-    "Michigan prof creates Python-like Jac language for AI agents"
+    "AI models think humans are a bunch of amoral sheep"
   ],
-  "crew_quote": "\"You know, with the rain in Altrincham and me at a spicy 20.2°C, I'm seriously considering upgrading my curry to something a bit more... splash-proof, mate!\""
+  "crew_quote": "\"Seems like Llandudno's got the weather sorted with patchy rain, but I'm just happy there's no curry in the forecast—gotta keep the old smell under control, you know?\""
 }
