@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-24T20:15:28.217153+00:00",
+  "timestamp": "2026-10-24T20:46:32.876908+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 20.7,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 9.3,
-    "outdoor_humidity": 84.0,
-    "wind_speed": 2.9,
-    "wind_direction": 111.0,
-    "pressure": 986.5,
+    "outdoor_temp": 9.1,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 4.3,
+    "wind_direction": 83.0,
+    "pressure": 986.4,
     "rain_today": 17.8,
     "uv_index": 0.0,
-    "power_usage": 775.0,
+    "power_usage": 753.0,
     "gas_consumption": 155.115369679166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
     "There's a third PHP2Shell bug, but it won't get an emergency fix"
   ],
-  "crew_quote": "\"Crikey, at 20.9 degrees in here, it's almost too warm for me to think about curry, but with those robots on the loose, I might need one to console myself!\""
+  "crew_quote": "\"With temperatures soaring to a balmy 20.7°C indoors, I reckon it's time to crack open a can of lager and celebrate the weather; just stay away from any rogue robots!\""
 }
