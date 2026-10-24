@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-24T06:47:54.219524+00:00",
+  "timestamp": "2026-10-24T07:18:54.563043+00:00",
   "house": {
-    "indoor_temp": 19.4,
+    "indoor_temp": 19.3,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 5.9,
+    "outdoor_temp": 6.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 109.0,
-    "pressure": 1009.7,
+    "wind_direction": 32.0,
+    "pressure": 1009.3,
     "rain_today": 0.5,
     "uv_index": 0.0,
-    "power_usage": 410.0,
+    "power_usage": 382.0,
     "gas_consumption": 151.440982299583,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack",
     "AI models think humans are a bunch of amoral sheep"
   ],
-  "crew_quote": "\"You know, in this weather, I reckon a good curry would really warm up the place—much better than this damp 19.4°C nonsense!\""
+  "crew_quote": "\"Looks like it's a perfect day for a curry in here, lads, with the weather outside so dull and dreary—even the rain's giving us a run for our money!\""
 }
