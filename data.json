@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-24T21:48:44.975638+00:00",
+  "timestamp": "2026-10-24T22:19:53.258621+00:00",
   "house": {
     "indoor_temp": 20.6,
-    "indoor_humidity": 56.0,
+    "indoor_humidity": 57.0,
     "outdoor_temp": 9.2,
-    "outdoor_humidity": 84.0,
+    "outdoor_humidity": 83.0,
     "wind_speed": 0.0,
-    "wind_direction": 90.0,
-    "pressure": 986.5,
+    "wind_direction": 139.0,
+    "pressure": 986.4,
     "rain_today": 17.8,
     "uv_index": 0.0,
-    "power_usage": 851.0,
+    "power_usage": 758.0,
     "gas_consumption": 155.115369679166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
     "There's a third PHP2Shell bug, but it won't get an emergency fix"
   ],
-  "crew_quote": "\"While the weather's a bit dreary at 9°C, I suppose it could be worse—we could be in the middle of a Skynet invasion instead of just having a nice curry indoors!\""
+  "crew_quote": "\"With the weather outside a brisk 11 degrees, it's perfect curry weather! Now, if only I could convince the ship's computer to cook one for me.\""
 }
