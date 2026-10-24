@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-24T16:06:42.816624+00:00",
+  "timestamp": "2026-10-24T16:37:49.227459+00:00",
   "house": {
-    "indoor_temp": 21.2,
+    "indoor_temp": 20.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 11.0,
+    "outdoor_temp": 11.6,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.7,
-    "wind_direction": 88.0,
-    "pressure": 986.3,
-    "rain_today": 8.9,
+    "wind_speed": 2.9,
+    "wind_direction": 79.0,
+    "pressure": 984.9,
+    "rain_today": 9.2,
     "uv_index": 0.0,
-    "power_usage": 890.0,
+    "power_usage": 747.0,
     "gas_consumption": 154.390443250416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
     "There's a third PHP2Shell bug, but it won't get an emergency fix"
   ],
-  "crew_quote": "\"Ah, light rain in Altrincham and I'm stuck here in this fancy indoor weather—great, now I’m going to be miserable both inside and out! Where’s me curry?\""
+  "crew_quote": "\"With the weather being as dreary as a bad curry, I think I’ll just sit indoors and let my Raspberry Pi do all the work while pretending it’s actually sunny!\""
 }
