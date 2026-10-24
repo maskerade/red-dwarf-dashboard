@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-24T14:33:27.190740+00:00",
+  "timestamp": "2026-10-24T15:04:33.793208+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 21.4,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 9.8,
+    "outdoor_temp": 10.0,
     "outdoor_humidity": 99.0,
-    "wind_speed": 4.0,
-    "wind_direction": 67.0,
-    "pressure": 990.2,
-    "rain_today": 5.9,
+    "wind_speed": 5.4,
+    "wind_direction": 83.0,
+    "pressure": 988.3,
+    "rain_today": 6.9,
     "uv_index": 0.0,
-    "power_usage": 904.0,
-    "gas_consumption": 153.64051609,
+    "power_usage": 876.0,
+    "gas_consumption": 154.390443250416,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
     "There's a third PHP2Shell bug, but it won't get an emergency fix"
   ],
-  "crew_quote": "\"Look at the weather out there—light rain everywhere! I bet even the Raspberry Pi has more power than I do in this miserable drizzle!\""
+  "crew_quote": "\"Blimey, with a weather report that dreary, I could really go for a curry to spice things up! But let’s just hope that Skynet doesn’t think my nan’s recipe is a threat.\""
 }
