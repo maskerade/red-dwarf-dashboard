@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-24T21:17:38.709444+00:00",
+  "timestamp": "2026-10-24T21:48:44.975638+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 8.9,
-    "outdoor_humidity": 83.0,
+    "outdoor_temp": 9.2,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 110.0,
+    "wind_direction": 90.0,
     "pressure": 986.5,
     "rain_today": 17.8,
     "uv_index": 0.0,
-    "power_usage": 767.0,
+    "power_usage": 851.0,
     "gas_consumption": 155.115369679166,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Partly cloudy",
+      "temp": 9.0,
+      "conditions": "Cloudy",
       "forecast": [
         {
           "date": "2026-10-24",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Moderate rain",
+      "temp": 11.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-10-24",
@@ -94,5 +94,5 @@
     "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
     "There's a third PHP2Shell bug, but it won't get an emergency fix"
   ],
-  "crew_quote": "\"Well, it’s partly cloudy outside and raining in Overseal, which is perfect weather for a nice curry, don’t you think? Just don’t forget to turn off that Skynet thing before dinner!\""
+  "crew_quote": "\"While the weather's a bit dreary at 9°C, I suppose it could be worse—we could be in the middle of a Skynet invasion instead of just having a nice curry indoors!\""
 }
