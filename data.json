@@ -1,23 +1,40 @@
 {
-  "timestamp": "2026-10-24T13:00:47.430122+00:00",
+  "timestamp": "2026-10-24T13:31:16.554388+00:00",
   "house": {
-    "indoor_temp": 20.8,
-    "indoor_humidity": 54.0,
+    "indoor_temp": 20.6,
+    "indoor_humidity": 55.0,
     "outdoor_temp": 9.6,
     "outdoor_humidity": 99.0,
-    "wind_speed": 2.9,
-    "wind_direction": 45.0,
-    "pressure": 994.9,
-    "rain_today": 2.8,
+    "wind_speed": 2.2,
+    "wind_direction": 117.0,
+    "pressure": 993.1,
+    "rain_today": 3.6,
     "uv_index": 0.0,
-    "power_usage": 2034.0,
+    "power_usage": 724.0,
     "gas_consumption": 153.640516018333,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": null,
-      "conditions": null
+      "temp": 9.0,
+      "conditions": "Light rain",
+      "forecast": [
+        {
+          "date": "2026-10-24",
+          "max": 14.0,
+          "min": 6.0
+        },
+        {
+          "date": "2026-10-25",
+          "max": 10.0,
+          "min": 7.0
+        },
+        {
+          "date": "2026-10-26",
+          "max": 15.0,
+          "min": 5.0
+        }
+      ]
     },
     "overseal": {
       "temp": 9.0,
@@ -63,19 +80,19 @@
     }
   },
   "astronomy": {
-    "sunrise": "07:49 AM",
-    "sunset": "05:52 PM",
+    "sunrise": "07:53 AM",
+    "sunset": "05:53 PM",
     "moon_phase": "Waxing Gibbous",
     "moon_illumination": "94",
-    "moonrise": "04:50 PM",
-    "moonset": "05:33 AM"
+    "moonrise": "04:52 PM",
+    "moonset": "05:37 AM"
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
     "Raspberry Pi Desktop proves old PCs aren't past it",
     "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
-    "There's a third PHP2Shell bug, but it won't get an emergency fix",
-    "Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack"
+    "There's a third PHP2Shell bug, but it won't get an emergency fix"
   ],
-  "crew_quote": "\"Well, if it's going to be this miserable outside, I suppose a good curry and a Raspberry Pi will have to do — can't let a little drizzle spoil my fun!\""
+  "crew_quote": "\"With today's rain and that chilly 9 degrees, I reckon it'd be a perfect time for a nice curry—if only we could get the power down to heat it properly!\""
 }
