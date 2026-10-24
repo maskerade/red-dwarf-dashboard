@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-10-24T22:50:55.556939+00:00",
+  "timestamp": "2026-10-24T23:22:00.646766+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.4,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 8.9,
-    "outdoor_humidity": 84.0,
+    "outdoor_temp": 9.1,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 340.0,
+    "wind_direction": 77.0,
     "pressure": 986.0,
-    "rain_today": 17.8,
+    "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 949.0,
+    "power_usage": 786.0,
     "gas_consumption": 155.115369679166,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 9.0,
-      "conditions": "Cloudy",
+      "conditions": "Overcast",
       "forecast": [
-        {
-          "date": "2026-10-24",
-          "max": 15.0,
-          "min": 6.0
-        },
         {
           "date": "2026-10-25",
           "max": 10.0,
@@ -33,18 +28,18 @@
           "date": "2026-10-26",
           "max": 15.0,
           "min": 5.0
+        },
+        {
+          "date": "2026-10-27",
+          "max": 15.0,
+          "min": 7.0
         }
       ]
     },
     "overseal": {
-      "temp": 11.0,
-      "conditions": "Partly cloudy",
+      "temp": 10.0,
+      "conditions": "Clear",
       "forecast": [
-        {
-          "date": "2026-10-24",
-          "max": 14.0,
-          "min": 6.0
-        },
         {
           "date": "2026-10-25",
           "max": 11.0,
@@ -54,6 +49,11 @@
           "date": "2026-10-26",
           "max": 15.0,
           "min": 6.0
+        },
+        {
+          "date": "2026-10-27",
+          "max": 16.0,
+          "min": 8.0
         }
       ]
     },
@@ -61,11 +61,6 @@
       "temp": 11.0,
       "conditions": "Clear",
       "forecast": [
-        {
-          "date": "2026-10-24",
-          "max": 15.0,
-          "min": 7.0
-        },
         {
           "date": "2026-10-25",
           "max": 10.0,
@@ -75,17 +70,22 @@
           "date": "2026-10-26",
           "max": 16.0,
           "min": 5.0
+        },
+        {
+          "date": "2026-10-27",
+          "max": 15.0,
+          "min": 9.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:53 AM",
-    "sunset": "05:53 PM",
+    "sunrise": "07:55 AM",
+    "sunset": "05:51 PM",
     "moon_phase": "Waxing Gibbous",
-    "moon_illumination": "94",
-    "moonrise": "04:52 PM",
-    "moonset": "05:37 AM"
+    "moon_illumination": "98",
+    "moonrise": "05:05 PM",
+    "moonset": "07:02 AM"
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
@@ -94,5 +94,5 @@
     "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
     "There's a third PHP2Shell bug, but it won't get an emergency fix"
   ],
-  "crew_quote": "\"With all this cloudy weather, even the Raspberry Pi is getting more action than me - but at least it doesn't need a curry for dinner like I do!\""
+  "crew_quote": "\"What’s with the weather? It’s like the Skynet of clouds! And speaking of which, I could really go for a curry to warm me up from this chilly 9°C nonsense!\""
 }
