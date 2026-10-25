@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-25T01:26:22.432758+00:00",
+  "timestamp": "2026-10-25T01:57:28.691988+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 56.0,
     "outdoor_temp": 10.6,
-    "outdoor_humidity": 76.0,
-    "wind_speed": 4.3,
-    "wind_direction": 68.0,
-    "pressure": 986.0,
+    "outdoor_humidity": 77.0,
+    "wind_speed": 0.4,
+    "wind_direction": 359.0,
+    "pressure": 986.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 606.0,
+    "power_usage": 587.0,
     "gas_consumption": 155.115369679166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
     "There's a third PHP2Shell bug, but it won't get an emergency fix"
   ],
-  "crew_quote": "\"With all this cloudy weather, I’d say it’s perfect for a nice curry binge, just me and a whole heap of naan, while avoiding any rogue Skynet robots, of course!\""
+  "crew_quote": "\"I'm telling you, if that Skynet thing showed up in Llandudno, I'm just going to order a curry and let it take over. I mean, what’s a bit of robotic evil against a good vindaloo?\""
 }
