@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-25T06:37:18.470915+00:00",
+  "timestamp": "2026-10-25T07:08:24.589838+00:00",
   "house": {
     "indoor_temp": 19.3,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 8.8,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 4.0,
-    "wind_direction": 73.0,
-    "pressure": 991.3,
-    "rain_today": 0.3,
+    "outdoor_temp": 8.6,
+    "outdoor_humidity": 92.0,
+    "wind_speed": 2.2,
+    "wind_direction": 93.0,
+    "pressure": 992.3,
+    "rain_today": 1.0,
     "uv_index": 0.0,
-    "power_usage": 567.0,
+    "power_usage": 584.0,
     "gas_consumption": 155.115369679166,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
+      "temp": 9.0,
       "conditions": "Light rain",
       "forecast": [
         {
@@ -59,7 +59,7 @@
     },
     "llandudno": {
       "temp": 11.0,
-      "conditions": "Clear",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-10-25",
@@ -94,5 +94,5 @@
     "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
     "There's a third PHP2Shell bug, but it won't get an emergency fix"
   ],
-  "crew_quote": "\"Ah, light rain in Altrincham and I'm stuck here while a Raspberry Pi is proving old PCs can do stuff—I reckon I could whip up a curry better than that!\""
+  "crew_quote": "\"You know, with the weather in Llandudno being sunny, I could really do with a pint and a curry to celebrate—though I'm still worried about that Skynet thing running about!\""
 }
