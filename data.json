@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-25T22:10:10.161627+00:00",
+  "timestamp": "2026-10-25T22:41:16.246813+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.7,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 9.3,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 9.0,
+    "outdoor_humidity": 84.0,
     "wind_speed": 0.0,
-    "wind_direction": 77.0,
-    "pressure": 1010.3,
+    "wind_direction": 73.0,
+    "pressure": 1010.2,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 528.0,
+    "power_usage": 491.0,
     "gas_consumption": 158.857912084166,
     "heating_active": false
   },
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 9.0,
-      "conditions": "Cloudy ",
+      "temp": 10.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-25",
@@ -94,5 +94,5 @@
     "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
     "Raspberry Pi Desktop proves old PCs aren't past it"
   ],
-  "crew_quote": "\"Looks like it's a proper dreary day out there, but at least in here it’s 21 degrees! Perfect for a curry, don’t you think? Just add a bit of spice to the gloom!\""
+  "crew_quote": "\"Looks like it’s patchy rain again! Perfect weather for a curry night—nothing like a bit of spice to warm up while we wait for Whitehall to sort its life out!\""
 }
