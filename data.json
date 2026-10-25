@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-25T14:54:48.328270+00:00",
+  "timestamp": "2026-10-25T15:25:53.803870+00:00",
   "house": {
-    "indoor_temp": 19.9,
-    "indoor_humidity": 56.0,
-    "outdoor_temp": 9.9,
-    "outdoor_humidity": 85.0,
-    "wind_speed": 1.1,
-    "wind_direction": 180.0,
-    "pressure": 1004.0,
-    "rain_today": 2.3,
+    "indoor_temp": 21.5,
+    "indoor_humidity": 54.0,
+    "outdoor_temp": 9.8,
+    "outdoor_humidity": 78.0,
+    "wind_speed": 6.8,
+    "wind_direction": 87.0,
+    "pressure": 1004.5,
+    "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 632.0,
-    "gas_consumption": 157.065314766666,
+    "power_usage": 567.0,
+    "gas_consumption": 157.840327350833,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
     "Raspberry Pi Desktop proves old PCs aren't past it"
   ],
-  "crew_quote": "\"Well, it's patchy rain outside and I'm sweating like a curry on a hot plate in here—can't we have one day without the weather being a right royal pain?\""
+  "crew_quote": "\"With all this patchy rain around, I reckon a nice curry could lift the spirits—unless, of course, it ends up raining on my dinner like it always does!\""
 }
