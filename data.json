@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-25T20:05:46.377212+00:00",
+  "timestamp": "2026-10-25T20:36:52.466931+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 55.0,
     "outdoor_temp": 9.3,
-    "outdoor_humidity": 85.0,
-    "wind_speed": 1.1,
-    "wind_direction": 139.0,
-    "pressure": 1008.7,
+    "outdoor_humidity": 87.0,
+    "wind_speed": 0.0,
+    "wind_direction": 106.0,
+    "pressure": 1008.9,
     "rain_today": 2.8,
     "uv_index": 0.0,
-    "power_usage": 531.0,
-    "gas_consumption": 158.107994080833,
+    "power_usage": 3164.0,
+    "gas_consumption": 158.107994185,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
     "Raspberry Pi Desktop proves old PCs aren't past it"
   ],
-  "crew_quote": "\"Blimey, it’s patchy rain and only ten degrees! Perfect weather for a nice curry, or a long chat with Binface about space rubbish — either one sounds equally appealing!\""
+  "crew_quote": "\"Looks like it's a perfect day for a nice warm curry while the weather outside is as dreary as Rimmer's latest lecture on how to be a proper officer!\""
 }
