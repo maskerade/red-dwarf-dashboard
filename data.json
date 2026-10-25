@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-25T07:08:24.589838+00:00",
+  "timestamp": "2026-10-25T07:39:29.871070+00:00",
   "house": {
-    "indoor_temp": 19.3,
+    "indoor_temp": 19.2,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 8.6,
-    "outdoor_humidity": 92.0,
-    "wind_speed": 2.2,
-    "wind_direction": 93.0,
-    "pressure": 992.3,
-    "rain_today": 1.0,
+    "outdoor_temp": 8.9,
+    "outdoor_humidity": 91.0,
+    "wind_speed": 2.9,
+    "wind_direction": 138.0,
+    "pressure": 993.0,
+    "rain_today": 1.3,
     "uv_index": 0.0,
-    "power_usage": 584.0,
+    "power_usage": 618.0,
     "gas_consumption": 155.115369679166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
     "There's a third PHP2Shell bug, but it won't get an emergency fix"
   ],
-  "crew_quote": "\"You know, with the weather in Llandudno being sunny, I could really do with a pint and a curry to celebrate—though I'm still worried about that Skynet thing running about!\""
+  "crew_quote": "\"Ah, it's a lovely day in Llandudno, innit? Not a care in the world while Skynet's doing its thing—perfect weather for a curry and a beer!\""
 }
