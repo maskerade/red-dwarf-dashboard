@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-26T05:25:29.246342+00:00",
+  "timestamp": "2026-10-26T05:56:35.174665+00:00",
   "house": {
     "indoor_temp": 19.4,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 7.1,
-    "outdoor_humidity": 91.0,
-    "wind_speed": 0.7,
-    "wind_direction": 66.0,
-    "pressure": 1010.1,
+    "outdoor_temp": 7.2,
+    "outdoor_humidity": 90.0,
+    "wind_speed": 2.2,
+    "wind_direction": 271.0,
+    "pressure": 1009.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 370.0,
+    "power_usage": 359.0,
     "gas_consumption": 158.857912084166,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Tesco replacing VMware with Proxmox in its stores and on the edge",
+    "Work to protect DNS from quantum decryption attacks is speeding up",
     "After threatening AI export bans, China allows DeepSeek to keep selling",
-    "Want to build a UK datacenter? Please hold while Whitehall transfers you",
-    "<span data-lab-italic_desktop=\"italic\" class=\"italic m-italic\">Reg</span> readers land on 'Binface' as name for UK space cleanup mission",
-    "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds"
+    "Want to build a UK datacenter? Please hold while Whitehall transfers you"
   ],
-  "crew_quote": "\"Blimey, it’s so chilly outside I could make a curry and serve it in the freezer—perfectly on trend with all this overcast nonsense!\""
+  "crew_quote": "\"It's so cold outside, I’d rather wrestle a curry than step out into that 5°C misery. Still, at least the indoor temp's nice and toasty—like a proper curry house!\""
 }
