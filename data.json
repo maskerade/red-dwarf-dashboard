@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-26T01:16:44.609134+00:00",
+  "timestamp": "2026-10-26T01:47:49.182970+00:00",
   "house": {
-    "indoor_temp": 20.2,
-    "indoor_humidity": 56.0,
-    "outdoor_temp": 8.3,
-    "outdoor_humidity": 86.0,
+    "indoor_temp": 20.0,
+    "indoor_humidity": 55.0,
+    "outdoor_temp": 7.8,
+    "outdoor_humidity": 87.0,
     "wind_speed": 0.0,
-    "wind_direction": 56.0,
-    "pressure": 1010.3,
+    "wind_direction": 110.0,
+    "pressure": 1010.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 359.0,
+    "power_usage": 384.0,
     "gas_consumption": 158.857912084166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
     "Raspberry Pi Desktop proves old PCs aren't past it"
   ],
-  "crew_quote": "\"It’s so cold outside I nearly mistook a raindrop for a curry! But inside, I’m feeling toasty at 20.2°C, just like my last batch of vindaloo!\""
+  "crew_quote": "\"Blimey, it’s 20 degrees in here! Might as well crack open a curry and pretend it's warmer than Llandudno – I love a good clear day, but not when it’s patchy rain outside!\""
 }
