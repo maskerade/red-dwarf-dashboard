@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-26T20:58:19.204251+00:00",
+  "timestamp": "2026-10-26T21:29:25.235608+00:00",
   "house": {
     "indoor_temp": 22.0,
     "indoor_humidity": 62.0,
-    "outdoor_temp": 16.2,
-    "outdoor_humidity": 84.0,
-    "wind_speed": 1.4,
-    "wind_direction": 62.0,
-    "pressure": 1000.5,
+    "outdoor_temp": 16.1,
+    "outdoor_humidity": 83.0,
+    "wind_speed": 0.0,
+    "wind_direction": 30.0,
+    "pressure": 999.9,
     "rain_today": 5.6,
     "uv_index": 0.0,
-    "power_usage": 702.0,
+    "power_usage": 834.0,
     "gas_consumption": 163.257878700416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Reddit's r/opensource bans AI slop, and quite a few humans for good measure",
     "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest"
   ],
-  "crew_quote": "\"16 degrees and drizzling? Perfect curry weather, that is! Just need to find somewhere that delivers in this cosmic void!\""
+  "crew_quote": "\"Honestly, it's like living in a curry-flavored sauna in here! But with the light drizzle outside, I guess at least the weather matches my mood — a bit dreary, but still saucy!\""
 }
