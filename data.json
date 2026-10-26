@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-26T14:14:07.669908+00:00",
+  "timestamp": "2026-10-26T14:45:12.518713+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 22.1,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 14.1,
-    "outdoor_humidity": 97.0,
-    "wind_speed": 0.4,
-    "wind_direction": 93.0,
-    "pressure": 1001.4,
+    "outdoor_temp": 15.0,
+    "outdoor_humidity": 96.0,
+    "wind_speed": 4.7,
+    "wind_direction": 138.0,
+    "pressure": 1001.1,
     "rain_today": 5.6,
     "uv_index": 0.0,
-    "power_usage": 578.0,
-    "gas_consumption": 161.83296272125,
+    "power_usage": 545.0,
+    "gas_consumption": 162.5578941375,
     "heating_active": false
   },
   "locations": {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Swift operations end: 2004 spacecraft headed for fiery reentry",
     "Private equity giant: AI payoff strictly limited to Big Tech",
     "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue",
-    "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba",
-    "Former Intel CEO Pat Gelsinger bets on Nagare Labs to vault the memory wall"
+    "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba"
   ],
-  "crew_quote": "\"Ah, it’s 20.7°C inside and still too hot for a proper curry; might as well go stand in Llandudno and soak up some sun while the world falls apart!\""
+  "crew_quote": "\"With the weather being just a tad overcast like my last haircut, I’d say it’s a perfect day for a curry — nothing like a bit of spice to warm up a dreary afternoon!\""
 }
