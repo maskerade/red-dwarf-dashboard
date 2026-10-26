@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-26T05:56:35.174665+00:00",
+  "timestamp": "2026-10-26T06:27:42.695910+00:00",
   "house": {
-    "indoor_temp": 19.4,
+    "indoor_temp": 19.3,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 7.2,
-    "outdoor_humidity": 90.0,
-    "wind_speed": 2.2,
-    "wind_direction": 271.0,
-    "pressure": 1009.9,
+    "outdoor_temp": 7.4,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 0.0,
+    "wind_direction": 225.0,
+    "pressure": 1009.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 359.0,
+    "power_usage": 382.0,
     "gas_consumption": 158.857912084166,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 5.0,
-      "conditions": "Overcast ",
+      "temp": 7.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-26",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 5.0,
-      "conditions": "Overcast ",
+      "temp": 9.0,
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-10-26",
@@ -94,5 +94,5 @@
     "After threatening AI export bans, China allows DeepSeek to keep selling",
     "Want to build a UK datacenter? Please hold while Whitehall transfers you"
   ],
-  "crew_quote": "\"It's so cold outside, I’d rather wrestle a curry than step out into that 5°C misery. Still, at least the indoor temp's nice and toasty—like a proper curry house!\""
+  "crew_quote": "\"You know, in this weather, I think I’ll skip the curry and just stick to trying to stay dry. It's not like I'm made of sugar, but still!\""
 }
