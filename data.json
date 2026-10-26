@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-26T11:07:34.572335+00:00",
+  "timestamp": "2026-10-26T11:38:39.879916+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.4,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 10.1,
+    "outdoor_temp": 10.4,
     "outdoor_humidity": 99.0,
-    "wind_speed": 5.0,
-    "wind_direction": 1.0,
-    "pressure": 1004.3,
-    "rain_today": 3.8,
+    "wind_speed": 0.7,
+    "wind_direction": 68.0,
+    "pressure": 1003.7,
+    "rain_today": 4.8,
     "uv_index": 0.0,
-    "power_usage": 651.0,
+    "power_usage": 446.0,
     "gas_consumption": 161.05778062375,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Britain bets big on AI to defend against the threats AI is helping create",
     "Euro open source specialist proposes LLM gateway to ease token bills",
     "PHP2Shell is a warning shot for vulnerability disclosure",
-    "'Let's just shove a bigger fan in there and see what happens'",
-    "Tesco replacing VMware with Proxmox in its stores and on the edge"
+    "'Let's just shove a bigger fan in there and see what happens'"
   ],
-  "crew_quote": "\"Great, just what I need—light drizzle and 10 degrees! Looks like it's a perfect day for a curry and a hefty dose of misery!\""
+  "crew_quote": "\"Looks like it's 10 degrees and drizzling outside, which is perfect weather for a good old curry binge, innit? Who needs sunshine when you've got a proper curry fix?\""
 }
