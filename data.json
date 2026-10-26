@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-26T03:21:08.285490+00:00",
+  "timestamp": "2026-10-26T03:52:13.617481+00:00",
   "house": {
     "indoor_temp": 19.7,
     "indoor_humidity": 55.0,
@@ -10,7 +10,7 @@
     "pressure": 1010.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 379.0,
+    "power_usage": 348.0,
     "gas_consumption": 158.857912084166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "<span data-lab-italic_desktop=\"italic\" class=\"italic m-italic\">Reg</span> readers land on 'Binface' as name for UK space cleanup mission",
     "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds"
   ],
-  "crew_quote": "\"Well, at least it’s warmer in here than the overcast, damp 6°C outside, but I’d still trade it for a nice curry and a pint any day!\""
+  "crew_quote": "\"Blimey, with it being 6 degrees and overcast, I could really do with a curry to heat things up! Who knew the weather could be as grey as Rimmer’s personality?\""
 }
