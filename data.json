@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-26T14:45:12.518713+00:00",
+  "timestamp": "2026-10-26T15:16:17.761242+00:00",
   "house": {
     "indoor_temp": 22.1,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 15.0,
+    "outdoor_temp": 15.1,
     "outdoor_humidity": 96.0,
-    "wind_speed": 4.7,
-    "wind_direction": 138.0,
-    "pressure": 1001.1,
+    "wind_speed": 0.4,
+    "wind_direction": 62.0,
+    "pressure": 1001.4,
     "rain_today": 5.6,
     "uv_index": 0.0,
-    "power_usage": 545.0,
+    "power_usage": 483.0,
     "gas_consumption": 162.5578941375,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Last call for <span data-lab-italic_desktop=\"italic\" class=\"italic m-italic\">The Register</span>’s data sovereignty dinner in Washington",
     "Swift operations end: 2004 spacecraft headed for fiery reentry",
     "Private equity giant: AI payoff strictly limited to Big Tech",
-    "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue",
-    "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba"
+    "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue"
   ],
-  "crew_quote": "\"With the weather being just a tad overcast like my last haircut, I’d say it’s a perfect day for a curry — nothing like a bit of spice to warm up a dreary afternoon!\""
+  "crew_quote": "\"You know, with it being a toasty 22 degrees in here, I reckon I've found the perfect environment for a deluxe curry and a good ol' nap. Who needs sunny Llandudno?\""
 }
