@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-26T15:16:17.761242+00:00",
+  "timestamp": "2026-10-26T15:47:23.167225+00:00",
   "house": {
-    "indoor_temp": 22.1,
+    "indoor_temp": 21.7,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 15.1,
-    "outdoor_humidity": 96.0,
-    "wind_speed": 0.4,
-    "wind_direction": 62.0,
-    "pressure": 1001.4,
+    "outdoor_temp": 15.3,
+    "outdoor_humidity": 98.0,
+    "wind_speed": 0.0,
+    "wind_direction": 75.0,
+    "pressure": 1001.3,
     "rain_today": 5.6,
     "uv_index": 0.0,
-    "power_usage": 483.0,
+    "power_usage": 438.0,
     "gas_consumption": 162.5578941375,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 15.0,
       "conditions": "Cloudy",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 14.0,
-      "conditions": "Overcast ",
+      "temp": 15.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-26",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 16.0,
-      "conditions": "Sunny",
+      "temp": 15.0,
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-10-26",
@@ -94,5 +94,5 @@
     "Private equity giant: AI payoff strictly limited to Big Tech",
     "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue"
   ],
-  "crew_quote": "\"You know, with it being a toasty 22 degrees in here, I reckon I've found the perfect environment for a deluxe curry and a good ol' nap. Who needs sunny Llandudno?\""
+  "crew_quote": "\"Well, at least the drizzle's lighter than my last curry disaster—if only the ship had a humidity setting for my hair, I’d be fabulous like the Cat!\""
 }
