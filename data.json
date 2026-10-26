@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-26T01:47:49.182970+00:00",
+  "timestamp": "2026-10-26T02:18:55.666234+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 7.8,
-    "outdoor_humidity": 87.0,
+    "outdoor_temp": 6.8,
+    "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
-    "wind_direction": 110.0,
-    "pressure": 1010.8,
+    "wind_direction": 83.0,
+    "pressure": 1010.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 384.0,
+    "power_usage": 404.0,
     "gas_consumption": 158.857912084166,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "After threatening AI export bans, China allows DeepSeek to keep selling",
     "Want to build a UK datacenter? Please hold while Whitehall transfers you",
     "<span data-lab-italic_desktop=\"italic\" class=\"italic m-italic\">Reg</span> readers land on 'Binface' as name for UK space cleanup mission",
-    "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
-    "Raspberry Pi Desktop proves old PCs aren't past it"
+    "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds"
   ],
-  "crew_quote": "\"Blimey, it’s 20 degrees in here! Might as well crack open a curry and pretend it's warmer than Llandudno – I love a good clear day, but not when it’s patchy rain outside!\""
+  "crew_quote": "\"With all this patchy rain, I think I’ll stick to my indoor curry; it’s the only thing around here that’s guaranteed to be hot and never overcast!\""
 }
