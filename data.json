@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-26T09:03:11.891392+00:00",
+  "timestamp": "2026-10-26T09:34:16.879199+00:00",
   "house": {
-    "indoor_temp": 20.5,
-    "indoor_humidity": 53.0,
-    "outdoor_temp": 8.8,
+    "indoor_temp": 21.4,
+    "indoor_humidity": 52.0,
+    "outdoor_temp": 9.1,
     "outdoor_humidity": 98.0,
-    "wind_speed": 0.0,
-    "wind_direction": 66.0,
-    "pressure": 1007.1,
-    "rain_today": 1.0,
+    "wind_speed": 6.5,
+    "wind_direction": 277.0,
+    "pressure": 1006.1,
+    "rain_today": 1.5,
     "uv_index": 0.0,
-    "power_usage": 449.0,
-    "gas_consumption": 159.73286657875,
+    "power_usage": 483.0,
+    "gas_consumption": 160.507880735416,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 8.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 9.0,
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-10-26",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 8.0,
-      "conditions": "Light drizzle",
+      "temp": 9.0,
+      "conditions": "Light rain",
       "forecast": [
         {
           "date": "2026-10-26",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 9.0,
-      "conditions": "Light drizzle",
+      "temp": 12.0,
+      "conditions": "Moderate rain",
       "forecast": [
         {
           "date": "2026-10-26",
@@ -94,5 +94,5 @@
     "Work to protect DNS from quantum decryption attacks is speeding up",
     "After threatening AI export bans, China allows DeepSeek to keep selling"
   ],
-  "crew_quote": "\"With this lovely 20.5 degrees indoors, I could just sit here and eat a curry while outside it's drizzly and miserable—can’t believe the weather’s giving it a good go at ruining my day!\""
+  "crew_quote": "\"Looks like it's pouring down everywhere, but at least in here it’s a cozy 21.4°C—perfect for a curry binge while we wait for the rain to butt off!\""
 }
