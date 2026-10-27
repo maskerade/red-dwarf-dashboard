@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-27T10:57:46.034350+00:00",
+  "timestamp": "2026-10-27T11:28:46.623116+00:00",
   "house": {
-    "indoor_temp": 20.6,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 13.2,
+    "indoor_temp": 21.6,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 12.7,
     "outdoor_humidity": 78.0,
-    "wind_speed": 0.4,
-    "wind_direction": 105.0,
-    "pressure": 1007.1,
+    "wind_speed": 1.4,
+    "wind_direction": 114.0,
+    "pressure": 1007.6,
     "rain_today": 4.6,
     "uv_index": 0.0,
-    "power_usage": 354.0,
-    "gas_consumption": 163.257878700416,
+    "power_usage": 576.0,
+    "gas_consumption": 163.982890186667,
     "heating_active": false
   },
   "locations": {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "UK ministers had plenty of time for AI datacenter bosses, but none for environmental groups",
     "FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases",
     "Year of Linux on the Beach confirmed",
-    "How everyday technology choices drive true workplace sustainability",
-    "Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel"
+    "How everyday technology choices drive true workplace sustainability"
   ],
-  "crew_quote": "\"With weather like this, I think I’ll be cooking up a nice curry indoors; you know, the only thing hotter than my curry will be the humidity!\""
+  "crew_quote": "\"With this patchy rain and a comfy 21.6°C inside, I reckon we should just stay in, whip up a curry, and let the world sort itself out while we watch some dodgy sci-fi!\""
 }
