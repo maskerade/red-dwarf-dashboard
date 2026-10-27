@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-27T09:55:42.646652+00:00",
+  "timestamp": "2026-10-27T10:26:45.498205+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.6,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 12.7,
+    "outdoor_temp": 12.5,
     "outdoor_humidity": 82.0,
-    "wind_speed": 0.7,
-    "wind_direction": 234.0,
-    "pressure": 1005.6,
+    "wind_speed": 0.0,
+    "wind_direction": 44.0,
+    "pressure": 1006.2,
     "rain_today": 4.6,
     "uv_index": 0.0,
-    "power_usage": 390.0,
+    "power_usage": 407.0,
     "gas_consumption": 163.257878700416,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 9.0,
-      "conditions": "Sunny",
+      "temp": 11.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-27",
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 11.0,
+      "temp": 12.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 10.0,
-      "conditions": "Sunny",
+      "temp": 11.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-27",
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases",
     "Year of Linux on the Beach confirmed",
     "How everyday technology choices drive true workplace sustainability",
-    "Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel",
-    "IBM admits mainframes need to be modernized and will use AI to do the job"
+    "Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel"
   ],
-  "crew_quote": "\"Ah, a beautiful day for a stroll — just like my curry, sunny with a chance of me being fabulous! Did I mention I’ve got plans for Linux on the beach?\""
+  "crew_quote": "\"Ah, patchy rain, eh? Sounds like a perfect day for a curry and some binge-watching—nothing like a good meal to brighten up the dreary weather!\""
 }
