@@ -1,48 +1,48 @@
 {
-  "timestamp": "2026-10-27T08:22:26.238913+00:00",
+  "timestamp": "2026-10-27T08:53:31.002264+00:00",
   "house": {
     "indoor_temp": 20.3,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 10.6,
-    "outdoor_humidity": 92.0,
-    "wind_speed": 0.0,
-    "wind_direction": 71.0,
-    "pressure": 1004.1,
+    "outdoor_temp": 10.8,
+    "outdoor_humidity": 89.0,
+    "wind_speed": 0.7,
+    "wind_direction": 92.0,
+    "pressure": 1004.7,
     "rain_today": 4.6,
     "uv_index": 0.0,
-    "power_usage": 362.0,
+    "power_usage": 500.0,
     "gas_consumption": 163.257878700416,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
+      "temp": 9.0,
       "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-10-27",
           "max": 15.0,
-          "min": 9.0
+          "min": 6.0
         },
         {
           "date": "2026-10-28",
-          "max": 15.0,
-          "min": 8.0
+          "max": 14.0,
+          "min": 5.0
         },
         {
           "date": "2026-10-29",
           "max": 14.0,
-          "min": 9.0
+          "min": 8.0
         }
       ]
     },
     "overseal": {
-      "temp": 12.0,
-      "conditions": "Cloudy ",
+      "temp": 11.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-10-27",
-          "max": 15.0,
+          "max": 16.0,
           "min": 8.0
         },
         {
@@ -58,13 +58,13 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Partly cloudy",
+      "temp": 10.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-10-27",
           "max": 15.0,
-          "min": 9.0
+          "min": 8.0
         },
         {
           "date": "2026-10-28",
@@ -74,17 +74,17 @@
         {
           "date": "2026-10-29",
           "max": 14.0,
-          "min": 6.0
+          "min": 7.0
         }
       ]
     }
   },
   "astronomy": {
     "sunrise": "06:58 AM",
-    "sunset": "04:46 PM",
+    "sunset": "04:47 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "99",
-    "moonrise": "04:44 PM",
+    "moonrise": "04:45 PM",
     "moonset": "09:07 AM"
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
@@ -94,5 +94,5 @@
     "Japanese virtual desktop cloud hacked so hard it asks to be banned",
     "Humanity can't afford not to spend $800B on AI, Anthropic insists"
   ],
-  "crew_quote": "\"Blimey, even the weather's got a better sense of style than me! I mean, it’s partly cloudy—what’s that all about? I need my sunshine like I need my curry!\""
+  "crew_quote": "\"Oi, it's 20.3 degrees indoors and sunny outside—perfect curry weather! Just need to avoid any AI trying to steal my favourite recipes.\""
 }
