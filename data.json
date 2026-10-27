@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-27T07:51:28.199756+00:00",
+  "timestamp": "2026-10-27T08:22:26.238913+00:00",
   "house": {
-    "indoor_temp": 20.4,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 10.3,
-    "outdoor_humidity": 93.0,
+    "indoor_temp": 20.3,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 10.6,
+    "outdoor_humidity": 92.0,
     "wind_speed": 0.0,
-    "wind_direction": 42.0,
-    "pressure": 1003.4,
+    "wind_direction": 71.0,
+    "pressure": 1004.1,
     "rain_today": 4.6,
     "uv_index": 0.0,
-    "power_usage": 399.0,
+    "power_usage": 362.0,
     "gas_consumption": 163.257878700416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Japanese virtual desktop cloud hacked so hard it asks to be banned",
     "Humanity can't afford not to spend $800B on AI, Anthropic insists"
   ],
-  "crew_quote": "\"You know, even in my advanced state of genius, I can't quite figure out how to improve indoor humidity levels — maybe AI could help, but it still can't cook a decent curry!\""
+  "crew_quote": "\"Blimey, even the weather's got a better sense of style than me! I mean, it’s partly cloudy—what’s that all about? I need my sunshine like I need my curry!\""
 }
