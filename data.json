@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-27T07:20:17.192537+00:00",
+  "timestamp": "2026-10-27T07:51:28.199756+00:00",
   "house": {
     "indoor_temp": 20.4,
     "indoor_humidity": 59.0,
     "outdoor_temp": 10.3,
-    "outdoor_humidity": 96.0,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
-    "wind_direction": 55.0,
-    "pressure": 1003.0,
+    "wind_direction": 42.0,
+    "pressure": 1003.4,
     "rain_today": 4.6,
     "uv_index": 0.0,
-    "power_usage": 376.0,
+    "power_usage": 399.0,
     "gas_consumption": 163.257878700416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Japanese virtual desktop cloud hacked so hard it asks to be banned",
     "Humanity can't afford not to spend $800B on AI, Anthropic insists"
   ],
-  "crew_quote": "\"Well, at least it’s not as humid as a curry shop in Llandudno, but I suppose even the clouds can’t cover up this lot’s bad luck!\""
+  "crew_quote": "\"You know, even in my advanced state of genius, I can't quite figure out how to improve indoor humidity levels — maybe AI could help, but it still can't cook a decent curry!\""
 }
