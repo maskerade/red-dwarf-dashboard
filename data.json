@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-27T11:59:47.746015+00:00",
+  "timestamp": "2026-10-27T12:30:47.810961+00:00",
   "house": {
-    "indoor_temp": 22.8,
+    "indoor_temp": 22.5,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 13.5,
-    "outdoor_humidity": 74.0,
-    "wind_speed": 0.4,
-    "wind_direction": 54.0,
-    "pressure": 1008.2,
+    "outdoor_temp": 13.0,
+    "outdoor_humidity": 75.0,
+    "wind_speed": 0.0,
+    "wind_direction": 61.0,
+    "pressure": 1008.8,
     "rain_today": 4.6,
     "uv_index": 0.0,
-    "power_usage": 536.0,
+    "power_usage": 497.0,
     "gas_consumption": 164.735832509167,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Microsoft releases out-of-band Windows fixes with certificate updates",
+    "Attack on email hosting provider for German far right party AfD exposed 345k accounts",
     "UK ministers had plenty of time for AI datacenter bosses, but none for environmental groups",
-    "FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases",
-    "Year of Linux on the Beach confirmed",
-    "How everyday technology choices drive true workplace sustainability"
+    "FreeBSD founder ports Omarchy to FreeBSD in ten days, ten releases"
   ],
-  "crew_quote": "\"With the weather all patchy like my last haircut, I think I’ll just stay indoors, crank up the power, and rustle up a curry – just what the doctor ordered!\""
+  "crew_quote": "\"With the weather being patchy like my love life, I’d say it’s a perfect day for a curry... and some Windows updates, because who doesn’t love fixing things that aren’t broken?\""
 }
