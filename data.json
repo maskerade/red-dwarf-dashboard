@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-27T16:38:51.847780+00:00",
+  "timestamp": "2026-10-27T17:09:51.981648+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.8,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 10.8,
-    "outdoor_humidity": 80.0,
+    "outdoor_temp": 9.7,
+    "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 79.0,
-    "pressure": 1013.3,
+    "wind_direction": 80.0,
+    "pressure": 1013.8,
     "rain_today": 4.6,
     "uv_index": 0.0,
     "power_usage": 404.0,
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "ZacOS 9 and Mavernix: Two classic Apple desktops find their Wayland to Linux",
     "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack",
     "Take it on the chin SatNad: Microsoft chief exec's pay slips 6% in record year",
-    "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
-    "A whopping 3% of boardroom execs spy productivity and costs savings from AI"
+    "CISA confirms PHP2Shell under attack as researchers clock successful exploits"
   ],
-  "crew_quote": "\"Right then, it's 21 degrees in here, which is just perfect for a curry... too bad the weather outside is patchy! I could use a bit of sun too, but I guess I'll just have to make do!\""
+  "crew_quote": "\"Weather's patchy rain in Altrincham and I’m still trying to figure out how to cook a curry without a functioning computer—it's like flying in zero gravity!\""
 }
