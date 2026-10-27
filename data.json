@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-27T15:36:51.604588+00:00",
+  "timestamp": "2026-10-27T16:07:51.553087+00:00",
   "house": {
-    "indoor_temp": 21.3,
+    "indoor_temp": 21.1,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 12.2,
-    "outdoor_humidity": 77.0,
-    "wind_speed": 1.4,
-    "wind_direction": 84.0,
-    "pressure": 1011.9,
+    "outdoor_temp": 11.5,
+    "outdoor_humidity": 79.0,
+    "wind_speed": 0.0,
+    "wind_direction": 120.0,
+    "pressure": 1012.5,
     "rain_today": 4.6,
     "uv_index": 0.0,
-    "power_usage": 511.0,
+    "power_usage": 376.0,
     "gas_consumption": 164.735832509167,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Apple's foldable phone has a crease in its reputation",
     "When file infrastructure becomes the bottleneck"
   ],
-  "crew_quote": "\"With all this patchy rain, I reckon a nice curry could be just the thing to brighten up the day — that and a cheeky pint, of course!\""
+  "crew_quote": "\"Well, with the weather this patchy, I reckon it’s perfect curry-eating conditions – rain or shine, I’ll still be the hottest thing in here!\""
 }
