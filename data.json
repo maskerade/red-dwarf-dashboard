@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-27T10:26:45.498205+00:00",
+  "timestamp": "2026-10-27T10:57:46.034350+00:00",
   "house": {
     "indoor_temp": 20.6,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 12.5,
-    "outdoor_humidity": 82.0,
-    "wind_speed": 0.0,
-    "wind_direction": 44.0,
-    "pressure": 1006.2,
+    "outdoor_temp": 13.2,
+    "outdoor_humidity": 78.0,
+    "wind_speed": 0.4,
+    "wind_direction": 105.0,
+    "pressure": 1007.1,
     "rain_today": 4.6,
     "uv_index": 0.0,
-    "power_usage": 407.0,
+    "power_usage": 354.0,
     "gas_consumption": 163.257878700416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "How everyday technology choices drive true workplace sustainability",
     "Elvis rightsholders sue Anthropic for stealing songs and leaving them in Heartbreak Hotel"
   ],
-  "crew_quote": "\"Ah, patchy rain, eh? Sounds like a perfect day for a curry and some binge-watching—nothing like a good meal to brighten up the dreary weather!\""
+  "crew_quote": "\"With weather like this, I think I’ll be cooking up a nice curry indoors; you know, the only thing hotter than my curry will be the humidity!\""
 }
