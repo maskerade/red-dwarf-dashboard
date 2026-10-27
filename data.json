@@ -1,44 +1,44 @@
 {
-  "timestamp": "2026-10-27T06:49:09.506445+00:00",
+  "timestamp": "2026-10-27T07:20:17.192537+00:00",
   "house": {
-    "indoor_temp": 20.5,
+    "indoor_temp": 20.4,
     "indoor_humidity": 59.0,
-    "outdoor_temp": 10.8,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 10.3,
+    "outdoor_humidity": 96.0,
     "wind_speed": 0.0,
-    "wind_direction": 80.0,
-    "pressure": 1002.1,
-    "rain_today": 3.8,
+    "wind_direction": 55.0,
+    "pressure": 1003.0,
+    "rain_today": 4.6,
     "uv_index": 0.0,
-    "power_usage": 340.0,
+    "power_usage": 376.0,
     "gas_consumption": 163.257878700416,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 12.0,
-      "conditions": "Cloudy",
+      "temp": 11.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-10-27",
           "max": 15.0,
-          "min": 7.0
+          "min": 9.0
         },
         {
           "date": "2026-10-28",
           "max": 15.0,
-          "min": 5.0
+          "min": 8.0
         },
         {
           "date": "2026-10-29",
           "max": 14.0,
-          "min": 8.0
+          "min": 9.0
         }
       ]
     },
     "overseal": {
-      "temp": 16.0,
-      "conditions": "Cloudy",
+      "temp": 12.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-27",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 13.0,
-      "conditions": "Clear",
+      "temp": 12.0,
+      "conditions": "Partly cloudy",
       "forecast": [
         {
           "date": "2026-10-27",
@@ -81,10 +81,10 @@
   },
   "astronomy": {
     "sunrise": "06:58 AM",
-    "sunset": "04:47 PM",
+    "sunset": "04:46 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "99",
-    "moonrise": "04:45 PM",
+    "moonrise": "04:44 PM",
     "moonset": "09:07 AM"
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
@@ -94,5 +94,5 @@
     "Japanese virtual desktop cloud hacked so hard it asks to be banned",
     "Humanity can't afford not to spend $800B on AI, Anthropic insists"
   ],
-  "crew_quote": "\"With this sort of weather, a curry's the only thing to keep you warm—I reckon even the cloud's looking at us and thinking, 'Get a proper meal down, you lot!'\""
+  "crew_quote": "\"Well, at least it’s not as humid as a curry shop in Llandudno, but I suppose even the clouds can’t cover up this lot’s bad luck!\""
 }
