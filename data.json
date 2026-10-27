@@ -1,44 +1,44 @@
 {
-  "timestamp": "2026-10-27T14:34:50.026074+00:00",
+  "timestamp": "2026-10-27T15:05:50.562980+00:00",
   "house": {
     "indoor_temp": 21.4,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 13.5,
-    "outdoor_humidity": 74.0,
-    "wind_speed": 0.0,
-    "wind_direction": 106.0,
-    "pressure": 1011.0,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 12.3,
+    "outdoor_humidity": 77.0,
+    "wind_speed": 1.1,
+    "wind_direction": 111.0,
+    "pressure": 1011.5,
     "rain_today": 4.6,
     "uv_index": 0.0,
-    "power_usage": 522.0,
+    "power_usage": 505.0,
     "gas_consumption": 164.735832509167,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
-      "conditions": "Light rain shower",
+      "temp": 12.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-27",
           "max": 15.0,
-          "min": 6.0
+          "min": 7.0
         },
         {
           "date": "2026-10-28",
-          "max": 14.0,
+          "max": 15.0,
           "min": 5.0
         },
         {
           "date": "2026-10-29",
-          "max": 14.0,
+          "max": 13.0,
           "min": 8.0
         }
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 12.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-10-27",
@@ -47,24 +47,24 @@
         },
         {
           "date": "2026-10-28",
-          "max": 14.0,
+          "max": 15.0,
           "min": 8.0
         },
         {
           "date": "2026-10-29",
-          "max": 15.0,
+          "max": 14.0,
           "min": 8.0
         }
       ]
     },
     "llandudno": {
-      "temp": 11.0,
-      "conditions": "Patchy light drizzle",
+      "temp": 12.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-10-27",
           "max": 15.0,
-          "min": 8.0
+          "min": 9.0
         },
         {
           "date": "2026-10-28",
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "CISA confirms PHP2Shell under attack as researchers clock successful exploits",
+    "A whopping 3% of boardroom execs spy productivity and costs savings from AI",
     "Apple's foldable phone has a crease in its reputation",
-    "When file infrastructure becomes the bottleneck",
-    "Microsoft releases out-of-band Windows fixes with certificate updates",
-    "Attack on email hosting provider for German far right party AfD exposed 345k accounts"
+    "When file infrastructure becomes the bottleneck"
   ],
-  "crew_quote": "\"With this light drizzle and a power usage that's practically a curry's worth of energy, I reckon I'd prefer the foldable phone to fold me a nice hot balti instead!\""
+  "crew_quote": "\"Well, it’s patchy rain in Altrincham while we’re basking in a delightful 21.4 degrees! I say, let’s celebrate with a curry; that’ll really spice things up!\""
 }
