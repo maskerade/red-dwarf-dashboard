@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-27T11:28:46.623116+00:00",
+  "timestamp": "2026-10-27T11:59:47.746015+00:00",
   "house": {
-    "indoor_temp": 21.6,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 12.7,
-    "outdoor_humidity": 78.0,
-    "wind_speed": 1.4,
-    "wind_direction": 114.0,
-    "pressure": 1007.6,
+    "indoor_temp": 22.8,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 13.5,
+    "outdoor_humidity": 74.0,
+    "wind_speed": 0.4,
+    "wind_direction": 54.0,
+    "pressure": 1008.2,
     "rain_today": 4.6,
     "uv_index": 0.0,
-    "power_usage": 576.0,
-    "gas_consumption": 163.982890186667,
+    "power_usage": 536.0,
+    "gas_consumption": 164.735832509167,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 11.0,
+      "temp": 12.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -37,7 +37,7 @@
       ]
     },
     "overseal": {
-      "temp": 12.0,
+      "temp": 13.0,
       "conditions": "Sunny",
       "forecast": [
         {
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 11.0,
+      "temp": 10.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Year of Linux on the Beach confirmed",
     "How everyday technology choices drive true workplace sustainability"
   ],
-  "crew_quote": "\"With this patchy rain and a comfy 21.6°C inside, I reckon we should just stay in, whip up a curry, and let the world sort itself out while we watch some dodgy sci-fi!\""
+  "crew_quote": "\"With the weather all patchy like my last haircut, I think I’ll just stay indoors, crank up the power, and rustle up a curry – just what the doctor ordered!\""
 }
