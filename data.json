@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-28T00:37:00.895122+00:00",
+  "timestamp": "2026-10-28T01:08:02.070349+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.9,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 6.6,
-    "outdoor_humidity": 96.0,
+    "outdoor_temp": 7.1,
+    "outdoor_humidity": 95.0,
     "wind_speed": 0.0,
-    "wind_direction": 78.0,
-    "pressure": 1020.2,
+    "wind_direction": 79.0,
+    "pressure": 1020.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 488.0,
+    "power_usage": 458.0,
     "gas_consumption": 166.210359749583,
     "heating_active": false
   },
@@ -20,11 +20,6 @@
       "conditions": "Clear ",
       "forecast": [
         {
-          "date": "2026-10-27",
-          "max": 15.0,
-          "min": 6.0
-        },
-        {
           "date": "2026-10-28",
           "max": 15.0,
           "min": 6.0
@@ -33,18 +28,18 @@
           "date": "2026-10-29",
           "max": 14.0,
           "min": 8.0
+        },
+        {
+          "date": "2026-10-30",
+          "max": 14.0,
+          "min": 7.0
         }
       ]
     },
     "overseal": {
       "temp": 8.0,
-      "conditions": "Clear ",
+      "conditions": "Overcast ",
       "forecast": [
-        {
-          "date": "2026-10-27",
-          "max": 16.0,
-          "min": 8.0
-        },
         {
           "date": "2026-10-28",
           "max": 15.0,
@@ -54,18 +49,18 @@
           "date": "2026-10-29",
           "max": 14.0,
           "min": 9.0
+        },
+        {
+          "date": "2026-10-30",
+          "max": 15.0,
+          "min": 8.0
         }
       ]
     },
     "llandudno": {
       "temp": 9.0,
-      "conditions": "Overcast ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
-        {
-          "date": "2026-10-27",
-          "max": 15.0,
-          "min": 9.0
-        },
         {
           "date": "2026-10-28",
           "max": 15.0,
@@ -75,17 +70,22 @@
           "date": "2026-10-29",
           "max": 14.0,
           "min": 7.0
+        },
+        {
+          "date": "2026-10-30",
+          "max": 16.0,
+          "min": 5.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "06:58 AM",
-    "sunset": "04:47 PM",
+    "sunrise": "07:00 AM",
+    "sunset": "04:45 PM",
     "moon_phase": "Waning Gibbous",
-    "moon_illumination": "99",
-    "moonrise": "04:45 PM",
-    "moonset": "09:07 AM"
+    "moon_illumination": "95",
+    "moonrise": "05:21 PM",
+    "moonset": "10:38 AM"
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
@@ -94,5 +94,5 @@
     "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
     "Apple takes powerful M6 chip to the MacBook Pro, iMac"
   ],
-  "crew_quote": "\"With the weather being clearer than my last round of curry, I reckon we might actually get some sunshine in here—if the ship's computer didn't have a mind of its own!\""
+  "crew_quote": "\"Blimey, it's colder outside than my last curry! Who knew Altrincham could be so brisk? Let’s just stay inside where it's a toasty 20.9°C, eh?\""
 }
