@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-28T19:44:18.164273+00:00",
+  "timestamp": "2026-10-28T20:15:19.139903+00:00",
   "house": {
-    "indoor_temp": 21.6,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 11.4,
-    "outdoor_humidity": 90.0,
+    "indoor_temp": 21.9,
+    "indoor_humidity": 56.0,
+    "outdoor_temp": 11.2,
+    "outdoor_humidity": 91.0,
     "wind_speed": 0.0,
     "wind_direction": 76.0,
-    "pressure": 1027.4,
+    "pressure": 1027.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 685.0,
-    "gas_consumption": 169.060248797083,
+    "power_usage": 3164.0,
+    "gas_consumption": 169.135161770416,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles",
     "How Google fumbled the frontend with Angular 2"
   ],
-  "crew_quote": "\"Blimey, it’s mistier than a curry gone wrong out there! At least in here, I can enjoy the warm glow of my cooking – not that I’m overusing the power or anything.\""
+  "crew_quote": "\"With a temperature inside that's hotter than a curry and outside mistier than my memory of last Tuesday, I’d say we’re in for a cozy day!\""
 }
