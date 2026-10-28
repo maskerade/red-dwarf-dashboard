@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-28T14:34:13.360029+00:00",
+  "timestamp": "2026-10-28T15:05:15.139183+00:00",
   "house": {
-    "indoor_temp": 21.8,
+    "indoor_temp": 21.4,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 13.8,
+    "outdoor_temp": 13.6,
     "outdoor_humidity": 85.0,
     "wind_speed": 0.0,
-    "wind_direction": 54.0,
-    "pressure": 1025.1,
+    "wind_direction": 100.0,
+    "pressure": 1025.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 553.0,
+    "power_usage": 556.0,
     "gas_consumption": 168.360236097916,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 15.0,
+      "temp": 14.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -32,7 +32,7 @@
         {
           "date": "2026-10-30",
           "max": 14.0,
-          "min": 8.0
+          "min": 7.0
         }
       ]
     },
@@ -52,14 +52,14 @@
         },
         {
           "date": "2026-10-30",
-          "max": 14.0,
+          "max": 15.0,
           "min": 7.0
         }
       ]
     },
     "llandudno": {
       "temp": 14.0,
-      "conditions": "Sunny",
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-28",
@@ -68,13 +68,13 @@
         },
         {
           "date": "2026-10-29",
-          "max": 15.0,
-          "min": 6.0
+          "max": 14.0,
+          "min": 7.0
         },
         {
           "date": "2026-10-30",
-          "max": 15.0,
-          "min": 5.0
+          "max": 16.0,
+          "min": 6.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Intel gets tax breaks while local authorities lose revenue, claims policy org",
     "Cisco open sources tool for detecting AI agents on hacking sprees"
   ],
-  "crew_quote": "\"With this weather, it’s perfect curry-eating conditions! Just a shame the only thing falling from the sky here is patchy rain and not the sweet smell of vindaloo!\""
+  "crew_quote": "\"With the weather playing hide and seek like a dodgy spaceplane, I reckon a good curry's the only thing that'll keep me warm in this damp 21.4°C.\""
 }
