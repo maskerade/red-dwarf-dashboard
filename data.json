@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-28T16:38:15.612499+00:00",
+  "timestamp": "2026-10-28T17:09:15.825154+00:00",
   "house": {
-    "indoor_temp": 20.7,
+    "indoor_temp": 20.6,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 12.6,
-    "outdoor_humidity": 86.0,
+    "outdoor_temp": 12.0,
+    "outdoor_humidity": 89.0,
     "wind_speed": 0.0,
-    "wind_direction": 100.0,
-    "pressure": 1026.3,
+    "wind_direction": 105.0,
+    "pressure": 1026.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 432.0,
+    "power_usage": 536.0,
     "gas_consumption": 168.360236097916,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Amazon tells tokenmaxxing devs to slow their AI roll",
     "GitHub powering up four million extra cores to stop its service going down",
     "Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles",
-    "How Google fumbled the frontend with Angular 2",
-    "Microsoft faces potential vote: Shareholders curious about its plans to tackle emissions"
+    "How Google fumbled the frontend with Angular 2"
   ],
-  "crew_quote": "\"With this weather, I’m starting to think we’re in a curry stew instead of space—just a bit of patchy rain and not a single decent vindaloo in sight!\""
+  "crew_quote": "\"Ah, typical British weather, innit? One minute it's patchy rain, the next you're wondering if a curry's worth risking a soggy stroll!\""
 }
