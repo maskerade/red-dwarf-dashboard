@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-28T07:20:13.384243+00:00",
+  "timestamp": "2026-10-28T07:51:07.586206+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 9.9,
+    "outdoor_temp": 10.2,
     "outdoor_humidity": 98.0,
-    "wind_speed": 0.0,
-    "wind_direction": 46.0,
-    "pressure": 1021.3,
+    "wind_speed": 0.4,
+    "wind_direction": 29.0,
+    "pressure": 1021.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 382.0,
+    "power_usage": 359.0,
     "gas_consumption": 166.210359749583,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Big Red gets cozy with Google to offer TPUs to AI customers",
     "Anthropic now lets Claude users jump out of plane without parachute"
   ],
-  "crew_quote": "\"Looks like it’s a bit grim out there, but at least in here it's a balmy 20 degrees—perfect for enjoying a curry, eh? Just don’t let it distract from the impending memory shortages!\""
+  "crew_quote": "\"Blimey, it's ten degrees and overcast everywhere! Perfect weather for a good curry—gets the body temperature up when the universe forgets to.\""
 }
