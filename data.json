@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-28T15:05:15.139183+00:00",
+  "timestamp": "2026-10-28T15:36:14.227099+00:00",
   "house": {
-    "indoor_temp": 21.4,
+    "indoor_temp": 21.1,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 13.6,
-    "outdoor_humidity": 85.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 86.0,
     "wind_speed": 0.0,
-    "wind_direction": 100.0,
-    "pressure": 1025.2,
+    "wind_direction": 135.0,
+    "pressure": 1025.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 556.0,
+    "power_usage": 432.0,
     "gas_consumption": 168.360236097916,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "How Google fumbled the frontend with Angular 2",
     "Microsoft faces potential vote: Shareholders curious about its plans to tackle emissions",
     "China's spaceplane bears striking resemblance to America's X-37B",
-    "Intel gets tax breaks while local authorities lose revenue, claims policy org",
-    "Cisco open sources tool for detecting AI agents on hacking sprees"
+    "Intel gets tax breaks while local authorities lose revenue, claims policy org"
   ],
-  "crew_quote": "\"With the weather playing hide and seek like a dodgy spaceplane, I reckon a good curry's the only thing that'll keep me warm in this damp 21.4°C.\""
+  "crew_quote": "\"With this patchy rain and miserable overcast, I reckon it's the perfect weather for a curry and a bit of a moan, innit?\""
 }
