@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-28T22:50:24.866571+00:00",
+  "timestamp": "2026-10-28T23:21:24.964776+00:00",
   "house": {
     "indoor_temp": 21.0,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 10.5,
-    "outdoor_humidity": 96.0,
+    "outdoor_temp": 10.0,
+    "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 94.0,
-    "pressure": 1028.0,
+    "wind_direction": 90.0,
+    "pressure": 1028.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 578.0,
+    "power_usage": 584.0,
     "gas_consumption": 169.135161770416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble",
     "Amazon tells tokenmaxxing devs to slow their AI roll"
   ],
-  "crew_quote": "\"With the weather so misty and miserable, I reckon even the robots at NASA would struggle to find their way to the curry house!\""
+  "crew_quote": "\"With all this mist outside, it feels like we're marooned in a climate-control unit, but at least the curry's still steaming at a lovely 21 degrees!\""
 }
