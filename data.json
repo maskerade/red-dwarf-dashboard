@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-28T12:30:35.603808+00:00",
+  "timestamp": "2026-10-28T13:01:12.345455+00:00",
   "house": {
     "indoor_temp": 20.1,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 14.6,
-    "outdoor_humidity": 87.0,
-    "wind_speed": 0.0,
-    "wind_direction": 106.0,
-    "pressure": 1024.5,
+    "outdoor_temp": 14.5,
+    "outdoor_humidity": 80.0,
+    "wind_speed": 1.4,
+    "wind_direction": 83.0,
+    "pressure": 1024.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 452.0,
-    "gas_consumption": 166.91031345125,
+    "power_usage": 601.0,
+    "gas_consumption": 167.110317295833,
     "heating_active": false
   },
   "locations": {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Intel gets tax breaks while local authorities lose revenue, claims policy org",
     "Cisco open sources tool for detecting AI agents on hacking sprees",
     "123 Reg discloses 'AI cyberattack' on customer data, suspects China nexus",
-    "Open Cosmos steps up Europe's space sovereignty game, shows off ConnectedCosmos satellites",
-    "Man spends 35 years collecting corporate waffle, turns it into an app"
+    "Open Cosmos steps up Europe's space sovereignty game, shows off ConnectedCosmos satellites"
   ],
-  "crew_quote": "\"Looks like it's patchy rain everywhere, but at least it's warmer inside — perfect weather for a curry binge and a good game of chess, yeah?\""
+  "crew_quote": "\"Ah, the weather's as dreary as my life choices! I suppose if it starts raining curry, I might actually leave the ship for once!\""
 }
