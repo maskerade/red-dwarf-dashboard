@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-28T10:57:11.144920+00:00",
+  "timestamp": "2026-10-28T11:28:10.770942+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 13.0,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 13.3,
+    "outdoor_humidity": 94.0,
     "wind_speed": 0.0,
-    "wind_direction": 187.0,
+    "wind_direction": 72.0,
     "pressure": 1023.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 396.0,
+    "power_usage": 382.0,
     "gas_consumption": 166.91031345125,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Open Cosmos steps up Europe's space sovereignty game, shows off ConnectedCosmos satellites",
     "Man spends 35 years collecting corporate waffle, turns it into an app",
     "Neocloud thinks AI agents - not meatbags - will be its main customers",
-    "Why roaming packages have become an anachronism in the age of app-first travel",
-    "SK Hynix says memory shortages to persist until 2030"
+    "Why roaming packages have become an anachronism in the age of app-first travel"
   ],
-  "crew_quote": "\"Well, I don’t mind the rain, as long as it’s not turning my curry into soup! Can’t a bloke enjoy a decent meal without the weather trying to ruin it?\""
+  "crew_quote": "\"Blimey, if this rain keeps up, I might as well just start brewing curry in the ship's kitchen—it's the only thing warm enough to compete with this miserable weather!\""
 }
