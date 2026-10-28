@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-28T08:53:09.019046+00:00",
+  "timestamp": "2026-10-28T09:24:08.999576+00:00",
   "house": {
     "indoor_temp": 19.8,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 11.4,
+    "outdoor_temp": 11.9,
     "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 89.0,
-    "pressure": 1022.5,
+    "wind_direction": 61.0,
+    "pressure": 1022.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 384.0,
-    "gas_consumption": 166.210359749583,
+    "power_usage": 3194.0,
+    "gas_consumption": 166.885379959166,
     "heating_active": false
   },
   "locations": {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Why roaming packages have become an anachronism in the age of app-first travel",
     "SK Hynix says memory shortages to persist until 2030",
     "AI slows growth for Infosys and keeps it afloat at the same time",
-    "Big Red gets cozy with Google to offer TPUs to AI customers",
-    "Anthropic now lets Claude users jump out of plane without parachute"
+    "Big Red gets cozy with Google to offer TPUs to AI customers"
   ],
-  "crew_quote": "\"Well, it's a right miserable day out there — makes me wish I had a curry in hand and a cozy blanket, instead of just this drippy drizzle, eh?\""
+  "crew_quote": "\"With all this light drizzle outside, I’d say the weather’s a perfect excuse for a curry binge — it’s all about keeping warm, innit?\""
 }
