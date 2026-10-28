@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-28T10:26:09.992035+00:00",
+  "timestamp": "2026-10-28T10:57:11.144920+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 12.4,
+    "outdoor_temp": 13.0,
     "outdoor_humidity": 95.0,
-    "wind_speed": 0.4,
-    "wind_direction": 83.0,
-    "pressure": 1023.2,
+    "wind_speed": 0.0,
+    "wind_direction": 187.0,
+    "pressure": 1023.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 466.0,
+    "power_usage": 396.0,
     "gas_consumption": 166.91031345125,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Why roaming packages have become an anachronism in the age of app-first travel",
     "SK Hynix says memory shortages to persist until 2030"
   ],
-  "crew_quote": "\"You know, it's a bit chilly out there at 12 degrees, but if I had my 'curry weather app', I’d just spice it up and call it a perfect day for a takeaway!\""
+  "crew_quote": "\"Well, I don’t mind the rain, as long as it’s not turning my curry into soup! Can’t a bloke enjoy a decent meal without the weather trying to ruin it?\""
 }
