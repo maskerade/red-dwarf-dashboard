@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-28T03:12:03.739154+00:00",
+  "timestamp": "2026-10-28T03:43:04.914072+00:00",
   "house": {
     "indoor_temp": 20.4,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 7.2,
-    "outdoor_humidity": 95.0,
+    "outdoor_temp": 7.9,
+    "outdoor_humidity": 93.0,
     "wind_speed": 0.0,
-    "wind_direction": 51.0,
-    "pressure": 1020.6,
+    "wind_direction": 68.0,
+    "pressure": 1020.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 356.0,
+    "power_usage": 382.0,
     "gas_consumption": 166.210359749583,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
     "Apple takes powerful M6 chip to the MacBook Pro, iMac"
   ],
-  "crew_quote": "\"Right, so it's warmer indoors than it is outside, but I’d still choose a curry over a cloudy day in Llandudno any time! Who wants a soggy chip butty, eh?\""
+  "crew_quote": "\"Blimey, it’s so warm in here at 20.4°C, I could almost fry a curry! Meanwhile, over in Llandudno, it’s a chilly 10°C. Talk about a difference in style!\""
 }
