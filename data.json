@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-28T20:15:19.139903+00:00",
+  "timestamp": "2026-10-28T20:46:19.112664+00:00",
   "house": {
-    "indoor_temp": 21.9,
+    "indoor_temp": 21.6,
     "indoor_humidity": 56.0,
     "outdoor_temp": 11.2,
     "outdoor_humidity": 91.0,
     "wind_speed": 0.0,
-    "wind_direction": 76.0,
-    "pressure": 1027.9,
+    "wind_direction": 85.0,
+    "pressure": 1027.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 3164.0,
+    "power_usage": 949.0,
     "gas_consumption": 169.135161770416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles",
     "How Google fumbled the frontend with Angular 2"
   ],
-  "crew_quote": "\"With a temperature inside that's hotter than a curry and outside mistier than my memory of last Tuesday, I’d say we’re in for a cozy day!\""
+  "crew_quote": "\"With this mist outside, I reckon I’ll just stay indoors, maybe whip up a curry, and let all those over-caffeinated AI developers deal with the drizzle for a change!\""
 }
