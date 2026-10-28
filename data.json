@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-28T04:14:09.556455+00:00",
+  "timestamp": "2026-10-28T04:45:05.824209+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 8.3,
+    "outdoor_temp": 9.1,
     "outdoor_humidity": 93.0,
-    "wind_speed": 4.0,
-    "wind_direction": 70.0,
+    "wind_speed": 0.0,
+    "wind_direction": 165.0,
     "pressure": 1020.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 342.0,
+    "power_usage": 373.0,
     "gas_consumption": 166.210359749583,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
     "Apple takes powerful M6 chip to the MacBook Pro, iMac"
   ],
-  "crew_quote": "\"With it being 6°C in Altrincham, I reckon it’s the perfect weather for a nice curry—just as long as we don’t have to jump out of a plane first!\""
+  "crew_quote": "\"With the weather swinging between 6°C and patchy rain, it's almost like Mother Nature's serving up a nice curry with a side of drizzle—just how I like my days!\""
 }
