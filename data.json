@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-29T10:43:32.154293+00:00",
+  "timestamp": "2026-10-29T11:14:33.061133+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 20.3,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 13.0,
-    "outdoor_humidity": 92.0,
-    "wind_speed": 0.0,
-    "wind_direction": 315.0,
-    "pressure": 1030.9,
+    "outdoor_temp": 13.6,
+    "outdoor_humidity": 91.0,
+    "wind_speed": 0.7,
+    "wind_direction": 296.0,
+    "pressure": 1031.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 1562.0,
-    "gas_consumption": 169.135161770416,
+    "power_usage": 539.0,
+    "gas_consumption": 169.610170305416,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
-      "conditions": "Mist",
+      "temp": 13.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-29",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
-      "conditions": "Mist",
+      "temp": 14.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-10-29",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
+      "temp": 14.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Traces of new Pi hardware spotted in GitHub",
     "Microsoft breaks New Outlook attachment opening with Edge Update",
     "Matrix takes sovereign messaging into the realm of the tech giants",
-    "Admin dropped the F-bomb in a password to show hackers who was really 1337",
-    "HPE puts storage to work on AI’s expensive memory problem"
+    "Admin dropped the F-bomb in a password to show hackers who was really 1337"
   ],
-  "crew_quote": "\"Well, it’s 10 degrees and misty outside—perfect curry weather! Nothing says 'let's huddle together' like a good old-fashioned bowl of chicken vindaloo!\""
+  "crew_quote": "\"Overcast in Altrincham, eh? Sounds perfect for a good old curry — but I hope it won't rain on my parade while I'm out trying to look fabulous!\""
 }
