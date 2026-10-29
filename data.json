@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-29T17:57:43.169460+00:00",
+  "timestamp": "2026-10-29T18:28:42.023408+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 20.2,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 11.0,
+    "outdoor_temp": 10.7,
     "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 316.0,
-    "pressure": 1030.1,
+    "wind_direction": 312.0,
+    "pressure": 1030.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 803.0,
-    "gas_consumption": 169.852343172917,
+    "power_usage": 848.0,
+    "gas_consumption": 170.227349470417,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "GSA left sensitive Google Drive files open to staff, contractors",
     "Oracle wants to bill you for every AI task, not just every seat"
   ],
-  "crew_quote": "\"Blimey, with a temperature like this, I could've opened a curry shop in Altrincham! Might've even tempted Cat to stop admiring himself for a minute!\""
+  "crew_quote": "\"With all this overcast rubbish, I’d say it’s the perfect weather for a good curry! Just as well the ship's heating’s stuck on 20.2°C; it’s like a sauna in here!\""
 }
