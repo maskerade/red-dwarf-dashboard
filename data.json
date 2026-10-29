@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-29T08:08:30.151962+00:00",
+  "timestamp": "2026-10-29T08:39:30.915546+00:00",
   "house": {
-    "indoor_temp": 19.9,
+    "indoor_temp": 19.8,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 10.2,
-    "outdoor_humidity": 99.0,
-    "wind_speed": 0.4,
-    "wind_direction": 74.0,
-    "pressure": 1029.9,
+    "outdoor_temp": 10.7,
+    "outdoor_humidity": 98.0,
+    "wind_speed": 0.0,
+    "wind_direction": 72.0,
+    "pressure": 1030.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 348.0,
+    "power_usage": 351.0,
     "gas_consumption": 169.135161770416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Tape is so not dead that Fujifilm will increase production capacity 5x",
     "Google struggling to make AI Mode searches pay"
   ],
-  "crew_quote": "\"Blimey, it's misty out there, just like my last attempt at making a curry—cloudy and a bit dodgy, but at least it didn't come with that 'possible dwarf planet' bit!\""
+  "crew_quote": "\"Oi, with this mist outside, you'd think someone spilled a curry all over the weather report, but at least the indoor temp's perfect for a nice pint!\""
 }
