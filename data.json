@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-29T18:59:42.756056+00:00",
+  "timestamp": "2026-10-29T19:30:43.678561+00:00",
   "house": {
-    "indoor_temp": 21.4,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 9.3,
-    "outdoor_humidity": 98.0,
+    "indoor_temp": 21.1,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 8.9,
+    "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 312.0,
-    "pressure": 1030.3,
+    "pressure": 1030.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 668.0,
+    "power_usage": 606.0,
     "gas_consumption": 170.60227630875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "GSA left sensitive Google Drive files open to staff, contractors",
     "Oracle wants to bill you for every AI task, not just every seat"
   ],
-  "crew_quote": "\"Ah, the weather's as gloomy as my chances of getting a decent curry tonight! Still, at least my hair looks fabulous against this cloudy backdrop!\""
+  "crew_quote": "\"With temperatures down to 10°C outside, I think I’ll stay in and eat a curry while we wait for that new Ubuntu. Who knew you could upgrade your desktop and your dinner at the same time?\""
 }
