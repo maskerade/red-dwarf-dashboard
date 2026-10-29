@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-29T07:06:28.829185+00:00",
+  "timestamp": "2026-10-29T07:37:30.325072+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 19.9,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 9.5,
+    "outdoor_temp": 9.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 67.0,
-    "pressure": 1029.6,
+    "wind_direction": 63.0,
+    "pressure": 1029.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 345.0,
+    "power_usage": 390.0,
     "gas_consumption": 169.135161770416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Tape is so not dead that Fujifilm will increase production capacity 5x",
     "Google struggling to make AI Mode searches pay"
   ],
-  "crew_quote": "\"With all this mist outside, it’s perfect curry weather! Nothing like a warm bowl of vindaloo to chase away the gloom—just like my chances of finding a dwarf planet!\""
+  "crew_quote": "\"Feels just like a proper English day, misty and a bit chilly—perfect for a curry, if you ask me! Bet even Google's fancy new gadget wouldn't know how to get your takeaway right.\""
 }
