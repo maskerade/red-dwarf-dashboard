@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-29T14:20:36.298098+00:00",
+  "timestamp": "2026-10-29T14:51:36.559527+00:00",
   "house": {
     "indoor_temp": 20.5,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 14.2,
+    "indoor_humidity": 59.0,
+    "outdoor_temp": 13.9,
     "outdoor_humidity": 87.0,
-    "wind_speed": 0.0,
-    "wind_direction": 268.0,
-    "pressure": 1030.2,
+    "wind_speed": 0.4,
+    "wind_direction": 102.0,
+    "pressure": 1030.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 488.0,
+    "power_usage": 525.0,
     "gas_consumption": 169.852343172917,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Systemd adds support for Rust",
     "Critical launch for Vulcan as ULA targets Friday the 13th",
     "Shortlist of age checks for the UK's under-16 social media ban is out, 'some' adults will need verifying",
-    "Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour",
-    "LibreOffice's 'no AI' stance meets LLM-assisted code"
+    "Attackers turn GitHub issues into supply chain campaign against 61 public repos in less than an hour"
   ],
-  "crew_quote": "\"Right, so it's overcast in Llandudno and we're using 488 kWh—perfect weather for a nice curry night while we wait for the Vulcan launch! What's a little cloud when you've got spice?\""
+  "crew_quote": "\"Blimey, it’s 14 degrees and overcast! Perfect weather for a curry, but only if I can find a way to cook it without blowing us up this time!\""
 }
