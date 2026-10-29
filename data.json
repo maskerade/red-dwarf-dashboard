@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-29T04:31:28.215832+00:00",
+  "timestamp": "2026-10-29T05:02:29.304806+00:00",
   "house": {
     "indoor_temp": 20.2,
     "indoor_humidity": 57.0,
     "outdoor_temp": 9.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 77.0,
-    "pressure": 1028.6,
+    "wind_direction": 84.0,
+    "pressure": 1028.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 376.0,
@@ -16,18 +16,18 @@
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
+      "temp": 8.0,
       "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-10-29",
           "max": 14.0,
-          "min": 8.0
+          "min": 7.0
         },
         {
           "date": "2026-10-30",
-          "max": 15.0,
-          "min": 8.0
+          "max": 14.0,
+          "min": 7.0
         },
         {
           "date": "2026-10-31",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 12.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 11.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-29",
@@ -81,11 +81,11 @@
   },
   "astronomy": {
     "sunrise": "07:02 AM",
-    "sunset": "04:42 PM",
+    "sunset": "04:43 PM",
     "moon_phase": "Waning Gibbous",
     "moon_illumination": "89",
-    "moonrise": "06:15 PM",
-    "moonset": "11:58 AM"
+    "moonrise": "06:16 PM",
+    "moonset": "11:57 AM"
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
@@ -94,5 +94,5 @@
     "Anthropic engineer declares the coding interview dead",
     "Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble"
   ],
-  "crew_quote": "\"I'm telling you, mate, it’s so misty outside I could lose a curry in it and never find it again! Just look at the weather—it's not just mist, it's like my last date!\""
+  "crew_quote": "\"You know, Lister, with all this mist, it’s like we’re living in a curry-scented cloud—perfect for a good old-fashioned curry night!\""
 }
