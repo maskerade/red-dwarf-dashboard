@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-29T08:39:30.915546+00:00",
+  "timestamp": "2026-10-29T09:10:31.815894+00:00",
   "house": {
     "indoor_temp": 19.8,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 10.7,
-    "outdoor_humidity": 98.0,
+    "outdoor_temp": 11.3,
+    "outdoor_humidity": 97.0,
     "wind_speed": 0.0,
-    "wind_direction": 72.0,
-    "pressure": 1030.2,
+    "wind_direction": 68.0,
+    "pressure": 1030.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 351.0,
+    "power_usage": 539.0,
     "gas_consumption": 169.135161770416,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Admin dropped the F-bomb in a password to show hackers who was really 1337",
+    "HPE puts storage to work on AI’s expensive memory problem",
     "Google's Gemini 4 Carbon looks like a diamond in the rough",
-    "Boffin's software found a possible dwarf planet - a result so rare he thought it must be a bug",
-    "Tape is so not dead that Fujifilm will increase production capacity 5x",
-    "Google struggling to make AI Mode searches pay"
+    "Boffin's software found a possible dwarf planet - a result so rare he thought it must be a bug"
   ],
-  "crew_quote": "\"Oi, with this mist outside, you'd think someone spilled a curry all over the weather report, but at least the indoor temp's perfect for a nice pint!\""
+  "crew_quote": "\"With all this mist outside, I reckon we should just huddle together and have a curry, it might warm up the place better than my cooking does!\""
 }
