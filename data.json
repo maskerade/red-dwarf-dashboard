@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-29T18:28:42.023408+00:00",
+  "timestamp": "2026-10-29T18:59:42.756056+00:00",
   "house": {
-    "indoor_temp": 20.2,
-    "indoor_humidity": 58.0,
-    "outdoor_temp": 10.7,
-    "outdoor_humidity": 97.0,
+    "indoor_temp": 21.4,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 9.3,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
     "wind_direction": 312.0,
-    "pressure": 1030.4,
+    "pressure": 1030.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 848.0,
-    "gas_consumption": 170.227349470417,
+    "power_usage": 668.0,
+    "gas_consumption": 170.60227630875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 10.0,
-      "conditions": "Overcast ",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-29",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Patchy rain nearby",
+      "temp": 12.0,
+      "conditions": "Overcast ",
       "forecast": [
         {
           "date": "2026-10-29",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 8.0,
-      "conditions": "Overcast ",
+      "temp": 9.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-29",
@@ -94,5 +94,5 @@
     "GSA left sensitive Google Drive files open to staff, contractors",
     "Oracle wants to bill you for every AI task, not just every seat"
   ],
-  "crew_quote": "\"With all this overcast rubbish, I’d say it’s the perfect weather for a good curry! Just as well the ship's heating’s stuck on 20.2°C; it’s like a sauna in here!\""
+  "crew_quote": "\"Ah, the weather's as gloomy as my chances of getting a decent curry tonight! Still, at least my hair looks fabulous against this cloudy backdrop!\""
 }
