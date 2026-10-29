@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-29T04:00:30.629096+00:00",
+  "timestamp": "2026-10-29T04:31:28.215832+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.2,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 9.6,
+    "outdoor_temp": 9.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 77.0,
     "pressure": 1028.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 390.0,
+    "power_usage": 376.0,
     "gas_consumption": 169.135161770416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Anthropic engineer declares the coding interview dead",
     "Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble"
   ],
-  "crew_quote": "\"Ah, perfect weather for a nice warm curry — just what you need when it’s misty outside and a robot medic’s trying to figure out why you’ve got a dodgy stomach!\""
+  "crew_quote": "\"I'm telling you, mate, it’s so misty outside I could lose a curry in it and never find it again! Just look at the weather—it's not just mist, it's like my last date!\""
 }
