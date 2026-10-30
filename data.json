@@ -1,29 +1,24 @@
 {
-  "timestamp": "2026-10-30T00:40:47.445447+00:00",
+  "timestamp": "2026-10-30T01:11:47.757590+00:00",
   "house": {
-    "indoor_temp": 20.3,
-    "indoor_humidity": 59.0,
-    "outdoor_temp": 6.7,
+    "indoor_temp": 20.2,
+    "indoor_humidity": 58.0,
+    "outdoor_temp": 6.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 283.0,
     "pressure": 1030.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 390.0,
+    "power_usage": 384.0,
     "gas_consumption": 170.60227630875,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 9.0,
-      "conditions": "Clear ",
+      "temp": 8.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
-        {
-          "date": "2026-10-29",
-          "max": 14.0,
-          "min": 7.0
-        },
         {
           "date": "2026-10-30",
           "max": 15.0,
@@ -33,18 +28,18 @@
           "date": "2026-10-31",
           "max": 14.0,
           "min": 7.0
+        },
+        {
+          "date": "2026-11-01",
+          "max": 13.0,
+          "min": 6.0
         }
       ]
     },
     "overseal": {
       "temp": 9.0,
-      "conditions": "Overcast ",
+      "conditions": "Mist",
       "forecast": [
-        {
-          "date": "2026-10-29",
-          "max": 15.0,
-          "min": 8.0
-        },
         {
           "date": "2026-10-30",
           "max": 15.0,
@@ -53,6 +48,11 @@
         {
           "date": "2026-10-31",
           "max": 15.0,
+          "min": 6.0
+        },
+        {
+          "date": "2026-11-01",
+          "max": 12.0,
           "min": 6.0
         }
       ]
@@ -62,11 +62,6 @@
       "conditions": "Mist",
       "forecast": [
         {
-          "date": "2026-10-29",
-          "max": 15.0,
-          "min": 6.0
-        },
-        {
           "date": "2026-10-30",
           "max": 15.0,
           "min": 6.0
@@ -75,17 +70,22 @@
           "date": "2026-10-31",
           "max": 15.0,
           "min": 6.0
+        },
+        {
+          "date": "2026-11-01",
+          "max": 12.0,
+          "min": 4.0
         }
       ]
     }
   },
   "astronomy": {
-    "sunrise": "07:02 AM",
-    "sunset": "04:43 PM",
+    "sunrise": "07:04 AM",
+    "sunset": "04:41 PM",
     "moon_phase": "Waning Gibbous",
-    "moon_illumination": "89",
-    "moonrise": "06:16 PM",
-    "moonset": "11:57 AM"
+    "moon_illumination": "81",
+    "moonrise": "07:31 PM",
+    "moonset": "12:56 PM"
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
@@ -94,5 +94,5 @@
     "Startup wants to make AI agents safe for DevOps duty",
     "Topcoat enables Rust to render server-side web apps"
   ],
-  "crew_quote": "\"Oi, it’s a perfect day for a curry, but I guess the weather’s a bit like my love life: overcast and full of mist!\""
+  "crew_quote": "\"With all this mist around, I'm starting to think the weather's just as confused as the AI developers — at least my curry's still steaming!\""
 }
