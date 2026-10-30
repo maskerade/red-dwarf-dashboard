@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-30T20:19:14.568150+00:00",
+  "timestamp": "2026-10-30T20:50:14.849269+00:00",
   "house": {
-    "indoor_temp": 21.0,
+    "indoor_temp": 20.8,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 6.4,
+    "outdoor_temp": 6.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 276.0,
-    "pressure": 1032.2,
+    "pressure": 1032.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 851.0,
+    "power_usage": 3200.0,
     "gas_consumption": 173.509132900833,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Voyager 1 gives controllers the silent treatment",
     "AlpineBSD announced – an AI-free FOSS OS"
   ],
-  "crew_quote": "\"With the weather being a lovely 10 degrees, I think it's perfect for a curry night—nothing like a bit of spice to warm the cockles, eh?\""
+  "crew_quote": "\"Ah, it’s a lovely 9 degrees out there, just warm enough to keep the curry from freezing while we wait for the next episode of our cosmic disaster!\""
 }
