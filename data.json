@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-10-30T05:50:53.822757+00:00",
+  "timestamp": "2026-10-30T06:21:54.160873+00:00",
   "house": {
-    "indoor_temp": 19.5,
+    "indoor_temp": 19.4,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 4.7,
+    "outdoor_temp": 4.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 284.0,
-    "pressure": 1030.4,
+    "pressure": 1030.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
     "power_usage": 368.0,
@@ -94,5 +94,5 @@
     "Howler will have AI answer your questions, then burn the chat",
     "Startup wants to make AI agents safe for DevOps duty"
   ],
-  "crew_quote": "\"You know, folks, the only thing more foggy than the weather outside is my love life—well, that and the latest tech news. Can someone pass the curry while we figure this mess out?\""
+  "crew_quote": "\"Look at that mist, it’s like the universe is trying to tell us something — probably that we’re all doomed, or that I need a curry to warm me up!\""
 }
