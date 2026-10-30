@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-30T13:36:02.154900+00:00",
+  "timestamp": "2026-10-30T14:07:03.110958+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 20.8,
     "indoor_humidity": 57.0,
     "outdoor_temp": 13.1,
-    "outdoor_humidity": 87.0,
-    "wind_speed": 0.0,
-    "wind_direction": 356.0,
-    "pressure": 1031.4,
+    "outdoor_humidity": 88.0,
+    "wind_speed": 1.4,
+    "wind_direction": 292.0,
+    "pressure": 1031.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 584.0,
+    "power_usage": 514.0,
     "gas_consumption": 172.809199856666,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
-    "Accenture AI agents are sifting through applicants",
-    "Domestic droid gone amok? Don't worry, you're covered",
-    "UK Shelly reseller warns payment data stolen after malware found on website",
-    "Google's search revenue Ferrari hits an AI-powered speed bump"
+    "NASA ponders a Hubble servicing mission or a controlled deorbit",
+    "AI projects not paying off? Keep at it, says Uni Productivity Institute",
+    "NHS quango warns of risk to GP patient data after website vendor collapse",
+    "British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many"
   ],
-  "crew_quote": "\"With all this cloudiness, I'm starting to think the weather's as confused as I am about why we still haven't run out of curry!\""
+  "crew_quote": "\"14 degrees and partly cloudy? I could make a curry with that kind of weather, but I might just stick to splurging on a good takeaway instead.\""
 }
