@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-30T23:25:14.594319+00:00",
+  "timestamp": "2026-10-30T23:56:15.747777+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.1,
     "indoor_humidity": 58.0,
-    "outdoor_temp": 5.1,
+    "outdoor_temp": 4.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 277.0,
-    "pressure": 1033.3,
+    "pressure": 1033.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 536.0,
+    "power_usage": 621.0,
     "gas_consumption": 173.509132900833,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
-    "GM cracks the petty cash box for multistate driver tracking settlement",
-    "Anthropic: That Claude Code extension compromise… couldn't be us",
-    "Voyager 1 gives controllers the silent treatment",
-    "AlpineBSD announced – an AI-free FOSS OS"
+    "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts",
+    "HTTP/3 is faster with some work and help from Cloudflare",
+    "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
+    "GM cracks the petty cash box for multistate driver tracking settlement"
   ],
-  "crew_quote": "\"The weather's as confused as I am about the petty cash box—one minute it’s clear, the next it’s overcast! Just like my love life, really.\""
+  "crew_quote": "\"With the weather all cloudy and chilly, I reckon it’s a perfect day for a curry—who needs fancy GPUs when you can have a hot meal instead?\""
 }
