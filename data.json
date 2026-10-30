@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-30T08:56:58.019868+00:00",
+  "timestamp": "2026-10-30T09:27:57.332617+00:00",
   "house": {
-    "indoor_temp": 19.4,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 9.8,
+    "indoor_temp": 19.9,
+    "indoor_humidity": 56.0,
+    "outdoor_temp": 10.5,
     "outdoor_humidity": 99.0,
-    "wind_speed": 1.1,
-    "wind_direction": 289.0,
-    "pressure": 1031.5,
+    "wind_speed": 0.0,
+    "wind_direction": 356.0,
+    "pressure": 1031.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 545.0,
-    "gas_consumption": 171.002285275833,
+    "power_usage": 505.0,
+    "gas_consumption": 171.327194144583,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "AWS installs an AI accelerator every 14 seconds and eyes $1 trillion annual revenue",
     "In the year AI re-wrote the infosec rulebook, it’s comforting to know crypto exchanges still have bad security"
   ],
-  "crew_quote": "\"Right, we've got a lovely 19.4 degrees indoors, but outside looks like someone's knocked over a pot of grey paint! Let’s just hope the curry's still cooking nicely!\""
+  "crew_quote": "\"With this mist, it's like a curry that's lost its spice—just a big ol' bland fog, like me when I can't find a decent curry in this ship!\""
 }
