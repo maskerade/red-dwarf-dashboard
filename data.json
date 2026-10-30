@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-30T13:05:01.858819+00:00",
+  "timestamp": "2026-10-30T13:36:02.154900+00:00",
   "house": {
-    "indoor_temp": 21.2,
-    "indoor_humidity": 56.0,
-    "outdoor_temp": 13.2,
-    "outdoor_humidity": 88.0,
-    "wind_speed": 0.4,
-    "wind_direction": 269.0,
-    "pressure": 1031.5,
+    "indoor_temp": 20.9,
+    "indoor_humidity": 57.0,
+    "outdoor_temp": 13.1,
+    "outdoor_humidity": 87.0,
+    "wind_speed": 0.0,
+    "wind_direction": 356.0,
+    "pressure": 1031.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 528.0,
+    "power_usage": 584.0,
     "gas_consumption": 172.809199856666,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 13.0,
+      "temp": 14.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 13.0,
-      "conditions": "Cloudy ",
+      "temp": 15.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-30",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 14.0,
+      "temp": 15.0,
       "conditions": "Overcast ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "UK Shelly reseller warns payment data stolen after malware found on website",
     "Google's search revenue Ferrari hits an AI-powered speed bump"
   ],
-  "crew_quote": "\"Well, it's a lovely 13 degrees out there, but I’d still prefer it to be 21—perfect temperature for a nice curry and some utterly pointless banter!\""
+  "crew_quote": "\"With all this cloudiness, I'm starting to think the weather's as confused as I am about why we still haven't run out of curry!\""
 }
