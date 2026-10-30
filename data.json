@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-30T03:15:50.930974+00:00",
+  "timestamp": "2026-10-30T03:46:50.671958+00:00",
   "house": {
     "indoor_temp": 19.8,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 5.3,
+    "outdoor_temp": 5.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 283.0,
-    "pressure": 1030.2,
+    "wind_direction": 284.0,
+    "pressure": 1030.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 348.0,
+    "power_usage": 376.0,
     "gas_consumption": 170.60227630875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Howler will have AI answer your questions, then burn the chat",
     "Startup wants to make AI agents safe for DevOps duty"
   ],
-  "crew_quote": "\"Weather's about as appealing as a curry made with last week's leftovers! I reckon our indoor temps are better company than the misty mess outside.\""
+  "crew_quote": "\"Blimey, it's mistier than my last curry trying to remember where I left my pants! Who knew the weather could be as confused as an AI developer with bugs?\""
 }
