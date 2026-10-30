@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-30T04:48:52.818638+00:00",
+  "timestamp": "2026-10-30T05:19:52.664148+00:00",
   "house": {
     "indoor_temp": 19.6,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 5.7,
+    "outdoor_temp": 5.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 283.0,
+    "wind_direction": 284.0,
     "pressure": 1030.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 365.0,
+    "power_usage": 396.0,
     "gas_consumption": 170.60227630875,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Howler will have AI answer your questions, then burn the chat",
     "Startup wants to make AI agents safe for DevOps duty"
   ],
-  "crew_quote": "\"Blimey, it's misty out there! Seems like the weather's trying to imitate my last curry - all fog and no flavor!\""
+  "crew_quote": "\"At least the mist outside is cooler than my brain after hearing about Intel's plummet; I prefer my chips crispy, not crushed!\""
 }
