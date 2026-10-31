@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-31T23:11:42.850987+00:00",
+  "timestamp": "2026-10-31T23:42:44.370041+00:00",
   "house": {
-    "indoor_temp": 20.6,
+    "indoor_temp": 20.3,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 6.4,
+    "outdoor_temp": 5.9,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 329.0,
-    "pressure": 1035.6,
+    "pressure": 1035.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 795.0,
+    "power_usage": 803.0,
     "gas_consumption": 176.408564499166,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 7.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 6.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-31",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 8.0,
-      "conditions": "Clear ",
+      "temp": 7.0,
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-31",
@@ -94,5 +94,5 @@
     "Amazon sends chills through its workforce with mixed message memo about AI use",
     "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out"
   ],
-  "crew_quote": "\"Ah, it’s a brilliant 20.6°C in here! Perfect curry cooking weather, though I’ll be honest, I’d rather be anywhere but with a haiku-spouting satellite.\""
+  "crew_quote": "\"Is it just me, or is the outside world a bit chillier than my curry last night? I mean, 6°C? What kind of weather is that for a bit of fresh air?\""
 }
