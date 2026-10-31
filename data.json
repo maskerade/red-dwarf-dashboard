@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-31T09:14:30.540657+00:00",
+  "timestamp": "2026-10-31T09:45:27.298920+00:00",
   "house": {
-    "indoor_temp": 18.7,
+    "indoor_temp": 19.6,
     "indoor_humidity": 55.0,
     "outdoor_temp": 7.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 334.0,
+    "wind_direction": 336.0,
     "pressure": 1034.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 427.0,
-    "gas_consumption": 173.509132900833,
+    "power_usage": 466.0,
+    "gas_consumption": 174.184145129166,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 8.0,
+      "temp": 9.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
@@ -27,18 +27,18 @@
         {
           "date": "2026-11-01",
           "max": 12.0,
-          "min": 6.0
+          "min": 5.0
         },
         {
           "date": "2026-11-02",
-          "max": 11.0,
+          "max": 10.0,
           "min": 4.0
         }
       ]
     },
     "overseal": {
-      "temp": 8.0,
-      "conditions": "Mist",
+      "temp": 9.0,
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-31",
@@ -53,12 +53,12 @@
         {
           "date": "2026-11-02",
           "max": 11.0,
-          "min": 4.0
+          "min": 5.0
         }
       ]
     },
     "llandudno": {
-      "temp": 6.0,
+      "temp": 8.0,
       "conditions": "Cloudy ",
       "forecast": [
         {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out",
     "Backbone of a beast – charting Nvidia's rise to networking titan",
     "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts",
-    "HTTP/3 is faster with some work and help from Cloudflare",
-    "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see"
+    "HTTP/3 is faster with some work and help from Cloudflare"
   ],
-  "crew_quote": "\"Blimey, it's colder outside than my ex's heart! I reckon a good curry would warm us up, or we could just cuddle up with these power-hungry machines instead!\""
+  "crew_quote": "\"Ah, it’s a lovely 9°C out there, perfect for a nice curry, just make sure it doesn't get too cloudy—don’t want my takeaway getting soggy!\""
 }
