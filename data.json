@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-31T11:49:30.066169+00:00",
+  "timestamp": "2026-10-31T12:20:32.764595+00:00",
   "house": {
-    "indoor_temp": 20.9,
+    "indoor_temp": 20.6,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 10.3,
-    "outdoor_humidity": 93.0,
-    "wind_speed": 0.0,
-    "wind_direction": 286.0,
-    "pressure": 1034.2,
+    "outdoor_temp": 10.7,
+    "outdoor_humidity": 91.0,
+    "wind_speed": 2.9,
+    "wind_direction": 288.0,
+    "pressure": 1034.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 491.0,
+    "power_usage": 578.0,
     "gas_consumption": 174.959003339166,
     "heating_active": false
   },
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s",
     "Amazon sends chills through its workforce with mixed message memo about AI use",
     "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out",
-    "Backbone of a beast – charting Nvidia's rise to networking titan",
-    "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts"
+    "Backbone of a beast – charting Nvidia's rise to networking titan"
   ],
-  "crew_quote": "\"Cor, it's as overcast as my last five dates! At least the indoor temp’s decent; I might just kick back with a curry and forget about Amazon giving everyone the heebie-jeebies!\""
+  "crew_quote": "\"Right, so it’s 13 degrees and overcast outside — perfect weather for a curry binge indoors, not that I’d waste my time worrying about AI nonsense. Let’s just eat!\""
 }
