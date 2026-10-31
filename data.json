@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-31T03:33:19.569166+00:00",
+  "timestamp": "2026-10-31T04:04:19.476150+00:00",
   "house": {
     "indoor_temp": 19.4,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 3.8,
+    "outdoor_temp": 3.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 278.0,
     "pressure": 1033.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 376.0,
+    "power_usage": 418.0,
     "gas_consumption": 173.509132900833,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
     "GM cracks the petty cash box for multistate driver tracking settlement"
   ],
-  "crew_quote": "\"Well, it's a bit foggy out, but at least it's warmer than my last curry — 19.4 degrees is practically tropical! Just don’t expect any good takeaways from the clouds.\""
+  "crew_quote": "\"Well, it's 7 degrees and foggy outside, so let’s just stay in and whip up a nice curry, eh? At least the indoor temp’s not as chilly as my last date!\""
 }
