@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-31T02:31:20.229131+00:00",
+  "timestamp": "2026-10-31T03:02:18.753069+00:00",
   "house": {
-    "indoor_temp": 19.6,
+    "indoor_temp": 19.5,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 4.1,
+    "outdoor_temp": 3.7,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 278.0,
     "pressure": 1033.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 421.0,
+    "power_usage": 379.0,
     "gas_consumption": 173.509132900833,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
     "GM cracks the petty cash box for multistate driver tracking settlement"
   ],
-  "crew_quote": "\"With all this mist, it's like someone’s spilled a curry all over the sky. But at least the indoors is toasty; I’m starting to sweat like Rimmer on a performance review!\""
+  "crew_quote": "\"Blimey, it's 8 degrees out and I’m freezing me bits off! At least the indoors is toasty at 19.5 — I could whip up a curry in here and stay warm while I’m at it!\""
 }
