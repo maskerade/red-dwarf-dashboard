@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-31T05:37:21.999072+00:00",
+  "timestamp": "2026-10-31T06:08:22.818590+00:00",
   "house": {
-    "indoor_temp": 19.1,
+    "indoor_temp": 19.0,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 4.3,
+    "outdoor_temp": 4.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 278.0,
     "pressure": 1033.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 376.0,
+    "power_usage": 345.0,
     "gas_consumption": 173.509132900833,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
     "GM cracks the petty cash box for multistate driver tracking settlement"
   ],
-  "crew_quote": "\"You know, with it being 7 degrees and cloudy, a nice curry might just warm us up. But I'm not cooking if Rimmer's just going to moan about the humidity again!\""
+  "crew_quote": "\"7°C in Altrincham and misty? Perfect weather for a curry! Let's spice up this drab day before the computer gets a GPU job and we end up with low payouts!\""
 }
