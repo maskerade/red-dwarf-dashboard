@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-31T06:39:23.756678+00:00",
+  "timestamp": "2026-10-31T07:10:23.382930+00:00",
   "house": {
-    "indoor_temp": 19.0,
+    "indoor_temp": 18.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 5.0,
+    "outdoor_temp": 5.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 278.0,
-    "pressure": 1033.6,
+    "wind_direction": 343.0,
+    "pressure": 1033.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 354.0,
+    "power_usage": 370.0,
     "gas_consumption": 173.509132900833,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
     "GM cracks the petty cash box for multistate driver tracking settlement"
   ],
-  "crew_quote": "\"Bloody fog in Overseal, I can barely see me curry! Maybe I'll just have to rely on my fantastic sense of smell to find the takeaway!\""
+  "crew_quote": "\"Blimey, it's colder outside than a vegan's heart at a meat festival! Let’s whip up a good curry to warm up this ship before it turns into a freezer!\""
 }
