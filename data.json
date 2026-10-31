@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-31T21:07:41.770435+00:00",
+  "timestamp": "2026-10-31T21:38:40.799497+00:00",
   "house": {
-    "indoor_temp": 20.2,
+    "indoor_temp": 20.0,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 4.8,
+    "outdoor_temp": 5.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 329.0,
-    "pressure": 1035.1,
+    "pressure": 1035.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 958.0,
+    "power_usage": 767.0,
     "gas_consumption": 175.634019375416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Amazon sends chills through its workforce with mixed message memo about AI use",
     "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out"
   ],
-  "crew_quote": "\"Weather’s clear, so I guess we can’t blame the mist for your bad hair day, Rimmer! But I’d still take a curry indoors, where it’s warm, any day!\""
+  "crew_quote": "\"Isn’t it lovely outside? Just a crisp 7 degrees—perfect weather for a nice curry while pondering the mysteries of Google’s satirical poetry!\""
 }
