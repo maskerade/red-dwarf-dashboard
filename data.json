@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-10-31T21:38:40.799497+00:00",
+  "timestamp": "2026-10-31T22:09:42.792081+00:00",
   "house": {
-    "indoor_temp": 20.0,
+    "indoor_temp": 20.7,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 5.5,
+    "outdoor_temp": 6.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 329.0,
-    "pressure": 1035.3,
+    "pressure": 1035.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 767.0,
-    "gas_consumption": 175.634019375416,
+    "power_usage": 997.0,
+    "gas_consumption": 176.33403444,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 7.0,
-      "conditions": "Clear ",
+      "conditions": "Partly Cloudy ",
       "forecast": [
         {
           "date": "2026-10-31",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 6.0,
-      "conditions": "Mist",
+      "temp": 5.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-31",
@@ -94,5 +94,5 @@
     "Amazon sends chills through its workforce with mixed message memo about AI use",
     "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out"
   ],
-  "crew_quote": "\"Isn’t it lovely outside? Just a crisp 7 degrees—perfect weather for a nice curry while pondering the mysteries of Google’s satirical poetry!\""
+  "crew_quote": "\"Blimey, it's so chilly outside that even my curry's considering moving in here to enjoy the warmth—maybe I should invite it for a drink!\""
 }
