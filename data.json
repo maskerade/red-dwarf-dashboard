@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-10-31T03:02:18.753069+00:00",
+  "timestamp": "2026-10-31T03:33:19.569166+00:00",
   "house": {
-    "indoor_temp": 19.5,
+    "indoor_temp": 19.4,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 3.7,
+    "outdoor_temp": 3.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 278.0,
     "pressure": 1033.2,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 379.0,
+    "power_usage": 376.0,
     "gas_consumption": 173.509132900833,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 8.0,
+      "temp": 7.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -27,7 +27,7 @@
         {
           "date": "2026-11-01",
           "max": 12.0,
-          "min": 5.0
+          "min": 6.0
         },
         {
           "date": "2026-11-02",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 8.0,
-      "conditions": "Mist",
+      "temp": 7.0,
+      "conditions": "Fog",
       "forecast": [
         {
           "date": "2026-10-31",
@@ -48,7 +48,7 @@
         {
           "date": "2026-11-01",
           "max": 12.0,
-          "min": 6.0
+          "min": 5.0
         },
         {
           "date": "2026-11-02",
@@ -69,11 +69,11 @@
         {
           "date": "2026-11-01",
           "max": 12.0,
-          "min": 3.0
+          "min": 4.0
         },
         {
           "date": "2026-11-02",
-          "max": 10.0,
+          "max": 11.0,
           "min": 2.0
         }
       ]
@@ -94,5 +94,5 @@
     "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
     "GM cracks the petty cash box for multistate driver tracking settlement"
   ],
-  "crew_quote": "\"Blimey, it's 8 degrees out and I’m freezing me bits off! At least the indoors is toasty at 19.5 — I could whip up a curry in here and stay warm while I’m at it!\""
+  "crew_quote": "\"Well, it's a bit foggy out, but at least it's warmer than my last curry — 19.4 degrees is practically tropical! Just don’t expect any good takeaways from the clouds.\""
 }
