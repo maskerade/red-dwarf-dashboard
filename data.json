@@ -1,32 +1,32 @@
 {
-  "timestamp": "2026-10-31T20:05:40.254508+00:00",
+  "timestamp": "2026-10-31T20:36:42.709076+00:00",
   "house": {
-    "indoor_temp": 19.2,
-    "indoor_humidity": 57.0,
-    "outdoor_temp": 5.7,
+    "indoor_temp": 20.5,
+    "indoor_humidity": 56.0,
+    "outdoor_temp": 5.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 329.0,
-    "pressure": 1034.6,
+    "pressure": 1034.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 890.0,
-    "gas_consumption": 175.284008450833,
+    "power_usage": 3293.0,
+    "gas_consumption": 175.634019375416,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 8.0,
-      "conditions": "Partly Cloudy ",
+      "temp": 7.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-31",
           "max": 14.0,
-          "min": 7.0
+          "min": 6.0
         },
         {
           "date": "2026-11-01",
-          "max": 12.0,
+          "max": 11.0,
           "min": 5.0
         },
         {
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 9.0,
-      "conditions": "Cloudy ",
+      "temp": 8.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-10-31",
@@ -47,24 +47,24 @@
         },
         {
           "date": "2026-11-01",
-          "max": 12.0,
+          "max": 13.0,
           "min": 5.0
         },
         {
           "date": "2026-11-02",
           "max": 11.0,
-          "min": 4.0
+          "min": 5.0
         }
       ]
     },
     "llandudno": {
       "temp": 6.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-10-31",
           "max": 15.0,
-          "min": 6.0
+          "min": 5.0
         },
         {
           "date": "2026-11-01",
@@ -94,5 +94,5 @@
     "Amazon sends chills through its workforce with mixed message memo about AI use",
     "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out"
   ],
-  "crew_quote": "\"With this lovely 19.2 degrees indoors, it's the perfect temperature for a curry! Who cares if it's cloudy out — I can't even see the weather through this pile of dirty dishes!\""
+  "crew_quote": "\"Clear skies and a balmy 20.5°C inside—just the right conditions for me to whip up a curry that’s hotter than a Goth’s computer screen in a misty Llandudno!\""
 }
