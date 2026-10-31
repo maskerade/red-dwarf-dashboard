@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-31T19:03:40.794908+00:00",
+  "timestamp": "2026-10-31T19:34:40.179000+00:00",
   "house": {
     "indoor_temp": 19.1,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 6.2,
+    "outdoor_temp": 6.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 326.0,
-    "pressure": 1034.4,
+    "pressure": 1034.6,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 649.0,
+    "power_usage": 654.0,
     "gas_consumption": 174.959003339166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Amazon sends chills through its workforce with mixed message memo about AI use",
     "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out"
   ],
-  "crew_quote": "\"With the weather being as cloudy as my last relationship, I reckon it's the perfect day for a curry to cheer myself up!\""
+  "crew_quote": "\"Ah, lovely weather for a curry, isn't it? I mean, what's a little humidity when you can spice things up with a proper vindaloo?\""
 }
