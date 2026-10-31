@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-31T04:35:20.615892+00:00",
+  "timestamp": "2026-10-31T05:06:21.005088+00:00",
   "house": {
     "indoor_temp": 19.2,
     "indoor_humidity": 56.0,
@@ -7,17 +7,17 @@
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 278.0,
-    "pressure": 1033.2,
+    "pressure": 1033.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 382.0,
+    "power_usage": 432.0,
     "gas_consumption": 173.509132900833,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 7.0,
-      "conditions": "Partly Cloudy ",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-10-31",
@@ -38,7 +38,7 @@
     },
     "overseal": {
       "temp": 7.0,
-      "conditions": "Fog",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-10-31",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 7.0,
+      "temp": 6.0,
       "conditions": "Partly Cloudy ",
       "forecast": [
         {
@@ -94,5 +94,5 @@
     "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
     "GM cracks the petty cash box for multistate driver tracking settlement"
   ],
-  "crew_quote": "\"Seven degrees and foggy? At least it’s not a balmy night for a lovely curry, eh? Can't beat the heat of a good vindaloo!\""
+  "crew_quote": "\"Seven degrees and misty? Sounds like the perfect weather for a curry binge, as long as I can keep the humidity from turning it into soup!\""
 }
