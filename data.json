@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-10-31T09:45:27.298920+00:00",
+  "timestamp": "2026-10-31T10:16:34.136525+00:00",
   "house": {
-    "indoor_temp": 19.6,
-    "indoor_humidity": 55.0,
-    "outdoor_temp": 7.6,
+    "indoor_temp": 20.2,
+    "indoor_humidity": 54.0,
+    "outdoor_temp": 7.7,
     "outdoor_humidity": 99.0,
-    "wind_speed": 0.0,
-    "wind_direction": 336.0,
-    "pressure": 1034.9,
+    "wind_speed": 1.1,
+    "wind_direction": 328.0,
+    "pressure": 1034.8,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 466.0,
-    "gas_consumption": 174.184145129166,
+    "power_usage": 486.0,
+    "gas_consumption": 174.23406761625,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "Darkbloom, which allowed Mac users to rent out their GPUs for AI inference, warns of low payouts",
     "HTTP/3 is faster with some work and help from Cloudflare"
   ],
-  "crew_quote": "\"Ah, it’s a lovely 9°C out there, perfect for a nice curry, just make sure it doesn't get too cloudy—don’t want my takeaway getting soggy!\""
+  "crew_quote": "\"Here we are, stuck on a spaceship with all this cloudiness outside, and I'm still hotter than a curry at 20.2°C! Talk about a cosmic joke!\""
 }
