@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-10-31T23:42:44.370041+00:00",
+  "timestamp": "2026-11-01T00:13:44.793172+00:00",
   "house": {
-    "indoor_temp": 20.3,
+    "indoor_temp": 20.1,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 5.9,
+    "outdoor_temp": 5.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 329.0,
-    "pressure": 1035.7,
+    "pressure": 1035.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 803.0,
+    "power_usage": 699.0,
     "gas_consumption": 176.408564499166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Amazon sends chills through its workforce with mixed message memo about AI use",
     "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out"
   ],
-  "crew_quote": "\"Is it just me, or is the outside world a bit chillier than my curry last night? I mean, 6°C? What kind of weather is that for a bit of fresh air?\""
+  "crew_quote": "\"Well, at least it's warmer inside than out; if only we could stuff all that cold weather into a curry, I'd solve the world’s problems one mouthful at a time!\""
 }
