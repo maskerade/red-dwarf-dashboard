@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-11-01T20:54:10.579546+00:00",
+  "timestamp": "2026-11-01T21:25:10.942459+00:00",
   "house": {
-    "indoor_temp": 19.8,
+    "indoor_temp": 20.5,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 7.0,
+    "outdoor_temp": 6.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 330.0,
-    "pressure": 1039.8,
+    "wind_direction": 337.0,
+    "pressure": 1040.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 3180.0,
-    "gas_consumption": 179.25854186625,
+    "power_usage": 621.0,
+    "gas_consumption": 179.408488710416,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 10.0,
-      "conditions": "Overcast ",
+      "temp": 8.0,
+      "conditions": "Clear ",
       "forecast": [
         {
           "date": "2026-11-01",
@@ -27,18 +27,18 @@
         {
           "date": "2026-11-02",
           "max": 11.0,
-          "min": 5.0
+          "min": 4.0
         },
         {
           "date": "2026-11-03",
           "max": 11.0,
-          "min": 4.0
+          "min": 6.0
         }
       ]
     },
     "overseal": {
       "temp": 10.0,
-      "conditions": "Patchy rain nearby",
+      "conditions": "Cloudy ",
       "forecast": [
         {
           "date": "2026-11-01",
@@ -58,7 +58,7 @@
       ]
     },
     "llandudno": {
-      "temp": 9.0,
+      "temp": 11.0,
       "conditions": "Patchy rain nearby",
       "forecast": [
         {
@@ -69,12 +69,12 @@
         {
           "date": "2026-11-02",
           "max": 10.0,
-          "min": 2.0
+          "min": 3.0
         },
         {
           "date": "2026-11-03",
-          "max": 10.0,
-          "min": 3.0
+          "max": 11.0,
+          "min": 6.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "Google's AI satellite sends a very expensive haiku to Earth",
     "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s"
   ],
-  "crew_quote": "\"Blimey, it’s so dreary out there, I might as well start brewing a nice curry—at least it’ll spice up my indoor climate from a chilly 19.8 degrees!\""
+  "crew_quote": "\"I'm just saying, with it being a balmy 20.5°C in here, we should really celebrate with a curry while we still can—before all the landline phones disappear and I lose my takeaway number!\""
 }
