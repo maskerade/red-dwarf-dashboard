@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-11-01T05:54:51.295758+00:00",
+  "timestamp": "2026-11-01T06:25:52.201121+00:00",
   "house": {
-    "indoor_temp": 19.0,
+    "indoor_temp": 18.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 4.8,
+    "outdoor_temp": 4.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 329.0,
-    "pressure": 1035.6,
+    "pressure": 1035.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 609.0,
+    "power_usage": 637.0,
     "gas_consumption": 176.408564499166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Amazon sends chills through its workforce with mixed message memo about AI use",
     "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out"
   ],
-  "crew_quote": "\"Well, while it’s a balmy 19 degrees in here, I’d rather be outside in the mist than listening to some fancy AI sending haikus—it’s like a bad curry with no flavor!\""
+  "crew_quote": "\"Fancy a curry, just as soon as we figure out how to get rid of this mist—it's like a bad day in Altrincham, but with more space and less chips!\""
 }
