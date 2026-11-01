@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-11-01T13:40:06.322475+00:00",
+  "timestamp": "2026-11-01T14:11:01.482960+00:00",
   "house": {
-    "indoor_temp": 20.4,
+    "indoor_temp": 20.0,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 10.0,
+    "outdoor_temp": 10.1,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 344.0,
-    "pressure": 1037.1,
+    "pressure": 1037.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 795.0,
+    "power_usage": 730.0,
     "gas_consumption": 178.65853270625,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Google's AI satellite sends a very expensive haiku to Earth",
     "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s"
   ],
-  "crew_quote": "\"Well, it's like the weather out there, innit? Overcast and a bit patchy, just like the quality of our curry last week!\""
+  "crew_quote": "\"You know, with the weather being a bit patchy and all, I reckon it's a great day for a curry. Just not one of those soggy ones, mind!\""
 }
