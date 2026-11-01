@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-11-01T22:58:12.395954+00:00",
+  "timestamp": "2026-11-01T23:29:12.807024+00:00",
   "house": {
-    "indoor_temp": 19.8,
+    "indoor_temp": 19.6,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 4.6,
+    "outdoor_temp": 4.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 341.0,
-    "pressure": 1040.0,
+    "pressure": 1040.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 573.0,
+    "power_usage": 550.0,
     "gas_consumption": 179.408488710416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Google's AI satellite sends a very expensive haiku to Earth",
     "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s"
   ],
-  "crew_quote": "\"With it being all misty in Llandudno, I reckon we should all just sit indoors at 19.8°C and take a moment to ponder life—like why I’ve not had curry in ages!\""
+  "crew_quote": "\"With it all misty in Llandudno, I reckon I'd rather be stuck in here with me curry than face the elements outside. At least in here it's a balmy 19.6°C, just right for a pint!\""
 }
