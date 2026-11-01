@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-11-01T03:50:48.525988+00:00",
+  "timestamp": "2026-11-01T04:21:50.292878+00:00",
   "house": {
-    "indoor_temp": 19.3,
+    "indoor_temp": 19.2,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 4.7,
+    "outdoor_temp": 4.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 329.0,
-    "pressure": 1035.3,
+    "pressure": 1035.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 621.0,
+    "power_usage": 626.0,
     "gas_consumption": 176.408564499166,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 6.0,
-      "conditions": "Clear ",
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-11-01",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 5.0,
-      "conditions": "Clear ",
+      "temp": 6.0,
+      "conditions": "Mist",
       "forecast": [
         {
           "date": "2026-11-01",
@@ -94,5 +94,5 @@
     "Amazon sends chills through its workforce with mixed message memo about AI use",
     "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out"
   ],
-  "crew_quote": "\"What’s the point of a weather report? It’s always the same: grey and drizzly! I tell you, if I wanted to see a gloomy sky, I’d just take a peek at Rimmer’s last relationship.\""
+  "crew_quote": "\"You know, with all this mist and only six degrees, I reckon even my curry would get cold before I could eat it. Cheers for that, weather!\""
 }
