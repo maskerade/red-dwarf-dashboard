@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-11-01T09:31:56.686566+00:00",
+  "timestamp": "2026-11-01T10:02:56.428189+00:00",
   "house": {
-    "indoor_temp": 19.8,
-    "indoor_humidity": 54.0,
-    "outdoor_temp": 6.4,
+    "indoor_temp": 20.8,
+    "indoor_humidity": 53.0,
+    "outdoor_temp": 7.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 328.0,
-    "pressure": 1036.7,
+    "wind_direction": 323.0,
+    "pressure": 1036.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 708.0,
-    "gas_consumption": 177.233580697083,
+    "power_usage": 716.0,
+    "gas_consumption": 177.908483634583,
     "heating_active": false
   },
   "locations": {
@@ -94,5 +94,5 @@
     "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s",
     "Amazon sends chills through its workforce with mixed message memo about AI use"
   ],
-  "crew_quote": "\"With the power usage at 708 kWh, I reckon we could run a small country, or at least enough curry to keep me warm in this misty 8°C chill!\""
+  "crew_quote": "\"Eight degrees in Altrincham, misty as a bad curry hangover—just reminds me I should've packed my umbrella and some chicken vindaloo!\""
 }
