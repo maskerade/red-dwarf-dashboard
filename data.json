@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-11-01T02:48:47.786183+00:00",
+  "timestamp": "2026-11-01T03:19:48.574295+00:00",
   "house": {
-    "indoor_temp": 19.5,
+    "indoor_temp": 19.4,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 5.9,
+    "outdoor_temp": 5.8,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 328.0,
-    "pressure": 1035.6,
+    "pressure": 1035.4,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 635.0,
+    "power_usage": 651.0,
     "gas_consumption": 176.408564499166,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Amazon sends chills through its workforce with mixed message memo about AI use",
     "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out"
   ],
-  "crew_quote": "\"Well, while it’s a chilly 6 degrees out there, I’d rather be cozy at 19.5, planning my next curry feast and not contemplating Google’s poetic nonsense!\""
+  "crew_quote": "\"Six degrees and still clearer than my last attempt at fixing the ship—there's a haiku somewhere in that, but I'm too busy planning my next curry!\""
 }
