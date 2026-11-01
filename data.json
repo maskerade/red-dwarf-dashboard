@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-11-01T17:48:07.507050+00:00",
+  "timestamp": "2026-11-01T18:19:08.183844+00:00",
   "house": {
-    "indoor_temp": 19.4,
+    "indoor_temp": 19.3,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 10.1,
-    "outdoor_humidity": 99.0,
+    "outdoor_temp": 9.5,
+    "outdoor_humidity": 98.0,
     "wind_speed": 0.0,
-    "wind_direction": 347.0,
-    "pressure": 1038.3,
+    "wind_direction": 353.0,
+    "pressure": 1038.9,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 694.0,
+    "power_usage": 651.0,
     "gas_consumption": 178.65853270625,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 10.0,
-      "conditions": "Overcast ",
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-11-01",
@@ -37,8 +37,8 @@
       ]
     },
     "overseal": {
-      "temp": 10.0,
-      "conditions": "Overcast ",
+      "temp": 11.0,
+      "conditions": "Patchy rain nearby",
       "forecast": [
         {
           "date": "2026-11-01",
@@ -58,8 +58,8 @@
       ]
     },
     "llandudno": {
-      "temp": 9.0,
-      "conditions": "Sunny",
+      "temp": 10.0,
+      "conditions": "Light drizzle",
       "forecast": [
         {
           "date": "2026-11-01",
@@ -94,5 +94,5 @@
     "Google's AI satellite sends a very expensive haiku to Earth",
     "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s"
   ],
-  "crew_quote": "\"Blimey, it’s ten degrees and overcast again! I’d rather be in sunny Llandudno, having a curry—at least the weather there doesn’t need a power nap!\""
+  "crew_quote": "\"Looks like it'll be lighter on the rain front today—might be safe to venture out for a curry, unless you fancy a dip in the indoor humidity!\""
 }
