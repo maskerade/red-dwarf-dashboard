@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-11-01T11:04:57.446891+00:00",
+  "timestamp": "2026-11-01T11:35:58.177784+00:00",
   "house": {
-    "indoor_temp": 20.1,
-    "indoor_humidity": 54.0,
-    "outdoor_temp": 8.8,
+    "indoor_temp": 19.8,
+    "indoor_humidity": 55.0,
+    "outdoor_temp": 9.2,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 323.0,
-    "pressure": 1037.2,
+    "pressure": 1037.1,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 2023.0,
+    "power_usage": 699.0,
     "gas_consumption": 177.908483634583,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s",
     "Amazon sends chills through its workforce with mixed message memo about AI use"
   ],
-  "crew_quote": "\"With this lovely 20.1°C indoors, why go out in patchy rain when I could be enjoying a curry and my favorite episodes of 'Dancing on Ice'? Not that I'd want to slip, you know!\""
+  "crew_quote": "\"Ten degrees and patchy rain? Sounds like the perfect weather for a curry binge and a good old-fashioned moan about my landline. What’s next, a satellite haiku? Ugh!\""
 }
