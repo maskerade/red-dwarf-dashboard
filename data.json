@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-11-01T09:01:21.877685+00:00",
+  "timestamp": "2026-11-01T09:31:56.686566+00:00",
   "house": {
-    "indoor_temp": 18.6,
-    "indoor_humidity": 55.0,
-    "outdoor_temp": 5.0,
+    "indoor_temp": 19.8,
+    "indoor_humidity": 54.0,
+    "outdoor_temp": 6.4,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 328.0,
-    "pressure": 1036.5,
+    "pressure": 1036.7,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 699.0,
-    "gas_consumption": 176.458565336666,
+    "power_usage": 708.0,
+    "gas_consumption": 177.233580697083,
     "heating_active": false
   },
   "locations": {
@@ -89,10 +89,10 @@
   },
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Landline phones will switch off across Britland in 100 days, no extensions – Openreach",
     "Google's AI satellite sends a very expensive haiku to Earth",
     "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s",
-    "Amazon sends chills through its workforce with mixed message memo about AI use",
-    "Chocolate Caterpillar or Chocolate Teapot? Top up the disk space for Windows 10 to find out"
+    "Amazon sends chills through its workforce with mixed message memo about AI use"
   ],
-  "crew_quote": "\"Oi, the weather's so misty in Altrincham, you'd think the universe was brewing up a curry! Just don't get any of it on me, I look too fabulous today.\""
+  "crew_quote": "\"With the power usage at 708 kWh, I reckon we could run a small country, or at least enough curry to keep me warm in this misty 8°C chill!\""
 }
