@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-11-02T01:02:19.791529+00:00",
+  "timestamp": "2026-11-02T01:33:33.551888+00:00",
   "house": {
-    "indoor_temp": 19.5,
+    "indoor_temp": 19.3,
     "indoor_humidity": 56.0,
-    "outdoor_temp": 3.8,
+    "outdoor_temp": 3.6,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 341.0,
-    "pressure": 1040.6,
+    "pressure": 1041.0,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 458.0,
+    "power_usage": 463.0,
     "gas_consumption": 179.408488710416,
     "heating_active": false
   },
@@ -94,5 +94,5 @@
     "Landline phones will switch off across Britland in 100 days, no extensions – Openreach",
     "Google's AI satellite sends a very expensive haiku to Earth"
   ],
-  "crew_quote": "\"You know, in this weather, I could really go for a nice curry, but instead I’m stuck here in a freezing ship with a power usage that makes me want to cry!\""
+  "crew_quote": "\"I thought I'd feel the cold of space, but it turns out our ship's a cozy 19.3°C—perfect for a curry night, not so much for a foggy Llandudno adventure!\""
 }
