@@ -1,98 +1,40 @@
 {
-  "timestamp": "2026-11-01T23:29:12.807024+00:00",
+  "timestamp": "2026-11-02T00:00:55.918471+00:00",
   "house": {
     "indoor_temp": 19.6,
     "indoor_humidity": 57.0,
-    "outdoor_temp": 4.8,
+    "outdoor_temp": 4.5,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 341.0,
     "pressure": 1040.3,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 550.0,
+    "power_usage": 595.0,
     "gas_consumption": 179.408488710416,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
-      "temp": 6.0,
-      "conditions": "Clear ",
-      "forecast": [
-        {
-          "date": "2026-11-01",
-          "max": 11.0,
-          "min": 5.0
-        },
-        {
-          "date": "2026-11-02",
-          "max": 11.0,
-          "min": 4.0
-        },
-        {
-          "date": "2026-11-03",
-          "max": 11.0,
-          "min": 6.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "overseal": {
-      "temp": 9.0,
-      "conditions": "Cloudy ",
-      "forecast": [
-        {
-          "date": "2026-11-01",
-          "max": 13.0,
-          "min": 5.0
-        },
-        {
-          "date": "2026-11-02",
-          "max": 11.0,
-          "min": 5.0
-        },
-        {
-          "date": "2026-11-03",
-          "max": 11.0,
-          "min": 5.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     },
     "llandudno": {
-      "temp": 10.0,
-      "conditions": "Mist",
-      "forecast": [
-        {
-          "date": "2026-11-01",
-          "max": 12.0,
-          "min": 5.0
-        },
-        {
-          "date": "2026-11-02",
-          "max": 10.0,
-          "min": 3.0
-        },
-        {
-          "date": "2026-11-03",
-          "max": 11.0,
-          "min": 6.0
-        }
-      ]
+      "temp": null,
+      "conditions": null
     }
   },
-  "astronomy": {
-    "sunrise": "07:08 AM",
-    "sunset": "04:37 PM",
-    "moon_phase": "Last Quarter",
-    "moon_illumination": "60",
-    "moonrise": "10:29 PM",
-    "moonset": "02:00 PM"
-  },
+  "astronomy": {},
   "metrolink": "NO TRAMS ON ALTRINCHAM LINE:Express bus to Piccadilly from stand B (7am-7pm) OR use 245 247 249 263 281 and 285/286 Bee Network buses or Northern trains (hourly). See beenetwork.com for info",
   "headlines": [
+    "Linus Torvalds says Linux kernel is out of ‘stabilization phase’ and using ‘much healthier model’ for AI contributions",
     "'Mother of all editors' Emacs is 50",
     "Landline phones will switch off across Britland in 100 days, no extensions – Openreach",
-    "Google's AI satellite sends a very expensive haiku to Earth",
-    "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s"
+    "Google's AI satellite sends a very expensive haiku to Earth"
   ],
-  "crew_quote": "\"With it all misty in Llandudno, I reckon I'd rather be stuck in here with me curry than face the elements outside. At least in here it's a balmy 19.6°C, just right for a pint!\""
+  "crew_quote": "\"Oi, if Emacs is celebrating its 50th, I reckon it’s about time someone threw it a curry party—better than this dry indoor air, eh?\""
 }
