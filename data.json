@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-02T03:37:17.472486+00:00",
+  "timestamp": "2026-11-02T04:08:17.852143+00:00",
   "house": {
-    "indoor_temp": 19.0,
+    "indoor_temp": 18.9,
     "indoor_humidity": 55.0,
-    "outdoor_temp": 3.5,
+    "outdoor_temp": 3.0,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
     "wind_direction": 340.0,
@@ -94,5 +94,5 @@
     "'Mother of all editors' Emacs is 50",
     "Landline phones will switch off across Britland in 100 days, no extensions – Openreach"
   ],
-  "crew_quote": "\"Blimey, at 19°C in here, it’s warmer than a curry on a Friday night, but outside it’s still only a nippy six; wish they’d sort out those customs, eh?\""
+  "crew_quote": "\"I'm just saying, with temperatures hovering around six degrees, a good curry might warm me up better than any fancy Linux update!\""
 }
