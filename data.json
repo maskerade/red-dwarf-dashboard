@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-11-02T07:45:41.386836+00:00",
+  "timestamp": "2026-11-02T08:16:25.624847+00:00",
   "house": {
     "indoor_temp": 18.4,
     "indoor_humidity": 54.0,
-    "outdoor_temp": 2.5,
+    "outdoor_temp": 3.3,
     "outdoor_humidity": 99.0,
     "wind_speed": 0.0,
-    "wind_direction": 340.0,
-    "pressure": 1042.1,
+    "wind_direction": 341.0,
+    "pressure": 1042.5,
     "rain_today": 0.0,
     "uv_index": 0.0,
-    "power_usage": 373.0,
-    "gas_consumption": 179.408488710416,
+    "power_usage": 500.0,
+    "gas_consumption": 179.683491944166,
     "heating_active": false
   },
   "locations": {
     "altrincham": {
       "temp": 5.0,
-      "conditions": "Clear ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-11-02",
@@ -32,34 +32,34 @@
         {
           "date": "2026-11-04",
           "max": 12.0,
-          "min": 6.0
+          "min": 7.0
         }
       ]
     },
     "overseal": {
       "temp": 6.0,
-      "conditions": "Clear ",
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-11-02",
-          "max": 11.0,
-          "min": 6.0
+          "max": 12.0,
+          "min": 5.0
         },
         {
           "date": "2026-11-03",
-          "max": 12.0,
+          "max": 11.0,
           "min": 6.0
         },
         {
           "date": "2026-11-04",
           "max": 12.0,
-          "min": 6.0
+          "min": 5.0
         }
       ]
     },
     "llandudno": {
-      "temp": 6.0,
-      "conditions": "Clear ",
+      "temp": 4.0,
+      "conditions": "Sunny",
       "forecast": [
         {
           "date": "2026-11-02",
@@ -74,7 +74,7 @@
         {
           "date": "2026-11-04",
           "max": 11.0,
-          "min": 3.0
+          "min": 4.0
         }
       ]
     }
@@ -94,5 +94,5 @@
     "India floats AI plan under which ‘The model travels to the data, rather than the data travelling to the model’",
     "Google says Asian advertisers spending less due to Europe's customs changes"
   ],
-  "crew_quote": "\"With the weather as clear as that, it'd be a crime not to have a curry picnic outside—shame our power usage is already in the red like Rimmer's ego!\""
+  "crew_quote": "\"I'm not saying the weather's perfect, but with a crisp 5 degrees and all this sunshine, it's great curry weather! Just need to keep the power down so we can heat it up!\""
 }
